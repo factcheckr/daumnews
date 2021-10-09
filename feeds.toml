@@ -7,3 +7,23 @@ linkSelector = "//div[2]/strong/a"
 contentSelector = "//div[2]/strong/span[@class='info_news']"
 waitUntil = "networkidle"
 onFail = "stale"
+
+[ranking_kkomkkom]
+title = "다음 뉴스 ─ 랭킹 ─ 열독률 높은"
+url = "https://news.daum.net/ranking/kkomkkom"
+entrySelector = "//ul[@class='list_news2']/li[@data-tiara-layer='news_list']"
+titleSelector = "//div[2]/strong/a"
+linkSelector = "//div[2]/strong/a"
+contentSelector = "//div[2]/strong/span[@class='info_news']"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[ranking_bestreply]
+title = "다음 뉴스 ─ 랭킹 ─ 댓글 많은"
+url = "https://news.daum.net/ranking/bestreply"
+entrySelector = "//ul[@class='list_news2']/li[@data-tiara-layer='news_list']"
+titleSelector = "//div[2]/strong/a"
+linkSelector = "//div[2]/strong/a"
+contentSelector = "//div[2]/strong/span[@class='info_news']"
+waitUntil = "networkidle"
+onFail = "stale"
