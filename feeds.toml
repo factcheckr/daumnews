@@ -22,10 +22,34 @@ titleSelector = "//div[2]/strong/a"
 linkSelector = "//div[2]/strong/a"
 contentSelector = "//div[2]/strong/span[@class='info_news']"
 
-[ranking_age]
+[ranking_age_20s_female]
 title = "다음 뉴스 ─ 랭킹 ─ 연령별 ─ 20대이하 여성"
 url = "https://news.daum.net/ranking/age"
 entrySelector = "//html/body/div[2]/div[3]/div/div[1]/div[2]/div[1]/div[1]/ol/li"
+titleSelector = "//a[@class='link_txt']"
+linkSelector = "//a[@class='link_txt']"
+contentSelector = "//span[@class='info_news']"
+
+[ranking_age_20s_male]
+title = "다음 뉴스 ─ 랭킹 ─ 연령별 ─ 20대이하 남성"
+url = "https://news.daum.net/ranking/age"
+entrySelector = "//html/body/div[2]/div[3]/div/div[1]/div[2]/div[1]/div[2]/ol/li"
+titleSelector = "//a[@class='link_txt']"
+linkSelector = "//a[@class='link_txt']"
+contentSelector = "//span[@class='info_news']"
+
+[ranking_age_30s_female]
+title = "다음 뉴스 ─ 랭킹 ─ 연령별 ─ 30대 여성"
+url = "https://news.daum.net/ranking/age"
+entrySelector = "//html/body/div[2]/div[3]/div/div[1]/div[2]/div[2]/div[1]/ol/li"
+titleSelector = "//a[@class='link_txt']"
+linkSelector = "//a[@class='link_txt']"
+contentSelector = "//span[@class='info_news']"
+
+[ranking_age_30s_male]
+title = "다음 뉴스 ─ 랭킹 ─ 연령별 ─ 30대 남성"
+url = "https://news.daum.net/ranking/age"
+entrySelector = "//html/body/div[2]/div[3]/div/div[1]/div[2]/div[2]/div[2]/ol/li"
 titleSelector = "//a[@class='link_txt']"
 linkSelector = "//a[@class='link_txt']"
 contentSelector = "//span[@class='info_news']"
