@@ -54,7 +54,6 @@ titleSelector = "//a[@class='link_txt']"
 linkSelector = "//a[@class='link_txt']"
 contentSelector = "//span[@class='info_news']"
 
-
 [ranking_age_40s_female]
 title = "다음 뉴스 ─ 랭킹 ─ 연령별 ─ 40대 여성"
 url = "https://news.daum.net/ranking/age"
