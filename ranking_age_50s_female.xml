@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 50대이상 여성</title>
-    <updated>2021-10-10T11:02:23.522Z</updated>
+    <updated>2021-10-10T12:02:40.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20211010193705320"/>
         <updated>2021-10-10T11:02:18.235Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재명, 민주당 대선후보로 선출..득표율 50.29%, 결선 없이 본선행]]></title>
+        <id>https://v.daum.net/v/20211010182602916</id>
+        <link href="https://v.daum.net/v/20211010182602916"/>
+        <updated>2021-10-10T12:02:34.784Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["하루 만에 수천만원 날렸습니다"..도박개미들 '비명']]></title>
+        <id>https://v.daum.net/v/20211010173002072</id>
+        <link href="https://v.daum.net/v/20211010173002072"/>
+        <updated>2021-10-10T12:02:34.786Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["애플도 놀랐다?" 삼성 무시하더니, 아이폰 폴더블 빨라지나]]></title>
@@ -25,19 +39,5 @@
         <link href="https://v.daum.net/v/20211010175805440"/>
         <updated>2021-10-10T11:02:18.238Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이낙연, 승복 질문에 무답.."책임있는 마음으로 기다려달라"(종합)]]></title>
-        <id>https://v.daum.net/v/20211010191405870</id>
-        <link href="https://v.daum.net/v/20211010191405870"/>
-        <updated>2021-10-10T11:02:18.240Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무엇이 부족했을까..전문가들이 본 이낙연의 패인은]]></title>
-        <id>https://v.daum.net/v/20211010184203145</id>
-        <link href="https://v.daum.net/v/20211010184203145"/>
-        <updated>2021-10-10T11:02:18.242Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
     </entry>
 </feed>
