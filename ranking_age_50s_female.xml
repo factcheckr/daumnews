@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 50대이상 여성</title>
-    <updated>2021-10-12T01:54:37.133Z</updated>
+    <updated>2021-10-12T02:23:22.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['장제원 아들' 래퍼 장용준 영장심사 포기.. "죗값 달게 받겠다"]]></title>
+        <id>https://v.daum.net/v/20211012103803700</id>
+        <link href="https://v.daum.net/v/20211012103803700"/>
+        <updated>2021-10-12T02:23:17.485Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[송영길 "이의제기, 내일 결론..이낙연, 정치적으로 승복해야"]]></title>
         <id>https://v.daum.net/v/20211012082523833</id>
         <link href="https://v.daum.net/v/20211012082523833"/>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20211012081148565"/>
         <updated>2021-10-12T01:54:32.083Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱가포르 女화장실 '몰카' 설치한 한국인..북미회담 통역사였다]]></title>
-        <id>https://v.daum.net/v/20211012064749485</id>
-        <link href="https://v.daum.net/v/20211012064749485"/>
-        <updated>2021-10-12T01:54:32.085Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
