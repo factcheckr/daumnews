@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/bestreply</id>
     <title>다음 뉴스 ─ 랭킹 ─ 댓글 많은</title>
-    <updated>2021-10-13T19:02:32.243Z</updated>
+    <updated>2021-10-13T20:03:02.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] "25만원 이미 다 썼는데"..국민지원금 토해내라는 정부]]></title>
-        <id>https://news.v.daum.net/v/20211013173915585</id>
-        <link href="https://news.v.daum.net/v/20211013173915585"/>
-        <updated>2021-10-13T11:01:48.980Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[유승민 "文 '대장동 철저 수사' 뜻 뭐냐"..윤석열 "해석 잘했으면 쫓겨났겠나"]]></title>
         <id>https://news.v.daum.net/v/20211013205103711</id>
         <link href="https://news.v.daum.net/v/20211013205103711"/>
@@ -48,18 +41,25 @@
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["백신효과 확실하네"..코로나19 확진자, '10명 중 9명'이 백신 미접종자]]></title>
-        <id>https://news.v.daum.net/v/20211013204005571</id>
-        <link href="https://news.v.daum.net/v/20211013204005571"/>
-        <updated>2021-10-13T13:12:12.961Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[국민대 교수회, '김건희 논문' 의견표명 투표 결국 '부결']]></title>
         <id>https://news.v.daum.net/v/20211013234310656</id>
         <link href="https://news.v.daum.net/v/20211013234310656"/>
         <updated>2021-10-13T15:03:06.342Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] "25만원 이미 다 썼는데"..국민지원금 토해내라는 정부]]></title>
+        <id>https://news.v.daum.net/v/20211013173915585</id>
+        <link href="https://news.v.daum.net/v/20211013173915585"/>
+        <updated>2021-10-13T11:01:48.980Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["백신효과 확실하네"..코로나19 확진자, '10명 중 9명'이 백신 미접종자]]></title>
+        <id>https://news.v.daum.net/v/20211013204005571</id>
+        <link href="https://news.v.daum.net/v/20211013204005571"/>
+        <updated>2021-10-13T13:12:12.961Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[거칠어진 윤석열 .."이런 정신머리면 우리당 없어지는 게 낫다"]]></title>
@@ -74,13 +74,6 @@
         <link href="https://news.v.daum.net/v/20211013194604668"/>
         <updated>2021-10-13T12:01:50.252Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["가방 구매한 9살 어린이, 다시 돌아와 100만원 훔쳐갔습니다"]]></title>
-        <id>https://news.v.daum.net/v/20211013180601546</id>
-        <link href="https://news.v.daum.net/v/20211013180601546"/>
-        <updated>2021-10-13T10:01:39.782Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뉴있저] "퇴직금 50억은 뇌물"..'포르쉐' 타고 출석 곽상도 아들 아파트 가보니]]></title>
@@ -104,13 +97,6 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대통령 · 당 원로까지 압박.."그래야 돌아올 수 있다"]]></title>
-        <id>https://news.v.daum.net/v/20211013203010423</id>
-        <link href="https://news.v.daum.net/v/20211013203010423"/>
-        <updated>2021-10-13T13:12:12.979Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[빌려준 옷 바닥에 끌었다고..계단서 여자친구 폭행해 숨지게 한 男, 징역 4년]]></title>
         <id>https://news.v.daum.net/v/20211013193806545</id>
         <link href="https://news.v.daum.net/v/20211013193806545"/>
@@ -118,18 +104,11 @@
         <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이준석 "이재명 선출 땡큐..무능이냐 부패냐 둘중 하나는 걸렸다"]]></title>
-        <id>https://news.v.daum.net/v/20211013190328936</id>
-        <link href="https://news.v.daum.net/v/20211013190328936"/>
-        <updated>2021-10-13T11:01:49.018Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤 "이런 정신머리부터 바꿔야" 홍·유 직격..'2대2' 토론]]></title>
-        <id>https://news.v.daum.net/v/20211013200112963</id>
-        <link href="https://news.v.daum.net/v/20211013200112963"/>
-        <updated>2021-10-13T13:12:12.978Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
+        <title type="html"><![CDATA[윤석열 "이런 정신머리, 바꾸지 않으면 黨 없어지는게 맞다"]]></title>
+        <id>https://news.v.daum.net/v/20211014001827026</id>
+        <link href="https://news.v.daum.net/v/20211014001827026"/>
+        <updated>2021-10-13T16:02:09.592Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[민주당 '원팀' 걸림돌 된 김어준 등 '스피커'들]]></title>
@@ -139,11 +118,11 @@
         <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤석열 "이런 정신머리, 바꾸지 않으면 黨 없어지는게 맞다"]]></title>
-        <id>https://news.v.daum.net/v/20211014001827026</id>
-        <link href="https://news.v.daum.net/v/20211014001827026"/>
-        <updated>2021-10-13T16:02:09.592Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
+        <title type="html"><![CDATA[윤 "이런 정신머리부터 바꿔야" 홍·유 직격..'2대2' 토론]]></title>
+        <id>https://news.v.daum.net/v/20211013200112963</id>
+        <link href="https://news.v.daum.net/v/20211013200112963"/>
+        <updated>2021-10-13T13:12:12.978Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[남욱 "권순일이 화천대유에? 나도 뜨악했다..누가봐도 이상해"]]></title>
@@ -167,13 +146,6 @@
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[진중권 "승복한 이낙연 마음 찢어질 것..이재명 낙마 시 플랜B"]]></title>
-        <id>https://news.v.daum.net/v/20211013213516412</id>
-        <link href="https://news.v.daum.net/v/20211013213516412"/>
-        <updated>2021-10-13T14:01:55.762Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[조국 "이낙연 승복으로 경선 끝..반대 후보 조롱 글 내려야"]]></title>
         <id>https://news.v.daum.net/v/20211014005148156</id>
         <link href="https://news.v.daum.net/v/20211014005148156"/>
@@ -181,18 +153,11 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[승복 선언한 이낙연에 고민정 "정치란 게 참 잔인..수고하셨다"]]></title>
-        <id>https://news.v.daum.net/v/20211013225831351</id>
-        <link href="https://news.v.daum.net/v/20211013225831351"/>
-        <updated>2021-10-13T15:03:06.310Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["배달비 아끼려 포장하는건데, 포장비 2000원 내랍니다"]]></title>
-        <id>https://news.v.daum.net/v/20211013203242471</id>
-        <link href="https://news.v.daum.net/v/20211013203242471"/>
-        <updated>2021-10-13T13:12:12.989Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
+        <title type="html"><![CDATA[진중권 "승복한 이낙연 마음 찢어질 것..이재명 낙마 시 플랜B"]]></title>
+        <id>https://news.v.daum.net/v/20211013213516412</id>
+        <link href="https://news.v.daum.net/v/20211013213516412"/>
+        <updated>2021-10-13T14:01:55.762Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["페인트칠만 남았는데 부수란 말이냐" 입주예정 3400가구 울분]]></title>
@@ -202,18 +167,18 @@
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["배달비 아끼려 포장하는건데, 포장비 2000원 내랍니다"]]></title>
+        <id>https://news.v.daum.net/v/20211013203242471</id>
+        <link href="https://news.v.daum.net/v/20211013203242471"/>
+        <updated>2021-10-13T13:12:12.989Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[밀착카메라] 밤낮 없이 '쿵쿵쿵'..절구 내리쳐도 층간소음 미달]]></title>
         <id>https://news.v.daum.net/v/20211013211010018</id>
         <link href="https://news.v.daum.net/v/20211013211010018"/>
         <updated>2021-10-13T15:03:06.341Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11살 막내 남겨두고..'모더나 접종' 43살 가장, 피 토하고 숨졌다]]></title>
-        <id>https://news.v.daum.net/v/20211013204903681</id>
-        <link href="https://news.v.daum.net/v/20211013204903681"/>
-        <updated>2021-10-13T14:01:55.761Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 갤럭시북만 쓰는 삼성화재 설계사들.."성과급 대신 재고 떨이"]]></title>
@@ -223,25 +188,18 @@
         <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[11살 막내 남겨두고..'모더나 접종' 43살 가장, 피 토하고 숨졌다]]></title>
+        <id>https://news.v.daum.net/v/20211013204903681</id>
+        <link href="https://news.v.daum.net/v/20211013204903681"/>
+        <updated>2021-10-13T14:01:55.761Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[영상] 이재명, 국민의힘 항의 방문에 "시아버지가 며느리 부엌살림 뒤지는 것"]]></title>
         <id>https://news.v.daum.net/v/20211013231907494</id>
         <link href="https://news.v.daum.net/v/20211013231907494"/>
         <updated>2021-10-13T15:03:06.342Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아들 집 방문한 할아버지가 왜?..1살·3살 손자와 투신, 모두 숨져]]></title>
-        <id>https://news.v.daum.net/v/20211013200503002</id>
-        <link href="https://news.v.daum.net/v/20211013200503002"/>
-        <updated>2021-10-13T13:12:12.987Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준석 "안철수 출마하겠지만, 끝까지 안 뛸 것..'이중대' 느낌"]]></title>
-        <id>https://news.v.daum.net/v/20211013222901119</id>
-        <link href="https://news.v.daum.net/v/20211013222901119"/>
-        <updated>2021-10-13T15:03:06.318Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[출장마사지 불렀다가..홀린듯 3220만원 뜯긴 40대, 무슨 일]]></title>
@@ -251,11 +209,25 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[이준석 "안철수 출마하겠지만, 끝까지 안 뛸 것..'이중대' 느낌"]]></title>
+        <id>https://news.v.daum.net/v/20211013222901119</id>
+        <link href="https://news.v.daum.net/v/20211013222901119"/>
+        <updated>2021-10-13T15:03:06.318Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이낙연 측 설훈 "민주당 승리 위해 소임 다하겠다"..'원팀' 구성에 파란불?]]></title>
         <id>https://news.v.daum.net/v/20211013232916568</id>
         <link href="https://news.v.daum.net/v/20211013232916568"/>
         <updated>2021-10-13T17:10:24.688Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로간다] '코로나와 공존' 선택한 영국..마스크 벗고 일상으로]]></title>
+        <id>https://news.v.daum.net/v/20211013195212774</id>
+        <link href="https://news.v.daum.net/v/20211013195212774"/>
+        <updated>2021-10-13T20:02:20.747Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국민의힘 2차 토론회, 다시 나온 '천공스승'..윤석열·원희룡 '깐부' 현실화?]]></title>
@@ -272,13 +244,6 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["소년공 흙수저" 尹과 비교한 이재명 사진, 4년 전 컬러였다]]></title>
-        <id>https://news.v.daum.net/v/20211013233439604</id>
-        <link href="https://news.v.daum.net/v/20211013233439604"/>
-        <updated>2021-10-13T16:02:09.593Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독] 한우 갈비탕인 줄 알았더니..젖소가 '국산 소갈비'로 둔갑]]></title>
         <id>https://news.v.daum.net/v/20211013200916072</id>
         <link href="https://news.v.daum.net/v/20211013200916072"/>
@@ -293,25 +258,18 @@
         <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["투기 공화국 용인 못해" 무주택자들 촛불 들었다]]></title>
-        <id>https://news.v.daum.net/v/20211013221819026</id>
-        <link href="https://news.v.daum.net/v/20211013221819026"/>
-        <updated>2021-10-13T17:10:24.692Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
+        <title type="html"><![CDATA[[단독]"이재명 前선대본부장, 깡패 동원 '백현동 개발' 지분 요구"]]></title>
+        <id>https://news.v.daum.net/v/20211014030124649</id>
+        <link href="https://news.v.daum.net/v/20211014030124649"/>
+        <updated>2021-10-13T19:01:58.782Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 남자 중학생이 여자 초등생 폭행.."코뼈와 앞니 부러지고 정신과 치료"]]></title>
-        <id>https://news.v.daum.net/v/20211013223412182</id>
-        <link href="https://news.v.daum.net/v/20211013223412182"/>
-        <updated>2021-10-13T18:01:56.356Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이낙연, 경선 승복..여당 논란 마침표]]></title>
-        <id>https://news.v.daum.net/v/20211013210548938</id>
-        <link href="https://news.v.daum.net/v/20211013210548938"/>
-        <updated>2021-10-13T19:01:58.765Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
+        <title type="html"><![CDATA[이재명 "김만배 아느냐" 질문에 침묵.. 金은 "나를 왜 모르겠어"]]></title>
+        <id>https://news.v.daum.net/v/20211014030217707</id>
+        <link href="https://news.v.daum.net/v/20211014030217707"/>
+        <updated>2021-10-13T20:02:20.761Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명 '일산대교 공익처분' 추진 놓고 국감장에서도 공방]]></title>
@@ -319,6 +277,13 @@
         <link href="https://news.v.daum.net/v/20211014002950073"/>
         <updated>2021-10-13T18:01:56.358Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 남자 중학생이 여자 초등생 폭행.."코뼈와 앞니 부러지고 정신과 치료"]]></title>
+        <id>https://news.v.daum.net/v/20211013223412182</id>
+        <link href="https://news.v.daum.net/v/20211013223412182"/>
+        <updated>2021-10-13T18:01:56.356Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[호랑이 5마리에 둘러싸인 레트리버의 최후..결말은?]]></title>
@@ -342,6 +307,20 @@
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독]"김정은, 최근 5kg이상 추가 감량.. 올초 140kg서 총 20kg 뺀듯"]]></title>
+        <id>https://news.v.daum.net/v/20211014030158686</id>
+        <link href="https://news.v.daum.net/v/20211014030158686"/>
+        <updated>2021-10-13T20:02:20.768Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["이력서 찢고 펑펑 울어"..이낙연 결과승복에 숨은 '키맨' 있다]]></title>
+        <id>https://news.v.daum.net/v/20211014043001228</id>
+        <link href="https://news.v.daum.net/v/20211014043001228"/>
+        <updated>2021-10-13T20:02:20.771Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[尹 "민주당 손잡고 날 공격, 정신머리 안바꾸면 당 없어져야"]]></title>
         <id>https://news.v.daum.net/v/20211014013039316</id>
         <link href="https://news.v.daum.net/v/20211014013039316"/>
@@ -349,10 +328,31 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]"이재명 前선대본부장, 깡패 동원 '백현동 개발' 지분 요구"]]></title>
-        <id>https://news.v.daum.net/v/20211014030124649</id>
-        <link href="https://news.v.daum.net/v/20211014030124649"/>
-        <updated>2021-10-13T19:01:58.782Z</updated>
+        <title type="html"><![CDATA[푸틴, 中은 대만에 "무력 사용할 필요 없어"]]></title>
+        <id>https://news.v.daum.net/v/20211014011002257</id>
+        <link href="https://news.v.daum.net/v/20211014011002257"/>
+        <updated>2021-10-13T20:02:20.777Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["평생 운 다썼다"..잠자는 도중 머리 옆으로 '쿵' 떨어진 운석]]></title>
+        <id>https://news.v.daum.net/v/20211014030018622</id>
+        <link href="https://news.v.daum.net/v/20211014030018622"/>
+        <updated>2021-10-13T20:02:20.778Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이낙연 지지자 일부 계속 반발 "오늘 가처분신청 낼것"]]></title>
+        <id>https://news.v.daum.net/v/20211014030132656</id>
+        <link href="https://news.v.daum.net/v/20211014030132656"/>
+        <updated>2021-10-13T20:02:20.778Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[검찰, 20일째 성남시청 '노터치'.. '그분' 수사 한발짝도 못나가]]></title>
+        <id>https://news.v.daum.net/v/20211014030031625</id>
+        <link href="https://news.v.daum.net/v/20211014030031625"/>
+        <updated>2021-10-13T20:02:20.779Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
