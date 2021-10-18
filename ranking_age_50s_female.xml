@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 50대이상 여성</title>
-    <updated>2021-10-18T19:02:26.116Z</updated>
+    <updated>2021-10-18T20:02:01.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["생김치 속 기름범벅 구운김치" 반찬 재탕 부산 갈빗집 최후]]></title>
+        <id>https://v.daum.net/v/20211018225337815</id>
+        <link href="https://v.daum.net/v/20211018225337815"/>
+        <updated>2021-10-18T20:01:56.953Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네덜란드 광장서 퍼진 "무궁화 꽃이 피었습니다" [포착]]]></title>
         <id>https://v.daum.net/v/20211019001047439</id>
@@ -20,24 +27,17 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오징어게임이 느닷없이 中 때렸다..유엔이 주목한 이 장면]]></title>
-        <id>https://v.daum.net/v/20211018211937882</id>
-        <link href="https://v.daum.net/v/20211018211937882"/>
-        <updated>2021-10-18T18:02:46.574Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["밤 12시까지 허용" 발표했다가 이틀 만에 번복]]></title>
-        <id>https://v.daum.net/v/20211018220230390</id>
-        <link href="https://v.daum.net/v/20211018220230390"/>
-        <updated>2021-10-18T19:02:21.872Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[구속될 수 있는데, 남욱 귀국 미스터리..'독박' 방지? '그분' 명령?]]></title>
         <id>https://v.daum.net/v/20211018231259952</id>
         <link href="https://v.daum.net/v/20211018231259952"/>
         <updated>2021-10-18T19:02:21.874Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오징어게임이 느닷없이 中 때렸다..유엔이 주목한 이 장면]]></title>
+        <id>https://v.daum.net/v/20211018211937882</id>
+        <link href="https://v.daum.net/v/20211018211937882"/>
+        <updated>2021-10-18T18:02:46.574Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
