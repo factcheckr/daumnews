@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 50대이상 여성</title>
-    <updated>2021-10-20T17:12:10.311Z</updated>
+    <updated>2021-10-20T18:02:13.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[JTBC]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["왜 마스크 안쓰냐" 경찰 지적했더니, 멱살 잡혀 끌려갔다]]></title>
+        <id>https://v.daum.net/v/20211021010546634</id>
+        <link href="https://v.daum.net/v/20211021010546634"/>
+        <updated>2021-10-20T18:02:09.023Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["마스크 다시 써야"..섣부른 '위드코로나' 비판한 英의사들]]></title>
         <id>https://v.daum.net/v/20211020223025229</id>
         <link href="https://v.daum.net/v/20211020223025229"/>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20211020225449444"/>
         <updated>2021-10-20T16:02:31.031Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이 견과류' 혈압 낮추고 혈액도 맑게 해]]></title>
-        <id>https://v.daum.net/v/20211020154033227</id>
-        <link href="https://v.daum.net/v/20211020154033227"/>
-        <updated>2021-10-20T15:02:33.053Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
