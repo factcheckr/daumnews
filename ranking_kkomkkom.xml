@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/kkomkkom</id>
     <title>다음 뉴스 ─ 랭킹 ─ 열독률 높은</title>
-    <updated>2021-10-20T06:02:08.222Z</updated>
+    <updated>2021-10-20T07:02:15.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[직진 2차로에서 좌회전 못하게 하는 묘수 "올드보이 이후 최고 반전"[영상]]]></title>
-        <id>https://v.daum.net/v/20211020122502401</id>
-        <link href="https://v.daum.net/v/20211020122502401"/>
-        <updated>2021-10-20T04:02:00.601Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[삶 등진 아들, 군에서 쓴 일기에 '차마 못한 말' 담겨 있었다]]></title>
         <id>https://v.daum.net/v/20211020055416907</id>
@@ -20,11 +13,11 @@
         <content type="html"><![CDATA[시사IN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[與 "오세훈 국감 태도 불손"..오세훈 "불손하다니요!"]]></title>
-        <id>https://v.daum.net/v/20211020132838798</id>
-        <link href="https://v.daum.net/v/20211020132838798"/>
-        <updated>2021-10-20T05:01:29.652Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
+        <title type="html"><![CDATA[직진 2차로에서 좌회전 못하게 하는 묘수 "올드보이 이후 최고 반전"[영상]]]></title>
+        <id>https://v.daum.net/v/20211020122502401</id>
+        <link href="https://v.daum.net/v/20211020122502401"/>
+        <updated>2021-10-20T04:02:00.601Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["모르는 남자가 삽 들고 마당에 침입, 우리 개 죽인다며 뒤쫓아"]]></title>
@@ -32,6 +25,13 @@
         <link href="https://v.daum.net/v/20211020084307618"/>
         <updated>2021-10-20T01:54:23.431Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[與 "오세훈 국감 태도 불손"..오세훈 "불손하다니요!"]]></title>
+        <id>https://v.daum.net/v/20211020132838798</id>
+        <link href="https://v.daum.net/v/20211020132838798"/>
+        <updated>2021-10-20T05:01:29.652Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["잘해야 30~40%?" 발사 D-1 '누리호'..실패란 없다]]></title>
@@ -48,10 +48,10 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이승만 저격한 의열단원 유시태 무덤, 찾았다]]></title>
-        <id>https://v.daum.net/v/20211020072100166</id>
-        <link href="https://v.daum.net/v/20211020072100166"/>
-        <updated>2021-10-19T23:01:59.250Z</updated>
+        <title type="html"><![CDATA[김은혜와 설전 후.. "언론인 여러분" 페북에 올린 이재명]]></title>
+        <id>https://v.daum.net/v/20211020143301119</id>
+        <link href="https://v.daum.net/v/20211020143301119"/>
+        <updated>2021-10-20T06:01:32.036Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
     <entry>
@@ -62,11 +62,18 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김은혜와 설전 후.. "언론인 여러분" 페북에 올린 이재명]]></title>
-        <id>https://v.daum.net/v/20211020143301119</id>
-        <link href="https://v.daum.net/v/20211020143301119"/>
-        <updated>2021-10-20T06:01:32.036Z</updated>
+        <title type="html"><![CDATA[이승만 저격한 의열단원 유시태 무덤, 찾았다]]></title>
+        <id>https://v.daum.net/v/20211020072100166</id>
+        <link href="https://v.daum.net/v/20211020072100166"/>
+        <updated>2021-10-19T23:01:59.250Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김웅이 '尹죽이기 배후'로 지목한 민병덕 "그놈 접니다..참담해"]]></title>
+        <id>https://v.daum.net/v/20211020152623606</id>
+        <link href="https://v.daum.net/v/20211020152623606"/>
+        <updated>2021-10-20T07:01:35.510Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['한국형 발사체' 누리호 발사 'D-1'..사활 건 과기정통부 "하늘만 믿는다"]]></title>
@@ -83,18 +90,11 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['초과이익 환수' 충돌..김은혜 "말 바꿔" vs 이재명 "우기지마라"]]></title>
-        <id>https://v.daum.net/v/20211020130421130</id>
-        <link href="https://v.daum.net/v/20211020130421130"/>
-        <updated>2021-10-20T05:01:29.660Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영상] "괴한이 우리 집 개 죽이겠다고 집에 뛰쳐들어왔다"]]></title>
-        <id>https://v.daum.net/v/20211020142700896</id>
-        <link href="https://v.daum.net/v/20211020142700896"/>
-        <updated>2021-10-20T06:01:32.036Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
+        <title type="html"><![CDATA["내가 만일 잘못되면.." AZ 맞고 숨진 어머니의 마지막 선물]]></title>
+        <id>https://v.daum.net/v/20211020065014717</id>
+        <link href="https://v.daum.net/v/20211020065014717"/>
+        <updated>2021-10-19T23:01:59.272Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[현장영상] "도둑질 한 사람 뭐라 표현하냐"는 물음에 이재명 "국민의힘"]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[JTBC]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["내가 만일 잘못되면.." AZ 맞고 숨진 어머니의 마지막 선물]]></title>
-        <id>https://v.daum.net/v/20211020065014717</id>
-        <link href="https://v.daum.net/v/20211020065014717"/>
-        <updated>2021-10-19T23:01:59.272Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2030 영끌족 "금리는 계속 오르는데.. 잠이 안옵니다"]]></title>
         <id>https://v.daum.net/v/20211020030749582</id>
         <link href="https://v.daum.net/v/20211020030749582"/>
         <updated>2021-10-19T20:02:08.503Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영상] "가드레일을? 운전자 내렸어요!"..경광봉 흔드는 여성, 정체는?]]></title>
+        <id>https://v.daum.net/v/20211020141422445</id>
+        <link href="https://v.daum.net/v/20211020141422445"/>
+        <updated>2021-10-20T07:01:35.515Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['누리호 = 우주독립'인 이유?..이것만은 알고 보자[과학을읽다]]]></title>
@@ -132,13 +132,6 @@
         <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[웃음기 뺀 이재명.."국감장 청문회 아냐" "범죄인 취조하나"]]></title>
-        <id>https://v.daum.net/v/20211020122123328</id>
-        <link href="https://v.daum.net/v/20211020122123328"/>
-        <updated>2021-10-20T04:02:00.610Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독]친탈레반 극단주의 성향 국내 거주 외국인들 추적]]></title>
         <id>https://v.daum.net/v/20211020030258412</id>
         <link href="https://v.daum.net/v/20211020030258412"/>
@@ -146,18 +139,18 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국민의힘, 이재명 국감서 심상정 '입'만 쳐다봤다]]></title>
-        <id>https://v.daum.net/v/20211020122132332</id>
-        <link href="https://v.daum.net/v/20211020122132332"/>
-        <updated>2021-10-20T04:02:00.626Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
+        <title type="html"><![CDATA['초과이익 환수' 충돌..김은혜 "말 바꿔" vs 이재명 "우기지마라"]]></title>
+        <id>https://v.daum.net/v/20211020130421130</id>
+        <link href="https://v.daum.net/v/20211020130421130"/>
+        <updated>2021-10-20T05:01:29.660Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["불손하다니!" "소리지르면 다야!"..여야 대립에 '호통장' 된 국감장]]></title>
-        <id>https://v.daum.net/v/20211020142603874</id>
-        <link href="https://v.daum.net/v/20211020142603874"/>
-        <updated>2021-10-20T06:01:32.038Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
+        <title type="html"><![CDATA[웃음기 뺀 이재명.."국감장 청문회 아냐" "범죄인 취조하나"]]></title>
+        <id>https://v.daum.net/v/20211020122123328</id>
+        <link href="https://v.daum.net/v/20211020122123328"/>
+        <updated>2021-10-20T04:02:00.610Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[韓 SLBM 성공 뜨끔한 北, 대남과시용 단거리 SLBM 급조]]></title>
@@ -167,11 +160,11 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4명 사망 청양 컨테이너 화재.. '특허권 분쟁'이 불씨 됐나]]></title>
-        <id>https://v.daum.net/v/20211020140051843</id>
-        <link href="https://v.daum.net/v/20211020140051843"/>
-        <updated>2021-10-20T06:01:32.040Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
+        <title type="html"><![CDATA[국민의힘, 이재명 국감서 심상정 '입'만 쳐다봤다]]></title>
+        <id>https://v.daum.net/v/20211020122132332</id>
+        <link href="https://v.daum.net/v/20211020122132332"/>
+        <updated>2021-10-20T04:02:00.626Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[與 "천공 조언 받았으면" 이재명 "그러고 싶다"..野 즉각 항의]]></title>
@@ -181,25 +174,11 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[영상] 북한 신형 SLBM 발사 공개..김정은 불참]]></title>
-        <id>https://v.daum.net/v/20211020111215541</id>
-        <link href="https://v.daum.net/v/20211020111215541"/>
-        <updated>2021-10-20T03:01:52.401Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[전사한 아버지를 아버지라 못부르고..칠순 딸 기막힌 사연]]></title>
         <id>https://v.daum.net/v/20211020060026027</id>
         <link href="https://v.daum.net/v/20211020060026027"/>
         <updated>2021-10-19T23:01:59.258Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누리호, 성능 확 개선..나로호보다 탑재중량 15배]]></title>
-        <id>https://v.daum.net/v/20211020032209629</id>
-        <link href="https://v.daum.net/v/20211020032209629"/>
-        <updated>2021-10-19T22:02:45.102Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[친절한 경제] 직장인의 꿈, '주 4일제'..도입된다면?]]></title>
@@ -209,10 +188,31 @@
         <content type="html"><![CDATA[SBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명, '천공스승' 꺼내 尹에 대장동 되치기.."부동산 조언 받았더라면"]]></title>
-        <id>https://v.daum.net/v/20211020123619627</id>
-        <link href="https://v.daum.net/v/20211020123619627"/>
-        <updated>2021-10-20T05:01:29.685Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
+        <title type="html"><![CDATA[누리호, 성능 확 개선..나로호보다 탑재중량 15배]]></title>
+        <id>https://v.daum.net/v/20211020032209629</id>
+        <link href="https://v.daum.net/v/20211020032209629"/>
+        <updated>2021-10-19T22:02:45.102Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[野 "사회자 마음대로" vs 조응천 "지역 행사하나" 발끈]]></title>
+        <id>https://v.daum.net/v/20211020152114407</id>
+        <link href="https://v.daum.net/v/20211020152114407"/>
+        <updated>2021-10-20T07:01:35.531Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영상] 북한 신형 SLBM 발사 공개..김정은 불참]]></title>
+        <id>https://v.daum.net/v/20211020111215541</id>
+        <link href="https://v.daum.net/v/20211020111215541"/>
+        <updated>2021-10-20T03:01:52.401Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주차난 아파트, 경비원 대신 관리원으로 부르는 속사정]]></title>
+        <id>https://v.daum.net/v/20211020030729581</id>
+        <link href="https://v.daum.net/v/20211020030729581"/>
+        <updated>2021-10-20T07:01:35.536Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
