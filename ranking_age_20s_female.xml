@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 20대이하 여성</title>
-    <updated>2021-10-22T20:02:37.377Z</updated>
+    <updated>2021-10-22T21:02:28.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA["이유없이 신장 망가져 죽어"..요즘 적도 인근이 이상하다]]></title>
-        <id>https://v.daum.net/v/20211022233323119</id>
-        <link href="https://v.daum.net/v/20211022233323119"/>
-        <updated>2021-10-22T20:02:04.654Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[식당·카페 영업시간 제한 해제..유흥시설 '백신패스' 도입]]></title>
         <id>https://v.daum.net/v/20211022212312855</id>
@@ -20,11 +13,11 @@
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['갯마을 차차차' 배경 공진, 지금 난리 났네요]]></title>
-        <id>https://v.daum.net/v/20211022204500244</id>
-        <link href="https://v.daum.net/v/20211022204500244"/>
-        <updated>2021-10-22T18:01:39.981Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
+        <title type="html"><![CDATA["이유없이 신장 망가져 죽어"..요즘 적도 인근이 이상하다]]></title>
+        <id>https://v.daum.net/v/20211022233323119</id>
+        <link href="https://v.daum.net/v/20211022233323119"/>
+        <updated>2021-10-22T20:02:04.654Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["수천 명과 잠자리"..80대 스페인 전 국왕, 성욕 억제하려 주사제 맞았다?]]></title>
@@ -39,5 +32,12 @@
         <link href="https://v.daum.net/v/20211022190003190"/>
         <updated>2021-10-22T19:01:35.238Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['갯마을 차차차' 배경 공진, 지금 난리 났네요]]></title>
+        <id>https://v.daum.net/v/20211022204500244</id>
+        <link href="https://v.daum.net/v/20211022204500244"/>
+        <updated>2021-10-22T18:01:39.981Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
