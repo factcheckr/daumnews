@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 30대 남성</title>
-    <updated>2021-10-24T18:04:01.538Z</updated>
+    <updated>2021-10-24T19:02:41.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20211024221845902"/>
         <updated>2021-10-24T16:02:03.365Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['故손정민 친구 무혐의' 유족 "주머니서 타살 증거 나와"]]></title>
+        <id>https://v.daum.net/v/20211024230325311</id>
+        <link href="https://v.daum.net/v/20211024230325311"/>
+        <updated>2021-10-24T19:02:22.167Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['이재명 소시오패스' 발언 파장..황교익, 元 부인 강윤형 직격.."의사면허 박탈해야"]]></title>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20211024171057602"/>
         <updated>2021-10-24T13:10:40.928Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["140kg 나갔던 김정은, 살을 도대체 얼마나 뺀거야"..대역설부터 사망설까지 난무]]></title>
-        <id>https://v.daum.net/v/20211024153002188</id>
-        <link href="https://v.daum.net/v/20211024153002188"/>
-        <updated>2021-10-24T17:09:28.399Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
