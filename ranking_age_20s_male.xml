@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 20대이하 남성</title>
-    <updated>2021-10-24T17:09:45.778Z</updated>
+    <updated>2021-10-24T18:04:01.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20211024204327820"/>
         <updated>2021-10-24T16:01:54.839Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국전쟁때 몸으로 수류탄 막아낸 미 '강철' 해병대원 별세]]></title>
+        <id>https://v.daum.net/v/20211025013433377</id>
+        <link href="https://v.daum.net/v/20211025013433377"/>
+        <updated>2021-10-24T18:03:38.109Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["北 김여정이 오빠 김정은 죽였다" 美언론 보도..국정원 반응은]]></title>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20211024202706642"/>
         <updated>2021-10-24T17:09:20.040Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김어준, 李 지지 호소하자..낙측 인사 "마이크 놓고 캠프가라"(종합)]]></title>
-        <id>https://v.daum.net/v/20211024233948505</id>
-        <link href="https://v.daum.net/v/20211024233948505"/>
-        <updated>2021-10-24T17:09:20.042Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
