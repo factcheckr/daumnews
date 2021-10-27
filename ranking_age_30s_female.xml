@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 30대 여성</title>
-    <updated>2021-10-27T15:02:56.235Z</updated>
+    <updated>2021-10-27T16:02:59.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[아이유 입었더니 완판..재택 끝나가자 난리난 '뒤집는 패딩']]></title>
-        <id>https://v.daum.net/v/20211027204041883</id>
-        <link href="https://v.daum.net/v/20211027204041883"/>
-        <updated>2021-10-27T15:02:34.894Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA["이 자격증이 뭐라고 40만명이나 응시"..건당 수천만원 단꿈에 빠진 대한민국]]></title>
         <id>https://v.daum.net/v/20211027214500290</id>
@@ -27,17 +20,24 @@
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 이재명 '주 4일제' 띄운다.."인간다운 삶 위해 가급적 빨리"]]></title>
-        <id>https://v.daum.net/v/20211027193602347</id>
-        <link href="https://v.daum.net/v/20211027193602347"/>
-        <updated>2021-10-27T15:02:34.898Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["확진자 하루 2만 명 나올 수도"..진단 지체 우려도]]></title>
         <id>https://v.daum.net/v/20211027201013255</id>
         <link href="https://v.daum.net/v/20211027201013255"/>
         <updated>2021-10-27T15:02:34.899Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이유 입었더니 완판..재택 끝나가자 난리난 '뒤집는 패딩']]></title>
+        <id>https://v.daum.net/v/20211027204041883</id>
+        <link href="https://v.daum.net/v/20211027204041883"/>
+        <updated>2021-10-27T15:02:34.894Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대리급도 연봉 1억 우습다..요새 몸값 높아진 이 직업은]]></title>
+        <id>https://v.daum.net/v/20211027175712883</id>
+        <link href="https://v.daum.net/v/20211027175712883"/>
+        <updated>2021-10-27T16:02:34.170Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
