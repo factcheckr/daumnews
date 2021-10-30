@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 40대 여성</title>
-    <updated>2021-10-30T16:02:14.020Z</updated>
+    <updated>2021-10-30T17:10:21.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[소주 한병 사들고..아라뱃길 실종 30대女 숨진채 발견]]></title>
+        <id>https://v.daum.net/v/20211030131325268</id>
+        <link href="https://v.daum.net/v/20211030131325268"/>
+        <updated>2021-10-30T17:10:07.386Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[하루 만에 5000% 급등? 비트코인 횡보에 이 코인들 '들썩' [코인노트]]]></title>
         <id>https://v.daum.net/v/20211030210300414</id>
         <link href="https://v.daum.net/v/20211030210300414"/>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20211030205955383"/>
         <updated>2021-10-30T15:02:03.662Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文대통령 어깨에 손올린 바이든 "文오셨으니 다 잘될 것"]]></title>
-        <id>https://v.daum.net/v/20211030220551897</id>
-        <link href="https://v.daum.net/v/20211030220551897"/>
-        <updated>2021-10-30T16:02:01.613Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
