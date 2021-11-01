@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 50대이상 여성</title>
-    <updated>2021-11-01T14:02:16.933Z</updated>
+    <updated>2021-11-01T15:03:06.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[기저귀 안벗는 6살 손녀.."배변 못가리면 종이 한장 준비하라"]]></title>
+        <id>https://v.daum.net/v/20211101222330592</id>
+        <link href="https://v.daum.net/v/20211101222330592"/>
+        <updated>2021-11-01T15:03:01.315Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["동아리 단체예약" "새벽 5시까지" 위드코로나 첫날 들뜬 신촌]]></title>
         <id>https://v.daum.net/v/20211101192026683</id>
         <link href="https://v.daum.net/v/20211101192026683"/>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20211101210403874"/>
         <updated>2021-11-01T14:02:11.733Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["18년 전 호텔서 성폭행" 유명 영화감독 피소]]></title>
-        <id>https://v.daum.net/v/20211101190628418</id>
-        <link href="https://v.daum.net/v/20211101190628418"/>
-        <updated>2021-11-01T12:03:24.436Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
