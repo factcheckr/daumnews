@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/popular</id>
     <title>다음 뉴스 ─ 랭킹 ─ 많이 본</title>
-    <updated>2021-11-03T17:12:55.984Z</updated>
+    <updated>2021-11-03T18:02:34.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[이재명 "오피스 누나? 확 끄는데"..국민의당 "뭐 눈에는 뭐만 보인다고"]]></title>
+        <id>https://v.daum.net/v/20211103204905968</id>
+        <link href="https://v.daum.net/v/20211103204905968"/>
+        <updated>2021-11-03T13:12:39.139Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['대장동 의혹' 김만배·남욱 구속.."혐의소명·증거인멸 우려"(종합)]]></title>
         <id>https://v.daum.net/v/20211104010056645</id>
         <link href="https://v.daum.net/v/20211104010056645"/>
@@ -32,13 +39,6 @@
         <link href="https://v.daum.net/v/20211103211800525"/>
         <updated>2021-11-03T13:12:39.213Z</updated>
         <content type="html"><![CDATA[노컷뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 "오피스 누나? 확 끄는데"..국민의당 "뭐 눈에는 뭐만 보인다고"]]></title>
-        <id>https://v.daum.net/v/20211103204905968</id>
-        <link href="https://v.daum.net/v/20211103204905968"/>
-        <updated>2021-11-03T13:12:39.139Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김어준, 123억 예산 삭감에 오세훈 시장 찾자 "생떼도 정도가 있다"]]></title>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[여성 쿠팡친구 "월수입 최고 700만원..30kg 매트리스도 들어봤다"]]></title>
+        <id>https://v.daum.net/v/20211104004333546</id>
+        <link href="https://v.daum.net/v/20211104004333546"/>
+        <updated>2021-11-03T17:12:06.994Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[문 대통령과 정상회담 마친 헝가리 대통령 "양국, 원전 없이는 탄소중립 불가하다고 공감"]]></title>
         <id>https://v.daum.net/v/20211103213243774</id>
         <link href="https://v.daum.net/v/20211103213243774"/>
         <updated>2021-11-03T13:12:39.181Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남친 폭력에 쓰러진 예진 씨..미공개 CCTV 속 '그날']]></title>
-        <id>https://v.daum.net/v/20211103203502720</id>
-        <link href="https://v.daum.net/v/20211103203502720"/>
-        <updated>2021-11-03T13:12:39.183Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[짧은 단발 파마→중단발..단아해진 김혜경]]></title>
@@ -76,18 +76,39 @@
         <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[남친 폭력에 쓰러진 예진 씨..미공개 CCTV 속 '그날']]></title>
+        <id>https://v.daum.net/v/20211103203502720</id>
+        <link href="https://v.daum.net/v/20211103203502720"/>
+        <updated>2021-11-03T13:12:39.183Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴질랜드 '조폭' 두목 7명, 카메라 앞에 서더니.."백신 접종해"]]></title>
+        <id>https://v.daum.net/v/20211104010001636</id>
+        <link href="https://v.daum.net/v/20211104010001636"/>
+        <updated>2021-11-03T17:12:06.987Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["시간당 1만원 준다는데도 없어"..아르바이트 구직자 감소하는 이유는]]></title>
+        <id>https://v.daum.net/v/20211104001801358</id>
+        <link href="https://v.daum.net/v/20211104001801358"/>
+        <updated>2021-11-03T16:01:51.339Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남욱 구속영장 발부한 문성관 판사..김만배 1차 영장은 '기각']]></title>
+        <id>https://v.daum.net/v/20211104011227743</id>
+        <link href="https://v.daum.net/v/20211104011227743"/>
+        <updated>2021-11-03T17:12:06.999Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[韓화장품 '1초 완판' 신화 中왕훙..이번엔 1000억 팔아치웠다]]></title>
         <id>https://v.daum.net/v/20211103233904930</id>
         <link href="https://v.daum.net/v/20211103233904930"/>
         <updated>2021-11-03T16:01:51.335Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금 요소수 '부르는 게 값'..정부도 기업도 대책 없다]]></title>
-        <id>https://v.daum.net/v/20211103205405083</id>
-        <link href="https://v.daum.net/v/20211103205405083"/>
-        <updated>2021-11-03T13:12:39.181Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대형건설사들 포항 아파트 신축현장서 대규모 불·탈법 [르포]]]></title>
@@ -104,31 +125,17 @@
         <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["시간당 1만원 준다는데도 없어"..아르바이트 구직자 감소하는 이유는]]></title>
-        <id>https://v.daum.net/v/20211104001801358</id>
-        <link href="https://v.daum.net/v/20211104001801358"/>
-        <updated>2021-11-03T16:01:51.339Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
+        <title type="html"><![CDATA["전직 부총리가 성폭행" 중국 공산당 지도부에 미투사건 터졌다]]></title>
+        <id>https://v.daum.net/v/20211103204227829</id>
+        <link href="https://v.daum.net/v/20211103204227829"/>
+        <updated>2021-11-03T12:02:12.219Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['도와줘' 쪽지 남기고 숨진 고교생..험담한 학생 3명 징계(종합)]]></title>
         <id>https://v.daum.net/v/20211103204314837</id>
         <link href="https://v.daum.net/v/20211103204314837"/>
         <updated>2021-11-03T12:02:12.227Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴질랜드 '조폭' 두목 7명, 카메라 앞에 서더니.."백신 접종해"]]></title>
-        <id>https://v.daum.net/v/20211104010001636</id>
-        <link href="https://v.daum.net/v/20211104010001636"/>
-        <updated>2021-11-03T17:12:06.987Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["전직 부총리가 성폭행" 중국 공산당 지도부에 미투사건 터졌다]]></title>
-        <id>https://v.daum.net/v/20211103204227829</id>
-        <link href="https://v.daum.net/v/20211103204227829"/>
-        <updated>2021-11-03T12:02:12.219Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
@@ -139,25 +146,18 @@
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[주진우 라이브] 김병민 "윤석열 눈과 몸은 국민과 당원 향해 있는데 특정 후보는 윤석열만 바라봐"]]></title>
+        <id>https://v.daum.net/v/20211103200455197</id>
+        <link href="https://v.daum.net/v/20211103200455197"/>
+        <updated>2021-11-03T12:02:12.198Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이재명의 '정신', 전문의들은 이렇게 본다]]></title>
         <id>https://v.daum.net/v/20211103172153342</id>
         <link href="https://v.daum.net/v/20211103172153342"/>
         <updated>2021-11-03T10:01:29.168Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["쌀 사먹게 2만 원만.." 22살 청년 간병인의 비극적 살인]]></title>
-        <id>https://v.daum.net/v/20211103154321181</id>
-        <link href="https://v.daum.net/v/20211103154321181"/>
-        <updated>2021-11-03T08:02:07.581Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여성 쿠팡친구 "월수입 최고 700만원..30kg 매트리스도 들어봤다"]]></title>
-        <id>https://v.daum.net/v/20211104004333546</id>
-        <link href="https://v.daum.net/v/20211104004333546"/>
-        <updated>2021-11-03T17:12:06.994Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국민의당 후보 또 있었다.."安 부적격 해소하려 날 공천 배제"]]></title>
@@ -174,18 +174,18 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[주진우 라이브] 김병민 "윤석열 눈과 몸은 국민과 당원 향해 있는데 특정 후보는 윤석열만 바라봐"]]></title>
-        <id>https://v.daum.net/v/20211103200455197</id>
-        <link href="https://v.daum.net/v/20211103200455197"/>
-        <updated>2021-11-03T12:02:12.198Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
+        <title type="html"><![CDATA["쌀 사먹게 2만 원만.." 22살 청년 간병인의 비극적 살인]]></title>
+        <id>https://v.daum.net/v/20211103154321181</id>
+        <link href="https://v.daum.net/v/20211103154321181"/>
+        <updated>2021-11-03T08:02:07.581Z</updated>
+        <content type="html"><![CDATA[프레시안]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[남욱 구속영장 발부한 문성관 판사..김만배 1차 영장은 '기각']]></title>
-        <id>https://v.daum.net/v/20211104011227743</id>
-        <link href="https://v.daum.net/v/20211104011227743"/>
-        <updated>2021-11-03T17:12:06.999Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
+        <title type="html"><![CDATA[헝가리가 건네준 '小동해' 옛지도..김정숙 여사 "정말 희귀한 건데"(종합)]]></title>
+        <id>https://v.daum.net/v/20211104011715780</id>
+        <link href="https://v.daum.net/v/20211104011715780"/>
+        <updated>2021-11-03T17:12:07.042Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[딸을 성매매 조직에 팔아넘긴 남자친구 살해..美 아버지 피의 복수]]></title>
@@ -195,13 +195,6 @@
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["짱깨 무슨뜻?" 중국관광객이 물었더니..시민들 '말잇못·찐당황']]></title>
-        <id>https://v.daum.net/v/20211103233501917</id>
-        <link href="https://v.daum.net/v/20211103233501917"/>
-        <updated>2021-11-03T16:01:51.391Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아들 이름으로 걸려온 국제전화?..진화하는 전화 금융사기]]></title>
         <id>https://v.daum.net/v/20211103204007794</id>
         <link href="https://v.daum.net/v/20211103204007794"/>
@@ -209,11 +202,11 @@
         <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["전 부총리가 성폭행"..中테니스 스타, 고위층 '미투' 폭로]]></title>
-        <id>https://v.daum.net/v/20211103234057941</id>
-        <link href="https://v.daum.net/v/20211103234057941"/>
-        <updated>2021-11-03T16:01:51.336Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
+        <title type="html"><![CDATA["짱깨 무슨뜻?" 중국관광객이 물었더니..시민들 '말잇못·찐당황']]></title>
+        <id>https://v.daum.net/v/20211103233501917</id>
+        <link href="https://v.daum.net/v/20211103233501917"/>
+        <updated>2021-11-03T16:01:51.391Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 수사 벗어난 '천화동인 7호'..강남 30억대 아파트도 매입]]></title>
@@ -230,6 +223,13 @@
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["전 부총리가 성폭행"..中테니스 스타, 고위층 '미투' 폭로]]></title>
+        <id>https://v.daum.net/v/20211103234057941</id>
+        <link href="https://v.daum.net/v/20211103234057941"/>
+        <updated>2021-11-03T16:01:51.336Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[ET] 영국과 프랑스의 '위드 코로나'..차이는 '마스크'?]]></title>
         <id>https://v.daum.net/v/20211103181747170</id>
         <link href="https://v.daum.net/v/20211103181747170"/>
@@ -244,13 +244,6 @@
         <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["이름이라도 알려 주세요"..1억 5천만 원 놓고 사라진 할머니]]></title>
-        <id>https://v.daum.net/v/20211103205505112</id>
-        <link href="https://v.daum.net/v/20211103205505112"/>
-        <updated>2021-11-03T13:12:39.233Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[단백질 많고 탄수화물 적은 '저탄고지' 음식 5]]></title>
         <id>https://v.daum.net/v/20211103170102553</id>
         <link href="https://v.daum.net/v/20211103170102553"/>
@@ -258,11 +251,11 @@
         <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["때리는 척 말고, 아주 죽여놔"..여친 아들 학대 종용한 30대]]></title>
-        <id>https://v.daum.net/v/20211103204101810</id>
-        <link href="https://v.daum.net/v/20211103204101810"/>
-        <updated>2021-11-03T14:01:39.824Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
+        <title type="html"><![CDATA["이름이라도 알려 주세요"..1억 5천만 원 놓고 사라진 할머니]]></title>
+        <id>https://v.daum.net/v/20211103205505112</id>
+        <link href="https://v.daum.net/v/20211103205505112"/>
+        <updated>2021-11-03T13:12:39.233Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[영상] '노재팬 선언' 김제 골프장 "조상들 공로 잊지 말아야"]]></title>
@@ -272,46 +265,18 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네덜란드 외교관 가족, 車로 한국인 위협..외교부 "엄중 대응"(종합)]]></title>
-        <id>https://v.daum.net/v/20211103214613994</id>
-        <link href="https://v.daum.net/v/20211103214613994"/>
-        <updated>2021-11-03T14:01:39.813Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
+        <title type="html"><![CDATA["때리는 척 말고, 아주 죽여놔"..여친 아들 학대 종용한 30대]]></title>
+        <id>https://v.daum.net/v/20211103204101810</id>
+        <link href="https://v.daum.net/v/20211103204101810"/>
+        <updated>2021-11-03T14:01:39.824Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["전 재산 날렸다" 오징어게임 코인 투자한 중국인 울분]]></title>
-        <id>https://v.daum.net/v/20211103211113416</id>
-        <link href="https://v.daum.net/v/20211103211113416"/>
-        <updated>2021-11-03T13:12:39.250Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시 "TBS, 광고 없으면 음악만 튼다? 그런 각오 하시라"]]></title>
-        <id>https://v.daum.net/v/20211103182046225</id>
-        <link href="https://v.daum.net/v/20211103182046225"/>
-        <updated>2021-11-03T11:01:56.743Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요소수 찾아 삼만리..공장 앞 500미터 줄 선 경유차들]]></title>
-        <id>https://v.daum.net/v/20211103202207535</id>
-        <link href="https://v.daum.net/v/20211103202207535"/>
-        <updated>2021-11-03T13:12:39.234Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["저.. 치킨 시키려는데요" 112에 걸려온 전화, 경찰은 직감했다]]></title>
-        <id>https://v.daum.net/v/20211103072525879</id>
-        <link href="https://v.daum.net/v/20211103072525879"/>
-        <updated>2021-11-03T09:02:08.133Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헝가리가 건네준 '小동해' 옛지도..김정숙 여사 "정말 희귀한 건데"(종합)]]></title>
-        <id>https://v.daum.net/v/20211104011715780</id>
-        <link href="https://v.daum.net/v/20211104011715780"/>
-        <updated>2021-11-03T17:12:07.042Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
+        <title type="html"><![CDATA[檢 칼 끝 이재명 향할까..'배임죄' 연결고리로 윗선 수사 탄력]]></title>
+        <id>https://v.daum.net/v/20211104012947865</id>
+        <link href="https://v.daum.net/v/20211104012947865"/>
+        <updated>2021-11-03T18:01:51.441Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[헝가리가 김정숙 여사에게 준 옛 지도, 한반도 동쪽은 '小동해']]></title>
@@ -321,18 +286,53 @@
         <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[서울시 "TBS, 광고 없으면 음악만 튼다? 그런 각오 하시라"]]></title>
+        <id>https://v.daum.net/v/20211103182046225</id>
+        <link href="https://v.daum.net/v/20211103182046225"/>
+        <updated>2021-11-03T11:01:56.743Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네덜란드 외교관 가족, 車로 한국인 위협..외교부 "엄중 대응"(종합)]]></title>
+        <id>https://v.daum.net/v/20211103214613994</id>
+        <link href="https://v.daum.net/v/20211103214613994"/>
+        <updated>2021-11-03T14:01:39.813Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김웅 공수처 조사받은 후 귀가.."'고발 사주' 허무맹랑한 이야기"]]></title>
+        <id>https://v.daum.net/v/20211103233005891</id>
+        <link href="https://v.daum.net/v/20211103233005891"/>
+        <updated>2021-11-03T18:01:51.446Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["전 재산 날렸다" 오징어게임 코인 투자한 중국인 울분]]></title>
+        <id>https://v.daum.net/v/20211103211113416</id>
+        <link href="https://v.daum.net/v/20211103211113416"/>
+        <updated>2021-11-03T13:12:39.250Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["저.. 치킨 시키려는데요" 112에 걸려온 전화, 경찰은 직감했다]]></title>
+        <id>https://v.daum.net/v/20211103072525879</id>
+        <link href="https://v.daum.net/v/20211103072525879"/>
+        <updated>2021-11-03T09:02:08.133Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요소수 찾아 삼만리..공장 앞 500미터 줄 선 경유차들]]></title>
+        <id>https://v.daum.net/v/20211103202207535</id>
+        <link href="https://v.daum.net/v/20211103202207535"/>
+        <updated>2021-11-03T13:12:39.234Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[다급한 여성 목소리→급히 끊은 전화→10분 뒤 취소..'코드 제로'였다]]></title>
         <id>https://v.daum.net/v/20211103063900334</id>
         <link href="https://v.daum.net/v/20211103063900334"/>
         <updated>2021-11-03T16:01:51.391Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["순대 찜통 밑 벌레투성이" 위생 논란..진성푸드 "앙심품은 직원 악의적 제보"]]></title>
-        <id>https://v.daum.net/v/20211103230900752</id>
-        <link href="https://v.daum.net/v/20211103230900752"/>
-        <updated>2021-11-03T16:01:51.340Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 즉석복권 인쇄 사고에도 쉬쉬한 복권위]]></title>
@@ -342,17 +342,17 @@
         <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[일지] '대장동 의혹' 화천대유 설립부터 김만배·남욱 구속까지]]></title>
-        <id>https://v.daum.net/v/20211104005014601</id>
-        <link href="https://v.daum.net/v/20211104005014601"/>
-        <updated>2021-11-03T17:12:07.053Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[호주에서 유출된 프랑스 대통령 문자.. 다시 수렁에 빠진 양국 관계]]></title>
         <id>https://v.daum.net/v/20211103223113534</id>
         <link href="https://v.daum.net/v/20211103223113534"/>
         <updated>2021-11-03T15:01:36.608Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["전재산 날렸습니다"..5분 만에 0달러된 '오징어게임' 코인]]></title>
+        <id>https://v.daum.net/v/20211104002102382</id>
+        <link href="https://v.daum.net/v/20211104002102382"/>
+        <updated>2021-11-03T18:01:51.450Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
