@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 20대이하 여성</title>
-    <updated>2021-11-05T01:50:10.831Z</updated>
+    <updated>2021-11-05T02:21:01.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[IMF 때 집 나간 후 사망 처리된 여성, 24년만에 가족 상봉]]></title>
+        <id>https://v.daum.net/v/20211105102421072</id>
+        <link href="https://v.daum.net/v/20211105102421072"/>
+        <updated>2021-11-05T02:20:27.819Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[홍라희 선물에 해인사 주지스님도 놀랐다.."진짜 똑같네요"]]></title>
         <id>https://v.daum.net/v/20211104180015020</id>
         <link href="https://v.daum.net/v/20211104180015020"/>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20211105021440615"/>
         <updated>2021-11-05T01:49:34.805Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤넬백 하단에 밀어넣으면..3만원 가죽 조각의 '반전 효과']]></title>
-        <id>https://v.daum.net/v/20211104220102263</id>
-        <link href="https://v.daum.net/v/20211104220102263"/>
-        <updated>2021-11-05T01:49:34.807Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
