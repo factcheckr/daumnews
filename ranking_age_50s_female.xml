@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 50대이상 여성</title>
-    <updated>2021-11-05T09:02:27.557Z</updated>
+    <updated>2021-11-05T10:02:05.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -11,20 +11,6 @@
         <link href="https://v.daum.net/v/20211105163925865"/>
         <updated>2021-11-05T09:02:23.092Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열, 국민의힘 대선후보 확정.."반드시 이재명 이길 것" [종합]]]></title>
-        <id>https://v.daum.net/v/20211105153504586</id>
-        <link href="https://v.daum.net/v/20211105153504586"/>
-        <updated>2021-11-05T09:02:23.094Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무야홍' 지고도 웃었다 "민심과 거꾸로 간 당심..깨끗이 승복"]]></title>
-        <id>https://v.daum.net/v/20211105163420691</id>
-        <link href="https://v.daum.net/v/20211105163420691"/>
-        <updated>2021-11-05T09:02:23.095Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[갑작스러운 가슴 통증에 응급실行..결과 보니 '뜻밖의 진단' [이선아 기자의 생생헬스]]]></title>
@@ -38,6 +24,20 @@
         <id>https://v.daum.net/v/20211105160441499</id>
         <link href="https://v.daum.net/v/20211105160441499"/>
         <updated>2021-11-05T08:02:14.100Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['무야홍' 지고도 웃었다 "민심과 거꾸로 간 당심..깨끗이 승복"]]></title>
+        <id>https://v.daum.net/v/20211105163420691</id>
+        <link href="https://v.daum.net/v/20211105163420691"/>
+        <updated>2021-11-05T09:02:23.095Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열, 국민의힘 대선후보 확정.."반드시 이재명 이길 것" [종합]]]></title>
+        <id>https://v.daum.net/v/20211105153504586</id>
+        <link href="https://v.daum.net/v/20211105153504586"/>
+        <updated>2021-11-05T09:02:23.094Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
