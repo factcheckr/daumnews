@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 40대 남성</title>
-    <updated>2021-11-05T22:02:58.674Z</updated>
+    <updated>2021-11-05T23:02:52.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20211106050034679"/>
         <updated>2021-11-05T21:02:01.634Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가수 선미가 "너무 좋다"던 그 투자..3개월새 수익률 90%에 달하기도]]></title>
+        <id>https://v.daum.net/v/20211106065701047</id>
+        <link href="https://v.daum.net/v/20211106065701047"/>
+        <updated>2021-11-05T23:02:41.817Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[홍준표 "민심과 거꾸로 간 당심, 대선서 역할은 여기까지"]]></title>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20211106050111690"/>
         <updated>2021-11-05T22:02:47.894Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 대선 후보 선출에..외신 "정권비리 수사한 검찰총장" 소개]]></title>
-        <id>https://v.daum.net/v/20211105204255659</id>
-        <link href="https://v.daum.net/v/20211105204255659"/>
-        <updated>2021-11-05T20:02:14.502Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
