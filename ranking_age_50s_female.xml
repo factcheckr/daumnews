@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 50대이상 여성</title>
-    <updated>2021-11-07T19:02:15.758Z</updated>
+    <updated>2021-11-07T20:02:51.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[공무원 점심 먹게 관공서 1시간 문닫자는데..]]></title>
+        <id>https://v.daum.net/v/20211108032205228</id>
+        <link href="https://v.daum.net/v/20211108032205228"/>
+        <updated>2021-11-07T20:02:46.018Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독] 국민연금 1인 평균 55만원, 최저생계비 처음 넘었다]]></title>
         <id>https://v.daum.net/v/20211108000227548</id>
         <link href="https://v.daum.net/v/20211108000227548"/>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20211107222008077"/>
         <updated>2021-11-07T16:02:19.272Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["차기 대통령으로 보고 있는 게 아닐까"..NYT, 이재명 비공개 면담]]></title>
-        <id>https://v.daum.net/v/20211107204102247</id>
-        <link href="https://v.daum.net/v/20211107204102247"/>
-        <updated>2021-11-07T14:02:13.554Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
