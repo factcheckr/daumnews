@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 40대 남성</title>
-    <updated>2021-11-08T02:20:02.600Z</updated>
+    <updated>2021-11-08T03:02:23.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[대통령 딸도 '아빠 찬스' 논란.. 작년 말부터 자녀와 '靑 거주']]></title>
+        <id>https://v.daum.net/v/20211108113026559</id>
+        <link href="https://v.daum.net/v/20211108113026559"/>
+        <updated>2021-11-08T03:02:14.516Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이준석 "홍준표, '창당' '투팀' 아니라고 했다..종로 출마? 난 아냐"]]></title>
         <id>https://v.daum.net/v/20211108095616060</id>
         <link href="https://v.daum.net/v/20211108095616060"/>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20211108093905342"/>
         <updated>2021-11-08T01:47:53.608Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["엄마 아빠한테는 비밀" 어린이집 다녀온 아이가 이상한 말을..]]></title>
-        <id>https://v.daum.net/v/20211108083830343</id>
-        <link href="https://v.daum.net/v/20211108083830343"/>
-        <updated>2021-11-08T01:47:53.613Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
