@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 50대이상 남성</title>
-    <updated>2021-11-16T07:02:35.188Z</updated>
+    <updated>2021-11-16T08:02:35.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["명성황후, 우리가 죽였다..쉬워서 어안 벙벙" 日외교관 서한 발견]]></title>
+        <id>https://v.daum.net/v/20211116142108632</id>
+        <link href="https://v.daum.net/v/20211116142108632"/>
+        <updated>2021-11-16T07:02:34.576Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명 측, 김혜경 '진짜 외출사진' 공개.."스토킹에 준해"]]></title>
         <id>https://v.daum.net/v/20211116141632459</id>
         <link href="https://v.daum.net/v/20211116141632459"/>
         <updated>2021-11-16T07:02:34.572Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[황교익, 돌연 지지 철회?.."이재명 지지한 적 없어"]]></title>
+        <id>https://v.daum.net/v/20211116133747050</id>
+        <link href="https://v.daum.net/v/20211116133747050"/>
+        <updated>2021-11-16T07:02:34.575Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 "선대위 얘기 다 거짓말..권성동 확정이면 발표했을 것"]]></title>
@@ -25,19 +39,5 @@
         <link href="https://v.daum.net/v/20211116145114819"/>
         <updated>2021-11-16T07:02:34.574Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황교익, 돌연 지지 철회?.."이재명 지지한 적 없어"]]></title>
-        <id>https://v.daum.net/v/20211116133747050</id>
-        <link href="https://v.daum.net/v/20211116133747050"/>
-        <updated>2021-11-16T07:02:34.575Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["명성황후, 우리가 죽였다..쉬워서 어안 벙벙" 日외교관 서한 발견]]></title>
-        <id>https://v.daum.net/v/20211116142108632</id>
-        <link href="https://v.daum.net/v/20211116142108632"/>
-        <updated>2021-11-16T07:02:34.576Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
