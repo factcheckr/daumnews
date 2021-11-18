@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 20대이하 여성</title>
-    <updated>2021-11-18T15:02:54.278Z</updated>
+    <updated>2021-11-18T16:02:29.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독]"다섯 쌍둥이 한국서 34년 만에 건강하게 태어났다"]]></title>
+        <id>https://v.daum.net/v/20211118225316995</id>
+        <link href="https://v.daum.net/v/20211118225316995"/>
+        <updated>2021-11-18T16:02:00.036Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[꽃미남 톰 크루즈의 '충격 노화'.. 주된 원인은?]]></title>
         <id>https://v.daum.net/v/20211117230016832</id>
         <link href="https://v.daum.net/v/20211117230016832"/>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20211118204205987"/>
         <updated>2021-11-18T13:13:13.922Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["악 소리나 가보니 이미 떨어져".. 여자친구 19층서 밀쳐 살해한 30대 체포]]></title>
-        <id>https://v.daum.net/v/20211118210102388</id>
-        <link href="https://v.daum.net/v/20211118210102388"/>
-        <updated>2021-11-18T15:02:23.649Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
