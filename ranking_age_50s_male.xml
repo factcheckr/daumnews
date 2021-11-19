@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 50대이상 남성</title>
-    <updated>2021-11-19T15:02:30.925Z</updated>
+    <updated>2021-11-19T16:02:45.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20211119211049342"/>
         <updated>2021-11-19T13:13:09.835Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["약 안 듣는다, 1000만명 숨질 것" 코로나 이후, 가장 큰 위협]]></title>
+        <id>https://v.daum.net/v/20211119232051422</id>
+        <link href="https://v.daum.net/v/20211119232051422"/>
+        <updated>2021-11-19T16:02:44.553Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명, 대전시민 200명 앞 즉석연설.."탈탈 털려도 걱정 안해"]]></title>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20211119201034374"/>
         <updated>2021-11-19T15:02:30.259Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與 단톡방에 떨어진 직격탄.."선대위엔 꼰대·일 안하는 의원 천지"]]></title>
-        <id>https://v.daum.net/v/20211119202121531</id>
-        <link href="https://v.daum.net/v/20211119202121531"/>
-        <updated>2021-11-19T15:02:30.260Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
