@@ -2,29 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 20대이하 남성</title>
-    <updated>2021-11-19T03:02:16.371Z</updated>
+    <updated>2021-11-19T04:02:22.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 34%·이재명 27%.. 갤럽 조사에서도 껑충 뛴 尹]]></title>
+        <id>https://v.daum.net/v/20211119102614270</id>
+        <link href="https://v.daum.net/v/20211119102614270"/>
+        <updated>2021-11-19T04:01:55.724Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 윤석열 "文정권, 칼과 총만 안 들었을 뿐 연성 독재 시도"]]></title>
         <id>https://v.daum.net/v/20211119100102398</id>
         <link href="https://v.daum.net/v/20211119100102398"/>
         <updated>2021-11-19T02:21:06.275Z</updated>
         <content type="html"><![CDATA[신동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["비명 듣고 올라가는데 여경은 소리 지르며 내려가고 남경은 안 따라와"..'아내 의식불명' 남편의 울분]]></title>
-        <id>https://v.daum.net/v/20211119070724425</id>
-        <link href="https://v.daum.net/v/20211119070724425"/>
-        <updated>2021-11-19T03:01:49.609Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유시민 공판 반전, "검찰 계좌조회 사실..조건달아 불충분한 답변"]]></title>
-        <id>https://v.daum.net/v/20211119075412008</id>
-        <link href="https://v.daum.net/v/20211119075412008"/>
-        <updated>2021-11-19T02:21:06.271Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["햄버거에서 꿈틀..2.5cm 집게벌레 나와" 당국 시정명령]]></title>
@@ -39,5 +32,12 @@
         <link href="https://v.daum.net/v/20211119093427492"/>
         <updated>2021-11-19T02:21:06.278Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["비명 듣고 올라가는데 여경은 소리 지르며 내려가고 남경은 안 따라와"..'아내 의식불명' 남편의 울분]]></title>
+        <id>https://v.daum.net/v/20211119070724425</id>
+        <link href="https://v.daum.net/v/20211119070724425"/>
+        <updated>2021-11-19T03:01:49.609Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
