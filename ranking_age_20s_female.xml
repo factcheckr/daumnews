@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 20대이하 여성</title>
-    <updated>2021-11-20T10:02:38.219Z</updated>
+    <updated>2021-11-20T11:02:16.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["약 안 듣는다, 1000만명 숨질 것" 코로나 이후, 가장 큰 위협]]></title>
+        <id>https://v.daum.net/v/20211119232051422</id>
+        <link href="https://v.daum.net/v/20211119232051422"/>
+        <updated>2021-11-20T11:01:48.972Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["그만두고 싶은데"..좌절되자 대학병원 기숙사서 숨진 간호사]]></title>
+        <id>https://v.daum.net/v/20211120170149243</id>
+        <link href="https://v.daum.net/v/20211120170149243"/>
+        <updated>2021-11-20T11:01:48.973Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["좀비출현" 중부고속도로 전광판 의문의 문구 정체(영상)]]></title>
         <id>https://v.daum.net/v/20211120001102716</id>
@@ -25,19 +39,5 @@
         <link href="https://v.daum.net/v/20211120160142730"/>
         <updated>2021-11-20T09:02:02.304Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아버지 재산, 어머니께 많이 드려야 자식도 더 받을 수 있다[도와줘요, 상속증여]]]></title>
-        <id>https://v.daum.net/v/20211120163022975</id>
-        <link href="https://v.daum.net/v/20211120163022975"/>
-        <updated>2021-11-20T10:02:03.762Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이트폭력 사망한 황예진, 병원 실려갈때..남친 소름돋는 행동]]></title>
-        <id>https://v.daum.net/v/20211120085507020</id>
-        <link href="https://v.daum.net/v/20211120085507020"/>
-        <updated>2021-11-20T10:02:03.764Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
