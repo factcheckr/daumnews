@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 40대 여성</title>
-    <updated>2021-11-21T11:02:32.849Z</updated>
+    <updated>2021-11-21T12:03:10.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -13,24 +13,17 @@
         <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["액정 못 갈아요" 삼성AS 센터, 기기값 환불해주는 이유]]></title>
-        <id>https://v.daum.net/v/20211121184205697</id>
-        <link href="https://v.daum.net/v/20211121184205697"/>
-        <updated>2021-11-21T11:02:19.822Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["배달원들 꼴 좋다 ㅋㅋㅋ" 일상회복에 '난폭 배달원' 조롱도]]></title>
-        <id>https://v.daum.net/v/20211121155443114</id>
-        <link href="https://v.daum.net/v/20211121155443114"/>
-        <updated>2021-11-21T11:02:19.823Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[기술 하나로 세계 1위 올랐다..'주가 10배' 대박 난 기업]]></title>
         <id>https://v.daum.net/v/20211121173701861</id>
         <link href="https://v.daum.net/v/20211121173701861"/>
         <updated>2021-11-21T11:02:19.825Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[택시 400대 중 '빈차' 1대뿐.."집에 '따릉이' 타고 갑니다" 한숨]]></title>
+        <id>https://v.daum.net/v/20211121175102049</id>
+        <link href="https://v.daum.net/v/20211121175102049"/>
+        <updated>2021-11-21T12:02:57.277Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
@@ -39,5 +32,12 @@
         <link href="https://v.daum.net/v/20211121164355084"/>
         <updated>2021-11-21T10:02:50.097Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["배달원들 꼴 좋다 ㅋㅋㅋ" 일상회복에 '난폭 배달원' 조롱도]]></title>
+        <id>https://v.daum.net/v/20211121155443114</id>
+        <link href="https://v.daum.net/v/20211121155443114"/>
+        <updated>2021-11-21T11:02:19.823Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
