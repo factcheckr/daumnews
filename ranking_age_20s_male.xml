@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 20대이하 남성</title>
-    <updated>2021-11-22T15:03:05.797Z</updated>
+    <updated>2021-11-22T16:02:50.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 '침묵 방송사고' 일파만파]]></title>
+        <id>https://v.daum.net/v/20211122170805502</id>
+        <link href="https://v.daum.net/v/20211122170805502"/>
+        <updated>2021-11-22T16:02:21.792Z</updated>
+        <content type="html"><![CDATA[시사저널]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 측, '2분 침묵' 비판에 "與, 기술적 실수에 인신공격"]]></title>
         <id>https://v.daum.net/v/20211122210721038</id>
@@ -13,11 +20,11 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["죽음으로 사죄하겠다"던 강릉 남녀, 극단선택 전 동업자 살인]]></title>
-        <id>https://v.daum.net/v/20211122211634111</id>
-        <link href="https://v.daum.net/v/20211122211634111"/>
-        <updated>2021-11-22T15:02:36.034Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
+        <title type="html"><![CDATA[NYT, "헤어롤 활보 韓 여성, 주변 신경 안써"..주목한 이유]]></title>
+        <id>https://v.daum.net/v/20211122203740736</id>
+        <link href="https://v.daum.net/v/20211122203740736"/>
+        <updated>2021-11-22T15:02:36.041Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[영상] 흉기 난동에 여경 또 도망?..경찰 "악의적 편집된 영상"]]></title>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20211122200905429"/>
         <updated>2021-11-22T14:02:12.362Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NYT, "헤어롤 활보 韓 여성, 주변 신경 안써"..주목한 이유]]></title>
-        <id>https://v.daum.net/v/20211122203740736</id>
-        <link href="https://v.daum.net/v/20211122203740736"/>
-        <updated>2021-11-22T15:02:36.041Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
