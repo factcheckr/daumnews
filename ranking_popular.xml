@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/popular</id>
     <title>다음 뉴스 ─ 랭킹 ─ 많이 본</title>
-    <updated>2021-11-23T17:12:26.168Z</updated>
+    <updated>2021-11-23T18:03:31.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -41,25 +41,18 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[썰렁한 전두환 빈소 첫날, 의원중엔 前사위 윤상현만 찾았다 [전두환 1931~2021]]]></title>
-        <id>https://v.daum.net/v/20211123221601524</id>
-        <link href="https://v.daum.net/v/20211123221601524"/>
-        <updated>2021-11-23T14:03:20.382Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전두환 빈소 앞 전광판, 며느리 박상아 이름 빠진 이유]]></title>
-        <id>https://v.daum.net/v/20211123182708165</id>
-        <link href="https://v.daum.net/v/20211123182708165"/>
-        <updated>2021-11-23T10:01:43.874Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[김종인 "일상으로 회귀"..윤석열 떠난다는 장제원, 새 변수?]]></title>
         <id>https://v.daum.net/v/20211123202002089</id>
         <link href="https://v.daum.net/v/20211123202002089"/>
         <updated>2021-11-23T14:03:20.398Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[썰렁한 전두환 빈소 첫날, 의원중엔 前사위 윤상현만 찾았다 [전두환 1931~2021]]]></title>
+        <id>https://v.daum.net/v/20211123221601524</id>
+        <link href="https://v.daum.net/v/20211123221601524"/>
+        <updated>2021-11-23T14:03:20.382Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['민주주의의 아버지','나라의 영웅'..계속되는 망언들]]></title>
@@ -69,18 +62,18 @@
         <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[전두환 빈소 앞 전광판, 며느리 박상아 이름 빠진 이유]]></title>
+        <id>https://v.daum.net/v/20211123182708165</id>
+        <link href="https://v.daum.net/v/20211123182708165"/>
+        <updated>2021-11-23T10:01:43.874Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["한국치킨 가장 맛없다" 황교익에 분노한 양계협회 "가슴에 대못"]]></title>
         <id>https://v.daum.net/v/20211123215329214</id>
         <link href="https://v.daum.net/v/20211123215329214"/>
         <updated>2021-11-23T14:03:20.396Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조선일보 신문지국 압수수색..'부수 조작 의혹' 본격 수사]]></title>
-        <id>https://v.daum.net/v/20211123201621012</id>
-        <link href="https://v.daum.net/v/20211123201621012"/>
-        <updated>2021-11-23T13:13:02.407Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뉴있저] 윤석열 목포 만찬 누가 계산했나?..횟집 사장에 물어보니]]></title>
@@ -90,11 +83,11 @@
         <content type="html"><![CDATA[YTN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고(故) 전두환 전 대통령 모교 대구공고 동문회, 전 전 대통령 분향소 설치 하지 않기로]]></title>
-        <id>https://v.daum.net/v/20211123212343889</id>
-        <link href="https://v.daum.net/v/20211123212343889"/>
-        <updated>2021-11-23T14:03:20.427Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
+        <title type="html"><![CDATA[조선일보 신문지국 압수수색..'부수 조작 의혹' 본격 수사]]></title>
+        <id>https://v.daum.net/v/20211123201621012</id>
+        <link href="https://v.daum.net/v/20211123201621012"/>
+        <updated>2021-11-23T13:13:02.407Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[사사건건] 김영우 "김종인 '밀당'에 실망"..신경민 "'그 양반' 험한 말, 윤석열 큰 실수"]]></title>
@@ -102,6 +95,27 @@
         <link href="https://v.daum.net/v/20211124000748383"/>
         <updated>2021-11-23T16:02:35.993Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삶의 의미 어디서 찾냐 묻자..한국인만 이걸 1위로 꼽았다]]></title>
+        <id>https://v.daum.net/v/20211123100607836</id>
+        <link href="https://v.daum.net/v/20211123100607836"/>
+        <updated>2021-11-23T17:11:36.038Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고(故) 전두환 전 대통령 모교 대구공고 동문회, 전 전 대통령 분향소 설치 하지 않기로]]></title>
+        <id>https://v.daum.net/v/20211123212343889</id>
+        <link href="https://v.daum.net/v/20211123212343889"/>
+        <updated>2021-11-23T14:03:20.427Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재명 "조국에 동병상련..잘못 사실이면 책임져야"]]></title>
+        <id>https://v.daum.net/v/20211124020717907</id>
+        <link href="https://v.daum.net/v/20211124020717907"/>
+        <updated>2021-11-23T18:02:41.329Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["목욕만해도 쓰러져"..코로나보다 더 무서운 후유증 겪는 사람들]]></title>
@@ -118,11 +132,11 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삶의 의미 어디서 찾냐 묻자..한국인만 이걸 1위로 꼽았다]]></title>
-        <id>https://v.daum.net/v/20211123100607836</id>
-        <link href="https://v.daum.net/v/20211123100607836"/>
-        <updated>2021-11-23T17:11:36.038Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
+        <title type="html"><![CDATA[더 걷는 19조 원 '손실보상' 한다더니.."나랏빚부터 갚겠다"]]></title>
+        <id>https://v.daum.net/v/20211123202511212</id>
+        <link href="https://v.daum.net/v/20211123202511212"/>
+        <updated>2021-11-23T14:03:20.455Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[매일 먹으면 좋은 '슈퍼 과일' 1위는?]]></title>
@@ -139,39 +153,11 @@
         <content type="html"><![CDATA[JTBC]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[더 걷는 19조 원 '손실보상' 한다더니.."나랏빚부터 갚겠다"]]></title>
-        <id>https://v.daum.net/v/20211123202511212</id>
-        <link href="https://v.daum.net/v/20211123202511212"/>
-        <updated>2021-11-23T14:03:20.455Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[日코로나 급감 미스터리..급감 이유? "아무도 몰라"]]></title>
         <id>https://v.daum.net/v/20211123205601530</id>
         <link href="https://v.daum.net/v/20211123205601530"/>
         <updated>2021-11-23T13:13:02.481Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 사망자 폭증에 시신 쌓이는 루마니아..초토화 된 유럽]]></title>
-        <id>https://v.daum.net/v/20211123173105596</id>
-        <link href="https://v.daum.net/v/20211123173105596"/>
-        <updated>2021-11-23T16:02:36.011Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["도움 청했더니 노리개 취급"..中서 또 터진 고위 간부 성스캔들]]></title>
-        <id>https://v.daum.net/v/20211123150716514</id>
-        <link href="https://v.daum.net/v/20211123150716514"/>
-        <updated>2021-11-23T17:11:36.048Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["남이 쓰던 스타벅스 다회용컵 깨끗할까?"..세척 공장 가보니(영상)]]></title>
-        <id>https://v.daum.net/v/20211124000054214</id>
-        <link href="https://v.daum.net/v/20211124000054214"/>
-        <updated>2021-11-23T16:02:36.071Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[억만장자 제치고 시선강탈..쉰살 머스크의 18개월 늦둥이 아들 [영상]]]></title>
@@ -195,24 +181,31 @@
         <content type="html"><![CDATA[기자협회보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[코로나 사망자 폭증에 시신 쌓이는 루마니아..초토화 된 유럽]]></title>
+        <id>https://v.daum.net/v/20211123173105596</id>
+        <link href="https://v.daum.net/v/20211123173105596"/>
+        <updated>2021-11-23T16:02:36.011Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["남이 쓰던 스타벅스 다회용컵 깨끗할까?"..세척 공장 가보니(영상)]]></title>
+        <id>https://v.daum.net/v/20211124000054214</id>
+        <link href="https://v.daum.net/v/20211124000054214"/>
+        <updated>2021-11-23T16:02:36.071Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["도움 청했더니 노리개 취급"..中서 또 터진 고위 간부 성스캔들]]></title>
+        <id>https://v.daum.net/v/20211123150716514</id>
+        <link href="https://v.daum.net/v/20211123150716514"/>
+        <updated>2021-11-23T17:11:36.048Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[을지로 명소 '양미옥'서 화재..1·2층 전소, 80여명 대피]]></title>
         <id>https://v.daum.net/v/20211123220341405</id>
         <link href="https://v.daum.net/v/20211123220341405"/>
         <updated>2021-11-23T15:03:37.617Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["한국 돈 내고 보는데, 중국 공짜 시청" 지옥, 진짜 '죽을 맛']]></title>
-        <id>https://v.daum.net/v/20211123175155234</id>
-        <link href="https://v.daum.net/v/20211123175155234"/>
-        <updated>2021-11-23T16:02:35.998Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["33개월 딸도 먹였는데.." 백화점 빵속 '제습제 알갱이' 범벅]]></title>
-        <id>https://v.daum.net/v/20211123124855211</id>
-        <link href="https://v.daum.net/v/20211123124855211"/>
-        <updated>2021-11-23T13:13:02.480Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
@@ -223,13 +216,6 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[그래도 애플? 이제는 삼성?..김연경 손목 효과에 '대반전']]></title>
-        <id>https://v.daum.net/v/20211123204301378</id>
-        <link href="https://v.daum.net/v/20211123204301378"/>
-        <updated>2021-11-23T15:03:37.606Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["우린 죄인" 남편 목사공부 반대한 박상아.."전두환은 기뻐해"]]></title>
         <id>https://v.daum.net/v/20211123143737407</id>
         <link href="https://v.daum.net/v/20211123143737407"/>
@@ -237,25 +223,11 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 최측근 "전씨, 접종 뒤 혈액암..광주 재판 땐 수면제 먹여"]]></title>
-        <id>https://v.daum.net/v/20211123194303334</id>
-        <link href="https://v.daum.net/v/20211123194303334"/>
-        <updated>2021-11-23T12:01:28.036Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불가리아서 '관광버스 화재 참사'.. 여행 후 고국 돌아가던 46명 숨져]]></title>
-        <id>https://v.daum.net/v/20211123200052663</id>
-        <link href="https://v.daum.net/v/20211123200052663"/>
-        <updated>2021-11-23T15:03:37.606Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주진우 라이브] 故 조비오 신부 조카 "전두환 사망, 불교식으론 업보 덜기 위해 더 많은 고통 있을 것..기독교식으론 구원에 이르지 못한 것"]]></title>
-        <id>https://v.daum.net/v/20211123200241702</id>
-        <link href="https://v.daum.net/v/20211123200241702"/>
-        <updated>2021-11-23T12:01:28.056Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
+        <title type="html"><![CDATA["33개월 딸도 먹였는데.." 백화점 빵속 '제습제 알갱이' 범벅]]></title>
+        <id>https://v.daum.net/v/20211123124855211</id>
+        <link href="https://v.daum.net/v/20211123124855211"/>
+        <updated>2021-11-23T13:13:02.480Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전두환에 쓴소리 마다 않은 '민따로' 민병돈 前 장군, 全 조문]]></title>
@@ -265,6 +237,13 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독] 최측근 "전씨, 접종 뒤 혈액암..광주 재판 땐 수면제 먹여"]]></title>
+        <id>https://v.daum.net/v/20211123194303334</id>
+        <link href="https://v.daum.net/v/20211123194303334"/>
+        <updated>2021-11-23T12:01:28.036Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["한국 치킨 작고 맛없다"..황교익 주장 사실일까 [팩트체크]]]></title>
         <id>https://v.daum.net/v/20211123220101362</id>
         <link href="https://v.daum.net/v/20211123220101362"/>
@@ -272,25 +251,32 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["첫번째 기도는 부모님의 구원"..전두환 전 대통령 차남, 교도소서 목회자 결심]]></title>
-        <id>https://v.daum.net/v/20211123215359222</id>
-        <link href="https://v.daum.net/v/20211123215359222"/>
-        <updated>2021-11-23T14:03:20.489Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
+        <title type="html"><![CDATA["한국 돈 내고 보는데, 중국 공짜 시청" 지옥, 진짜 '죽을 맛']]></title>
+        <id>https://v.daum.net/v/20211123175155234</id>
+        <link href="https://v.daum.net/v/20211123175155234"/>
+        <updated>2021-11-23T16:02:35.998Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명, '조국의 강' 건너나.. "잘못 있으면 작은 티끌조차 책임져야"]]></title>
-        <id>https://v.daum.net/v/20211123230213891</id>
-        <link href="https://v.daum.net/v/20211123230213891"/>
-        <updated>2021-11-23T15:03:37.621Z</updated>
+        <title type="html"><![CDATA[[주진우 라이브] 故 조비오 신부 조카 "전두환 사망, 불교식으론 업보 덜기 위해 더 많은 고통 있을 것..기독교식으론 구원에 이르지 못한 것"]]></title>
+        <id>https://v.daum.net/v/20211123200241702</id>
+        <link href="https://v.daum.net/v/20211123200241702"/>
+        <updated>2021-11-23T12:01:28.056Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불가리아서 '관광버스 화재 참사'.. 여행 후 고국 돌아가던 46명 숨져]]></title>
+        <id>https://v.daum.net/v/20211123200052663</id>
+        <link href="https://v.daum.net/v/20211123200052663"/>
+        <updated>2021-11-23T15:03:37.606Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["조문보다 항의하려고"..신촌세브란스 빈소 분위기는]]></title>
-        <id>https://v.daum.net/v/20211123200609779</id>
-        <link href="https://v.daum.net/v/20211123200609779"/>
-        <updated>2021-11-23T12:01:28.052Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
+        <title type="html"><![CDATA[그래도 애플? 이제는 삼성?..김연경 손목 효과에 '대반전']]></title>
+        <id>https://v.daum.net/v/20211123204301378</id>
+        <link href="https://v.daum.net/v/20211123204301378"/>
+        <updated>2021-11-23T15:03:37.606Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤석열, 전두환 조문 가겠다고 했다가..조국 "2시간 만에 번복"]]></title>
@@ -307,11 +293,11 @@
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마을 주민 모두가 한 교회 신도였다..231명 '수상한 집단감염' [르포 영상]]]></title>
-        <id>https://v.daum.net/v/20211123214941176</id>
-        <link href="https://v.daum.net/v/20211123214941176"/>
-        <updated>2021-11-23T17:11:36.088Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
+        <title type="html"><![CDATA["첫번째 기도는 부모님의 구원"..전두환 전 대통령 차남, 교도소서 목회자 결심]]></title>
+        <id>https://v.daum.net/v/20211123215359222</id>
+        <link href="https://v.daum.net/v/20211123215359222"/>
+        <updated>2021-11-23T14:03:20.489Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[주진우 라이브] 권영세 "김종인은 정치가 '일상'이신 분..윤석열 '본부장' 리스크는 실제 리스크 아닌 '관제 리스크'"]]></title>
@@ -321,11 +307,18 @@
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명 "조국, 과도한 수사로 피해 입었어도..의혹 사실일 땐 책임"]]></title>
-        <id>https://v.daum.net/v/20211123211435786</id>
-        <link href="https://v.daum.net/v/20211123211435786"/>
-        <updated>2021-11-23T13:13:02.502Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
+        <title type="html"><![CDATA["조문보다 항의하려고"..신촌세브란스 빈소 분위기는]]></title>
+        <id>https://v.daum.net/v/20211123200609779</id>
+        <link href="https://v.daum.net/v/20211123200609779"/>
+        <updated>2021-11-23T12:01:28.052Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재명, '조국의 강' 건너나.. "잘못 있으면 작은 티끌조차 책임져야"]]></title>
+        <id>https://v.daum.net/v/20211123230213891</id>
+        <link href="https://v.daum.net/v/20211123230213891"/>
+        <updated>2021-11-23T15:03:37.621Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오후 9시 최소 3465명 확진..어제보다 1419명 증가]]></title>
@@ -342,17 +335,24 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[故전두환 빈소에 모인 극우 유튜버 "전두환과 5·18이 무슨 상관이냐"]]></title>
-        <id>https://v.daum.net/v/20211123221313492</id>
-        <link href="https://v.daum.net/v/20211123221313492"/>
-        <updated>2021-11-23T15:03:37.615Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
+        <title type="html"><![CDATA[미인계로 美정치판 흔든 러 미녀스파이, 하원의원으로 돌아왔다]]></title>
+        <id>https://v.daum.net/v/20211123151936010</id>
+        <link href="https://v.daum.net/v/20211123151936010"/>
+        <updated>2021-11-23T18:02:41.374Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리 아이 '등교룩'..100만원 패딩도 품절]]></title>
-        <id>https://v.daum.net/v/20211123175858426</id>
-        <link href="https://v.daum.net/v/20211123175858426"/>
-        <updated>2021-11-23T10:01:43.876Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
+        <title type="html"><![CDATA[이재명 "조국, 과도한 수사로 피해 입었어도..의혹 사실일 땐 책임"]]></title>
+        <id>https://v.daum.net/v/20211123211435786</id>
+        <link href="https://v.daum.net/v/20211123211435786"/>
+        <updated>2021-11-23T13:13:02.502Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["고속버스 타기 겁난다"..추워지자 시도 때도 없이 소변 마려운 이유]]></title>
+        <id>https://v.daum.net/v/20211123165102247</id>
+        <link href="https://v.daum.net/v/20211123165102247"/>
+        <updated>2021-11-23T18:02:41.377Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
