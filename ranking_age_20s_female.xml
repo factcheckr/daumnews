@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 20대이하 여성</title>
-    <updated>2021-11-26T07:02:45.626Z</updated>
+    <updated>2021-11-26T08:02:55.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -10,20 +10,6 @@
         <id>https://v.daum.net/v/20211126113103542</id>
         <link href="https://v.daum.net/v/20211126113103542"/>
         <updated>2021-11-26T06:02:20.761Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생방송 중 극단적 선택한 中 왕훙, '영혼결혼식'에 유골 팔릴 뻔]]></title>
-        <id>https://v.daum.net/v/20211126132602817</id>
-        <link href="https://v.daum.net/v/20211126132602817"/>
-        <updated>2021-11-26T07:02:12.441Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["완벽한 서민 변신"..日마코 공주, 명품드레스 한 벌도 안 챙겼다]]></title>
-        <id>https://v.daum.net/v/20211125204601285</id>
-        <link href="https://v.daum.net/v/20211125204601285"/>
-        <updated>2021-11-26T07:02:12.443Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
@@ -39,5 +25,19 @@
         <link href="https://v.daum.net/v/20211126145002395"/>
         <updated>2021-11-26T07:02:12.446Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생방송 중 극단적 선택한 中 왕훙, '영혼결혼식'에 유골 팔릴 뻔]]></title>
+        <id>https://v.daum.net/v/20211126132602817</id>
+        <link href="https://v.daum.net/v/20211126132602817"/>
+        <updated>2021-11-26T07:02:12.441Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["완벽한 서민 변신"..日마코 공주, 명품드레스 한 벌도 안 챙겼다]]></title>
+        <id>https://v.daum.net/v/20211125204601285</id>
+        <link href="https://v.daum.net/v/20211125204601285"/>
+        <updated>2021-11-26T07:02:12.443Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
