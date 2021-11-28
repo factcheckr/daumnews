@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 40대 남성</title>
-    <updated>2021-11-28T22:02:42.015Z</updated>
+    <updated>2021-11-28T23:02:59.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20211129060042678"/>
         <updated>2021-11-28T22:02:32.375Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[305개 여론조사 전수조사해보니..윤석열 42% vs 이재명 36.3%]]></title>
+        <id>https://v.daum.net/v/20211129054601510</id>
+        <link href="https://v.daum.net/v/20211129054601510"/>
+        <updated>2021-11-28T23:02:49.486Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[수퍼카 17대 보유, 집 없이 모텔 생활..'카푸어 끝판왕' 유튜버]]></title>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20211128235822717"/>
         <updated>2021-11-28T22:02:32.378Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["오미크론 확산, 기정사실" 12개국 확진..전세계 '비상']]></title>
-        <id>https://v.daum.net/v/20211129043855819</id>
-        <link href="https://v.daum.net/v/20211129043855819"/>
-        <updated>2021-11-28T22:02:32.380Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
