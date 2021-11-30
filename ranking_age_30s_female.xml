@@ -2,29 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 30대 여성</title>
-    <updated>2021-11-30T20:02:23.099Z</updated>
+    <updated>2021-11-30T21:02:36.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA["일상회복, 되돌릴 수 없다"..정면돌파 선택한 정부]]></title>
-        <id>https://v.daum.net/v/20211201000031185</id>
-        <link href="https://v.daum.net/v/20211201000031185"/>
-        <updated>2021-11-30T20:02:00.143Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA['쥴리 벽화' 자리에→'김부선 벽화'·'인체 대장 그림' 등장]]></title>
         <id>https://v.daum.net/v/20211130223956771</id>
         <link href="https://v.daum.net/v/20211130223956771"/>
         <updated>2021-11-30T16:02:53.783Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수요동물원] 사자가 빙의했나..새끼 물어죽이는 얼룩말의 잔혹본능]]></title>
-        <id>https://v.daum.net/v/20211201000227211</id>
-        <link href="https://v.daum.net/v/20211201000227211"/>
-        <updated>2021-11-30T17:12:53.905Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 "주 52시간제 철폐" 발언에 尹측 "발언 취지 사실과 달라"(종합)]]></title>
@@ -39,5 +25,19 @@
         <link href="https://v.daum.net/v/20211130224101782"/>
         <updated>2021-11-30T15:02:02.055Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['공식일정 무기한 취소' 이준석, 부산은 왜 갔나(종합)]]></title>
+        <id>https://v.daum.net/v/20211130234623083</id>
+        <link href="https://v.daum.net/v/20211130234623083"/>
+        <updated>2021-11-30T21:02:14.839Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[수요동물원] 사자가 빙의했나..새끼 물어죽이는 얼룩말의 잔혹본능]]></title>
+        <id>https://v.daum.net/v/20211201000227211</id>
+        <link href="https://v.daum.net/v/20211201000227211"/>
+        <updated>2021-11-30T17:12:53.905Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
