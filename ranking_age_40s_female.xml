@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 40대 여성</title>
-    <updated>2021-11-30T17:13:16.789Z</updated>
+    <updated>2021-11-30T18:03:24.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["일상회복, 되돌릴 수 없다"..정면돌파 선택한 정부]]></title>
+        <id>https://v.daum.net/v/20211201000031185</id>
+        <link href="https://v.daum.net/v/20211201000031185"/>
+        <updated>2021-11-30T17:13:02.439Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["여기까지" 폰 끄고 잠적 이준석, 부산서 포착..두 사람 만났다]]></title>
         <id>https://v.daum.net/v/20211130225348875</id>
         <link href="https://v.daum.net/v/20211130225348875"/>
         <updated>2021-11-30T16:03:03.631Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해외 가려던 발길 멈춘다..여행업계 "줄취소" 다시 울상]]></title>
+        <id>https://v.daum.net/v/20211130200511497</id>
+        <link href="https://v.daum.net/v/20211130200511497"/>
+        <updated>2021-11-30T16:03:03.628Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['쥴리 벽화' 자리에→'김부선 벽화'·'인체 대장 그림' 등장]]></title>
@@ -25,19 +39,5 @@
         <link href="https://v.daum.net/v/20211201000227211"/>
         <updated>2021-11-30T17:13:02.437Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외 가려던 발길 멈춘다..여행업계 "줄취소" 다시 울상]]></title>
-        <id>https://v.daum.net/v/20211130200511497</id>
-        <link href="https://v.daum.net/v/20211130200511497"/>
-        <updated>2021-11-30T16:03:03.628Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["일상회복, 되돌릴 수 없다"..정면돌파 선택한 정부]]></title>
-        <id>https://v.daum.net/v/20211201000031185</id>
-        <link href="https://v.daum.net/v/20211201000031185"/>
-        <updated>2021-11-30T17:13:02.439Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>

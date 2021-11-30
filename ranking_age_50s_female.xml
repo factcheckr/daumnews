@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 50대이상 여성</title>
-    <updated>2021-11-30T17:13:16.868Z</updated>
+    <updated>2021-11-30T18:03:24.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -27,17 +27,17 @@
         <content type="html"><![CDATA[JTBC]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["여기까지" 폰 끄고 잠적 이준석, 부산서 포착..두 사람 만났다]]></title>
-        <id>https://v.daum.net/v/20211130225348875</id>
-        <link href="https://v.daum.net/v/20211130225348875"/>
-        <updated>2021-11-30T17:13:12.138Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['공식일정 무기한 취소' 이준석, 부산은 왜 갔나(종합)]]></title>
         <id>https://v.daum.net/v/20211130234623083</id>
         <link href="https://v.daum.net/v/20211130234623083"/>
         <updated>2021-11-30T16:03:13.287Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["여기까지" 폰 끄고 잠적 이준석, 부산서 포착..두 사람 만났다]]></title>
+        <id>https://v.daum.net/v/20211130225348875</id>
+        <link href="https://v.daum.net/v/20211130225348875"/>
+        <updated>2021-11-30T17:13:12.138Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
