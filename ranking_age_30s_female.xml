@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 30대 여성</title>
-    <updated>2021-12-04T10:02:37.013Z</updated>
+    <updated>2021-12-04T11:02:13.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20211204112055876"/>
         <updated>2021-12-04T07:01:41.255Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 후보는 도대체 어느 시대를 살고 있는 걸까]]></title>
+        <id>https://v.daum.net/v/20211204182701814</id>
+        <link href="https://v.daum.net/v/20211204182701814"/>
+        <updated>2021-12-04T11:01:50.652Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["돈 빼서 은행에 돈 맡기러 간다"..연 2.1% 예금·4.2% 적금 '특판의 귀환']]></title>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20211204140713110"/>
         <updated>2021-12-04T10:02:11.399Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조동연 측, 자녀 사진 공개한 가세연 고발..강용석 "아이들 모습 다 비슷"]]></title>
-        <id>https://v.daum.net/v/20211204112327893</id>
-        <link href="https://v.daum.net/v/20211204112327893"/>
-        <updated>2021-12-04T10:02:11.399Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
