@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 20대이하 여성</title>
-    <updated>2021-12-05T02:27:50.107Z</updated>
+    <updated>2021-12-05T03:03:17.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -10,6 +10,20 @@
         <id>https://v.daum.net/v/20211204215927619</id>
         <link href="https://v.daum.net/v/20211204215927619"/>
         <updated>2021-12-05T02:27:19.365Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["옆팀 막내 또 관뒀대"..떠나는 신입들, 돈 때문이 아니었다 [곽용희의 인사노무노트]]]></title>
+        <id>https://v.daum.net/v/20211205083901208</id>
+        <link href="https://v.daum.net/v/20211205083901208"/>
+        <updated>2021-12-05T03:02:45.159Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["초등학생 형제가 엄마 생일선물 사려고 길거리에서 귤을 팔고 있어요"]]></title>
+        <id>https://v.daum.net/v/20211205000100305</id>
+        <link href="https://v.daum.net/v/20211205000100305"/>
+        <updated>2021-12-05T02:27:19.371Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
@@ -25,19 +39,5 @@
         <link href="https://v.daum.net/v/20211205090021387"/>
         <updated>2021-12-05T01:58:34.223Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내일부터 일상 달라진다..방역패스 없으면 16곳 '입장불가']]></title>
-        <id>https://v.daum.net/v/20211205060109219</id>
-        <link href="https://v.daum.net/v/20211205060109219"/>
-        <updated>2021-12-05T01:58:34.222Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["초등학생 형제가 엄마 생일선물 사려고 길거리에서 귤을 팔고 있어요"]]></title>
-        <id>https://v.daum.net/v/20211205000100305</id>
-        <link href="https://v.daum.net/v/20211205000100305"/>
-        <updated>2021-12-05T02:27:19.371Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
