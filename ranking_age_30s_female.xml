@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 30대 여성</title>
-    <updated>2021-12-05T01:59:05.028Z</updated>
+    <updated>2021-12-05T02:27:50.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20211205090021387"/>
         <updated>2021-12-05T01:58:42.788Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["서울 집값 평균 17% 하락 예상, 2020년 이후 낀 거품만 꺼진다"]]></title>
+        <id>https://v.daum.net/v/20211205100112156</id>
+        <link href="https://v.daum.net/v/20211205100112156"/>
+        <updated>2021-12-05T02:27:27.903Z</updated>
+        <content type="html"><![CDATA[주간동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오미크론, 감기와 혼종 가능성 제기..감기 유전자 코드 보유]]></title>
+        <id>https://v.daum.net/v/20211205085807332</id>
+        <link href="https://v.daum.net/v/20211205085807332"/>
+        <updated>2021-12-05T02:27:27.903Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['이자 10%' 특판까지 등장..예적금 어디서 들어야 유리할까?]]></title>
@@ -25,19 +39,5 @@
         <link href="https://v.daum.net/v/20211205060109219"/>
         <updated>2021-12-05T01:58:42.791Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["MADE IN KOREA 포기할 수 없었다"..휴롬의 고집 통했다]]></title>
-        <id>https://v.daum.net/v/20211205072003710</id>
-        <link href="https://v.daum.net/v/20211205072003710"/>
-        <updated>2021-12-05T01:58:42.793Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한달살이 제주? 우린 경남으로 간다..수도권 MZ 세대 '인기']]></title>
-        <id>https://v.daum.net/v/20211205080603973</id>
-        <link href="https://v.daum.net/v/20211205080603973"/>
-        <updated>2021-12-05T01:58:42.794Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
 </feed>
