@@ -2,29 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 20대이하 남성</title>
-    <updated>2021-12-07T15:02:38.123Z</updated>
+    <updated>2021-12-07T16:03:24.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA["한국, 서유럽만큼 부유하지만 불평등은 훨씬 심각" 분석 나와]]></title>
-        <id>https://v.daum.net/v/20211207203302783</id>
-        <link href="https://v.daum.net/v/20211207203302783"/>
-        <updated>2021-12-07T15:02:12.271Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[노재승 "가난하게 태어난 것 내세우는 사람들 정말 싫다" 발언 또 논란]]></title>
         <id>https://v.daum.net/v/20211207204704936</id>
         <link href="https://v.daum.net/v/20211207204704936"/>
         <updated>2021-12-07T14:02:22.950Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지하철 6호선 기관사, 운행 중 확진판정..승객 하차 소동]]></title>
-        <id>https://v.daum.net/v/20211207200515466</id>
-        <link href="https://v.daum.net/v/20211207200515466"/>
-        <updated>2021-12-07T15:02:12.274Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[현장] 서울 대로변 고물상서 폭발물 항공탄 발견..800여명 긴급 대피]]></title>
@@ -39,5 +25,19 @@
         <link href="https://v.daum.net/v/20211207202704726"/>
         <updated>2021-12-07T13:17:18.920Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] '신호등 무시 우회전' 대형트럭에 초등생 참변]]></title>
+        <id>https://v.daum.net/v/20211207205410023</id>
+        <link href="https://v.daum.net/v/20211207205410023"/>
+        <updated>2021-12-07T16:02:50.997Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영상] '일본 코로나 신규 사망자가 0명이라고?'..일본 코로나 급감 미스터리]]></title>
+        <id>https://v.daum.net/v/20211207214423486</id>
+        <link href="https://v.daum.net/v/20211207214423486"/>
+        <updated>2021-12-07T16:02:50.999Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
