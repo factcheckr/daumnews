@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 30대 남성</title>
-    <updated>2021-12-31T17:45:06.430Z</updated>
+    <updated>2021-12-31T18:25:00.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -27,17 +27,17 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 이재명 캠프∙인수위 자녀 '줄줄이' 합격..시 산하기관 '석연찮은 채용']]></title>
-        <id>https://v.daum.net/v/20211231212542740</id>
-        <link href="https://v.daum.net/v/20211231212542740"/>
-        <updated>2021-12-31T17:44:48.451Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[가세연, 이준석 이어 송영길 '뇌물혐의' 고발(종합)]]></title>
         <id>https://v.daum.net/v/20211231212401706</id>
         <link href="https://v.daum.net/v/20211231212401706"/>
         <updated>2021-12-31T17:44:48.452Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 이재명 캠프∙인수위 자녀 '줄줄이' 합격..시 산하기관 '석연찮은 채용']]></title>
+        <id>https://v.daum.net/v/20211231212542740</id>
+        <link href="https://v.daum.net/v/20211231212542740"/>
+        <updated>2021-12-31T17:44:48.451Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
