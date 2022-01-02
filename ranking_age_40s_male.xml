@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 40대 남성</title>
-    <updated>2022-01-02T17:26:50.229Z</updated>
+    <updated>2022-01-02T18:24:19.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[李 39.4% 尹 29.9%..2030 표심 돌아섰다 [중앙일보 여론조사]]]></title>
+        <id>https://v.daum.net/v/20220103010020369</id>
+        <link href="https://v.daum.net/v/20220103010020369"/>
+        <updated>2022-01-02T17:26:40.822Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['직원살해' 체육시설대표 횡설수설에 쓰러진 피해자 보고도 그냥간 경찰]]></title>
         <id>https://v.daum.net/v/20220102210952267</id>
         <link href="https://v.daum.net/v/20220102210952267"/>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20220102201025883"/>
         <updated>2022-01-02T14:19:01.979Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[李 39.4% 尹 29.9%..2030 표심 돌아섰다 [중앙일보 여론조사]]]></title>
-        <id>https://v.daum.net/v/20220103010020369</id>
-        <link href="https://v.daum.net/v/20220103010020369"/>
-        <updated>2022-01-02T17:26:40.822Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
