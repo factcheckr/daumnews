@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 40대 여성</title>
-    <updated>2022-01-02T08:25:15.813Z</updated>
+    <updated>2022-01-02T09:21:25.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -20,10 +20,17 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내일부터 방역패스 유효기간 적용.."미리 앱 업데이트 해야"(종합)]]></title>
-        <id>https://v.daum.net/v/20220102144734914</id>
-        <link href="https://v.daum.net/v/20220102144734914"/>
-        <updated>2022-01-02T07:20:01.389Z</updated>
+        <title type="html"><![CDATA["내일부터 '딩동' 소리 난다면? 다른 '방역패스' 제시해야"(종합)]]></title>
+        <id>https://v.daum.net/v/20220102153101536</id>
+        <link href="https://v.daum.net/v/20220102153101536"/>
+        <updated>2022-01-02T08:25:02.055Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 "낙선하면 추경 안 한다? 공약이란 다 그런 것"]]></title>
+        <id>https://v.daum.net/v/20220102162754296</id>
+        <link href="https://v.daum.net/v/20220102162754296"/>
+        <updated>2022-01-02T09:21:10.134Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20220102152549459"/>
         <updated>2022-01-02T08:25:02.053Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내일부터 '딩동' 소리 난 사람은 출입 불가입니다"(종합)]]></title>
-        <id>https://v.daum.net/v/20220102153101536</id>
-        <link href="https://v.daum.net/v/20220102153101536"/>
-        <updated>2022-01-02T08:25:02.055Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
