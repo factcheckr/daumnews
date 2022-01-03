@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 30대 남성</title>
-    <updated>2022-01-03T20:23:06.201Z</updated>
+    <updated>2022-01-03T21:18:46.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220103221915187"/>
         <updated>2022-01-03T20:22:48.662Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 월북 김씨, 김정은 생일날 "南 언론은 왜 원수님 욕하냐" 화내]]></title>
+        <id>https://v.daum.net/v/20220104050020855</id>
+        <link href="https://v.daum.net/v/20220104050020855"/>
+        <updated>2022-01-03T21:18:27.970Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["安을 최고위원 임명할 수도" 이준석 돌출 발언에 발끈한 국민의당 "어린애 징징거림"]]></title>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20220103201004626"/>
         <updated>2022-01-03T18:25:15.604Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바지 벗겨진 채 있었는데..옷 덮어주고 가버린 경찰]]></title>
-        <id>https://v.daum.net/v/20220103203117937</id>
-        <link href="https://v.daum.net/v/20220103203117937"/>
-        <updated>2022-01-03T19:17:07.808Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
