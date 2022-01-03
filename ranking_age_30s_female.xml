@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 30대 여성</title>
-    <updated>2022-01-03T17:29:25.554Z</updated>
+    <updated>2022-01-03T18:25:32.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바지 벗겨진 채 있었는데..옷 덮어주고 가버린 경찰]]></title>
+        <id>https://v.daum.net/v/20220103203117937</id>
+        <link href="https://v.daum.net/v/20220103203117937"/>
+        <updated>2022-01-03T18:25:11.637Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] "태권도를 20년 했는데"..70cm 막대 살해 미스터리]]></title>
         <id>https://v.daum.net/v/20220103201004626</id>
@@ -20,13 +27,6 @@
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[집 담보 대출 받으려면 '기존 빚'부터 갚으세요]]></title>
-        <id>https://v.daum.net/v/20220103203046929</id>
-        <link href="https://v.daum.net/v/20220103203046929"/>
-        <updated>2022-01-03T15:22:02.535Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[이재명 "윤석열 지지 이탈해 안철수로..尹·安 단일화 가능성"(종합)]]></title>
         <id>https://v.daum.net/v/20220103224204350</id>
         <link href="https://v.daum.net/v/20220103224204350"/>
@@ -34,10 +34,10 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[천은미 "백신 1차만 맞아..부작용 심해 유서 쓸 생각하기도"]]></title>
-        <id>https://v.daum.net/v/20220103210119348</id>
-        <link href="https://v.daum.net/v/20220103210119348"/>
-        <updated>2022-01-03T17:29:02.068Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
+        <title type="html"><![CDATA[집 담보 대출 받으려면 '기존 빚'부터 갚으세요]]></title>
+        <id>https://v.daum.net/v/20220103203046929</id>
+        <link href="https://v.daum.net/v/20220103203046929"/>
+        <updated>2022-01-03T15:22:02.535Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
