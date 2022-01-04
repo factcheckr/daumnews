@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 30대 남성</title>
-    <updated>2022-01-04T22:22:19.751Z</updated>
+    <updated>2022-01-04T23:21:50.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['심리학자로서 윤석열 어떻게 보나' 질문에..이수정 대답은]]></title>
+        <id>https://v.daum.net/v/20220104225618982</id>
+        <link href="https://v.daum.net/v/20220104225618982"/>
+        <updated>2022-01-04T23:21:33.388Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["문제 근원은 윤석열".. 논란마다 우물쭈물, 실언까지]]></title>
         <id>https://v.daum.net/v/20220105000859439</id>
         <link href="https://v.daum.net/v/20220105000859439"/>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20220105040005376"/>
         <updated>2022-01-04T22:22:01.901Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 직할 본부장에 원희룡 유력.. 권성동은 사무총장 사퇴]]></title>
-        <id>https://v.daum.net/v/20220105030501253</id>
-        <link href="https://v.daum.net/v/20220105030501253"/>
-        <updated>2022-01-04T20:24:08.877Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
