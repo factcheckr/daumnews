@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 50대이상 여성</title>
-    <updated>2022-01-05T16:34:56.435Z</updated>
+    <updated>2022-01-05T17:30:14.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마지막 순간 스팸문자에 답장.. 젊은 은수씨의 죽음]]></title>
+        <id>https://v.daum.net/v/20220106000406797</id>
+        <link href="https://v.daum.net/v/20220106000406797"/>
+        <updated>2022-01-05T16:34:50.287Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5일 9시 코로나19 확진자 3479여명.."거리두기·3차 접종 영향"]]></title>
+        <id>https://v.daum.net/v/20220105230431407</id>
+        <link href="https://v.daum.net/v/20220105230431407"/>
+        <updated>2022-01-05T17:30:09.466Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["신혼집 돈 2억 투자했는데.." 오스템임플란트 주주 눈물]]></title>
         <id>https://v.daum.net/v/20220105223610209</id>
@@ -25,19 +39,5 @@
         <link href="https://v.daum.net/v/20220105221000961"/>
         <updated>2022-01-05T16:34:50.285Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불참 윤석열 "되면 갈 생각도 있었죠, 왜 무슨 일 있었어요?"]]></title>
-        <id>https://v.daum.net/v/20220105214501594</id>
-        <link href="https://v.daum.net/v/20220105214501594"/>
-        <updated>2022-01-05T14:18:17.305Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마지막 순간 스팸문자에 답장.. 젊은 은수씨의 죽음]]></title>
-        <id>https://v.daum.net/v/20220106000406797</id>
-        <link href="https://v.daum.net/v/20220106000406797"/>
-        <updated>2022-01-05T16:34:50.287Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
