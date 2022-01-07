@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 20대이하 여성</title>
-    <updated>2022-01-07T06:27:09.270Z</updated>
+    <updated>2022-01-07T07:20:41.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한밤중 떡볶이집에 전화해 1시간 넘게 욕설한 배우, 결국 실형]]></title>
-        <id>https://v.daum.net/v/20220107080235588</id>
-        <link href="https://v.daum.net/v/20220107080235588"/>
-        <updated>2022-01-07T01:15:38.594Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["성상납 오명, 자신없다"..김소연, 결국 국민의힘 탈당]]></title>
         <id>https://v.daum.net/v/20220107141742538</id>
         <link href="https://v.daum.net/v/20220107141742538"/>
@@ -27,17 +20,24 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["고객님, 일년에 2억은 쓰셔야 합니다" .. 백화점, VIP 기준 더 높아져]]></title>
-        <id>https://v.daum.net/v/20220107113726397</id>
-        <link href="https://v.daum.net/v/20220107113726397"/>
-        <updated>2022-01-07T06:26:36.326Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[42kg 80대 머리채 잡아 끌고 손발 묶어 온몸 폭행..김천 노인보호센터]]></title>
         <id>https://v.daum.net/v/20220107134106597</id>
         <link href="https://v.daum.net/v/20220107134106597"/>
         <updated>2022-01-07T06:26:36.327Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한밤중 떡볶이집에 전화해 1시간 넘게 욕설한 배우, 결국 실형]]></title>
+        <id>https://v.daum.net/v/20220107080235588</id>
+        <link href="https://v.daum.net/v/20220107080235588"/>
+        <updated>2022-01-07T01:15:38.594Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["고객님, 일년에 2억은 쓰셔야 합니다" .. 백화점, VIP 기준 더 높아져]]></title>
+        <id>https://v.daum.net/v/20220107113726397</id>
+        <link href="https://v.daum.net/v/20220107113726397"/>
+        <updated>2022-01-07T06:26:36.326Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
