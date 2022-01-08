@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 40대 여성</title>
-    <updated>2022-01-08T15:22:03.972Z</updated>
+    <updated>2022-01-08T16:32:51.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["스마트폰 아인데 우야노"..마트 입구서 멈춰선 노인들 [가봤더니]]]></title>
+        <id>https://v.daum.net/v/20220108053202272</id>
+        <link href="https://v.daum.net/v/20220108053202272"/>
+        <updated>2022-01-08T16:32:35.731Z</updated>
+        <content type="html"><![CDATA[쿠키뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[인간 수명 130세 시대 오나.."110세 넘기면 장수 가능성 높아"]]></title>
         <id>https://v.daum.net/v/20220108214146616</id>
         <link href="https://v.daum.net/v/20220108214146616"/>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20220108213429548"/>
         <updated>2022-01-08T14:19:14.424Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민의힘 "이재명 임명장 받은 인물, 불법 댓글조작 정황"]]></title>
-        <id>https://v.daum.net/v/20220108201510956</id>
-        <link href="https://v.daum.net/v/20220108201510956"/>
-        <updated>2022-01-08T15:21:50.016Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
