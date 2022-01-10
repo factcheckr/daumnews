@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 50대이상 남성</title>
-    <updated>2022-01-10T17:30:53.801Z</updated>
+    <updated>2022-01-10T18:26:06.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['오스템 횡령 직원' 가족 자택 압색 종료..금괴 254개 추가 압수(종합)]]></title>
+        <id>https://v.daum.net/v/20220111023110942</id>
+        <link href="https://v.daum.net/v/20220111023110942"/>
+        <updated>2022-01-10T18:26:05.709Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["앞으로 스타벅스는 안 마실 것"..'멸공 논란'에 신세계 측 "이제 더 안 하겠다" (종합)]]></title>
         <id>https://v.daum.net/v/20220111000524475</id>
         <link href="https://v.daum.net/v/20220111000524475"/>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20220110200200238"/>
         <updated>2022-01-10T16:33:57.189Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오스템 금괴 254개 아버지 집에서 찾았다..경찰, 횡령 직원 집 3곳 압수수색]]></title>
-        <id>https://v.daum.net/v/20220111012101808</id>
-        <link href="https://v.daum.net/v/20220111012101808"/>
-        <updated>2022-01-10T17:30:53.081Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
