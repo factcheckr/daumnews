@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 50대이상 남성</title>
-    <updated>2022-01-11T15:23:12.188Z</updated>
+    <updated>2022-01-11T16:33:53.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[정경심, 어차피 다음달 석방인데..굳이 보석 청구, 왜?]]></title>
+        <id>https://v.daum.net/v/20220112000210774</id>
+        <link href="https://v.daum.net/v/20220112000210774"/>
+        <updated>2022-01-11T16:33:52.592Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["싹 다 부수고 다시 지어라"..광주 아파트 외벽 붕괴 "부실·철거" 등 후폭풍]]></title>
         <id>https://v.daum.net/v/20220111200029097</id>
         <link href="https://v.daum.net/v/20220111200029097"/>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20220111201315356"/>
         <updated>2022-01-11T12:34:10.809Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우회전 차량은 무조건 일시 정지"]]></title>
-        <id>https://v.daum.net/v/20220111210324210</id>
-        <link href="https://v.daum.net/v/20220111210324210"/>
-        <updated>2022-01-11T15:23:11.549Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
