@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 50대이상 여성</title>
-    <updated>2022-01-11T18:25:50.526Z</updated>
+    <updated>2022-01-11T19:17:43.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220111202005469"/>
         <updated>2022-01-11T15:23:07.215Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송영길 "이재명, 문재인 정부서 탄압"..윤영찬 "아연실색, 사실 아냐"]]></title>
+        <id>https://v.daum.net/v/20220111224200335</id>
+        <link href="https://v.daum.net/v/20220111224200335"/>
+        <updated>2022-01-11T19:17:38.248Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정경심, 어차피 다음달 석방인데..굳이 보석 청구, 왜?]]></title>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20220112001138868"/>
         <updated>2022-01-11T18:25:45.226Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우회전 차량은 무조건 일시 정지"]]></title>
-        <id>https://v.daum.net/v/20220111210324210</id>
-        <link href="https://v.daum.net/v/20220111210324210"/>
-        <updated>2022-01-11T15:23:07.214Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
