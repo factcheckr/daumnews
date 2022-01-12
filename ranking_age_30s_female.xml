@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 30대 여성</title>
-    <updated>2022-01-12T12:35:31.792Z</updated>
+    <updated>2022-01-12T13:29:19.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2500원 머핀 주문하고 2370원만 낸 남매..사장은 이런 결정했다]]></title>
+        <id>https://v.daum.net/v/20220112194102733</id>
+        <link href="https://v.daum.net/v/20220112194102733"/>
+        <updated>2022-01-12T12:35:01.682Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정용진, 케이크 사진 올렸을 뿐인데..네티즌들 "멸공의 횃불"]]></title>
         <id>https://v.daum.net/v/20220112183100710</id>
         <link href="https://v.daum.net/v/20220112183100710"/>
         <updated>2022-01-12T11:18:06.154Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ET] "혼술이 낙인데"..'4캔 만 원' 편의점 맥주 사라질까]]></title>
+        <id>https://v.daum.net/v/20220112181331346</id>
+        <link href="https://v.daum.net/v/20220112181331346"/>
+        <updated>2022-01-12T12:35:01.683Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[거리두기 연장 가닥.."내달 하루 2∼3만명 확진 가능성"(종합2보)]]></title>
@@ -25,19 +39,5 @@
         <link href="https://v.daum.net/v/20220112184635935"/>
         <updated>2022-01-12T12:35:01.682Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2500원 머핀 주문하고 2370원만 낸 남매..사장은 이런 결정했다]]></title>
-        <id>https://v.daum.net/v/20220112194102733</id>
-        <link href="https://v.daum.net/v/20220112194102733"/>
-        <updated>2022-01-12T12:35:01.682Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ET] "혼술이 낙인데"..'4캔 만 원' 편의점 맥주 사라질까]]></title>
-        <id>https://v.daum.net/v/20220112181331346</id>
-        <link href="https://v.daum.net/v/20220112181331346"/>
-        <updated>2022-01-12T12:35:01.683Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
