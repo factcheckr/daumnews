@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 20대이하 여성</title>
-    <updated>2022-01-15T04:28:35.447Z</updated>
+    <updated>2022-01-15T05:20:57.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[소방청, 광주 '이스라엘 특수부대' 투입 요구에 "수색 자체가 곤란"]]></title>
+        <id>https://v.daum.net/v/20220115123622935</id>
+        <link href="https://v.daum.net/v/20220115123622935"/>
+        <updated>2022-01-15T05:20:26.286Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['마기꾼' 이유 있었네..특히 의료용 마스크 꼈더니 '깜짝 효과']]></title>
         <id>https://v.daum.net/v/20220114140702235</id>
         <link href="https://v.daum.net/v/20220114140702235"/>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20220115100117181"/>
         <updated>2022-01-15T02:43:13.249Z</updated>
         <content type="html"><![CDATA[주간동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[탐정M] 38살 고 김다운, 끝내 끼지 못한 39만원짜리 절연장갑]]></title>
-        <id>https://v.daum.net/v/20220115105210856</id>
-        <link href="https://v.daum.net/v/20220115105210856"/>
-        <updated>2022-01-15T04:28:01.940Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
