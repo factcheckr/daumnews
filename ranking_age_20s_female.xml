@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 20대이하 여성</title>
-    <updated>2022-01-15T17:27:51.990Z</updated>
+    <updated>2022-01-15T18:25:31.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220114140702235"/>
         <updated>2022-01-15T16:32:04.419Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일본, 남서부 해안에 3m 쓰나미 경보 발령..남태평양 해저화산 폭발 영향인듯]]></title>
+        <id>https://v.daum.net/v/20220116011859540</id>
+        <link href="https://v.daum.net/v/20220116011859540"/>
+        <updated>2022-01-15T18:25:01.639Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명 "군대 안 갔다온 인간들이 멸공·북진통일 주장"]]></title>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20220115205901268"/>
         <updated>2022-01-15T16:32:04.423Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전자레인지 돌리던 접시 '퍽'..강화유리 '자연파손' 주의]]></title>
-        <id>https://v.daum.net/v/20220115212810424</id>
-        <link href="https://v.daum.net/v/20220115212810424"/>
-        <updated>2022-01-15T16:32:04.424Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
