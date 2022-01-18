@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/kkomkkom</id>
     <title>다음 뉴스 ─ 랭킹 ─ 열독률 높은</title>
-    <updated>2022-01-18T15:22:59.456Z</updated>
+    <updated>2022-01-18T16:34:58.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220118203113087"/>
         <updated>2022-01-18T12:34:40.571Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정청래 "'이재명 후보 뜻이라며 탈당 권유..하지 않을 것"]]></title>
+        <id>https://v.daum.net/v/20220119002153665</id>
+        <link href="https://v.daum.net/v/20220119002153665"/>
+        <updated>2022-01-18T16:34:15.978Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["친구 아빠인 목사가 성폭행..딸은 선교사 꿈 접었다" 처벌 청원]]></title>
@@ -27,20 +34,6 @@
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[첫 날부터 '0주 배정' 사태..개미돈 32조 'LG엔솔' 향했다]]></title>
-        <id>https://v.daum.net/v/20220118200051576</id>
-        <link href="https://v.daum.net/v/20220118200051576"/>
-        <updated>2022-01-18T13:29:22.718Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["의사의 직무태만으로 뱃속의 아기가 죽었습니다" 20대母 청원]]></title>
-        <id>https://v.daum.net/v/20220118204653345</id>
-        <link href="https://v.daum.net/v/20220118204653345"/>
-        <updated>2022-01-18T13:29:22.731Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[횡단보도 지나는 차에 일부러 '쿵'..3400만원 뜯어내]]></title>
         <id>https://v.daum.net/v/20220118202802032</id>
         <link href="https://v.daum.net/v/20220118202802032"/>
@@ -48,11 +41,18 @@
         <content type="html"><![CDATA[JTBC]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[예멘 반군, UAE 공습 9명 사상..사우디 동맹군, 즉각 반격]]></title>
-        <id>https://v.daum.net/v/20220118193223110</id>
-        <link href="https://v.daum.net/v/20220118193223110"/>
-        <updated>2022-01-18T12:34:40.603Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
+        <title type="html"><![CDATA[첫 날부터 '0주 배정' 사태..개미돈 32조 'LG엔솔' 향했다]]></title>
+        <id>https://v.daum.net/v/20220118200051576</id>
+        <link href="https://v.daum.net/v/20220118200051576"/>
+        <updated>2022-01-18T13:29:22.718Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["배 아픈 산모 돌려보낸 의사..출산 2주 앞두고 사산" 20대母 청원]]></title>
+        <id>https://v.daum.net/v/20220118204653345</id>
+        <link href="https://v.daum.net/v/20220118204653345"/>
+        <updated>2022-01-18T13:29:22.731Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["70대 母 들이받고 차 흠집부터 살핀 운전자, 보험사는 9대 1 통보"]]></title>
@@ -62,11 +62,11 @@
         <content type="html"><![CDATA[세계일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] "내려보니 지구대"..택시기사 대처로 보이스피싱범 검거]]></title>
-        <id>https://v.daum.net/v/20220118203854231</id>
-        <link href="https://v.daum.net/v/20220118203854231"/>
-        <updated>2022-01-18T14:19:54.004Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
+        <title type="html"><![CDATA[예멘 반군, UAE 공습 9명 사상..사우디 동맹군, 즉각 반격]]></title>
+        <id>https://v.daum.net/v/20220118193223110</id>
+        <link href="https://v.daum.net/v/20220118193223110"/>
+        <updated>2022-01-18T12:34:40.603Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["현피 뜨자" 온라인게임 상대 불러내 살해한 30대男..중형선고]]></title>
@@ -76,13 +76,6 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LG엔솔 청약 첫날, 대신·하이證 4주..미래에셋은 이미 '0주'(종합)]]></title>
-        <id>https://v.daum.net/v/20220118173625284</id>
-        <link href="https://v.daum.net/v/20220118173625284"/>
-        <updated>2022-01-18T09:21:56.846Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[15년간 함께 살다 사라진 남편..'알고보니 다른 사람']]></title>
         <id>https://v.daum.net/v/20220118203413154</id>
         <link href="https://v.daum.net/v/20220118203413154"/>
@@ -90,18 +83,18 @@
         <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 생활고에 배달 나선 '두 아이 아빠', 신호위반 차에..]]></title>
-        <id>https://v.daum.net/v/20220118203603188</id>
-        <link href="https://v.daum.net/v/20220118203603188"/>
-        <updated>2022-01-18T13:29:22.724Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
+        <title type="html"><![CDATA[[단독] "내려보니 지구대"..택시기사 대처로 보이스피싱범 검거]]></title>
+        <id>https://v.daum.net/v/20220118203854231</id>
+        <link href="https://v.daum.net/v/20220118203854231"/>
+        <updated>2022-01-18T14:19:54.004Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[100세에 별 달고 장군 된 미국 6·25 참전용사 별세]]></title>
-        <id>https://v.daum.net/v/20220118122439683</id>
-        <link href="https://v.daum.net/v/20220118122439683"/>
-        <updated>2022-01-18T15:22:16.231Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
+        <title type="html"><![CDATA[LG엔솔 청약 첫날, 대신·하이證 4주..미래에셋은 이미 '0주'(종합)]]></title>
+        <id>https://v.daum.net/v/20220118173625284</id>
+        <link href="https://v.daum.net/v/20220118173625284"/>
+        <updated>2022-01-18T09:21:56.846Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 미숙련 외국인들이 '타설 속도전'..붕괴 직후 잠적]]></title>
@@ -116,6 +109,13 @@
         <link href="https://v.daum.net/v/20220118200113590"/>
         <updated>2022-01-18T15:22:16.231Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 생활고에 배달 나선 '두 아이 아빠', 신호위반 차에..]]></title>
+        <id>https://v.daum.net/v/20220118203603188</id>
+        <link href="https://v.daum.net/v/20220118203603188"/>
+        <updated>2022-01-18T13:29:22.724Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[영상] "계약금 안 돌려줘?" 웨딩숍 쳐들어가 드레스 몽땅 자른 中 임신부]]></title>
@@ -146,11 +146,11 @@
         <content type="html"><![CDATA[JTBC]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우회전 차에 일부러 '쾅'..3,400만 원 챙긴 30대 잡혔다]]></title>
-        <id>https://v.daum.net/v/20220118203908239</id>
-        <link href="https://v.daum.net/v/20220118203908239"/>
-        <updated>2022-01-18T15:22:16.241Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
+        <title type="html"><![CDATA[국내서도 '유심 정보 훔치기' 첫 의심사례..경찰 수사 착수]]></title>
+        <id>https://v.daum.net/v/20220118214849238</id>
+        <link href="https://v.daum.net/v/20220118214849238"/>
+        <updated>2022-01-18T15:22:16.243Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쓰레기 가득한 집에 2살 딸 두고  친구 만나러 4일 집 비운 母]]></title>
@@ -160,25 +160,11 @@
         <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국내서도 '유심 정보 훔치기' 첫 의심사례..경찰 수사 착수]]></title>
-        <id>https://v.daum.net/v/20220118214849238</id>
-        <link href="https://v.daum.net/v/20220118214849238"/>
-        <updated>2022-01-18T15:22:16.243Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["철거 후 재시공에 4000억"..화정 아이파크에 현산 '휘청']]></title>
-        <id>https://v.daum.net/v/20220118164738502</id>
-        <link href="https://v.daum.net/v/20220118164738502"/>
-        <updated>2022-01-18T15:22:16.248Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['방역패스' 의견 엇갈린 의대 교수.. 이재갑 vs 조두형]]></title>
-        <id>https://v.daum.net/v/20220118153653768</id>
-        <link href="https://v.daum.net/v/20220118153653768"/>
-        <updated>2022-01-18T15:22:16.251Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
+        <title type="html"><![CDATA[우회전 차에 일부러 '쾅'..3,400만 원 챙긴 30대 잡혔다]]></title>
+        <id>https://v.daum.net/v/20220118203908239</id>
+        <link href="https://v.daum.net/v/20220118203908239"/>
+        <updated>2022-01-18T15:22:16.241Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넘어지고 끌려가고..개 2마리 매달고 질주한 트럭]]></title>
@@ -195,6 +181,13 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['방역패스' 의견 엇갈린 의대 교수.. 이재갑 vs 조두형]]></title>
+        <id>https://v.daum.net/v/20220118153653768</id>
+        <link href="https://v.daum.net/v/20220118153653768"/>
+        <updated>2022-01-18T15:22:16.251Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[교사가 여중생 길들여 상습 성폭행..英 그루밍 성범죄자 '징역 6년']]></title>
         <id>https://v.daum.net/v/20220118163608083</id>
         <link href="https://v.daum.net/v/20220118163608083"/>
@@ -209,10 +202,17 @@
         <content type="html"><![CDATA[SBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LG엔솔, 첫날 증거금 32조 '역대급'..1주 받기도 힘들다(종합)]]></title>
-        <id>https://v.daum.net/v/20220118171641579</id>
-        <link href="https://v.daum.net/v/20220118171641579"/>
-        <updated>2022-01-18T15:22:16.253Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
+        <title type="html"><![CDATA["철거 후 재시공에 4000억"..화정 아이파크에 현산 '휘청']]></title>
+        <id>https://v.daum.net/v/20220118164738502</id>
+        <link href="https://v.daum.net/v/20220118164738502"/>
+        <updated>2022-01-18T15:22:16.248Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['영하 253도 초극저온 유지' 선박용 수소탱크 세계 첫 개발]]></title>
+        <id>https://v.daum.net/v/20220118194429323</id>
+        <link href="https://v.daum.net/v/20220118194429323"/>
+        <updated>2022-01-18T16:34:16.031Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
