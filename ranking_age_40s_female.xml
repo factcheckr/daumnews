@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 40대 여성</title>
-    <updated>2022-01-19T16:30:39.824Z</updated>
+    <updated>2022-01-19T17:23:05.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[단독] "암 수술 받은 배를.." 길 가던 60대 날벼락 폭행]]></title>
-        <id>https://v.daum.net/v/20220119204508602</id>
-        <link href="https://v.daum.net/v/20220119204508602"/>
-        <updated>2022-01-19T12:32:40.289Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[영국 다시 마스크 벗고 백신패스 없앤다..자가격리도 곧 폐지(종합)]]></title>
         <id>https://v.daum.net/v/20220119223913629</id>
@@ -20,11 +13,11 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10대 아들이 50대 아버지 살해..끊이지 않는 존속 범죄]]></title>
-        <id>https://v.daum.net/v/20220119203410374</id>
-        <link href="https://v.daum.net/v/20220119203410374"/>
-        <updated>2022-01-19T13:22:13.062Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
+        <title type="html"><![CDATA[[단독] "암 수술 받은 배를.." 길 가던 60대 날벼락 폭행]]></title>
+        <id>https://v.daum.net/v/20220119204508602</id>
+        <link href="https://v.daum.net/v/20220119204508602"/>
+        <updated>2022-01-19T12:32:40.289Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["감기인 듯 감기 아닌 오미크론.. 백신 안 통해" 국내외 투병기]]></title>
@@ -39,5 +32,12 @@
         <link href="https://v.daum.net/v/20220119210330990"/>
         <updated>2022-01-19T13:22:13.066Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10대 아들이 50대 아버지 살해..끊이지 않는 존속 범죄]]></title>
+        <id>https://v.daum.net/v/20220119203410374</id>
+        <link href="https://v.daum.net/v/20220119203410374"/>
+        <updated>2022-01-19T13:22:13.062Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>

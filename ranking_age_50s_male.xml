@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 50대이상 남성</title>
-    <updated>2022-01-19T16:30:39.824Z</updated>
+    <updated>2022-01-19T17:23:05.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['파산 선언' 푸에르토리코, 美 사상 최대 규모 채무 재조정]]></title>
+        <id>https://v.daum.net/v/20220120005202791</id>
+        <link href="https://v.daum.net/v/20220120005202791"/>
+        <updated>2022-01-19T17:23:05.095Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[김건희, "내가 정권 잡으면 비판 언론 무사 못해"..발언 추가공개]]></title>
         <id>https://v.daum.net/v/20220119205608788</id>
         <link href="https://v.daum.net/v/20220119205608788"/>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20220119203533392"/>
         <updated>2022-01-19T12:32:52.286Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영국 다시 마스크 벗고 백신패스 없앤다..자가격리도 곧 폐지(종합)]]></title>
-        <id>https://v.daum.net/v/20220119223913629</id>
-        <link href="https://v.daum.net/v/20220119223913629"/>
-        <updated>2022-01-19T15:20:42.816Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
