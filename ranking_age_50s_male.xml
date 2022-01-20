@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 50대이상 남성</title>
-    <updated>2022-01-20T21:17:17.915Z</updated>
+    <updated>2022-01-20T22:19:52.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -10,6 +10,20 @@
         <id>https://v.daum.net/v/20220120215425079</id>
         <link href="https://v.daum.net/v/20220120215425079"/>
         <updated>2022-01-20T14:18:31.962Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준석, '李 자필편지 영상'에 "준비안해놓고 친환경?..거짓말"]]></title>
+        <id>https://v.daum.net/v/20220121000740142</id>
+        <link href="https://v.daum.net/v/20220121000740142"/>
+        <updated>2022-01-20T16:32:26.430Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이대남 돌아섰나' 李, 20대 지지율 8주 만에 10%대로..반전에 사활]]></title>
+        <id>https://v.daum.net/v/20220121061504355</id>
+        <link href="https://v.daum.net/v/20220121061504355"/>
+        <updated>2022-01-20T22:19:51.448Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
@@ -25,19 +39,5 @@
         <link href="https://v.daum.net/v/20220121030044689"/>
         <updated>2022-01-20T20:21:21.258Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준석, '李 자필편지 영상'에 "준비안해놓고 친환경?..거짓말"]]></title>
-        <id>https://v.daum.net/v/20220121000740142</id>
-        <link href="https://v.daum.net/v/20220121000740142"/>
-        <updated>2022-01-20T16:32:26.430Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주가 40% 폭락·'아이파크' 퇴출 운동..현산 문 닫나]]></title>
-        <id>https://v.daum.net/v/20220120201011589</id>
-        <link href="https://v.daum.net/v/20220120201011589"/>
-        <updated>2022-01-20T21:17:17.193Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>

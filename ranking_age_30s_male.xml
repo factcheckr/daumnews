@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 30대 남성</title>
-    <updated>2022-01-20T21:17:17.916Z</updated>
+    <updated>2022-01-20T22:19:52.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220120221322320"/>
         <updated>2022-01-20T16:32:07.932Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준석, '李 자필편지 영상'에 "준비안해놓고 친환경?..거짓말"]]></title>
+        <id>https://v.daum.net/v/20220121000740142</id>
+        <link href="https://v.daum.net/v/20220121000740142"/>
+        <updated>2022-01-20T17:22:28.079Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일본 코로나 확진자수 정말 천장 뚫었다, 日보건소가 만든 그래프]]></title>
+        <id>https://v.daum.net/v/20220121050104406</id>
+        <link href="https://v.daum.net/v/20220121050104406"/>
+        <updated>2022-01-20T22:19:35.152Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["구매할 여력은 있냐"는 직원, 지적하니 "저한테 월급주세요?"]]></title>
@@ -25,19 +39,5 @@
         <link href="https://v.daum.net/v/20220121043013183"/>
         <updated>2022-01-20T21:17:00.098Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준석, '李 자필편지 영상'에 "준비안해놓고 친환경?..거짓말"]]></title>
-        <id>https://v.daum.net/v/20220121000740142</id>
-        <link href="https://v.daum.net/v/20220121000740142"/>
-        <updated>2022-01-20T17:22:28.079Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["朴 전 대통령을 기다리며"..혹한·폭설 견디는 '화환사수대']]></title>
-        <id>https://v.daum.net/v/20220121030044689</id>
-        <link href="https://v.daum.net/v/20220121030044689"/>
-        <updated>2022-01-20T21:17:00.100Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
