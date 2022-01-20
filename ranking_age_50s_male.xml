@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 50대이상 남성</title>
-    <updated>2022-01-20T17:22:45.662Z</updated>
+    <updated>2022-01-20T18:23:06.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -27,17 +27,17 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['가수 성행위 비디오' 거론..이재명 욕설 옹호한 서울대 교수]]></title>
-        <id>https://v.daum.net/v/20220120221322320</id>
-        <link href="https://v.daum.net/v/20220120221322320"/>
-        <updated>2022-01-20T16:32:26.431Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[주가 40% 폭락·'아이파크' 퇴출 운동..현산 문 닫나]]></title>
         <id>https://v.daum.net/v/20220120201011589</id>
         <link href="https://v.daum.net/v/20220120201011589"/>
         <updated>2022-01-20T12:32:35.148Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['가수 성행위 비디오' 거론..이재명 욕설 옹호한 서울대 교수]]></title>
+        <id>https://v.daum.net/v/20220120221322320</id>
+        <link href="https://v.daum.net/v/20220120221322320"/>
+        <updated>2022-01-20T16:32:26.431Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
