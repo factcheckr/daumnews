@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 20대이하 여성</title>
-    <updated>2022-01-20T12:32:35.888Z</updated>
+    <updated>2022-01-20T13:23:22.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['태종 이방원' 고꾸라진 말, 결국 사망..KBS "사고 책임 통감"]]></title>
-        <id>https://v.daum.net/v/20220120183116830</id>
-        <link href="https://v.daum.net/v/20220120183116830"/>
-        <updated>2022-01-20T12:31:57.935Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[6년 만에 '자진 상장폐지' 선언..맘스터치에 무슨 일이]]></title>
         <id>https://v.daum.net/v/20220120154704017</id>
         <link href="https://v.daum.net/v/20220120154704017"/>
@@ -27,17 +20,24 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[시청률 17.2% 나왔지만..MBC가 '김건희 후속방송' 안하는 이유]]></title>
+        <id>https://v.daum.net/v/20220120194101990</id>
+        <link href="https://v.daum.net/v/20220120194101990"/>
+        <updated>2022-01-20T13:22:52.108Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['태종 이방원' 고꾸라진 말, 결국 사망..KBS "사고 책임 통감"]]></title>
+        <id>https://v.daum.net/v/20220120183116830</id>
+        <link href="https://v.daum.net/v/20220120183116830"/>
+        <updated>2022-01-20T12:31:57.935Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["쿠팡이츠 이거 뭐야?"..낯 뜨거운 메뉴 설명에 '경악']]></title>
         <id>https://v.daum.net/v/20220119164607044</id>
         <link href="https://v.daum.net/v/20220119164607044"/>
         <updated>2022-01-20T08:23:25.307Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주가 40% 폭락·'아이파크' 퇴출 운동..현산 문 닫나]]></title>
-        <id>https://v.daum.net/v/20220120201011589</id>
-        <link href="https://v.daum.net/v/20220120201011589"/>
-        <updated>2022-01-20T12:31:57.940Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
