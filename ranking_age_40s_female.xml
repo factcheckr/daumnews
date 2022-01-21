@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 40대 여성</title>
-    <updated>2022-01-21T20:19:30.883Z</updated>
+    <updated>2022-01-21T21:14:53.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[세계일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[잘 때 '이 소리' 내는 사람, 암 위험 높아]]></title>
-        <id>https://v.daum.net/v/20220121210017425</id>
-        <link href="https://v.daum.net/v/20220121210017425"/>
-        <updated>2022-01-21T13:23:16.248Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[이틀새 증세 사라진 코로나 알약 1호 부부, 공통점 또 있다 [뉴스원샷]]]></title>
         <id>https://v.daum.net/v/20220121222413395</id>
         <link href="https://v.daum.net/v/20220121222413395"/>
@@ -27,17 +20,24 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[선관위 2900명 전원 반발, 조해주 결국 사퇴]]></title>
-        <id>https://v.daum.net/v/20220122000231176</id>
-        <link href="https://v.daum.net/v/20220122000231176"/>
-        <updated>2022-01-21T19:16:17.232Z</updated>
-        <content type="html"><![CDATA[중앙SUNDAY]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[일본 규슈 동쪽 해상서 규모 6.4 지진.."쓰나미 우려 없어"(종합)]]></title>
         <id>https://v.daum.net/v/20220122020736851</id>
         <link href="https://v.daum.net/v/20220122020736851"/>
         <updated>2022-01-21T18:23:22.527Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]"러서 30km, 푸틴이 가장 탐내던 땅" 잠 못드는 우크라]]></title>
+        <id>https://v.daum.net/v/20220122030109965</id>
+        <link href="https://v.daum.net/v/20220122030109965"/>
+        <updated>2022-01-21T21:14:40.514Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잘 때 '이 소리' 내는 사람, 암 위험 높아]]></title>
+        <id>https://v.daum.net/v/20220121210017425</id>
+        <link href="https://v.daum.net/v/20220121210017425"/>
+        <updated>2022-01-21T13:23:16.248Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
