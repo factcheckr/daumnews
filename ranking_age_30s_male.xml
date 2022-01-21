@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 30대 남성</title>
-    <updated>2022-01-21T18:23:35.963Z</updated>
+    <updated>2022-01-21T19:16:31.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220121213036788"/>
         <updated>2022-01-21T16:28:00.161Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간政談<하>] 김건희 녹취록 방송, '원더 건희' 효과..국힘도 '깜짝']]></title>
+        <id>https://v.daum.net/v/20220122000035143</id>
+        <link href="https://v.daum.net/v/20220122000035143"/>
+        <updated>2022-01-21T16:28:00.165Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잘 때 '이 소리' 내는 사람, 암 위험 높아]]></title>
+        <id>https://v.daum.net/v/20220121210017425</id>
+        <link href="https://v.daum.net/v/20220121210017425"/>
+        <updated>2022-01-21T19:16:12.366Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['숙명여고 쌍둥이' 딸 감형에도 법정서 울부짖은 전 교무부장 父 "양심만은 지켜라"]]></title>
@@ -25,19 +39,5 @@
         <link href="https://v.daum.net/v/20220121222413395"/>
         <updated>2022-01-21T18:23:18.265Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간政談<하>] 김건희 녹취록 방송, '원더 건희' 효과..국힘도 '깜짝']]></title>
-        <id>https://v.daum.net/v/20220122000035143</id>
-        <link href="https://v.daum.net/v/20220122000035143"/>
-        <updated>2022-01-21T16:28:00.165Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["흉기 들고 폭행" 정창욱 셰프, 음주운전 이어 폭행·협박 피소]]></title>
-        <id>https://v.daum.net/v/20220121220602196</id>
-        <link href="https://v.daum.net/v/20220121220602196"/>
-        <updated>2022-01-21T18:23:18.270Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
