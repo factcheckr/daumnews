@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 50대이상 남성</title>
-    <updated>2022-01-21T19:16:31.849Z</updated>
+    <updated>2022-01-21T20:19:30.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220122002523361"/>
         <updated>2022-01-21T16:28:19.623Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내일의 날씨는 말씀 드리기 두렵습니다]]></title>
+        <id>https://v.daum.net/v/20220122040259159</id>
+        <link href="https://v.daum.net/v/20220122040259159"/>
+        <updated>2022-01-21T20:19:30.177Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]"러서 30km, 푸틴이 가장 탐내던 땅" 잠 못드는 우크라]]></title>
+        <id>https://v.daum.net/v/20220122030109965</id>
+        <link href="https://v.daum.net/v/20220122030109965"/>
+        <updated>2022-01-21T20:19:30.178Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[선관위 2900명 전원 반발, 조해주 결국 사퇴]]></title>
@@ -25,19 +39,5 @@
         <link href="https://v.daum.net/v/20220122000035143"/>
         <updated>2022-01-21T16:28:19.622Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["35조 추경 논의하자" 이재명 제안, 윤석열∙안철수 '즉시 거부']]></title>
-        <id>https://v.daum.net/v/20220121213036788</id>
-        <link href="https://v.daum.net/v/20220121213036788"/>
-        <updated>2022-01-21T13:23:28.429Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 규슈 동쪽 해상서 규모 6.4 지진.."쓰나미 우려 없어"(종합)]]></title>
-        <id>https://v.daum.net/v/20220122020736851</id>
-        <link href="https://v.daum.net/v/20220122020736851"/>
-        <updated>2022-01-21T18:23:35.316Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
