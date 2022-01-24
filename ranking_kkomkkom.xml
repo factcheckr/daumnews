@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/kkomkkom</id>
     <title>다음 뉴스 ─ 랭킹 ─ 열독률 높은</title>
-    <updated>2022-01-24T12:31:34.409Z</updated>
+    <updated>2022-01-24T13:23:24.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[해저터널이 다시 수면 위로 떠오른 제주가 들썩인다]]></title>
-        <id>https://v.daum.net/v/20220124202101400</id>
-        <link href="https://v.daum.net/v/20220124202101400"/>
-        <updated>2022-01-24T12:30:51.049Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[집중취재M] 손발 묶인 미국..푸틴은 '침공'을 단행할까?]]></title>
         <id>https://v.daum.net/v/20220124202215427</id>
         <link href="https://v.daum.net/v/20220124202215427"/>
@@ -39,6 +32,13 @@
         <link href="https://v.daum.net/v/20220124164618253"/>
         <updated>2022-01-24T08:23:28.462Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라 둘러싼 13만 러시아군..치닫는 대립, 그 내막은?]]></title>
+        <id>https://v.daum.net/v/20220124203303595</id>
+        <link href="https://v.daum.net/v/20220124203303595"/>
+        <updated>2022-01-24T12:30:51.089Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["고기 저울질하니 500g 미달"..'별 하나' 리뷰에 사장이 보인 반응]]></title>
@@ -62,32 +62,11 @@
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[파업 장기화에 "거래처가 택배사 바꿔 비노조원 생계 위협"]]></title>
-        <id>https://v.daum.net/v/20220124195734094</id>
-        <link href="https://v.daum.net/v/20220124195734094"/>
-        <updated>2022-01-24T12:30:51.063Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 "러 1명이라도 침입 땐 가혹 대응".. 우크라에 미사일 보낸다]]></title>
-        <id>https://v.daum.net/v/20220124190102158</id>
-        <link href="https://v.daum.net/v/20220124190102158"/>
-        <updated>2022-01-24T11:16:21.682Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멈춰있던 차가 갑자기 시속 68km 후진.."결국 어머니 돌아가셨다"[영상]]]></title>
-        <id>https://v.daum.net/v/20220124112358536</id>
-        <link href="https://v.daum.net/v/20220124112358536"/>
-        <updated>2022-01-24T03:22:31.390Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3·9 재보선 공천 놓고 고심 빠진 민주당]]></title>
-        <id>https://v.daum.net/v/20220124155157070</id>
-        <link href="https://v.daum.net/v/20220124155157070"/>
-        <updated>2022-01-24T07:19:41.721Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
+        <title type="html"><![CDATA["우크라 전쟁 임박"..미국 "대사관 직원 가족 떠나라"]]></title>
+        <id>https://v.daum.net/v/20220124195704082</id>
+        <link href="https://v.daum.net/v/20220124195704082"/>
+        <updated>2022-01-24T12:30:51.076Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[영상] 경찰 따돌리며 난폭 질주..음주 차량 막아선 시민]]></title>
@@ -104,11 +83,39 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[멈춰있던 차가 갑자기 시속 68km 후진.."결국 어머니 돌아가셨다"[영상]]]></title>
+        <id>https://v.daum.net/v/20220124112358536</id>
+        <link href="https://v.daum.net/v/20220124112358536"/>
+        <updated>2022-01-24T03:22:31.390Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3·9 재보선 공천 놓고 고심 빠진 민주당]]></title>
+        <id>https://v.daum.net/v/20220124155157070</id>
+        <link href="https://v.daum.net/v/20220124155157070"/>
+        <updated>2022-01-24T07:19:41.721Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 "러 1명이라도 침입 땐 가혹 대응".. 우크라에 미사일 보낸다]]></title>
+        <id>https://v.daum.net/v/20220124190102158</id>
+        <link href="https://v.daum.net/v/20220124190102158"/>
+        <updated>2022-01-24T11:16:21.682Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[애니멀 픽!] 범고래 무리가 밧줄 얽힌 어린 혹등고래 구했다]]></title>
         <id>https://v.daum.net/v/20220124113110924</id>
         <link href="https://v.daum.net/v/20220124113110924"/>
         <updated>2022-01-24T03:22:31.388Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러·서방 우크라 신경전..시간은 누구편인가]]></title>
+        <id>https://v.daum.net/v/20220124100120734</id>
+        <link href="https://v.daum.net/v/20220124100120734"/>
+        <updated>2022-01-24T02:35:30.789Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["그 돈 다 어디가고"..'천만장자' 폐지 줍는 노숙인 전락]]></title>
@@ -125,10 +132,10 @@
         <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["우크라 전쟁 임박"..미국 "대사관 직원 가족 떠나라"]]></title>
-        <id>https://v.daum.net/v/20220124195704082</id>
-        <link href="https://v.daum.net/v/20220124195704082"/>
-        <updated>2022-01-24T12:30:51.076Z</updated>
+        <title type="html"><![CDATA['쾅' 흙먼지 일으키며 공중으로 뜬 SUV..일대 아수라장]]></title>
+        <id>https://v.daum.net/v/20220124203903720</id>
+        <link href="https://v.daum.net/v/20220124203903720"/>
+        <updated>2022-01-24T12:30:51.086Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
     </entry>
     <entry>
@@ -144,13 +151,6 @@
         <link href="https://v.daum.net/v/20220124062503532"/>
         <updated>2022-01-23T22:19:05.940Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러·서방 우크라 신경전..시간은 누구편인가]]></title>
-        <id>https://v.daum.net/v/20220124100120734</id>
-        <link href="https://v.daum.net/v/20220124100120734"/>
-        <updated>2022-01-24T02:35:30.789Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[러 '우크라 진군' 북소리 커지는데 나토는 적전분열]]></title>
@@ -188,20 +188,6 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[심리학자 "김건희, 윤석열 지배하는 갑을 관계"]]></title>
-        <id>https://v.daum.net/v/20220124192609644</id>
-        <link href="https://v.daum.net/v/20220124192609644"/>
-        <updated>2022-01-24T11:16:21.712Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쾅' 흙먼지 일으키며 공중으로 뜬 SUV..일대 아수라장]]></title>
-        <id>https://v.daum.net/v/20220124203903720</id>
-        <link href="https://v.daum.net/v/20220124203903720"/>
-        <updated>2022-01-24T12:30:51.086Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[영상] 우크라 향하는 러 탱크 소리 갈수록 커지는데..나토는 분열 [나우,어스]]]></title>
         <id>https://v.daum.net/v/20220124150034098</id>
         <link href="https://v.daum.net/v/20220124150034098"/>
@@ -209,10 +195,24 @@
         <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우크라 둘러싼 13만 러시아군..치닫는 대립, 그 내막은?]]></title>
-        <id>https://v.daum.net/v/20220124203303595</id>
-        <link href="https://v.daum.net/v/20220124203303595"/>
-        <updated>2022-01-24T12:30:51.089Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
+        <title type="html"><![CDATA[해저터널이 다시 수면 위로 떠오른 제주가 들썩인다]]></title>
+        <id>https://v.daum.net/v/20220124202101400</id>
+        <link href="https://v.daum.net/v/20220124202101400"/>
+        <updated>2022-01-24T12:30:51.049Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["고향 방문 자제를.." 설날 가족모임·면회할 수 있을까?[Q&A]]]></title>
+        <id>https://v.daum.net/v/20220124161907112</id>
+        <link href="https://v.daum.net/v/20220124161907112"/>
+        <updated>2022-01-24T13:22:47.142Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지구의 핵, 과학자들 예상보다 빠르게 식고 있다]]></title>
+        <id>https://v.daum.net/v/20220124110922812</id>
+        <link href="https://v.daum.net/v/20220124110922812"/>
+        <updated>2022-01-24T13:22:47.142Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
