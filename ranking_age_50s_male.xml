@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/ranking/age</id>
     <title>다음 뉴스 ─ 랭킹 ─ 연령별 ─ 50대이상 남성</title>
-    <updated>2022-01-25T19:19:27.054Z</updated>
+    <updated>2022-01-25T20:20:43.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/ranking/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독] 안철수 기부 동그라미재단, 부인 김미경씨가 재작년 이사장 맡아]]></title>
+        <id>https://v.daum.net/v/20220126043217358</id>
+        <link href="https://v.daum.net/v/20220126043217358"/>
+        <updated>2022-01-25T20:20:42.674Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["옷 벗겨 수치심..그만 만져라" 극단선택 30대의 슬픈 유서]]></title>
         <id>https://v.daum.net/v/20220126000552265</id>
         <link href="https://v.daum.net/v/20220126000552265"/>
@@ -32,12 +39,5 @@
         <link href="https://v.daum.net/v/20220126030122829"/>
         <updated>2022-01-25T19:19:26.287Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 "TV토론서 김건희 얘기 안 해..尹, 방어 안 해도 돼"]]></title>
-        <id>https://v.daum.net/v/20220125230727823</id>
-        <link href="https://v.daum.net/v/20220125230727823"/>
-        <updated>2022-01-25T15:20:53.008Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
