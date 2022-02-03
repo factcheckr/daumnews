@@ -7,3 +7,13 @@ linkSelector = "strong.tit_g a.link_txt "
 contentSelector = "span.txt_category"
 imageSelector = "div.item_issue a img.thumb_g"
 waitUntil = "networkidle"
+
+[society]
+title = "다음뉴스 ─ 정치 ─ 메인뉴스"
+url = "https://news.daum.net/society"
+entrySelector = "ul.list_mainnews li"
+titleSelector = "strong.tit_g a"
+linkSelector = "strong.tit_g a"
+contentSelector = "span.info_thumb span.txt_info"
+imageSelector = "div.item_column a.wrap_thumb img.thumb_g"
+waitUntil = "networkidle"
