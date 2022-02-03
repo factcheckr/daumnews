@@ -61,6 +61,15 @@ linkSelector = "strong.tit_g a"
 contentSelector = "span.info_thumb span.txt_info"
 waitUntil = "networkidle"
 
+[digital_major]
+title = "다음뉴스 ─ IT ─ 메이저"
+url = "https://news.daum.net/digital"
+entrySelector = "div.box_g.box_news_major ul.list_newsmajor li"
+titleSelector = "strong.tit_g a.link_txt"
+linkSelector = "strong.tit_g a.link_txt"
+contentSelector = "strong.tit_g span.info_cp"
+waitUntil = "networkidle"
+
 [photo]
 title = "다음뉴스 ─ 포토"
 url = "https://news.daum.net/photo"
