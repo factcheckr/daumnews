@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-02-03T21:19:27.761Z</updated>
+    <updated>2022-02-03T22:23:08.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한 인민병원.."산골에서도 훌륭한 의료봉사"]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1489/EGv6AEOPeB</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1489/EGv6AEOPeB"/>
+        <updated>2022-02-03T22:22:35.179Z</updated>
+        <content type="html"><![CDATA[북한은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베이징 동계올림픽 계기로 시진핑-푸틴 회동 예정]]></title>
         <id>https://gallery.v.daum.net/p/viewer/2322/E9LL2vwoqc</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/139426/EiIzrMDCBI"/>
         <updated>2022-02-03T15:50:55.124Z</updated>
         <content type="html"><![CDATA[[서울신문 나우뉴스] 애니멀 픽]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 휘발유 평균가 1800원 육박]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5035080/EZWPGifanj</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5035080/EZWPGifanj"/>
-        <updated>2022-02-03T15:50:55.126Z</updated>
-        <content type="html"><![CDATA[기름값 현황]]></content>
     </entry>
 </feed>
