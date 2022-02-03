@@ -16,6 +16,15 @@ linkSelector = "strong.tit_g a"
 contentSelector = "span.info_thumb span.txt_info"
 waitUntil = "networkidle"
 
+[society_major]
+title = "다음뉴스 ─ 사회 ─ 메이저"
+url = "https://news.daum.net/society"
+entrySelector = "div.box_g.box_news_major ul.list_newsmajor li"
+titleSelector = "strong.tit_g a.link_txt"
+linkSelector = "strong.tit_g a.link_txt"
+contentSelector = "strong.tit_g span.info_cp"
+waitUntil = "networkidle"
+
 [politics]
 title = "다음뉴스 ─ 정치 ─ 메인뉴스"
 url = "https://news.daum.net/politics"
@@ -23,6 +32,15 @@ entrySelector = "ul.list_mainnews li"
 titleSelector = "strong.tit_g a"
 linkSelector = "strong.tit_g a"
 contentSelector = "span.info_thumb span.txt_info"
+waitUntil = "networkidle"
+
+[politics_major]
+title = "다음뉴스 ─ 정치 ─ 메이저"
+url = "https://news.daum.net/politics"
+entrySelector = "div.box_g.box_news_major ul.list_newsmajor li"
+titleSelector = "strong.tit_g a.link_txt"
+linkSelector = "strong.tit_g a.link_txt"
+contentSelector = "strong.tit_g span.info_cp"
 waitUntil = "networkidle"
 
 [economic]
@@ -34,6 +52,15 @@ linkSelector = "strong.tit_g a"
 contentSelector = "span.info_thumb span.txt_info"
 waitUntil = "networkidle"
 
+[economic_major]
+title = "다음뉴스 ─ 경제 ─ 메이저"
+url = "https://news.daum.net/economic"
+entrySelector = "div.box_g.box_news_major ul.list_newsmajor li"
+titleSelector = "strong.tit_g a.link_txt"
+linkSelector = "strong.tit_g a.link_txt"
+contentSelector = "strong.tit_g span.info_cp"
+waitUntil = "networkidle"
+
 [foreign]
 title = "다음뉴스 ─ 국제 ─ 메인뉴스"
 url = "https://news.daum.net/foreign"
@@ -43,6 +70,15 @@ linkSelector = "strong.tit_g a"
 contentSelector = "span.info_thumb span.txt_info"
 waitUntil = "networkidle"
 
+[foreign_major]
+title = "다음뉴스 ─ 국제 ─ 메이저"
+url = "https://news.daum.net/foreign"
+entrySelector = "div.box_g.box_news_major ul.list_newsmajor li"
+titleSelector = "strong.tit_g a.link_txt"
+linkSelector = "strong.tit_g a.link_txt"
+contentSelector = "strong.tit_g span.info_cp"
+waitUntil = "networkidle"
+
 [culture]
 title = "다음뉴스 ─ 문화 ─ 메인뉴스"
 url = "https://news.daum.net/culture"
@@ -50,6 +86,15 @@ entrySelector = "ul.list_mainnews li"
 titleSelector = "strong.tit_g a"
 linkSelector = "strong.tit_g a"
 contentSelector = "span.info_thumb span.txt_info"
+waitUntil = "networkidle"
+
+[culture_major]
+title = "다음뉴스 ─ 문화 ─ 메이저"
+url = "https://news.daum.net/culture"
+entrySelector = "div.box_g.box_news_major ul.list_newsmajor li"
+titleSelector = "strong.tit_g a.link_txt"
+linkSelector = "strong.tit_g a.link_txt"
+contentSelector = "strong.tit_g span.info_cp"
 waitUntil = "networkidle"
 
 [digital]
