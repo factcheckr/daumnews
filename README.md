@@ -1,14 +1,16 @@
 # 다음 뉴스
 https://factcheckr.github.io/daumnews/all.xml
-- 많이 본: https://factcheckr.github.io/daumnews/ranking_popular.xml
-- 열독률 높은: https://factcheckr.github.io/daumnews/ranking_kkomkkom.xml
-- 댓글 많은: https://factcheckr.github.io/daumnews/ranking_bestreply.xml
-- 연령별
-  - 20대 이하 여성: https://factcheckr.github.io/daumnews/ranking_age_20s_female.xml
-  - 20대 이상 남성: https://factcheckr.github.io/daumnews/ranking_age_20s_male.xml
-  - 30대 여성: https://factcheckr.github.io/daumnews/ranking_age_30s_female.xml
-  - 30대 남성: https://factcheckr.github.io/daumnews/ranking_age_30s_male.xml
-  - 40대 여성: https://factcheckr.github.io/daumnews/ranking_age_40s_female.xml
-  - 40대 남성: https://factcheckr.github.io/daumnews/ranking_age_40s_male.xml
-  - 50대 이상 여성: https://factcheckr.github.io/daumnews/ranking_age_50s_female.xml
-  - 50대 이상 남성: https://factcheckr.github.io/daumnews/ranking_age_50s_male.xml
+## 메인기사
+- 홈: https://factcheckr.github.io/daumnews/home.xml
+- 사회: https://factcheckr.github.io/daumnews/society.xml
+- 정치: https://factcheckr.github.io/daumnews/politics.xml
+- 경제: https://factcheckr.github.io/daumnews/economic.xml
+- 국제: https://factcheckr.github.io/daumnews/foreign.xml
+- 문화: https://factcheckr.github.io/daumnews/culture.xml
+- IT: https://factcheckr.github.io/daumnews/digital.xml
+- 포토: https://factcheckr.github.io/daumnews/photo.xml
+
+## 바로잡습니다 기사고침. 정정. 반론 보도 모음
+- 언론사 고침기사: https://factcheckr.github.io/daumnews/info_correct.xml
+- 언론중재법 피해구제보도: https://factcheckr.github.io/daumnews/info_revision.xml
+- 불공정기사 모음: https://factcheckr.github.io/daumnews/info_unfair.xml
