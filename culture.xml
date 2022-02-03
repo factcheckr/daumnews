@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-02-03T19:24:29.321Z</updated>
+    <updated>2022-02-03T20:22:07.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제작진 30명중 절반 20대, 거침없는 일침..MZ세대 공감 코리아]]></title>
+        <id>https://v.daum.net/v/20220204050759936</id>
+        <link href="https://v.daum.net/v/20220204050759936"/>
+        <updated>2022-02-03T20:21:10.688Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["전통과 전위를 오가며 새로운 음악을 추구해요"]]></title>
         <id>https://v.daum.net/v/20220204040812302</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220203174949364"/>
         <updated>2022-02-03T15:43:03.596Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종교육청, 2월 개학 학교 수업 온라인으로 진행]]></title>
-        <id>https://v.daum.net/v/20220203163401712</id>
-        <link href="https://v.daum.net/v/20220203163401712"/>
-        <updated>2022-02-03T15:43:03.597Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
