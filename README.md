@@ -5,13 +5,13 @@ https://factcheckr.github.io/daumnews/all.xml
 - 사회: https://factcheckr.github.io/daumnews/society.xml
   - 주요: https://factcheckr.github.io/daumnews/society_major.xml
 - 정치: https://factcheckr.github.io/daumnews/politics.xml
-  - 주요: 
+  - 주요: https://factcheckr.github.io/daumnews/politics_major.xml
 - 경제: https://factcheckr.github.io/daumnews/economic.xml
-  - 주요: 
+  - 주요: https://factcheckr.github.io/daumnews/economic_major.xml
 - 국제: https://factcheckr.github.io/daumnews/foreign.xml
-  - 주요: 
+  - 주요: https://factcheckr.github.io/daumnews/foreign_major.xml
 - 문화: https://factcheckr.github.io/daumnews/culture.xml
-  - 주요: 
+  - 주요: https://factcheckr.github.io/daumnews/culture_major.xml
 - IT: https://factcheckr.github.io/daumnews/digital.xml
   - 주요: https://factcheckr.github.io/daumnews/digital_major.xml
 - 포토: https://factcheckr.github.io/daumnews/photo.xml
