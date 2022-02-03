@@ -61,11 +61,12 @@ linkSelector = "strong.tit_g a"
 contentSelector = "span.info_thumb span.txt_info"
 waitUntil = "networkidle"
 
-[photo_list]
-title = "다음뉴스 ─ 포토 ─ 리스트"
+[photo]
+title = "다음뉴스 ─ 포토"
 url = "https://news.daum.net/photo"
-entrySelector = "div[id='mArticle'] ul.list_thumb.list_thumb2 li"
-titleSelector = "div.cont_thumb strong.tit_thumb a.link_txt"
-linkSelector = "div.cont_thumb strong.tit_thumb a.link_txt"
-contentSelector = "span.info_thumb span.txt_info"
+entrySelector = "div.gallery_list.gallery_list2 ul.list_gallery li"
+titleSelector = "strong.tit_thumb"
+linkSelector = "a.link_cont"
+contentSelector = "span.info_thumb a.link_txt"
+imageSelector = "span.wrap_thumb img.thumb_g"
 waitUntil = "networkidle"
