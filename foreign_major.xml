@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-02-03T16:48:22.718Z</updated>
+    <updated>2022-02-03T16:53:45.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WHO "유럽, 몇 달 내 코로나19 대유행 종반전 진입"]]></title>
+        <id>https://v.daum.net/v/20220204001848402</id>
+        <link href="https://v.daum.net/v/20220204001848402"/>
+        <updated>2022-02-03T16:52:14.770Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EU 집행위원장 "러시아 서한에 대한 공동 답변 조율 중"]]></title>
         <id>https://v.daum.net/v/20220203233510915</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220203231806729"/>
         <updated>2022-02-03T16:43:59.572Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["당한 만큼 되갚아 줬다"..혼자서 北 인터넷 마비시킨 美해커]]></title>
-        <id>https://v.daum.net/v/20220203224153195</id>
-        <link href="https://v.daum.net/v/20220203224153195"/>
-        <updated>2022-02-03T16:43:59.572Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
