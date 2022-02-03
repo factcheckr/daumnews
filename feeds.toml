@@ -5,15 +5,67 @@ entrySelector = "ul.list_newsissue li"
 titleSelector = "strong.tit_g a.link_txt "
 linkSelector = "strong.tit_g a.link_txt "
 contentSelector = "span.txt_category"
-imageSelector = "div.item_issue a img.thumb_g"
 waitUntil = "networkidle"
 
 [society]
-title = "다음뉴스 ─ 정치 ─ 메인뉴스"
+title = "다음뉴스 ─ 사회 ─ 메인뉴스"
 url = "https://news.daum.net/society"
 entrySelector = "ul.list_mainnews li"
 titleSelector = "strong.tit_g a"
 linkSelector = "strong.tit_g a"
 contentSelector = "span.info_thumb span.txt_info"
-imageSelector = "div.item_column a.wrap_thumb img.thumb_g"
+waitUntil = "networkidle"
+
+[politics]
+title = "다음뉴스 ─ 정치 ─ 메인뉴스"
+url = "https://news.daum.net/politics"
+entrySelector = "ul.list_mainnews li"
+titleSelector = "strong.tit_g a"
+linkSelector = "strong.tit_g a"
+contentSelector = "span.info_thumb span.txt_info"
+waitUntil = "networkidle"
+
+[economic]
+title = "다음뉴스 ─ 경제 ─ 메인뉴스"
+url = "https://news.daum.net/economic"
+entrySelector = "ul.list_mainnews li"
+titleSelector = "strong.tit_g a"
+linkSelector = "strong.tit_g a"
+contentSelector = "span.info_thumb span.txt_info"
+waitUntil = "networkidle"
+
+[foreign]
+title = "다음뉴스 ─ 국제 ─ 메인뉴스"
+url = "https://news.daum.net/foreign"
+entrySelector = "ul.list_mainnews li"
+titleSelector = "strong.tit_g a"
+linkSelector = "strong.tit_g a"
+contentSelector = "span.info_thumb span.txt_info"
+waitUntil = "networkidle"
+
+[culture]
+title = "다음뉴스 ─ 문화 ─ 메인뉴스"
+url = "https://news.daum.net/culture"
+entrySelector = "ul.list_mainnews li"
+titleSelector = "strong.tit_g a"
+linkSelector = "strong.tit_g a"
+contentSelector = "span.info_thumb span.txt_info"
+waitUntil = "networkidle"
+
+[digital]
+title = "다음뉴스 ─ IT ─ 메인뉴스"
+url = "https://news.daum.net/digital"
+entrySelector = "ul.list_mainnews li"
+titleSelector = "strong.tit_g a"
+linkSelector = "strong.tit_g a"
+contentSelector = "span.info_thumb span.txt_info"
+waitUntil = "networkidle"
+
+[photo_list]
+title = "다음뉴스 ─ 포토 ─ 리스트"
+url = "https://news.daum.net/photo"
+entrySelector = "div[id='mArticle'] ul.list_thumb.list_thumb2 li"
+titleSelector = "div.cont_thumb strong.tit_thumb a.link_txt"
+linkSelector = "div.cont_thumb strong.tit_thumb a.link_txt"
+contentSelector = "span.info_thumb span.txt_info"
 waitUntil = "networkidle"
