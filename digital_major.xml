@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-03T16:53:45.301Z</updated>
+    <updated>2022-02-03T17:28:43.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA["독성물질 사용 無" 심혈관 수술 부작용 없앤다]]></title>
-        <id>https://v.daum.net/v/20220203135655856</id>
-        <link href="https://v.daum.net/v/20220203135655856"/>
-        <updated>2022-02-03T16:22:22.984Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[모호한 '넷플릭스 무임승차 방지법'..올해 웨이브 빠진 이유]]></title>
         <id>https://v.daum.net/v/20220204000411205</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220203184450547"/>
         <updated>2022-02-03T16:44:43.497Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[또 '먹통' 카카오.. '외부 문제' 해명에 "자체 데이터센터 구축 필요" 지적도]]></title>
+        <id>https://v.daum.net/v/20220203181306948</id>
+        <link href="https://v.daum.net/v/20220203181306948"/>
+        <updated>2022-02-03T17:28:10.789Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
