@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-04T18:21:31.606Z</updated>
+    <updated>2022-02-04T19:16:31.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA["요즘 틱톡하지 누가 페북하냐" 중국앱에 밀린 최강자 '굴욕']]></title>
-        <id>https://v.daum.net/v/20220204184136567</id>
-        <link href="https://v.daum.net/v/20220204184136567"/>
-        <updated>2022-02-04T17:17:51.004Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[EU '원전, 친환경 분류기준' 엄격..업계엔 높은 벽]]></title>
         <id>https://v.daum.net/v/20220204212139680</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220204172332998"/>
         <updated>2022-02-04T18:20:51.104Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["오미크론 후폭풍 다음 주부터 시작인데".. '코로나, 계절독감처럼' 꺼낸 정부]]></title>
+        <id>https://v.daum.net/v/20220204171406762</id>
+        <link href="https://v.daum.net/v/20220204171406762"/>
+        <updated>2022-02-04T19:15:50.946Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
