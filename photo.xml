@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-02-04T19:16:31.195Z</updated>
+    <updated>2022-02-04T20:20:18.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빙속 기대주 차민규, 김민선 훈련]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/Epb0EUMpME</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/Epb0EUMpME"/>
+        <updated>2022-02-04T20:19:41.099Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기다림]]></title>
         <id>https://gallery.v.daum.net/p/viewer/212305/EEUAEydoPF</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5014013/EGEr6ApmOc"/>
         <updated>2022-02-04T06:21:12.955Z</updated>
         <content type="html"><![CDATA['코로나19' 바이러스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걸어서 구급차 타는 인도네시아 코로나19 환자]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1106239/EjW06XcDSL</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1106239/EjW06XcDSL"/>
-        <updated>2022-02-04T06:21:12.957Z</updated>
-        <content type="html"><![CDATA[인도네시아는 지금]]></content>
     </entry>
 </feed>
