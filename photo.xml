@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-02-04T13:19:22.937Z</updated>
+    <updated>2022-02-04T14:19:01.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[눈꽃 군무]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/47169/EInbUQZhhT</id>
+        <link href="https://gallery.v.daum.net/p/viewer/47169/EInbUQZhhT"/>
+        <updated>2022-02-04T14:18:25.723Z</updated>
+        <content type="html"><![CDATA[눈 오는 풍경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손 흔드는 시진핑 중국 주석]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1391716/ESfDb3cXsi</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5116766/E5KS1vR7VN"/>
         <updated>2022-02-04T03:19:16.171Z</updated>
         <content type="html"><![CDATA[출근길 풍경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헌법재판소 앞 시위하는 콜롬비아 낙태권리 운동가들]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5029596/E78U4ubKzN</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5029596/E78U4ubKzN"/>
-        <updated>2022-02-04T03:19:16.172Z</updated>
-        <content type="html"><![CDATA[콜롬비아는 지금]]></content>
     </entry>
 </feed>
