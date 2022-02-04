@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-04T10:20:51.028Z</updated>
+    <updated>2022-02-04T11:17:01.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나 신규확진 역대 최다..네이버 "대면활동 전면금지"]]></title>
+        <id>https://v.daum.net/v/20220204192315047</id>
+        <link href="https://v.daum.net/v/20220204192315047"/>
+        <updated>2022-02-04T11:16:06.395Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EU, 원자력 발전 '녹색' 분류했지만.."엄격한 기준에 사실상 원전 규제 더한 것"]]></title>
         <id>https://v.daum.net/v/20220204163322710</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220204110018633"/>
         <updated>2022-02-04T02:22:31.418Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의술 노하우 쌓은 AI '로봇의사' 까다로운 수술도 알아서 척척]]></title>
-        <id>https://v.daum.net/v/20220204105900546</id>
-        <link href="https://v.daum.net/v/20220204105900546"/>
-        <updated>2022-02-04T02:22:31.419Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
