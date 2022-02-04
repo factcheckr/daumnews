@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-02-04T17:18:33.556Z</updated>
+    <updated>2022-02-04T18:21:31.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쫀득해지는 시간]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/EIBiT96NpV</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/EIBiT96NpV"/>
+        <updated>2022-02-04T18:20:58.183Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[눈꽃 군무]]></title>
         <id>https://gallery.v.daum.net/p/viewer/47169/EInbUQZhhT</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1173214/E6Ko6J7YfK"/>
         <updated>2022-02-04T06:21:12.958Z</updated>
         <content type="html"><![CDATA[헤럴드 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국순당' 52주 신고가 경신, 비 내리는 시장에 막걸리 한잔]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1783949/E9TVAY49iG</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1783949/E9TVAY49iG"/>
-        <updated>2022-02-04T05:17:11.503Z</updated>
-        <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
     </entry>
 </feed>
