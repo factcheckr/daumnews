@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-05T06:21:29.606Z</updated>
+    <updated>2022-02-05T07:18:17.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부산 신규확진 2000명 육박..코로나19 가파른 확산세]]></title>
+        <id>https://v.daum.net/v/20220205114113236</id>
+        <link href="https://v.daum.net/v/20220205114113236"/>
+        <updated>2022-02-05T07:17:43.530Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표지로 읽는 과학] 작은 곤충에서 발견한 새로운 고속 비행 방법]]></title>
         <id>https://v.daum.net/v/20220205114014224</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220205094534919"/>
         <updated>2022-02-05T06:20:54.684Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버·카카오, 뉴스 서비스 확 달라진다]]></title>
-        <id>https://v.daum.net/v/20220205094405891</id>
-        <link href="https://v.daum.net/v/20220205094405891"/>
-        <updated>2022-02-05T06:20:54.685Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
