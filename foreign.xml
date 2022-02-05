@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-02-05T08:20:37.373Z</updated>
+    <updated>2022-02-05T09:20:08.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[캐나다도 우크라이나에 군용장비·교관 지원]]></title>
+        <id>https://v.daum.net/v/20220205172524580</id>
+        <link href="https://v.daum.net/v/20220205172524580"/>
+        <updated>2022-02-05T09:18:35.753Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국, 춘제 연휴 유커 1억3천만명..코로나 이전 72% 회복]]></title>
         <id>https://v.daum.net/v/20220205163505050</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220205153304523"/>
         <updated>2022-02-05T07:17:02.867Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한복 논란' 질문에..항의 않겠다는 황희 "독도 문제와는 달라"]]></title>
-        <id>https://v.daum.net/v/20220205150354269</id>
-        <link href="https://v.daum.net/v/20220205150354269"/>
-        <updated>2022-02-05T07:17:02.867Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
