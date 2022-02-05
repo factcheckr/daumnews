@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-02-05T03:20:34.440Z</updated>
+    <updated>2022-02-05T04:23:18.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220205061952322"/>
         <updated>2022-02-05T01:44:26.242Z</updated>
         <content type="html"><![CDATA[JIBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[간을 튼튼하게 유지하는 생활 방식 5]]></title>
+        <id>https://v.daum.net/v/20220205130603964</id>
+        <link href="https://v.daum.net/v/20220205130603964"/>
+        <updated>2022-02-05T04:22:22.470Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['이 음식' 자주 먹으면.. 식도암 위험 2배 껑충]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220205100613256"/>
         <updated>2022-02-05T01:44:26.245Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화천 첫 공공조리원 개원..지역거주 산모 2주간 무료]]></title>
-        <id>https://v.daum.net/v/20220205093128749</id>
-        <link href="https://v.daum.net/v/20220205093128749"/>
-        <updated>2022-02-05T02:20:30.708Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
