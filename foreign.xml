@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-02-05T07:18:17.845Z</updated>
+    <updated>2022-02-05T08:20:37.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국, 춘제 연휴 유커 1억3천만명..코로나 이전 72% 회복]]></title>
+        <id>https://v.daum.net/v/20220205163505050</id>
+        <link href="https://v.daum.net/v/20220205163505050"/>
+        <updated>2022-02-05T08:19:23.346Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지각 대장' 푸틴에 시진핑도 백기.. '오찬→만찬' 일정 변경]]></title>
         <id>https://v.daum.net/v/20220205160125781</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220205150354269"/>
         <updated>2022-02-05T07:17:02.867Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황희, 올림픽 개회식 '한복 소녀' 논란에 "그게 딱 흠. 현재 항의 계획 없어"]]></title>
-        <id>https://v.daum.net/v/20220205141635690</id>
-        <link href="https://v.daum.net/v/20220205141635690"/>
-        <updated>2022-02-05T07:17:02.871Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
