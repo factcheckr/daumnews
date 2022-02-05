@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2022-02-05T17:17:56.440Z</updated>
+    <updated>2022-02-05T18:21:32.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -46,13 +46,6 @@
         <link href="https://v.daum.net/v/20220205231807092"/>
         <updated>2022-02-05T15:16:52.892Z</updated>
         <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심상정 "尹, 어떤 토론도 자신있다면서 뭐 그리 안되는게 많나"]]></title>
-        <id>https://v.daum.net/v/20220205231647077</id>
-        <link href="https://v.daum.net/v/20220205231647077"/>
-        <updated>2022-02-05T15:16:52.892Z</updated>
-        <content type="html"><![CDATA[정치]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["러시아, 우크라 침공" 오보에.. 크렘린 "가짜뉴스 대신 '블룸버그 뉴스'"]]></title>
@@ -144,5 +137,12 @@
         <link href="https://v.daum.net/v/20220206000018435"/>
         <updated>2022-02-05T17:15:01.510Z</updated>
         <content type="html"><![CDATA[정치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권광석 우리은행장 연임 실패..무성한 뒷말[TF비즈토크<상>]]]></title>
+        <id>https://v.daum.net/v/20220206000025439</id>
+        <link href="https://v.daum.net/v/20220206000025439"/>
+        <updated>2022-02-05T18:18:38.052Z</updated>
+        <content type="html"><![CDATA[경제]]></content>
     </entry>
 </feed>
