@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-06T12:31:04.717Z</updated>
+    <updated>2022-02-06T13:22:38.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["이젠 무서울 정도?" 살짝 웃는 22세 '그녀' 사람보다 낫다?]]></title>
+        <title type="html"><![CDATA[부산 2174명 확진..거리두기 2주 연장]]></title>
+        <id>https://v.daum.net/v/20220206221422817</id>
+        <link href="https://v.daum.net/v/20220206221422817"/>
+        <updated>2022-02-06T13:21:46.222Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["이젠 무서울 정도" 살짝 웃는 22세 '그녀' 사람보다 낫다?]]></title>
         <id>https://v.daum.net/v/20220206184110703</id>
         <link href="https://v.daum.net/v/20220206184110703"/>
         <updated>2022-02-06T10:22:11.403Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220206142314282"/>
         <updated>2022-02-06T07:19:49.068Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["광고 필요한 中企 모여라"..방통위, 광고제작비 14.4억 지원]]></title>
-        <id>https://v.daum.net/v/20220206135546707</id>
-        <link href="https://v.daum.net/v/20220206135546707"/>
-        <updated>2022-02-06T07:19:49.069Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
