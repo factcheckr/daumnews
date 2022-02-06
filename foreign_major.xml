@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-02-06T09:22:02.028Z</updated>
+    <updated>2022-02-06T10:22:53.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["오미크론, 100년 만에 최단기간 최다 환자 발생시킨 질병"]]></title>
-        <id>https://v.daum.net/v/20220206141603150</id>
-        <link href="https://v.daum.net/v/20220206141603150"/>
-        <updated>2022-02-06T09:20:35.369Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
+        <title type="html"><![CDATA[32m 우물에 빠진 5살 모로코 소년의 죽음에 애도 물결]]></title>
+        <id>https://v.daum.net/v/20220206174349843</id>
+        <link href="https://v.daum.net/v/20220206174349843"/>
+        <updated>2022-02-06T10:21:45.815Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[필리핀 복싱 영웅, 독재자 아들에 일격.."부정축재 재산 환수"]]></title>
+        <id>https://v.daum.net/v/20220206173615694</id>
+        <link href="https://v.daum.net/v/20220206173615694"/>
+        <updated>2022-02-06T10:21:45.818Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["러, 2월 중순 핵무기 훈련과 동시에 우크라 침공할 수도"]]></title>
+        <id>https://v.daum.net/v/20220206173252634</id>
+        <link href="https://v.daum.net/v/20220206173252634"/>
+        <updated>2022-02-06T10:21:45.821Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["오미크론, 100년 만에 최악 팬데믹..최단기간 최다감염"]]></title>
+        <id>https://v.daum.net/v/20220206171201262</id>
+        <link href="https://v.daum.net/v/20220206171201262"/>
+        <updated>2022-02-06T10:21:45.823Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[100년 기록 깬 오미크론 "감염된 친구 없다면 친구 아예 없는 것"]]></title>
@@ -34,11 +55,11 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["러, 우크라이나 침공 맞춰 '핵무기 훈련' 계획 세웠다"]]></title>
-        <id>https://v.daum.net/v/20220206132605235</id>
-        <link href="https://v.daum.net/v/20220206132605235"/>
-        <updated>2022-02-06T09:20:35.373Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
+        <title type="html"><![CDATA["러시아, 전력 70% 우크라이나 배치"..핵무기 훈련 가능성도]]></title>
+        <id>https://v.daum.net/v/20220206160734087</id>
+        <link href="https://v.daum.net/v/20220206160734087"/>
+        <updated>2022-02-06T10:21:45.829Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['러시아, 우크라 침공' 초대형 오보 낸 美 블룸버그 "실수였다"]]></title>
@@ -48,31 +69,10 @@
         <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국 외면하던 日, 사도광산 불거지자 대화전략으로 급선회]]></title>
-        <id>https://v.daum.net/v/20220206145851960</id>
-        <link href="https://v.daum.net/v/20220206145851960"/>
-        <updated>2022-02-06T08:22:33.721Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100년 기록 깬 오미크론.."주변에 감염 없다? 당신 친구 없다"]]></title>
-        <id>https://v.daum.net/v/20220206154946771</id>
-        <link href="https://v.daum.net/v/20220206154946771"/>
-        <updated>2022-02-06T08:22:33.722Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 "中 한복 논란, 대국이 이래서야" vs 김은혜 "대국이라니"]]></title>
-        <id>https://v.daum.net/v/20220206153601589</id>
-        <link href="https://v.daum.net/v/20220206153601589"/>
-        <updated>2022-02-06T08:22:33.725Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 당국자 "러시아, 우크라 전면 침공 전력 70% 배치"(종합)]]></title>
-        <id>https://v.daum.net/v/20220206153441578</id>
-        <link href="https://v.daum.net/v/20220206153441578"/>
-        <updated>2022-02-06T08:22:33.727Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
+        <title type="html"><![CDATA["한국 외면하던 일본, 한·일 외교장관 회담 요청 검토 중"]]></title>
+        <id>https://v.daum.net/v/20220206155100789</id>
+        <link href="https://v.daum.net/v/20220206155100789"/>
+        <updated>2022-02-06T10:21:45.829Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>

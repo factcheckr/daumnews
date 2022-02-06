@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-06T09:22:02.009Z</updated>
+    <updated>2022-02-06T10:22:53.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우본, '조선왕조어진' 태조·영조 기념우표 49만2000장 발행]]></title>
+        <id>https://v.daum.net/v/20220206120010844</id>
+        <link href="https://v.daum.net/v/20220206120010844"/>
+        <updated>2022-02-06T10:22:20.194Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오미크론 변이, 100년만에 최단기간 최다 환자 발생한 질병]]></title>
         <id>https://v.daum.net/v/20220206105013726</id>
@@ -25,6 +32,13 @@
         <link href="https://v.daum.net/v/20220206082504786"/>
         <updated>2022-02-06T07:19:58.904Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공개정보 활용 추적 기술에 최고갑부 동선도 '손금 보듯']]></title>
+        <id>https://v.daum.net/v/20220206182606497</id>
+        <link href="https://v.daum.net/v/20220206182606497"/>
+        <updated>2022-02-06T10:22:20.198Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국내 게임社  '기승전 코인'..P2E 경쟁 가열, 왜?]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220206160113951"/>
         <updated>2022-02-06T07:19:58.908Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 엎친데 미중갈등 덮쳤다..실종된 가전업계 '올림픽 특수']]></title>
-        <id>https://v.daum.net/v/20220206160052937</id>
-        <link href="https://v.daum.net/v/20220206160052937"/>
-        <updated>2022-02-06T07:19:58.909Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이버안보법 통과되면?..韓 ICT 경쟁력 하락 불보듯]]></title>
-        <id>https://v.daum.net/v/20220206153725604</id>
-        <link href="https://v.daum.net/v/20220206153725604"/>
-        <updated>2022-02-06T07:19:58.912Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
