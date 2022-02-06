@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-02-06T16:30:15.755Z</updated>
+    <updated>2022-02-06T17:21:58.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[시진핑 만난 아르헨·에콰도르 정상, 중국과 협력 강화 약속]]></title>
+        <id>https://v.daum.net/v/20220207012553959</id>
+        <link href="https://v.daum.net/v/20220207012553959"/>
+        <updated>2022-02-06T17:20:30.665Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[영국 여왕 "찰스 왕위 오르면 며느리 커밀라도 '왕비' 인정받길"(종합)]]></title>
         <id>https://v.daum.net/v/20220207011407919</id>
         <link href="https://v.daum.net/v/20220207011407919"/>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220207010737902"/>
         <updated>2022-02-06T16:28:50.105Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루카셴코 "미국이 우크라이나 전쟁으로 몰아넣어"]]></title>
-        <id>https://v.daum.net/v/20220207010506892</id>
-        <link href="https://v.daum.net/v/20220207010506892"/>
-        <updated>2022-02-06T16:28:50.106Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
