@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-02-06T13:22:38.778Z</updated>
+    <updated>2022-02-06T14:20:20.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://v.daum.net/v/20220206215054445"/>
         <updated>2022-02-06T13:20:52.896Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 뚫고.. 역대급 실적 올린 금융권 '성과급 잔치판']]></title>
+        <id>https://v.daum.net/v/20220206210203010</id>
+        <link href="https://v.daum.net/v/20220206210203010"/>
+        <updated>2022-02-06T14:18:51.638Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2030 영끌족, 작년 아파트 매입 비중 '신기록']]></title>
+        <id>https://v.daum.net/v/20220206223611068</id>
+        <link href="https://v.daum.net/v/20220206223611068"/>
+        <updated>2022-02-06T14:18:51.638Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[배달료 1만원 시대..'셀프 배달족'에 'N빵' 이어 이것까지]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220206213931316"/>
         <updated>2022-02-06T13:20:52.902Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화재·수해로 손상된 돈, 어디서 얼마나 교환 가능할까]]></title>
-        <id>https://v.daum.net/v/20220206213634293</id>
-        <link href="https://v.daum.net/v/20220206213634293"/>
-        <updated>2022-02-06T13:20:52.903Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우리 회사 주식 싸다 싸"..기업·경영진 잇단 자사주 매입에 반등 기대감]]></title>
-        <id>https://v.daum.net/v/20220206214801417</id>
-        <link href="https://v.daum.net/v/20220206214801417"/>
-        <updated>2022-02-06T13:20:52.904Z</updated>
-        <content type="html"><![CDATA[매경이코노미]]></content>
     </entry>
 </feed>
