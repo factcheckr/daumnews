@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-02-06T10:22:53.305Z</updated>
+    <updated>2022-02-06T11:18:30.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[치솟는 유가..항공·해운·화학업계 '비상계획' 가동]]></title>
-        <id>https://v.daum.net/v/20220206180403190</id>
-        <link href="https://v.daum.net/v/20220206180403190"/>
-        <updated>2022-02-06T09:20:13.192Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA["추경 35조? 정부안 14조도 원칙 없는 땜질식 처방"]]></title>
         <id>https://v.daum.net/v/20220206174522866</id>
@@ -41,13 +34,6 @@
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갈수록 뜨거워지는 '반도체·배터리 인재' 쟁탈전]]></title>
-        <id>https://v.daum.net/v/20220206134046449</id>
-        <link href="https://v.daum.net/v/20220206134046449"/>
-        <updated>2022-02-06T09:20:13.199Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[서경이 만난 사람] 한정애 장관 "SMR·SFR은 핵폐기물 적어..K택소노미에 포함 검토"]]></title>
         <id>https://v.daum.net/v/20220206180607231</id>
         <link href="https://v.daum.net/v/20220206180607231"/>
@@ -74,5 +60,19 @@
         <link href="https://v.daum.net/v/20220206180100138"/>
         <updated>2022-02-06T10:21:27.330Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유가·환율 급등에 물가 비상등, 이달 기준금리 올리나]]></title>
+        <id>https://v.daum.net/v/20220206175603041</id>
+        <link href="https://v.daum.net/v/20220206175603041"/>
+        <updated>2022-02-06T11:16:43.742Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외환·자금시장 안정세..주가 하락폭 제한될 듯]]></title>
+        <id>https://v.daum.net/v/20220206174609876</id>
+        <link href="https://v.daum.net/v/20220206174609876"/>
+        <updated>2022-02-06T11:16:43.743Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
