@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-02-06T02:43:05.488Z</updated>
+    <updated>2022-02-06T03:21:15.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['전두환 옹호한 윤석열 물러나라']]></title>
+        <id>https://gallery.v.daum.net/p/viewer/2603/EPkWFkDSpz</id>
+        <link href="https://gallery.v.daum.net/p/viewer/2603/EPkWFkDSpz"/>
+        <updated>2022-02-06T03:20:48.365Z</updated>
+        <content type="html"><![CDATA[광주 민주화항쟁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[근린생활시설 화재.. 담뱃불 원인 추정]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1518/E7lR1y8j6R</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5029578/EIBiT96NpV"/>
         <updated>2022-02-04T18:20:58.183Z</updated>
         <content type="html"><![CDATA[고양이 눈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈꽃 군무]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/47169/EInbUQZhhT</id>
-        <link href="https://gallery.v.daum.net/p/viewer/47169/EInbUQZhhT"/>
-        <updated>2022-02-04T16:26:42.029Z</updated>
-        <content type="html"><![CDATA[눈 오는 풍경]]></content>
     </entry>
 </feed>
