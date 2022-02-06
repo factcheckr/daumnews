@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-02-06T21:19:11.666Z</updated>
+    <updated>2022-02-06T22:21:37.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美안보보좌관 "올림픽 끝나기 前 러 침공 가능성 대비"]]></title>
+        <id>https://v.daum.net/v/20220207041329458</id>
+        <link href="https://v.daum.net/v/20220207041329458"/>
+        <updated>2022-02-06T22:20:03.593Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머스크 전용기 추적 트위터 만든 10대, 모델3 리스 제안도 거절]]></title>
         <id>https://v.daum.net/v/20220207050601700</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220207044601534"/>
         <updated>2022-02-06T20:20:09.402Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 안보보좌관 "중국, 러시아 지원하면 대가 치러야"]]></title>
-        <id>https://v.daum.net/v/20220207044248527</id>
-        <link href="https://v.daum.net/v/20220207044248527"/>
-        <updated>2022-02-06T21:17:54.171Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
