@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-02-06T17:21:58.649Z</updated>
+    <updated>2022-02-06T18:23:45.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[집주인은 누구?]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/EZ0Busodp7</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/EZ0Busodp7"/>
+        <updated>2022-02-06T18:23:19.690Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[평창 대관령눈꽃축제장 눈조각 공개]]></title>
         <id>https://gallery.v.daum.net/p/viewer/47169/E2ONBw9RwQ</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5034397/EL5Y3pArO1"/>
         <updated>2022-02-05T10:19:47.411Z</updated>
         <content type="html"><![CDATA[제주 제2공항 갈등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주유소에 차량 돌진해 2명 경상..경찰 "운전 미숙 추정"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5035080/EWson9Ulxq</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5035080/EWson9Ulxq"/>
-        <updated>2022-02-05T09:19:34.734Z</updated>
-        <content type="html"><![CDATA[기름값 현황]]></content>
     </entry>
 </feed>
