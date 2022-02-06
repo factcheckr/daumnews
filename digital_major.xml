@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-06T22:21:37.923Z</updated>
+    <updated>2022-02-06T23:21:20.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220206211733138"/>
         <updated>2022-02-06T12:30:32.798Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스퍼 유전자가위 세기의 특허 전쟁 2라운드 불붙었다]]></title>
+        <id>https://v.daum.net/v/20220207070012769</id>
+        <link href="https://v.daum.net/v/20220207070012769"/>
+        <updated>2022-02-06T23:20:38.591Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시청각장애인도 OTT 구독합니다만?..장애인 방송 접근권 확대 '지지부진']]></title>
+        <id>https://v.daum.net/v/20220207070011767</id>
+        <link href="https://v.daum.net/v/20220207070011767"/>
+        <updated>2022-02-06T23:20:38.592Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["1년 대기는 기본" 공급 더딘 반도체 장비에 애타는 삼성·SK하이닉스]]></title>
@@ -55,24 +69,10 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글·메타 주가 희비, 애플이 갈랐다]]></title>
+        <title type="html"><![CDATA[구글·메타 주가 희비, 애플이 갈랐다?]]></title>
         <id>https://v.daum.net/v/20220207041652463</id>
         <link href="https://v.daum.net/v/20220207041652463"/>
         <updated>2022-02-06T22:20:57.600Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성화부터 심판까지.. 베이징 곳곳서 로봇이 불쑥]]></title>
-        <id>https://v.daum.net/v/20220207041023451</id>
-        <link href="https://v.daum.net/v/20220207041023451"/>
-        <updated>2022-02-06T22:20:57.602Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["암호화폐 노린 해킹에 '카카오 QR체크인'도 마비됐다"]]></title>
-        <id>https://v.daum.net/v/20220206200444574</id>
-        <link href="https://v.daum.net/v/20220206200444574"/>
-        <updated>2022-02-06T13:21:57.419Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
