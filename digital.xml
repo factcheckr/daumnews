@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-06T08:23:38.037Z</updated>
+    <updated>2022-02-06T09:22:02.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["결제 안돼 분통"..한결원, 서울페이+ 민원은 서울시 책임]]></title>
+        <id>https://v.daum.net/v/20220206132114141</id>
+        <link href="https://v.daum.net/v/20220206132114141"/>
+        <updated>2022-02-06T09:21:08.485Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선장 바뀌는 네카오, 글로벌·M&A 시장서 한판 붙는다]]></title>
         <id>https://v.daum.net/v/20220206170907200</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220206120010844"/>
         <updated>2022-02-06T07:19:49.070Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오미크론 변이, 100년만에 최단기간 최다 환자 발생한 질병]]></title>
-        <id>https://v.daum.net/v/20220206105013726</id>
-        <link href="https://v.daum.net/v/20220206105013726"/>
-        <updated>2022-02-06T07:19:49.072Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
