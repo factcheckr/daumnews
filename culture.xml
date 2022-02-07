@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-02-07T19:17:05.378Z</updated>
+    <updated>2022-02-07T20:19:52.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["5G도 잘 안 터지는데".. 벌써부터 6G 경쟁하는 이유 [그렇구나! 생생과학]]]></title>
+        <id>https://v.daum.net/v/20220208043140079</id>
+        <link href="https://v.daum.net/v/20220208043140079"/>
+        <updated>2022-02-07T20:18:38.275Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SBS 라디오 PD "여당 항의로 프로그램 하차" 논란]]></title>
         <id>https://v.daum.net/v/20220208040843930</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220207185615372"/>
         <updated>2022-02-07T10:22:27.995Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["교사가 발로 차 치아 부러져" 양산 어린이집 학대 의혹]]></title>
-        <id>https://v.daum.net/v/20220207175710129</id>
-        <link href="https://v.daum.net/v/20220207175710129"/>
-        <updated>2022-02-07T10:22:27.996Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
     </entry>
 </feed>
