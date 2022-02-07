@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-02-07T10:23:43.515Z</updated>
+    <updated>2022-02-07T11:18:06.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["오미크론, 누구나 걸릴 수 있다..'7단계'로 대응하라"]]></title>
+        <id>https://v.daum.net/v/20220207175850188</id>
+        <link href="https://v.daum.net/v/20220207175850188"/>
+        <updated>2022-02-07T11:17:00.257Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머스크 전용기 추적 트위터 지지하는 밈코인 등장(종합)]]></title>
         <id>https://v.daum.net/v/20220207165634107</id>
@@ -48,11 +55,18 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모스크바·워싱턴 향하는 프·독 정상..유럽, '우크라 위기' 해법 찾기]]></title>
-        <id>https://v.daum.net/v/20220207153607821</id>
-        <link href="https://v.daum.net/v/20220207153607821"/>
-        <updated>2022-02-07T09:21:15.129Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
+        <title type="html"><![CDATA[마크롱은 방러, 숄츠는 방미..긴박한 우크라이나 '벼랑 끝 외교']]></title>
+        <id>https://v.daum.net/v/20220207172546095</id>
+        <link href="https://v.daum.net/v/20220207172546095"/>
+        <updated>2022-02-07T11:17:00.268Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["돈풀기 폭주 시작된다" 추경 증액 움직임에 치솟는 채권 금리]]></title>
+        <id>https://v.daum.net/v/20220207172038916</id>
+        <link href="https://v.daum.net/v/20220207172038916"/>
+        <updated>2022-02-07T11:17:00.268Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["올림픽 폐막 전" 전쟁 목소리 키우는 美..우크라는 "종말론 NO"]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220207172301004"/>
         <updated>2022-02-07T09:21:15.130Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中, 美 '중국견제법안'에 "냉전사고 가득..결연 반대"]]></title>
-        <id>https://v.daum.net/v/20220207171625773</id>
-        <link href="https://v.daum.net/v/20220207171625773"/>
-        <updated>2022-02-07T09:21:15.131Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9일째 백신 반대 시위로 캐나다 수도 마비..무차별 경적·폭죽]]></title>
-        <id>https://v.daum.net/v/20220207171607766</id>
-        <link href="https://v.daum.net/v/20220207171607766"/>
-        <updated>2022-02-07T10:22:17.973Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
