@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-02-07T09:22:38.702Z</updated>
+    <updated>2022-02-07T10:23:43.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -13,11 +13,25 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[검찰, 1천300회 하도급 계약서 발급 안한 DL 기소(종합)]]></title>
+        <id>https://v.daum.net/v/20220207190810548</id>
+        <link href="https://v.daum.net/v/20220207190810548"/>
+        <updated>2022-02-07T10:21:58.986Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['무배당' 추진했던 SK이노, 결국 주식배당.."주주가치 제고"]]></title>
         <id>https://v.daum.net/v/20220207171526731</id>
         <link href="https://v.daum.net/v/20220207171526731"/>
         <updated>2022-02-07T09:20:53.930Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍남기 "2~3배 추경 증액 동의못해" vs 與 "민주주의 부정하나"]]></title>
+        <id>https://v.daum.net/v/20220207161734615</id>
+        <link href="https://v.daum.net/v/20220207161734615"/>
+        <updated>2022-02-07T10:21:58.988Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자가검사키트 정확도 90%라더니 4명 중 1명 '가짜 양성'..왜?]]></title>
@@ -27,25 +41,11 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["제2의 HDC·삼표 사고 막는다"..중대재해 요주의 사업장 집중감독]]></title>
-        <id>https://v.daum.net/v/20220207150002158</id>
-        <link href="https://v.daum.net/v/20220207150002158"/>
-        <updated>2022-02-07T07:19:15.121Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대중공업지주, 작년 영업익 1조854억원..지주 출범 이래 최대]]></title>
-        <id>https://v.daum.net/v/20220207145539979</id>
-        <link href="https://v.daum.net/v/20220207145539979"/>
-        <updated>2022-02-07T08:24:22.216Z</updated>
+        <title type="html"><![CDATA["국민연금 대표소송, 공적기구의 기업 경영 간섭"(종합)]]></title>
+        <id>https://v.daum.net/v/20220207164608723</id>
+        <link href="https://v.daum.net/v/20220207164608723"/>
+        <updated>2022-02-07T09:20:53.949Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RE100 기업들 "한국, 재생에너지 장벽 커..조달방법 부족"]]></title>
-        <id>https://v.daum.net/v/20220207162941112</id>
-        <link href="https://v.daum.net/v/20220207162941112"/>
-        <updated>2022-02-07T08:24:22.211Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[노동부, 사망사고 발생하면 본사·전국 유사 사업장 모두 감독]]></title>
@@ -55,17 +55,10 @@
         <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["국민연금 대표소송, 공적기구의 기업 경영 간섭"(종합)]]></title>
-        <id>https://v.daum.net/v/20220207164608723</id>
-        <link href="https://v.daum.net/v/20220207164608723"/>
-        <updated>2022-02-07T09:20:53.949Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스피, 기관 매도에 나흘만에 하락..2,740대로 뒷걸음(종합)]]></title>
-        <id>https://v.daum.net/v/20220207161317441</id>
-        <link href="https://v.daum.net/v/20220207161317441"/>
-        <updated>2022-02-07T09:20:53.950Z</updated>
+        <title type="html"><![CDATA[RE100 기업들 "한국, 재생에너지 장벽 커..조달방법 부족"]]></title>
+        <id>https://v.daum.net/v/20220207162941112</id>
+        <link href="https://v.daum.net/v/20220207162941112"/>
+        <updated>2022-02-07T08:24:22.211Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220207173528440"/>
         <updated>2022-02-07T09:20:53.950Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중소벤처 85% "구조전환 필요성 체감"..계획 실현은 27%]]></title>
+        <id>https://v.daum.net/v/20220207170842538</id>
+        <link href="https://v.daum.net/v/20220207170842538"/>
+        <updated>2022-02-07T10:21:58.997Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
