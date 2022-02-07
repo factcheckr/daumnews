@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-02-07T15:22:43.297Z</updated>
+    <updated>2022-02-07T16:32:43.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["한미일 국방장관, 이달 중 화상회담..북한 미사일 대응 논의"]]></title>
+        <id>https://v.daum.net/v/20220207231033876</id>
+        <link href="https://v.daum.net/v/20220207231033876"/>
+        <updated>2022-02-07T16:31:12.266Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이란 "美의 압박정책, 비참하게 실패했다"]]></title>
+        <id>https://v.daum.net/v/20220207230552801</id>
+        <link href="https://v.daum.net/v/20220207230552801"/>
+        <updated>2022-02-07T16:31:12.267Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국·EU, 우크라 위기 속 에너지 안보 논의]]></title>
         <id>https://v.daum.net/v/20220207222707246</id>
@@ -13,66 +27,52 @@
         <content type="html"><![CDATA[SBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프랑스, 우크라 사태 '해결사' 되나]]></title>
-        <id>https://v.daum.net/v/20220207215614598</id>
-        <link href="https://v.daum.net/v/20220207215614598"/>
-        <updated>2022-02-07T15:21:12.113Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IAEA, 日 후쿠시마 원전 오염수 해상 방류 검증.. 다음 주 방일]]></title>
-        <id>https://v.daum.net/v/20220207212658075</id>
-        <link href="https://v.daum.net/v/20220207212658075"/>
-        <updated>2022-02-07T15:21:12.115Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日, 6만8039명 신규 확진..사망자 113명]]></title>
-        <id>https://v.daum.net/v/20220207210014446</id>
-        <link href="https://v.daum.net/v/20220207210014446"/>
-        <updated>2022-02-07T15:21:12.115Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교황, TV토크쇼 첫 출연..우크라 사태에 "전쟁은 파멸" 경고(종합)]]></title>
-        <id>https://v.daum.net/v/20220207202249820</id>
-        <link href="https://v.daum.net/v/20220207202249820"/>
-        <updated>2022-02-07T14:19:38.166Z</updated>
+        <title type="html"><![CDATA[남아시아 곳곳 눈사태..아프간 15명 사망·인도선 군인 7명 실종]]></title>
+        <id>https://v.daum.net/v/20220207220409799</id>
+        <link href="https://v.daum.net/v/20220207220409799"/>
+        <updated>2022-02-07T16:31:12.269Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일본 코로나19 신규감염 6만8039명..누적 338만4116명]]></title>
-        <id>https://v.daum.net/v/20220207235430377</id>
-        <link href="https://v.daum.net/v/20220207235430377"/>
-        <updated>2022-02-07T15:21:12.118Z</updated>
+        <title type="html"><![CDATA[후쿠시마 오염수 IAEA 조사단 다음주 방일..한국 전문가도 참가]]></title>
+        <id>https://v.daum.net/v/20220207215135474</id>
+        <link href="https://v.daum.net/v/20220207215135474"/>
+        <updated>2022-02-07T16:31:12.271Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄마와 밀항하던 베네수엘라 아기, 해안경비대가 쏜 총에 숨져]]></title>
+        <id>https://v.daum.net/v/20220208012606223</id>
+        <link href="https://v.daum.net/v/20220208012606223"/>
+        <updated>2022-02-07T16:31:12.272Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["트럼프, 김정은 친서 '마러라고'로 유출했다가 회수돼"]]></title>
+        <id>https://v.daum.net/v/20220208012200207</id>
+        <link href="https://v.daum.net/v/20220208012200207"/>
+        <updated>2022-02-07T16:31:12.272Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독일 총리 "러, 우크라이나 침공 시 모든 조치 취할 준비"]]></title>
+        <id>https://v.daum.net/v/20220208005345001</id>
+        <link href="https://v.daum.net/v/20220208005345001"/>
+        <updated>2022-02-07T16:31:12.273Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美·EU 에너지 안보협력 고위급 회의.."공급 무기화 안돼"]]></title>
+        <id>https://v.daum.net/v/20220208004631958</id>
+        <link href="https://v.daum.net/v/20220208004631958"/>
+        <updated>2022-02-07T16:31:12.274Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["한·미·일 국방장관 회담 이달 중 화상 개최"-교도통신]]></title>
-        <id>https://v.daum.net/v/20220207233124112</id>
-        <link href="https://v.daum.net/v/20220207233124112"/>
-        <updated>2022-02-07T15:21:12.119Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美, NFT로 정치자금 모금하고 지지자들 관리까지]]></title>
-        <id>https://v.daum.net/v/20220207231626948</id>
-        <link href="https://v.daum.net/v/20220207231626948"/>
-        <updated>2022-02-07T15:21:12.120Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中정부가 사주했나.. 펑솨이 "성폭행당했다고 한 적 없다" 주장]]></title>
-        <id>https://v.daum.net/v/20220207231320901</id>
-        <link href="https://v.daum.net/v/20220207231320901"/>
-        <updated>2022-02-07T14:19:38.174Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈레반 "경제 성장 최우선 과제..빈곤·실업 퇴치에 주력"]]></title>
-        <id>https://v.daum.net/v/20220207225456629</id>
-        <link href="https://v.daum.net/v/20220207225456629"/>
-        <updated>2022-02-07T14:19:38.176Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
+        <title type="html"><![CDATA["미일 철강 관세 분쟁 타결 합의안 곧 발표"<블룸버그>]]></title>
+        <id>https://v.daum.net/v/20220208004505948</id>
+        <link href="https://v.daum.net/v/20220208004505948"/>
+        <updated>2022-02-07T16:31:12.275Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
