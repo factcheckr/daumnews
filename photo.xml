@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-02-07T13:23:55.257Z</updated>
+    <updated>2022-02-07T14:21:03.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더워지기 전에 미리 준비하세요[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/EbHgAzxkK1</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/EbHgAzxkK1"/>
+        <updated>2022-02-07T14:20:31.013Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울역∼남영역 선로변서 화재..양방향 열차 20분간 운행 중단]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1518/E6jF3hq5rY</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5030433/EtPWagEgaE"/>
         <updated>2022-02-07T05:19:28.009Z</updated>
         <content type="html"><![CDATA[국립중앙박물관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버스에서 쓰러진 시민 응급처치한 간호사 '의로운 시민상']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5116766/EU4JPSmoeg</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5116766/EU4JPSmoeg"/>
-        <updated>2022-02-07T05:19:28.009Z</updated>
-        <content type="html"><![CDATA[출근길 풍경]]></content>
     </entry>
 </feed>
