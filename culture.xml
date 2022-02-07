@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-02-07T14:21:03.041Z</updated>
+    <updated>2022-02-07T15:22:43.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SBS 노조 "민주당 항의에 이재익 PD 교체..방송 자유 침해"]]></title>
+        <id>https://v.daum.net/v/20220208000255520</id>
+        <link href="https://v.daum.net/v/20220208000255520"/>
+        <updated>2022-02-07T15:21:23.531Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소중한 추억을 함께'..문화예술공간 눈길]]></title>
         <id>https://v.daum.net/v/20220207220844886</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220207172829189"/>
         <updated>2022-02-07T09:21:26.151Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기자협회 "대선후보 4자 TV토론 11일 개최 확정"(종합)]]></title>
-        <id>https://v.daum.net/v/20220207172424059</id>
-        <link href="https://v.daum.net/v/20220207172424059"/>
-        <updated>2022-02-07T09:21:26.153Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
