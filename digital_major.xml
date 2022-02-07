@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-07T08:26:09.127Z</updated>
+    <updated>2022-02-07T09:22:38.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["오미크론, 2월 말 최대 17만명 일 확진"..확진 3% 땐 등교 못해]]></title>
+        <id>https://v.daum.net/v/20220207144412465</id>
+        <link href="https://v.daum.net/v/20220207144412465"/>
+        <updated>2022-02-07T09:21:57.560Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KT스카이라이프, 2021년 4Q 영업익 162억원..전년比 62.8% 증가]]></title>
         <id>https://v.daum.net/v/20220207133533649</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220207100537400"/>
         <updated>2022-02-07T04:27:17.631Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["요즘 울적하세요?" 대화로 노인 건강 관리하는 로봇 나온다]]></title>
-        <id>https://v.daum.net/v/20220207091730454</id>
-        <link href="https://v.daum.net/v/20220207091730454"/>
-        <updated>2022-02-07T03:22:05.064Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
