@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-07T12:33:51.505Z</updated>
+    <updated>2022-02-07T13:23:55.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인공지능 AI, '끼임'·'깔림' 사고 막는다]]></title>
+        <id>https://v.daum.net/v/20220207193754032</id>
+        <link href="https://v.daum.net/v/20220207193754032"/>
+        <updated>2022-02-07T13:23:11.405Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스마트폰 격전지 유럽서 삼성 작년 1위 유지]]></title>
         <id>https://v.daum.net/v/20220207164652750</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220207155647748"/>
         <updated>2022-02-07T07:20:11.053Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["유럽서 팔린 스마트폰, 3대 중 1대는 삼성..성장률 1등은?"]]></title>
-        <id>https://v.daum.net/v/20220207160121939</id>
-        <link href="https://v.daum.net/v/20220207160121939"/>
-        <updated>2022-02-07T07:20:11.054Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>

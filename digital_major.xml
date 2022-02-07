@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-07T12:33:51.518Z</updated>
+    <updated>2022-02-07T13:23:55.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["유럽서 팔린 스마트폰, 3대 중 1대는 삼성..성장률 1등은?"]]></title>
+        <id>https://v.daum.net/v/20220207160121939</id>
+        <link href="https://v.daum.net/v/20220207160121939"/>
+        <updated>2022-02-07T13:23:20.955Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안철수 "글로벌 기업 5개 키워 세계 5대 경제 강국 만들 것"]]></title>
         <id>https://v.daum.net/v/20220207154925438</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220207120022724"/>
         <updated>2022-02-07T07:20:22.050Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누리호 3단에 새 설계 적용해 다시 쏜다]]></title>
-        <id>https://v.daum.net/v/20220207112636302</id>
-        <link href="https://v.daum.net/v/20220207112636302"/>
-        <updated>2022-02-07T06:25:27.275Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
