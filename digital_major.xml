@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-07T07:21:03.286Z</updated>
+    <updated>2022-02-07T08:26:09.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KT스카이라이프, 2021년 4Q 영업익 162억원..전년比 62.8% 증가]]></title>
+        <id>https://v.daum.net/v/20220207133533649</id>
+        <link href="https://v.daum.net/v/20220207133533649"/>
+        <updated>2022-02-07T08:25:27.578Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[작년 50% 폭등한 OLED 수요..올해는 얼마나 팔릴까]]></title>
         <id>https://v.daum.net/v/20220207131500902</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220207091730454"/>
         <updated>2022-02-07T03:22:05.064Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자, 갤럭시S22에 해양 폐기물 재활용 소재 사용]]></title>
-        <id>https://v.daum.net/v/20220207090143909</id>
-        <link href="https://v.daum.net/v/20220207090143909"/>
-        <updated>2022-02-07T03:22:05.065Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
