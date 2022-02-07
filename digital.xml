@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-07T03:22:44.734Z</updated>
+    <updated>2022-02-07T04:27:54.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[작년 50% 폭등한 OLED 수요..올해는 얼마나 팔릴까]]></title>
+        <id>https://v.daum.net/v/20220207131500902</id>
+        <link href="https://v.daum.net/v/20220207131500902"/>
+        <updated>2022-02-07T04:27:07.982Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["아마존·나이키, 홈트레이닝 업체 펠로톤 인수 검토"]]></title>
+        <id>https://v.daum.net/v/20220207130730695</id>
+        <link href="https://v.daum.net/v/20220207130730695"/>
+        <updated>2022-02-07T04:27:07.983Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[과기정통부, 연구개발 특구 육성 위해 1300억원 투자]]></title>
         <id>https://v.daum.net/v/20220207120724022</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220207112630297"/>
         <updated>2022-02-07T02:34:24.694Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 캠프, '의사과학자 1000명 양성' 정책 발표한다]]></title>
-        <id>https://v.daum.net/v/20220207101432783</id>
-        <link href="https://v.daum.net/v/20220207101432783"/>
-        <updated>2022-02-07T02:34:24.696Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["애플, 3월8일 3세대 아이폰 SE 공개"]]></title>
-        <id>https://v.daum.net/v/20220207100537400</id>
-        <link href="https://v.daum.net/v/20220207100537400"/>
-        <updated>2022-02-07T03:21:54.571Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
