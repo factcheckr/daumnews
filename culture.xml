@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-02-08T07:20:55.270Z</updated>
+    <updated>2022-02-08T08:25:43.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[울산 전역에 화재위험경보 '주의' 발령(종합)]]></title>
+        <id>https://v.daum.net/v/20220208165637063</id>
+        <link href="https://v.daum.net/v/20220208165637063"/>
+        <updated>2022-02-08T08:24:25.450Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당진 한진포구서 만선 기원 세시풍속 '한진 풍어제' 열려]]></title>
         <id>https://v.daum.net/v/20220208161128380</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220208104951201"/>
         <updated>2022-02-08T03:21:21.998Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아르코·대학로예술극장장에 강량원 연출가 선정]]></title>
-        <id>https://v.daum.net/v/20220208101557688</id>
-        <link href="https://v.daum.net/v/20220208101557688"/>
-        <updated>2022-02-08T02:35:05.252Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
