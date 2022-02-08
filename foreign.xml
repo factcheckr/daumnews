@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-02-08T13:24:14.611Z</updated>
+    <updated>2022-02-08T14:21:01.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["확진자 옆에서도 멀쩡" 코로나 안 걸리는 '수퍼 유전자' 있다]]></title>
+        <id>https://v.daum.net/v/20220208225631619</id>
+        <link href="https://v.daum.net/v/20220208225631619"/>
+        <updated>2022-02-08T14:19:46.916Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베이징올림픽 와중에..美, 중국기관 33곳 무더기 수출통제]]></title>
         <id>https://v.daum.net/v/20220208221808123</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220208212856939"/>
         <updated>2022-02-08T12:31:07.226Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU 집행위, 반도체 등 생산확대 법안 발표..58조9천억 투입]]></title>
-        <id>https://v.daum.net/v/20220208211639638</id>
-        <link href="https://v.daum.net/v/20220208211639638"/>
-        <updated>2022-02-08T13:22:57.153Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
