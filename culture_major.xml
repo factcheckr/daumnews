@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-02-08T16:31:46.927Z</updated>
+    <updated>2022-02-08T17:23:17.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[혈액순환 저하로 인한 돌발성난청, 고압산소치료로 회복]]></title>
-        <id>https://v.daum.net/v/20220209011104840</id>
-        <link href="https://v.daum.net/v/20220209011104840"/>
-        <updated>2022-02-08T16:30:51.473Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[춘천 출신 연주자 정은비 70년 역사 독일 음악제 개막무대 오른다]]></title>
         <id>https://v.daum.net/v/20220209001124452</id>
@@ -73,6 +66,13 @@
         <id>https://v.daum.net/v/20220208170608465</id>
         <link href="https://v.daum.net/v/20220208170608465"/>
         <updated>2022-02-08T08:24:36.553Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[봄이 오면..화려한 뮤지컬 맞수 대결]]></title>
+        <id>https://v.daum.net/v/20220208170601453</id>
+        <link href="https://v.daum.net/v/20220208170601453"/>
+        <updated>2022-02-08T17:22:30.736Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
