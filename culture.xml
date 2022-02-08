@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-02-08T05:20:22.179Z</updated>
+    <updated>2022-02-08T06:25:52.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[울산 전역에 화재위험경보 '주의' 발령]]></title>
+        <id>https://v.daum.net/v/20220208150956692</id>
+        <link href="https://v.daum.net/v/20220208150956692"/>
+        <updated>2022-02-08T06:24:48.694Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] '서울 4.5도' 추위 누그러져..동쪽 건조특보 확대]]></title>
+        <id>https://v.daum.net/v/20220208150637572</id>
+        <link href="https://v.daum.net/v/20220208150637572"/>
+        <updated>2022-02-08T06:24:48.695Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['코로나 백신' 개발 사라 길버트·세계백신면역연합, 선학평화상 수상]]></title>
         <id>https://v.daum.net/v/20220208084649470</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220208101557688"/>
         <updated>2022-02-08T02:35:05.252Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리나라 중학생, 가장 많이 마시는 음료는?]]></title>
-        <id>https://v.daum.net/v/20220208091350233</id>
-        <link href="https://v.daum.net/v/20220208091350233"/>
-        <updated>2022-02-08T01:10:29.387Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D-30 '무의미한' 오차범위 여론조사, 신뢰할 수 있을까]]></title>
-        <id>https://v.daum.net/v/20220208082400944</id>
-        <link href="https://v.daum.net/v/20220208082400944"/>
-        <updated>2022-02-08T01:10:29.395Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
