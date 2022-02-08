@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-08T03:22:38.707Z</updated>
+    <updated>2022-02-08T04:26:51.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메타, '유럽 철수' 엄포..EU→美 데이터전송 다시 쟁점]]></title>
+        <id>https://v.daum.net/v/20220208110109725</id>
+        <link href="https://v.daum.net/v/20220208110109725"/>
+        <updated>2022-02-08T04:26:15.114Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성도 긴장한 '엔비디아-ARM 합병'..결국 "무산됐다"]]></title>
         <id>https://v.daum.net/v/20220208104707092</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220208111753609"/>
         <updated>2022-02-08T02:35:29.520Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한-EU 적정성 결정은 '절차 간소화'..GDPR 준수 의무는 여전]]></title>
-        <id>https://v.daum.net/v/20220208105202311</id>
-        <link href="https://v.daum.net/v/20220208105202311"/>
-        <updated>2022-02-08T02:35:29.523Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>

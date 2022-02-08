@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-08T03:22:38.688Z</updated>
+    <updated>2022-02-08T04:26:52.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블록체인에 기록된 개인정보, 익명처리하면 파기로 인정]]></title>
+        <id>https://v.daum.net/v/20220208130656299</id>
+        <link href="https://v.daum.net/v/20220208130656299"/>
+        <updated>2022-02-08T04:26:05.091Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해부터 고성능 액체 로켓 엔진 개발 추진..내년까지 120억 투입]]></title>
         <id>https://v.daum.net/v/20220208120038618</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220208111355392"/>
         <updated>2022-02-08T02:35:21.513Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메타, '유럽 철수' 엄포..EU→美 데이터전송 다시 쟁점]]></title>
-        <id>https://v.daum.net/v/20220208110109725</id>
-        <link href="https://v.daum.net/v/20220208110109725"/>
-        <updated>2022-02-08T02:35:21.514Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
