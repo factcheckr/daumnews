@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-09T15:23:13.095Z</updated>
+    <updated>2022-02-09T16:32:50.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베일 벗은 갤럭시S22.. 카메라·S펜으로 '승부수']]></title>
+        <id>https://v.daum.net/v/20220210000008140</id>
+        <link href="https://v.daum.net/v/20220210000008140"/>
+        <updated>2022-02-09T16:32:09.413Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성 갤S22, 'S펜-카메라-친환경' 뉴노멀 세우다]]></title>
         <id>https://v.daum.net/v/20220210000012147</id>
         <link href="https://v.daum.net/v/20220210000012147"/>
         <updated>2022-02-09T15:22:28.536Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["노트북 안부럽다" '역대급' 삼성 갤탭S8 온다..타깃은 애플 아이패드]]></title>
+        <id>https://v.daum.net/v/20220210000006136</id>
+        <link href="https://v.daum.net/v/20220210000006136"/>
+        <updated>2022-02-09T16:32:09.416Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['갤럭시S22' 시리즈, 갤노트 상징 'S펜' 품었다..역대급 '요술봉']]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220209164042512"/>
         <updated>2022-02-09T15:22:28.541Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오 "5년간 5천억원 투자해 일자리 2만개 이상 창출"]]></title>
-        <id>https://v.daum.net/v/20220209161850591</id>
-        <link href="https://v.daum.net/v/20220209161850591"/>
-        <updated>2022-02-09T13:23:54.937Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['5G' 끌고 '신사업' 밀었다..통신3사 10년만에 '4조원대' 영업익]]></title>
-        <id>https://v.daum.net/v/20220209152212011</id>
-        <link href="https://v.daum.net/v/20220209152212011"/>
-        <updated>2022-02-09T10:23:11.469Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
