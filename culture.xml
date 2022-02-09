@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-02-09T20:22:35.767Z</updated>
+    <updated>2022-02-09T21:19:34.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://v.daum.net/v/20220210050730964"/>
         <updated>2022-02-09T20:21:38.947Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래세대의 경고 "한국 대선 후보들, 기후위기 진지하게 공부하라"]]></title>
-        <id>https://v.daum.net/v/20220210043202652</id>
-        <link href="https://v.daum.net/v/20220210043202652"/>
-        <updated>2022-02-09T20:21:38.949Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["정명훈 아들이라 부담? 난 음악과 씨름"]]></title>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20220209181557995"/>
         <updated>2022-02-09T15:21:54.809Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["30대 비만, 위암으로 이어진다..발병 위험 2배"]]></title>
+        <id>https://v.daum.net/v/20220210060308642</id>
+        <link href="https://v.daum.net/v/20220210060308642"/>
+        <updated>2022-02-09T21:18:29.695Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
