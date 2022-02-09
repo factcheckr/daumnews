@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-02-09T13:24:27.012Z</updated>
+    <updated>2022-02-09T14:19:50.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,27 @@
         <link href="https://v.daum.net/v/20220209221533433"/>
         <updated>2022-02-09T13:23:21.280Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中대사관 "韓언론-정치인이 반중정서 선동..엄중한 우려"]]></title>
+        <id>https://v.daum.net/v/20220209212826451</id>
+        <link href="https://v.daum.net/v/20220209212826451"/>
+        <updated>2022-02-09T14:18:40.160Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日, LNG 잉여 물량 유럽에 팔기로..우크라 사태 美와 공조 과시(종합)]]></title>
+        <id>https://v.daum.net/v/20220209210605079</id>
+        <link href="https://v.daum.net/v/20220209210605079"/>
+        <updated>2022-02-09T14:18:40.163Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국 광시성 집단감염에 알루미늄 가격 13년 반 만에 최고(종합)]]></title>
+        <id>https://v.daum.net/v/20220209210226008</id>
+        <link href="https://v.daum.net/v/20220209210226008"/>
+        <updated>2022-02-09T14:18:40.163Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["추문·말다툼·모욕으로 얼룩..역대 최악" 외신이 본 韓 대선]]></title>
@@ -34,13 +55,6 @@
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일본 하루 확진자 10만명 육박..사망자 162명 이틀 연속 최다]]></title>
-        <id>https://v.daum.net/v/20220209201313989</id>
-        <link href="https://v.daum.net/v/20220209201313989"/>
-        <updated>2022-02-09T13:23:21.286Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[영 외무 1박2일 러시아 방문.."우크라 침략시 엄청난 결과" 경고]]></title>
         <id>https://v.daum.net/v/20220209201157959</id>
         <link href="https://v.daum.net/v/20220209201157959"/>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220209194616514"/>
         <updated>2022-02-09T12:32:19.968Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美, '마스크 의무화' 해제 확산.."아직 이르다" 반대도]]></title>
-        <id>https://v.daum.net/v/20220209193749379</id>
-        <link href="https://v.daum.net/v/20220209193749379"/>
-        <updated>2022-02-09T12:32:19.968Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블링컨 美 국무 호주 도착..'쿼드 외무 회담'으로 中 견제]]></title>
-        <id>https://v.daum.net/v/20220209191200031</id>
-        <link href="https://v.daum.net/v/20220209191200031"/>
-        <updated>2022-02-09T12:32:19.970Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
