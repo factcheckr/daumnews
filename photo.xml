@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-02-09T09:21:46.981Z</updated>
+    <updated>2022-02-09T10:23:42.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이 거리에 다시 꽃 필 날]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/182540/E6OUR85W3c</id>
+        <link href="https://gallery.v.daum.net/p/viewer/182540/E6OUR85W3c"/>
+        <updated>2022-02-09T10:23:18.428Z</updated>
+        <content type="html"><![CDATA[옵스큐라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["IMF와 채무 재조정안 합의 반대" 아르헨 시위]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5031018/EpXlJ6HLc0</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/318190/ECpWrpMNhJ"/>
         <updated>2022-02-09T04:27:18.757Z</updated>
         <content type="html"><![CDATA[제19대 문재인 대통령]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에드 시런, 브릿 어워즈 '올해의 송라이터' 수상]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/2329/EMimHqbifK</id>
-        <link href="https://gallery.v.daum.net/p/viewer/2329/EMimHqbifK"/>
-        <updated>2022-02-09T02:38:35.533Z</updated>
-        <content type="html"><![CDATA[영국은 지금]]></content>
     </entry>
 </feed>
