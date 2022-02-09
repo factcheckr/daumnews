@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-02-09T08:26:33.089Z</updated>
+    <updated>2022-02-09T09:21:46.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'조폭도시 오명' 익산에 조폭박물관 건립"..시장 후보 제안]]></title>
+        <id>https://v.daum.net/v/20220209112936622</id>
+        <link href="https://v.daum.net/v/20220209112936622"/>
+        <updated>2022-02-09T09:20:42.856Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["일상에서 한복 입으세요"..문체부, 한복 근무복·교복 전시회]]></title>
         <id>https://v.daum.net/v/20220209112100123</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220209070024502"/>
         <updated>2022-02-09T02:38:02.283Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["MZ세대 모셔라"..젊어진 대형 화랑들]]></title>
-        <id>https://v.daum.net/v/20220209170900487</id>
-        <link href="https://v.daum.net/v/20220209170900487"/>
-        <updated>2022-02-09T08:25:24.463Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
