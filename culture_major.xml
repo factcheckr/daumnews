@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-02-10T13:24:15.259Z</updated>
+    <updated>2022-02-10T14:20:57.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['제1회 권혁주 음악 콩쿠르' 대상에 김혜진·김서현·샤르망 콰르텟]]></title>
+        <id>https://v.daum.net/v/20220210182628128</id>
+        <link href="https://v.daum.net/v/20220210182628128"/>
+        <updated>2022-02-10T14:19:50.238Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대선 한달 전 與지지층 몰렸나..'윤석열 X파일' 베스트셀러 1위]]></title>
         <id>https://v.daum.net/v/20220210181103724</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220210130440730"/>
         <updated>2022-02-10T08:24:43.607Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['촬영 말 학대 사망' KBS, 동물 안전 제작가이드라인 마련했다]]></title>
-        <id>https://v.daum.net/v/20220210124612269</id>
-        <link href="https://v.daum.net/v/20220210124612269"/>
-        <updated>2022-02-10T08:24:43.611Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
