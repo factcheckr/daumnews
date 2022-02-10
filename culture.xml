@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-02-10T04:27:32.485Z</updated>
+    <updated>2022-02-10T05:20:37.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220210131820119"/>
         <updated>2022-02-10T04:26:22.349Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[D:이슈] '사이버 렉카' 만행 갈수록 도 넘는데..아직 미비한 대책 마련]]></title>
+        <id>https://v.daum.net/v/20220210130440730</id>
+        <link href="https://v.daum.net/v/20220210130440730"/>
+        <updated>2022-02-10T05:19:30.528Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[네안데르탈인 유물 사이서 나온 현생인류 치아와 찌르개]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220210102649126"/>
         <updated>2022-02-10T02:33:07.688Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동학농민군 옥중 한글 편지, 문화재 됐다]]></title>
-        <id>https://v.daum.net/v/20220210091654231</id>
-        <link href="https://v.daum.net/v/20220210091654231"/>
-        <updated>2022-02-10T01:10:45.187Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
