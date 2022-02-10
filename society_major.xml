@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2022-02-10T16:31:48.305Z</updated>
+    <updated>2022-02-10T17:22:33.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220211000430090"/>
         <updated>2022-02-10T15:20:16.436Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[법원 "청와대, 김정숙 여사 옷·구두 값 공개하라"]]></title>
+        <id>https://v.daum.net/v/20220211000244944</id>
+        <link href="https://v.daum.net/v/20220211000244944"/>
+        <updated>2022-02-10T17:20:00.701Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['셀프 재택치료' 시작.."방치 아니냐" 목소리도]]></title>
@@ -62,17 +69,10 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밤 9시까지 4만 9721명 확진..내일도 5만 명 넘을 듯]]></title>
-        <id>https://v.daum.net/v/20220210223305797</id>
-        <link href="https://v.daum.net/v/20220210223305797"/>
-        <updated>2022-02-10T15:20:16.442Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故 김용균 사고 원청 대표 무죄.."사람 죽었는데 실형 한 명 없어"]]></title>
-        <id>https://v.daum.net/v/20220210222809734</id>
-        <link href="https://v.daum.net/v/20220210222809734"/>
-        <updated>2022-02-10T16:29:02.614Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
+        <title type="html"><![CDATA["쥴리 봤다" 30년 전 익명제보자, 김어준 방송 출연..'제2의 생태탕' 끓이나]]></title>
+        <id>https://v.daum.net/v/20220211001134537</id>
+        <link href="https://v.daum.net/v/20220211001134537"/>
+        <updated>2022-02-10T17:20:00.714Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
