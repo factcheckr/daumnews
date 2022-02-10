@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-02-10T17:22:33.845Z</updated>
+    <updated>2022-02-10T18:26:18.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[숨은 번호표]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/Eyvsfi5jkT</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/Eyvsfi5jkT"/>
+        <updated>2022-02-10T18:25:44.686Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[래리 호건 주지사, 수교훈장 광화장]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1476/EaplnWickh</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1476/EaplnWickh"/>
+        <updated>2022-02-10T18:25:44.686Z</updated>
+        <content type="html"><![CDATA[미국은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서대문구 홍제동 주택 화재]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1518/Eev8MBvz11</id>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1629566/E1TFJXXY33"/>
         <updated>2022-02-10T05:20:10.157Z</updated>
         <content type="html"><![CDATA[만리재사진첩]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인사말하는 문재인 대통령]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/318190/El0J3twAZN</id>
-        <link href="https://gallery.v.daum.net/p/viewer/318190/El0J3twAZN"/>
-        <updated>2022-02-10T05:20:10.160Z</updated>
-        <content type="html"><![CDATA[제19대 문재인 대통령]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신규 확진자 수 '5만4122명']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/674200/EEqfs7yCij</id>
-        <link href="https://gallery.v.daum.net/p/viewer/674200/EEqfs7yCij"/>
-        <updated>2022-02-10T05:20:10.160Z</updated>
-        <content type="html"><![CDATA[서울포토]]></content>
     </entry>
 </feed>
