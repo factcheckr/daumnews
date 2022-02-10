@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-10T05:20:37.215Z</updated>
+    <updated>2022-02-10T06:25:33.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인공지능, 레이싱 게임서도 인간 벽 넘었다]]></title>
+        <id>https://v.daum.net/v/20220210133607769</id>
+        <link href="https://v.daum.net/v/20220210133607769"/>
+        <updated>2022-02-10T06:24:56.599Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전기차 등 핵심부품 차세대 전력반도체 양산 원천기술 개발]]></title>
+        <id>https://v.daum.net/v/20220210110707156</id>
+        <link href="https://v.daum.net/v/20220210110707156"/>
+        <updated>2022-02-10T06:24:56.599Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['책임경영' 의지 드러낸 남궁훈 "카카오 주가 15만원 회복이 목표"(상보)]]></title>
         <id>https://v.daum.net/v/20220210104030757</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220210084502221"/>
         <updated>2022-02-10T03:21:29.835Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화이자, 5세 미만 코로나19 백신 이르면 이달 배송 시작]]></title>
-        <id>https://v.daum.net/v/20220210084401203</id>
-        <link href="https://v.daum.net/v/20220210084401203"/>
-        <updated>2022-02-10T01:11:21.363Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["TV 없는데 베이징 올림픽 어디서 봐요?"..스포츠 중계 뛰어든 OTT]]></title>
-        <id>https://v.daum.net/v/20220210063012897</id>
-        <link href="https://v.daum.net/v/20220210063012897"/>
-        <updated>2022-02-10T02:33:42.866Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
