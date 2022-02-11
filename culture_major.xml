@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-02-11T20:22:51.595Z</updated>
+    <updated>2022-02-11T21:18:55.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220212040857848"/>
         <updated>2022-02-11T19:17:15.365Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[발레 '지젤''백조의 호수'부터 아트테크까지 '뽐나는' 예술 산책]]></title>
+        <id>https://v.daum.net/v/20220212002111055</id>
+        <link href="https://v.daum.net/v/20220212002111055"/>
+        <updated>2022-02-11T21:18:08.789Z</updated>
+        <content type="html"><![CDATA[중앙SUNDAY]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연산군 연회 즐긴 탕춘대, 왜란·호란 이후 군사 요충지로]]></title>
+        <id>https://v.daum.net/v/20220212000302860</id>
+        <link href="https://v.daum.net/v/20220212000302860"/>
+        <updated>2022-02-11T21:18:08.789Z</updated>
+        <content type="html"><![CDATA[중앙SUNDAY]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[레닌은 NZZ 읽으며 혁명 계획, 이 시대 나침반 매체는?]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220211195700312"/>
         <updated>2022-02-11T11:18:36.983Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테너와 베이스 사이, 바리톤의 매력은?]]></title>
-        <id>https://v.daum.net/v/20220211190032545</id>
-        <link href="https://v.daum.net/v/20220211190032545"/>
-        <updated>2022-02-11T10:22:22.527Z</updated>
-        <content type="html"><![CDATA[EBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 수도권 초미세먼지 주의보..일요일 제주·남부 비]]></title>
-        <id>https://v.daum.net/v/20220211185820511</id>
-        <link href="https://v.daum.net/v/20220211185820511"/>
-        <updated>2022-02-11T10:22:22.528Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
