@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-02-11T11:19:44.643Z</updated>
+    <updated>2022-02-11T12:33:00.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['디지털 특화' 1인 광고콘텐츠 제작자 키운다..양성교육]]></title>
-        <id>https://v.daum.net/v/20220211091151121</id>
-        <link href="https://v.daum.net/v/20220211091151121"/>
-        <updated>2022-02-11T09:21:23.183Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
+        <title type="html"><![CDATA['이곳' 앞에서 식사하면 살 빠진다]]></title>
+        <id>https://v.daum.net/v/20220211210013719</id>
+        <link href="https://v.daum.net/v/20220211210013719"/>
+        <updated>2022-02-11T12:31:57.064Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헬리코박터균 제거하면 혈당 감소 효과]]></title>
+        <id>https://v.daum.net/v/20220211204543420</id>
+        <link href="https://v.daum.net/v/20220211204543420"/>
+        <updated>2022-02-11T12:31:57.065Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['지우학' 열풍, 그 뒤엔 실감 나는 현지 더빙 있었다]]></title>
@@ -55,7 +62,7 @@
         <content type="html"><![CDATA[세계일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["UPF비전, 한반도 평화 길잡이 될 것" [한반도 평화서밋]]]></title>
+        <title type="html"><![CDATA["UPF 비전, 한반도 평화 길잡이 될 것" [한반도 평화서밋]]]></title>
         <id>https://v.daum.net/v/20220211175109315</id>
         <link href="https://v.daum.net/v/20220211175109315"/>
         <updated>2022-02-11T09:21:23.185Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220211170600189"/>
         <updated>2022-02-11T08:24:12.418Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금산갤러리, NFT아트 전시회..문준용·김창겸 등 11명 참여]]></title>
-        <id>https://v.daum.net/v/20220211170543183</id>
-        <link href="https://v.daum.net/v/20220211170543183"/>
-        <updated>2022-02-11T08:24:12.420Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
