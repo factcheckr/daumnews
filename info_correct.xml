@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/info/correct</id>
     <title>다음뉴스 ─ 언론사 고침기사</title>
-    <updated>2022-02-11T10:23:17.723Z</updated>
+    <updated>2022-02-11T11:19:44.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/info/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바로잡습니다]]></title>
+        <id>https://news.v.daum.net/v/20220211201203580</id>
+        <link href="https://news.v.daum.net/v/20220211201203580"/>
+        <updated>2022-02-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고침] 그래픽(코로나19 확진자 및 접촉자 관리 기준 조정안)]]></title>
         <id>https://news.v.daum.net/v/20220208162959036</id>
@@ -34,11 +41,11 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 1월 26일 자 A35면 '김준의 맛과 섬' 기사 중]]></title>
-        <id>https://news.v.daum.net/v/20220128034930464</id>
-        <link href="https://news.v.daum.net/v/20220128034930464"/>
+        <title type="html"><![CDATA[[고침] 그래픽(2022 카타르 월드컵 아시아 최종예선 한국팀 일정)]]></title>
+        <id>https://news.v.daum.net/v/20220127230541557</id>
+        <link href="https://news.v.daum.net/v/20220127230541557"/>
         <updated>2022-01-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 1월 22일 자 B9면 '코로나 패닉에 던져진 확률 퀴즈.. 백신 접종, 살아남는 데 정말 유리할까?' 기사 중 외]]></title>
@@ -62,11 +69,11 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 1월 15일 자 B1면 '투사에서 택시기사로.. 종철이가 감아준 목도리에 부끄럽지 않도록' 기사 중]]></title>
-        <id>https://news.v.daum.net/v/20220122031431079</id>
-        <link href="https://news.v.daum.net/v/20220122031431079"/>
-        <updated>2022-01-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
+        <title type="html"><![CDATA[[정정보도] '국내서도 항공정비사 자격시험 본다..극동대, 첫 지정' 관련]]></title>
+        <id>https://news.v.daum.net/v/20220119102812520</id>
+        <link href="https://news.v.daum.net/v/20220119102812520"/>
+        <updated>2022-01-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다]신풍제약 관련 정정보도]]></title>
@@ -90,11 +97,11 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 13일 자 B2면 '삼성 임원들이 내놓은 격려금 10%, 100억원.. 새 헌혈버스로 부르릉' 기사에서 외]]></title>
-        <id>https://news.v.daum.net/v/20220115030144019</id>
-        <link href="https://news.v.daum.net/v/20220115030144019"/>
-        <updated>2022-01-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
+        <title type="html"><![CDATA[[바로잡습니다] 1월 10일자 B6면 '음원퀸 아이유..' 기사]]></title>
+        <id>https://news.v.daum.net/v/20220111000614489</id>
+        <link href="https://news.v.daum.net/v/20220111000614489"/>
+        <updated>2022-01-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도]이재명 아들 불법 도박에..'나꼼수' 김용민 "이게 시빗거리?" 관련]]></title>
@@ -116,12 +123,5 @@
         <link href="https://news.v.daum.net/v/20211231041320528"/>
         <updated>2021-12-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2021 바로잡습니다] "박근혜 특사 안한다" 결과적으로 오보였습니다]]></title>
-        <id>https://news.v.daum.net/v/20211231000310528</id>
-        <link href="https://news.v.daum.net/v/20211231000310528"/>
-        <updated>2021-12-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>

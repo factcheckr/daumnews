@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-02-11T10:23:17.702Z</updated>
+    <updated>2022-02-11T11:19:44.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나19 우려에도..유럽, 마스크 벗는다]]></title>
+        <id>https://v.daum.net/v/20220211195759329</id>
+        <link href="https://v.daum.net/v/20220211195759329"/>
+        <updated>2022-02-11T11:18:02.266Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[호주, 코알라 멸종위기종 공식 지정.. "2050년이면 사라질 수도"]]></title>
         <id>https://v.daum.net/v/20220211190131563</id>
@@ -34,17 +41,10 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["탄소중립 핵심은 원자력"..최대 14기 원자로 신설하는 프랑스]]></title>
-        <id>https://v.daum.net/v/20220211152604403</id>
-        <link href="https://v.daum.net/v/20220211152604403"/>
-        <updated>2022-02-11T10:21:57.665Z</updated>
+        <title type="html"><![CDATA['탈원전' 공약마저 뒤집었다..대선 앞둔 마크롱 '초강수']]></title>
+        <id>https://v.daum.net/v/20220211174305121</id>
+        <link href="https://v.daum.net/v/20220211174305121"/>
+        <updated>2022-02-11T11:18:02.272Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['호주 상징' 코알라 멸종위기종 지정.."이대로면 2050년 사라져"]]></title>
-        <id>https://v.daum.net/v/20220211160358538</id>
-        <link href="https://v.daum.net/v/20220211160358538"/>
-        <updated>2022-02-11T10:21:57.666Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
