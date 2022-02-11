@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-02-11T21:18:55.985Z</updated>
+    <updated>2022-02-11T22:20:25.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20220211181135759"/>
         <updated>2022-02-11T19:17:03.473Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["내 맨주먹으로 여까지 왔재" 99세 할머니의 무용담]]></title>
+        <id>https://v.daum.net/v/20220212062151818</id>
+        <link href="https://v.daum.net/v/20220212062151818"/>
+        <updated>2022-02-11T22:19:11.255Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[모던 경성]100년 전의 나폴레옹·괴테 기념 열풍]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220212043016889"/>
         <updated>2022-02-11T20:21:46.679Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전설의 필카 100년 감성 그대로, 디지털 편의성을 품다]]></title>
-        <id>https://v.daum.net/v/20220212002233084</id>
-        <link href="https://v.daum.net/v/20220212002233084"/>
-        <updated>2022-02-11T16:27:11.228Z</updated>
-        <content type="html"><![CDATA[중앙SUNDAY]]></content>
     </entry>
 </feed>
