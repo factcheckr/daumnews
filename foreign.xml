@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-02-11T22:20:25.362Z</updated>
+    <updated>2022-02-11T23:21:59.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -10,6 +10,27 @@
         <id>https://v.daum.net/v/20220212055803564</id>
         <link href="https://v.daum.net/v/20220212055803564"/>
         <updated>2022-02-11T21:17:44.696Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정의용 "한반도 현상 유지는 선택 아냐..北에 대화 강력히 촉구"]]></title>
+        <id>https://v.daum.net/v/20220212080016455</id>
+        <link href="https://v.daum.net/v/20220212080016455"/>
+        <updated>2022-02-11T23:20:23.523Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴욕마감]S&P 2% 급락..백악관 안보, 우크라 전쟁 임박]]></title>
+        <id>https://v.daum.net/v/20220212070115101</id>
+        <link href="https://v.daum.net/v/20220212070115101"/>
+        <updated>2022-02-11T23:20:23.526Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라이나 위기 고조, 암호화폐 일제 급락(종합)]]></title>
+        <id>https://v.daum.net/v/20220212070238114</id>
+        <link href="https://v.daum.net/v/20220212070238114"/>
+        <updated>2022-02-11T23:20:23.526Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
@@ -25,26 +46,5 @@
         <link href="https://v.daum.net/v/20220212063828939"/>
         <updated>2022-02-11T22:18:50.593Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 "러, 올림픽 중 우크라 침공가능..미국인 48시간 내 떠나라"]]></title>
-        <id>https://v.daum.net/v/20220212054138401</id>
-        <link href="https://v.daum.net/v/20220212054138401"/>
-        <updated>2022-02-11T21:17:44.693Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부, 우크라 전역 '여행금지'.. "체류 국민 긴급 철수해야"]]></title>
-        <id>https://v.daum.net/v/20220212060147691</id>
-        <link href="https://v.daum.net/v/20220212060147691"/>
-        <updated>2022-02-11T21:17:44.695Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 FDA, 5세 미만 영유아용 코로나 백신 심사 연기하기로]]></title>
-        <id>https://v.daum.net/v/20220212054830465</id>
-        <link href="https://v.daum.net/v/20220212054830465"/>
-        <updated>2022-02-11T22:18:50.596Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
