@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-02-11T14:20:26.871Z</updated>
+    <updated>2022-02-11T15:22:37.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본·네덜란드도 자국민에 우크라이나 철수 권고]]></title>
+        <id>https://v.daum.net/v/20220211232342378</id>
+        <link href="https://v.daum.net/v/20220211232342378"/>
+        <updated>2022-02-11T15:20:57.069Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나토 총장 "동유럽 병력 보강은 물론 흑해 지역 장기주둔 고려"]]></title>
+        <id>https://v.daum.net/v/20220211235001616</id>
+        <link href="https://v.daum.net/v/20220211235001616"/>
+        <updated>2022-02-11T15:20:57.069Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미일 외무장관 회담 "北 핵·미사일 개발 우려"]]></title>
+        <id>https://v.daum.net/v/20220211233612508</id>
+        <link href="https://v.daum.net/v/20220211233612508"/>
+        <updated>2022-02-11T15:20:57.072Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마크롱 "佛, 탄소중립 위해 2050년까지 최대 14기 원자로 건설"]]></title>
         <id>https://v.daum.net/v/20220211231337250</id>
         <link href="https://v.daum.net/v/20220211231337250"/>
         <updated>2022-02-11T14:19:10.432Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美국무 "러시아, 베이징올림픽 중에도 우크라 침공 가능"]]></title>
-        <id>https://v.daum.net/v/20220211195115233</id>
-        <link href="https://v.daum.net/v/20220211195115233"/>
-        <updated>2022-02-11T14:19:10.432Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[러, 기준금리 연 9.5%로 1%포인트 인상.."인플레 압박 커"]]></title>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220211215601747"/>
         <updated>2022-02-11T13:22:09.449Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿼드 외교 "북한 미사일 발사 규탄..규칙기반 질서 수호"(종합)]]></title>
-        <id>https://v.daum.net/v/20220211210647842</id>
-        <link href="https://v.daum.net/v/20220211210647842"/>
-        <updated>2022-02-11T13:22:09.450Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IEA, 올해 석유수요 상향.."생산 못따라 유가상승 압력↑"]]></title>
-        <id>https://v.daum.net/v/20220211211640045</id>
-        <link href="https://v.daum.net/v/20220211211640045"/>
-        <updated>2022-02-11T13:22:09.451Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
