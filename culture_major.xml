@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-02-11T18:25:43.368Z</updated>
+    <updated>2022-02-11T19:18:20.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정부 새 지침으로 유기동물 대량 안락사 위기]]></title>
+        <id>https://v.daum.net/v/20220212040857848</id>
+        <link href="https://v.daum.net/v/20220212040857848"/>
+        <updated>2022-02-11T19:17:15.365Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레닌은 NZZ 읽으며 혁명 계획, 이 시대 나침반 매체는?]]></title>
         <id>https://v.daum.net/v/20220212000247855</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220211185820511"/>
         <updated>2022-02-11T10:22:22.528Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["UPF 비전, 한반도 평화 길잡이 될 것" [한반도 평화서밋]]]></title>
-        <id>https://v.daum.net/v/20220211175109315</id>
-        <link href="https://v.daum.net/v/20220211175109315"/>
-        <updated>2022-02-11T09:21:23.185Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
