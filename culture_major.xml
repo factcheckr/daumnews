@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-02-13T07:20:42.493Z</updated>
+    <updated>2022-02-13T08:24:43.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나19 부작용이 노시보(nocebo) 효과?]]></title>
+        <id>https://v.daum.net/v/20220213171703917</id>
+        <link href="https://v.daum.net/v/20220213171703917"/>
+        <updated>2022-02-13T08:23:52.470Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 '신문기자', 모치즈키의 질문이 쏘아 올린 언론 자유]]></title>
         <id>https://v.daum.net/v/20220213155022366</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220213105958001"/>
         <updated>2022-02-13T03:21:11.037Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보글보글' 찌개 거품, 그냥 먹어도 될까?]]></title>
-        <id>https://v.daum.net/v/20220213100013935</id>
-        <link href="https://v.daum.net/v/20220213100013935"/>
-        <updated>2022-02-13T03:21:11.038Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
