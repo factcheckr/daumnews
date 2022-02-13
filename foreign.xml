@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-02-13T16:30:28.097Z</updated>
+    <updated>2022-02-13T17:20:18.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[항공사들 키예프행 운항 기피..우크라 정부 "영공 폐쇄 아니다"]]></title>
+        <id>https://v.daum.net/v/20220213221701652</id>
+        <link href="https://v.daum.net/v/20220213221701652"/>
+        <updated>2022-02-13T17:18:38.049Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바이든, 푸틴과 전화담판 하루만에 우크라 대통령과 통화]]></title>
+        <id>https://v.daum.net/v/20220214012248654</id>
+        <link href="https://v.daum.net/v/20220214012248654"/>
+        <updated>2022-02-13T17:18:38.052Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[발트3국, 나토에 병력 증원 요청.."러시아군, 벨라루스 영구주둔 우려"]]></title>
         <id>https://v.daum.net/v/20220214012157651</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220213225724179"/>
         <updated>2022-02-13T15:21:18.271Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이든·푸틴 전화담판 실패..미국, 자국민 48시간 내 대피령]]></title>
-        <id>https://v.daum.net/v/20220214000255942</id>
-        <link href="https://v.daum.net/v/20220214000255942"/>
-        <updated>2022-02-13T16:28:47.053Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발트3국 벨라루스에 러 영구주둔 우려.."나토군 늘려 달라"]]></title>
-        <id>https://v.daum.net/v/20220213234532675</id>
-        <link href="https://v.daum.net/v/20220213234532675"/>
-        <updated>2022-02-13T15:21:18.274Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
