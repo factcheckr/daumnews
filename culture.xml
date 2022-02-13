@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-02-13T19:17:25.727Z</updated>
+    <updated>2022-02-13T20:23:12.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["하루에 1시간만 더 자도, 살 빠진다"]]></title>
+        <id>https://v.daum.net/v/20220214050016637</id>
+        <link href="https://v.daum.net/v/20220214050016637"/>
+        <updated>2022-02-13T20:21:56.531Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손가락 고름.. 위대한 어머니.. 역경 이겨낸 건반]]></title>
         <id>https://v.daum.net/v/20220214030140905</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220213181846219"/>
         <updated>2022-02-13T10:21:48.454Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["한반도 통일돼야 세계 평화 온다" [한반도 평화서밋]]]></title>
-        <id>https://v.daum.net/v/20220213175215536</id>
-        <link href="https://v.daum.net/v/20220213175215536"/>
-        <updated>2022-02-13T09:20:33.342Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
