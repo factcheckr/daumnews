@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-02-13T15:22:56.203Z</updated>
+    <updated>2022-02-13T16:30:28.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,27 @@
         <link href="https://v.daum.net/v/20220214000303947"/>
         <updated>2022-02-13T15:21:29.337Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이탈리아, 우크라 내 자국민 철수 권고..대사관 비필수 인력 철수]]></title>
+        <id>https://v.daum.net/v/20220213234036634</id>
+        <link href="https://v.daum.net/v/20220213234036634"/>
+        <updated>2022-02-13T16:28:58.052Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐나다 경찰, 美국경 다리 막은 시위대 체포하고 트럭 견인]]></title>
+        <id>https://v.daum.net/v/20220213233542559</id>
+        <link href="https://v.daum.net/v/20220213233542559"/>
+        <updated>2022-02-13T16:28:58.053Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[獨 대통령에 슈타인마이어 재선.. "동유럽 전쟁 위험 한 가운데 있다"]]></title>
+        <id>https://v.daum.net/v/20220213233010488</id>
+        <link href="https://v.daum.net/v/20220213233010488"/>
+        <updated>2022-02-13T16:28:58.054Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우크라이나 위기에 항공사들 키예프행 운항 기피]]></title>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20220213213123775"/>
         <updated>2022-02-13T14:18:09.864Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이든 정부 "동맹·우방 공조해 중국 억제"]]></title>
-        <id>https://v.daum.net/v/20220213212841678</id>
-        <link href="https://v.daum.net/v/20220213212841678"/>
-        <updated>2022-02-13T12:30:56.683Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日매체, 한미일 외교장관 '안보협력' 한목소리에 주목]]></title>
-        <id>https://v.daum.net/v/20220213211956495</id>
-        <link href="https://v.daum.net/v/20220213211956495"/>
-        <updated>2022-02-13T14:18:09.865Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발트3국 '러시아군 벨라루스 영구주둔' 우려..나토군 증강 요구]]></title>
-        <id>https://v.daum.net/v/20220213204723776</id>
-        <link href="https://v.daum.net/v/20220213204723776"/>
-        <updated>2022-02-13T14:18:09.868Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
