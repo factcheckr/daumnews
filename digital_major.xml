@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-13T22:22:32.086Z</updated>
+    <updated>2022-02-13T23:22:12.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220214030428068"/>
         <updated>2022-02-13T18:23:55.690Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['막상막하'된 네이버 vs 카카오..커머스·콘텐츠에서 승부 갈린다]]></title>
+        <id>https://v.daum.net/v/20220214060502453</id>
+        <link href="https://v.daum.net/v/20220214060502453"/>
+        <updated>2022-02-13T23:21:30.041Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['행사만 하고 사실상 방치'..관리 안 되는 공공기관 메타버스]]></title>
@@ -48,7 +55,7 @@
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러시아 '우크라 침공' 우려에.. 반도체株 폭락]]></title>
+        <title type="html"><![CDATA[러시아 '우크라 침공' 우려에 왜 반도체株가 폭락했을까]]></title>
         <id>https://v.daum.net/v/20220214030438082</id>
         <link href="https://v.daum.net/v/20220214030438082"/>
         <updated>2022-02-13T18:23:55.690Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220214030353018"/>
         <updated>2022-02-13T22:21:50.003Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일론 머스크의 '스타링크'..고요한 하늘을 할퀴지 말라]]></title>
-        <id>https://v.daum.net/v/20220213213856997</id>
-        <link href="https://v.daum.net/v/20220213213856997"/>
-        <updated>2022-02-13T22:21:50.004Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
