@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-13T08:24:43.927Z</updated>
+    <updated>2022-02-13T09:21:30.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20220213143057557"/>
         <updated>2022-02-13T06:24:30.379Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[갤럭시S22울트라로 '밤을 담다'[갤럭시S22 리뷰]]]></title>
+        <id>https://v.daum.net/v/20220213121023472</id>
+        <link href="https://v.daum.net/v/20220213121023472"/>
+        <updated>2022-02-13T09:20:49.647Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사람 피부처럼 약한 자극엔 적응하고 위험한 자극만 반응하는 전자소자 개발]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220213090505148"/>
         <updated>2022-02-13T04:26:12.669Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["지금 우리 게임은"..빅3는 '주춤', 신흥강자는 '삐끗']]></title>
-        <id>https://v.daum.net/v/20220213060112672</id>
-        <link href="https://v.daum.net/v/20220213060112672"/>
-        <updated>2022-02-13T04:26:12.670Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
