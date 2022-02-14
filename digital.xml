@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-14T04:27:49.953Z</updated>
+    <updated>2022-02-14T05:21:16.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[달 충돌 로켓은 미국 '팰컨9' 아닌 중국 '창정']]></title>
-        <id>https://v.daum.net/v/20220214130606626</id>
-        <link href="https://v.daum.net/v/20220214130606626"/>
-        <updated>2022-02-14T04:26:55.292Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[수학모델로 분석해보니..오미크론 전파율 높으면 위중증화 낮춘다]]></title>
         <id>https://v.daum.net/v/20220214130004446</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20220214110219975"/>
         <updated>2022-02-14T02:31:02.845Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지난달 ICT 수출 196억5천만달러..역대 1월 중 최고]]></title>
+        <id>https://v.daum.net/v/20220214110043891</id>
+        <link href="https://v.daum.net/v/20220214110043891"/>
+        <updated>2022-02-14T05:20:23.431Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
