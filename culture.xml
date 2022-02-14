@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-02-14T17:21:08.311Z</updated>
+    <updated>2022-02-14T18:25:33.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["한국사진史 핵심은 전통 초상화의 정신"]]></title>
+        <id>https://v.daum.net/v/20220215030319368</id>
+        <link href="https://v.daum.net/v/20220215030319368"/>
+        <updated>2022-02-14T18:24:19.964Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조선왕조의궤, 100년 만에 귀향 '청신호'..국회, 오대산 이관 결의]]></title>
         <id>https://v.daum.net/v/20220214215520958</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220214161447989"/>
         <updated>2022-02-14T07:20:12.255Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종편 시사대담 출연자, 보수·남성·언론인 편중 심각]]></title>
-        <id>https://v.daum.net/v/20220214145406744</id>
-        <link href="https://v.daum.net/v/20220214145406744"/>
-        <updated>2022-02-14T08:25:24.544Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-02-14T17:21:08.296Z</updated>
+    <updated>2022-02-14T18:25:33.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오거나 말거나]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/Epmth7YZal</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/Epmth7YZal"/>
+        <updated>2022-02-14T18:24:59.249Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명, 선거운동 첫 일정으로 부산 해상교통관제센터 방문 [TF사진관]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5024184/EcniqmarBu</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5014013/EdNL7sizYG"/>
         <updated>2022-02-14T06:25:47.386Z</updated>
         <content type="html"><![CDATA['코로나19' 바이러스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발언하는 문재인 대통령]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/318190/EITOtV1TD6</id>
-        <link href="https://gallery.v.daum.net/p/viewer/318190/EITOtV1TD6"/>
-        <updated>2022-02-14T06:25:47.397Z</updated>
-        <content type="html"><![CDATA[제19대 문재인 대통령]]></content>
     </entry>
 </feed>
