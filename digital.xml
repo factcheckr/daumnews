@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-14T08:26:42.068Z</updated>
+    <updated>2022-02-14T09:21:52.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220214171502805"/>
         <updated>2022-02-14T08:25:46.877Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] CJ올리브네트웍스 "연봉 1000만원 올린다"]]></title>
+        <id>https://v.daum.net/v/20220214172702274</id>
+        <link href="https://v.daum.net/v/20220214172702274"/>
+        <updated>2022-02-14T09:20:58.753Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['팔로워 106만' 조국 트위터 삭제됐다 3시간만에 복구(종합)]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220214160400454"/>
         <updated>2022-02-14T07:20:32.275Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마스크 대란 잊었나..식약처 또 늑장대응에 검사키트 대란]]></title>
-        <id>https://v.daum.net/v/20220214154701672</id>
-        <link href="https://v.daum.net/v/20220214154701672"/>
-        <updated>2022-02-14T08:25:46.885Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
