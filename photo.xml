@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-02-14T16:29:56.055Z</updated>
+    <updated>2022-02-14T17:21:08.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1518/E68UZsj1df"/>
         <updated>2022-02-14T12:33:07.683Z</updated>
         <content type="html"><![CDATA[전국 화재사고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북정마을과 심우장]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/EdadoQiB9v</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/EdadoQiB9v"/>
+        <updated>2022-02-14T17:20:35.527Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[귀국하는 정의용 외교장관]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/318190/EITOtV1TD6"/>
         <updated>2022-02-14T06:25:47.397Z</updated>
         <content type="html"><![CDATA[제19대 문재인 대통령]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대선후보와 셀피]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1127178/E0VgxUHN3U</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1127178/E0VgxUHN3U"/>
-        <updated>2022-02-14T05:20:42.337Z</updated>
-        <content type="html"><![CDATA[기자의 일상]]></content>
     </entry>
 </feed>
