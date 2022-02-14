@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-14T09:21:52.335Z</updated>
+    <updated>2022-02-14T10:24:36.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['땅 위의 태양'..개발 주역이 '한국인']]></title>
+        <id>https://v.daum.net/v/20220214144208263</id>
+        <link href="https://v.daum.net/v/20220214144208263"/>
+        <updated>2022-02-14T10:23:50.761Z</updated>
+        <content type="html"><![CDATA[EBS]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["해외에서도 통했다"..'로스트아크' 스팀 동시 접속자 수 1위 기록]]></title>
         <id>https://v.daum.net/v/20220214135952332</id>
         <link href="https://v.daum.net/v/20220214135952332"/>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220214130004446"/>
         <updated>2022-02-14T07:20:41.384Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['갤럭시S22' 지원금 최대 24만원..전작 절반으로 뚝]]></title>
-        <id>https://v.daum.net/v/20220214121731419</id>
-        <link href="https://v.daum.net/v/20220214121731419"/>
-        <updated>2022-02-14T06:25:39.894Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
