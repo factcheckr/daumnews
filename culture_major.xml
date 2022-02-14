@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-02-14T18:25:33.435Z</updated>
+    <updated>2022-02-14T19:19:29.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새벽부터 그림 사려 긴 줄 세운..독보적 '치아교정기 미소']]></title>
+        <id>https://v.daum.net/v/20220215033016492</id>
+        <link href="https://v.daum.net/v/20220215033016492"/>
+        <updated>2022-02-14T19:18:39.313Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고통의 여왕' 프리다가 당신을 위로할 겁니다]]></title>
         <id>https://v.daum.net/v/20220215030554439</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220214190614878"/>
         <updated>2022-02-14T15:21:32.562Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불쌈꾼' 백기완은 살아있다]]></title>
-        <id>https://v.daum.net/v/20220214180516646</id>
-        <link href="https://v.daum.net/v/20220214180516646"/>
-        <updated>2022-02-14T17:20:07.079Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
