@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-15T03:23:48.421Z</updated>
+    <updated>2022-02-15T04:28:21.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사전 판매 첫날 '완판' 갤럭시S22..예약자 절반 이상 '울트라' 선택]]></title>
+        <id>https://v.daum.net/v/20220215130437748</id>
+        <link href="https://v.daum.net/v/20220215130437748"/>
+        <updated>2022-02-15T04:27:28.314Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안전·국방·행정·제조 등 인공지능 융합 사업..올해 716억 투입]]></title>
         <id>https://v.daum.net/v/20220215120006777</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220215100215798"/>
         <updated>2022-02-15T01:18:29.213Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["작년 폴더블폰 출하량 890만대, 전년 대비 148% 증가"]]></title>
-        <id>https://v.daum.net/v/20220215100137770</id>
-        <link href="https://v.daum.net/v/20220215100137770"/>
-        <updated>2022-02-15T01:18:29.214Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
