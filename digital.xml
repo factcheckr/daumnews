@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-15T04:28:21.544Z</updated>
+    <updated>2022-02-15T05:21:08.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명 "구룡마을 개발, 코인 발행해 이익 환원"]]></title>
+        <id>https://v.daum.net/v/20220215133836916</id>
+        <link href="https://v.daum.net/v/20220215133836916"/>
+        <updated>2022-02-15T05:20:18.146Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사전 판매 첫날 '완판' 갤럭시S22..예약자 절반 이상 '울트라' 선택]]></title>
         <id>https://v.daum.net/v/20220215130437748</id>
         <link href="https://v.daum.net/v/20220215130437748"/>
         <updated>2022-02-15T04:27:28.314Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남궁훈 "카카오 연봉총액 올해 15%·내년 6% 증액 의사"]]></title>
+        <id>https://v.daum.net/v/20220215120145955</id>
+        <link href="https://v.daum.net/v/20220215120145955"/>
+        <updated>2022-02-15T05:20:18.149Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안전·국방·행정·제조 등 인공지능 융합 사업..올해 716억 투입]]></title>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220215094102796"/>
         <updated>2022-02-15T01:18:29.213Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조선 무기 관청 '군기시', 9월 디지털로 되살아난다]]></title>
-        <id>https://v.daum.net/v/20220215111509567</id>
-        <link href="https://v.daum.net/v/20220215111509567"/>
-        <updated>2022-02-15T02:37:48.496Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명·윤석열 가짜 트위터 계정에 속지 않으려면..]]></title>
-        <id>https://v.daum.net/v/20220215100215798</id>
-        <link href="https://v.daum.net/v/20220215100215798"/>
-        <updated>2022-02-15T01:18:29.213Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
