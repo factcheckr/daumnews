@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-02-15T02:38:39.036Z</updated>
+    <updated>2022-02-15T03:23:48.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[작년 주식 불공정거래사건 10건 중 7건꼴은 미공개정보 이용]]></title>
+        <id>https://v.daum.net/v/20220215120048864</id>
+        <link href="https://v.daum.net/v/20220215120048864"/>
+        <updated>2022-02-15T03:21:39.693Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[상속주택 최대 3년 종부세 주택 제외..세법 시행령 공포]]></title>
         <id>https://v.daum.net/v/20220215090656520</id>
@@ -20,20 +27,6 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[상위 10% 소득 1429만 원 늘 때 하위 10%는 겨우 17만 원 증가]]></title>
-        <id>https://v.daum.net/v/20220215091844911</id>
-        <link href="https://v.daum.net/v/20220215091844911"/>
-        <updated>2022-02-15T02:36:40.383Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["지역 경제 침체 단계별 대응"..정부, 지역산업위기 대응법 시행]]></title>
-        <id>https://v.daum.net/v/20220215110021623</id>
-        <link href="https://v.daum.net/v/20220215110021623"/>
-        <updated>2022-02-15T02:36:40.385Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["美보다 890만원 저렴"..볼보, 전기차 'C40·XC40 리차지' 2종 출시]]></title>
         <id>https://v.daum.net/v/20220215102102634</id>
         <link href="https://v.daum.net/v/20220215102102634"/>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20220215103032098"/>
         <updated>2022-02-15T02:36:40.387Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[골프장 환불 약관 '호텔'처럼 개정 추진..불공정 시정 일환]]></title>
+        <id>https://v.daum.net/v/20220215095035246</id>
+        <link href="https://v.daum.net/v/20220215095035246"/>
+        <updated>2022-02-15T03:21:39.698Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
