@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-02-15T16:27:07.077Z</updated>
+    <updated>2022-02-15T17:20:53.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러시아 "일부 병력 복귀 시작"..미 "긴장완화 징후 없어"]]></title>
+        <id>https://v.daum.net/v/20220216003337037</id>
+        <link href="https://v.daum.net/v/20220216003337037"/>
+        <updated>2022-02-15T17:19:28.645Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中, 호주 선거 개입?.. 관영매체 통해 野 띄우고 총리 혹평]]></title>
         <id>https://v.daum.net/v/20220216001225753</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220215222121593"/>
         <updated>2022-02-15T16:25:39.051Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나토 사무총장 "러시아 외교 의사 낙관적".. "아직 긴장완화 신호는 없어"]]></title>
-        <id>https://v.daum.net/v/20220215221335375</id>
-        <link href="https://v.daum.net/v/20220215221335375"/>
-        <updated>2022-02-15T15:18:45.147Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>

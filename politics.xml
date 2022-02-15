@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2022-02-15T16:27:07.058Z</updated>
+    <updated>2022-02-15T17:20:53.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 "부패·무능정권 심판" 앞세워 서울에서 부산으로]]></title>
+        <id>https://v.daum.net/v/20220216002057869</id>
+        <link href="https://v.daum.net/v/20220216002057869"/>
+        <updated>2022-02-15T17:18:33.102Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北, 오늘 김정일 생일 80주년..대외 메시지 내놓을까]]></title>
         <id>https://v.daum.net/v/20220216004615140</id>
@@ -27,11 +34,11 @@
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서울→부산 '경부 하행선' 탄 윤석열 "부패·무능 심판해야"]]></title>
-        <id>https://v.daum.net/v/20220215223605948</id>
-        <link href="https://v.daum.net/v/20220215223605948"/>
-        <updated>2022-02-15T16:24:43.678Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
+        <title type="html"><![CDATA["엽기 굿판" "오살 저주" 이·윤측 선거전 첫날부터 진흙탕 싸움]]></title>
+        <id>https://v.daum.net/v/20220216000307458</id>
+        <link href="https://v.daum.net/v/20220216000307458"/>
+        <updated>2022-02-15T15:18:03.627Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명 "경제대통령·국민통합" 내세워 부산에서 서울로]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220216002054868"/>
         <updated>2022-02-15T16:24:43.678Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["엽기 굿판" "오살 저주" 이·윤측 선거전 첫날부터 진흙탕 싸움]]></title>
-        <id>https://v.daum.net/v/20220216000307458</id>
-        <link href="https://v.daum.net/v/20220216000307458"/>
-        <updated>2022-02-15T15:18:03.627Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
