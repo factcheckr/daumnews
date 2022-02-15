@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-15T18:25:38.778Z</updated>
+    <updated>2022-02-15T19:18:28.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,20 +25,6 @@
         <link href="https://v.daum.net/v/20220215163954629"/>
         <updated>2022-02-15T14:20:03.645Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, 10년간 국내 앱마켓 매출 8.5조..96%가 인앱결제 수수료]]></title>
-        <id>https://v.daum.net/v/20220215161505435</id>
-        <link href="https://v.daum.net/v/20220215161505435"/>
-        <updated>2022-02-15T10:23:31.457Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 연구실안전관리사 국가시험 7월 실시]]></title>
-        <id>https://v.daum.net/v/20220215154023675</id>
-        <link href="https://v.daum.net/v/20220215154023675"/>
-        <updated>2022-02-15T18:24:57.908Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美AMD, 반도체기업 '자일링스' 60조원에 인수]]></title>
@@ -74,5 +60,19 @@
         <link href="https://v.daum.net/v/20220215153345329"/>
         <updated>2022-02-15T18:24:57.917Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['유령입자' 중성미자 최대 질량은 0.8전자볼트..범위 더 좁혔다]]></title>
+        <id>https://v.daum.net/v/20220215194002523</id>
+        <link href="https://v.daum.net/v/20220215194002523"/>
+        <updated>2022-02-15T19:17:47.346Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북 핵실험장 인근 함북 길주군서 나흘간 네 차례 지진..백두산 분화 영향 미칠까]]></title>
+        <id>https://v.daum.net/v/20220215192013100</id>
+        <link href="https://v.daum.net/v/20220215192013100"/>
+        <updated>2022-02-15T19:17:47.347Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
