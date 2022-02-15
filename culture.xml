@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-02-15T12:34:07.077Z</updated>
+    <updated>2022-02-15T13:23:26.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오후 9시까지 이미 8만명 넘었다..신규 확진 8만5114명 [종합]]]></title>
+        <id>https://v.daum.net/v/20220215220801276</id>
+        <link href="https://v.daum.net/v/20220215220801276"/>
+        <updated>2022-02-15T13:22:25.968Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명 "이념 초월 실용정치 구상"  윤석열 "무너지는 부산 지켜낼 것"]]></title>
         <id>https://v.daum.net/v/20220215193938516</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220215164942012"/>
         <updated>2022-02-15T09:21:08.745Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이강현 아시아문화전당장 취임.."열린 전당으로 거듭나겠다"]]></title>
-        <id>https://v.daum.net/v/20220215161729540</id>
-        <link href="https://v.daum.net/v/20220215161729540"/>
-        <updated>2022-02-15T09:21:08.748Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
