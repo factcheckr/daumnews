@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-02-16T04:28:09.866Z</updated>
+    <updated>2022-02-16T05:20:27.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 디즈니랜드 "17일부터 백신 접종자는 마스크 의무 해제"]]></title>
+        <id>https://v.daum.net/v/20220216134403756</id>
+        <link href="https://v.daum.net/v/20220216134403756"/>
+        <updated>2022-02-16T05:18:49.353Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["에어비앤비 예약 건수, 코로나 이전 수준으로 반등"]]></title>
+        <id>https://v.daum.net/v/20220216103052477</id>
+        <link href="https://v.daum.net/v/20220216103052477"/>
+        <updated>2022-02-16T05:18:49.355Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시진핑 "미국처럼 외국에 적용할 초국적 법률 마련하라" 주문]]></title>
         <id>https://v.daum.net/v/20220216130538393</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220216115114332"/>
         <updated>2022-02-16T03:22:08.001Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 해양대기국 "향후 30년 간 미 해안가 해수면 30cm 상승 전망"]]></title>
-        <id>https://v.daum.net/v/20220216114539082</id>
-        <link href="https://v.daum.net/v/20220216114539082"/>
-        <updated>2022-02-16T04:26:43.949Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라 "국방부·은행에 사이버 공격..러 소행 추정"(종합2보)]]></title>
-        <id>https://v.daum.net/v/20220216094556527</id>
-        <link href="https://v.daum.net/v/20220216094556527"/>
-        <updated>2022-02-16T04:26:43.949Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
