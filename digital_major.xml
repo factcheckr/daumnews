@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-16T20:22:54.651Z</updated>
+    <updated>2022-02-16T21:21:04.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[곧 지하철에서도 5G 와이파이 팡팡 터진다.. QR코드만 찍으면 누구나 이용]]></title>
-        <id>https://v.daum.net/v/20220216172113581</id>
-        <link href="https://v.daum.net/v/20220216172113581"/>
-        <updated>2022-02-16T20:22:13.648Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 카카오그룹 '격무 상징' 포괄임금제 완전 폐지]]></title>
         <id>https://v.daum.net/v/20220217050614361</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220216191230374"/>
         <updated>2022-02-16T20:22:13.655Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김우창의 4차 산업혁명 Insight <32>] 메타버스, 유희의 세상을 넘어 제조, 의료 등에도 적용될 순간]]></title>
+        <id>https://v.daum.net/v/20220216185414064</id>
+        <link href="https://v.daum.net/v/20220216185414064"/>
+        <updated>2022-02-16T21:20:24.634Z</updated>
+        <content type="html"><![CDATA[이코노미조선]]></content>
     </entry>
 </feed>
