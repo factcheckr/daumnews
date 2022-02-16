@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-16T10:25:27.697Z</updated>
+    <updated>2022-02-16T11:21:21.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["디지털 패권 시대..정부의 일하는 방식 근본적으로 바꿔야"]]></title>
+        <id>https://v.daum.net/v/20220216085352496</id>
+        <link href="https://v.daum.net/v/20220216085352496"/>
+        <updated>2022-02-16T11:20:40.914Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성전자 노조의 최후 통첩 "최고경영진과 직접 대화 원한다"]]></title>
         <id>https://v.daum.net/v/20220216163036602</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220216140030397"/>
         <updated>2022-02-16T08:24:45.486Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반려견 신원확인·스마트 젖병까지..AIoT 적용사례 보니]]></title>
-        <id>https://v.daum.net/v/20220216140003332</id>
-        <link href="https://v.daum.net/v/20220216140003332"/>
-        <updated>2022-02-16T08:24:45.486Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
