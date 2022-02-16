@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-16T13:25:08.654Z</updated>
+    <updated>2022-02-16T14:20:59.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[두산도 활짝..'NFT 거래소'가 달아오른다]]></title>
+        <id>https://v.daum.net/v/20220216222445001</id>
+        <link href="https://v.daum.net/v/20220216222445001"/>
+        <updated>2022-02-16T14:20:18.533Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반도체 공급망 머리맞댄 민관] 우크라발 공급망 위기에.. "재고 확보해 문제 없다"]]></title>
         <id>https://v.daum.net/v/20220216193214705</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220216173031956"/>
         <updated>2022-02-16T09:21:01.138Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성 스마트폰 협력사, 일부 생산라인 베트남서 구미로 복귀]]></title>
-        <id>https://v.daum.net/v/20220216170151839</id>
-        <link href="https://v.daum.net/v/20220216170151839"/>
-        <updated>2022-02-16T08:24:37.136Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
