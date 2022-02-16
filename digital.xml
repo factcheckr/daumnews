@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-16T03:23:37.662Z</updated>
+    <updated>2022-02-16T04:28:09.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[연말부터 서울 지하철 전동차 안에서 5G 와이파이 터진다]]></title>
+        <id>https://v.daum.net/v/20220216110007675</id>
+        <link href="https://v.daum.net/v/20220216110007675"/>
+        <updated>2022-02-16T04:27:24.081Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['거리두기 완화' 꺼내자마자 확진자 9만 명.."정점 확인하고 풀어야"]]></title>
         <id>https://v.daum.net/v/20220216104804185</id>
         <link href="https://v.daum.net/v/20220216104804185"/>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220216090646953"/>
         <updated>2022-02-16T01:14:52.146Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버진갤럭틱, 우주여행 티켓 판매 재개..주가 32% 급등 [우주로 간다]]]></title>
-        <id>https://v.daum.net/v/20220216084700349</id>
-        <link href="https://v.daum.net/v/20220216084700349"/>
-        <updated>2022-02-16T01:14:52.146Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
