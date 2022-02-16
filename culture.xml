@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-02-16T14:20:59.771Z</updated>
+    <updated>2022-02-16T15:24:12.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아버지 바흐에 가렸던 천재 아들들이 부활한다]]></title>
+        <id>https://v.daum.net/v/20220217000334906</id>
+        <link href="https://v.daum.net/v/20220217000334906"/>
+        <updated>2022-02-16T15:22:55.676Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['단색화 거장'의 멈추지 않는 진화.."가만히 멈춰있기 싫더라"]]></title>
         <id>https://v.daum.net/v/20220216133456381</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220216170600984"/>
         <updated>2022-02-16T08:24:18.737Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日시민단체 "사도광산 본질은 세계유산의 일본 국내정치 이용"]]></title>
-        <id>https://v.daum.net/v/20220216120054724</id>
-        <link href="https://v.daum.net/v/20220216120054724"/>
-        <updated>2022-02-16T08:24:18.739Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
