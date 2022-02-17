@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-02-17T19:18:48.189Z</updated>
+    <updated>2022-02-17T20:21:51.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공부/유안진]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1823/Eij1Rv9Byj</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1823/Eij1Rv9Byj"/>
+        <updated>2022-02-17T20:21:15.442Z</updated>
+        <content type="html"><![CDATA[그림과 시가 있는 아침]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하늘에서 쏟아진 음식]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/Etlq8Y4X0W</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/318190/EVq5ed9YQq"/>
         <updated>2022-02-17T04:28:01.306Z</updated>
         <content type="html"><![CDATA[제19대 문재인 대통령]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[협정서 서명하는 러시아 부총리-베네수엘라 석유장관]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/285071/EWkjOtjSay</id>
-        <link href="https://gallery.v.daum.net/p/viewer/285071/EWkjOtjSay"/>
-        <updated>2022-02-17T03:23:04.659Z</updated>
-        <content type="html"><![CDATA[베네수엘라는 지금]]></content>
     </entry>
 </feed>
