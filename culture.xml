@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-02-17T07:21:10.172Z</updated>
+    <updated>2022-02-17T08:26:03.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이달의 기자상에 동아일보 '공존:그들과 우리가 되려면' 등 6편]]></title>
+        <id>https://v.daum.net/v/20220217114851176</id>
+        <link href="https://v.daum.net/v/20220217114851176"/>
+        <updated>2022-02-17T08:24:47.137Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황희 "'문화예술 현장 체감할 때까지 지속적 제도 개선"]]></title>
         <id>https://v.daum.net/v/20220217110034891</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220217105306505"/>
         <updated>2022-02-17T02:29:58.452Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황희 문체부장관 "블랙리스트 재발 방지 위해 지속 노력하겠다"]]></title>
-        <id>https://v.daum.net/v/20220217110019869</id>
-        <link href="https://v.daum.net/v/20220217110019869"/>
-        <updated>2022-02-17T02:29:58.454Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
