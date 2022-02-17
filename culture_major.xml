@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-02-17T22:22:42.394Z</updated>
+    <updated>2022-02-17T23:22:03.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘은] 대구 지하철 방화로 192명 목숨을 잃다]]></title>
+        <id>https://v.daum.net/v/20220218060036330</id>
+        <link href="https://v.daum.net/v/20220218060036330"/>
+        <updated>2022-02-17T23:20:57.206Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[흐드러진 꽃무더기, 소소한 일상의 온기.. 바야흐로 봄!]]></title>
         <id>https://v.daum.net/v/20220218043155152</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220218004352653"/>
         <updated>2022-02-17T16:30:31.954Z</updated>
         <content type="html"><![CDATA[kbc광주방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금품 제공 혐의' 새마을금고 경북 이사 당선 무효]]></title>
-        <id>https://v.daum.net/v/20220218002604457</id>
-        <link href="https://v.daum.net/v/20220218002604457"/>
-        <updated>2022-02-17T16:30:31.958Z</updated>
-        <content type="html"><![CDATA[대구MBC]]></content>
     </entry>
 </feed>
