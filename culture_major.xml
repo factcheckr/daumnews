@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-02-17T16:31:36.893Z</updated>
+    <updated>2022-02-17T17:22:50.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,20 +18,6 @@
         <link href="https://v.daum.net/v/20220217145854914"/>
         <updated>2022-02-17T09:24:45.840Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이행협치단 "블랙리스트 재발방지 발표, 대선과 결부시키려 한다면 유감"]]></title>
-        <id>https://v.daum.net/v/20220217135942162</id>
-        <link href="https://v.daum.net/v/20220217135942162"/>
-        <updated>2022-02-17T09:24:45.841Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황희 "블랙리스트 결과 발표 당연..여야 진영논리 볼 것 아냐"]]></title>
-        <id>https://v.daum.net/v/20220217133059010</id>
-        <link href="https://v.daum.net/v/20220217133059010"/>
-        <updated>2022-02-17T15:22:56.169Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[향불·한지가 만들어 낸 소멸·생성의 미학]]></title>
@@ -74,5 +60,19 @@
         <link href="https://v.daum.net/v/20220218000047002"/>
         <updated>2022-02-17T15:22:56.172Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[40년 만에 밝혀진 산속 동굴 여인 시신의 사연]]></title>
+        <id>https://v.daum.net/v/20220218000044000</id>
+        <link href="https://v.daum.net/v/20220218000044000"/>
+        <updated>2022-02-17T17:21:41.002Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨]  전국 맑다가 구름 많아져..낮부터 기온 올라]]></title>
+        <id>https://v.daum.net/v/20220217235807933</id>
+        <link href="https://v.daum.net/v/20220217235807933"/>
+        <updated>2022-02-17T17:21:41.003Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
