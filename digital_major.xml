@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-17T15:24:03.594Z</updated>
+    <updated>2022-02-17T16:31:36.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[밥그릇 싸움 손놓고 있더니..5G주파수 할당 다시 원점]]></title>
-        <id>https://v.daum.net/v/20220217173615882</id>
-        <link href="https://v.daum.net/v/20220217173615882"/>
-        <updated>2022-02-17T14:20:30.858Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[5G 주파수 놓고 통신3사 '동상이몽'.."장관 결단 필요했다"]]></title>
         <id>https://v.daum.net/v/20220217173602852</id>
@@ -20,11 +13,11 @@
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5G 주파수 추가 할당 지연에 통신3사 반응 제각각]]></title>
-        <id>https://v.daum.net/v/20220217130535225</id>
-        <link href="https://v.daum.net/v/20220217130535225"/>
-        <updated>2022-02-17T11:18:08.344Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
+        <title type="html"><![CDATA[통신3사 '셈법' 제각각..5G 추가 주파수 할당 무기한 연기]]></title>
+        <id>https://v.daum.net/v/20220217172612513</id>
+        <link href="https://v.daum.net/v/20220217172612513"/>
+        <updated>2022-02-17T16:30:55.643Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['싸이월드' 둘러싼 잡음에..빗썸, '싸이클럽' 투자유의 종목 지정]]></title>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220217160643150"/>
         <updated>2022-02-17T09:25:03.374Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["2월 공고 쉽지 않아"..5G 주파수 경매 일정 '안갯속']]></title>
+        <id>https://v.daum.net/v/20220217134924703</id>
+        <link href="https://v.daum.net/v/20220217134924703"/>
+        <updated>2022-02-17T16:30:55.655Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
