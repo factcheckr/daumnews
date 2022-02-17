@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-17T12:34:05.482Z</updated>
+    <updated>2022-02-17T13:23:51.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[5G 주파수 놓고 통신3사 CEO '동상이몽'..학계 "장관 결단 필요했다"]]></title>
+        <id>https://v.daum.net/v/20220217173602852</id>
+        <link href="https://v.daum.net/v/20220217173602852"/>
+        <updated>2022-02-17T13:23:19.040Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5G 주파수 추가 할당 지연에 통신3사 반응 제각각]]></title>
         <id>https://v.daum.net/v/20220217130535225</id>
@@ -18,6 +25,13 @@
         <link href="https://v.daum.net/v/20220217171206991"/>
         <updated>2022-02-17T11:18:08.346Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아인슈타인 일반상대성 이론 시간지연 1mm 절반까지 입증]]></title>
+        <id>https://v.daum.net/v/20220217164940093</id>
+        <link href="https://v.daum.net/v/20220217164940093"/>
+        <updated>2022-02-17T13:23:19.047Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글, 애플처럼 앱 추적 제한..'맞춤형 광고' 시대 저문다]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220217132216777"/>
         <updated>2022-02-17T09:25:03.375Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장관 회동에도 평행선 달린 5G 주파수 분쟁..추가 경매 '안갯속']]></title>
-        <id>https://v.daum.net/v/20220217141601959</id>
-        <link href="https://v.daum.net/v/20220217141601959"/>
-        <updated>2022-02-17T08:25:20.111Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤종인 "국민들 여전히 개인정보 유출 불안..올해는 성과낼 것"]]></title>
-        <id>https://v.daum.net/v/20220217150006990</id>
-        <link href="https://v.daum.net/v/20220217150006990"/>
-        <updated>2022-02-17T08:25:20.111Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

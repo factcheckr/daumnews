@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-17T12:34:05.499Z</updated>
+    <updated>2022-02-17T13:23:51.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[점차 사라지는 원주민어..유일한 '야간어' 사용자 사망]]></title>
-        <id>https://v.daum.net/v/20220217194653270</id>
-        <link href="https://v.daum.net/v/20220217194653270"/>
-        <updated>2022-02-17T11:17:59.451Z</updated>
-        <content type="html"><![CDATA[EBS]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[방통위 대변인에 장봉진..2008년 출범 이래 첫 여성 고위공무원]]></title>
         <id>https://v.daum.net/v/20220217192111758</id>
         <link href="https://v.daum.net/v/20220217192111758"/>
         <updated>2022-02-17T11:17:59.452Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신규 확진 10만명 뚫렸다.. "韓 천천히 유행 통제 전략 발목 잡히나"]]></title>
+        <id>https://v.daum.net/v/20220217215817547</id>
+        <link href="https://v.daum.net/v/20220217215817547"/>
+        <updated>2022-02-17T13:23:09.736Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[점차 사라지는 원주민어..유일한 '야간어' 사용자 사망]]></title>
+        <id>https://v.daum.net/v/20220217194653270</id>
+        <link href="https://v.daum.net/v/20220217194653270"/>
+        <updated>2022-02-17T11:17:59.451Z</updated>
+        <content type="html"><![CDATA[EBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[부산 이틀째 6000명대 확진..위중증도 증가]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220217173615882"/>
         <updated>2022-02-17T09:24:53.796Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5G 주파수 놓고 통신3사 CEO '동상이몽'..학계 "장관 결단 필요했다"]]></title>
-        <id>https://v.daum.net/v/20220217173602852</id>
-        <link href="https://v.daum.net/v/20220217173602852"/>
-        <updated>2022-02-17T11:17:59.458Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
