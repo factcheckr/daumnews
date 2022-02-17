@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-02-17T11:18:40.773Z</updated>
+    <updated>2022-02-17T12:34:05.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[문화K] 완주 삼례문화예술촌에 핀 봄.."미리 만나는 봄"]]></title>
+        <id>https://v.daum.net/v/20220217204123165</id>
+        <link href="https://v.daum.net/v/20220217204123165"/>
+        <updated>2022-02-17T12:32:59.716Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[문화톡톡] 노인과 어린이를 위한 이색 뮤지컬]]></title>
         <id>https://v.daum.net/v/20220217195731450</id>
         <link href="https://v.daum.net/v/20220217195731450"/>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220217190611504"/>
         <updated>2022-02-17T11:17:51.579Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노을지는 '겨울 한라산']]></title>
-        <id>https://v.daum.net/v/20220217184309986</id>
-        <link href="https://v.daum.net/v/20220217184309986"/>
-        <updated>2022-02-17T11:17:51.582Z</updated>
-        <content type="html"><![CDATA[JIBS]]></content>
     </entry>
 </feed>
