@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-02-18T06:27:38.400Z</updated>
+    <updated>2022-02-18T07:22:24.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대선 후보들에게 '개 식용 금지' 생각을 물었다]]></title>
+        <id>https://v.daum.net/v/20220218133604636</id>
+        <link href="https://v.daum.net/v/20220218133604636"/>
+        <updated>2022-02-18T07:21:26.281Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여행honey] 시기별 사건·문화로 구분하는 MZ 세대]]></title>
         <id>https://v.daum.net/v/20220218130028848</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220218103349310"/>
         <updated>2022-02-18T03:22:29.068Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취재파일] 원화도 아니고 판화가 이 가격..실화?]]></title>
-        <id>https://v.daum.net/v/20220218102700063</id>
-        <link href="https://v.daum.net/v/20220218102700063"/>
-        <updated>2022-02-18T03:22:29.069Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
