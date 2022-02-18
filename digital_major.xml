@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-18T10:24:54.253Z</updated>
+    <updated>2022-02-18T11:19:20.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[IT강의실] NFT 입문 1부, 거센 NFT 열풍 "뛰어들기 전에 철저한 준비 필요"]]></title>
+        <id>https://v.daum.net/v/20220218164201907</id>
+        <link href="https://v.daum.net/v/20220218164201907"/>
+        <updated>2022-02-18T11:18:36.408Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세 살 로봇 '리쿠', 어르신 디지털 정보격차 줄인다]]></title>
         <id>https://v.daum.net/v/20220218161859255</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220218104012533"/>
         <updated>2022-02-18T07:21:45.793Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플과는 다르다?..'개인정보'와 '광고' 다 잡겠다는 구글]]></title>
-        <id>https://v.daum.net/v/20220218103909504</id>
-        <link href="https://v.daum.net/v/20220218103909504"/>
-        <updated>2022-02-18T07:21:45.794Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
