@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-18T09:21:40.604Z</updated>
+    <updated>2022-02-18T10:24:54.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세 살 로봇 '리쿠', 어르신 디지털 정보격차 줄인다]]></title>
+        <id>https://v.daum.net/v/20220218161859255</id>
+        <link href="https://v.daum.net/v/20220218161859255"/>
+        <updated>2022-02-18T10:24:18.745Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전세계 D램 저조했는데..SK하이닉스 나홀로 성장]]></title>
+        <id>https://v.daum.net/v/20220218155923585</id>
+        <link href="https://v.daum.net/v/20220218155923585"/>
+        <updated>2022-02-18T10:24:18.750Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["테슬라 추월"..포드의 전기차 야심 현실화되나]]></title>
         <id>https://v.daum.net/v/20220218154725206</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220218103909504"/>
         <updated>2022-02-18T07:21:45.794Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ZD리뷰] 밤에 강한 갤럭시S22 울트라, 노트 한계를 넘다]]></title>
-        <id>https://v.daum.net/v/20220218103820475</id>
-        <link href="https://v.daum.net/v/20220218103820475"/>
-        <updated>2022-02-18T07:21:45.796Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불붙은 주파수 전쟁..'동상이몽' 이통3사에 고심깊은 과기부]]></title>
-        <id>https://v.daum.net/v/20220218100434280</id>
-        <link href="https://v.daum.net/v/20220218100434280"/>
-        <updated>2022-02-18T02:36:45.956Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
