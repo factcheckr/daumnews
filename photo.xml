@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-02-18T18:26:10.633Z</updated>
+    <updated>2022-02-18T19:19:05.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소망하는 쉼터]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/E5TGZYcH6F</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/E5TGZYcH6F"/>
+        <updated>2022-02-18T19:18:24.578Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[즐거운 시장 구경]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/EyqT6eKcWd</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1629566/EbpHOxBgyi"/>
         <updated>2022-02-18T06:27:05.012Z</updated>
         <content type="html"><![CDATA[만리재사진첩]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멕시코 방문한 걸그룹 모모랜드 멤버들]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5032335/ElK1GTesc1</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5032335/ElK1GTesc1"/>
-        <updated>2022-02-18T06:27:05.020Z</updated>
-        <content type="html"><![CDATA[멕시코는 지금]]></content>
     </entry>
 </feed>
