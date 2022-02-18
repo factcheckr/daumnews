@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-02-18T15:23:23.278Z</updated>
+    <updated>2022-02-18T16:31:12.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정책 질의에 잇따른 '답변 거부'.. "유권자 물로 보나"]]></title>
+        <id>https://v.daum.net/v/20220218181715633</id>
+        <link href="https://v.daum.net/v/20220218181715633"/>
+        <updated>2022-02-18T16:30:06.088Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['주기자가 간다-안철수 편' 별도 업로드되는 까닭]]></title>
         <id>https://v.daum.net/v/20220218165011164</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220218161753215"/>
         <updated>2022-02-18T08:24:27.432Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부동산 풍자도 거침없이..웃음 가득 'B급 뮤지컬'의 귀환]]></title>
-        <id>https://v.daum.net/v/20220218160137683</id>
-        <link href="https://v.daum.net/v/20220218160137683"/>
-        <updated>2022-02-18T08:24:27.434Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
