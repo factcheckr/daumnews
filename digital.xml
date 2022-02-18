@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-18T02:37:21.817Z</updated>
+    <updated>2022-02-18T03:23:32.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20220218030147270"/>
         <updated>2022-02-18T02:36:35.841Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기초과학지원연·충북도 등 방사광가속기 미래인재 양성 협약]]></title>
+        <id>https://v.daum.net/v/20220218103848482</id>
+        <link href="https://v.daum.net/v/20220218103848482"/>
+        <updated>2022-02-18T03:22:39.625Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[삼성전자 경영진, 평균 연봉 63억원..최고 실적에 두 배 인상]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220218051905808"/>
         <updated>2022-02-17T21:20:50.434Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["코로나19 장기 후유증 연구에서 어린이-청소년 빠졌다"]]></title>
-        <id>https://v.daum.net/v/20220218030145269</id>
-        <link href="https://v.daum.net/v/20220218030145269"/>
-        <updated>2022-02-18T02:36:35.844Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
