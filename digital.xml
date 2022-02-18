@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-18T12:34:25.464Z</updated>
+    <updated>2022-02-18T13:24:55.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[IAEA 후쿠시마 원전  현장조사 마쳐..결과는 4월 발표]]></title>
+        <id>https://v.daum.net/v/20220218220012063</id>
+        <link href="https://v.daum.net/v/20220218220012063"/>
+        <updated>2022-02-18T13:24:04.215Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미 당국, KT '해외부패방지법 위반' 630만 달러 과징금]]></title>
+        <id>https://v.daum.net/v/20220218215916026</id>
+        <link href="https://v.daum.net/v/20220218215916026"/>
+        <updated>2022-02-18T13:24:04.216Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동네 집값 들썩이게 만드는 '이곳'.. ○○에 또 연다?]]></title>
         <id>https://v.daum.net/v/20220218195142253</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220218174935865"/>
         <updated>2022-02-18T09:20:58.897Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0.5마이크로미터 박테리아..'정확도 98%' AI로 찾는다]]></title>
-        <id>https://v.daum.net/v/20220218171904956</id>
-        <link href="https://v.daum.net/v/20220218171904956"/>
-        <updated>2022-02-18T08:24:37.013Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자연현상에서 숫자 추출..이게 다 암호 재료입니다 [Science]]]></title>
-        <id>https://v.daum.net/v/20220218171201779</id>
-        <link href="https://v.daum.net/v/20220218171201779"/>
-        <updated>2022-02-18T08:24:37.014Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
