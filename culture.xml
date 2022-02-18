@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-02-18T19:19:05.150Z</updated>
+    <updated>2022-02-18T20:23:20.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 환자 벌써 1,155만 명.. 이상지질혈증, 방치하면 심장병 위험]]></title>
+        <id>https://v.daum.net/v/20220219050002469</id>
+        <link href="https://v.daum.net/v/20220219050002469"/>
+        <updated>2022-02-18T20:22:04.885Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["호남 민심 잡고 조상의 뿌리 찾으리라".. 태종 이방원의 '고향행차']]></title>
         <id>https://v.daum.net/v/20220219030249219</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220218215553964"/>
         <updated>2022-02-18T13:23:41.469Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전통을 살리며..현대미술과 만난 한지]]></title>
-        <id>https://v.daum.net/v/20220218211125945</id>
-        <link href="https://v.daum.net/v/20220218211125945"/>
-        <updated>2022-02-18T12:33:13.895Z</updated>
-        <content type="html"><![CDATA[전주MBC]]></content>
     </entry>
 </feed>
