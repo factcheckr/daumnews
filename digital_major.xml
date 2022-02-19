@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-19T02:36:31.990Z</updated>
+    <updated>2022-02-19T03:23:27.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(영상)인텔의 거침없는 행보..파운드리 시장 경쟁 격화 예고]]></title>
+        <id>https://v.daum.net/v/20220219080612485</id>
+        <link href="https://v.daum.net/v/20220219080612485"/>
+        <updated>2022-02-19T03:22:46.328Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그가 1년간 걸어간 3km, 우주의 역사를 바꿨다[과학을읽다]]]></title>
         <id>https://v.daum.net/v/20220219080521471</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220219060132280"/>
         <updated>2022-02-19T01:13:22.264Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통신 3사 CEO 오미크론 확산에도 MWC 간다]]></title>
-        <id>https://v.daum.net/v/20220219060024206</id>
-        <link href="https://v.daum.net/v/20220219060024206"/>
-        <updated>2022-02-19T01:13:22.264Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
