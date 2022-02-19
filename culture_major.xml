@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-02-19T06:26:41.118Z</updated>
+    <updated>2022-02-19T07:20:02.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[허재 윤판기 선생 3주기 추모전..탐방객 줄이어]]></title>
+        <id>https://v.daum.net/v/20220219114944954</id>
+        <link href="https://v.daum.net/v/20220219114944954"/>
+        <updated>2022-02-19T07:19:08.592Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['렌즈에 담긴 대통령 10명'.."권력 무상·인생 무상"]]></title>
         <id>https://v.daum.net/v/20220219111021371</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220219100015502"/>
         <updated>2022-02-19T02:35:26.495Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바흐도 한때 "그저 그런 음악가"란 평을 받았다]]></title>
-        <id>https://v.daum.net/v/20220219090630986</id>
-        <link href="https://v.daum.net/v/20220219090630986"/>
-        <updated>2022-02-19T02:35:26.496Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
