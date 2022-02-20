@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-02-20T15:23:18.425Z</updated>
+    <updated>2022-02-20T16:30:02.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청계천에 걸린 투표 독려 홍보물]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1461/EzyTKHHHbq</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1461/EzyTKHHHbq"/>
+        <updated>2022-02-20T16:29:28.933Z</updated>
+        <content type="html"><![CDATA[서울의 풍경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해운대 갈매기의 고민]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5035065/EQugTr0d24</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2322/EcaJCP2TjE"/>
         <updated>2022-02-19T08:24:31.735Z</updated>
         <content type="html"><![CDATA[러시아 푸틴 대통령]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청계천에 대선 홍보물 설치 한창]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1461/E20J1V4eFJ</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1461/E20J1V4eFJ"/>
-        <updated>2022-02-19T04:28:07.644Z</updated>
-        <content type="html"><![CDATA[서울의 풍경]]></content>
     </entry>
 </feed>
