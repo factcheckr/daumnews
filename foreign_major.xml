@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-02-20T04:27:44.952Z</updated>
+    <updated>2022-02-20T05:19:38.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220220131020971"/>
         <updated>2022-02-20T04:26:38.813Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[멕시코 범죄조직 협박에.. 美 아보카도 대란 배경은]]></title>
+        <id>https://v.daum.net/v/20220220124416598</id>
+        <link href="https://v.daum.net/v/20220220124416598"/>
+        <updated>2022-02-20T05:18:27.126Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[日 외무상 "우크라 사태 유럽 안보 이상의 문제"..中 견제]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220220113406563"/>
         <updated>2022-02-20T03:21:56.431Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사흘째 접어든 우크라 돈바스 교전 '격화'..가옥 불타고 수천명 대피]]></title>
-        <id>https://v.daum.net/v/20220220112903478</id>
-        <link href="https://v.daum.net/v/20220220112903478"/>
-        <updated>2022-02-20T03:21:56.433Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
