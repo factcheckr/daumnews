@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-20T10:23:12.740Z</updated>
+    <updated>2022-02-20T11:20:32.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[에이앤랩's IP매뉴얼] '하도급분야 비밀유지계약체결 의무화' 중소기업이 준비해야 할]]></title>
+        <id>https://v.daum.net/v/20220220155355159</id>
+        <link href="https://v.daum.net/v/20220220155355159"/>
+        <updated>2022-02-20T11:19:51.670Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성전자가 '특허괴물'의 타깃이 되는 이유는?]]></title>
         <id>https://v.daum.net/v/20220220154654018</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["3억→9000만원..이젠 정말 포기해야 하나?" 비트코인 탈출 러시]]></title>
+        <title type="html"><![CDATA["3억→9000만원..더이상은 못 버텨요" 비트코인 탈출 러시]]></title>
         <id>https://v.daum.net/v/20220220154151840</id>
         <link href="https://v.daum.net/v/20220220154151840"/>
         <updated>2022-02-20T10:22:38.054Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220220093943713"/>
         <updated>2022-02-20T06:25:15.612Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가공할 中 우주 개발, 러 제치고 美 따라잡는다[과학을읽다]]]></title>
-        <id>https://v.daum.net/v/20220220083832964</id>
-        <link href="https://v.daum.net/v/20220220083832964"/>
-        <updated>2022-02-20T06:25:15.613Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-02-20T10:23:12.738Z</updated>
+    <updated>2022-02-20T11:20:32.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['주말 효과'도 없앤 오미크론..오후 6시기준 8만명대 신규 확진]]></title>
+        <id>https://v.daum.net/v/20220220192021051</id>
+        <link href="https://v.daum.net/v/20220220192021051"/>
+        <updated>2022-02-20T11:18:33.679Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추경 17조5천억 유력.. 택시 기사·특수고용자 지원금 추가]]></title>
         <id>https://v.daum.net/v/20220220185215725</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220220183605524"/>
         <updated>2022-02-20T10:21:39.850Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코인거래, 세계는 '탈중앙' 대세인데..한국은 여전히 중앙집중]]></title>
-        <id>https://v.daum.net/v/20220220183001423</id>
-        <link href="https://v.daum.net/v/20220220183001423"/>
-        <updated>2022-02-20T10:21:39.851Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
