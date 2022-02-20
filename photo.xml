@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-02-20T13:23:03.862Z</updated>
+    <updated>2022-02-20T14:20:40.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올림픽기 받은 밀라노-코르티나 시장]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029579/EQnforJfbH</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029579/EQnforJfbH"/>
+        <updated>2022-02-20T14:20:06.634Z</updated>
+        <content type="html"><![CDATA[이탈리아는 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휘발윳값 5주 연속 상승]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5035080/E6IeNHGX2w</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1461/E20J1V4eFJ"/>
         <updated>2022-02-19T04:28:07.644Z</updated>
         <content type="html"><![CDATA[서울의 풍경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그리스 외교와 회담하며 활짝 웃는 러 라브로프]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/6637/E8EQBszUk0</id>
-        <link href="https://gallery.v.daum.net/p/viewer/6637/E8EQBszUk0"/>
-        <updated>2022-02-19T02:35:55.427Z</updated>
-        <content type="html"><![CDATA[러시아는 지금]]></content>
     </entry>
 </feed>
