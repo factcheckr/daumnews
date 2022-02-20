@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-02-20T12:32:24.727Z</updated>
+    <updated>2022-02-20T13:23:03.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국·일본은 전기차 보조금 '전략적 지원'.. 한국은 '축소' 괜찮을까?]]></title>
+        <id>https://v.daum.net/v/20220220215010442</id>
+        <link href="https://v.daum.net/v/20220220215010442"/>
+        <updated>2022-02-20T13:21:05.319Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폐점 '압박'에도 롯데타워 사업 지지부진]]></title>
         <id>https://v.daum.net/v/20220220212037037</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220220204327663"/>
         <updated>2022-02-20T12:30:51.859Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부활한 태양광 폴리실리콘 가격..아쉬운 OCI 군산공장 구조조정]]></title>
-        <id>https://v.daum.net/v/20220220204124650</id>
-        <link href="https://v.daum.net/v/20220220204124650"/>
-        <updated>2022-02-20T12:30:51.860Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

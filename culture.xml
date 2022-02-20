@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-02-20T12:32:24.788Z</updated>
+    <updated>2022-02-20T13:23:03.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["한국 관중 앞 연주 고대..코로나시대 치유 선사"]]></title>
+        <id>https://v.daum.net/v/20220220220134561</id>
+        <link href="https://v.daum.net/v/20220220220134561"/>
+        <updated>2022-02-20T13:21:52.316Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대선후보들 "동물복지 정책 수용"..개식용 종식 답변 보니]]></title>
         <id>https://v.daum.net/v/20220220212744145</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220220184748682"/>
         <updated>2022-02-20T10:22:11.896Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["경제교육은 평생 자산..건강한 금융습관 첫걸음 기대"]]></title>
-        <id>https://v.daum.net/v/20220220182905415</id>
-        <link href="https://v.daum.net/v/20220220182905415"/>
-        <updated>2022-02-20T11:19:17.771Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
