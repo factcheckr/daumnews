@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-21T12:35:19.261Z</updated>
+    <updated>2022-02-21T13:25:11.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["별 짓 다해도 못 이기겠다" '유튜브 천하' 카카오마저 위협?]]></title>
+        <id>https://v.daum.net/v/20220221195144803</id>
+        <link href="https://v.daum.net/v/20220221195144803"/>
+        <updated>2022-02-21T13:24:19.457Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(영상)SKT, 최태원이 직접 챙긴다..AI 혁신 가속화 예고]]></title>
         <id>https://v.daum.net/v/20220221200050884</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220221181024387"/>
         <updated>2022-02-21T09:21:52.512Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["갈등·정책·예산 조정 권한 있는 '디지털 전환 컨트롤 타워' 있어야"]]></title>
-        <id>https://v.daum.net/v/20220221175555977</id>
-        <link href="https://v.daum.net/v/20220221175555977"/>
-        <updated>2022-02-21T12:34:32.784Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
