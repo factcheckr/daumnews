@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-02-21T18:26:00.981Z</updated>
+    <updated>2022-02-21T19:18:27.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[머스크, '소득세 0달러' 비판에 "역대 최고액 납세자" 발끈]]></title>
+        <id>https://v.daum.net/v/20220222033125893</id>
+        <link href="https://v.daum.net/v/20220222033125893"/>
+        <updated>2022-02-21T19:16:29.576Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유럽증시] 우크라이나 사태 우려에 2%대 하락]]></title>
         <id>https://v.daum.net/v/20220222031820861</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220222030553786"/>
         <updated>2022-02-21T18:24:23.820Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청년희망적금 첫날, 은행 앱 터졌다]]></title>
-        <id>https://v.daum.net/v/20220222030359716</id>
-        <link href="https://v.daum.net/v/20220222030359716"/>
-        <updated>2022-02-21T18:24:23.821Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>

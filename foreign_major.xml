@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-02-21T18:26:00.981Z</updated>
+    <updated>2022-02-21T19:18:27.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,20 @@
         <link href="https://v.daum.net/v/20220222030232647"/>
         <updated>2022-02-21T18:24:49.791Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英국방 "푸틴, 우크라 침공 강력한 정황..병력 규모·배치 변화"]]></title>
+        <id>https://v.daum.net/v/20220222025808594</id>
+        <link href="https://v.daum.net/v/20220222025808594"/>
+        <updated>2022-02-21T19:17:03.104Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바이든, 긴급 안보회의 소집..푸틴 침공 현실화 가능성에 '긴장']]></title>
+        <id>https://v.daum.net/v/20220222022923577</id>
+        <link href="https://v.daum.net/v/20220222022923577"/>
+        <updated>2022-02-21T19:17:03.104Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EU, 크림반도 합병 관련 러 인사 5명 추가 제재]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220222014831525"/>
         <updated>2022-02-21T18:24:49.795Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브라질 작년 강력사건 사망자 4만1천여명..코로나로 소폭 감소]]></title>
-        <id>https://v.daum.net/v/20220222013313477</id>
-        <link href="https://v.daum.net/v/20220222013313477"/>
-        <updated>2022-02-21T18:24:49.795Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美설리번 "러, 몇 시간·며칠내 우크라 침공할수도..매우 폭력적일 것"]]></title>
-        <id>https://v.daum.net/v/20220222011216434</id>
-        <link href="https://v.daum.net/v/20220222011216434"/>
-        <updated>2022-02-21T18:24:49.802Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
