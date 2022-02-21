@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-21T02:33:55.302Z</updated>
+    <updated>2022-02-21T03:24:39.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뇌의 정보 처리 능력은 60살까지 늙지 않는다]]></title>
+        <id>https://v.daum.net/v/20220221100611094</id>
+        <link href="https://v.daum.net/v/20220221100611094"/>
+        <updated>2022-02-21T03:23:59.200Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화면 꺼져도 S펜으로 메모..털 한올까지 살리는 갤S22 울트라]]></title>
         <id>https://v.daum.net/v/20220221100016794</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220221070119559"/>
         <updated>2022-02-21T01:08:46.702Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오 vs 네이버 웹툰 전쟁.."일본→동남아→이번엔 유럽"]]></title>
-        <id>https://v.daum.net/v/20220221062601196</id>
-        <link href="https://v.daum.net/v/20220221062601196"/>
-        <updated>2022-02-21T01:08:46.704Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
