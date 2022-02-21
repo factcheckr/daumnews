@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-02-21T15:25:05.134Z</updated>
+    <updated>2022-02-21T16:30:30.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동해선 삼척-강릉 노선 어떻게?.."공론화 필요"]]></title>
+        <id>https://v.daum.net/v/20220222001215114</id>
+        <link href="https://v.daum.net/v/20220222001215114"/>
+        <updated>2022-02-21T16:28:58.486Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성큼 다가온 대선..주가에 긍정적 영향 줄까]]></title>
         <id>https://v.daum.net/v/20220222001007048</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220222000507963"/>
         <updated>2022-02-21T15:23:06.086Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배달앱이 외식업 매출 15% 차지 "수수료 떼면 남는 게 없다"]]></title>
-        <id>https://v.daum.net/v/20220222000440947</id>
-        <link href="https://v.daum.net/v/20220222000440947"/>
-        <updated>2022-02-21T15:23:06.087Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
