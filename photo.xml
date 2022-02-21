@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-02-21T19:18:27.380Z</updated>
+    <updated>2022-02-21T20:24:48.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대선후보 3차 TV토론]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/EbTALlQum6</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/EbTALlQum6"/>
+        <updated>2022-02-21T20:24:23.032Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크렘린궁 "푸틴, 우크라 동부 친러 반군 공화국 독립 승인할 것"]]></title>
         <id>https://gallery.v.daum.net/p/viewer/2322/EeUu8h3od5</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5031020/EDEIcXRnWI"/>
         <updated>2022-02-21T07:20:40.326Z</updated>
         <content type="html"><![CDATA[코스피 &amp; 코스닥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["가습기살균제 정부책임 규명하라"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/64392/EBOlgIrOqM</id>
-        <link href="https://gallery.v.daum.net/p/viewer/64392/EBOlgIrOqM"/>
-        <updated>2022-02-21T07:20:40.349Z</updated>
-        <content type="html"><![CDATA[가습기 살균제 사망사고]]></content>
     </entry>
 </feed>
