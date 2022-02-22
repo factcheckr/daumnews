@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-22T12:36:57.011Z</updated>
+    <updated>2022-02-22T13:25:12.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[출입명부 사라져도 방역패스 아직 유효..방역당국 "미접종자 감염 차단·전파 방지 목적"]]></title>
+        <id>https://v.daum.net/v/20220222214012950</id>
+        <link href="https://v.daum.net/v/20220222214012950"/>
+        <updated>2022-02-22T13:24:27.861Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영국 "모든 법정 방역규정 폐지" 확진자 자가격리·무료검사 중단.."국민 각자에게 책임 전가한 조치" 지적]]></title>
         <id>https://v.daum.net/v/20220222213013825</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220222181801179"/>
         <updated>2022-02-22T10:24:15.529Z</updated>
         <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[녹색소비자연대 "OBS 방송송출 즉시 재개하라"]]></title>
-        <id>https://v.daum.net/v/20220222174152963</id>
-        <link href="https://v.daum.net/v/20220222174152963"/>
-        <updated>2022-02-22T09:21:21.244Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
