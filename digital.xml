@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-22T13:25:12.917Z</updated>
+    <updated>2022-02-22T14:21:29.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[韓기업 110곳, 코로나19 뚫고 MWC 2022 간다]]></title>
+        <id>https://v.daum.net/v/20220222230530774</id>
+        <link href="https://v.daum.net/v/20220222230530774"/>
+        <updated>2022-02-22T14:20:38.744Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["기업, 프라이버시 고려 않고 데이터 모으면 역풍 맞을 수도"]]></title>
+        <id>https://v.daum.net/v/20220222224340609</id>
+        <link href="https://v.daum.net/v/20220222224340609"/>
+        <updated>2022-02-22T14:20:38.745Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[출입명부 사라져도 방역패스 아직 유효..방역당국 "미접종자 감염 차단·전파 방지 목적"]]></title>
         <id>https://v.daum.net/v/20220222214012950</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220222200212204"/>
         <updated>2022-02-22T11:19:56.280Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英 방역규정 '올스톱'..일상으로 복귀]]></title>
-        <id>https://v.daum.net/v/20220222200112188</id>
-        <link href="https://v.daum.net/v/20220222200112188"/>
-        <updated>2022-02-22T11:19:56.281Z</updated>
-        <content type="html"><![CDATA[EBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["풍토병 관리 초입단계"..발열 3일 넘으면 '중증' 신호]]></title>
-        <id>https://v.daum.net/v/20220222181801179</id>
-        <link href="https://v.daum.net/v/20220222181801179"/>
-        <updated>2022-02-22T10:24:15.529Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>

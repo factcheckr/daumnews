@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-22T13:25:12.913Z</updated>
+    <updated>2022-02-22T14:21:29.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[英 방역규정 '올스톱'..일상으로 복귀]]></title>
+        <id>https://v.daum.net/v/20220222200112188</id>
+        <link href="https://v.daum.net/v/20220222200112188"/>
+        <updated>2022-02-22T14:20:50.074Z</updated>
+        <content type="html"><![CDATA[EBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["풍토병 관리 초입단계"..발열 3일 넘으면 '중증' 신호]]></title>
+        <id>https://v.daum.net/v/20220222181801179</id>
+        <link href="https://v.daum.net/v/20220222181801179"/>
+        <updated>2022-02-22T14:20:50.076Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[녹색소비자연대 "OBS 방송송출 즉시 재개하라"]]></title>
         <id>https://v.daum.net/v/20220222174152963</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220222160122064"/>
         <updated>2022-02-22T08:26:26.787Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["데뷔하자마자 카카오 드라마 조연" '이 여자' 알고보면 놀란다?]]></title>
-        <id>https://v.daum.net/v/20220222155708860</id>
-        <link href="https://v.daum.net/v/20220222155708860"/>
-        <updated>2022-02-22T08:26:26.787Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['갤럭시S22 울트라' 써본 美 매체.."인물사진 최상, 10점 만점에 9점" 극찬]]></title>
-        <id>https://v.daum.net/v/20220222155531790</id>
-        <link href="https://v.daum.net/v/20220222155531790"/>
-        <updated>2022-02-22T08:26:26.787Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
