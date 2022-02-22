@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-02-22T16:33:04.905Z</updated>
+    <updated>2022-02-22T17:23:55.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://v.daum.net/v/20220223000936311"/>
         <updated>2022-02-22T15:23:19.651Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언론재단, 20년치 기사 학습한 AI언어모델 'KPF-BERT' 공개]]></title>
-        <id>https://v.daum.net/v/20220223000004133</id>
-        <link href="https://v.daum.net/v/20220223000004133"/>
-        <updated>2022-02-22T16:32:12.814Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[체중 1kg 줄이면 혈압 '이만큼' 떨어져]]></title>
@@ -73,6 +66,13 @@
         <id>https://v.daum.net/v/20220222173020603</id>
         <link href="https://v.daum.net/v/20220222173020603"/>
         <updated>2022-02-22T11:19:44.873Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헐벗은 나무에도 봄은 온다..기도하듯 아로새긴 박수근]]></title>
+        <id>https://v.daum.net/v/20220222170306570</id>
+        <link href="https://v.daum.net/v/20220222170306570"/>
+        <updated>2022-02-22T17:22:52.922Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
