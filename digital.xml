@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-22T21:20:29.325Z</updated>
+    <updated>2022-02-22T22:24:16.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[李 캠프 미디어·ICT특위, '새 정부 미디어 정책 과제' 발표]]></title>
+        <id>https://v.daum.net/v/20220223065047267</id>
+        <link href="https://v.daum.net/v/20220223065047267"/>
+        <updated>2022-02-22T22:23:33.807Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이 시국에 풀출근"..반도체 공장, 재택 못해도 납득되는 이유]]></title>
         <id>https://v.daum.net/v/20220223055001499</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220223050040889"/>
         <updated>2022-02-22T20:22:41.012Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버·카카오의 구독 전쟁.. 이들이 철 지난 '텍스트' 플랫폼에 공들이는 이유]]></title>
-        <id>https://v.daum.net/v/20220223043203614</id>
-        <link href="https://v.daum.net/v/20220223043203614"/>
-        <updated>2022-02-22T20:22:41.013Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
