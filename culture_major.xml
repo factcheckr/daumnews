@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-02-22T15:24:06.917Z</updated>
+    <updated>2022-02-22T16:33:04.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220223000936311"/>
         <updated>2022-02-22T15:23:19.651Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[언론재단, 20년치 기사 학습한 AI언어모델 'KPF-BERT' 공개]]></title>
+        <id>https://v.daum.net/v/20220223000004133</id>
+        <link href="https://v.daum.net/v/20220223000004133"/>
+        <updated>2022-02-22T16:32:12.814Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[체중 1kg 줄이면 혈압 '이만큼' 떨어져]]></title>
@@ -46,13 +53,6 @@
         <link href="https://v.daum.net/v/20220222181658146"/>
         <updated>2022-02-22T15:23:19.659Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황희 문체부 장관 "중국의 한복 공정, 항의하기 애매했다"]]></title>
-        <id>https://v.daum.net/v/20220222175603468</id>
-        <link href="https://v.daum.net/v/20220222175603468"/>
-        <updated>2022-02-22T15:23:19.659Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[반려인이라면? '꼭' 알아야 할  '법']]></title>
