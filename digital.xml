@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-22T03:24:07.299Z</updated>
+    <updated>2022-02-22T04:28:33.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메타, 카메라 탑재·분리형 디스플레이 '스마트워치' 개발]]></title>
+        <id>https://v.daum.net/v/20220222131300662</id>
+        <link href="https://v.daum.net/v/20220222131300662"/>
+        <updated>2022-02-22T04:27:41.624Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디지털 금이라더니..천당지옥 오가는 비트코인]]></title>
         <id>https://v.daum.net/v/20220222115029135</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220222111951600"/>
         <updated>2022-02-22T02:33:23.039Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갤럭시S22 예약 마감..'S시리즈 신기록' 썼다]]></title>
-        <id>https://v.daum.net/v/20220222110956111</id>
-        <link href="https://v.daum.net/v/20220222110956111"/>
-        <updated>2022-02-22T02:33:23.040Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
