@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-22T17:23:55.281Z</updated>
+    <updated>2022-02-22T18:26:37.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["배기가스가 아세톤으로 재탄생..美 환경오염 잡는다!]]></title>
+        <id>https://v.daum.net/v/20220222200307225</id>
+        <link href="https://v.daum.net/v/20220222200307225"/>
+        <updated>2022-02-22T18:26:04.778Z</updated>
+        <content type="html"><![CDATA[EBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LCC 장거리 해외노선 확대 기회.. 항공업계 지각변동 본격화]]></title>
         <id>https://v.daum.net/v/20220222200212204</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220222162818218"/>
         <updated>2022-02-22T10:24:26.294Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폴더블 다음 전쟁터는 노트북.."노트북은 원래 접는 제품"]]></title>
-        <id>https://v.daum.net/v/20220222155151603</id>
-        <link href="https://v.daum.net/v/20220222155151603"/>
-        <updated>2022-02-22T09:21:30.795Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
