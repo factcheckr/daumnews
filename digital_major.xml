@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-23T14:21:46.881Z</updated>
+    <updated>2022-02-23T15:23:47.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["물백신 논란에도 맞아라"..韓·美 연구들 'T세포' 면역효과 입증]]></title>
+        <id>https://v.daum.net/v/20220223184551693</id>
+        <link href="https://v.daum.net/v/20220223184551693"/>
+        <updated>2022-02-23T15:23:09.757Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올 들어 코로나 사망자 가장 많은 날.."오미크론은 계절독감" 꺼낸 정부]]></title>
         <id>https://v.daum.net/v/20220223183434365</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220223171109463"/>
         <updated>2022-02-23T09:19:43.991Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['통화먹통' 해결..LG유플러스 "무상대여 아이폰 반납해달라"]]></title>
-        <id>https://v.daum.net/v/20220223165406765</id>
-        <link href="https://v.daum.net/v/20220223165406765"/>
-        <updated>2022-02-23T09:19:43.992Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-23T14:21:46.878Z</updated>
+    <updated>2022-02-23T15:23:47.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[케이블TV '2번' OBS가 안나오는 이유]]></title>
+        <id>https://v.daum.net/v/20220224000604964</id>
+        <link href="https://v.daum.net/v/20220224000604964"/>
+        <updated>2022-02-23T15:22:58.710Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["푸틴 원하는 건 다극 체제..향후 1~2주 최대 고비"]]></title>
         <id>https://v.daum.net/v/20220223221158883</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220223185013774"/>
         <updated>2022-02-23T10:24:07.420Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["물백신 논란에도 맞아라"..韓·美 연구들 'T세포' 면역효과 입증]]></title>
-        <id>https://v.daum.net/v/20220223184551693</id>
-        <link href="https://v.daum.net/v/20220223184551693"/>
-        <updated>2022-02-23T10:24:07.421Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
