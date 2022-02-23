@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-02-23T12:35:21.610Z</updated>
+    <updated>2022-02-23T13:26:32.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[합계출산율 0.81명..코로나로 결혼·출산 미뤘다]]></title>
+        <id>https://v.daum.net/v/20220223214302449</id>
+        <link href="https://v.daum.net/v/20220223214302449"/>
+        <updated>2022-02-23T13:24:33.416Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대구·경북 가계소득 부진..전국 7개 특·광역시 중 가장 낮아]]></title>
         <id>https://v.daum.net/v/20220223212747187</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220223205343732"/>
         <updated>2022-02-23T12:33:50.309Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[출산율 0.81명, 인구예측 실패..국가 중장기 계획 차질]]></title>
-        <id>https://v.daum.net/v/20220223205105697</id>
-        <link href="https://v.daum.net/v/20220223205105697"/>
-        <updated>2022-02-23T12:33:50.310Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
