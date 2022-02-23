@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-02-23T11:19:48.800Z</updated>
+    <updated>2022-02-23T12:35:21.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보수 개신교계 "개정 사학법, 사학 자율성 침해..헌법소원 제기"]]></title>
+        <id>https://v.daum.net/v/20220223173500466</id>
+        <link href="https://v.daum.net/v/20220223173500466"/>
+        <updated>2022-02-23T12:34:31.418Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포켓이슈] 우크라 사태로 주목받는 러시아의 조지아 침공]]></title>
         <id>https://v.daum.net/v/20220223173454463</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220223155703598"/>
         <updated>2022-02-23T08:25:10.934Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[라임라이트]이 시대를 사는 청춘의 애환이 그의 얼굴에 비친다]]></title>
-        <id>https://v.daum.net/v/20220223154459057</id>
-        <link href="https://v.daum.net/v/20220223154459057"/>
-        <updated>2022-02-23T08:25:10.934Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
