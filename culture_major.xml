@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-02-23T18:26:04.358Z</updated>
+    <updated>2022-02-23T19:18:44.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[붉게 타올랐던 그날의 만세 함성]]></title>
-        <id>https://v.daum.net/v/20220223212659176</id>
-        <link href="https://v.daum.net/v/20220223212659176"/>
-        <updated>2022-02-23T18:25:03.471Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 출근길 영하권 추위..충남·전라 새벽 눈 소식]]></title>
         <id>https://v.daum.net/v/20220223210115825</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220223171330571"/>
         <updated>2022-02-23T09:19:19.051Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["음식값 뛴 게 식당 탓이냐"..외식가격 공개에 자영업자 한숨]]></title>
+        <id>https://v.daum.net/v/20220223164727549</id>
+        <link href="https://v.daum.net/v/20220223164727549"/>
+        <updated>2022-02-23T19:17:53.280Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

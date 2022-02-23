@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-02-23T18:26:04.351Z</updated>
+    <updated>2022-02-23T19:18:44.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -10,13 +10,6 @@
         <id>https://v.daum.net/v/20220224030453862</id>
         <link href="https://v.daum.net/v/20220224030453862"/>
         <updated>2022-02-23T18:24:52.385Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고흐 작품처럼 사물 노랗게 보이면 '중심성 망막염'을 의심해보세요]]></title>
-        <id>https://v.daum.net/v/20220224030207749</id>
-        <link href="https://v.daum.net/v/20220224030207749"/>
-        <updated>2022-02-23T18:24:52.388Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20220224000324891"/>
         <updated>2022-02-23T15:22:42.979Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[붉게 타올랐던 그날의 만세 함성]]></title>
+        <id>https://v.daum.net/v/20220223212659176</id>
+        <link href="https://v.daum.net/v/20220223212659176"/>
+        <updated>2022-02-23T19:17:44.719Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
