@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-23T10:25:01.463Z</updated>
+    <updated>2022-02-23T11:19:48.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[학계, 백두산 마그마 남북공동연구 재차 촉구]]></title>
+        <id>https://v.daum.net/v/20220223193516533</id>
+        <link href="https://v.daum.net/v/20220223193516533"/>
+        <updated>2022-02-23T11:18:55.725Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["현 수준 코로나19 확산세 이어지면..2주후 일일확진자 최대 33만명"]]></title>
         <id>https://v.daum.net/v/20220223185138801</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220223182400097"/>
         <updated>2022-02-23T10:24:07.423Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["철통보안" 양자암호통신에 힘쏟는 KT..'국산·저비용' 강조(종합)]]></title>
-        <id>https://v.daum.net/v/20220223180216488</id>
-        <link href="https://v.daum.net/v/20220223180216488"/>
-        <updated>2022-02-23T09:19:30.596Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
