@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-23T03:23:35.689Z</updated>
+    <updated>2022-02-23T04:28:14.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[까치, 동료 사랑 사람 뺨치네..추적장치 함께 제거]]></title>
+        <id>https://v.daum.net/v/20220223111106488</id>
+        <link href="https://v.daum.net/v/20220223111106488"/>
+        <updated>2022-02-23T04:27:33.320Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이수스 NAS 노린 랜섬웨어 '데드볼트' 주의보]]></title>
         <id>https://v.daum.net/v/20220223110701266</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220223090605047"/>
         <updated>2022-02-23T02:38:17.209Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["3년간 6배 성장할 시장" 애플도 소니도 노리는 VR 헤드셋 전쟁..삼성전자만 낙오?]]></title>
-        <id>https://v.daum.net/v/20220223074624067</id>
-        <link href="https://v.daum.net/v/20220223074624067"/>
-        <updated>2022-02-23T01:20:00.162Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
