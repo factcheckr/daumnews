@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-02-24T17:23:57.927Z</updated>
+    <updated>2022-02-24T18:26:59.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도시의 오아시스]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/EqVQxHTX5n</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/EqVQxHTX5n"/>
+        <updated>2022-02-24T18:26:28.320Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[키예프 시장, 통금 발령.."밤 10시부터 오전 7시까지 이동금지"]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5033399/EJwawK2ep2</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/31583/EVqZmJttiD"/>
         <updated>2022-02-24T07:21:08.184Z</updated>
         <content type="html"><![CDATA[인천공항 풍경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국까지 번진 코로나 트럭시위대 [퇴근길 한 컷]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1397984/ESntIMD1qx</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1397984/ESntIMD1qx"/>
-        <updated>2022-02-24T07:21:08.185Z</updated>
-        <content type="html"><![CDATA[퇴근길 한 컷]]></content>
     </entry>
 </feed>
