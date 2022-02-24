@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-02-24T10:25:40.183Z</updated>
+    <updated>2022-02-24T11:19:51.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['4·15 총선 부정선거' 대선후보 주장에 선관위 "불신 조장"]]></title>
+        <id>https://v.daum.net/v/20220224170938629</id>
+        <link href="https://v.daum.net/v/20220224170938629"/>
+        <updated>2022-02-24T11:18:46.505Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'독도는 우리와 관계없다' 1877년 日지령, 나가사키에도 적용"]]></title>
         <id>https://v.daum.net/v/20220224170610512</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220224162305891"/>
         <updated>2022-02-24T10:24:38.445Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노동·시민사회단체들 "조계종, 부당해고·고발 철회해야"]]></title>
-        <id>https://v.daum.net/v/20220224161828679</id>
-        <link href="https://v.daum.net/v/20220224161828679"/>
-        <updated>2022-02-24T10:24:38.446Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

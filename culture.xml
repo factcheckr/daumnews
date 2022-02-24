@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-02-24T10:25:40.180Z</updated>
+    <updated>2022-02-24T11:19:51.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여성이 실수를 더 인정할 줄 안다 (연구)]]></title>
+        <id>https://v.daum.net/v/20220224193103622</id>
+        <link href="https://v.daum.net/v/20220224193103622"/>
+        <updated>2022-02-24T11:18:35.354Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['세계 1위' 음원 플랫폼 스포티파이, 한국서 힘 못쓰는 이유는?]]></title>
         <id>https://v.daum.net/v/20220224181612018</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220224171113688"/>
         <updated>2022-02-24T10:24:27.752Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['4·15 총선 부정선거' 대선후보 주장에 선관위 "불신 조장"]]></title>
-        <id>https://v.daum.net/v/20220224170938629</id>
-        <link href="https://v.daum.net/v/20220224170938629"/>
-        <updated>2022-02-24T10:24:27.753Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
 </feed>
