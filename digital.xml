@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-25T11:19:37.368Z</updated>
+    <updated>2022-02-25T12:34:47.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(영상)러시아 경제 제재에 韓반도체·자동차·화장품 '직격탄' 우려]]></title>
+        <id>https://v.daum.net/v/20220225210414631</id>
+        <link href="https://v.daum.net/v/20220225210414631"/>
+        <updated>2022-02-25T12:33:54.944Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["떡볶이 배달해봤더니..배민 7500원, 요기요 2000원" 요지경 배달비]]></title>
         <id>https://v.daum.net/v/20220225184232508</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220225174810251"/>
         <updated>2022-02-25T09:21:37.826Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내분비계 교란물질 '프탈레이트' 내 집에도 있다"]]></title>
-        <id>https://v.daum.net/v/20220225174647214</id>
-        <link href="https://v.daum.net/v/20220225174647214"/>
-        <updated>2022-02-25T09:21:37.827Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
