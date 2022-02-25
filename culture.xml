@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-02-25T17:22:38.694Z</updated>
+    <updated>2022-02-25T18:27:12.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금강이 울고 갈 만가지 절경.. 떠나는 겨울이 고와서 서러워라]]></title>
+        <id>https://v.daum.net/v/20220226030315915</id>
+        <link href="https://v.daum.net/v/20220226030315915"/>
+        <updated>2022-02-25T18:25:55.367Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서핑 핫플 양양' 신석기시대에는 어떤 모습이였을까?]]></title>
         <id>https://v.daum.net/v/20220226011324324</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220225230017127"/>
         <updated>2022-02-25T14:20:12.529Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작가도 모르는 웹툰 수익..작가단체 "통합전산망 필요"]]></title>
-        <id>https://v.daum.net/v/20220225192716144</id>
-        <link href="https://v.daum.net/v/20220225192716144"/>
-        <updated>2022-02-25T11:18:19.507Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
