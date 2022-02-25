@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-25T09:22:29.252Z</updated>
+    <updated>2022-02-25T10:26:15.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 국정원, 전 국가·공공기관에 보안 권고문..러시아 사이버戰 대비]]></title>
+        <id>https://v.daum.net/v/20220225174347129</id>
+        <link href="https://v.daum.net/v/20220225174347129"/>
+        <updated>2022-02-25T10:25:34.693Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미디어법 개정 급한데..부처는 뒷짐]]></title>
+        <id>https://v.daum.net/v/20220225172701667</id>
+        <link href="https://v.daum.net/v/20220225172701667"/>
+        <updated>2022-02-25T10:25:34.694Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[좀비같은 광고, '버튼' 하나로 싹 다 막는다고?  [Digital+]]]></title>
         <id>https://v.daum.net/v/20220225172406602</id>
         <link href="https://v.daum.net/v/20220225172406602"/>
         <updated>2022-02-25T09:21:48.609Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['절반의 성공' 거둔 누리호..올 6월 다시 우주 향한다]]></title>
+        <id>https://v.daum.net/v/20220225171502339</id>
+        <link href="https://v.daum.net/v/20220225171502339"/>
+        <updated>2022-02-25T10:25:34.697Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자동차 넘어 항공·기계도 수소 충전한다]]></title>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20220225160706491"/>
         <updated>2022-02-25T08:25:49.276Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['웰스토리 부당지원'에 움직이는 국민연금..삼성 지배구조 훑고 있다]]></title>
-        <id>https://v.daum.net/v/20220225155254000</id>
-        <link href="https://v.daum.net/v/20220225155254000"/>
-        <updated>2022-02-25T08:25:49.278Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누리호, 6월 15일 2차발사 시도..3단 산화제탱크 구조 보강]]></title>
-        <id>https://v.daum.net/v/20220225153026204</id>
-        <link href="https://v.daum.net/v/20220225153026204"/>
-        <updated>2022-02-25T08:25:49.279Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K로켓 누리호, 6월 중순에 2차 발사.."설계 결함 보완 중"]]></title>
-        <id>https://v.daum.net/v/20220225153012180</id>
-        <link href="https://v.daum.net/v/20220225153012180"/>
-        <updated>2022-02-25T08:25:49.279Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
