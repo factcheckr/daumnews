@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-02-26T10:24:08.499Z</updated>
+    <updated>2022-02-26T11:19:34.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베르사유 궁전엔 없는 화장실, 여긴 있었다]]></title>
+        <id>https://v.daum.net/v/20220226171201121</id>
+        <link href="https://v.daum.net/v/20220226171201121"/>
+        <updated>2022-02-26T11:18:32.533Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['8자 모양' 강원 고성 화진포에 숨은 '화진팔경' 보러오세요]]></title>
         <id>https://v.daum.net/v/20220226155757160</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220226103602719"/>
         <updated>2022-02-26T04:27:21.076Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["반품·환불은 고객 책임" 믿었던 플랫폼에 뒤통수 맞는 소비자]]></title>
-        <id>https://v.daum.net/v/20220226103008656</id>
-        <link href="https://v.daum.net/v/20220226103008656"/>
-        <updated>2022-02-26T03:22:43.067Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
