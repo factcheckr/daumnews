@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-02-27T15:23:00.354Z</updated>
+    <updated>2022-02-27T16:30:28.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["내 폰번호로 스팸이 발송됐다고?"]]></title>
+        <id>https://v.daum.net/v/20220227203519362</id>
+        <link href="https://v.daum.net/v/20220227203519362"/>
+        <updated>2022-02-27T16:29:35.604Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3년 만에 '오프라인 MWC'..삼성·통신3사 수장 총출동]]></title>
         <id>https://v.daum.net/v/20220228000357711</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220227213556174"/>
         <updated>2022-02-27T13:23:37.952Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["삼성 갤버즈인줄 알았다" 베끼는 중국, 3만원 이건 너무 하네]]></title>
-        <id>https://v.daum.net/v/20220227203247329</id>
-        <link href="https://v.daum.net/v/20220227203247329"/>
-        <updated>2022-02-27T12:33:02.510Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>

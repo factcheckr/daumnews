@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2022-02-27T15:23:00.333Z</updated>
+    <updated>2022-02-27T16:30:28.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://v.daum.net/v/20220228001043795"/>
         <updated>2022-02-27T15:20:28.090Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["만기 전역 대신 순직 처리해야"..변희수 하사 1주기 추모제]]></title>
+        <id>https://v.daum.net/v/20220227231122161</id>
+        <link href="https://v.daum.net/v/20220227231122161"/>
+        <updated>2022-02-27T16:27:54.804Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시장군수구청장협 "자치분권 활짝..주민자치 법제화"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220227221151639"/>
         <updated>2022-02-27T13:22:03.199Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["재난 수준 혈액 부족"..혈액 수급 또 '빨간불']]></title>
-        <id>https://v.daum.net/v/20220227221050630</id>
-        <link href="https://v.daum.net/v/20220227221050630"/>
-        <updated>2022-02-27T15:20:28.100Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
