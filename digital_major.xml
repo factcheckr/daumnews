@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-27T22:22:21.626Z</updated>
+    <updated>2022-02-27T23:22:41.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[광 섬유 센서로 콘크리트 강도 예측한다!]]></title>
-        <id>https://v.daum.net/v/20220227220558553</id>
-        <link href="https://v.daum.net/v/20220227220558553"/>
-        <updated>2022-02-27T22:21:41.526Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[외계행성에서 '프레온가스'를 찾아라]]></title>
         <id>https://v.daum.net/v/20220227213856214</id>
         <link href="https://v.daum.net/v/20220227213856214"/>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220227203247329"/>
         <updated>2022-02-27T16:29:46.744Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MWC]삼성, 노트북 신제품 '갤럭시북2 프로' 공개.."갤럭시 DNA 접목"]]></title>
+        <id>https://v.daum.net/v/20220228075208382</id>
+        <link href="https://v.daum.net/v/20220228075208382"/>
+        <updated>2022-02-27T23:22:01.607Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
