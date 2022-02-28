@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-02-28T14:21:49.794Z</updated>
+    <updated>2022-02-28T15:24:21.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["밥 잘 나오나" 엄마들이 지켜본다..어린이 급식 친환경 식자재 쑥쑥]]></title>
+        <id>https://v.daum.net/v/20220301000334314</id>
+        <link href="https://v.daum.net/v/20220301000334314"/>
+        <updated>2022-02-28T15:22:34.116Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[물가 불안에 기름 부은 우크라 사태.. 경제 불확실성 증폭]]></title>
         <id>https://v.daum.net/v/20220228220145913</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220228213819571"/>
         <updated>2022-02-28T13:24:29.059Z</updated>
         <content type="html"><![CDATA[대구MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대 러 결제 차질 불가피..피해 최소화 해법은?]]></title>
-        <id>https://v.daum.net/v/20220228212959427</id>
-        <link href="https://v.daum.net/v/20220228212959427"/>
-        <updated>2022-02-28T12:34:10.467Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

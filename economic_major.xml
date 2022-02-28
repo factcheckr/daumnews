@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-02-28T14:21:49.805Z</updated>
+    <updated>2022-02-28T15:24:21.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20220228223610405"/>
         <updated>2022-02-28T14:20:00.688Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대 러 결제 차질 불가피..피해 최소화 해법은?]]></title>
+        <id>https://v.daum.net/v/20220228212959427</id>
+        <link href="https://v.daum.net/v/20220228212959427"/>
+        <updated>2022-02-28T15:22:44.047Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[韓, 자동차 생산 5위 유지했지만 獨보다 선방(종합)]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220228210308048"/>
         <updated>2022-02-28T12:34:22.396Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[복산 1구역 재개발, 앞으로 남은 과제는?]]></title>
-        <id>https://v.daum.net/v/20220228205601889</id>
-        <link href="https://v.daum.net/v/20220228205601889"/>
-        <updated>2022-02-28T12:34:22.397Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
