@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-02-28T13:26:21.034Z</updated>
+    <updated>2022-02-28T14:21:49.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220228205452878"/>
         <updated>2022-02-28T12:35:30.525Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MWC 2022] "눈으로만 보세요"..오포, 롤러블폰 상용화 멀었나]]></title>
+        <id>https://v.daum.net/v/20220228183333271</id>
+        <link href="https://v.daum.net/v/20220228183333271"/>
+        <updated>2022-02-28T14:21:08.823Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[역대급 코로나19 사망자 나온 날..해외 누적 사망율과 비교한 정부]]></title>
+        <id>https://v.daum.net/v/20220228182628106</id>
+        <link href="https://v.daum.net/v/20220228182628106"/>
+        <updated>2022-02-28T14:21:08.824Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["주가 더 오를 것" 장병규와 임직원들 230억원어치 자사주 더 샀다]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220228172108321"/>
         <updated>2022-02-28T09:22:34.217Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거래소 상장심사까지 더 까다로워져..바이오 '기술특례' 비중 절반 아래로]]></title>
-        <id>https://v.daum.net/v/20220228171604078</id>
-        <link href="https://v.daum.net/v/20220228171604078"/>
-        <updated>2022-02-28T08:26:32.643Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["가격 15배 뛰어도 못 사서 난리" 의심받던 '이 회사'에 무슨일이]]></title>
-        <id>https://v.daum.net/v/20220228165111125</id>
-        <link href="https://v.daum.net/v/20220228165111125"/>
-        <updated>2022-02-28T13:25:42.434Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
