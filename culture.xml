@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-02-28T12:36:15.117Z</updated>
+    <updated>2022-02-28T13:26:21.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[한 해 태풍 피해 17조원, 조개 사라져.. IPCC가 경고한 한국의 미래]]></title>
-        <id>https://v.daum.net/v/20220228210033976</id>
-        <link href="https://v.daum.net/v/20220228210033976"/>
-        <updated>2022-02-28T12:34:56.977Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 삼일절 '비' 살짝..대기 매우 건조·불조심!]]></title>
         <id>https://v.daum.net/v/20220228205808922</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20220228184606509"/>
         <updated>2022-02-28T10:24:19.134Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[로펌 인사이드] 코로나19와 손실보상 현실화의 한계]]></title>
+        <id>https://v.daum.net/v/20220228183402291</id>
+        <link href="https://v.daum.net/v/20220228183402291"/>
+        <updated>2022-02-28T13:25:09.718Z</updated>
+        <content type="html"><![CDATA[이코노미조선]]></content>
     </entry>
 </feed>
