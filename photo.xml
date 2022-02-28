@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-02-28T17:23:46.859Z</updated>
+    <updated>2022-02-28T18:26:59.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마당을 채운 돌]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/E2OiMUb0tr</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/E2OiMUb0tr"/>
+        <updated>2022-02-28T18:26:27.163Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이 정도면 K팝 춤 실력 몇 점?]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029633/EvszUFqeBH</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5014013/EWZnKhQ89q"/>
         <updated>2022-02-28T06:27:24.172Z</updated>
         <content type="html"><![CDATA['코로나19' 바이러스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화성의 선인장?..큐리오시티가 포착한 희한한 광물]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1497/E2Sf0dzstv</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1497/E2Sf0dzstv"/>
-        <updated>2022-02-28T06:27:24.173Z</updated>
-        <content type="html"><![CDATA[우주의 신비]]></content>
     </entry>
 </feed>
