@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2022-02-28T15:24:21.360Z</updated>
+    <updated>2022-02-28T16:33:20.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이 "박정희와 추진력 닮은 꼴"..윤 "정권 교체가 정치개혁"]]></title>
+        <id>https://v.daum.net/v/20220301002718566</id>
+        <link href="https://v.daum.net/v/20220301002718566"/>
+        <updated>2022-02-28T16:31:10.017Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한달새 바뀐 표심..安지지자 17% 尹으로, 8%는 李로 갈아탔다 [중앙일보·정당학회 조사]]]></title>
         <id>https://v.daum.net/v/20220301001534467</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220301000036240"/>
         <updated>2022-02-28T15:22:14.327Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커진 '안보' 이슈..우크라 사태, 중도·부동 표심 자극할까]]></title>
-        <id>https://v.daum.net/v/20220301000024231</id>
-        <link href="https://v.daum.net/v/20220301000024231"/>
-        <updated>2022-02-28T15:22:14.328Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
