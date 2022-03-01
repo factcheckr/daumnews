@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-01T10:25:25.355Z</updated>
+    <updated>2022-03-01T11:20:19.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안경에 렌즈 붙이면 내비·통역.."중국 제품이 달라졌다"]]></title>
+        <id>https://v.daum.net/v/20220301172502401</id>
+        <link href="https://v.daum.net/v/20220301172502401"/>
+        <updated>2022-03-01T11:19:38.416Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라인·야후재팬 경영통합 1년..네이버 글로벌 확장 날개 달았다]]></title>
+        <id>https://v.daum.net/v/20220301171657230</id>
+        <link href="https://v.daum.net/v/20220301171657230"/>
+        <updated>2022-03-01T11:19:38.417Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["코로나 심하게 앓을수록 재감염 위험 감소" 연구결과 나왔다]]></title>
         <id>https://v.daum.net/v/20220301171002051</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220301133951152"/>
         <updated>2022-03-01T08:26:38.469Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] IPO 늦어지는 카카오모빌리티..초기 투자사 지분 매각 시작]]></title>
-        <id>https://v.daum.net/v/20220301131822756</id>
-        <link href="https://v.daum.net/v/20220301131822756"/>
-        <updated>2022-03-01T08:26:38.470Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스포츠계 달구는 IT 기술 경쟁 [아이티라떼]]]></title>
-        <id>https://v.daum.net/v/20220301131800745</id>
-        <link href="https://v.daum.net/v/20220301131800745"/>
-        <updated>2022-03-01T07:21:11.507Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
