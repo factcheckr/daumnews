@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메인뉴스</title>
-    <updated>2022-03-01T15:24:56.072Z</updated>
+    <updated>2022-03-01T16:32:16.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘 새학기 시작..2주간 등교는 학교 자율]]></title>
+        <id>https://v.daum.net/v/20220302003410588</id>
+        <link href="https://v.daum.net/v/20220302003410588"/>
+        <updated>2022-03-01T16:29:48.781Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국힘 42.3% 민주 39.4%..강원·제주 국힘 강세]]></title>
         <id>https://v.daum.net/v/20220302001215488</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220301234513202"/>
         <updated>2022-03-01T15:22:22.188Z</updated>
         <content type="html"><![CDATA[기자협회보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 집서 숨진 채 발견된 중1 부검 의뢰..자가격리 중인 어머니가 신고]]></title>
-        <id>https://v.daum.net/v/20220301233837182</id>
-        <link href="https://v.daum.net/v/20220301233837182"/>
-        <updated>2022-03-01T15:22:22.196Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>

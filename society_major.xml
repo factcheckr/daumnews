@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2022-03-01T15:24:56.173Z</updated>
+    <updated>2022-03-01T16:32:16.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://v.daum.net/v/20220302001051433"/>
         <updated>2022-03-01T15:22:32.417Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 집서 숨진 채 발견된 중1 부검 의뢰..자가격리 중인 어머니가 신고]]></title>
+        <id>https://v.daum.net/v/20220301233837182</id>
+        <link href="https://v.daum.net/v/20220301233837182"/>
+        <updated>2022-03-01T16:29:58.829Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우크라 급파된 기자들 "방탄조끼 입고 리포트"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220301222847711"/>
         <updated>2022-03-01T15:22:32.422Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[관객 보는데 공연 관계자에 고성 면박]]></title>
-        <id>https://v.daum.net/v/20220301223305748</id>
-        <link href="https://v.daum.net/v/20220301223305748"/>
-        <updated>2022-03-01T14:19:50.515Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
     </entry>
 </feed>
