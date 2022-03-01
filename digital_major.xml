@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-01T14:22:21.955Z</updated>
+    <updated>2022-03-01T15:24:56.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['애제자' 김정주 잃은 이광형 총장 "더 큰 일 할 사람인데.."]]></title>
+        <id>https://v.daum.net/v/20220301213624149</id>
+        <link href="https://v.daum.net/v/20220301213624149"/>
+        <updated>2022-03-01T15:24:17.208Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방사능 물질, 바다에서 바로 분석]]></title>
+        <id>https://v.daum.net/v/20220301215414361</id>
+        <link href="https://v.daum.net/v/20220301215414361"/>
+        <updated>2022-03-01T15:24:17.210Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우크라이나 평화를 위해' 고교생도 국제 사회 참여 촉구]]></title>
         <id>https://v.daum.net/v/20220301194340010</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220301171657230"/>
         <updated>2022-03-01T11:19:38.417Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["코로나 심하게 앓을수록 재감염 위험 감소" 연구결과 나왔다]]></title>
-        <id>https://v.daum.net/v/20220301171002051</id>
-        <link href="https://v.daum.net/v/20220301171002051"/>
-        <updated>2022-03-01T09:22:03.876Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5G 넘어 AI와 메타버스로..혁신을 이끄는 연결의 힘]]></title>
-        <id>https://v.daum.net/v/20220301170150854</id>
-        <link href="https://v.daum.net/v/20220301170150854"/>
-        <updated>2022-03-01T09:22:03.876Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
