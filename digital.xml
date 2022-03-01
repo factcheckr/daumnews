@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-01T19:19:03.651Z</updated>
+    <updated>2022-03-01T20:24:54.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[20대 대선 후보들의 가상자산 공약은]]></title>
+        <id>https://v.daum.net/v/20220302050609881</id>
+        <link href="https://v.daum.net/v/20220302050609881"/>
+        <updated>2022-03-01T20:23:59.186Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PC·노트북 '뇌'도 모바일 칩으로 바뀐다.. 속 타들어가는 인텔·삼성전자]]></title>
+        <id>https://v.daum.net/v/20220302043028486</id>
+        <link href="https://v.daum.net/v/20220302043028486"/>
+        <updated>2022-03-01T20:23:59.188Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20만 세계 해커의 반격.. 러 외무부·은행 홈피 마비]]></title>
         <id>https://v.daum.net/v/20220302030348121</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220301233556157"/>
         <updated>2022-03-01T15:24:06.911Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K게임 주춧돌 세운 벤처거인..너무 빨리, 너무 멀리 떠났다]]></title>
-        <id>https://v.daum.net/v/20220301232100087</id>
-        <link href="https://v.daum.net/v/20220301232100087"/>
-        <updated>2022-03-01T15:24:06.911Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[게임황제 김정주 별세] 넥슨 창업주 앓은 우울증.. '마음의 감기' 대수롭지 않게 여기다 치료시기 놓쳐]]></title>
-        <id>https://v.daum.net/v/20220301222949715</id>
-        <link href="https://v.daum.net/v/20220301222949715"/>
-        <updated>2022-03-01T14:21:29.681Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
