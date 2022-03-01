@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-01T07:21:52.175Z</updated>
+    <updated>2022-03-01T08:27:19.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봄철 맞아 명작 오페라 향연..'피가로의 결혼', '왕자, 호동']]></title>
+        <id>https://v.daum.net/v/20220301142601272</id>
+        <link href="https://v.daum.net/v/20220301142601272"/>
+        <updated>2022-03-01T08:26:17.811Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저항예술이 시장경제에 소비될 때의 역설]]></title>
         <id>https://v.daum.net/v/20220301140202736</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220301110113259"/>
         <updated>2022-03-01T05:20:19.145Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["5·18정신 알리기·아시아문화 융성·시민곁에 있는 亞문화전당"]]></title>
-        <id>https://v.daum.net/v/20220301100919017</id>
-        <link href="https://v.daum.net/v/20220301100919017"/>
-        <updated>2022-03-01T05:20:19.146Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
