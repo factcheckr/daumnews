@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-01T05:21:23.240Z</updated>
+    <updated>2022-03-01T06:27:34.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[IBM "아시아·제조기업 사이버공격 집중.."제로트러스트 대응 필요"]]></title>
+        <id>https://v.daum.net/v/20220301083203264</id>
+        <link href="https://v.daum.net/v/20220301083203264"/>
+        <updated>2022-03-01T06:26:56.086Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[캐나다, 러시아산 원유 수입 전면 금지..트뤼도 총리 '러에 경고 메시지']]></title>
         <id>https://v.daum.net/v/20220301095644690</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220301080010845"/>
         <updated>2022-03-01T01:26:08.710Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피스트트러스트-세조에셋, 우크라이나 국민 위해 1만달러 암호화폐 기부]]></title>
-        <id>https://v.daum.net/v/20220301080008840</id>
-        <link href="https://v.daum.net/v/20220301080008840"/>
-        <updated>2022-03-01T01:26:08.713Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
