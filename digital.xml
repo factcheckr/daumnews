@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-01T03:26:36.171Z</updated>
+    <updated>2022-03-01T04:29:06.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] IPO 늦어지는 카카오모빌리티..초기 투자사 지분 매각 시작]]></title>
+        <id>https://v.daum.net/v/20220301131822756</id>
+        <link href="https://v.daum.net/v/20220301131822756"/>
+        <updated>2022-03-01T04:28:17.366Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스포츠계 달구는 IT 기술 경쟁 [아이티라떼]]]></title>
+        <id>https://v.daum.net/v/20220301131800745</id>
+        <link href="https://v.daum.net/v/20220301131800745"/>
+        <updated>2022-03-01T04:28:17.367Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울시 "어린이집 인공지능 로봇 만족도 95%"..대여 기간 확대]]></title>
         <id>https://v.daum.net/v/20220301111502557</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220301095510641"/>
         <updated>2022-03-01T01:25:56.211Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라 전쟁에서 진가 드러난 '우주인터넷'..한국은 언제나?[과학을읽다]]]></title>
-        <id>https://v.daum.net/v/20220301095405602</id>
-        <link href="https://v.daum.net/v/20220301095405602"/>
-        <updated>2022-03-01T01:25:56.211Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유동현의 BIZ 코멘트리6] 인생 후반전 성패는 건강..자율주행능력은 필수]]></title>
-        <id>https://v.daum.net/v/20220301095053557</id>
-        <link href="https://v.daum.net/v/20220301095053557"/>
-        <updated>2022-03-01T01:25:56.212Z</updated>
-        <content type="html"><![CDATA[게임톡]]></content>
     </entry>
 </feed>
