@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-01T04:29:06.442Z</updated>
+    <updated>2022-03-01T05:21:23.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔비디아 해커 "회로도 포함 1TB 데이터 빼냈다"]]></title>
+        <id>https://v.daum.net/v/20220301134223238</id>
+        <link href="https://v.daum.net/v/20220301134223238"/>
+        <updated>2022-03-01T05:20:29.955Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라 침공에 우주협력도 삐걱..유럽 "러와 화성탐사 안 한다"]]></title>
+        <id>https://v.daum.net/v/20220301133951152</id>
+        <link href="https://v.daum.net/v/20220301133951152"/>
+        <updated>2022-03-01T05:20:29.961Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] IPO 늦어지는 카카오모빌리티..초기 투자사 지분 매각 시작]]></title>
         <id>https://v.daum.net/v/20220301131822756</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220301083203264"/>
         <updated>2022-03-01T01:25:56.209Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐나다, 러시아산 원유 수입 전면 금지..트뤼도 총리 '러에 경고 메시지']]></title>
-        <id>https://v.daum.net/v/20220301095644690</id>
-        <link href="https://v.daum.net/v/20220301095644690"/>
-        <updated>2022-03-01T01:25:56.209Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美, 中 바이오'기업·임상' 못 믿어!..전 세계 영향은?]]></title>
-        <id>https://v.daum.net/v/20220301095510641</id>
-        <link href="https://v.daum.net/v/20220301095510641"/>
-        <updated>2022-03-01T01:25:56.211Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
