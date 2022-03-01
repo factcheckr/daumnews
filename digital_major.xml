@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-01T11:20:19.802Z</updated>
+    <updated>2022-03-01T12:36:33.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MWC 2022] "칼 갈고 나왔다" 샤오미 등 신제품으로 복귀전]]></title>
+        <id>https://v.daum.net/v/20220301150403222</id>
+        <link href="https://v.daum.net/v/20220301150403222"/>
+        <updated>2022-03-01T12:35:51.511Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안경에 렌즈 붙이면 내비·통역.."중국 제품이 달라졌다"]]></title>
         <id>https://v.daum.net/v/20220301172502401</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220301150002096"/>
         <updated>2022-03-01T08:26:38.467Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라 침공에 우주협력도 삐걱..유럽 "러와 화성탐사 안 한다"]]></title>
-        <id>https://v.daum.net/v/20220301133951152</id>
-        <link href="https://v.daum.net/v/20220301133951152"/>
-        <updated>2022-03-01T08:26:38.469Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-01T11:20:19.801Z</updated>
+    <updated>2022-03-01T12:36:33.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["올해 벚꽃은 언제쯤 필까"]]></title>
+        <id>https://v.daum.net/v/20220301173829778</id>
+        <link href="https://v.daum.net/v/20220301173829778"/>
+        <updated>2022-03-01T12:35:29.710Z</updated>
+        <content type="html"><![CDATA[JIBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4천억대 자코메티..리움, 첫 지방 나들이]]></title>
         <id>https://v.daum.net/v/20220301164206405</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220301140009647"/>
         <updated>2022-03-01T07:20:50.146Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애들은 가라?..직장 결혼 이별 다루는 '어른 로맨스' 뜬다]]></title>
-        <id>https://v.daum.net/v/20220301134207223</id>
-        <link href="https://v.daum.net/v/20220301134207223"/>
-        <updated>2022-03-01T07:20:50.148Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
