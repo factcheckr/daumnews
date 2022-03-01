@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-01T08:27:19.929Z</updated>
+    <updated>2022-03-01T09:22:43.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어느 봄날, 테레사 프레이타스 사진전]]></title>
+        <id>https://v.daum.net/v/20220301144012625</id>
+        <link href="https://v.daum.net/v/20220301144012625"/>
+        <updated>2022-03-01T09:21:42.016Z</updated>
+        <content type="html"><![CDATA[EBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봄철 맞아 명작 오페라 향연..'피가로의 결혼', '왕자, 호동']]></title>
         <id>https://v.daum.net/v/20220301142601272</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220301111201499"/>
         <updated>2022-03-01T05:20:19.145Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길따라 멋따라] 대선마다 '꽝 조사' 낚시인들 "이번엔 대선 후보들 낚았다"]]></title>
-        <id>https://v.daum.net/v/20220301110113259</id>
-        <link href="https://v.daum.net/v/20220301110113259"/>
-        <updated>2022-03-01T05:20:19.145Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
