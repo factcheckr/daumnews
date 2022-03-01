@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-01T13:26:27.705Z</updated>
+    <updated>2022-03-01T14:22:21.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[음악이 흐르는 아침] 첼레스타 첫 사용 곡, 차이콥스키 '보이보다']]></title>
+        <id>https://v.daum.net/v/20220301180401400</id>
+        <link href="https://v.daum.net/v/20220301180401400"/>
+        <updated>2022-03-01T14:21:18.537Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["올해 벚꽃은 언제쯤 필까"]]></title>
         <id>https://v.daum.net/v/20220301173829778</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220301140022662"/>
         <updated>2022-03-01T07:20:50.146Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람들로부터 거절 당하는 게 두려워요 [별별치유]]]></title>
-        <id>https://v.daum.net/v/20220301140009647</id>
-        <link href="https://v.daum.net/v/20220301140009647"/>
-        <updated>2022-03-01T07:20:50.146Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
