@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-03-02T10:25:11.145Z</updated>
+    <updated>2022-03-02T11:20:29.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["바다도 아닌데..?" 금구천 돌고래 가족 기억하나요 [월간 옥이네]]]></title>
+        <id>https://v.daum.net/v/20220302200300768</id>
+        <link href="https://v.daum.net/v/20220302200300768"/>
+        <updated>2022-03-02T11:19:17.472Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[지상갤러리] 무엇을 보았는가]]></title>
         <id>https://v.daum.net/v/20220302191850849</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220302174142508"/>
         <updated>2022-03-02T09:20:51.226Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["개신교인 54%, 교회의 특정후보 공개지지 반대"]]></title>
-        <id>https://v.daum.net/v/20220302173042070</id>
-        <link href="https://v.daum.net/v/20220302173042070"/>
-        <updated>2022-03-02T09:20:51.228Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
