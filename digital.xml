@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-02T17:23:01.514Z</updated>
+    <updated>2022-03-02T18:27:02.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[갑작스러운 리더십 부재.. 넥슨, M&A 타깃 될 가능성도]]></title>
+        <id>https://v.daum.net/v/20220303030321750</id>
+        <link href="https://v.daum.net/v/20220303030321750"/>
+        <updated>2022-03-02T18:26:12.455Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[걱정되는 유전자 편집 부작용, 확 줄일 방법 찾았다]]></title>
         <id>https://v.daum.net/v/20220303010019988</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220302193017076"/>
         <updated>2022-03-02T11:19:38.418Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[차기정부에 바란다] 불필요한 중복규제 없애야 글로벌 경쟁력]]></title>
-        <id>https://v.daum.net/v/20220302192412962</id>
-        <link href="https://v.daum.net/v/20220302192412962"/>
-        <updated>2022-03-02T11:19:38.424Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
