@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-03-03T11:19:20.219Z</updated>
+    <updated>2022-03-03T12:36:12.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[경남人] '자연을 새기다' 서각 거장 송문영]]></title>
+        <id>https://v.daum.net/v/20220303201733867</id>
+        <link href="https://v.daum.net/v/20220303201733867"/>
+        <updated>2022-03-03T12:35:02.035Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마대 캔버스에 담긴 老화가의 예술혼]]></title>
         <id>https://v.daum.net/v/20220303195613499</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220303182605919"/>
         <updated>2022-03-03T10:24:13.228Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모든 게 버겁다' 메시지 남기고 세상 떠난 故 이힘찬 드라마 프로듀서.."사측은 진상 규명하라"]]></title>
-        <id>https://v.daum.net/v/20220303174725852</id>
-        <link href="https://v.daum.net/v/20220303174725852"/>
-        <updated>2022-03-03T09:21:58.713Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
