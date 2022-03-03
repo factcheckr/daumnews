@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-03-03T16:33:18.107Z</updated>
+    <updated>2022-03-03T17:23:35.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세계 비만의 날..살 '쏙' 빠지는 생활 습관]]></title>
+        <id>https://v.daum.net/v/20220304020139223</id>
+        <link href="https://v.daum.net/v/20220304020139223"/>
+        <updated>2022-03-03T17:22:28.142Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조물조물 만들고 터벅터벅 걷고.. 일상을 잠시 멈춤]]></title>
         <id>https://v.daum.net/v/20220304001117693</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220304000034487"/>
         <updated>2022-03-03T15:22:53.211Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프리다 칼로 "고통이 따라와도 한 잔 샴페인을 따른 인물"..뮤지컬 '프리다']]></title>
-        <id>https://v.daum.net/v/20220303215104287</id>
-        <link href="https://v.daum.net/v/20220303215104287"/>
-        <updated>2022-03-03T13:25:41.338Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
