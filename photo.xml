@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-03-04T18:27:16.437Z</updated>
+    <updated>2022-03-04T19:18:24.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리가 주인공]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/E3exVvrWCN</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/E3exVvrWCN"/>
+        <updated>2022-03-04T19:17:50.380Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[울진산불 야간 진화작업 총력]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1518/EY3OT2A8vl</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/382/Eo9zwnsaC6"/>
         <updated>2022-03-04T04:28:52.000Z</updated>
         <content type="html"><![CDATA[중국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기표소로 향하는 해병대원]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5076625/EAOVc5Ujcn</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5076625/EAOVc5Ujcn"/>
-        <updated>2022-03-04T04:28:52.003Z</updated>
-        <content type="html"><![CDATA[대한민국 해병대]]></content>
     </entry>
 </feed>
