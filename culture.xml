@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-03-04T05:21:57.746Z</updated>
+    <updated>2022-03-04T06:27:23.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고려대기연구소 "올해 첫 황사 발생..내일까지 국내 부유"]]></title>
+        <id>https://v.daum.net/v/20220304151737281</id>
+        <link href="https://v.daum.net/v/20220304151737281"/>
+        <updated>2022-03-04T06:26:14.030Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천서 2번째로 큰 공공도서관, 2026년 검단에 신축]]></title>
+        <id>https://v.daum.net/v/20220304142819247</id>
+        <link href="https://v.daum.net/v/20220304142819247"/>
+        <updated>2022-03-04T06:26:14.031Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여야 대선후보가 꼽은 '인생책'..이재명 '눈 떠보니 선진국', 윤석열 '선택할 자유']]></title>
         <id>https://v.daum.net/v/20220304141102470</id>
         <link href="https://v.daum.net/v/20220304141102470"/>
         <updated>2022-03-04T05:20:49.193Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콧물 심해지는데.. 감기일까, 비염일까?]]></title>
-        <id>https://v.daum.net/v/20220304135116733</id>
-        <link href="https://v.daum.net/v/20220304135116733"/>
-        <updated>2022-03-04T05:20:49.194Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[다큐보다 사실적인, AI로 만든 '가상세계']]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220304124806907"/>
         <updated>2022-03-04T04:28:10.052Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[열림과 닫힘의 경계에서 바람의 신전, 청산도 당집]]></title>
-        <id>https://v.daum.net/v/20220304123302613</id>
-        <link href="https://v.daum.net/v/20220304123302613"/>
-        <updated>2022-03-04T04:28:10.053Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
