@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-03-04T12:36:16.407Z</updated>
+    <updated>2022-03-04T13:26:22.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우크라 사태에 시멘트·철근 값도 '급등'..아파트 분양가도 오르나]]></title>
+        <id>https://v.daum.net/v/20220304220107871</id>
+        <link href="https://v.daum.net/v/20220304220107871"/>
+        <updated>2022-03-04T13:24:36.019Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기름값 19% 껑충..2월 물가 3.7% ↑]]></title>
         <id>https://v.daum.net/v/20220304212056266</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220304210620001"/>
         <updated>2022-03-04T12:34:28.915Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부 "유류세 20% 인하 조치, 7월 말까지 연장"]]></title>
-        <id>https://v.daum.net/v/20220304210044922</id>
-        <link href="https://v.daum.net/v/20220304210044922"/>
-        <updated>2022-03-04T12:34:28.916Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
