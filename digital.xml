@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-04T14:21:29.033Z</updated>
+    <updated>2022-03-04T15:26:44.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["소주값 7천원, 비싸지니 요즘 유난히 달다~" 기분탓? 월급탓?]]></title>
+        <title type="html"><![CDATA[삼성, 갤S22 'GOS 논란' 진화에 진땀.."선택권 준다"]]></title>
+        <id>https://v.daum.net/v/20220305000053165</id>
+        <link href="https://v.daum.net/v/20220305000053165"/>
+        <updated>2022-03-04T15:25:52.202Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["소주값 7천원, 비싸지니 너무 달다~" 기분탓? 월급탓?]]></title>
         <id>https://v.daum.net/v/20220304214733613</id>
         <link href="https://v.daum.net/v/20220304214733613"/>
         <updated>2022-03-04T13:25:36.149Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220304183136146"/>
         <updated>2022-03-04T10:25:59.681Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버, 직원 보상 프로그램 가동하자..연봉 평균 1억→1.2억원 '껑충']]></title>
-        <id>https://v.daum.net/v/20220304180011471</id>
-        <link href="https://v.daum.net/v/20220304180011471"/>
-        <updated>2022-03-04T09:21:32.681Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
