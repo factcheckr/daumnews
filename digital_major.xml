@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-05T07:21:27.164Z</updated>
+    <updated>2022-03-05T08:25:58.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[기사를 읽으면 돈을 버는 세상이 온다?]]></title>
-        <id>https://v.daum.net/v/20220305095700113</id>
-        <link href="https://v.daum.net/v/20220305095700113"/>
-        <updated>2022-03-05T07:20:49.147Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[어젯밤, 추락한 로켓은 달에 얼마나 상처를 입혔을까]]></title>
         <id>https://v.daum.net/v/20220305091606408</id>
@@ -73,6 +66,13 @@
         <id>https://v.daum.net/v/20220305060036763</id>
         <link href="https://v.daum.net/v/20220305060036763"/>
         <updated>2022-03-05T01:19:47.402Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방역당국 코로나 확산 예측능력도 한계점?..사태 2년만에 데이터 풀고 협조 요청]]></title>
+        <id>https://v.daum.net/v/20220305060019730</id>
+        <link href="https://v.daum.net/v/20220305060019730"/>
+        <updated>2022-03-05T08:25:17.657Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
