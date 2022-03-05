@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-03-05T09:21:02.905Z</updated>
+    <updated>2022-03-05T10:24:09.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[4개 검사했는데 양성은 하나?..진단키트 믿어도 되나요?[궁즉답]]]></title>
+        <id>https://v.daum.net/v/20220305190011529</id>
+        <link href="https://v.daum.net/v/20220305190011529"/>
+        <updated>2022-03-05T10:22:55.960Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[분리배출 옆에 '재활용 어려움'? [에코노트]]]></title>
         <id>https://v.daum.net/v/20220305180215779</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220305150304776"/>
         <updated>2022-03-05T06:25:57.645Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["코로나 사라지면 나만의 목표 위해 즐겁게 달릴 것"[양종구의 100세 시대 건강법]]]></title>
-        <id>https://v.daum.net/v/20220305140008732</id>
-        <link href="https://v.daum.net/v/20220305140008732"/>
-        <updated>2022-03-05T05:19:22.331Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
