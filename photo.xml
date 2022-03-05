@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-03-05T13:24:13.314Z</updated>
+    <updated>2022-03-05T14:21:30.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[무디스, 러시아 내 사업 잠정 중단]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5031013/E2NCj4wEO4</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5031013/E2NCj4wEO4"/>
+        <updated>2022-03-05T14:20:58.890Z</updated>
+        <content type="html"><![CDATA[이란은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산불과 사투]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1518/E9TA1qihhp</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/212305/E3exVvrWCN"/>
         <updated>2022-03-04T19:17:50.380Z</updated>
         <content type="html"><![CDATA[포토 카페]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두둥실 자전거]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5029578/EW4RQvJ6gm</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5029578/EW4RQvJ6gm"/>
-        <updated>2022-03-04T18:26:43.982Z</updated>
-        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
 </feed>
