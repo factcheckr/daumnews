@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-05T03:23:39.298Z</updated>
+    <updated>2022-03-05T04:28:37.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[멀수록 좋다던 뒷간이 안방까지 들어왔다 [물에 관한 알쓸신잡]]]></title>
+        <id>https://v.daum.net/v/20220305122038116</id>
+        <link href="https://v.daum.net/v/20220305122038116"/>
+        <updated>2022-03-05T04:27:47.117Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[우크라 침공] 이 시기에 소유스 타고 귀환..미국 우주비행사 "난감하네"]]></title>
         <id>https://v.daum.net/v/20220305121634086</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220305095700113"/>
         <updated>2022-03-05T01:19:35.972Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어젯밤, 추락한 로켓은 달에 얼마나 상처를 입혔을까]]></title>
-        <id>https://v.daum.net/v/20220305091606408</id>
-        <link href="https://v.daum.net/v/20220305091606408"/>
-        <updated>2022-03-05T01:19:35.974Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
