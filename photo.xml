@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-03-06T19:18:32.218Z</updated>
+    <updated>2022-03-06T20:24:01.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화마가 할퀸 울진 산림]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/EXmeB7XYZR</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/EXmeB7XYZR"/>
+        <updated>2022-03-06T20:23:30.133Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해 가을-겨울 패션]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029622/E9Yr0sxHlT</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1489/Eaqtprqriz"/>
         <updated>2022-03-05T23:21:34.899Z</updated>
         <content type="html"><![CDATA[북한은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무디스, 러시아 내 사업 잠정 중단]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5031013/E2NCj4wEO4</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5031013/E2NCj4wEO4"/>
-        <updated>2022-03-05T14:20:58.890Z</updated>
-        <content type="html"><![CDATA[이란은 지금]]></content>
     </entry>
 </feed>
