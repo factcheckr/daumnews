@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-03-06T17:21:33.588Z</updated>
+    <updated>2022-03-06T18:25:46.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올해 가을-겨울 패션]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029622/E9Yr0sxHlT</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029622/E9Yr0sxHlT"/>
+        <updated>2022-03-06T18:25:10.995Z</updated>
+        <content type="html"><![CDATA[프랑스는 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["전쟁 멈춰라" 국제행동의날 모인 외국인들[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/EYul4jkMNV</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5031013/E2NCj4wEO4"/>
         <updated>2022-03-05T14:20:58.890Z</updated>
         <content type="html"><![CDATA[이란은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전통시장 투표소에서 격리자 등 투표 행렬]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033573/E68tEldTdl</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033573/E68tEldTdl"/>
-        <updated>2022-03-05T10:23:36.159Z</updated>
-        <content type="html"><![CDATA[전통시장 모습]]></content>
     </entry>
 </feed>
