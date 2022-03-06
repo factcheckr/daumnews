@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-03-06T13:24:21.571Z</updated>
+    <updated>2022-03-06T14:20:45.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["달리의 오리지널 피스, 디테일하게 보는 재미"]]></title>
+        <id>https://v.daum.net/v/20220306231401446</id>
+        <link href="https://v.daum.net/v/20220306231401446"/>
+        <updated>2022-03-06T14:19:31.495Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["2100년엔 전 세계 산불 건수 지금보다 50% 증가"]]></title>
+        <id>https://v.daum.net/v/20220306223029122</id>
+        <link href="https://v.daum.net/v/20220306223029122"/>
+        <updated>2022-03-06T14:19:31.496Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프렌치 뮤지컬 세계 정상 '노트르담 드 파리'와 안녕]]></title>
         <id>https://v.daum.net/v/20220306214927669</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220306190652018"/>
         <updated>2022-03-06T10:22:45.004Z</updated>
         <content type="html"><![CDATA[스포츠동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산불 확산에 문화재도 위기..불영사 보물 긴급히 대피]]></title>
-        <id>https://v.daum.net/v/20220306183509551</id>
-        <link href="https://v.daum.net/v/20220306183509551"/>
-        <updated>2022-03-06T10:22:45.005Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중탕식으로 술 온기 유지한 '주자'와 '승반']]></title>
-        <id>https://v.daum.net/v/20220306180344969</id>
-        <link href="https://v.daum.net/v/20220306180344969"/>
-        <updated>2022-03-06T09:20:16.738Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
