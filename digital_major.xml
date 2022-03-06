@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-06T04:28:29.788Z</updated>
+    <updated>2022-03-06T05:20:56.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정옥재의 스마트 라이프]갤럭시S22 시리즈 사용 리뷰]]></title>
+        <id>https://v.daum.net/v/20220306065753732</id>
+        <link href="https://v.daum.net/v/20220306065753732"/>
+        <updated>2022-03-06T05:20:14.323Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['데어데블' 품는 디즈니플러스..'마블민국' 다시 사로잡을까]]></title>
         <id>https://v.daum.net/v/20220306064501673</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220306050901960"/>
         <updated>2022-03-06T02:39:06.317Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일론 머스크, 러시아 뉴스 차단 요청 거절]]></title>
-        <id>https://v.daum.net/v/20220306124422281</id>
-        <link href="https://v.daum.net/v/20220306124422281"/>
-        <updated>2022-03-06T04:27:46.535Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>

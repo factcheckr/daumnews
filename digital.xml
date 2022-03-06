@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-06T04:28:29.787Z</updated>
+    <updated>2022-03-06T05:20:56.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버 이해진·카카오 김범수 길러낸 유니텔 사라진다]]></title>
+        <id>https://v.daum.net/v/20220306134647289</id>
+        <link href="https://v.daum.net/v/20220306134647289"/>
+        <updated>2022-03-06T05:20:02.900Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[과학자가 보는 우크라이나 원전 위험도..사용후핵연료·외부냉각 주시해야]]></title>
         <id>https://v.daum.net/v/20220306123012955</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220306092608307"/>
         <updated>2022-03-06T02:38:55.444Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정옥재의 스마트 라이프]갤럭시S22 시리즈 사용 리뷰]]></title>
-        <id>https://v.daum.net/v/20220306065753732</id>
-        <link href="https://v.daum.net/v/20220306065753732"/>
-        <updated>2022-03-06T02:38:55.446Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
     </entry>
 </feed>
