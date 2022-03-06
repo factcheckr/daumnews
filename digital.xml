@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-06T11:19:14.295Z</updated>
+    <updated>2022-03-06T12:34:33.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI 비서·10단 조명·영어공부까지.. 대체 못하는 게 뭐야?]]></title>
+        <id>https://v.daum.net/v/20220306211305389</id>
+        <link href="https://v.daum.net/v/20220306211305389"/>
+        <updated>2022-03-06T12:33:40.881Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노트북 같은 스크린·스마트폰과 연동 좋은데, 휴대성은 좀..]]></title>
+        <id>https://v.daum.net/v/20220306211205385</id>
+        <link href="https://v.daum.net/v/20220306211205385"/>
+        <updated>2022-03-06T12:33:40.882Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이럴때 역발상 투자?" 폭락한 비트코인 사자 난리?]]></title>
         <id>https://v.daum.net/v/20220306172728230</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["카카오 흉내라도 내라" 네이버, 어쩌다 성토장 됐나]]></title>
+        <title type="html"><![CDATA["카카오 흉내라도 내라" 잘나가던 네이버, 어쩌다 '성토장' 됐나]]></title>
         <id>https://v.daum.net/v/20220306184928791</id>
         <link href="https://v.daum.net/v/20220306184928791"/>
         <updated>2022-03-06T10:23:06.301Z</updated>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220306180001860"/>
         <updated>2022-03-06T09:20:37.129Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4년간 4배 성장한 쿠팡.. '日이커머스의 심장' 라쿠텐도 넘어섰다]]></title>
-        <id>https://v.daum.net/v/20220306174415576</id>
-        <link href="https://v.daum.net/v/20220306174415576"/>
-        <updated>2022-03-06T09:20:37.130Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["스포츠카 샀는데 속도제한 한 격"..갤S22 성능 소비자 기만 논란 확산]]></title>
-        <id>https://v.daum.net/v/20220306171609980</id>
-        <link href="https://v.daum.net/v/20220306171609980"/>
-        <updated>2022-03-06T08:25:15.426Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>

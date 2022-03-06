@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-06T11:19:14.289Z</updated>
+    <updated>2022-03-06T12:34:33.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[동해안 산불] 주요 문화재 추가피해 없어..불영사 보물 긴급이송]]></title>
+        <id>https://v.daum.net/v/20220306175238745</id>
+        <link href="https://v.daum.net/v/20220306175238745"/>
+        <updated>2022-03-06T12:33:30.345Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["소년범죄는 우리 모두의 문제..편협한 감정 내려놓고 연기"]]></title>
         <id>https://v.daum.net/v/20220306164800276</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220306145634708"/>
         <updated>2022-03-06T07:20:17.688Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김기민과 조성진의 엇갈린 희비..우크라이나 사태 여파]]></title>
-        <id>https://v.daum.net/v/20220306140755783</id>
-        <link href="https://v.daum.net/v/20220306140755783"/>
-        <updated>2022-03-06T11:18:10.579Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
