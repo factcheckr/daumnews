@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-06T10:23:57.053Z</updated>
+    <updated>2022-03-06T11:19:14.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성 해킹한 '랩서스'.. 탈취한 데이터로 협박]]></title>
+        <id>https://v.daum.net/v/20220306171507959</id>
+        <link href="https://v.daum.net/v/20220306171507959"/>
+        <updated>2022-03-06T11:18:32.389Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러시아 경제 제재, 가상자산 앞에서 삐걱대나]]></title>
         <id>https://v.daum.net/v/20220306165755520</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220306123012955"/>
         <updated>2022-03-06T08:25:25.919Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고의 성능저하 논란에 해킹까지..삼성 '갤럭시S22′ 흥행 어쩌나]]></title>
-        <id>https://v.daum.net/v/20220306122422811</id>
-        <link href="https://v.daum.net/v/20220306122422811"/>
-        <updated>2022-03-06T07:20:36.856Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
