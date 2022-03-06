@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-06T06:26:44.550Z</updated>
+    <updated>2022-03-06T07:21:16.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[러시아, 우주 고립 자초하나..로켓 발사·협력 잇단 중단]]></title>
+        <title type="html"><![CDATA[삼성폰 '고의 성능저하' 논란 일파만파..해외 평가사이트서 갤S22 등 4종 퇴출]]></title>
+        <id>https://v.daum.net/v/20220306122422811</id>
+        <link href="https://v.daum.net/v/20220306122422811"/>
+        <updated>2022-03-06T07:20:36.856Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[과학핫이슈]'기회의 소행성' 아포피스]]></title>
+        <id>https://v.daum.net/v/20220306120124434</id>
+        <link href="https://v.daum.net/v/20220306120124434"/>
+        <updated>2022-03-06T07:20:36.857Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['게임 켜면 성능 반토막'..갤럭시 S22 'GOS' 논란 일파만파]]></title>
+        <id>https://v.daum.net/v/20220306102850569</id>
+        <link href="https://v.daum.net/v/20220306102850569"/>
+        <updated>2022-03-06T07:20:36.858Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시아, 잇단 로켓 발사·협력 중단..우주 고립 자초하나]]></title>
         <id>https://v.daum.net/v/20220306092608307</id>
         <link href="https://v.daum.net/v/20220306092608307"/>
         <updated>2022-03-06T06:26:04.960Z</updated>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20220306060111393"/>
         <updated>2022-03-06T02:39:06.310Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메타버스 인기에 '디지털트윈' 각광..플랫폼 기업, 거울세계서도 '한판']]></title>
-        <id>https://v.daum.net/v/20220306060048378</id>
-        <link href="https://v.daum.net/v/20220306060048378"/>
-        <updated>2022-03-06T02:39:06.314Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여전히 활개치는 IoT 악성코드 'Mozi'..유포지 30% ↑]]></title>
-        <id>https://v.daum.net/v/20220306060033356</id>
-        <link href="https://v.daum.net/v/20220306060033356"/>
-        <updated>2022-03-06T02:39:06.315Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코알라가 사라지고 있다고?[암호명3701]]]></title>
-        <id>https://v.daum.net/v/20220306060005313</id>
-        <link href="https://v.daum.net/v/20220306060005313"/>
-        <updated>2022-03-06T02:39:06.316Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
