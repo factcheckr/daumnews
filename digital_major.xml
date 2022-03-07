@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-07T02:44:05.495Z</updated>
+    <updated>2022-03-07T03:27:58.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220307111020592"/>
         <updated>2022-03-07T02:43:23.284Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中 테크노, 삼성과 RGBW 카메라 렌즈 개발]]></title>
+        <id>https://v.daum.net/v/20220307101111814</id>
+        <link href="https://v.daum.net/v/20220307101111814"/>
+        <updated>2022-03-07T03:27:16.032Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유전자가위 노벨상 수상자, 7년 특허 소송서 패배]]></title>
+        <id>https://v.daum.net/v/20220307100610577</id>
+        <link href="https://v.daum.net/v/20220307100610577"/>
+        <updated>2022-03-07T03:27:16.041Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["머스크 게섰거라"..中, 스페이스X 뛰어넘는 재활용로켓 만든다[과학을읽다]]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220307080815339"/>
         <updated>2022-03-07T01:20:04.661Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비자·마스터카드도 러시아 업무 정지..국제금융 배제 가속]]></title>
-        <id>https://v.daum.net/v/20220307070625557</id>
-        <link href="https://v.daum.net/v/20220307070625557"/>
-        <updated>2022-03-07T01:20:04.662Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KISTI 과학향기]쏟아지는 리튬 배터리 쓰레기.. 재활용 해결책은?]]></title>
-        <id>https://v.daum.net/v/20220307070105464</id>
-        <link href="https://v.daum.net/v/20220307070105464"/>
-        <updated>2022-03-07T01:20:04.663Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
