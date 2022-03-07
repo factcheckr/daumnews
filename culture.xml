@@ -2,20 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-03-07T20:24:18.820Z</updated>
+    <updated>2022-03-07T21:21:18.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[복지 국가 꿈 꾼 조선.. '재난지원금'도 있었다]]></title>
+        <id>https://v.daum.net/v/20220308060227929</id>
+        <link href="https://v.daum.net/v/20220308060227929"/>
+        <updated>2022-03-07T21:20:06.977Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]영인문학관 "故이어령 모든 기록물 디지털 아카이브 추진"]]></title>
+        <id>https://v.daum.net/v/20220308060100876</id>
+        <link href="https://v.daum.net/v/20220308060100876"/>
+        <updated>2022-03-07T21:20:06.979Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보세요, 자연 그대로.. 두세요, 자신 그대로]]></title>
         <id>https://v.daum.net/v/20220308050838222</id>
         <link href="https://v.daum.net/v/20220308050838222"/>
-        <updated>2022-03-07T20:23:08.529Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건조해도 습해도 가려운 아토피.. 긁으면 더 심해지는 '국민 피부병']]></title>
-        <id>https://v.daum.net/v/20220308050823210</id>
-        <link href="https://v.daum.net/v/20220308050823210"/>
         <updated>2022-03-07T20:23:08.529Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220308030415267"/>
         <updated>2022-03-07T18:25:58.882Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계적 갤러리 참가, 프리뷰 흥행..BAMA 벌써 뜨겁다]]></title>
-        <id>https://v.daum.net/v/20220308001353506</id>
-        <link href="https://v.daum.net/v/20220308001353506"/>
-        <updated>2022-03-07T15:24:12.305Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
     </entry>
 </feed>

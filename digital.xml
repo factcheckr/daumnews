@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-07T20:24:18.763Z</updated>
+    <updated>2022-03-07T21:21:18.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["中, 돈 많아도 못따라와"..한국 TV의 비결, 월드컵때 확인하세요]]></title>
+        <id>https://v.daum.net/v/20220308055602762</id>
+        <link href="https://v.daum.net/v/20220308055602762"/>
+        <updated>2022-03-07T21:20:28.270Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나19, 중증 진행 쉬운 사람 따로 있다..16개 취약 유전 변이 밝혀져]]></title>
         <id>https://v.daum.net/v/20220308050027982</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220308010019885"/>
         <updated>2022-03-07T16:31:42.738Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아마존 열대우림, 곧 황폐화..약 75%가 복원력 상실"]]></title>
-        <id>https://v.daum.net/v/20220308010019886</id>
-        <link href="https://v.daum.net/v/20220308010019886"/>
-        <updated>2022-03-07T16:31:42.739Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
