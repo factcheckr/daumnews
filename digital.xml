@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-07T14:21:37.495Z</updated>
+    <updated>2022-03-07T15:25:23.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[과학에세이] 코로나 바이러스, 인류진화의 과학적 필연 /박종화]]></title>
+        <id>https://v.daum.net/v/20220308001516539</id>
+        <link href="https://v.daum.net/v/20220308001516539"/>
+        <updated>2022-03-07T15:24:32.839Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우크라 돕는 기업들..각종 기부에 대금 안받기도]]></title>
         <id>https://v.daum.net/v/20220307223842525</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220307164128033"/>
         <updated>2022-03-07T10:24:32.243Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자 "랩서스 해킹 인정..임직원·고객 정보 유출 없다"(종합)]]></title>
-        <id>https://v.daum.net/v/20220307184102458</id>
-        <link href="https://v.daum.net/v/20220307184102458"/>
-        <updated>2022-03-07T10:24:32.243Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

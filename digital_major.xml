@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-07T14:21:37.490Z</updated>
+    <updated>2022-03-07T15:25:23.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성전자 "랩서스 해킹 인정..임직원·고객 정보 유출 없다"(종합)]]></title>
+        <id>https://v.daum.net/v/20220307184102458</id>
+        <link href="https://v.daum.net/v/20220307184102458"/>
+        <updated>2022-03-07T15:24:42.804Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이준기의 D사이언스] 노래하는 유쾌한 멘토.. "포용할줄 아는 행복한 과학자 키워야죠"]]></title>
         <id>https://v.daum.net/v/20220307184024436</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220307162133315"/>
         <updated>2022-03-07T09:22:32.935Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["대기자만 400명이에요" 연일 20만명대 확진에 보건소는 '전쟁터']]></title>
-        <id>https://v.daum.net/v/20220307161326894</id>
-        <link href="https://v.daum.net/v/20220307161326894"/>
-        <updated>2022-03-07T09:22:32.936Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
