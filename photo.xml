@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-03-07T19:19:54.673Z</updated>
+    <updated>2022-03-07T20:24:18.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["찍어달라 1번" vs "이번에는 2번"]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/EPbF5akpSn</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/EPbF5akpSn"/>
+        <updated>2022-03-07T20:23:47.407Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뜨거울 때 꽃이 핀다]]></title>
         <id>https://gallery.v.daum.net/p/viewer/212305/EjWA5O503r</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1397984/Ezzjb4TGqp"/>
         <updated>2022-03-07T07:21:56.303Z</updated>
         <content type="html"><![CDATA[퇴근길 한 컷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[런던 의회광장 가득 메운 우크라 지지 시위대]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/2329/EGLdhobMLa</id>
-        <link href="https://gallery.v.daum.net/p/viewer/2329/EGLdhobMLa"/>
-        <updated>2022-03-07T07:21:56.303Z</updated>
-        <content type="html"><![CDATA[영국은 지금]]></content>
     </entry>
 </feed>

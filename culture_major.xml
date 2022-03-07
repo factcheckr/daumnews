@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-07T19:19:54.667Z</updated>
+    <updated>2022-03-07T20:24:18.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220308001326495"/>
         <updated>2022-03-07T15:24:22.828Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그림책으로 성역할 고정관념 깬다]]></title>
+        <id>https://v.daum.net/v/20220308001122484</id>
+        <link href="https://v.daum.net/v/20220308001122484"/>
+        <updated>2022-03-07T20:23:19.175Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원주 구경훈 피리 연주자, 로마서 3·1절 공연 마치고 귀국]]></title>
+        <id>https://v.daum.net/v/20220308001044460</id>
+        <link href="https://v.daum.net/v/20220308001044460"/>
+        <updated>2022-03-07T20:23:19.177Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영월 임도 없는 험한 지형 산불진화 고전]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220307180720466"/>
         <updated>2022-03-07T14:20:40.829Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안호상 세종문화회관 사장 "자체 공연 늘려 지방 공공극장 롤모델 될 것"]]></title>
-        <id>https://v.daum.net/v/20220307180402366</id>
-        <link href="https://v.daum.net/v/20220307180402366"/>
-        <updated>2022-03-07T11:19:18.197Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미술품 조각투자 큰손은 MZ세대]]></title>
-        <id>https://v.daum.net/v/20220307112100066</id>
-        <link href="https://v.daum.net/v/20220307112100066"/>
-        <updated>2022-03-07T11:19:18.197Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
