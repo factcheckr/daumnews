@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2022-03-07T15:25:23.038Z</updated>
+    <updated>2022-03-07T16:32:37.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[심층인터뷰] 막판 표심 잡기 전략은?]]></title>
+        <id>https://v.daum.net/v/20220308002242631</id>
+        <link href="https://v.daum.net/v/20220308002242631"/>
+        <updated>2022-03-07T16:30:14.236Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["최고지도부 결심하면 날아 오른다".. 고강도 도발 여지 남기는 北]]></title>
         <id>https://v.daum.net/v/20220308001003422</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220307231203811"/>
         <updated>2022-03-07T14:19:29.762Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장in]"사전투표 논란 이기 말이 됩니꺼..누가되든동 먹고살게 해줬음 좋겄어예"]]></title>
-        <id>https://v.daum.net/v/20220307230522763</id>
-        <link href="https://v.daum.net/v/20220307230522763"/>
-        <updated>2022-03-07T14:19:29.762Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>

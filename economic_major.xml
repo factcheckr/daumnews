@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-03-07T15:25:23.053Z</updated>
+    <updated>2022-03-07T16:32:37.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20220308000250281"/>
         <updated>2022-03-07T15:23:41.131Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POSCO 주가 저평가 고전.."구글-알파벳 물적분할이라고?" 의구심]]></title>
+        <id>https://v.daum.net/v/20220308000050237</id>
+        <link href="https://v.daum.net/v/20220308000050237"/>
+        <updated>2022-03-07T16:30:47.106Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['러시아 진출' 롯데·오리온·팔도, 전쟁 장기화 대비 전략은?]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220307212850471"/>
         <updated>2022-03-07T15:23:41.138Z</updated>
         <content type="html"><![CDATA[CJB청주방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 "초보보다 숙련된 프로"]]></title>
-        <id>https://v.daum.net/v/20220307205712963</id>
-        <link href="https://v.daum.net/v/20220307205712963"/>
-        <updated>2022-03-07T15:23:41.140Z</updated>
-        <content type="html"><![CDATA[대구MBC]]></content>
     </entry>
 </feed>

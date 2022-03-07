@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-03-07T15:25:23.054Z</updated>
+    <updated>2022-03-07T16:32:37.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쎄노텍 "코로나 극복 기반은 '품질'..품질로 승부한다"]]></title>
+        <id>https://v.daum.net/v/20220308004006770</id>
+        <link href="https://v.daum.net/v/20220308004006770"/>
+        <updated>2022-03-07T16:30:35.777Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대선 코 앞인데..요동치는 정치 테마주]]></title>
         <id>https://v.daum.net/v/20220308001725586</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220308000250282"/>
         <updated>2022-03-07T15:23:31.186Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POSCO 주가 저평가 고전.."구글-알파벳 물적분할이라고?" 의구심]]></title>
-        <id>https://v.daum.net/v/20220308000050237</id>
-        <link href="https://v.daum.net/v/20220308000050237"/>
-        <updated>2022-03-07T15:23:31.187Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
