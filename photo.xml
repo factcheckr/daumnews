@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-03-07T18:27:06.311Z</updated>
+    <updated>2022-03-07T19:19:54.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뜨거울 때 꽃이 핀다]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/EjWA5O503r</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/EjWA5O503r"/>
+        <updated>2022-03-07T19:19:19.083Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진짜를 찾아라]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/ECqCZ7vk1H</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2329/EGLdhobMLa"/>
         <updated>2022-03-07T07:21:56.303Z</updated>
         <content type="html"><![CDATA[영국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[확진자 사전투표 방식 규탄 목소리 내는 시민단체 회원들]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5014013/EJzp7uDjJh</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5014013/EJzp7uDjJh"/>
-        <updated>2022-03-07T06:27:51.175Z</updated>
-        <content type="html"><![CDATA['코로나19' 바이러스]]></content>
     </entry>
 </feed>
