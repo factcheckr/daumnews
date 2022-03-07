@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-07T17:24:32.826Z</updated>
+    <updated>2022-03-07T18:27:06.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220308001326495"/>
         <updated>2022-03-07T15:24:22.828Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라 사태에 밀값 45% 뛰었다..식품업계 "6개월 이상 못버텨"]]></title>
+        <id>https://v.daum.net/v/20220307200830107</id>
+        <link href="https://v.daum.net/v/20220307200830107"/>
+        <updated>2022-03-07T18:26:09.282Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[李 남북 교류확대 vs 尹 관리체계 혁신.."비전 부재 아쉬워"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220307164059014"/>
         <updated>2022-03-07T16:31:31.618Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[울진 산불 대피소 못 들어가는 반려동물들.. 재난 때마다 되풀이]]></title>
-        <id>https://v.daum.net/v/20220307162138317</id>
-        <link href="https://v.daum.net/v/20220307162138317"/>
-        <updated>2022-03-07T17:23:27.384Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
