@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-07T03:27:58.557Z</updated>
+    <updated>2022-03-07T04:28:49.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220307111020592"/>
         <updated>2022-03-07T02:43:23.284Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디지털과 결합한 고생물학..사라진 멸종동물이 다시 태어난다]]></title>
+        <id>https://v.daum.net/v/20220307105944013</id>
+        <link href="https://v.daum.net/v/20220307105944013"/>
+        <updated>2022-03-07T04:28:10.570Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中 테크노, 삼성과 RGBW 카메라 렌즈 개발]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220307083016837"/>
         <updated>2022-03-07T01:20:04.660Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불안한 1위' 삼성, 애플에 '맞불' 보급형 갤럭시 A시리즈 이달 출격]]></title>
-        <id>https://v.daum.net/v/20220307080815339</id>
-        <link href="https://v.daum.net/v/20220307080815339"/>
-        <updated>2022-03-07T01:20:04.661Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>

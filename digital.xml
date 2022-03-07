@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-07T03:27:58.581Z</updated>
+    <updated>2022-03-07T04:28:49.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中 로켓, 달에 추락..과학자들 흥분 [우주로 간다]]]></title>
+        <id>https://v.daum.net/v/20220307131547225</id>
+        <link href="https://v.daum.net/v/20220307131547225"/>
+        <updated>2022-03-07T04:28:01.277Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3월 대한민국 엔지니어상에 현대모비스 임상언·네오티스 장규범]]></title>
         <id>https://v.daum.net/v/20220307120025512</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220307111515810"/>
         <updated>2022-03-07T02:43:11.636Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지털과 결합한 고생물학..사라진 멸종동물이 다시 태어난다]]></title>
-        <id>https://v.daum.net/v/20220307105944013</id>
-        <link href="https://v.daum.net/v/20220307105944013"/>
-        <updated>2022-03-07T02:43:11.638Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
