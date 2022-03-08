@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2022-03-08T16:32:49.115Z</updated>
+    <updated>2022-03-08T17:23:39.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대선 D-1] 확진자 32만명 웃돌며 역대 최다..본투표도 혼란 우려(종합)]]></title>
+        <id>https://v.daum.net/v/20220309001730534</id>
+        <link href="https://v.daum.net/v/20220309001730534"/>
+        <updated>2022-03-08T17:21:31.811Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['초박빙' 선거..당선인 윤곽 이전보다 늦다]]></title>
         <id>https://v.daum.net/v/20220309001109458</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220308234720094"/>
         <updated>2022-03-08T15:22:12.366Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루 앞둔 '선택의 날'..마지막까지 한 표 호소]]></title>
-        <id>https://v.daum.net/v/20220308234906105</id>
-        <link href="https://v.daum.net/v/20220308234906105"/>
-        <updated>2022-03-08T15:22:12.366Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
