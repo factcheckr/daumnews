@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-03-08T21:21:22.224Z</updated>
+    <updated>2022-03-08T22:23:23.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나19 방역 '긴장성' 강조하는 북한.."각성 또 각성해야"]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1489/E2xFKnqMoT</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1489/E2xFKnqMoT"/>
+        <updated>2022-03-08T22:22:51.428Z</updated>
+        <content type="html"><![CDATA[북한은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[호텔리어 로봇]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/EleHARYMBh</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5014013/EvSY1CXefe"/>
         <updated>2022-03-08T07:22:11.998Z</updated>
         <content type="html"><![CDATA['코로나19' 바이러스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스피, 외인・기관 매도세에 하락]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5031020/EJHuyHKiuL</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5031020/EJHuyHKiuL"/>
-        <updated>2022-03-08T07:22:11.998Z</updated>
-        <content type="html"><![CDATA[코스피 &amp; 코스닥]]></content>
     </entry>
 </feed>
