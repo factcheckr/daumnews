@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-03-08T13:28:08.812Z</updated>
+    <updated>2022-03-08T14:20:37.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[호재에도 급락한 테슬라..애플보다 3배 높은 PER, 부담되나]]></title>
+        <id>https://v.daum.net/v/20220308223101394</id>
+        <link href="https://v.daum.net/v/20220308223101394"/>
+        <updated>2022-03-08T14:18:41.907Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성적·주가 부진에 시달리는 'K게임'..무너진 실적·암담한 미래 '진퇴양난']]></title>
         <id>https://v.daum.net/v/20220308213010311</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220308210029663"/>
         <updated>2022-03-08T12:35:33.073Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오일쇼크에 스태그플레이션 우려까지..한국 경제 '시계제로']]></title>
-        <id>https://v.daum.net/v/20220308203602258</id>
-        <link href="https://v.daum.net/v/20220308203602258"/>
-        <updated>2022-03-08T12:35:33.074Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
