@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-08T22:23:23.216Z</updated>
+    <updated>2022-03-08T23:22:50.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220309050904949"/>
         <updated>2022-03-08T20:24:56.807Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종교계, 우크라이나 난민 지원 한마음..모금 캠페인]]></title>
+        <id>https://v.daum.net/v/20220309043606744</id>
+        <link href="https://v.daum.net/v/20220309043606744"/>
+        <updated>2022-03-08T23:21:52.192Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['단결한 민중은 결코 패배하지 않는다' 오늘을 담은 음악의 가치 [이지영의 클래식 노트]]]></title>
+        <id>https://v.daum.net/v/20220309043146732</id>
+        <link href="https://v.daum.net/v/20220309043146732"/>
+        <updated>2022-03-08T23:21:52.192Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[만화가에서 화가로.. 기안84의 새로운 시간]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220309000926370"/>
         <updated>2022-03-08T18:26:05.111Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국립 인간극장] <7> 사기 - 김영길 사기장]]></title>
-        <id>https://v.daum.net/v/20220309000908363</id>
-        <link href="https://v.daum.net/v/20220309000908363"/>
-        <updated>2022-03-08T18:26:05.111Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["할아버지가 목숨걸고 지킨 한국서 꿈 펼칠래요"]]></title>
-        <id>https://v.daum.net/v/20220308225103601</id>
-        <link href="https://v.daum.net/v/20220308225103601"/>
-        <updated>2022-03-08T22:22:25.983Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
