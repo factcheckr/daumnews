@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-03-08T06:27:53.840Z</updated>
+    <updated>2022-03-08T07:22:45.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단순함의 강력함..베스 르테인의 대형 추상화]]></title>
+        <id>https://v.daum.net/v/20220308154655359</id>
+        <link href="https://v.daum.net/v/20220308154655359"/>
+        <updated>2022-03-08T07:21:32.881Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[묽은 반죽 만들어 틀에 굽는 케이크·마카롱은 '제과' 이스트 넣어 발효과정 거친 바게트·캄파뉴는 '제빵']]></title>
         <id>https://v.daum.net/v/20220308152051412</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[문화일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아마존 암각화에 빙하기 멸종 거대동물 생생 묘사?]]></title>
+        <title type="html"><![CDATA[아마존 암각화에 땅늘보..빙하기 멸종 거대동물 맞지?]]></title>
         <id>https://v.daum.net/v/20220308151617129</id>
         <link href="https://v.daum.net/v/20220308151617129"/>
         <updated>2022-03-08T06:26:41.327Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220308140602491"/>
         <updated>2022-03-08T05:19:53.782Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["뜨거운 라떼 컵, 씹어먹는다" 지속가능성도 흥미롭게 [식탐]]]></title>
-        <id>https://v.daum.net/v/20220308123333715</id>
-        <link href="https://v.daum.net/v/20220308123333715"/>
-        <updated>2022-03-08T04:28:14.282Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>

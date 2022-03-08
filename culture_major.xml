@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-08T06:27:53.841Z</updated>
+    <updated>2022-03-08T07:22:45.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220308152402822"/>
         <updated>2022-03-08T06:26:52.537Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["뜨거운 라떼 컵, 씹어먹는다" 지속가능성도 흥미롭게 [식탐]]]></title>
+        <id>https://v.daum.net/v/20220308123333715</id>
+        <link href="https://v.daum.net/v/20220308123333715"/>
+        <updated>2022-03-08T07:21:43.502Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["발트 3국 문화·서적 만나보세요"..국립중앙도서관 특별전]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220308101136070"/>
         <updated>2022-03-08T03:23:18.947Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지상의 양식으로 전한 천국의 메시지..벽화의 얘기를 듣다]]></title>
-        <id>https://v.daum.net/v/20220308101014007</id>
-        <link href="https://v.daum.net/v/20220308101014007"/>
-        <updated>2022-03-08T02:39:23.930Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
 </feed>
