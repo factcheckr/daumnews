@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-08T15:24:23.994Z</updated>
+    <updated>2022-03-08T16:32:49.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[같은 1200만 화소인데..태연 '셀카'로 본 애플vs삼성 색감 차이]]></title>
+        <id>https://v.daum.net/v/20220309012228008</id>
+        <link href="https://v.daum.net/v/20220309012228008"/>
+        <updated>2022-03-08T16:31:58.571Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[달콤한 사이언스] 바이든 대통령 이름 붙여진 3억년 전 흡혈문어]]></title>
+        <id>https://v.daum.net/v/20220309010102784</id>
+        <link href="https://v.daum.net/v/20220309010102784"/>
+        <updated>2022-03-08T16:31:58.572Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오후9시 확진자 32만명 역대 최다, 전일 동시간 대비 13만명 증가]]></title>
         <id>https://v.daum.net/v/20220308220529969</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220308180139474"/>
         <updated>2022-03-08T09:21:35.441Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아 포격에 우크라이나 원자력연구소 파괴..과학계 "핵위험 증가 우려"]]></title>
-        <id>https://v.daum.net/v/20220308175012173</id>
-        <link href="https://v.daum.net/v/20220308175012173"/>
-        <updated>2022-03-08T09:21:35.446Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7년만에 뒤바뀐 '해지율'..LGU+, KT 눌렀다]]></title>
-        <id>https://v.daum.net/v/20220308173417745</id>
-        <link href="https://v.daum.net/v/20220308173417745"/>
-        <updated>2022-03-08T09:21:35.446Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
