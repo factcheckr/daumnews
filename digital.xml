@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-08T12:37:39.701Z</updated>
+    <updated>2022-03-08T13:28:08.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오후9시 확진자 32만명 역대 최다, 전일 동시간 대비 13만명 증가]]></title>
+        <id>https://v.daum.net/v/20220308220529969</id>
+        <link href="https://v.daum.net/v/20220308220529969"/>
+        <updated>2022-03-08T13:27:20.416Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['갤럭시 GOS' 집단소송 움직임 본격화.."법률 대리인 선임"]]></title>
         <id>https://v.daum.net/v/20220308183215243</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220308173417745"/>
         <updated>2022-03-08T09:21:35.446Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당근마켓, 몸값 뛰고 폭풍성장하더니..'뭉칫돈' 몰리는 곳]]></title>
-        <id>https://v.daum.net/v/20220308171903290</id>
-        <link href="https://v.daum.net/v/20220308171903290"/>
-        <updated>2022-03-08T08:27:07.196Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>

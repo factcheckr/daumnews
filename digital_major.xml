@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-08T12:37:39.687Z</updated>
+    <updated>2022-03-08T13:28:08.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[당근마켓, 몸값 뛰고 폭풍성장하더니..'뭉칫돈' 몰리는 곳]]></title>
+        <id>https://v.daum.net/v/20220308171903290</id>
+        <link href="https://v.daum.net/v/20220308171903290"/>
+        <updated>2022-03-08T13:27:30.459Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스텔스 오미크론'에 확진자 폭증.. 효과 떨어지는 '몰누피라비르'도 빛 볼까]]></title>
         <id>https://v.daum.net/v/20220308171637213</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220308155824760"/>
         <updated>2022-03-08T08:27:17.575Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5G스마트폰 성능 떨어뜨리는 전자파 흡수 고효율 소재 세계 첫 개발]]></title>
-        <id>https://v.daum.net/v/20220308152012276</id>
-        <link href="https://v.daum.net/v/20220308152012276"/>
-        <updated>2022-03-08T12:36:55.798Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
