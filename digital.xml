@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-08T19:19:26.064Z</updated>
+    <updated>2022-03-08T20:25:58.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대선까지 결론 못낸 '5G 주파수' 경매..결국 차기 정부로]]></title>
+        <id>https://v.daum.net/v/20220309043131728</id>
+        <link href="https://v.daum.net/v/20220309043131728"/>
+        <updated>2022-03-08T20:25:07.803Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["빛 번짐 더 심하다"..태연 '셀카'로 본 애플 vs 삼성 화질 차이]]></title>
         <id>https://v.daum.net/v/20220309012228008</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220308180500570"/>
         <updated>2022-03-08T09:21:35.440Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공정위 조사, 집단소송, 주총 보이콧까지..GOS 논란에 삼성전자 '사면초가']]></title>
-        <id>https://v.daum.net/v/20220308180139474</id>
-        <link href="https://v.daum.net/v/20220308180139474"/>
-        <updated>2022-03-08T09:21:35.441Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
