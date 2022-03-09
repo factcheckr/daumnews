@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-09T10:25:23.360Z</updated>
+    <updated>2022-03-09T11:20:49.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[확진자 투표, 혼란 없이 속전속결로..체온측정·거리두기는 생략]]></title>
+        <id>https://v.daum.net/v/20220309192108488</id>
+        <link href="https://v.daum.net/v/20220309192108488"/>
+        <updated>2022-03-09T11:19:55.601Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원주 도내 처음 코로나19 확진자 3만명 넘어서]]></title>
         <id>https://v.daum.net/v/20220309172757456</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220309153044284"/>
         <updated>2022-03-09T07:21:05.829Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[李·尹, 플랫폼 규제 한목소리.. 과학부총리 부활할까]]></title>
-        <id>https://v.daum.net/v/20220309152618187</id>
-        <link href="https://v.daum.net/v/20220309152618187"/>
-        <updated>2022-03-09T07:21:05.829Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
