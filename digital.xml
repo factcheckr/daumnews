@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-09T02:45:20.516Z</updated>
+    <updated>2022-03-09T03:24:12.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["다른 결제 방식 공지 막으면 안 돼" ..구글갑질방지법 시행령 의결]]></title>
+        <id>https://v.daum.net/v/20220309120640217</id>
+        <link href="https://v.daum.net/v/20220309120640217"/>
+        <updated>2022-03-09T03:23:19.310Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아직 투표안했다면?'..네이버, 특집 페이지로 살펴보는 20대 대선]]></title>
         <id>https://v.daum.net/v/20220309112400449</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220309103001876"/>
         <updated>2022-03-09T02:44:30.908Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방통위, 신규 본인확인기관 지정 심사계획 홈페이지 공고]]></title>
-        <id>https://v.daum.net/v/20220309095709906</id>
-        <link href="https://v.daum.net/v/20220309095709906"/>
-        <updated>2022-03-09T02:44:30.909Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
