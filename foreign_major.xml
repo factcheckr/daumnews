@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-03-09T16:32:54.485Z</updated>
+    <updated>2022-03-09T17:23:40.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우크라의 불행, 궁지 몰렸던 서방 정상들에겐 '부활 기회']]></title>
+        <id>https://v.daum.net/v/20220310005815303</id>
+        <link href="https://v.daum.net/v/20220310005815303"/>
+        <updated>2022-03-09T17:22:22.509Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폴란드 "미국 통해 우크라에 전투기 제공"..미 "쉽게 옹호될 수 있는 방안 아냐" 거절]]></title>
         <id>https://v.daum.net/v/20220310005747294</id>
@@ -13,11 +20,32 @@
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[EU, 러시아 천연가스 안 쓰고 2050년까지 탄소중립 가능할까]]></title>
+        <id>https://v.daum.net/v/20220310005426241</id>
+        <link href="https://v.daum.net/v/20220310005426241"/>
+        <updated>2022-03-09T17:22:22.512Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[미 상무 "중 반도체, 러 수출 땐 강력 제재"]]></title>
         <id>https://v.daum.net/v/20220310005415237</id>
         <link href="https://v.daum.net/v/20220310005415237"/>
         <updated>2022-03-09T16:31:26.682Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러 "美, 러시아와 사실상 경제 전쟁..우리도 최선책 취할 것"]]></title>
+        <id>https://v.daum.net/v/20220310001023794</id>
+        <link href="https://v.daum.net/v/20220310001023794"/>
+        <updated>2022-03-09T17:22:22.513Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잘나가던 강원 전기차, 우크라 사태에 발목 잡히나]]></title>
+        <id>https://v.daum.net/v/20220310001004777</id>
+        <link href="https://v.daum.net/v/20220310001004777"/>
+        <updated>2022-03-09T17:22:22.514Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주한미군사령관 "中, 안 싸우고 이기려 한·미 균열 시도"]]></title>
@@ -46,33 +74,5 @@
         <link href="https://v.daum.net/v/20220309224031890"/>
         <updated>2022-03-09T15:22:39.587Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라 정부, "러시아 장악의 체르노빌 원전에 전기 끊겨"]]></title>
-        <id>https://v.daum.net/v/20220309220255469</id>
-        <link href="https://v.daum.net/v/20220309220255469"/>
-        <updated>2022-03-09T15:22:39.588Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["초박빙 승부 유권자 식은 열기 반영"..주요 외신들 한국 대선 혹평]]></title>
-        <id>https://v.daum.net/v/20220309220009407</id>
-        <link href="https://v.daum.net/v/20220309220009407"/>
-        <updated>2022-03-09T15:22:39.589Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美, 러시아 원유 수입 금지..'전투기 지원 징검다리' 폴란드 제안은 거절]]></title>
-        <id>https://v.daum.net/v/20220309215921378</id>
-        <link href="https://v.daum.net/v/20220309215921378"/>
-        <updated>2022-03-09T14:21:07.779Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[체르노빌 원전, 전력망 차단돼..냉각 시스템 위험]]></title>
-        <id>https://v.daum.net/v/20220309215850363</id>
-        <link href="https://v.daum.net/v/20220309215850363"/>
-        <updated>2022-03-09T14:21:07.781Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
