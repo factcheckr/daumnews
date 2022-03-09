@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-03-09T13:27:09.859Z</updated>
+    <updated>2022-03-09T14:22:24.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나 중증 치료 대안 '악템라', 중외제약 깜짝 실적 이끄나]]></title>
+        <id>https://v.daum.net/v/20220309214838060</id>
+        <link href="https://v.daum.net/v/20220309214838060"/>
+        <updated>2022-03-09T14:20:47.766Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IPO 다크호스로 떠오른 KB증권, 공모주 잭팟 발판 삼아 MTS 단숨에 1위]]></title>
         <id>https://v.daum.net/v/20220309213306722</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220309203005171"/>
         <updated>2022-03-09T13:25:25.650Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새 정부에 설레지 않는 증시.. 올 '허니문 랠리' 쉽지 않다]]></title>
-        <id>https://v.daum.net/v/20220309202010925</id>
-        <link href="https://v.daum.net/v/20220309202010925"/>
-        <updated>2022-03-09T13:25:25.651Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
