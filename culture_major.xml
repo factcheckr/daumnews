@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-09T12:36:18.261Z</updated>
+    <updated>2022-03-09T13:27:09.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA["유화로 난을 치는 느낌" 오페라로 만나는 호동과 낙랑]]></title>
-        <id>https://v.daum.net/v/20220309181024163</id>
-        <link href="https://v.daum.net/v/20220309181024163"/>
-        <updated>2022-03-09T12:35:15.750Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[건축과 미술이 만나 '기적의 상자'를 이뤘다]]></title>
         <id>https://v.daum.net/v/20220309174519762</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220309130701057"/>
         <updated>2022-03-09T08:26:23.114Z</updated>
         <content type="html"><![CDATA[JIBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대중문화 클릭하기] 어른 제국의 역습]]></title>
+        <id>https://v.daum.net/v/20220309111027999</id>
+        <link href="https://v.daum.net/v/20220309111027999"/>
+        <updated>2022-03-09T13:26:09.437Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
 </feed>
