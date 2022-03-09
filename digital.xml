@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-09T08:27:25.282Z</updated>
+    <updated>2022-03-09T09:22:48.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원주 도내 처음 코로나19 확진자 3만명 넘어서]]></title>
+        <id>https://v.daum.net/v/20220309172757456</id>
+        <link href="https://v.daum.net/v/20220309172757456"/>
+        <updated>2022-03-09T09:21:59.727Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그린? 울트라? 우리가 원조'..삼성, 애플 향해 SNS 조롱글]]></title>
         <id>https://v.daum.net/v/20220309171702308</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220309152618187"/>
         <updated>2022-03-09T07:21:05.829Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[70만원대 후반 보급형 '아이패드 에어' 공개..국내 출시일 미정]]></title>
-        <id>https://v.daum.net/v/20220309151448901</id>
-        <link href="https://v.daum.net/v/20220309151448901"/>
-        <updated>2022-03-09T06:26:59.681Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
     </entry>
 </feed>
