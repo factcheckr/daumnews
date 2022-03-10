@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2022-03-10T16:32:42.940Z</updated>
+    <updated>2022-03-10T17:24:01.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["대선 승리 그대로" vs "지역일꾼과 별개" 이제는 지선이다]]></title>
+        <id>https://v.daum.net/v/20220311001134051</id>
+        <link href="https://v.daum.net/v/20220311001134051"/>
+        <updated>2022-03-10T17:21:45.703Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산 野 지지세, 탄핵이전 회복..'대선 민심' 지방선거까지 잇나]]></title>
         <id>https://v.daum.net/v/20220311001330112</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220311001113025"/>
         <updated>2022-03-10T15:33:15.517Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람에게 충성 않던 강골 검사, 국민의 머슴 되다]]></title>
-        <id>https://v.daum.net/v/20220311000300857</id>
-        <link href="https://v.daum.net/v/20220311000300857"/>
-        <updated>2022-03-10T15:33:15.517Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
