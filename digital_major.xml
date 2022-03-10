@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-10T13:28:25.150Z</updated>
+    <updated>2022-03-10T14:21:44.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성, 갤S22 'GOS 선택권' 오늘 업데이트..공지 6일만에 단행]]></title>
+        <id>https://v.daum.net/v/20220310182220801</id>
+        <link href="https://v.daum.net/v/20220310182220801"/>
+        <updated>2022-03-10T14:21:00.727Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기대감 커진 K-게임.. '규제 족쇄' 벗고 '성장 날개' 달까]]></title>
         <id>https://v.daum.net/v/20220310181014531</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220310170013366"/>
         <updated>2022-03-10T09:22:13.352Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성, 작년 웨어러블 출하량 20% 증가..갤워치4 덕분]]></title>
-        <id>https://v.daum.net/v/20220310165706269</id>
-        <link href="https://v.daum.net/v/20220310165706269"/>
-        <updated>2022-03-10T09:22:13.355Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>

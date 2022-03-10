@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-03-10T13:28:25.140Z</updated>
+    <updated>2022-03-10T14:21:44.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220310220610985"/>
         <updated>2022-03-10T13:26:33.787Z</updated>
         <content type="html"><![CDATA[매경이코노미]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECB, 기준금리 0% 동결..러 우크라 공습에 '신중모드'(상보)]]></title>
+        <id>https://v.daum.net/v/20220310220139879</id>
+        <link href="https://v.daum.net/v/20220310220139879"/>
+        <updated>2022-03-10T14:19:53.830Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3일간 11.6% 급반등한 루시드..사우디 공장 착공 기대 때문?]]></title>
+        <id>https://v.daum.net/v/20220310220101860</id>
+        <link href="https://v.daum.net/v/20220310220101860"/>
+        <updated>2022-03-10T14:19:53.831Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[250만 호 공급하고 종부세는 '폐지'..경제 성패 관건은 야당과의 '협치']]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220310205306029"/>
         <updated>2022-03-10T13:26:33.803Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이달 하순 공시가 발표가 '종부세 대수술' 첫 시험대]]></title>
-        <id>https://v.daum.net/v/20220310203211847</id>
-        <link href="https://v.daum.net/v/20220310203211847"/>
-        <updated>2022-03-10T13:26:33.805Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['민간' 중심 성장..부동산·에너지 정책 전환 예고]]></title>
-        <id>https://v.daum.net/v/20220310201019588</id>
-        <link href="https://v.daum.net/v/20220310201019588"/>
-        <updated>2022-03-10T13:26:33.806Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
