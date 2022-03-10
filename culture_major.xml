@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-09T23:23:20.242Z</updated>
+    <updated>2022-03-10T01:26:05.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현대차 뛰어든 중고차..완성차 총출동]]></title>
+        <id>https://v.daum.net/v/20220310070105874</id>
+        <link href="https://v.daum.net/v/20220310070105874"/>
+        <updated>2022-03-10T01:25:06.903Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김종길의 다석 늙은이(老子) 읽기(30) 요믊야믊]]></title>
+        <id>https://v.daum.net/v/20220310060005005</id>
+        <link href="https://v.daum.net/v/20220310060005005"/>
+        <updated>2022-03-10T01:25:06.903Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[입을 수도 만질 수도 없는, '가상의류'가 온다]]></title>
         <id>https://v.daum.net/v/20220310055507963</id>
         <link href="https://v.daum.net/v/20220310055507963"/>
         <updated>2022-03-09T23:22:13.639Z</updated>
         <content type="html"><![CDATA[시사IN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수학, 때론 정답보다 과정이 중요.. 인생도 그렇다]]></title>
-        <id>https://v.daum.net/v/20220310053311602</id>
-        <link href="https://v.daum.net/v/20220310053311602"/>
-        <updated>2022-03-09T23:22:13.640Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마산에 아귀를 잊으니.. 산비탈마다 감성 오른다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220310030219616"/>
         <updated>2022-03-09T21:19:56.002Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쓰레기장서 태어난 ' 페트병 꽃'·' 꽁초 새'의 경고]]></title>
-        <id>https://v.daum.net/v/20220310001030798</id>
-        <link href="https://v.daum.net/v/20220310001030798"/>
-        <updated>2022-03-09T21:19:56.003Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
