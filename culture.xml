@@ -2,29 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-03-11T08:27:57.283Z</updated>
+    <updated>2022-03-11T09:23:02.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우크라이나 임상 어떡하나..제약·바이오기업 '발 동동']]></title>
+        <id>https://v.daum.net/v/20220311180947601</id>
+        <link href="https://v.daum.net/v/20220311180947601"/>
+        <updated>2022-03-11T09:21:55.027Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아아' 못 마시는 시린이..방치하면 당뇨까지 이어진다 [알고 먹자 영양소]]]></title>
+        <id>https://v.daum.net/v/20220311175614338</id>
+        <link href="https://v.daum.net/v/20220311175614338"/>
+        <updated>2022-03-11T09:21:55.028Z</updated>
+        <content type="html"><![CDATA[하이닥]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['기생충'·'오징어게임' 음악 만든 정재일, 두 번째 창극 도전]]></title>
+        <id>https://v.daum.net/v/20220311175529324</id>
+        <link href="https://v.daum.net/v/20220311175529324"/>
+        <updated>2022-03-11T09:21:55.029Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갱년기 여성이 꼭 챙겨 먹어야 할 '음식']]></title>
         <id>https://v.daum.net/v/20220311170400117</id>
         <link href="https://v.daum.net/v/20220311170400117"/>
         <updated>2022-03-11T08:26:41.800Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갱년기 여성의 필수 영양소..'비타민 D']]></title>
-        <id>https://v.daum.net/v/20220311163113275</id>
-        <link href="https://v.daum.net/v/20220311163113275"/>
-        <updated>2022-03-11T08:26:41.801Z</updated>
-        <content type="html"><![CDATA[하이닥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['장'이 새면 우리 몸에 생기는 일]]></title>
-        <id>https://v.daum.net/v/20220311163119280</id>
-        <link href="https://v.daum.net/v/20220311163119280"/>
-        <updated>2022-03-11T08:26:41.806Z</updated>
-        <content type="html"><![CDATA[하이닥]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[저녁잇슈] 2022년 3월 11일 금요일]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220311161800833"/>
         <updated>2022-03-11T08:26:41.806Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경증이라도 코로나19 감염되면..새 연구 결과 '우려']]></title>
-        <id>https://v.daum.net/v/20220311160801559</id>
-        <link href="https://v.daum.net/v/20220311160801559"/>
-        <updated>2022-03-11T07:20:37.121Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-11T08:27:57.272Z</updated>
+    <updated>2022-03-11T09:23:02.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['철분 중독'에 빠진 암세포, 철분 표적 치료제로 공격한다]]></title>
+        <id>https://v.daum.net/v/20220311175151255</id>
+        <link href="https://v.daum.net/v/20220311175151255"/>
+        <updated>2022-03-11T09:22:15.596Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[행동대장 상어는 잠을 잘까..결론은 '잔다']]></title>
         <id>https://v.daum.net/v/20220311172018492</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220311162510054"/>
         <updated>2022-03-11T08:27:03.001Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[취약점 찾아 우회 침투하는 '공급망 해킹']]></title>
-        <id>https://v.daum.net/v/20220311162336006</id>
-        <link href="https://v.daum.net/v/20220311162336006"/>
-        <updated>2022-03-11T08:27:03.002Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>
