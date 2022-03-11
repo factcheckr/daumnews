@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-11T04:30:32.033Z</updated>
+    <updated>2022-03-11T05:21:27.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ESC] 하루 두번 열리는 바닷길 걸어 무인도로]]></title>
+        <id>https://v.daum.net/v/20220311115607771</id>
+        <link href="https://v.daum.net/v/20220311115607771"/>
+        <updated>2022-03-11T05:20:28.487Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울에 날아든 '파랑 보석',  어디서 왔니?]]></title>
         <id>https://v.daum.net/v/20220311110616989</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220311095123293"/>
         <updated>2022-03-11T02:45:51.864Z</updated>
         <content type="html"><![CDATA[월간산]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쿠킹] 쫄깃한 쑥떡에 밤이 가득..1766년 디저트 향애단자]]></title>
-        <id>https://v.daum.net/v/20220311090025509</id>
-        <link href="https://v.daum.net/v/20220311090025509"/>
-        <updated>2022-03-11T01:25:05.270Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
