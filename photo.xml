@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-03-11T19:18:57.207Z</updated>
+    <updated>2022-03-11T20:23:58.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美대사대리·中대사 접견]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/EjYrVQrFpm</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/EjYrVQrFpm"/>
+        <updated>2022-03-11T20:23:24.691Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손에 손잡고]]></title>
         <id>https://gallery.v.daum.net/p/viewer/212305/EGbL3F8PSO</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5031020/E5LjQTzuSk"/>
         <updated>2022-03-11T07:21:13.046Z</updated>
         <content type="html"><![CDATA[코스피 &amp; 코스닥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[철수 앞둔 유니클로 매장 앞에 몰린 러시아인들]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/6637/EwMgVih7tq</id>
-        <link href="https://gallery.v.daum.net/p/viewer/6637/EwMgVih7tq"/>
-        <updated>2022-03-11T07:21:13.047Z</updated>
-        <content type="html"><![CDATA[러시아는 지금]]></content>
     </entry>
 </feed>
