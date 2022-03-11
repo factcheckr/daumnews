@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-03-11T17:24:02.502Z</updated>
+    <updated>2022-03-11T18:27:19.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고양이의 고민]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/EWWxFUUsrW</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/EWWxFUUsrW"/>
+        <updated>2022-03-11T18:26:46.193Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선거가 끝나고 난 후]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1573204/EvOzCTXPhk</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1573204/EvOzCTXPhk"/>
+        <updated>2022-03-11T18:26:46.194Z</updated>
+        <content type="html"><![CDATA[[아무튼, 주말] 오종찬 기자의 Oh!컷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경남 김해 아파트서 화재..1시간 만에 진화]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1518/Er7iqX1MX2</id>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033399/EPqZT4yRUQ"/>
         <updated>2022-03-11T07:21:13.048Z</updated>
         <content type="html"><![CDATA[우크라이나는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서방권 초강력 제재 대응 각료회의 주재하는 푸틴]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/2322/EpLad4SqZf</id>
-        <link href="https://gallery.v.daum.net/p/viewer/2322/EpLad4SqZf"/>
-        <updated>2022-03-11T06:28:12.265Z</updated>
-        <content type="html"><![CDATA[러시아 푸틴 대통령]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[런던 우크라 대사관 앞에서 헌화하는 '리틀 아말']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/2329/EPxi9BJgpM</id>
-        <link href="https://gallery.v.daum.net/p/viewer/2329/EPxi9BJgpM"/>
-        <updated>2022-03-11T06:28:12.266Z</updated>
-        <content type="html"><![CDATA[영국은 지금]]></content>
     </entry>
 </feed>
