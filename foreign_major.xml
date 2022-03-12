@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-03-12T12:34:15.001Z</updated>
+    <updated>2022-03-12T13:24:53.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해금강 호텔 철거·군사시설 공사..미, 추가 제재로 '경고']]></title>
+        <id>https://v.daum.net/v/20220312203414942</id>
+        <link href="https://v.daum.net/v/20220312203414942"/>
+        <updated>2022-03-12T13:23:29.589Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["검은 비닐 씌운 채 끌고 가"..점령지 시장 납치됐다]]></title>
         <id>https://v.daum.net/v/20220312203004903</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220312191557444"/>
         <updated>2022-03-12T12:32:58.064Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["김건희, 연예인급 미모"..尹 당선되자 대만 실검 1위 찍었다]]></title>
-        <id>https://v.daum.net/v/20220312190659344</id>
-        <link href="https://v.daum.net/v/20220312190659344"/>
-        <updated>2022-03-12T11:18:38.251Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
