@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-03-12T04:29:55.226Z</updated>
+    <updated>2022-03-12T05:20:38.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220312123006437"/>
         <updated>2022-03-12T04:28:35.370Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국 '코로나 유연대응 모델' 상하이, 시험대 올랐다]]></title>
+        <id>https://v.daum.net/v/20220312121003286</id>
+        <link href="https://v.daum.net/v/20220312121003286"/>
+        <updated>2022-03-12T05:19:12.775Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젤렌스키 "시리아 깡패들 사람 죽이러 올 것"..러, 용병투입 비난]]></title>
+        <id>https://v.daum.net/v/20220312115432109</id>
+        <link href="https://v.daum.net/v/20220312115432109"/>
+        <updated>2022-03-12T05:19:12.776Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EU, 러시아 최혜국 지위 박탈 '고율관세' 부과..  유럽 명품 수출도 금지]]></title>
@@ -55,24 +69,10 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[디즈니 "동성애 교육 금지한 플로리다주에 정치자금 기부 중단"]]></title>
-        <id>https://v.daum.net/v/20220312105651573</id>
-        <link href="https://v.daum.net/v/20220312105651573"/>
-        <updated>2022-03-12T03:22:35.722Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[러시아산 킹크랩·보드카 미국 못 간다]]></title>
         <id>https://v.daum.net/v/20220312105619566</id>
         <link href="https://v.daum.net/v/20220312105619566"/>
         <updated>2022-03-12T03:22:35.723Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라 메리토폴 시장 납치돼..젤렌스키 "러 침략자들, IS 테러리스트와 동급"]]></title>
-        <id>https://v.daum.net/v/20220312105342537</id>
-        <link href="https://v.daum.net/v/20220312105342537"/>
-        <updated>2022-03-12T02:37:11.979Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
