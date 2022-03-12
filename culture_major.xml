@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-12T06:27:41.278Z</updated>
+    <updated>2022-03-12T07:21:17.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손가락은 '완벽한 기술'이 아닌 '당신의 생각'을 전한다]]></title>
+        <id>https://v.daum.net/v/20220312100602034</id>
+        <link href="https://v.daum.net/v/20220312100602034"/>
+        <updated>2022-03-12T07:20:16.741Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[리빙톡] 터지면 사망한다?..술·담배 즐긴다면 주의!]]></title>
         <id>https://v.daum.net/v/20220312090031257</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220312043015288"/>
         <updated>2022-03-11T22:22:30.119Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["고향 진도엔 집마다 장구.. 법대 다니다 국악에 빠졌죠"]]></title>
-        <id>https://v.daum.net/v/20220312040658238</id>
-        <link href="https://v.daum.net/v/20220312040658238"/>
-        <updated>2022-03-12T06:26:35.917Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
