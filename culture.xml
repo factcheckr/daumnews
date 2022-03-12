@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-03-12T03:24:00.841Z</updated>
+    <updated>2022-03-12T04:29:55.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기억력 쇠퇴..의외의 원인과 막는 방법]]></title>
+        <id>https://v.daum.net/v/20220312130604770</id>
+        <link href="https://v.daum.net/v/20220312130604770"/>
+        <updated>2022-03-12T04:28:45.202Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서로를 믿자, 거기에 노래가 도움 되기를]]></title>
         <id>https://v.daum.net/v/20220312120801269</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220312100602034"/>
         <updated>2022-03-12T01:14:14.491Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리빙톡] 터지면 사망한다?..술·담배 즐긴다면 주의!]]></title>
-        <id>https://v.daum.net/v/20220312090031257</id>
-        <link href="https://v.daum.net/v/20220312090031257"/>
-        <updated>2022-03-12T01:14:14.493Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

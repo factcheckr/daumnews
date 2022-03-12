@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-03-12T03:24:00.821Z</updated>
+    <updated>2022-03-12T04:29:55.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[말 많던 소득주도성장, 그래도 저소득층 '사다리' 구실]]></title>
+        <id>https://v.daum.net/v/20220312123601486</id>
+        <link href="https://v.daum.net/v/20220312123601486"/>
+        <updated>2022-03-12T04:28:03.320Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[文정부 부동산] 고가주택 6.7억 뛸 때, 저가주택 달랑 505만원 올랐다 [부동산360]]]></title>
         <id>https://v.daum.net/v/20220312115201081</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220312110006608"/>
         <updated>2022-03-12T02:36:42.273Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길따라 멋따라] 꿩 대신 닭? "체코 코폴라를 아시나요"]]></title>
-        <id>https://v.daum.net/v/20220312110011613</id>
-        <link href="https://v.daum.net/v/20220312110011613"/>
-        <updated>2022-03-12T02:36:42.274Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

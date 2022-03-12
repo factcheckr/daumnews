@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-03-12T03:24:00.841Z</updated>
+    <updated>2022-03-12T04:29:55.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[길따라 멋따라] 꿩 대신 닭? "체코 코폴라를 아시나요"]]></title>
+        <id>https://v.daum.net/v/20220312110011613</id>
+        <link href="https://v.daum.net/v/20220312110011613"/>
+        <updated>2022-03-12T04:28:14.003Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인수위 파견으로 승승장구할 금융위 공무원은 누구? [이호기의 금융형통]]]></title>
         <id>https://v.daum.net/v/20220312103302325</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220312100051953"/>
         <updated>2022-03-12T02:36:51.902Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뒷북경제] 스태그플레이션 공포를 아는 한은의 심상찮은 물가 경고]]></title>
-        <id>https://v.daum.net/v/20220312100035948</id>
-        <link href="https://v.daum.net/v/20220312100035948"/>
-        <updated>2022-03-12T01:13:41.867Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
