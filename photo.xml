@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-03-12T05:20:38.098Z</updated>
+    <updated>2022-03-12T06:27:41.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리나라에서 가장 오래된 산수유나무]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/111971/EXMkGOkQCE</id>
+        <link href="https://gallery.v.daum.net/p/viewer/111971/EXMkGOkQCE"/>
+        <updated>2022-03-12T06:27:06.668Z</updated>
+        <content type="html"><![CDATA[무더운 한반도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중앙고속도 칠곡 읍내터널 부근서 다중 추돌 사고..11명 경상]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1473/EH8HTVTClQ</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033570/EhwsT5TPN2"/>
         <updated>2022-03-11T09:22:31.772Z</updated>
         <content type="html"><![CDATA[대한민국 해군]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도쿄서 동일본 대지진 11주년 특별 추도식 열려]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1407/EchV0ZM4lQ</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1407/EchV0ZM4lQ"/>
-        <updated>2022-03-11T09:22:31.776Z</updated>
-        <content type="html"><![CDATA[일본은 지금]]></content>
     </entry>
 </feed>
