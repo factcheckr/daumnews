@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-03-13T17:22:28.988Z</updated>
+    <updated>2022-03-13T18:26:26.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이번엔 블랙코미디.. 뮤지컬 '괴력의 삼총사'가 또 뭉쳤다]]></title>
+        <id>https://v.daum.net/v/20220314030348802</id>
+        <link href="https://v.daum.net/v/20220314030348802"/>
+        <updated>2022-03-13T18:25:13.756Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초월의 시공간 역으로 끌어오다]]></title>
         <id>https://v.daum.net/v/20220314001049108</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220313215502889"/>
         <updated>2022-03-13T16:30:32.718Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정재일 "'기생충' '오징어 게임' 인기, 음악 작업에 큰 자극"]]></title>
-        <id>https://v.daum.net/v/20220313201104831</id>
-        <link href="https://v.daum.net/v/20220313201104831"/>
-        <updated>2022-03-13T16:30:32.719Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
