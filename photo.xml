@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-03-13T19:18:39.813Z</updated>
+    <updated>2022-03-13T20:23:05.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤 당선인 오늘 통의동 집무실 첫 출근]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/EYRRtMFsiS</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/EYRRtMFsiS"/>
+        <updated>2022-03-13T20:22:32.569Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봄비에 꽃망울 터뜨린 벚꽃]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1783949/ESWU4ZF87O</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/144832/E8KWWNCBmL"/>
         <updated>2022-03-12T02:37:58.650Z</updated>
         <content type="html"><![CDATA[길따라 멋따라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AFI 시상식 오찬장 도착한 오징어 게임 주역들]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1476/EVqe5xFGdF</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1476/EVqe5xFGdF"/>
-        <updated>2022-03-12T01:14:53.577Z</updated>
-        <content type="html"><![CDATA[미국은 지금]]></content>
     </entry>
 </feed>
