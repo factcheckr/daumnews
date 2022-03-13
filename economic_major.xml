@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-03-13T11:20:18.384Z</updated>
+    <updated>2022-03-13T12:34:36.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새 정부의 디지털혁신 '기대'.. 예대금리차 공개엔 '우려']]></title>
+        <id>https://v.daum.net/v/20220313195519623</id>
+        <link href="https://v.daum.net/v/20220313195519623"/>
+        <updated>2022-03-13T12:32:51.385Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전 기재차관 "복합위기 징후 뚜렷..에너지값 더 폭등할 수도"]]></title>
         <id>https://v.daum.net/v/20220313184938048</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220313181200617"/>
         <updated>2022-03-13T10:22:47.950Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1년 전과 똑같은 품목 구매했는데.. 가격 10% 더 나왔다]]></title>
-        <id>https://v.daum.net/v/20220313181159615</id>
-        <link href="https://v.daum.net/v/20220313181159615"/>
-        <updated>2022-03-13T10:22:47.958Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
