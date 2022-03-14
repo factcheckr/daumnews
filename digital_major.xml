@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-14T03:26:24.509Z</updated>
+    <updated>2022-03-14T04:35:19.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220314102022406"/>
         <updated>2022-03-14T03:25:43.575Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[땅위 5cm 물체까지 본다..'손금보듯' 푸틴 감시하는 바이든]]></title>
+        <id>https://v.daum.net/v/20220314110043368</id>
+        <link href="https://v.daum.net/v/20220314110043368"/>
+        <updated>2022-03-14T04:34:41.622Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신규확진 30만9790명..수도권서 확진자 절반 나와]]></title>
+        <id>https://v.daum.net/v/20220314100903920</id>
+        <link href="https://v.daum.net/v/20220314100903920"/>
+        <updated>2022-03-14T04:34:41.624Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[머스크의 우크라이나 우주인터넷 긴급지원 '막전막후']]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220314070113469"/>
         <updated>2022-03-14T01:22:24.898Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KISTI과학향기]'인강' 배속으로 들으면 오히려 학습 효과 좋다?!]]></title>
-        <id>https://v.daum.net/v/20220314070102460</id>
-        <link href="https://v.daum.net/v/20220314070102460"/>
-        <updated>2022-03-14T01:22:24.899Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[글로벌 비즈] EU·英, 구글·메타 디지털 광고 담합 '제다이 블루' 조사]]></title>
-        <id>https://v.daum.net/v/20220314064206210</id>
-        <link href="https://v.daum.net/v/20220314064206210"/>
-        <updated>2022-03-14T01:22:24.900Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
