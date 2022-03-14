@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-14T14:22:50.452Z</updated>
+    <updated>2022-03-14T15:25:56.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220314223347313"/>
         <updated>2022-03-14T14:22:10.162Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연봉공개] 크래프톤 김창한 대표, 21억 수령..김효섭 전 대표는 218억]]></title>
+        <id>https://v.daum.net/v/20220314175134494</id>
+        <link href="https://v.daum.net/v/20220314175134494"/>
+        <updated>2022-03-14T15:25:16.078Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[과학계 "새 정부, 민간 중심 거버넌스로 과기 정책 추진해야"]]></title>
+        <id>https://v.daum.net/v/20220314174849405</id>
+        <link href="https://v.daum.net/v/20220314174849405"/>
+        <updated>2022-03-14T15:25:16.080Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 정부, 온플법 원점 재검토?..與野, 입법 대결 예고]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220314160615059"/>
         <updated>2022-03-14T09:22:30.734Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유전자 가위 이용해 에이즈, 간염도 1시간 내에 진단]]></title>
-        <id>https://v.daum.net/v/20220314160601038</id>
-        <link href="https://v.daum.net/v/20220314160601038"/>
-        <updated>2022-03-14T08:26:57.198Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[새 정부에 바라는 10대 어젠다] 통신시장 변화 맞는 유연한 규제, 융합 활성화 과제]]></title>
-        <id>https://v.daum.net/v/20220314160133858</id>
-        <link href="https://v.daum.net/v/20220314160133858"/>
-        <updated>2022-03-14T08:26:57.199Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
