@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-03-14T17:25:42.877Z</updated>
+    <updated>2022-03-14T18:26:17.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반전의 솥뚜껑, 뒤집혀야 제맛]]></title>
+        <id>https://v.daum.net/v/20220315030429987</id>
+        <link href="https://v.daum.net/v/20220315030429987"/>
+        <updated>2022-03-14T18:25:04.523Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팬데믹에 막힌 '이동의 자유'에 초점 "당신은 자유롭게 이동할수 있습니까"]]></title>
+        <id>https://v.daum.net/v/20220315030130851</id>
+        <link href="https://v.daum.net/v/20220315030130851"/>
+        <updated>2022-03-14T18:25:04.524Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다시 돌아온 봄, 풍성한 클래식 축제무대]]></title>
         <id>https://v.daum.net/v/20220315010619536</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220315001043168"/>
         <updated>2022-03-14T15:24:39.093Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그물망처럼 얽힌 바이올린..조각, 그려지다]]></title>
-        <id>https://v.daum.net/v/20220314223412325</id>
-        <link href="https://v.daum.net/v/20220314223412325"/>
-        <updated>2022-03-14T14:21:37.446Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 큰 일교차 대비..짙은 안개·미세먼지 농도 ↑]]></title>
-        <id>https://v.daum.net/v/20220314205810237</id>
-        <link href="https://v.daum.net/v/20220314205810237"/>
-        <updated>2022-03-14T17:24:30.299Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
