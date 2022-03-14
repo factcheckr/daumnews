@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-14T20:25:06.734Z</updated>
+    <updated>2022-03-14T21:22:04.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바이올린 영재의 꿈 앗아갔던 화재.. "그래도 음악이 있어 다시 일어섰다"]]></title>
+        <id>https://v.daum.net/v/20220315043640354</id>
+        <link href="https://v.daum.net/v/20220315043640354"/>
+        <updated>2022-03-14T21:21:01.686Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이 빛과 색을 잡고.. 다시 돌아오는 데 32년이 걸렸다]]></title>
         <id>https://v.daum.net/v/20220315033034093</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220314223412325"/>
         <updated>2022-03-14T18:25:15.559Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 큰 일교차 대비..짙은 안개·미세먼지 농도 ↑]]></title>
-        <id>https://v.daum.net/v/20220314205810237</id>
-        <link href="https://v.daum.net/v/20220314205810237"/>
-        <updated>2022-03-14T18:25:15.559Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
