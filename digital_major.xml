@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-14T02:44:37.983Z</updated>
+    <updated>2022-03-14T03:26:24.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[게임업계 신흥강자 'SK2'.. 글로벌 무대도 종횡무진]]></title>
+        <id>https://v.daum.net/v/20220314102022406</id>
+        <link href="https://v.daum.net/v/20220314102022406"/>
+        <updated>2022-03-14T03:25:43.575Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머스크의 우크라이나 우주인터넷 긴급지원 '막전막후']]></title>
         <id>https://v.daum.net/v/20220314100605782</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220314064206210"/>
         <updated>2022-03-14T01:22:24.900Z</updated>
         <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5G 스마트폰 총 트래픽이 LTE의 갑절..품질개선은 언제?]]></title>
-        <id>https://v.daum.net/v/20220314061837989</id>
-        <link href="https://v.daum.net/v/20220314061837989"/>
-        <updated>2022-03-14T01:22:24.901Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
