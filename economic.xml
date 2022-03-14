@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-03-14T16:32:42.844Z</updated>
+    <updated>2022-03-14T17:25:42.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[통상본부장 "한미FTA는 게임체인저..IPEF, 좋은 플랫폼 될 것"]]></title>
+        <id>https://v.daum.net/v/20220315014417687</id>
+        <link href="https://v.daum.net/v/20220315014417687"/>
+        <updated>2022-03-14T17:23:48.279Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2거래일 연속 신저가 LG에너지솔루션 주가 반등은 언제]]></title>
         <id>https://v.daum.net/v/20220315001011137</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220314230104522"/>
         <updated>2022-03-14T14:20:54.863Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나에 전쟁에 사룟값 상승..축산농가 시름 깊어져]]></title>
-        <id>https://v.daum.net/v/20220314220239038</id>
-        <link href="https://v.daum.net/v/20220314220239038"/>
-        <updated>2022-03-14T13:26:31.147Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-03-14T16:32:42.865Z</updated>
+    <updated>2022-03-14T17:25:42.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://v.daum.net/v/20220315010619536"/>
         <updated>2022-03-14T16:31:31.800Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모든 약은 '간'에 부담? 특히 안 좋은 약물은..]]></title>
-        <id>https://v.daum.net/v/20220315010015439</id>
-        <link href="https://v.daum.net/v/20220315010015439"/>
-        <updated>2022-03-14T16:31:31.801Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬로 다시 그리는 김유정의 봄]]></title>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20220314223412325"/>
         <updated>2022-03-14T14:21:37.446Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 큰 일교차 대비..짙은 안개·미세먼지 농도 ↑]]></title>
+        <id>https://v.daum.net/v/20220314205810237</id>
+        <link href="https://v.daum.net/v/20220314205810237"/>
+        <updated>2022-03-14T17:24:30.299Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
