@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-15T03:24:55.255Z</updated>
+    <updated>2022-03-15T04:29:48.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["배터리도 카메라도 기대 이하".. 아이폰SE3에 쏟아진 혹평]]></title>
+        <id>https://v.daum.net/v/20220315105626113</id>
+        <link href="https://v.daum.net/v/20220315105626113"/>
+        <updated>2022-03-15T04:28:59.337Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KIST "초미세먼지 줄이는 금속화합물 촉매 개발"]]></title>
         <id>https://v.daum.net/v/20220315120107022</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정부는 3월 중순 37만명 정점 예상했지만.. "최대 50만명 쏟아질 것"]]></title>
+        <title type="html"><![CDATA[정부는 3월 중순 37만명 정점 예상했지만.. "최대 40~50만명 쏟아질 것"]]></title>
         <id>https://v.daum.net/v/20220315115600778</id>
         <link href="https://v.daum.net/v/20220315115600778"/>
         <updated>2022-03-15T03:24:04.612Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220315105023852"/>
         <updated>2022-03-15T02:45:02.265Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화이자 CEO "일반인도 코로나19 4차 접종 필요"]]></title>
-        <id>https://v.daum.net/v/20220315102954938</id>
-        <link href="https://v.daum.net/v/20220315102954938"/>
-        <updated>2022-03-15T02:45:02.266Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
