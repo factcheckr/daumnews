@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-15T18:27:56.108Z</updated>
+    <updated>2022-03-15T19:20:40.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[좁쌀만한 이 녀석 때문에..당신도 탈탈 털릴 수 있습니다]]></title>
+        <id>https://v.daum.net/v/20220316040300217</id>
+        <link href="https://v.daum.net/v/20220316040300217"/>
+        <updated>2022-03-15T19:19:53.558Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["정부가 국민 데이터 분석, 맞춤형 복지 제공"]]></title>
         <id>https://v.daum.net/v/20220316030420090</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220315200001881"/>
         <updated>2022-03-15T11:19:47.193Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구글갑질방지법' 시행에 버티는 애플..방통위, "법 위반 사실조사 검토"]]></title>
-        <id>https://v.daum.net/v/20220315194840694</id>
-        <link href="https://v.daum.net/v/20220315194840694"/>
-        <updated>2022-03-15T11:19:47.194Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
