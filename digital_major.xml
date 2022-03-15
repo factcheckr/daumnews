@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-15T04:29:48.220Z</updated>
+    <updated>2022-03-15T05:21:55.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘부터 구글·애플 갑질방지법 시행..꼼수·회피 여전]]></title>
+        <id>https://v.daum.net/v/20220315105114890</id>
+        <link href="https://v.daum.net/v/20220315105114890"/>
+        <updated>2022-03-15T05:21:17.175Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["마스크 써도 아이폰 잠금 풀린다"..애플, iOS 15.4 공개]]></title>
+        <id>https://v.daum.net/v/20220315105023852</id>
+        <link href="https://v.daum.net/v/20220315105023852"/>
+        <updated>2022-03-15T05:21:17.175Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화이자 CEO "일반인도 코로나19 4차 접종 필요"]]></title>
         <id>https://v.daum.net/v/20220315102954938</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220315093011465"/>
         <updated>2022-03-15T02:45:13.385Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메타 "페이스북에 푸틴 암살선동 글 불허"]]></title>
-        <id>https://v.daum.net/v/20220315091120834</id>
-        <link href="https://v.daum.net/v/20220315091120834"/>
-        <updated>2022-03-15T01:24:24.476Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 코로나19 재확산..모더나 등 백신개발사 주가 급등]]></title>
-        <id>https://v.daum.net/v/20220315085803349</id>
-        <link href="https://v.daum.net/v/20220315085803349"/>
-        <updated>2022-03-15T01:24:24.477Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
