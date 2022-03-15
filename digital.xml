@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-15T17:23:39.798Z</updated>
+    <updated>2022-03-15T18:27:56.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["정부가 국민 데이터 분석, 맞춤형 복지 제공"]]></title>
+        <id>https://v.daum.net/v/20220316030420090</id>
+        <link href="https://v.daum.net/v/20220316030420090"/>
+        <updated>2022-03-15T18:27:04.499Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이거 진짜 광고 맞아요?"..유튜브보다 재밌는 광고에 MZ세대 열광]]></title>
         <id>https://v.daum.net/v/20220316001203326</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220315194840694"/>
         <updated>2022-03-15T11:19:47.194Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["AI도 진정한 친구가 될 수 있다", 돌아온 이루다2.0]]></title>
-        <id>https://v.daum.net/v/20220315190903860</id>
-        <link href="https://v.daum.net/v/20220315190903860"/>
-        <updated>2022-03-15T10:25:47.109Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
