@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2022-03-16T16:31:48.668Z</updated>
+    <updated>2022-03-16T17:23:56.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현대산업개발 '처벌' 속도..관련 법 논의는 '뒷전']]></title>
-        <id>https://v.daum.net/v/20220316222906393</id>
-        <link href="https://v.daum.net/v/20220316222906393"/>
-        <updated>2022-03-16T15:22:24.263Z</updated>
-        <content type="html"><![CDATA[kbc광주방송]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[인수위 '이명박·박근혜계' 포진..민주당 "실패 재탕"]]></title>
         <id>https://v.daum.net/v/20220317011007741</id>
         <link href="https://v.daum.net/v/20220317011007741"/>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220317002015402"/>
         <updated>2022-03-16T16:29:39.444Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북한 'ICBM 추정' 미사일 발사..20km 미만 고도서 공중폭발]]></title>
+        <id>https://v.daum.net/v/20220317001724378</id>
+        <link href="https://v.daum.net/v/20220317001724378"/>
+        <updated>2022-03-16T17:21:48.372Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
