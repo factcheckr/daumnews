@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-16T09:22:29.261Z</updated>
+    <updated>2022-03-16T10:24:24.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA['온플법' 원점 재검토 힘 실리나..이달 말 쟁점화 예고]]></title>
-        <id>https://v.daum.net/v/20220316171141725</id>
-        <link href="https://v.daum.net/v/20220316171141725"/>
-        <updated>2022-03-16T09:21:50.654Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[과기정통부 분리되나..인수위 ICT 홀대론 쏟아져]]></title>
         <id>https://v.daum.net/v/20220316170233411</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220316144703201"/>
         <updated>2022-03-16T07:22:26.733Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['온라인 쇼핑' 고속 확산에 물가도 상승세]]></title>
+        <id>https://v.daum.net/v/20220316141240653</id>
+        <link href="https://v.daum.net/v/20220316141240653"/>
+        <updated>2022-03-16T10:23:42.771Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
