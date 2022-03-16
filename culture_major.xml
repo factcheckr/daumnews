@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-16T11:20:16.182Z</updated>
+    <updated>2022-03-16T12:36:38.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미술소식] 이지현 아라리오갤러리 개인전 '레드씬']]></title>
+        <id>https://v.daum.net/v/20220316175915127</id>
+        <link href="https://v.daum.net/v/20220316175915127"/>
+        <updated>2022-03-16T12:35:36.131Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[암호화폐 투자자들이 산 국보..간송 재단에 지분 51% 기부?]]></title>
         <id>https://v.daum.net/v/20220316181421601</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220316173637510"/>
         <updated>2022-03-16T09:21:30.328Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아프리카 최초 사진가' 제임스 바너, 한국 첫 개인전]]></title>
-        <id>https://v.daum.net/v/20220316170757609</id>
-        <link href="https://v.daum.net/v/20220316170757609"/>
-        <updated>2022-03-16T09:21:30.328Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
