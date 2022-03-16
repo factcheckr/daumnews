@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-16T02:50:11.093Z</updated>
+    <updated>2022-03-16T03:26:51.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[메타, GDPR 위반 혐의로 유럽서 231억 벌금]]></title>
-        <id>https://v.daum.net/v/20220316091212617</id>
-        <link href="https://v.daum.net/v/20220316091212617"/>
-        <updated>2022-03-16T02:49:31.427Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[美中 디지털통화 경쟁.."韓 금융기관들도 CBDC 관심"]]></title>
         <id>https://v.daum.net/v/20220316090211212</id>
@@ -73,6 +66,13 @@
         <id>https://v.daum.net/v/20220316060055827</id>
         <link href="https://v.daum.net/v/20220316060055827"/>
         <updated>2022-03-15T22:24:20.804Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 제재에 中 '반도체 굴기' 타격.. 삼성전자엔 유리한 상황]]></title>
+        <id>https://v.daum.net/v/20220316060034793</id>
+        <link href="https://v.daum.net/v/20220316060034793"/>
+        <updated>2022-03-16T03:26:11.302Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
