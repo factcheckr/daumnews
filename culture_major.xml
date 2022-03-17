@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-17T20:24:05.661Z</updated>
+    <updated>2022-03-17T21:20:47.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[같은 가치를 바탕으로, 같이 갑시다]]></title>
+        <id>https://v.daum.net/v/20220318030550807</id>
+        <link href="https://v.daum.net/v/20220318030550807"/>
+        <updated>2022-03-17T21:19:43.580Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소파 위에 장난감 두면 잡기 위해 일어설 거예요]]></title>
         <id>https://v.daum.net/v/20220318030210648</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220317183615922"/>
         <updated>2022-03-17T15:30:34.837Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포켓이슈] 자가키트 두 줄 떠도 '쉬쉬'..샤이 오미크론도 덩달아 급증]]></title>
-        <id>https://v.daum.net/v/20220317175946108</id>
-        <link href="https://v.daum.net/v/20220317175946108"/>
-        <updated>2022-03-17T15:30:34.838Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
