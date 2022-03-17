@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-03-17T18:27:33.488Z</updated>
+    <updated>2022-03-17T19:20:19.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220318030646830"/>
         <updated>2022-03-17T18:25:44.168Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[집값 들썩에.. 서울 4곳 '거래허가구역' 재지정 유력]]></title>
+        <id>https://v.daum.net/v/20220318030057595</id>
+        <link href="https://v.daum.net/v/20220318030057595"/>
+        <updated>2022-03-17T19:18:35.369Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[산업부 장관 만난 K배터리 "공급망 위기, 정부지원 절실" 한목소리]]></title>
+        <id>https://v.daum.net/v/20220318001506975</id>
+        <link href="https://v.daum.net/v/20220318001506975"/>
+        <updated>2022-03-17T19:18:35.369Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무주택 28만명 불구 2만채 1년이상 빈집 방치]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220318020211478"/>
         <updated>2022-03-17T18:25:44.182Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이 아저씨들 진짜 멱살이라도.." 안희정 부친상 與 조문 직격]]></title>
-        <id>https://v.daum.net/v/20220318012046306</id>
-        <link href="https://v.daum.net/v/20220318012046306"/>
-        <updated>2022-03-17T16:30:53.573Z</updated>
-        <content type="html"><![CDATA[대전일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[View & Review] DSR 어찌하리오, LTV만 풀어선 대출금액 거기서 거기]]></title>
-        <id>https://v.daum.net/v/20220318000512821</id>
-        <link href="https://v.daum.net/v/20220318000512821"/>
-        <updated>2022-03-17T18:25:44.184Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
