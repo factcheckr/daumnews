@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-17T19:20:19.909Z</updated>
+    <updated>2022-03-17T20:24:05.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220318030129613"/>
         <updated>2022-03-17T18:26:53.066Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[달콤한 사이언스] 북극해의 미세플라스틱 오염, 10년 전부터 시작됐다]]></title>
+        <id>https://v.daum.net/v/20220318010102143</id>
+        <link href="https://v.daum.net/v/20220318010102143"/>
+        <updated>2022-03-17T20:23:27.326Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[원주 공공기관 업무과중 호소.."확진돼 쉬고 싶다"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220317182803788"/>
         <updated>2022-03-17T15:30:55.596Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["코로나 걸렸는데, 오미크론 또?"..확진자 폭증에 재감염 공포 커져]]></title>
-        <id>https://v.daum.net/v/20220317175329955</id>
-        <link href="https://v.daum.net/v/20220317175329955"/>
-        <updated>2022-03-17T15:30:55.596Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
