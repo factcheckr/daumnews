@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-03-18T14:21:51.552Z</updated>
+    <updated>2022-03-18T15:24:17.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[17년 만에 환승 할인 시행..교통비 부담 ↓]]></title>
+        <id>https://v.daum.net/v/20220318215208410</id>
+        <link href="https://v.daum.net/v/20220318215208410"/>
+        <updated>2022-03-18T15:22:34.642Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[농민 3중고..일손 부족에 인건비·재료비 상승]]></title>
         <id>https://v.daum.net/v/20220318214912372</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220318203509560"/>
         <updated>2022-03-18T13:26:14.550Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스하이킥] 김헌동 SH사장 "법 개정시 반값아파트 올 하반기 공급 가능"]]></title>
-        <id>https://v.daum.net/v/20220318202455433</id>
-        <link href="https://v.daum.net/v/20220318202455433"/>
-        <updated>2022-03-18T13:26:14.551Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
