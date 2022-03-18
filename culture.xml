@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-03-18T17:24:07.007Z</updated>
+    <updated>2022-03-18T18:27:26.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["우주탐사·기후변화.. 글로벌 난제 도전할 토대 마련해주길"]]></title>
+        <id>https://v.daum.net/v/20220319030035226</id>
+        <link href="https://v.daum.net/v/20220319030035226"/>
+        <updated>2022-03-18T18:26:15.891Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[취재 파일] 북한산에서, 당선인에게]]></title>
         <id>https://v.daum.net/v/20220319002628720</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220318222315761"/>
         <updated>2022-03-18T13:26:47.059Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한산성 보국문·대동문 30년 만에 해체 보수]]></title>
-        <id>https://v.daum.net/v/20220318213916273</id>
-        <link href="https://v.daum.net/v/20220318213916273"/>
-        <updated>2022-03-18T13:26:47.061Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
