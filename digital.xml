@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-18T13:28:00.106Z</updated>
+    <updated>2022-03-18T14:21:51.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원전 수소제거장치 실험서 압력도 증가.."안전성 검증해야"]]></title>
+        <id>https://v.daum.net/v/20220318220203527</id>
+        <link href="https://v.daum.net/v/20220318220203527"/>
+        <updated>2022-03-18T14:20:57.348Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["괘씸해도 '살 폰'이 없어요" 허리 숙인 삼성, 놀라운 반전?]]></title>
         <id>https://v.daum.net/v/20220318195147065</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220318181249858"/>
         <updated>2022-03-18T09:22:13.163Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['S급 카메라' 갤럭시A53 써보니..'다재다능 하네']]></title>
-        <id>https://v.daum.net/v/20220318174310211</id>
-        <link href="https://v.daum.net/v/20220318174310211"/>
-        <updated>2022-03-18T09:22:13.164Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
