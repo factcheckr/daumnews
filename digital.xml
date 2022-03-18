@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-18T09:23:02.697Z</updated>
+    <updated>2022-03-18T10:26:01.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글, "인앱결제 미준수시 6월부터 앱마켓서 삭제"]]></title>
+        <id>https://v.daum.net/v/20220318182556119</id>
+        <link href="https://v.daum.net/v/20220318182556119"/>
+        <updated>2022-03-18T10:25:05.048Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["화이자 못 따라잡아" "가격 낮추면 승산"..국산 먹는 코로나19 치료제 엇갈린 평가]]></title>
         <id>https://v.daum.net/v/20220318181649954</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220318172005674"/>
         <updated>2022-03-18T08:26:32.425Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["미디어 빠르게 변해..'독임부처' 필요하다"]]></title>
-        <id>https://v.daum.net/v/20220318171747616</id>
-        <link href="https://v.daum.net/v/20220318171747616"/>
-        <updated>2022-03-18T08:26:32.426Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
