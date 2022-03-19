@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-19T02:42:50.139Z</updated>
+    <updated>2022-03-19T03:24:09.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[회상 회의에 참여한 고양이씨 "이게 최선이냥?"]]></title>
+        <id>https://v.daum.net/v/20220319103005105</id>
+        <link href="https://v.daum.net/v/20220319103005105"/>
+        <updated>2022-03-19T03:23:05.339Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유통떡상]"참을만큼 참았다"..한국 떠나는 소비자들]]></title>
         <id>https://v.daum.net/v/20220319101510945</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220319061131582"/>
         <updated>2022-03-18T23:22:41.924Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한주의 제약바이오]한미사이언스, 송영숙 회장 단독체제로]]></title>
-        <id>https://v.daum.net/v/20220319060024335</id>
-        <link href="https://v.daum.net/v/20220319060024335"/>
-        <updated>2022-03-18T22:22:33.908Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
