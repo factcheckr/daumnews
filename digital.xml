@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-19T08:26:08.622Z</updated>
+    <updated>2022-03-19T09:22:26.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["'한국 약빨' 떨어지니 난리났네" 넷플릭스 '돈독' 알고보니]]></title>
+        <id>https://v.daum.net/v/20220319175726025</id>
+        <link href="https://v.daum.net/v/20220319175726025"/>
+        <updated>2022-03-19T09:21:33.943Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["봄비다.기분 좋다!" 그래도 지금 비 맞으면 큰일난다]]></title>
         <id>https://v.daum.net/v/20220319114137837</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220319100013753"/>
         <updated>2022-03-19T04:27:58.291Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[59만원·일주일차 출시..닮아가는 갤A53·아이폰SE3 '중저가폰 혈투']]></title>
-        <id>https://v.daum.net/v/20220319100003736</id>
-        <link href="https://v.daum.net/v/20220319100003736"/>
-        <updated>2022-03-19T04:27:58.292Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
