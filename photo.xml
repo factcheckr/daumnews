@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-03-20T18:26:46.532Z</updated>
+    <updated>2022-03-20T19:18:41.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테니스장에 나타난 빌 게이츠]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1476/EbxtWiObpE</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1476/EbxtWiObpE"/>
+        <updated>2022-03-20T19:18:11.027Z</updated>
+        <content type="html"><![CDATA[미국은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기분 좋아지는 커피]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/EWatiEgUS2</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/31583/EWATgHNdga"/>
         <updated>2022-03-20T02:41:42.799Z</updated>
         <content type="html"><![CDATA[인천공항 풍경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나달, BNP 파리바 결승행..9년 만에 우승 노려]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1476/EoWanEWGfr</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1476/EoWanEWGfr"/>
-        <updated>2022-03-20T02:41:42.800Z</updated>
-        <content type="html"><![CDATA[미국은 지금]]></content>
     </entry>
 </feed>
