@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-20T03:23:45.140Z</updated>
+    <updated>2022-03-20T04:29:20.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나19 정점 지났나..전국 33만명대,전날보다 4만6746명 감소]]></title>
+        <id>https://v.daum.net/v/20220320110027753</id>
+        <link href="https://v.daum.net/v/20220320110027753"/>
+        <updated>2022-03-20T04:28:43.424Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 은행, 러시아 주재원 가족에 긴급 대출]]></title>
         <id>https://v.daum.net/v/20220320094913620</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220320120032032"/>
         <updated>2022-03-20T03:23:03.235Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기술기업, 차기정부에 "R&D 강화, 규제개혁 최우선 과제"]]></title>
-        <id>https://v.daum.net/v/20220320120005961</id>
-        <link href="https://v.daum.net/v/20220320120005961"/>
-        <updated>2022-03-20T03:23:03.245Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
