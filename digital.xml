@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-20T07:21:17.511Z</updated>
+    <updated>2022-03-20T08:26:09.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["세번 실패는 없다" 이해진·김범수, 日서 누가 승기 잡나]]></title>
+        <id>https://v.daum.net/v/20220320171208292</id>
+        <link href="https://v.daum.net/v/20220320171208292"/>
+        <updated>2022-03-20T08:25:17.853Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성 이어 LG전자도 러시아 선적 중단..커지는 '전쟁 리스크']]></title>
+        <id>https://v.daum.net/v/20220320170906236</id>
+        <link href="https://v.daum.net/v/20220320170906236"/>
+        <updated>2022-03-20T08:25:17.857Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 연구진, 접혔다 펴지며 암세포 직접 뚫는 '나노머신' 개발했다]]></title>
         <id>https://v.daum.net/v/20220320150150139</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220320122850496"/>
         <updated>2022-03-20T04:28:33.543Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사이언스온고지신]미래를 위한 신재생에너지, 페로브스카이트 태양전지]]></title>
-        <id>https://v.daum.net/v/20220320120157109</id>
-        <link href="https://v.daum.net/v/20220320120157109"/>
-        <updated>2022-03-20T03:22:51.484Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[과학핫이슈]보이지 않는 내부 어디든 본다..'뮤온'의 비밀]]></title>
-        <id>https://v.daum.net/v/20220320120128086</id>
-        <link href="https://v.daum.net/v/20220320120128086"/>
-        <updated>2022-03-20T03:22:51.485Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
