@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2022-03-20T13:25:35.506Z</updated>
+    <updated>2022-03-20T14:21:54.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20220320213751096"/>
         <updated>2022-03-20T13:23:16.583Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잿더미에서 다시 태어난 배움터..온정의 물결]]></title>
+        <id>https://v.daum.net/v/20220320213634071</id>
+        <link href="https://v.daum.net/v/20220320213634071"/>
+        <updated>2022-03-20T14:19:39.457Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2분기 전기료 공개 일정 하루 전 연기..인상 계획 미루나?]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220320210837790"/>
         <updated>2022-03-20T13:23:16.592Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[접종 완료한 해외 입국자 내일부터 '격리 면제']]></title>
-        <id>https://v.daum.net/v/20220320205703662</id>
-        <link href="https://v.daum.net/v/20220320205703662"/>
-        <updated>2022-03-20T13:23:16.593Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
