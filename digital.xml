@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-20T12:34:44.913Z</updated>
+    <updated>2022-03-20T13:25:35.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[59억마리..꿀벌은 왜 사라졌을까]]></title>
+        <id>https://v.daum.net/v/20220320214030129</id>
+        <link href="https://v.daum.net/v/20220320214030129"/>
+        <updated>2022-03-20T13:24:46.730Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인터넷 제공하고 SNS 여론전 펼치고..러시아에 맞서는 'IT의 힘']]></title>
         <id>https://v.daum.net/v/20220320183002420</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220320170906236"/>
         <updated>2022-03-20T08:25:17.857Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 연구진, 접혔다 펴지며 암세포 직접 뚫는 '나노머신' 개발했다]]></title>
-        <id>https://v.daum.net/v/20220320150150139</id>
-        <link href="https://v.daum.net/v/20220320150150139"/>
-        <updated>2022-03-20T06:26:22.640Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
