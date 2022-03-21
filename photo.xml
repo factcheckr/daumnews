@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-03-21T17:23:30.385Z</updated>
+    <updated>2022-03-21T18:27:47.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[학생들의 소망]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/EaUCJwO6Bh</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/EaUCJwO6Bh"/>
+        <updated>2022-03-21T18:27:25.970Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이수지 작가 '아동문학 노벨상' 안데르센상 영예]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029622/EtNJwthe5b</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1655174/EqyXg7gOXG"/>
         <updated>2022-03-21T07:21:30.627Z</updated>
         <content type="html"><![CDATA[그리스는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울을 깨끗하게, 한강을 깨끗하게]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1461/EwgpUCjb7z</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1461/EwgpUCjb7z"/>
-        <updated>2022-03-21T07:21:30.628Z</updated>
-        <content type="html"><![CDATA[서울의 풍경]]></content>
     </entry>
 </feed>
