@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2022-03-21T12:36:14.175Z</updated>
+    <updated>2022-03-21T13:29:15.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,27 @@
         <link href="https://v.daum.net/v/20220321212100812"/>
         <updated>2022-03-21T12:34:39.470Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["대선 불복" "레임덕 아닌 취임덕"..대선 12일만에 전면전]]></title>
+        <id>https://v.daum.net/v/20220321211859789</id>
+        <link href="https://v.daum.net/v/20220321211859789"/>
+        <updated>2022-03-21T13:27:37.307Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['여론수렴 어떻게' vs '기자도 모르면서' 기자-인수위 날선 공방]]></title>
+        <id>https://v.daum.net/v/20220321211801779</id>
+        <link href="https://v.daum.net/v/20220321211801779"/>
+        <updated>2022-03-21T13:27:37.308Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍준표, '이중 페널티' 반발.."손발 다 묶어놓고 어떻게 공정 경선"]]></title>
+        <id>https://v.daum.net/v/20220321205930520</id>
+        <link href="https://v.daum.net/v/20220321205930520"/>
+        <updated>2022-03-21T13:27:37.309Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[상석 없는 원탁에서..윤 당선인 재계와 상견례]]></title>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20220321210212565"/>
         <updated>2022-03-21T12:34:39.489Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤 당선인, 경제단체장 오찬서 기업인 '핫라인' 약속]]></title>
-        <id>https://v.daum.net/v/20220321204819354</id>
-        <link href="https://v.daum.net/v/20220321204819354"/>
-        <updated>2022-03-21T12:34:39.490Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['윤핵관' 전면에..공관위원장 정진석·인재영입 권성동(종합2보)]]></title>
-        <id>https://v.daum.net/v/20220321203737194</id>
-        <link href="https://v.daum.net/v/20220321203737194"/>
-        <updated>2022-03-21T12:34:39.491Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍준표 "낙향하는 데도 발목 잡나..김재원, 사리사욕으로 분탕질"(종합)]]></title>
-        <id>https://v.daum.net/v/20220321203233080</id>
-        <link href="https://v.daum.net/v/20220321203233080"/>
-        <updated>2022-03-21T12:34:39.493Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
