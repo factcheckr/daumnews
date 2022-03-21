@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-03-21T13:29:15.755Z</updated>
+    <updated>2022-03-21T14:21:15.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["올해 집값 오른다"..재건축·재개발 시장이 상승 주도]]></title>
+        <id>https://v.daum.net/v/20220321231005952</id>
+        <link href="https://v.daum.net/v/20220321231005952"/>
+        <updated>2022-03-21T14:19:53.780Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[출퇴근 '교통 지옥' 1위? 서울·수도권 아닙니다]]></title>
         <id>https://v.daum.net/v/20220321221852564</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220321213950077"/>
         <updated>2022-03-21T13:27:45.618Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구·경북 신규 확진 만 명 아래로..'스텔스 오미크론' 변수]]></title>
-        <id>https://v.daum.net/v/20220321213928074</id>
-        <link href="https://v.daum.net/v/20220321213928074"/>
-        <updated>2022-03-21T13:27:45.620Z</updated>
-        <content type="html"><![CDATA[대구MBC]]></content>
     </entry>
 </feed>
