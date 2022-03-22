@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-03-22T12:38:05.671Z</updated>
+    <updated>2022-03-22T13:29:30.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['80원 차이' 휘발유값 된 경유값..관련 업계 직격탄]]></title>
+        <id>https://v.daum.net/v/20220322214652506</id>
+        <link href="https://v.daum.net/v/20220322214652506"/>
+        <updated>2022-03-22T13:28:39.017Z</updated>
+        <content type="html"><![CDATA[대구MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[염증에 대한 오해와 진실 4]]></title>
         <id>https://v.daum.net/v/20220322213104301</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220322180409302"/>
         <updated>2022-03-22T09:21:05.046Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안중근 의사 사형 직전까지 붙든 '가족 사진첩' 고국 왔다]]></title>
-        <id>https://v.daum.net/v/20220322175602020</id>
-        <link href="https://v.daum.net/v/20220322175602020"/>
-        <updated>2022-03-22T09:21:05.059Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
