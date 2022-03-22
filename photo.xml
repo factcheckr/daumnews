@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-03-22T21:20:53.002Z</updated>
+    <updated>2022-03-22T22:22:17.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한, 헌신적 업무태도 강조.."어려운 조건 속에서도"]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1489/ErqSORmX7d</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1489/ErqSORmX7d"/>
+        <updated>2022-03-22T22:21:52.776Z</updated>
+        <content type="html"><![CDATA[북한은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["친구들아 어서 돌아오렴"]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5032452/EP9KhPbXVm</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1518/EHEBjBU41J"/>
         <updated>2022-03-22T09:21:34.368Z</updated>
         <content type="html"><![CDATA[전국 화재사고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스피, 0.89% 오른 2,710 마감]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5031020/EyUBs2xAr5</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5031020/EyUBs2xAr5"/>
-        <updated>2022-03-22T08:27:01.001Z</updated>
-        <content type="html"><![CDATA[코스피 &amp; 코스닥]]></content>
     </entry>
 </feed>
