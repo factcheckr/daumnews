@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-22T17:27:11.416Z</updated>
+    <updated>2022-03-22T18:26:46.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한달 평균 26GB 쓰는 한국인, 요금은 110GB 7만원 냅니다]]></title>
+        <id>https://v.daum.net/v/20220323030235673</id>
+        <link href="https://v.daum.net/v/20220323030235673"/>
+        <updated>2022-03-22T18:26:06.840Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이러다 삼성·LG 난리 나겠네" 애플, 2년 만에 신무기 큰 위협?]]></title>
         <id>https://v.daum.net/v/20220322165345845</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220322180302265"/>
         <updated>2022-03-22T09:21:20.058Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금호석유화학 '조카의 난' 2라운드 격화..박철완 주장 '의결권행사금지' 기각]]></title>
-        <id>https://v.daum.net/v/20220322180124223</id>
-        <link href="https://v.daum.net/v/20220322180124223"/>
-        <updated>2022-03-22T09:21:20.059Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>

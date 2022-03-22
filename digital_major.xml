@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-22T17:27:11.415Z</updated>
+    <updated>2022-03-22T18:26:46.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220323001133877"/>
         <updated>2022-03-22T15:23:50.501Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금호석유화학 '조카의 난' 2라운드 격화..박철완 주장 '의결권행사금지' 기각]]></title>
+        <id>https://v.daum.net/v/20220322180124223</id>
+        <link href="https://v.daum.net/v/20220322180124223"/>
+        <updated>2022-03-22T18:26:15.190Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인건비에 발목잡힌 네카오..돈 잘 벌어도 이익률 줄어간다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220322162629009"/>
         <updated>2022-03-22T08:26:54.094Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기부총리 부활? 과기정통부 해체?..캠프 인사들은 '회의론']]></title>
-        <id>https://v.daum.net/v/20220322161922772</id>
-        <link href="https://v.daum.net/v/20220322161922772"/>
-        <updated>2022-03-22T08:26:54.096Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>

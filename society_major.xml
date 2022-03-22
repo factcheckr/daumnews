@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2022-03-22T17:27:11.401Z</updated>
+    <updated>2022-03-22T18:26:46.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://v.daum.net/v/20220323001055843"/>
         <updated>2022-03-22T15:22:37.536Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["공유 킥보드, 반납 금지 구역 설정하고 1시간 안에 견인"]]></title>
+        <id>https://v.daum.net/v/20220323000946788</id>
+        <link href="https://v.daum.net/v/20220323000946788"/>
+        <updated>2022-03-22T18:24:55.363Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5인 미만 업체 '여성·고령·비정규직' 다수..노동 사각 우려]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220323000247645"/>
         <updated>2022-03-22T15:22:37.541Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[결혼 안 하는 MZ]①"내 삶 살고파" "돈 없어서"..절반 이상이 "결혼? 글쎄요"]]></title>
-        <id>https://v.daum.net/v/20220323000208632</id>
-        <link href="https://v.daum.net/v/20220323000208632"/>
-        <updated>2022-03-22T15:22:37.544Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
