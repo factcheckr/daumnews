@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-03-23T17:23:24.152Z</updated>
+    <updated>2022-03-23T18:27:43.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고백 연습]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/E1Zy7p9Gka</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/E1Zy7p9Gka"/>
+        <updated>2022-03-23T18:27:18.268Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本紙 남강호 기자 '이달의 보도사진상']]></title>
+        <id>https://gallery.v.daum.net/p/viewer/2323/ECyooGVYcA</id>
+        <link href="https://gallery.v.daum.net/p/viewer/2323/ECyooGVYcA"/>
+        <updated>2022-03-23T18:27:18.269Z</updated>
+        <content type="html"><![CDATA[보도사진상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도로교통공단, 어린이 교통안전 캠페인]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1783949/E7PIMWG8aP</id>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1127178/EqgHOlgVS8"/>
         <updated>2022-03-23T06:28:33.146Z</updated>
         <content type="html"><![CDATA[기자의 일상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소녀상 둘러싼 두 목소리]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/26948/EA0IWsc0nK</id>
-        <link href="https://gallery.v.daum.net/p/viewer/26948/EA0IWsc0nK"/>
-        <updated>2022-03-23T04:27:50.874Z</updated>
-        <content type="html"><![CDATA[평화의 소녀상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아던 총리 "25일부터 코로나19 백신 패스 폐지"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5032123/EjFtM3Uphn</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5032123/EjFtM3Uphn"/>
-        <updated>2022-03-23T04:27:50.875Z</updated>
-        <content type="html"><![CDATA[뉴질랜드는 지금]]></content>
     </entry>
 </feed>

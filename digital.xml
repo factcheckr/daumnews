@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-23T17:23:24.317Z</updated>
+    <updated>2022-03-23T18:27:43.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글 '꼼수 대응'에 인앱결제 공방 2R]]></title>
+        <id>https://v.daum.net/v/20220324030429192</id>
+        <link href="https://v.daum.net/v/20220324030429192"/>
+        <updated>2022-03-23T18:27:03.320Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알리바바·텐센트 직원들 짐싼다.. 中빅테크 해고 칼바람]]></title>
+        <id>https://v.daum.net/v/20220324030332141</id>
+        <link href="https://v.daum.net/v/20220324030332141"/>
+        <updated>2022-03-23T18:27:03.321Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세상에 없던 물질, 팔라듐 수소화물 만들었다]]></title>
         <id>https://v.daum.net/v/20220324010044615</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220324010000606"/>
         <updated>2022-03-23T16:30:50.393Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인재 블랙홀' 게임사 충원인력 1년새 2배..인건비 2조 넘었다]]></title>
-        <id>https://v.daum.net/v/20220323174051093</id>
-        <link href="https://v.daum.net/v/20220323174051093"/>
-        <updated>2022-03-23T12:37:05.795Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹 인수위에 'ICT 전문가' 뒤늦게 합류..'홀대론' 속 미묘한 업계 표정]]></title>
-        <id>https://v.daum.net/v/20220323201602217</id>
-        <link href="https://v.daum.net/v/20220323201602217"/>
-        <updated>2022-03-23T12:37:05.796Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
