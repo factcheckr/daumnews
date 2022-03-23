@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-23T09:21:55.409Z</updated>
+    <updated>2022-03-23T10:25:16.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미디어전문가들 "과기부·방통위·문체부 통합, 일부 합의제 적절"]]></title>
+        <id>https://v.daum.net/v/20220323175311448</id>
+        <link href="https://v.daum.net/v/20220323175311448"/>
+        <updated>2022-03-23T10:24:47.801Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['거북의 섬' 주민들은 SK E&S·산토스의 가스 파이프라인이 들어오는지 몰랐다[인터뷰]]]></title>
+        <id>https://v.daum.net/v/20220323173525920</id>
+        <link href="https://v.daum.net/v/20220323173525920"/>
+        <updated>2022-03-23T10:24:47.803Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가계대출 규제 완화? 인수위 눈치 보는 당국에 금융권 혼란]]></title>
         <id>https://v.daum.net/v/20220323173120777</id>
@@ -27,7 +41,7 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[安 '양성률 조사' 방침 밝혔지만..허가 받은 중화항체 키트 '0']]></title>
+        <title type="html"><![CDATA[인수위 "국민 항체보유 조사" 밝혔지만..허가 받은 중화항체 키트 '0']]></title>
         <id>https://v.daum.net/v/20220323172408532</id>
         <link href="https://v.daum.net/v/20220323172408532"/>
         <updated>2022-03-23T08:27:09.907Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220323164547307"/>
         <updated>2022-03-23T09:21:24.239Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1형 당뇨병 예방 신약 개발 '활기'..엔솔바이오사이언스도 가세]]></title>
-        <id>https://v.daum.net/v/20220323163542968</id>
-        <link href="https://v.daum.net/v/20220323163542968"/>
-        <updated>2022-03-23T09:21:24.240Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['GOS 선택권' 업데이트에도..삼성전자, 美서 집단소송 직면]]></title>
-        <id>https://v.daum.net/v/20220323163531958</id>
-        <link href="https://v.daum.net/v/20220323163531958"/>
-        <updated>2022-03-23T08:27:09.907Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
