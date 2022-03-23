@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-23T19:18:57.374Z</updated>
+    <updated>2022-03-23T20:23:18.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 날씨]흐리지만 포근한 봄날씨..일교차 15~20도]]></title>
+        <id>https://v.daum.net/v/20220324000031963</id>
+        <link href="https://v.daum.net/v/20220324000031963"/>
+        <updated>2022-03-23T20:22:33.440Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동물단체, 국제 강아지의 날 맞아 '개식용금지 특별법' 선포 촉구]]></title>
+        <id>https://v.daum.net/v/20220323213426534</id>
+        <link href="https://v.daum.net/v/20220323213426534"/>
+        <updated>2022-03-23T20:22:33.440Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] '서울 최고 14도' 낮 동안 포근..금요일 밤부터 비]]></title>
+        <id>https://v.daum.net/v/20220323212423375</id>
+        <link href="https://v.daum.net/v/20220323212423375"/>
+        <updated>2022-03-23T20:22:33.442Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['성소수자 키스' 삭제했다 복원..논란 불붙인 디즈니]]></title>
         <id>https://v.daum.net/v/20220323210022988</id>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20220323173612947"/>
         <updated>2022-03-23T12:36:58.779Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["산으로 출근 바다로 퇴근"..'워케이션' 도전하세요]]></title>
-        <id>https://v.daum.net/v/20220323173203807</id>
-        <link href="https://v.daum.net/v/20220323173203807"/>
-        <updated>2022-03-23T12:36:58.780Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진흙으로 빚은 실존..'천재 조각가'의 예술혼을 만나다]]></title>
-        <id>https://v.daum.net/v/20220323171401191</id>
-        <link href="https://v.daum.net/v/20220323171401191"/>
-        <updated>2022-03-23T19:18:09.817Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["젊은 음악가 세계 가는 여정에..항구 같은 축제 됐으면"]]></title>
-        <id>https://v.daum.net/v/20220323170600938</id>
-        <link href="https://v.daum.net/v/20220323170600938"/>
-        <updated>2022-03-23T19:18:09.818Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
