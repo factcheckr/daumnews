@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-03-23T13:30:36.665Z</updated>
+    <updated>2022-03-23T14:21:31.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[포토라인 만들어진 대구 달성군 사저 앞.. 내일 박근혜가 갑니다 [청계천 옆 사진관]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/344179/EEwblaO0jK</id>
+        <link href="https://gallery.v.daum.net/p/viewer/344179/EEwblaO0jK"/>
+        <updated>2022-03-23T14:21:07.324Z</updated>
+        <content type="html"><![CDATA[청계천 옆 사진관]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기름값 역전.. 경유, 휘발유를 앞서다]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5035080/EdNQKz0rMo</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2603/E7LQXrH36r"/>
         <updated>2022-03-23T02:59:00.817Z</updated>
         <content type="html"><![CDATA[광주 민주화항쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["엄마, 죽기 싫어요. 죽기에 전 너무 어려요" 6살 우크라 소년의 죽음]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/182938/E2HtfnTRBz</id>
-        <link href="https://gallery.v.daum.net/p/viewer/182938/E2HtfnTRBz"/>
-        <updated>2022-03-23T02:59:00.817Z</updated>
-        <content type="html"><![CDATA[[서울신문 나우뉴스] 월드피플+]]></content>
     </entry>
 </feed>

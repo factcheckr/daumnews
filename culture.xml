@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-03-23T13:30:36.660Z</updated>
+    <updated>2022-03-23T14:21:31.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[생활날씨] 내일 아침 쌀쌀, 한낮 포근..큰 일교차 유의]]></title>
+        <id>https://v.daum.net/v/20220323224116334</id>
+        <link href="https://v.daum.net/v/20220323224116334"/>
+        <updated>2022-03-23T14:20:35.050Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동물단체, 국제 강아지의 날 맞아 '개식용금지 특별법' 선포 촉구]]></title>
         <id>https://v.daum.net/v/20220323213426534</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220323203601586"/>
         <updated>2022-03-23T12:36:52.191Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[농촌유학 기획 1편] '자연·공부' 두 마리 토끼 잡는, '농촌 유학']]></title>
-        <id>https://v.daum.net/v/20220323193614383</id>
-        <link href="https://v.daum.net/v/20220323193614383"/>
-        <updated>2022-03-23T13:29:42.573Z</updated>
-        <content type="html"><![CDATA[EBS]]></content>
     </entry>
 </feed>
