@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2022-03-23T15:24:11.667Z</updated>
+    <updated>2022-03-23T16:31:29.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['용산 시대'까지 통의동 출퇴근..尹당선인측, '집무실 이전 문제' 정리 수순]]></title>
+        <id>https://v.daum.net/v/20220324003001394</id>
+        <link href="https://v.daum.net/v/20220324003001394"/>
+        <updated>2022-03-23T16:29:45.858Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤 당선인 용산 입주하면, 국방부는 5년 내내 "이산가족·안보 공백"]]></title>
         <id>https://v.daum.net/v/20220324001003160</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220323230338533"/>
         <updated>2022-03-23T14:19:45.467Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방역당국, 60세 이상자·면역저하자 관리도 손놨다]]></title>
-        <id>https://v.daum.net/v/20220323230132525</id>
-        <link href="https://v.daum.net/v/20220323230132525"/>
-        <updated>2022-03-23T14:19:45.467Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
