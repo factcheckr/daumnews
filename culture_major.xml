@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-23T10:25:16.967Z</updated>
+    <updated>2022-03-23T11:18:04.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진흙으로 빚은 실존..'천재 조각가'의 예술혼을 만나다]]></title>
+        <id>https://v.daum.net/v/20220323171401191</id>
+        <link href="https://v.daum.net/v/20220323171401191"/>
+        <updated>2022-03-23T11:17:17.777Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["젊은 음악가 세계 가는 여정에..항구 같은 축제 됐으면"]]></title>
         <id>https://v.daum.net/v/20220323170600938</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220323153602422"/>
         <updated>2022-03-23T10:24:31.719Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[문화소식] 2인극 '이색적인 아일랜드'·연극 '팽']]></title>
-        <id>https://v.daum.net/v/20220323153137197</id>
-        <link href="https://v.daum.net/v/20220323153137197"/>
-        <updated>2022-03-23T10:24:31.720Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
