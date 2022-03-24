@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-24T13:30:19.786Z</updated>
+    <updated>2022-03-24T14:21:51.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전학년 동시 학력평가..'서버 마비' 재택응시 차질]]></title>
+        <id>https://v.daum.net/v/20220324223008659</id>
+        <link href="https://v.daum.net/v/20220324223008659"/>
+        <updated>2022-03-24T14:21:16.169Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["2만년에 한 번 오는 기회".. 100% 우리 기술로 지구 근접 소행성 탐사한다]]></title>
         <id>https://v.daum.net/v/20220324220045865</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220324193013448"/>
         <updated>2022-03-24T11:18:54.758Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한컴MDS 인수전 '후끈'..10여개社 뛰어들어]]></title>
-        <id>https://v.daum.net/v/20220324171604847</id>
-        <link href="https://v.daum.net/v/20220324171604847"/>
-        <updated>2022-03-24T10:24:24.513Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
