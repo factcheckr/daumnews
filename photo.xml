@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-03-24T16:31:17.919Z</updated>
+    <updated>2022-03-24T17:34:22.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["서방은 필요한 경우 러에 대한 새 제재 할 준비 돼 있어"-마크롱]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/2904/EPrZ49jVDg</id>
+        <link href="https://gallery.v.daum.net/p/viewer/2904/EPrZ49jVDg"/>
+        <updated>2022-03-24T17:33:59.137Z</updated>
+        <content type="html"><![CDATA[프랑스 마크롱 대통령]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[물 부족 국가 마다가스카르 , 기름 부족국가 쿠바]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5035362/E9kgxOGOio</id>
@@ -39,6 +46,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1518/E2erkCj1qa"/>
         <updated>2022-03-24T11:19:09.258Z</updated>
         <content type="html"><![CDATA[전국 화재사고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노루귀]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/EouE1nK14D</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/EouE1nK14D"/>
+        <updated>2022-03-24T17:33:59.140Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어느 날부터 '횡령 공화국'이 된 한국]]></title>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2329/EzIe2aKH0l"/>
         <updated>2022-03-24T06:27:16.206Z</updated>
         <content type="html"><![CDATA[영국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11년 만에 유류세 내리는 영국의 주유소 풍경]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5035080/EzIe2aKH0l</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5035080/EzIe2aKH0l"/>
-        <updated>2022-03-24T06:27:16.207Z</updated>
-        <content type="html"><![CDATA[기름값 현황]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[존슨 총리 "우크라에 미사일과 자금 추가 지원"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5029577/EMr8bpLX3n</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5029577/EMr8bpLX3n"/>
-        <updated>2022-03-24T03:28:31.383Z</updated>
-        <content type="html"><![CDATA[영국 보리스 존슨 총리]]></content>
     </entry>
 </feed>
