@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-24T11:19:30.632Z</updated>
+    <updated>2022-03-24T12:37:27.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소행성 아포피스 탐사선 독자 개발 가닥]]></title>
+        <id>https://v.daum.net/v/20220324202629505</id>
+        <link href="https://v.daum.net/v/20220324202629505"/>
+        <updated>2022-03-24T12:36:50.122Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] "갑자기 2000원 껑충, 말이 돼?" 티빙 요금 인상, 알고보니]]></title>
         <id>https://v.daum.net/v/20220324193234495</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220324183832484"/>
         <updated>2022-03-24T10:24:24.516Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[말 아꼈지만 'ICT·민관협력'..인수위 과기분과 첫 업무보고]]></title>
-        <id>https://v.daum.net/v/20220324153516041</id>
-        <link href="https://v.daum.net/v/20220324153516041"/>
-        <updated>2022-03-24T09:21:56.717Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
