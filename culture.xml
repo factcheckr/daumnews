@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-03-24T09:22:36.208Z</updated>
+    <updated>2022-03-24T10:25:00.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추상조각 선구자 김종영..'불각(不刻)'의 의미는?]]></title>
+        <id>https://v.daum.net/v/20220324183858492</id>
+        <link href="https://v.daum.net/v/20220324183858492"/>
+        <updated>2022-03-24T10:24:09.632Z</updated>
+        <content type="html"><![CDATA[EBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조계종 새 종정 성파 스님 "평상심이 곧 도..덕 높은 스님 의견 따르겠다"]]></title>
         <id>https://v.daum.net/v/20220324181349878</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220324174806959"/>
         <updated>2022-03-24T09:21:40.909Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["협주곡 2곡 내리 연주..엄청난 체력 필요해"]]></title>
-        <id>https://v.daum.net/v/20220324172107012</id>
-        <link href="https://v.daum.net/v/20220324172107012"/>
-        <updated>2022-03-24T09:21:40.910Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>

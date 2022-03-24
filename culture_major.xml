@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-24T09:22:36.207Z</updated>
+    <updated>2022-03-24T10:25:00.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["협주곡 2곡 내리 연주..엄청난 체력 필요해"]]></title>
+        <id>https://v.daum.net/v/20220324172107012</id>
+        <link href="https://v.daum.net/v/20220324172107012"/>
+        <updated>2022-03-24T10:24:17.500Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연풍 주민들의 '김홍도 사랑']]></title>
         <id>https://v.daum.net/v/20220324171701875</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220324152718727"/>
         <updated>2022-03-24T07:21:20.813Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["역대급 비호감 선거에 이어 최악의 대선 편파보도"]]></title>
-        <id>https://v.daum.net/v/20220324150600868</id>
-        <link href="https://v.daum.net/v/20220324150600868"/>
-        <updated>2022-03-24T07:21:20.817Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
