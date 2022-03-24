@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-03-24T15:24:58.630Z</updated>
+    <updated>2022-03-24T16:31:17.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러시아 전쟁에 멀어진 수입항로..연어값 작년보다 두 배 뛰어]]></title>
+        <id>https://v.daum.net/v/20220325003110412</id>
+        <link href="https://v.daum.net/v/20220325003110412"/>
+        <updated>2022-03-24T16:29:51.074Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[울산 직업계고 취업률 양극화 '심화']]></title>
         <id>https://v.daum.net/v/20220325001508247</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220325000011771"/>
         <updated>2022-03-24T15:23:29.556Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]카젬 한국GM 사장 출금 전격 해제..외국인투자유치·한미 동맹 고려]]></title>
-        <id>https://v.daum.net/v/20220324214305382</id>
-        <link href="https://v.daum.net/v/20220324214305382"/>
-        <updated>2022-03-24T13:28:53.776Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
