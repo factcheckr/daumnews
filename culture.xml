@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-03-24T10:25:00.970Z</updated>
+    <updated>2022-03-24T11:19:30.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[문화K] 동네 미술관에서 만난 거장과 우리 사회]]></title>
+        <id>https://v.daum.net/v/20220324200414009</id>
+        <link href="https://v.daum.net/v/20220324200414009"/>
+        <updated>2022-03-24T11:18:40.112Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추상조각 선구자 김종영..'불각(不刻)'의 의미는?]]></title>
         <id>https://v.daum.net/v/20220324183858492</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220324175053056"/>
         <updated>2022-03-24T09:21:40.908Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["코로나보다 무서운 게 惡心 .. 선한 마음 품으면 봄바람 붑니다"]]></title>
-        <id>https://v.daum.net/v/20220324174806959</id>
-        <link href="https://v.daum.net/v/20220324174806959"/>
-        <updated>2022-03-24T09:21:40.909Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
