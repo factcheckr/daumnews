@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-03-25T18:27:49.639Z</updated>
+    <updated>2022-03-25T19:18:58.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[믿음]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/EQkCGaxJJ1</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/EQkCGaxJJ1"/>
+        <updated>2022-03-25T19:18:32.343Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[똑같아요]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/E26gCnBHIe</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5034021/EtZpvlqddD"/>
         <updated>2022-03-25T07:21:29.565Z</updated>
         <content type="html"><![CDATA[학교 현장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마감 시황은?']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5031020/EZIb7KbGGl</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5031020/EZIb7KbGGl"/>
-        <updated>2022-03-25T07:21:29.565Z</updated>
-        <content type="html"><![CDATA[코스피 &amp; 코스닥]]></content>
     </entry>
 </feed>
