@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-25T04:29:13.546Z</updated>
+    <updated>2022-03-25T05:22:08.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미-러 갈등 고조 속 구글·유튜브도 러시아서 추방 위기]]></title>
+        <id>https://v.daum.net/v/20220325120957483</id>
+        <link href="https://v.daum.net/v/20220325120957483"/>
+        <updated>2022-03-25T05:21:35.265Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샤넬은 파타고니아가 될 수 있을까[김성모 기자의 신비월드]]]></title>
         <id>https://v.daum.net/v/20220325120119322</id>
         <link href="https://v.daum.net/v/20220325120119322"/>
         <updated>2022-03-25T04:28:45.652Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[달콤한 사이언스] 나이들어 치매 안 걸리려면 중성지방 낮춰라]]></title>
+        <id>https://v.daum.net/v/20220325120138329</id>
+        <link href="https://v.daum.net/v/20220325120138329"/>
+        <updated>2022-03-25T05:21:35.272Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["새 정부에서 불균형 조장 '균특회계' 개편해야"]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220325110519076"/>
         <updated>2022-03-25T03:26:59.943Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페북, 인스타 등 'SNS 로그인' 경보..해킹 앱 발견]]></title>
-        <id>https://v.daum.net/v/20220325105706535</id>
-        <link href="https://v.daum.net/v/20220325105706535"/>
-        <updated>2022-03-25T02:49:26.764Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["가상자산도 5000만원까지 비과세" 첫 개정안 발의 등]]></title>
-        <id>https://v.daum.net/v/20220325093904960</id>
-        <link href="https://v.daum.net/v/20220325093904960"/>
-        <updated>2022-03-25T02:49:26.764Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
