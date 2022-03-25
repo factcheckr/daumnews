@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-25T13:07:48.424Z</updated>
+    <updated>2022-03-25T14:21:17.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220325212006685"/>
         <updated>2022-03-25T13:07:19.670Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["5~11세 코로나 백신 이득 더 크다..'단백질 백신' 더 적절" 소아감염 전문가 설문조사]]></title>
+        <id>https://v.daum.net/v/20220325185013577</id>
+        <link href="https://v.daum.net/v/20220325185013577"/>
+        <updated>2022-03-25T14:20:48.536Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원격의료 플랫폼 닥터나우 약 배달비 부과..왜?]]></title>
+        <id>https://v.daum.net/v/20220325180619888</id>
+        <link href="https://v.daum.net/v/20220325180619888"/>
+        <updated>2022-03-25T14:20:48.537Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["주가가 지지율이랑 똑같네" 철수형 덕 보려다 낭패 본 사람들]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220325161844759"/>
         <updated>2022-03-25T09:22:03.990Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차세대' 소듐이온 배터리 발목 잡아온 수명 저하 원인 규명]]></title>
-        <id>https://v.daum.net/v/20220325160057937</id>
-        <link href="https://v.daum.net/v/20220325160057937"/>
-        <updated>2022-03-25T09:22:03.991Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물 들어올 때 노 젓는다..'세계 3위' 이 회사, 1조 투자로 1위 겨냥]]></title>
-        <id>https://v.daum.net/v/20220325155823802</id>
-        <link href="https://v.daum.net/v/20220325155823802"/>
-        <updated>2022-03-25T09:22:03.994Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
