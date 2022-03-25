@@ -2,20 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2022-03-25T16:33:36.011Z</updated>
+    <updated>2022-03-25T17:24:00.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러시아군 "우크라서 러 군인 1351명 사망..1단계 임무 대체로 완성"]]></title>
+        <id>https://v.daum.net/v/20220326020900600</id>
+        <link href="https://v.daum.net/v/20220326020900600"/>
+        <updated>2022-03-25T17:21:54.279Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[G7 "북한, ICBM 발사유예 파기..국제사회 단합 대응해야"]]></title>
+        <id>https://v.daum.net/v/20220326014854497</id>
+        <link href="https://v.daum.net/v/20220326014854497"/>
+        <updated>2022-03-25T17:21:54.283Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['죽어가는 유럽' 만평 올린 프랑스 주재 러시아 대사관[우크라 침공]]]></title>
+        <id>https://v.daum.net/v/20220326014812494</id>
+        <link href="https://v.daum.net/v/20220326014812494"/>
+        <updated>2022-03-25T17:21:54.284Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["우크라이나 인구 1/4 피란길"..크로아티아도 난민 돕기 동참]]></title>
+        <id>https://v.daum.net/v/20220326013414465</id>
+        <link href="https://v.daum.net/v/20220326013414465"/>
+        <updated>2022-03-25T17:21:54.291Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 어린이 백신 접종, 입원 예방 효과..감염 예방은 '글쎄']]></title>
         <id>https://v.daum.net/v/20220326012701434</id>
         <link href="https://v.daum.net/v/20220326012701434"/>
-        <updated>2022-03-25T16:31:27.030Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["바이든, '핵위협에만 핵사용' 공약 폐기"..동맹에 핵우산 강화]]></title>
-        <id>https://v.daum.net/v/20220326012500423</id>
-        <link href="https://v.daum.net/v/20220326012500423"/>
         <updated>2022-03-25T16:31:27.030Z</updated>
         <content type="html"><![CDATA[국제]]></content>
     </entry>
@@ -31,13 +52,6 @@
         <id>https://v.daum.net/v/20220326010455354</id>
         <link href="https://v.daum.net/v/20220326010455354"/>
         <updated>2022-03-25T16:31:27.033Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WSJ "北 ICBM 대응할 美 옵션 바닥났다..우크라이나 전쟁 탓"]]></title>
-        <id>https://v.daum.net/v/20220326010024302</id>
-        <link href="https://v.daum.net/v/20220326010024302"/>
-        <updated>2022-03-25T16:31:27.042Z</updated>
         <content type="html"><![CDATA[국제]]></content>
     </entry>
     <entry>
@@ -130,19 +144,5 @@
         <link href="https://v.daum.net/v/20220326001308056"/>
         <updated>2022-03-25T15:21:49.208Z</updated>
         <content type="html"><![CDATA[경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['홍준표 페널티' '朴측근 유영하 출마설'..뜨거운 대구]]></title>
-        <id>https://v.daum.net/v/20220326001000044</id>
-        <link href="https://v.daum.net/v/20220326001000044"/>
-        <updated>2022-03-25T15:21:49.209Z</updated>
-        <content type="html"><![CDATA[정치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마장동 먹자골목 상인들, 구청용역과 충돌..펜스철거 놓고 대치]]></title>
-        <id>https://v.daum.net/v/20220326000717030</id>
-        <link href="https://v.daum.net/v/20220326000717030"/>
-        <updated>2022-03-25T15:21:49.209Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
     </entry>
 </feed>
