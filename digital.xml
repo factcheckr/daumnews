@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-25T09:22:31.999Z</updated>
+    <updated>2022-03-25T10:26:41.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["5~11세 코로나 백신 이득 더 크다..'단백질 백신' 더 적절" 소아감염 전문가 설문조사]]></title>
+        <id>https://v.daum.net/v/20220325185013577</id>
+        <link href="https://v.daum.net/v/20220325185013577"/>
+        <updated>2022-03-25T10:26:00.938Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원격의료 플랫폼 닥터나우 약 배달비 부과..왜?]]></title>
         <id>https://v.daum.net/v/20220325180619888</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220325163409313"/>
         <updated>2022-03-25T08:26:03.417Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구글 갑질' 피해 고스란히 소비자에?..OTT 이어 구독앱 줄줄이 인상되나]]></title>
-        <id>https://v.daum.net/v/20220325162321945</id>
-        <link href="https://v.daum.net/v/20220325162321945"/>
-        <updated>2022-03-25T08:26:03.418Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
