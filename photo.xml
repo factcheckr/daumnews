@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-03-25T17:24:00.836Z</updated>
+    <updated>2022-03-25T18:27:49.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[똑같아요]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/E26gCnBHIe</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/E26gCnBHIe"/>
+        <updated>2022-03-25T18:27:28.062Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[골목에서 철수하는 포클레인]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1518/EWeEHciB1A</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1518/EWeEHciB1A"/>
+        <updated>2022-03-25T18:27:28.063Z</updated>
+        <content type="html"><![CDATA[전국 화재사고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공든 탑이 와르르..]]></title>
         <id>https://gallery.v.daum.net/p/viewer/346997/Egza5UdF5r</id>
         <link href="https://gallery.v.daum.net/p/viewer/346997/Egza5UdF5r"/>
         <updated>2022-03-25T15:23:37.693Z</updated>
         <content type="html"><![CDATA[도로 위에 와르르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성동구, 마장동 먹자골목 화재현장 기습 철거 시도]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1518/EcZRRrn4fQ</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1518/EcZRRrn4fQ"/>
-        <updated>2022-03-25T15:23:37.693Z</updated>
-        <content type="html"><![CDATA[전국 화재사고]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[러 "푸틴 목표까지 군사작전 계속..현재 1351명 전사"]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5031020/EZIb7KbGGl"/>
         <updated>2022-03-25T07:21:29.565Z</updated>
         <content type="html"><![CDATA[코스피 &amp; 코스닥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잊지 않겠습니다[퇴근길 한 컷]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1397984/ELGfkRDdkV</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1397984/ELGfkRDdkV"/>
-        <updated>2022-03-25T07:21:29.565Z</updated>
-        <content type="html"><![CDATA[퇴근길 한 컷]]></content>
     </entry>
 </feed>
