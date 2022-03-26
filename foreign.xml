@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-03-26T10:23:50.047Z</updated>
+    <updated>2022-03-26T11:20:10.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세계를 가다]전쟁에 우크라 밀 파종 '반토막'..'식량난 도미노' 시작]]></title>
+        <id>https://v.daum.net/v/20220326200859559</id>
+        <link href="https://v.daum.net/v/20220326200859559"/>
+        <updated>2022-03-26T11:19:00.059Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우크라이나 피란 고려인 동포 31명 광주로..집단 국내 귀환]]></title>
         <id>https://v.daum.net/v/20220326184644043</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220326181751862"/>
         <updated>2022-03-26T10:22:44.795Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英, 우크라에 23억원 규모 식량·식수 지원]]></title>
-        <id>https://v.daum.net/v/20220326181448844</id>
-        <link href="https://v.daum.net/v/20220326181448844"/>
-        <updated>2022-03-26T09:20:06.024Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
