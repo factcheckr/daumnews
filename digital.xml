@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-26T06:26:36.999Z</updated>
+    <updated>2022-03-26T07:21:27.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['보안유니콘' 안보이는 韓..안랩 주가는 오늘도 널뛰기]]></title>
+        <id>https://v.daum.net/v/20220326160002610</id>
+        <link href="https://v.daum.net/v/20220326160002610"/>
+        <updated>2022-03-26T07:20:51.133Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[달콤한 사이언스] 행복하지 않은 반려견이 반복적, 강박적 행동 보인다]]></title>
         <id>https://v.daum.net/v/20220326140102371</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220326100001061"/>
         <updated>2022-03-26T01:26:45.766Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[➈ 1세대 통신(1G)..이동통신 100만 가입자 시대 열렸다 [김문기의 아이씨테크]]]></title>
-        <id>https://v.daum.net/v/20220326095539983</id>
-        <link href="https://v.daum.net/v/20220326095539983"/>
-        <updated>2022-03-26T01:26:45.770Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>

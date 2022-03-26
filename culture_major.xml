@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-26T06:26:37.116Z</updated>
+    <updated>2022-03-26T07:21:27.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누구세요..? 아버지의 특별한 '낮잠 메이트들'의 정체]]></title>
+        <id>https://v.daum.net/v/20220326100102121</id>
+        <link href="https://v.daum.net/v/20220326100102121"/>
+        <updated>2022-03-26T07:20:44.006Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이렇게 재밌는 걸 너희만 했다니"..골 때리는 여자들의 땀내 나는 우정 [강소희·서효인의 작전타임]]]></title>
         <id>https://v.daum.net/v/20220326095003921</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220326074528705"/>
         <updated>2022-03-26T01:26:37.764Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["돌잔치를 두 번 해야 된다니.." 눈물의 돌잔치 준비 [오세성의 아빠놀자]]]></title>
-        <id>https://v.daum.net/v/20220326073101643</id>
-        <link href="https://v.daum.net/v/20220326073101643"/>
-        <updated>2022-03-25T23:21:39.410Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
