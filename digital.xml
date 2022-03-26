@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-26T01:27:28.951Z</updated>
+    <updated>2022-03-26T02:51:34.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[물길, 역사를 바꾸다 [물에 관한 알쓸신잡]]]></title>
+        <id>https://v.daum.net/v/20220326113043132</id>
+        <link href="https://v.daum.net/v/20220326113043132"/>
+        <updated>2022-03-26T02:50:55.115Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8인치 반도체의 귀환에 SK·DB 실적도 껑충 [MK위클리반도체]]]></title>
+        <id>https://v.daum.net/v/20220326110302871</id>
+        <link href="https://v.daum.net/v/20220326110302871"/>
+        <updated>2022-03-26T02:50:55.115Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성·LG 뚫은 초보해커.."특별한 노하우도 필요없다"]]></title>
         <id>https://v.daum.net/v/20220326100001061</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220326092202646"/>
         <updated>2022-03-26T01:26:45.771Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물, 불, 흙, 공기..지구 4원소의 최고 사진은?]]></title>
-        <id>https://v.daum.net/v/20220326091610599</id>
-        <link href="https://v.daum.net/v/20220326091610599"/>
-        <updated>2022-03-26T01:26:45.772Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[테크톡] 우크라가 받은 3억 원짜리 NFT..어떻게 사용할까?]]></title>
-        <id>https://v.daum.net/v/20220326090605492</id>
-        <link href="https://v.daum.net/v/20220326090605492"/>
-        <updated>2022-03-26T01:26:45.774Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
