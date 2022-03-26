@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2022-03-26T12:34:17.057Z</updated>
+    <updated>2022-03-26T13:25:20.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[北, 호주 ICBM비판에 "'오커스' 핵전파 장본인의 지적 어불성설"]]></title>
+        <id>https://v.daum.net/v/20220326213046084</id>
+        <link href="https://v.daum.net/v/20220326213046084"/>
+        <updated>2022-03-26T13:23:43.973Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북 "핵공격 수단 더 개발"..미 "도발 지속될 것"]]></title>
         <id>https://v.daum.net/v/20220326201204578</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220326194707436"/>
         <updated>2022-03-26T11:18:28.590Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["인플레 파이터되라" 윤석열에 주문한 이코노미스트]]></title>
-        <id>https://v.daum.net/v/20220326193959396</id>
-        <link href="https://v.daum.net/v/20220326193959396"/>
-        <updated>2022-03-26T11:18:28.591Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
