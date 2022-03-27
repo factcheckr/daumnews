@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-03-27T19:18:10.984Z</updated>
+    <updated>2022-03-27T20:23:44.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화마 할퀸 동해시 '희망의 싹']]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/ERRrTGf9rg</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/ERRrTGf9rg"/>
+        <updated>2022-03-27T20:23:23.068Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['쉿!']]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/ElTVnjw45c</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/603363/EHwRj1zkut"/>
         <updated>2022-03-27T01:38:47.249Z</updated>
         <content type="html"><![CDATA[한 컷의 울림]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["취미가 봉사로 이어져" 드론 방역·수색하는 우정석 씨]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1504/EcpvxbC1VN</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1504/EcpvxbC1VN"/>
-        <updated>2022-03-27T01:38:47.249Z</updated>
-        <content type="html"><![CDATA[훈훈한 미담]]></content>
     </entry>
 </feed>
