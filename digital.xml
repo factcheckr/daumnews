@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-27T07:21:04.355Z</updated>
+    <updated>2022-03-27T08:26:11.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[낙동강 하굿둑 개방 한 달.."장어, 점농어, 재첩이 돌아왔다"]]></title>
+        <id>https://v.daum.net/v/20220327162356745</id>
+        <link href="https://v.daum.net/v/20220327162356745"/>
+        <updated>2022-03-27T08:25:27.217Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["삼성페이·통화녹음 빼면 살 이유 없죠" 삼성 진짜 큰일난다?]]></title>
         <id>https://v.daum.net/v/20220327155437064</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220327130124744"/>
         <updated>2022-03-27T07:20:25.712Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 정점 지났다는데 4일째 30만명대.. 강원 9260명 확진]]></title>
-        <id>https://v.daum.net/v/20220327101625390</id>
-        <link href="https://v.daum.net/v/20220327101625390"/>
-        <updated>2022-03-27T07:20:25.714Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
