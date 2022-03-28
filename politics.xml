@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2022-03-28T18:27:24.512Z</updated>
+    <updated>2022-03-28T19:18:21.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이재명 찐 동지는 나".. 민주당 '친이 프리미엄' 쟁탈전]]></title>
+        <id>https://v.daum.net/v/20220329040310475</id>
+        <link href="https://v.daum.net/v/20220329040310475"/>
+        <updated>2022-03-28T19:16:39.882Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹, 사흘전 김부겸과 만찬.. 총리 연임 논의했나]]></title>
         <id>https://v.daum.net/v/20220329030734365</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220329030634346"/>
         <updated>2022-03-28T18:25:48.600Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓 우크라 의용군 "히어로물 아냐, 참혹..더는 오지 마시라"]]></title>
-        <id>https://v.daum.net/v/20220329011815968</id>
-        <link href="https://v.daum.net/v/20220329011815968"/>
-        <updated>2022-03-28T16:32:51.251Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
