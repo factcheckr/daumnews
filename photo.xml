@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-03-28T19:18:21.982Z</updated>
+    <updated>2022-03-28T20:24:18.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[19일 만의 첫 회동]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/EJEoqzisQ7</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/EJEoqzisQ7"/>
+        <updated>2022-03-28T20:23:53.700Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4월 1일부터 카페-식당내 일회용품 사용 전면 금지]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5014013/EKCG5mv747</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5076625/EUMadpXJSE"/>
         <updated>2022-03-28T07:22:57.514Z</updated>
         <content type="html"><![CDATA[대한민국 해병대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윌 스미스, 아카데미 생방송중 시상자 뺨 때려.. 아내 비아냥에 격분[청계천 옆 사진관]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/344179/EQnBGFU9OG</id>
-        <link href="https://gallery.v.daum.net/p/viewer/344179/EQnBGFU9OG"/>
-        <updated>2022-03-28T07:22:57.517Z</updated>
-        <content type="html"><![CDATA[청계천 옆 사진관]]></content>
     </entry>
 </feed>
