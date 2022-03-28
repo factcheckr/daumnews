@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-03-28T12:38:18.374Z</updated>
+    <updated>2022-03-28T13:30:45.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['코로나 봉쇄' 상하이 증시 정상 운영.."직원들 사무실서 지내"(종합)]]></title>
+        <id>https://v.daum.net/v/20220328220524247</id>
+        <link href="https://v.daum.net/v/20220328220524247"/>
+        <updated>2022-03-28T13:29:27.014Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["장보기 무섭다"..생필품 가격 7%대 상승]]></title>
+        <id>https://v.daum.net/v/20220328212603696</id>
+        <link href="https://v.daum.net/v/20220328212603696"/>
+        <updated>2022-03-28T13:29:27.015Z</updated>
+        <content type="html"><![CDATA[CJB청주방송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[계속되는 중대사고..정부, 현산 '시장퇴출' 추진]]></title>
         <id>https://v.daum.net/v/20220328212827721</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220328204803192"/>
         <updated>2022-03-28T12:36:59.412Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휘발유보다 비싸진 경유..유류세 인하 확대하나]]></title>
-        <id>https://v.daum.net/v/20220328204607172</id>
-        <link href="https://v.daum.net/v/20220328204607172"/>
-        <updated>2022-03-28T12:36:59.412Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[제주 돋보기] 제2공항 '전략환경영향평가' 쟁점은?]]></title>
-        <id>https://v.daum.net/v/20220328203459039</id>
-        <link href="https://v.daum.net/v/20220328203459039"/>
-        <updated>2022-03-28T12:36:59.412Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
