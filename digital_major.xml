@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-29T03:02:22.754Z</updated>
+    <updated>2022-03-29T03:39:18.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["비욘드 코리아"..카카오, 새 시대 개막]]></title>
+        <id>https://v.daum.net/v/20220329111402345</id>
+        <link href="https://v.daum.net/v/20220329111402345"/>
+        <updated>2022-03-29T03:38:48.211Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카겜즈 '오딘', 대만 앱마켓 인기 1·2위 석권..글로벌 진출 '청신호']]></title>
+        <id>https://v.daum.net/v/20220329111302294</id>
+        <link href="https://v.daum.net/v/20220329111302294"/>
+        <updated>2022-03-29T03:38:48.211Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공장도 짓는데 인텔만 보조금?..삼성, 美에 "반도체 동등 지원해야"]]></title>
         <id>https://v.daum.net/v/20220329104808842</id>
@@ -48,13 +62,6 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신규확진 34만7554명..일주일만에 확진자 일시 증가]]></title>
-        <id>https://v.daum.net/v/20220329101126058</id>
-        <link href="https://v.daum.net/v/20220329101126058"/>
-        <updated>2022-03-29T03:01:53.138Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[일 무인탐사선 6년 걸려 다녀온 류구, 소행성 아니라 '소멸된 혜성']]></title>
         <id>https://v.daum.net/v/20220329100605815</id>
         <link href="https://v.daum.net/v/20220329100605815"/>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220329100110560"/>
         <updated>2022-03-29T03:01:53.141Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주총] 카카오, 4년 만에 단독 대표 체제..'한국·모바일' 넘어선다(종합)]]></title>
-        <id>https://v.daum.net/v/20220329092807895</id>
-        <link href="https://v.daum.net/v/20220329092807895"/>
-        <updated>2022-03-29T03:01:53.143Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
