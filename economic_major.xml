@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-03-29T15:24:17.068Z</updated>
+    <updated>2022-03-29T16:32:54.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20220329224223290"/>
         <updated>2022-03-29T14:20:04.912Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["정몽규 수십억 배당금.. 사내이사 CSO 말 되나" 뭇매]]></title>
+        <id>https://v.daum.net/v/20220329223603245</id>
+        <link href="https://v.daum.net/v/20220329223603245"/>
+        <updated>2022-03-29T16:31:32.523Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쌍용차, 인수의향자와 물밑접촉..수의계약·스토킹호스 등 검토(종합2보)]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220329213629458"/>
         <updated>2022-03-29T13:31:23.777Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["굿바이 삼성"..사명 바꾸고 새 출발하는 '르노코리아자동차']]></title>
-        <id>https://v.daum.net/v/20220329213603454</id>
-        <link href="https://v.daum.net/v/20220329213603454"/>
-        <updated>2022-03-29T13:31:23.778Z</updated>
-        <content type="html"><![CDATA[매경이코노미]]></content>
     </entry>
 </feed>
