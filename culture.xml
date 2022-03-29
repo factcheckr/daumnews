@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-03-29T11:34:57.956Z</updated>
+    <updated>2022-03-29T12:40:19.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["암환자 자살율, 일반인보다 85% 높아" (연구)]]></title>
+        <id>https://v.daum.net/v/20220329213103393</id>
+        <link href="https://v.daum.net/v/20220329213103393"/>
+        <updated>2022-03-29T12:39:22.687Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[경남人] 자연의 울림을 담아..대금산조 이수자 김환수]]></title>
+        <id>https://v.daum.net/v/20220329204231695</id>
+        <link href="https://v.daum.net/v/20220329204231695"/>
+        <updated>2022-03-29T12:39:22.687Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['붓으로 빚은 달항아리'..한국적 극사실회화의 정수]]></title>
         <id>https://v.daum.net/v/20220329194014711</id>
         <link href="https://v.daum.net/v/20220329194014711"/>
         <updated>2022-03-29T11:34:02.920Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임산부가 먹어도 되는 약은? 임신 중 흔히 나타나는 증상과 대처법]]></title>
-        <id>https://v.daum.net/v/20220329193116590</id>
-        <link href="https://v.daum.net/v/20220329193116590"/>
-        <updated>2022-03-29T11:34:02.921Z</updated>
-        <content type="html"><![CDATA[하이닥]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국으로 이민보내진 '제주 왕벚나무' 어떻게 살고 있을까?]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220329180737997"/>
         <updated>2022-03-29T11:34:02.926Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3년 만에 열리는 베네치아 비엔날레.."한국관 천장 뜯는 파격"]]></title>
-        <id>https://v.daum.net/v/20220329183606694</id>
-        <link href="https://v.daum.net/v/20220329183606694"/>
-        <updated>2022-03-29T11:34:02.927Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
