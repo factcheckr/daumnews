@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-03-30T19:20:00.400Z</updated>
+    <updated>2022-03-30T20:23:59.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220331030237497"/>
         <updated>2022-03-30T18:27:31.909Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[가상자산 규제 풀리나] 尹정부 디지털경제 힘실어.. 삼성·LG·SK 대기업들 본격 가세]]></title>
+        <id>https://v.daum.net/v/20220330192414948</id>
+        <link href="https://v.daum.net/v/20220330192414948"/>
+        <updated>2022-03-30T20:23:27.759Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미디어·ICT 쪼갤까 붙일까..전문가 "정부조직개편 필요"]]></title>
+        <id>https://v.daum.net/v/20220330190639608</id>
+        <link href="https://v.daum.net/v/20220330190639608"/>
+        <updated>2022-03-30T20:23:27.759Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔비디아가 놓친 ARM..SK하이닉스 "인수 전략적 검토"]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220330173823498"/>
         <updated>2022-03-30T10:25:11.068Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기도, 메타버스 활용 첫 확대간부회의 시도 '눈길']]></title>
-        <id>https://v.daum.net/v/20220330172550057</id>
-        <link href="https://v.daum.net/v/20220330172550057"/>
-        <updated>2022-03-30T09:21:49.306Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특징코인] 해킹으로 7600억원 털린 엑시인피니티..하루새 13% '뚝']]></title>
-        <id>https://v.daum.net/v/20220330171534736</id>
-        <link href="https://v.daum.net/v/20220330171534736"/>
-        <updated>2022-03-30T09:21:49.307Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
