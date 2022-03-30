@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-30T17:23:20.075Z</updated>
+    <updated>2022-03-30T18:28:03.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소설·작곡 이어 사람처럼 코딩.. AI의 도전은 어디까지?]]></title>
+        <id>https://v.daum.net/v/20220331030409560</id>
+        <link href="https://v.daum.net/v/20220331030409560"/>
+        <updated>2022-03-30T18:27:23.898Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다시 돌진, 빅테크]]></title>
+        <id>https://v.daum.net/v/20220331030225484</id>
+        <link href="https://v.daum.net/v/20220331030225484"/>
+        <updated>2022-03-30T18:27:23.899Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[달콤한 사이언스] 시골사람이 도시사람보다 길눈 밝다]]></title>
         <id>https://v.daum.net/v/20220331000954640</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220330190639608"/>
         <updated>2022-03-30T10:25:02.699Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔비디아가 놓친 ARM..SK하이닉스 "인수 전략적 검토"]]></title>
-        <id>https://v.daum.net/v/20220330182858930</id>
-        <link href="https://v.daum.net/v/20220330182858930"/>
-        <updated>2022-03-30T10:25:02.703Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사이언스] AI·드론 총동원..버려진 광산서 리튬 캔다]]></title>
-        <id>https://v.daum.net/v/20220330180500314</id>
-        <link href="https://v.daum.net/v/20220330180500314"/>
-        <updated>2022-03-30T10:25:02.703Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
