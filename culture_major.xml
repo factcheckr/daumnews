@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-30T16:30:08.005Z</updated>
+    <updated>2022-03-30T17:23:20.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://v.daum.net/v/20220331001043688"/>
         <updated>2022-03-30T15:23:43.023Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대형 현안에 잊힌 '대전예술가의집 시민 환원']]></title>
-        <id>https://v.daum.net/v/20220330200827687</id>
-        <link href="https://v.daum.net/v/20220330200827687"/>
-        <updated>2022-03-30T16:29:22.209Z</updated>
-        <content type="html"><![CDATA[대전일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[문화톡톡] 국악으로 만나는 봄]]></title>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220330170915521"/>
         <updated>2022-03-30T11:19:53.621Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[포켓이슈] 40명 목숨 빼앗은 러시아 여성저격수 체포]]></title>
+        <id>https://v.daum.net/v/20220330170102203</id>
+        <link href="https://v.daum.net/v/20220330170102203"/>
+        <updated>2022-03-30T17:22:30.600Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

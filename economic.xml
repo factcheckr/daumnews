@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-03-30T16:30:07.996Z</updated>
+    <updated>2022-03-30T17:23:20.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["한국, 코로나19 풍토병으로 격하하는 첫 나라 될 것"]]></title>
+        <id>https://v.daum.net/v/20220331015502273</id>
+        <link href="https://v.daum.net/v/20220331015502273"/>
+        <updated>2022-03-30T17:21:47.655Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바이든, 배터리용 광물 증산에 한국전쟁 때 만든 법 발동 예정]]></title>
         <id>https://v.daum.net/v/20220331011926145</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220331001103720"/>
         <updated>2022-03-30T15:23:01.998Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SK하이닉스 "손정의의 ARM 사고 싶다"]]></title>
-        <id>https://v.daum.net/v/20220331000422448</id>
-        <link href="https://v.daum.net/v/20220331000422448"/>
-        <updated>2022-03-30T15:23:01.999Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
