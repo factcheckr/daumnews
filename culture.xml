@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-03-30T15:24:31.231Z</updated>
+    <updated>2022-03-30T16:30:07.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[생리 중 운동, 여성에게 독될까?]]></title>
+        <id>https://v.daum.net/v/20220331010015018</id>
+        <link href="https://v.daum.net/v/20220331010015018"/>
+        <updated>2022-03-30T16:29:14.076Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[낭만가득 대구] 죽곡 대나무숲·옻골마을 돌담..발길 닿는 곳마다 힐링이 절로 ~]]></title>
         <id>https://v.daum.net/v/20220331000625561</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220330205409306"/>
         <updated>2022-03-30T13:31:27.337Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대형 현안에 잊힌 '대전예술가의집 시민 환원']]></title>
-        <id>https://v.daum.net/v/20220330200827687</id>
-        <link href="https://v.daum.net/v/20220330200827687"/>
-        <updated>2022-03-30T11:19:45.626Z</updated>
-        <content type="html"><![CDATA[대전일보]]></content>
     </entry>
 </feed>
