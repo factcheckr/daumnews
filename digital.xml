@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-30T22:23:03.836Z</updated>
+    <updated>2022-03-30T23:23:09.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성 춘래불사춘..280조 최대 매출인데 월급 1도 안 오른 이유]]></title>
+        <id>https://v.daum.net/v/20220331073002992</id>
+        <link href="https://v.daum.net/v/20220331073002992"/>
+        <updated>2022-03-30T23:22:30.278Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싸이월드 개장 D-2..5번 미뤘는데 이번엔 진짜 맞나요?]]></title>
         <id>https://v.daum.net/v/20220331070457726</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220331060148992"/>
         <updated>2022-03-30T21:20:05.970Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7600억 해킹 실화냐? 삼성도 투자한 '엑시 인피니티' 어쩌나]]></title>
-        <id>https://v.daum.net/v/20220331060226027</id>
-        <link href="https://v.daum.net/v/20220331060226027"/>
-        <updated>2022-03-30T21:20:05.970Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
