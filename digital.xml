@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-03-30T05:21:27.091Z</updated>
+    <updated>2022-03-30T06:29:23.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI 반도체, 중소 팹리스에 그림의 떡..설계비만 7200억]]></title>
+        <id>https://v.daum.net/v/20220330150600250</id>
+        <link href="https://v.daum.net/v/20220330150600250"/>
+        <updated>2022-03-30T06:28:46.419Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내연구진, 학계 논란 종지부 찍고 'RNA 합성' 종결원리 밝혔다]]></title>
         <id>https://v.daum.net/v/20220330141012987</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220330133304564"/>
         <updated>2022-03-30T05:20:46.735Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 테사 미술품 투자자들, 수익 정산 지연 개별 미공지에 불만]]></title>
-        <id>https://v.daum.net/v/20220330132350278</id>
-        <link href="https://v.daum.net/v/20220330132350278"/>
-        <updated>2022-03-30T04:28:27.385Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
