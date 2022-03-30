@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2022-03-30T13:32:19.612Z</updated>
+    <updated>2022-03-30T14:21:27.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[인수위 "공수처 신뢰 바닥..처장 거취 표명 여론 전달"]]></title>
-        <id>https://v.daum.net/v/20220330211710586</id>
-        <link href="https://v.daum.net/v/20220330211710586"/>
-        <updated>2022-03-30T13:30:49.154Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[윤 당선자, 네덜란드 총리와 통화.. "북한 ICBM급 발사 심각한 우려 공유"]]></title>
         <id>https://v.daum.net/v/20220330210601456</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220330204609199"/>
         <updated>2022-03-30T13:30:49.164Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나특위, 정부에 '손실규모 측정·사각지대 없는 보상방안' 마련 요청]]></title>
+        <id>https://v.daum.net/v/20220330203956128</id>
+        <link href="https://v.daum.net/v/20220330203956128"/>
+        <updated>2022-03-30T14:19:55.685Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

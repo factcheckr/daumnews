@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-03-30T13:32:19.614Z</updated>
+    <updated>2022-03-30T14:21:27.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 18년 만에 한국 찾은 델 모나코 "나의 삶이 곧 오페라"]]></title>
+        <id>https://v.daum.net/v/20220330175302933</id>
+        <link href="https://v.daum.net/v/20220330175302933"/>
+        <updated>2022-03-30T14:20:42.329Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수행으로 완성한 단색화..선승 법관 "그림은 나를 찾는 방법"]]></title>
         <id>https://v.daum.net/v/20220330172915156</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220330160205854"/>
         <updated>2022-03-30T08:27:19.019Z</updated>
         <content type="html"><![CDATA[시사저널]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이아가라 폭포에 대해 당신이 몰랐던 것들]]></title>
-        <id>https://v.daum.net/v/20220330155030285</id>
-        <link href="https://v.daum.net/v/20220330155030285"/>
-        <updated>2022-03-30T10:24:54.022Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
