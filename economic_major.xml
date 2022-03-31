@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-03-31T18:27:46.169Z</updated>
+    <updated>2022-03-31T19:19:23.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금융권 4050인력, 2030 첫 추월.. 신입사원 채용문, 더 좁아진다]]></title>
+        <id>https://v.daum.net/v/20220401030302938</id>
+        <link href="https://v.daum.net/v/20220401030302938"/>
+        <updated>2022-03-31T19:18:02.720Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 반도체 ETF 수익률, 삼성전자보다 높네]]></title>
         <id>https://v.daum.net/v/20220401030244922</id>
@@ -18,6 +25,13 @@
         <link href="https://v.daum.net/v/20220401030158884"/>
         <updated>2022-03-31T18:26:30.804Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수상했던 에디슨 자금조달.. 결국 10만 개미만 통곡]]></title>
+        <id>https://v.daum.net/v/20220401030100858</id>
+        <link href="https://v.daum.net/v/20220401030100858"/>
+        <updated>2022-03-31T19:18:02.725Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전문가가 보는 尹정부의 한일 관계, 인수위에 일본통..韓·日, 강경론 설득 관건]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220401000418172"/>
         <updated>2022-03-31T18:26:30.810Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["새 정부 성공하려면 협치가 필수" 학자들의 쓴소리]]></title>
-        <id>https://v.daum.net/v/20220401000311137</id>
-        <link href="https://v.daum.net/v/20220401000311137"/>
-        <updated>2022-03-31T16:30:57.104Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹 첫 국무총리 누구?..'안랩' 지고 뜨는 종목은]]></title>
-        <id>https://v.daum.net/v/20220401000025069</id>
-        <link href="https://v.daum.net/v/20220401000025069"/>
-        <updated>2022-03-31T15:23:44.212Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
