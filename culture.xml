@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-03-31T16:32:14.769Z</updated>
+    <updated>2022-03-31T17:24:37.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[명약이 독약될 수도.. 같은 약 먹어도 효과 다른 이유]]></title>
-        <id>https://v.daum.net/v/20220401010015521</id>
-        <link href="https://v.daum.net/v/20220401010015521"/>
-        <updated>2022-03-31T16:31:19.950Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[명경대] 어린이 수도]]></title>
         <id>https://v.daum.net/v/20220401001054274</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20220331204907233"/>
         <updated>2022-03-31T12:39:05.476Z</updated>
         <content type="html"><![CDATA[코스모폴리탄]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문신 탄생 100주년..세계적 조각이란?]]></title>
+        <id>https://v.daum.net/v/20220331184739091</id>
+        <link href="https://v.daum.net/v/20220331184739091"/>
+        <updated>2022-03-31T17:23:43.816Z</updated>
+        <content type="html"><![CDATA[EBS]]></content>
     </entry>
 </feed>
