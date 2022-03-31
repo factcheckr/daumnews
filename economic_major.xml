@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-03-31T13:32:35.430Z</updated>
+    <updated>2022-03-31T14:22:48.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KT 구현모 '원톱'.. "대표직 물러나라" 혼란]]></title>
+        <id>https://v.daum.net/v/20220331223621592</id>
+        <link href="https://v.daum.net/v/20220331223621592"/>
+        <updated>2022-03-31T14:21:28.005Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SM 창업자 이수만이 졌다..주총서 소액주주 제안한 감사 선임]]></title>
         <id>https://v.daum.net/v/20220331220106205</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220331204746213"/>
         <updated>2022-03-31T12:38:41.870Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["쌍용차 인수 후보, 한 달 내 찾아야"..과거 인수전 참여한 SM그룹 재조명]]></title>
-        <id>https://v.daum.net/v/20220331203059001</id>
-        <link href="https://v.daum.net/v/20220331203059001"/>
-        <updated>2022-03-31T12:38:41.872Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
