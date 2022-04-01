@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-04-01T15:25:36.104Z</updated>
+    <updated>2022-04-01T16:34:53.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[피자 5천원, 열불나는 배달비 잡는다더디.."이게 말이 돼?"]]></title>
+        <title type="html"><![CDATA['골리앗' 러에 맞선 '다윗' 우크라의 힘은 디지털 리더 양성]]></title>
+        <id>https://v.daum.net/v/20220402002332776</id>
+        <link href="https://v.daum.net/v/20220402002332776"/>
+        <updated>2022-04-01T16:34:15.547Z</updated>
+        <content type="html"><![CDATA[중앙SUNDAY]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피자 5천원, 열불나는 배달비 잡는다더니.."이게 말이 돼?"]]></title>
         <id>https://v.daum.net/v/20220401175102241</id>
         <link href="https://v.daum.net/v/20220401175102241"/>
         <updated>2022-04-01T15:24:55.886Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220401192337541"/>
         <updated>2022-04-01T10:25:53.289Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반도체 두뇌 설계 1위 ARM 인수전..최태원 나선 까닭]]></title>
-        <id>https://v.daum.net/v/20220401173300812</id>
-        <link href="https://v.daum.net/v/20220401173300812"/>
-        <updated>2022-04-01T09:20:37.737Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-01T15:25:36.098Z</updated>
+    <updated>2022-04-01T16:34:53.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반도체 두뇌 설계 1위 ARM 인수전..최태원 나선 까닭]]></title>
+        <id>https://v.daum.net/v/20220401173300812</id>
+        <link href="https://v.daum.net/v/20220401173300812"/>
+        <updated>2022-04-01T16:34:24.535Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글 꼼수에 무력화 된 '구글 갑질 방지법']]></title>
         <id>https://v.daum.net/v/20220401190301339</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220401164602760"/>
         <updated>2022-04-01T09:20:45.170Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원조 소셜미디어' 싸이월드 모바일 부활 D-1, 어떤 모습일까]]></title>
-        <id>https://v.daum.net/v/20220401163409467</id>
-        <link href="https://v.daum.net/v/20220401163409467"/>
-        <updated>2022-04-01T09:20:45.170Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
