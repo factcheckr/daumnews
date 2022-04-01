@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-01T19:19:15.977Z</updated>
+    <updated>2022-04-01T20:24:14.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["틱톡 전쟁?"..소셜미디어가 바꾼 전쟁]]></title>
+        <id>https://v.daum.net/v/20220401213659393</id>
+        <link href="https://v.daum.net/v/20220401213659393"/>
+        <updated>2022-04-01T20:23:42.511Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["코에 뿌리기만 하면 코로나 예방·치료" 조만간 나온다?]]></title>
         <id>https://v.daum.net/v/20220401195158915</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220401170730246"/>
         <updated>2022-04-01T10:26:02.107Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국은 6G를 어떻게 준비해야 할까]]></title>
-        <id>https://v.daum.net/v/20220401165415941</id>
-        <link href="https://v.daum.net/v/20220401165415941"/>
-        <updated>2022-04-01T10:26:02.107Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>

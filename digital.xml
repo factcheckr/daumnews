@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-04-01T19:19:15.970Z</updated>
+    <updated>2022-04-01T20:24:14.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도 넘은 '인앱결제 갑질'..규제 움직임도 전세계로 확산]]></title>
+        <id>https://v.daum.net/v/20220402043033073</id>
+        <link href="https://v.daum.net/v/20220402043033073"/>
+        <updated>2022-04-01T20:23:34.639Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성중립 언어는 가능할까? 인공지능에 물었다]]></title>
         <id>https://v.daum.net/v/20220402030019748</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220401222706946"/>
         <updated>2022-04-01T13:37:36.543Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["틱톡 전쟁?"..소셜미디어가 바꾼 전쟁]]></title>
-        <id>https://v.daum.net/v/20220401213659393</id>
-        <link href="https://v.daum.net/v/20220401213659393"/>
-        <updated>2022-04-01T13:37:36.544Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

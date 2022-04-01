@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-04-01T19:19:15.984Z</updated>
+    <updated>2022-04-01T20:24:14.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1300년 이어온 '봄을 부르는 기도'의 힘, 코로나 극복 염원]]></title>
+        <id>https://v.daum.net/v/20220402001014660</id>
+        <link href="https://v.daum.net/v/20220402001014660"/>
+        <updated>2022-04-01T20:23:26.761Z</updated>
+        <content type="html"><![CDATA[중앙SUNDAY]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김정숙 옷값·브로치 논란ing.."호랑이면 무조건 까르띠에냐"]]></title>
         <id>https://v.daum.net/v/20220402000214578</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220401174139027"/>
         <updated>2022-04-01T13:37:26.949Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈체크] '10명 모임·자정까지 영업' 조정..마지막 거리두기 될까?]]></title>
-        <id>https://v.daum.net/v/20220401172103525</id>
-        <link href="https://v.daum.net/v/20220401172103525"/>
-        <updated>2022-04-01T12:41:43.420Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
