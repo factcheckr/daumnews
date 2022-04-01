@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-04-01T16:34:53.104Z</updated>
+    <updated>2022-04-01T17:25:52.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033399/Enx93aZzvx"/>
         <updated>2022-04-01T11:20:37.993Z</updated>
         <content type="html"><![CDATA[우크라이나는 지금]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개나리와 진달래]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/EPDlhXnPT0</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/EPDlhXnPT0"/>
+        <updated>2022-04-01T17:25:26.998Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[봄나물로 '원기회복' 하는 동물들 [TF사진관]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5031018/ERk3DDluPl"/>
         <updated>2022-04-01T03:20:49.557Z</updated>
         <content type="html"><![CDATA[아르헨티나는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네덜란드 의회서 화상 연설하며 박수 받는 젤렌스키]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5029619/EW69af1t2k</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5029619/EW69af1t2k"/>
-        <updated>2022-04-01T03:20:49.558Z</updated>
-        <content type="html"><![CDATA[네덜란드는 지금]]></content>
     </entry>
 </feed>
