@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-04-02T15:23:08.887Z</updated>
+    <updated>2022-04-02T16:30:18.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[우크라 침공] 독일, 우크라이나에 장갑차 지원 허가]]></title>
-        <id>https://v.daum.net/v/20220403001309844</id>
-        <link href="https://v.daum.net/v/20220403001309844"/>
-        <updated>2022-04-02T15:21:55.422Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[터키 국방장관 "마리우폴 피란민 해상으로 대피시키자"]]></title>
         <id>https://v.daum.net/v/20220402233848534</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20220402222847137"/>
         <updated>2022-04-02T14:20:04.803Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쿠데타 수단 군부 지도자, "유엔특사가 내정 간섭..추방할수도"]]></title>
+        <id>https://v.daum.net/v/20220402220733965</id>
+        <link href="https://v.daum.net/v/20220402220733965"/>
+        <updated>2022-04-02T16:29:07.120Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
