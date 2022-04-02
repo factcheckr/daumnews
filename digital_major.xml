@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-02T01:41:34.038Z</updated>
+    <updated>2022-04-02T02:59:05.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3000만 가입자 바라보는 5G..'음영' 지우고 '속도·품질' 높여야]]></title>
+        <id>https://v.daum.net/v/20220402070001156</id>
+        <link href="https://v.daum.net/v/20220402070001156"/>
+        <updated>2022-04-02T02:58:33.356Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이렇게 청소하면 큰일나요..미세먼지보다 더 독한 실내오염 주의보 [사이언스라운지]]]></title>
         <id>https://v.daum.net/v/20220402060311686</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220402030019748"/>
         <updated>2022-04-01T21:20:19.428Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허블 우주망원경, 우주 나이 9억년때 별빛 관측..역대 가장 먼 별]]></title>
-        <id>https://v.daum.net/v/20220402014013362</id>
-        <link href="https://v.daum.net/v/20220402014013362"/>
-        <updated>2022-04-01T21:20:19.430Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>

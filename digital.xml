@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-04-02T01:41:34.026Z</updated>
+    <updated>2022-04-02T02:59:05.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기후 변화, 따뜻해지면 좋은 것 아닌가요? [물에 관한 알쓸신잡]]]></title>
+        <id>https://v.daum.net/v/20220402113038895</id>
+        <link href="https://v.daum.net/v/20220402113038895"/>
+        <updated>2022-04-02T02:58:25.000Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[위클리 스마트] 셀카가 이상한 이유? 화면왜곡 탓 코주부 된다]]></title>
         <id>https://v.daum.net/v/20220402100021790</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220402070006169"/>
         <updated>2022-04-01T22:22:07.961Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3000만 가입자 바라보는 5G..'음영' 지우고 '속도·품질' 높여야]]></title>
-        <id>https://v.daum.net/v/20220402070001156</id>
-        <link href="https://v.daum.net/v/20220402070001156"/>
-        <updated>2022-04-01T22:22:07.962Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>

@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-04-02T01:41:34.035Z</updated>
+    <updated>2022-04-02T02:59:05.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['수험생 여러분 응원합니다']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/896465/EHkOz9cRZV</id>
-        <link href="https://gallery.v.daum.net/p/viewer/896465/EHkOz9cRZV"/>
-        <updated>2022-04-02T01:41:08.447Z</updated>
+        <title type="html"><![CDATA[대구 봉덕신시장 화재, 치솟는 불길]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1518/E3SfztSkhl</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1518/E3SfztSkhl"/>
+        <updated>2022-04-02T02:58:40.819Z</updated>
+        <content type="html"><![CDATA[전국 화재사고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배치도 확인하는 수험생들]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/896465/EPzfJaBlHq</id>
+        <link href="https://gallery.v.daum.net/p/viewer/896465/EPzfJaBlHq"/>
+        <updated>2022-04-02T02:58:40.820Z</updated>
         <content type="html"><![CDATA[대학수학능력시험]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화성의 음파는 지구보다 느리다..퍼서비어런스가 발견]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1497/EopwVEx0EV</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1497/EopwVEx0EV"/>
+        <updated>2022-04-02T02:58:40.820Z</updated>
+        <content type="html"><![CDATA[우주의 신비]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 토요일 신규 확진자 현황(2일)]]></title>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5035080/EpSytocnBB"/>
         <updated>2022-04-01T08:28:15.826Z</updated>
         <content type="html"><![CDATA[기름값 현황]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검게 거을린 사천읍교회 옥상]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1518/ETR3xiEh4U</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1518/ETR3xiEh4U"/>
-        <updated>2022-04-01T08:28:15.829Z</updated>
-        <content type="html"><![CDATA[전국 화재사고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하락 마감한 코스피]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5031020/E7ZInOgUrn</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5031020/E7ZInOgUrn"/>
-        <updated>2022-04-01T07:22:18.400Z</updated>
-        <content type="html"><![CDATA[코스피 &amp; 코스닥]]></content>
     </entry>
 </feed>
