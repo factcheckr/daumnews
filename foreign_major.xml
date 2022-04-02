@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-04-02T14:21:17.783Z</updated>
+    <updated>2022-04-02T15:23:08.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쿠데타 수단 군부 지도자, "유엔특사가 내정 간섭..추방할수도"]]></title>
+        <id>https://v.daum.net/v/20220402220733965</id>
+        <link href="https://v.daum.net/v/20220402220733965"/>
+        <updated>2022-04-02T15:22:03.835Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[교황 "키이우 방문 고려 중..좋은 방문될 것"(종합)]]></title>
+        <id>https://v.daum.net/v/20220402215413841</id>
+        <link href="https://v.daum.net/v/20220402215413841"/>
+        <updated>2022-04-02T15:22:03.837Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[교황 "일부 통치자가 갈등 조장"..푸틴 향해 첫 공개 비판]]></title>
         <id>https://v.daum.net/v/20220402214349768</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220402203411337"/>
         <updated>2022-04-02T13:25:45.560Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아군, 키이우 외곽 철수.."세상에서 가장 나쁜 전쟁"]]></title>
-        <id>https://v.daum.net/v/20220402203409336</id>
-        <link href="https://v.daum.net/v/20220402203409336"/>
-        <updated>2022-04-02T13:25:45.562Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미, 8일 만에 추가 제재.."북, 가상화폐 4800억 해킹"]]></title>
-        <id>https://v.daum.net/v/20220402203008307</id>
-        <link href="https://v.daum.net/v/20220402203008307"/>
-        <updated>2022-04-02T12:33:40.373Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
