@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2022-04-02T16:30:18.989Z</updated>
+    <updated>2022-04-02T17:22:16.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[젤렌스키 "러시아군, 지뢰 매설하면서 철수"]]></title>
+        <id>https://v.daum.net/v/20220403013102136</id>
+        <link href="https://v.daum.net/v/20220403013102136"/>
+        <updated>2022-04-02T17:20:10.248Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['썸타기'만 하는 MZ세대..사랑과 결혼 왜 망설이나?]]></title>
         <id>https://v.daum.net/v/20220403012519117</id>
@@ -118,13 +125,6 @@
         <content type="html"><![CDATA[국제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["푸틴 지지율 83% 육박.. 러시아인 68% 전쟁 지지"]]></title>
-        <id>https://v.daum.net/v/20220402214209759</id>
-        <link href="https://v.daum.net/v/20220402214209759"/>
-        <updated>2022-04-02T13:24:37.317Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[전북 곳곳에 봄꽃 만발..'벚꽃도 곧 절정']]></title>
         <id>https://v.daum.net/v/20220402214028747</id>
         <link href="https://v.daum.net/v/20220402214028747"/>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[사회]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[도쿄서 '표현의 부자유전' 개막..일 우익 또다시 방해 시위]]></title>
-        <id>https://v.daum.net/v/20220402213332678</id>
-        <link href="https://v.daum.net/v/20220402213332678"/>
-        <updated>2022-04-02T16:28:11.056Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[고체 로켓 정찰위성..경제·안보 지형 변화 예고]]></title>
         <id>https://v.daum.net/v/20220402213050668</id>
         <link href="https://v.daum.net/v/20220402213050668"/>
         <updated>2022-04-02T16:28:11.057Z</updated>
         <content type="html"><![CDATA[정치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[완연한 봄..남녘엔 벚꽃 만개]]></title>
+        <id>https://v.daum.net/v/20220402211512582</id>
+        <link href="https://v.daum.net/v/20220402211512582"/>
+        <updated>2022-04-02T17:20:10.280Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
     </entry>
 </feed>
