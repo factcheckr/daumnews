@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-04-03T15:24:03.075Z</updated>
+    <updated>2022-04-03T16:30:45.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[생일파티가 '홍대 명절' 됐다, 15년째 연 인디축제 '경록절']]></title>
-        <id>https://v.daum.net/v/20220404000330447</id>
-        <link href="https://v.daum.net/v/20220404000330447"/>
-        <updated>2022-04-03T15:23:11.674Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[새우 까줘도 돼..? 깻잎 논쟁에 이은 새우 논쟁의 등장?!]]></title>
         <id>https://v.daum.net/v/20220404000109385</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220403165100525"/>
         <updated>2022-04-03T12:34:46.105Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["국내 유일 230년 전 하프시코드 연주..귀족 분위기 만끽"]]></title>
+        <id>https://v.daum.net/v/20220403153101647</id>
+        <link href="https://v.daum.net/v/20220403153101647"/>
+        <updated>2022-04-03T16:29:56.906Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
