@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-04-03T01:45:03.013Z</updated>
+    <updated>2022-04-03T02:57:36.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파란하늘 아래로 떨어지는 팝콘들]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1783949/Enw3TRJGKl</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1783949/Enw3TRJGKl"/>
+        <updated>2022-04-03T02:57:14.426Z</updated>
+        <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19 확산으로 사망자 급증, 대기하는 운구차량]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5014013/E1uEFBcVWD</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5014013/E1uEFBcVWD"/>
+        <updated>2022-04-03T02:57:14.426Z</updated>
+        <content type="html"><![CDATA['코로나19' 바이러스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방미길 나서는 박진・조태용]]></title>
         <id>https://gallery.v.daum.net/p/viewer/31583/EuM96cwg1t</id>
         <link href="https://gallery.v.daum.net/p/viewer/31583/EuM96cwg1t"/>
         <updated>2022-04-03T01:44:38.150Z</updated>
         <content type="html"><![CDATA[인천공항 풍경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[계속되는 코로나19 검사]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5014013/EpUelXWO8J</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5014013/EpUelXWO8J"/>
-        <updated>2022-04-03T01:44:38.154Z</updated>
-        <content type="html"><![CDATA['코로나19' 바이러스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[북한 김정은, 완공된 평양 보통강변 주택지구 시찰]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1573204/EZAVyBI1Ev"/>
         <updated>2022-04-01T18:27:56.537Z</updated>
         <content type="html"><![CDATA[[아무튼, 주말] 오종찬 기자의 Oh!컷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['접종 완료' 해외 입국자 격리 면제된 첫날..공항 풍경[포토뉴스]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/377110/EPJah9rFSX</id>
-        <link href="https://gallery.v.daum.net/p/viewer/377110/EPJah9rFSX"/>
-        <updated>2022-04-01T12:42:07.284Z</updated>
-        <content type="html"><![CDATA[포토뉴스]]></content>
     </entry>
 </feed>
