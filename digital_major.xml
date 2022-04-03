@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-03T04:28:50.068Z</updated>
+    <updated>2022-04-03T05:20:48.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한시 비대면 진료, 안전성 입증·우려 해소 노력 필요해]]></title>
+        <id>https://v.daum.net/v/20220403094108314</id>
+        <link href="https://v.daum.net/v/20220403094108314"/>
+        <updated>2022-04-03T05:20:17.519Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인앱결제' 강행한 구글..방통위 어떤 제재 나올까]]></title>
         <id>https://v.daum.net/v/20220403093019143</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220403120030699"/>
         <updated>2022-04-03T03:32:39.358Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['2차발사' 누리호 탑재 성능검증위성 개발 마무리 단계]]></title>
-        <id>https://v.daum.net/v/20220403120041729</id>
-        <link href="https://v.daum.net/v/20220403120041729"/>
-        <updated>2022-04-03T03:32:39.362Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
