@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-04-03T11:19:51.090Z</updated>
+    <updated>2022-04-03T12:35:36.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220403172700359"/>
         <updated>2022-04-03T10:23:32.523Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유류세 인하 30%로 확대..생계형 화물차엔 보조금 검토]]></title>
+        <id>https://v.daum.net/v/20220403190526213</id>
+        <link href="https://v.daum.net/v/20220403190526213"/>
+        <updated>2022-04-03T12:34:12.715Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美 경기침체 시그널, 식량·에너지는 급등.. 금리인상 감속 경고 [글로벌 리포트]]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220403183657795"/>
         <updated>2022-04-03T10:23:32.533Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50조 추경 어떻게..한덕수 "재정 지출, 차입에만 의존 안돼"]]></title>
-        <id>https://v.daum.net/v/20220403183335750</id>
-        <link href="https://v.daum.net/v/20220403183335750"/>
-        <updated>2022-04-03T10:23:32.533Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>

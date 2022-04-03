@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-04-03T11:19:51.091Z</updated>
+    <updated>2022-04-03T12:35:36.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1회 600만원 된 '3.6억 신약' 킴리아.. 고가의 이유는?]]></title>
+        <id>https://v.daum.net/v/20220403210524209</id>
+        <link href="https://v.daum.net/v/20220403210524209"/>
+        <updated>2022-04-03T12:34:04.466Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[꼬이는 대형M&A, 尹정부로②]HMM·대우조선..커진 몸집·알박기 논란]]></title>
         <id>https://v.daum.net/v/20220403192904424</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220403190601225"/>
         <updated>2022-04-03T10:23:24.453Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유류세 인하 30%로 확대..생계형 화물차엔 보조금 검토]]></title>
-        <id>https://v.daum.net/v/20220403190526213</id>
-        <link href="https://v.daum.net/v/20220403190526213"/>
-        <updated>2022-04-03T10:23:24.453Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
