@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-04-03T17:22:52.434Z</updated>
+    <updated>2022-04-03T18:26:07.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문고리 집합!]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/EyuEUh6AOw</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/EyuEUh6AOw"/>
+        <updated>2022-04-03T18:25:43.912Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["도화지에도 개나리 꽃이 피었습니다"]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5014013/EsmtIWKa1r</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5014013/EsmtIWKa1r"/>
+        <updated>2022-04-03T18:25:43.913Z</updated>
+        <content type="html"><![CDATA['코로나19' 바이러스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경루동 '고급 주택가' 찾은 김정은]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1512/EWRhDH3jQi</id>
@@ -111,13 +125,6 @@
         <content type="html"><![CDATA[사진톡톡]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[화장시설 운영현황 살피는 오세훈 시장]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5014013/EDGqWzoyP5</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5014013/EDGqWzoyP5"/>
-        <updated>2022-04-03T04:28:25.524Z</updated>
-        <content type="html"><![CDATA['코로나19' 바이러스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[제주4·3 제73주년 서울 추념식]]></title>
         <id>https://gallery.v.daum.net/p/viewer/318190/EJJNwsdlww</id>
         <link href="https://gallery.v.daum.net/p/viewer/318190/EJJNwsdlww"/>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/31583/EuM96cwg1t"/>
         <updated>2022-04-03T01:44:38.150Z</updated>
         <content type="html"><![CDATA[인천공항 풍경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈 맞으며 연행되는 우크라 침공 반대 러 시위대]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/6637/E8Ed9IUmqd</id>
-        <link href="https://gallery.v.daum.net/p/viewer/6637/E8Ed9IUmqd"/>
-        <updated>2022-04-03T01:44:38.156Z</updated>
-        <content type="html"><![CDATA[러시아는 지금]]></content>
     </entry>
 </feed>
