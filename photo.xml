@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-04-03T19:18:46.221Z</updated>
+    <updated>2022-04-03T20:24:29.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[尹정부 초대 국무총리로 한덕수 전 총리 지명]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/EUdndvfl1n</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/EUdndvfl1n"/>
+        <updated>2022-04-03T20:24:03.920Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문고리 집합!]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/EyuEUh6AOw</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1783949/Enw3TRJGKl"/>
         <updated>2022-04-03T02:57:14.426Z</updated>
         <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방미길 나서는 박진・조태용]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/31583/EuM96cwg1t</id>
-        <link href="https://gallery.v.daum.net/p/viewer/31583/EuM96cwg1t"/>
-        <updated>2022-04-03T01:44:38.150Z</updated>
-        <content type="html"><![CDATA[인천공항 풍경]]></content>
     </entry>
 </feed>

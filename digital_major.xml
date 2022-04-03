@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-03T19:18:46.236Z</updated>
+    <updated>2022-04-03T20:24:29.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,27 @@
         <link href="https://v.daum.net/v/20220404030439257"/>
         <updated>2022-04-03T18:25:36.294Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새정부 국정운영 전망 긍정 64.3%]]></title>
+        <id>https://v.daum.net/v/20220404001141638</id>
+        <link href="https://v.daum.net/v/20220404001141638"/>
+        <updated>2022-04-03T20:23:56.127Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["확산세 감소 땐 '실내 마스크 착용' 뺀 모든 거리두기 해제"]]></title>
+        <id>https://v.daum.net/v/20220404001131626</id>
+        <link href="https://v.daum.net/v/20220404001131626"/>
+        <updated>2022-04-03T20:23:56.128Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새정부 우선 해결 현안 '강원형 고속교통 네트워크 구축']]></title>
+        <id>https://v.daum.net/v/20220404001132628</id>
+        <link href="https://v.daum.net/v/20220404001132628"/>
+        <updated>2022-04-03T20:23:56.129Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["애플, 2024년 언더 디스플레이 페이스ID 출시 전망"]]></title>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20220403193601473"/>
         <updated>2022-04-03T15:23:29.034Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 가볍고, 더 커지고.. 스마트폰과 연동 문자메시지 바로 확인]]></title>
-        <id>https://v.daum.net/v/20220403191158279</id>
-        <link href="https://v.daum.net/v/20220403191158279"/>
-        <updated>2022-04-03T15:23:29.035Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[니켈값 폭등에.. 조선 빅3, 실적 기대 커진다]]></title>
-        <id>https://v.daum.net/v/20220403190021159</id>
-        <link href="https://v.daum.net/v/20220403190021159"/>
-        <updated>2022-04-03T14:20:01.808Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["대체 얼마나 급했으면" 텅 빈 사진첩에 또 낚였다?]]></title>
-        <id>https://v.daum.net/v/20220403185125066</id>
-        <link href="https://v.daum.net/v/20220403185125066"/>
-        <updated>2022-04-03T14:20:01.808Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
