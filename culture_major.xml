@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-04-03T05:20:48.252Z</updated>
+    <updated>2022-04-03T06:27:14.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://v.daum.net/v/20220403115400521</id>
         <link href="https://v.daum.net/v/20220403115400521"/>
         <updated>2022-04-03T02:56:51.629Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[친일파 별장에서 '임정 청사'로.. 파란만장했던 이 집의 역사  [서울 근대건축 톺아보기]]]></title>
+        <id>https://v.daum.net/v/20220403112106921</id>
+        <link href="https://v.daum.net/v/20220403112106921"/>
+        <updated>2022-04-03T06:26:27.125Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
     <entry>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220403073202930"/>
         <updated>2022-04-03T01:44:14.738Z</updated>
         <content type="html"><![CDATA[시사저널]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이흥곤의 요기좋아<4> "지리산 천왕봉 정상석 방향 이제 돌려놔 주세요"]]></title>
-        <id>https://v.daum.net/v/20220403070001643</id>
-        <link href="https://v.daum.net/v/20220403070001643"/>
-        <updated>2022-04-03T01:44:14.746Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
     </entry>
 </feed>
