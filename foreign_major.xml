@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-04-03T14:20:32.480Z</updated>
+    <updated>2022-04-03T15:24:03.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WHO "오미크론 혼합형 XE 변이, 전염력 더 높을 가능성"]]></title>
+        <id>https://v.daum.net/v/20220403222810898</id>
+        <link href="https://v.daum.net/v/20220403222810898"/>
+        <updated>2022-04-03T15:22:53.960Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라, "러시아군 민간인 학살, 우선 경제제재 높여야"]]></title>
+        <id>https://v.daum.net/v/20220403222341868</id>
+        <link href="https://v.daum.net/v/20220403222341868"/>
+        <updated>2022-04-03T15:22:53.960Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['코로나 XE' 유입 대만 신규 280명..본토 183명 올들어 최다]]></title>
         <id>https://v.daum.net/v/20220403221315809</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220403212903432"/>
         <updated>2022-04-03T13:26:04.589Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러' 우크라 수도 퇴각 후 300명 민간인 시신 무덤 발견]]></title>
-        <id>https://v.daum.net/v/20220403211832335</id>
-        <link href="https://v.daum.net/v/20220403211832335"/>
-        <updated>2022-04-03T13:26:04.591Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스트레이트] 새로운 경계]]></title>
-        <id>https://v.daum.net/v/20220403210720228</id>
-        <link href="https://v.daum.net/v/20220403210720228"/>
-        <updated>2022-04-03T13:26:04.591Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
