@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-04-04T17:26:09.263Z</updated>
+    <updated>2022-04-04T18:28:41.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안전한 보금자리]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/EVZIn7A568</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/EVZIn7A568"/>
+        <updated>2022-04-04T18:28:16.536Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서초 '아쿠아아트육교' 10월말까지 가동]]></title>
         <id>https://gallery.v.daum.net/p/viewer/111971/Ed8OWAYixy</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2323/EksOEcbD9X"/>
         <updated>2022-04-04T05:22:07.339Z</updated>
         <content type="html"><![CDATA[보도사진상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[40가지 말귀 알아듣는 개, 美 아동병원 취직]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/139426/ECkondo9Tu</id>
-        <link href="https://gallery.v.daum.net/p/viewer/139426/ECkondo9Tu"/>
-        <updated>2022-04-04T05:22:07.340Z</updated>
-        <content type="html"><![CDATA[[서울신문 나우뉴스] 애니멀 픽]]></content>
     </entry>
 </feed>
