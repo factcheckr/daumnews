@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-04-04T14:22:38.334Z</updated>
+    <updated>2022-04-04T15:25:10.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[(1) 빈 홀렸던 '코레아의 신부' 120년 만에 한국에서 깨어난다]]></title>
-        <id>https://v.daum.net/v/20220404175204222</id>
-        <link href="https://v.daum.net/v/20220404175204222"/>
-        <updated>2022-04-04T14:21:52.129Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[브로드웨이 흥행작 '해밀턴'..대사 없이 노래로 전하는 감동]]></title>
         <id>https://v.daum.net/v/20220404171902294</id>
@@ -55,13 +48,6 @@
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20일동안 공연 열번..바이올리니스트 김응수의 '무한 도전']]></title>
-        <id>https://v.daum.net/v/20220404143812221</id>
-        <link href="https://v.daum.net/v/20220404143812221"/>
-        <updated>2022-04-04T08:27:03.332Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[이 오케스트라 공연에 지휘대가 없는 이유]]></title>
         <id>https://v.daum.net/v/20220404141604220</id>
         <link href="https://v.daum.net/v/20220404141604220"/>
@@ -74,5 +60,19 @@
         <link href="https://v.daum.net/v/20220404141501167"/>
         <updated>2022-04-04T10:25:20.868Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["부활절 연합예배 헌금, 우크라이나 난민·산불 이재민 지원에 사용"]]></title>
+        <id>https://v.daum.net/v/20220404135025271</id>
+        <link href="https://v.daum.net/v/20220404135025271"/>
+        <updated>2022-04-04T15:24:21.984Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20일동안 공연 열번..바이올리니스트 김응수의 '무한 도전']]></title>
+        <id>https://v.daum.net/v/20220404143812221</id>
+        <link href="https://v.daum.net/v/20220404143812221"/>
+        <updated>2022-04-04T08:27:03.332Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>

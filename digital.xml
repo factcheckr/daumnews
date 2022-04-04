@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-04-04T14:22:38.331Z</updated>
+    <updated>2022-04-04T15:25:10.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['1.5도 온난화' 위한 해법 온실가스 '43%' 감축]]></title>
+        <id>https://v.daum.net/v/20220405000122914</id>
+        <link href="https://v.daum.net/v/20220405000122914"/>
+        <updated>2022-04-04T15:24:29.652Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["이대론 2100년 지구 평균온도 3.2도 상승 못 피한다"]]></title>
+        <id>https://v.daum.net/v/20220405000101903</id>
+        <link href="https://v.daum.net/v/20220405000101903"/>
+        <updated>2022-04-04T15:24:29.652Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스텔스'보다 전파력 10%강한 오미크론XE 확산..방역당국 "방역전략 전환할 정도 아냐"]]></title>
         <id>https://v.daum.net/v/20220404223013308</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220404205128218"/>
         <updated>2022-04-04T12:38:44.729Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 방통위, 삼성전자·애플·구글 의견수렴 0%..韓인기협 의견은 86% 수용]]></title>
-        <id>https://v.daum.net/v/20220404200606745</id>
-        <link href="https://v.daum.net/v/20220404200606745"/>
-        <updated>2022-04-04T11:19:59.162Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美中 10여개 '패권기술' 키워..韓도 민간중심 'R&D PM(프로젝트 메니저)' 만들어야]]></title>
-        <id>https://v.daum.net/v/20220404181614959</id>
-        <link href="https://v.daum.net/v/20220404181614959"/>
-        <updated>2022-04-04T09:22:46.585Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
