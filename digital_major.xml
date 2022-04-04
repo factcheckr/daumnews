@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-04T21:20:41.291Z</updated>
+    <updated>2022-04-04T22:23:42.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3차 백신 접종 한 달 만에 확진된 이유 [이은경의 생명, 과학]]]></title>
+        <id>https://v.daum.net/v/20220405055002088</id>
+        <link href="https://v.daum.net/v/20220405055002088"/>
+        <updated>2022-04-04T22:23:11.785Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["한물 간 줄 알았는데.." 몸값 뛴 8인치 반도체에 투자 못하는 이유]]></title>
         <id>https://v.daum.net/v/20220405053901968</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220404223013308"/>
         <updated>2022-04-04T20:23:27.426Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일찍 온 봄, 일찍 핀 서울 벚꽃]]></title>
-        <id>https://v.daum.net/v/20220404215305917</id>
-        <link href="https://v.daum.net/v/20220404215305917"/>
-        <updated>2022-04-04T20:23:27.426Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
