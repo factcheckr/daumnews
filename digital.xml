@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-04-04T11:20:36.872Z</updated>
+    <updated>2022-04-04T12:39:24.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["직원 연봉 4억원, 실화야" 얼마나 떼돈 벌길래 '이 분'까지 눈독]]></title>
+        <id>https://v.daum.net/v/20220404205128218</id>
+        <link href="https://v.daum.net/v/20220404205128218"/>
+        <updated>2022-04-04T12:38:44.729Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 방통위, 삼성전자·애플·구글 의견수렴 0%..韓인기협 의견은 86% 수용]]></title>
         <id>https://v.daum.net/v/20220404200606745</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220404174117891"/>
         <updated>2022-04-04T09:22:46.590Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[초점] 혹평 속 '아이폰SE3' 버린카드?..마음은 벌써 '아이폰14']]></title>
-        <id>https://v.daum.net/v/20220404172852553</id>
-        <link href="https://v.daum.net/v/20220404172852553"/>
-        <updated>2022-04-04T09:22:46.591Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>
