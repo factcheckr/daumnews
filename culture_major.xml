@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-04-05T13:31:43.460Z</updated>
+    <updated>2022-04-05T14:22:10.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220405181701556"/>
         <updated>2022-04-05T09:21:33.750Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["샤넬만 오픈런하나"..1000만개 팔린 '포켓몬빵' 사려고 노숙]]></title>
+        <id>https://v.daum.net/v/20220405172603940</id>
+        <link href="https://v.daum.net/v/20220405172603940"/>
+        <updated>2022-04-05T14:21:26.599Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['국민간식' 치킨, 정말 3만원이 적정 가격일까?[궁즉답]]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220405152016297"/>
         <updated>2022-04-05T08:26:56.913Z</updated>
         <content type="html"><![CDATA[JIBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여류화가 100인이 그리는 '익산의 봄'.."자연·문화가치 재해석"]]></title>
-        <id>https://v.daum.net/v/20220405150541622</id>
-        <link href="https://v.daum.net/v/20220405150541622"/>
-        <updated>2022-04-05T08:26:56.915Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
