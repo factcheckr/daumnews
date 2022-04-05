@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-04-05T18:27:45.408Z</updated>
+    <updated>2022-04-05T19:27:41.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고삐풀린 물가.. 4.1%나 뛰었다]]></title>
+        <id>https://v.daum.net/v/20220406032349186</id>
+        <link href="https://v.daum.net/v/20220406032349186"/>
+        <updated>2022-04-05T19:26:05.924Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[DBR/Special Report]'중대재해' 경영책임자 명확히.. 안전 이행 증빙 챙겨야]]></title>
         <id>https://v.daum.net/v/20220406030447121</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220406030220030"/>
         <updated>2022-04-05T18:26:24.382Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유통업계 주총 결산..'신사업·온라인' 내건 오프라인 유통 공룡들 [한경 엣지]]]></title>
-        <id>https://v.daum.net/v/20220406004002496</id>
-        <link href="https://v.daum.net/v/20220406004002496"/>
-        <updated>2022-04-05T16:31:21.456Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
