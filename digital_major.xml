@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-06T10:27:10.167Z</updated>
+    <updated>2022-04-06T11:20:50.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["2천만원 쏟아부었는데 휴지조각" 중국 '먹튀'에 또 당했다]]></title>
+        <id>https://v.daum.net/v/20220406175119225</id>
+        <link href="https://v.daum.net/v/20220406175119225"/>
+        <updated>2022-04-06T11:20:17.151Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나 치료제 개발한다면서 1.5억원 '찔끔' 용역 발주한 질병청]]></title>
         <id>https://v.daum.net/v/20220406173216634</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220406160126926"/>
         <updated>2022-04-06T08:26:57.766Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[달콤한 사이언스] 좌뇌, 우뇌 크기·모양 똑같으면 난독증 생긴다]]></title>
-        <id>https://v.daum.net/v/20220406160105904</id>
-        <link href="https://v.daum.net/v/20220406160105904"/>
-        <updated>2022-04-06T08:26:57.767Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
