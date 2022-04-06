@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-04-06T03:00:13.595Z</updated>
+    <updated>2022-04-06T03:37:30.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[얼굴도 못 긁는 티라노의 팔, 어디에 쓰는 물건인고]]></title>
+        <id>https://v.daum.net/v/20220406110618288</id>
+        <link href="https://v.daum.net/v/20220406110618288"/>
+        <updated>2022-04-06T03:36:46.784Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["농촌 독거노인 10명 중 4명, 응급실까지 30분 넘게 걸려"]]></title>
         <id>https://v.daum.net/v/20220406110042950</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220406061509602"/>
         <updated>2022-04-06T01:41:17.729Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대극장엔 역작, 소극장엔 축제.. 봄바람 타고 온 4월의 오페라]]></title>
-        <id>https://v.daum.net/v/20220406050740723</id>
-        <link href="https://v.daum.net/v/20220406050740723"/>
-        <updated>2022-04-06T01:41:17.730Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
