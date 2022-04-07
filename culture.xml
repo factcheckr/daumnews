@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-04-07T18:27:22.550Z</updated>
+    <updated>2022-04-07T19:19:33.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자꾸 불어나는 뱃살, 혹시 '쿠싱병'?]]></title>
+        <id>https://v.daum.net/v/20220408035546597</id>
+        <link href="https://v.daum.net/v/20220408035546597"/>
+        <updated>2022-04-07T19:18:40.985Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산책 자주 하면 시각·청각 다 발달하죠]]></title>
         <id>https://v.daum.net/v/20220408030220357</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220408000902379"/>
         <updated>2022-04-07T15:22:37.210Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[축제가 따로 있나요, 벚꽃 피면 축제인 거죠]]></title>
-        <id>https://v.daum.net/v/20220408000418310</id>
-        <link href="https://v.daum.net/v/20220408000418310"/>
-        <updated>2022-04-07T15:22:37.211Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>

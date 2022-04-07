@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-04-07T18:27:22.532Z</updated>
+    <updated>2022-04-07T19:19:33.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[축제가 따로 있나요, 벚꽃 피면 축제인 거죠]]></title>
+        <id>https://v.daum.net/v/20220408000418310</id>
+        <link href="https://v.daum.net/v/20220408000418310"/>
+        <updated>2022-04-07T19:18:48.573Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기지개 켜는 봄축제..대면행사 줄이고 꽃놀이·문화공연]]></title>
         <id>https://v.daum.net/v/20220408000407306</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220407174003730"/>
         <updated>2022-04-07T12:38:16.800Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내 작품 두려면 시멘트로 벽부터 새로 칠해" 지시한 스위스 작가]]></title>
-        <id>https://v.daum.net/v/20220407173617617</id>
-        <link href="https://v.daum.net/v/20220407173617617"/>
-        <updated>2022-04-07T12:38:16.800Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
