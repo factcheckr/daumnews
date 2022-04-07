@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-04-07T10:24:40.676Z</updated>
+    <updated>2022-04-07T11:20:50.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경북 포항에 해상 산책길 '스카이워크' 개장.."전국 최장"]]></title>
+        <id>https://v.daum.net/v/20220407173150445</id>
+        <link href="https://v.daum.net/v/20220407173150445"/>
+        <updated>2022-04-07T11:20:02.450Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["뮤지컬 '쇼맨', 삶의 무게 표현..주체성 회복 메시지"]]></title>
         <id>https://v.daum.net/v/20220407172723331</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220407160621577"/>
         <updated>2022-04-07T08:27:08.326Z</updated>
         <content type="html"><![CDATA[대전일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가난했던 달동네가 군산 '핫 플레이스'로 변신]]></title>
-        <id>https://v.daum.net/v/20220407154201626</id>
-        <link href="https://v.daum.net/v/20220407154201626"/>
-        <updated>2022-04-07T08:27:08.330Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
