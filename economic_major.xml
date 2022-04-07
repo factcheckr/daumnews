@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-04-07T15:23:34.141Z</updated>
+    <updated>2022-04-07T16:32:06.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,20 +25,6 @@
         <link href="https://v.daum.net/v/20220407211647797"/>
         <updated>2022-04-07T13:32:32.758Z</updated>
         <content type="html"><![CDATA[대구MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["달달하게 한잔 마실까"..최대 밥 두 공기 반 '열량 폭탄']]></title>
-        <id>https://v.daum.net/v/20220407204603089</id>
-        <link href="https://v.daum.net/v/20220407204603089"/>
-        <updated>2022-04-07T13:32:32.761Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["재택근무 더 해" "아냐, 전면 출근" 앞으론 어떻게 될까]]></title>
-        <id>https://v.daum.net/v/20220407204519076</id>
-        <link href="https://v.daum.net/v/20220407204519076"/>
-        <updated>2022-04-07T13:32:32.762Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["경제활력 잃은 동남권..새 정부 지역균형발전 과감해야"]]></title>
@@ -74,5 +60,19 @@
         <link href="https://v.daum.net/v/20220407220922012"/>
         <updated>2022-04-07T15:22:11.276Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폐사한 꿀벌 78억마리..정부 "양봉농가당 1000만원 융자 지원"]]></title>
+        <id>https://v.daum.net/v/20220407220907003</id>
+        <link href="https://v.daum.net/v/20220407220907003"/>
+        <updated>2022-04-07T16:30:51.093Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[곳곳에 리스크..불확실성 커지는 한국 경제]]></title>
+        <id>https://v.daum.net/v/20220407220902998</id>
+        <link href="https://v.daum.net/v/20220407220902998"/>
+        <updated>2022-04-07T16:30:51.095Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
