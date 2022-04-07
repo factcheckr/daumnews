@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-07T06:28:27.250Z</updated>
+    <updated>2022-04-07T07:22:15.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[게임쇼 속속 오프라인 컴백..두근거리는 대기열이 돌아온다]]></title>
+        <id>https://v.daum.net/v/20220407141302361</id>
+        <link href="https://v.daum.net/v/20220407141302361"/>
+        <updated>2022-04-07T07:21:46.248Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['마왕 신해철' 데려간 패혈증 3시간 내에 진단하는 기술 나왔다]]></title>
         <id>https://v.daum.net/v/20220407140606088</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220407100615366"/>
         <updated>2022-04-07T03:34:03.195Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성 '갤럭시 맞춤 AP' 나오나..노태문 "커스터마이징 AP 개발 고민"]]></title>
-        <id>https://v.daum.net/v/20220407094237283</id>
-        <link href="https://v.daum.net/v/20220407094237283"/>
-        <updated>2022-04-07T03:34:03.198Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

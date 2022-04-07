@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-04-07T06:28:27.248Z</updated>
+    <updated>2022-04-07T07:22:15.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[달콤한 사이언스]뽀송뽀송 옷 말리는 건조기, 알고보니 공기중 미세섬유 발생]]></title>
+        <id>https://v.daum.net/v/20220407160601552</id>
+        <link href="https://v.daum.net/v/20220407160601552"/>
+        <updated>2022-04-07T07:21:39.215Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양자기술 완벽 안전성 최초 증명..물리학 최고권위 PRL표지논문(종합)]]></title>
         <id>https://v.daum.net/v/20220407152303740</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220407143826506"/>
         <updated>2022-04-07T06:27:49.011Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게임쇼 속속 오프라인 컴백..두근거리는 대기열이 돌아온다]]></title>
-        <id>https://v.daum.net/v/20220407141302361</id>
-        <link href="https://v.daum.net/v/20220407141302361"/>
-        <updated>2022-04-07T05:21:10.471Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
