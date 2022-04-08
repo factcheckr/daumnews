@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-08T03:06:13.939Z</updated>
+    <updated>2022-04-08T04:28:44.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국제이스포츠연맹, 123개국 가입..한국, 亞게임 대표 선발]]></title>
+        <id>https://v.daum.net/v/20220408110912723</id>
+        <link href="https://v.daum.net/v/20220408110912723"/>
+        <updated>2022-04-08T04:28:11.500Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갤럭시S22 성능 논란 커지자.. 애플처럼 "전용 칩 만들겠다"는 삼성]]></title>
         <id>https://v.daum.net/v/20220408105439987</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220408080000118"/>
         <updated>2022-04-08T03:05:40.545Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계적 과학학술지 '네이처'에 암호화폐가?..9가지 과제 뭘까]]></title>
-        <id>https://v.daum.net/v/20220408071812508</id>
-        <link href="https://v.daum.net/v/20220408071812508"/>
-        <updated>2022-04-08T03:05:40.546Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
