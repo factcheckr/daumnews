@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-04-08T18:28:32.607Z</updated>
+    <updated>2022-04-08T19:20:11.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[직박구리의 낭만]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/EvsazrxmhQ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/EvsazrxmhQ"/>
+        <updated>2022-04-08T19:19:44.596Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초록빛 상상]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/E3z36eRsof</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/344179/Ej2zkl4Jge"/>
         <updated>2022-04-08T05:21:03.306Z</updated>
         <content type="html"><![CDATA[청계천 옆 사진관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박인호 공군참모총장, 한국전 참전용사 기념비 참배]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033571/EWJkXahEBy</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033571/EWJkXahEBy"/>
-        <updated>2022-04-08T05:21:03.307Z</updated>
-        <content type="html"><![CDATA[대한민국 공군]]></content>
     </entry>
 </feed>
