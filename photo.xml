@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-04-08T17:26:47.385Z</updated>
+    <updated>2022-04-08T18:28:32.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[초록빛 상상]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/E3z36eRsof</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/E3z36eRsof"/>
+        <updated>2022-04-08T18:28:07.344Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정의용 장관, 나토 사무총장 옌스 스톨텐베르그 면담]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5032955/EtCe9qiT5q</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033571/EWJkXahEBy"/>
         <updated>2022-04-08T05:21:03.307Z</updated>
         <content type="html"><![CDATA[대한민국 공군]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령 집무실 용산 이전에 따른 국방부 이사 작업 본격 시작]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1777331/EQxxtBahlE</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1777331/EQxxtBahlE"/>
-        <updated>2022-04-08T04:28:19.440Z</updated>
-        <content type="html"><![CDATA[포토인사이트]]></content>
     </entry>
 </feed>
