@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-04-08T16:32:17.696Z</updated>
+    <updated>2022-04-08T17:26:47.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1461/EI2SsBVAyF"/>
         <updated>2022-04-08T12:40:18.393Z</updated>
         <content type="html"><![CDATA[서울의 풍경]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[응봉산 개나리]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/ECJ32Kszn3</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/ECJ32Kszn3"/>
+        <updated>2022-04-08T17:26:20.510Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세종 조치원 대형마트서 화재..인명피해 없이 진화]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1777331/EQxxtBahlE"/>
         <updated>2022-04-08T04:28:19.440Z</updated>
         <content type="html"><![CDATA[포토인사이트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역대 가장 먼 '135억 광년' 거리의 은하 발견]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1497/EWvrbEoLfm</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1497/EWvrbEoLfm"/>
-        <updated>2022-04-08T03:05:48.249Z</updated>
-        <content type="html"><![CDATA[우주의 신비]]></content>
     </entry>
 </feed>
