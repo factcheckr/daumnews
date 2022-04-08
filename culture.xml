@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-04-08T21:20:17.670Z</updated>
+    <updated>2022-04-08T22:23:20.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[위클리 건강] 설레는 봄나들이..겨우내 굳은 몸부터 푸세요]]></title>
+        <id>https://v.daum.net/v/20220409070004646</id>
+        <link href="https://v.daum.net/v/20220409070004646"/>
+        <updated>2022-04-08T22:22:28.068Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['시사직격' 차별금지법 현재와 내일까지 담은 탐사의 백미]]></title>
         <id>https://v.daum.net/v/20220409060602145</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220409030253143"/>
         <updated>2022-04-08T18:27:34.574Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밤 12시·거리두기 해제..공연장도 해방·대형 뮤지컬 기지개]]></title>
-        <id>https://v.daum.net/v/20220409010033782</id>
-        <link href="https://v.daum.net/v/20220409010033782"/>
-        <updated>2022-04-08T16:31:27.374Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
