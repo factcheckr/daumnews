@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-04-08T09:23:07.932Z</updated>
+    <updated>2022-04-08T10:25:55.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[네이버, 뉴스 댓글에 구독 기능 추가..확증편향 우려]]></title>
-        <id>https://v.daum.net/v/20220408181348706</id>
-        <link href="https://v.daum.net/v/20220408181348706"/>
-        <updated>2022-04-08T09:22:26.855Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[아!이뉴스] 국내 AI윤리 논의 "부족"..尹 인수위, '온플법' 업계 의견청취]]></title>
         <id>https://v.daum.net/v/20220408175704313</id>
@@ -34,17 +27,24 @@
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김어준의 뉴스공장 재심청구 기각..선거방송심의 법정제재 유지]]></title>
-        <id>https://v.daum.net/v/20220408172231178</id>
-        <link href="https://v.daum.net/v/20220408172231178"/>
-        <updated>2022-04-08T08:26:38.240Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[9~10일 기온 25도 초여름 더위..전국 건조·강풍에 화재 유의해야]]></title>
         <id>https://v.daum.net/v/20220408172013107</id>
         <link href="https://v.daum.net/v/20220408172013107"/>
         <updated>2022-04-08T08:26:38.240Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연구 대신 과제수주 경쟁'..그 해묵은 제도 인수위도 "개선 필요"]]></title>
+        <id>https://v.daum.net/v/20220408165520371</id>
+        <link href="https://v.daum.net/v/20220408165520371"/>
+        <updated>2022-04-08T10:25:17.454Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4차 접종 공식화한 정부.."백신 맞아도 효과 없는 고위험군 대응법 고민해야"]]></title>
+        <id>https://v.daum.net/v/20220408165356325</id>
+        <link href="https://v.daum.net/v/20220408165356325"/>
+        <updated>2022-04-08T10:25:17.455Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
