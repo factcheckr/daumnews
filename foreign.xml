@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-04-09T12:39:59.497Z</updated>
+    <updated>2022-04-09T13:27:21.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[우크라 침공] 유튜브, 러시아 의회 채널 폐쇄..러시아 반발]]></title>
+        <id>https://v.daum.net/v/20220409215457944</id>
+        <link href="https://v.daum.net/v/20220409215457944"/>
+        <updated>2022-04-09T13:26:14.552Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전통가옥 '매일 두 채씩' 철거..색채 잃어가는 日 '천년 고도']]></title>
+        <id>https://v.daum.net/v/20220409214043859</id>
+        <link href="https://v.daum.net/v/20220409214043859"/>
+        <updated>2022-04-09T13:26:14.553Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이란, 핵협상 교착 속 미군 장성·트럼프 측근 제재]]></title>
         <id>https://v.daum.net/v/20220409213220788</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220409212540733"/>
         <updated>2022-04-09T12:38:52.144Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우크라는 우릴 반길 거야"..단단히 착각한 러시아군의 9가지 실수]]></title>
-        <id>https://v.daum.net/v/20220409211526656</id>
-        <link href="https://v.daum.net/v/20220409211526656"/>
-        <updated>2022-04-09T12:38:52.145Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[우크라 침공] 전쟁에 놀란 독일, 공공벙커 보강 착수]]></title>
-        <id>https://v.daum.net/v/20220409211135623</id>
-        <link href="https://v.daum.net/v/20220409211135623"/>
-        <updated>2022-04-09T12:38:52.146Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
