@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-04-10T13:27:52.396Z</updated>
+    <updated>2022-04-10T14:20:57.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://v.daum.net/v/20220410220301411"/>
         <updated>2022-04-10T13:26:38.500Z</updated>
         <content type="html"><![CDATA[매경이코노미]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[물가·추경·부동산..새 경제부총리의 과제는?]]></title>
+        <id>https://v.daum.net/v/20220410212157979</id>
+        <link href="https://v.daum.net/v/20220410212157979"/>
+        <updated>2022-04-10T14:19:43.628Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["기업 발목 잡는 족쇄 빨리 풀고, 모래주머니 벗겨드릴 것"[윤석열 1차 내각 인선]]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220410203907585"/>
         <updated>2022-04-10T12:34:18.248Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HDC현산發 악재 대전 주택사업 곳곳 '삐걱']]></title>
-        <id>https://v.daum.net/v/20220410202524469</id>
-        <link href="https://v.daum.net/v/20220410202524469"/>
-        <updated>2022-04-10T12:34:18.248Z</updated>
-        <content type="html"><![CDATA[대전일보]]></content>
     </entry>
 </feed>
