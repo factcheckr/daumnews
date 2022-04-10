@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-04-10T22:22:55.057Z</updated>
+    <updated>2022-04-10T23:23:39.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['싸서 좋은데 왜?' 고객만족도 1등 알뜰폰 때리는 경쟁자들 [Biz 톡]]]></title>
+        <id>https://v.daum.net/v/20220411030018649</id>
+        <link href="https://v.daum.net/v/20220411030018649"/>
+        <updated>2022-04-10T23:23:01.198Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지구 기온 2~4도 오르면, 숲은 1.5배 더 빨리 사라진다]]></title>
         <id>https://v.daum.net/v/20220411050743647</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220411063902525"/>
         <updated>2022-04-10T22:22:19.378Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["보이스피싱 꼼짝마" 당국, 국제전화 음성 안내 의무화 추진]]></title>
-        <id>https://v.daum.net/v/20220411063014431</id>
-        <link href="https://v.daum.net/v/20220411063014431"/>
-        <updated>2022-04-10T22:22:19.379Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>

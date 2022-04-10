@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-10T22:22:55.064Z</updated>
+    <updated>2022-04-10T23:23:39.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["보이스피싱 꼼짝마" 당국, 국제전화 음성 안내 의무화 추진]]></title>
+        <id>https://v.daum.net/v/20220411063014431</id>
+        <link href="https://v.daum.net/v/20220411063014431"/>
+        <updated>2022-04-10T23:23:08.775Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트위터 대주주 머스크, 유료서비스 변화 예고]]></title>
         <id>https://v.daum.net/v/20220411060301182</id>
@@ -18,13 +25,6 @@
         <link href="https://v.daum.net/v/20220411060245171"/>
         <updated>2022-04-10T22:22:26.554Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추억의 '던파', 앱스토어 보름 넘게 1위..국산 게임 'MMO 독주' 깨지나]]></title>
-        <id>https://v.daum.net/v/20220411050619593</id>
-        <link href="https://v.daum.net/v/20220411050619593"/>
-        <updated>2022-04-10T22:22:26.557Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[모토로라·애플·샤오미.. 한국시장 뜨거운 쟁탈전]]></title>
@@ -62,17 +62,17 @@
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구독자 늘었는데 토종OTT 또 적자.. '승승장구' 넷플릭스와 대조적]]></title>
-        <id>https://v.daum.net/v/20220410200030206</id>
-        <link href="https://v.daum.net/v/20220410200030206"/>
-        <updated>2022-04-10T20:25:19.285Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[삼성, 재생부품 활용해 스마트폰 수리비 절반으로 줄인다]]></title>
         <id>https://v.daum.net/v/20220411061509316</id>
         <link href="https://v.daum.net/v/20220411061509316"/>
         <updated>2022-04-10T22:22:26.563Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['반도체 장비' 받으려면 30개월 걸린다.. 삼성전자·SK하이닉스 비상]]></title>
+        <id>https://v.daum.net/v/20220411060428205</id>
+        <link href="https://v.daum.net/v/20220411060428205"/>
+        <updated>2022-04-10T23:23:08.789Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
