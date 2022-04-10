@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-10T09:21:59.195Z</updated>
+    <updated>2022-04-10T10:25:00.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대기업, ESG 스타트업 '키다리 아저씨'로]]></title>
+        <id>https://v.daum.net/v/20220410171102725</id>
+        <link href="https://v.daum.net/v/20220410171102725"/>
+        <updated>2022-04-10T10:24:26.432Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기획]핵심 자산 데이터, 금융권 70%가 아직도 테이프에 보관..대안은 디스크 기반 어플라이언스]]></title>
+        <id>https://v.daum.net/v/20220410170107475</id>
+        <link href="https://v.daum.net/v/20220410170107475"/>
+        <updated>2022-04-10T10:24:26.435Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해는 유엔이 지정한 '기초과학의 해' 그 매력에 한번 빠져볼까]]></title>
         <id>https://v.daum.net/v/20220410170013449</id>
@@ -25,13 +39,6 @@
         <link href="https://v.daum.net/v/20220410161114382"/>
         <updated>2022-04-10T09:21:27.157Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["총 아닌 반도체로 전쟁"..미래戰 이끌 과기장관에 이종호]]></title>
-        <id>https://v.daum.net/v/20220410153925608</id>
-        <link href="https://v.daum.net/v/20220410153925608"/>
-        <updated>2022-04-10T08:26:04.099Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일회용 컵 받으면 300원 더 낸다..업계선 "비용 전가" 불만]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220410120509796"/>
         <updated>2022-04-10T07:21:20.210Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 지나면 한국도 '달 탐사 국가'..8월 첫 비행]]></title>
-        <id>https://v.daum.net/v/20220410120045622</id>
-        <link href="https://v.daum.net/v/20220410120045622"/>
-        <updated>2022-04-10T07:21:20.214Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
