@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-12T03:05:15.933Z</updated>
+    <updated>2022-04-12T04:28:56.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[갤럭시에서 갑자기 연락처 '순삭'? "구글 계정 동기화 확인해야"]]></title>
+        <id>https://v.daum.net/v/20220412110438416</id>
+        <link href="https://v.daum.net/v/20220412110438416"/>
+        <updated>2022-04-12T04:28:23.088Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['반도체 권위자' 이종호 카드에 업계 반색..반도체 인력난 해소될까]]></title>
         <id>https://v.daum.net/v/20220412110007086</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220412094536709"/>
         <updated>2022-04-12T01:41:52.543Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전세계 매출 52위 앱 개발사에 韓 기업 4곳..엔씨·넷마블·카카오 포함]]></title>
-        <id>https://v.daum.net/v/20220412094024521</id>
-        <link href="https://v.daum.net/v/20220412094024521"/>
-        <updated>2022-04-12T01:41:52.544Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
