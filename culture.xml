@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-04-12T13:33:51.397Z</updated>
+    <updated>2022-04-12T14:21:38.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[훌쩍거리는 아이..'코로나19'와 '알레르기 비염' 어떻게 구분할까?]]></title>
+        <id>https://v.daum.net/v/20220412223558301</id>
+        <link href="https://v.daum.net/v/20220412223558301"/>
+        <updated>2022-04-12T14:20:47.058Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 고국 지키려 악기 대신 총 .. "무사히 돌아오길"]]></title>
         <id>https://v.daum.net/v/20220412211202031</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220412182608252"/>
         <updated>2022-04-12T13:33:02.236Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포켓사전] 쉬며 치료하도록 아픈 노동자에게 주는 수당은?]]></title>
-        <id>https://v.daum.net/v/20220412180602831</id>
-        <link href="https://v.daum.net/v/20220412180602831"/>
-        <updated>2022-04-12T13:33:02.237Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
