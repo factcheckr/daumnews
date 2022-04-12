@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-04-12T12:37:55.956Z</updated>
+    <updated>2022-04-12T13:33:51.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조계사에서 러 대사관까지 오체투지[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/EYVGg7RBo9</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/EYVGg7RBo9"/>
+        <updated>2022-04-12T13:33:29.620Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양구 산불, 720㏊ 피해 남기고 진화]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1518/EzUrhs92Vt</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/31583/EEFNuJMlL6"/>
         <updated>2022-04-12T06:28:04.398Z</updated>
         <content type="html"><![CDATA[인천공항 풍경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가습기살균제 참사 기업 처벌하라']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/64392/El6SzxKq9a</id>
-        <link href="https://gallery.v.daum.net/p/viewer/64392/El6SzxKq9a"/>
-        <updated>2022-04-12T05:21:15.487Z</updated>
-        <content type="html"><![CDATA[가습기 살균제 사망사고]]></content>
     </entry>
 </feed>
