@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-12T11:20:02.373Z</updated>
+    <updated>2022-04-12T12:37:55.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220412194819329"/>
         <updated>2022-04-12T11:19:30.624Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[中 8개월만 판호 발급] 자국 중소게임만 빗장 풀어..'한한령' 길어지나]]></title>
+        <id>https://v.daum.net/v/20220412175047410</id>
+        <link href="https://v.daum.net/v/20220412175047410"/>
+        <updated>2022-04-12T12:37:23.898Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인수위, 우주청 설립 유보.."산은 부산 이전 공약은 지킨다"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220412164603516"/>
         <updated>2022-04-12T09:23:05.999Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["TSMC·삼성 넘는다"..인텔, 1.8나노 공정개발 전진기지 가동]]></title>
-        <id>https://v.daum.net/v/20220412164100355</id>
-        <link href="https://v.daum.net/v/20220412164100355"/>
-        <updated>2022-04-12T08:27:37.682Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>
