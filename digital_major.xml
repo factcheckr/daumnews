@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-13T22:21:43.270Z</updated>
+    <updated>2022-04-13T23:22:12.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -31,13 +31,6 @@
         <id>https://v.daum.net/v/20220413210013433</id>
         <link href="https://v.daum.net/v/20220413210013433"/>
         <updated>2022-04-13T21:20:33.837Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지름 136km' 역대 가장 큰 혜성 태양계로 접근중]]></title>
-        <id>https://v.daum.net/v/20220413192014467</id>
-        <link href="https://v.daum.net/v/20220413192014467"/>
-        <updated>2022-04-13T20:24:18.352Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
     <entry>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220414010015007"/>
         <updated>2022-04-13T20:24:18.372Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슈퍼컴퓨터로 200만년 기후 분석..인류가 살 수 없는 지역 늘어날 것]]></title>
+        <id>https://v.daum.net/v/20220414010005993</id>
+        <link href="https://v.daum.net/v/20220414010005993"/>
+        <updated>2022-04-13T23:21:43.545Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
