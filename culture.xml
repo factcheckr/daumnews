@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-04-13T15:24:50.946Z</updated>
+    <updated>2022-04-13T16:33:24.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["우크라 평화 기원.. 음악으로 돕겠다"]]></title>
+        <id>https://v.daum.net/v/20220414010422122</id>
+        <link href="https://v.daum.net/v/20220414010422122"/>
+        <updated>2022-04-13T16:32:32.698Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["기후변화 못 잡으면 수십만년 전 조상들처럼 집단 이주"]]></title>
+        <id>https://v.daum.net/v/20220414010107035</id>
+        <link href="https://v.daum.net/v/20220414010107035"/>
+        <updated>2022-04-13T16:32:32.699Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["클래식이 구약이라면 재즈는 신약"]]></title>
         <id>https://v.daum.net/v/20220414001116794</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220414000303654"/>
         <updated>2022-04-13T15:23:56.069Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첼로 거장 미샤 마이스키 "무대에 오르는 모든 순간이 특별"]]></title>
-        <id>https://v.daum.net/v/20220414000011591</id>
-        <link href="https://v.daum.net/v/20220414000011591"/>
-        <updated>2022-04-13T15:23:56.070Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평생에 한 번쯤.. '그 섬에 가고 싶다']]></title>
-        <id>https://v.daum.net/v/20220413221801696</id>
-        <link href="https://v.daum.net/v/20220413221801696"/>
-        <updated>2022-04-13T13:31:43.193Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
