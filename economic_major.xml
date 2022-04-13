@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-04-13T13:32:34.416Z</updated>
+    <updated>2022-04-13T14:30:41.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["부동산시장 안정 이루지 못했다"..정부 정책 한계에 사과한 홍남기]]></title>
+        <id>https://v.daum.net/v/20220413214919216</id>
+        <link href="https://v.daum.net/v/20220413214919216"/>
+        <updated>2022-04-13T14:29:28.771Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 '금리 큰폭 인상' 임박..외국인은 이미 탈출 중?]]></title>
         <id>https://v.daum.net/v/20220413213255013</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220413202017718"/>
         <updated>2022-04-13T12:36:47.596Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지털 세계의 한정판 - NFT로 돈이 몰려든다]]></title>
-        <id>https://v.daum.net/v/20220413201908696</id>
-        <link href="https://v.daum.net/v/20220413201908696"/>
-        <updated>2022-04-13T12:36:47.596Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
