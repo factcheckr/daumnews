@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-14T19:20:30.205Z</updated>
+    <updated>2022-04-14T20:24:35.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220415030113412"/>
         <updated>2022-04-14T18:26:49.199Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["돌아와요, 사무실로.." 엔데믹에 막 내리는 재택근무, '출근 묘안' 찾는 테크기업들]]></title>
+        <id>https://v.daum.net/v/20220414220323547</id>
+        <link href="https://v.daum.net/v/20220414220323547"/>
+        <updated>2022-04-14T20:24:02.092Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["삼성, 정말 큰일났다?" 애플, 작정하고 '이곳' 노렸다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220414180806581"/>
         <updated>2022-04-14T11:19:34.357Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 '망 무임승차 방지' 과방위 입법 절차 오른다]]></title>
-        <id>https://v.daum.net/v/20220414175203999</id>
-        <link href="https://v.daum.net/v/20220414175203999"/>
-        <updated>2022-04-14T11:19:34.363Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
