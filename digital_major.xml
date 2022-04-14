@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-14T14:21:53.384Z</updated>
+    <updated>2022-04-14T15:25:27.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["일상회복 말하지만 10월 새 변이 출현 가능..최악의 시나리오"]]></title>
+        <id>https://v.daum.net/v/20220414183550347</id>
+        <link href="https://v.daum.net/v/20220414183550347"/>
+        <updated>2022-04-14T15:24:58.157Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[논&설] 러시아 IT 인력 엑소더스의 끝은]]></title>
         <id>https://v.daum.net/v/20220414182628094</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220414141633525"/>
         <updated>2022-04-14T09:23:10.319Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집에서 일하는 직원들, 어떻게 회사로 부를까..IT 기업들 '당근책' 고민]]></title>
-        <id>https://v.daum.net/v/20220414155606105</id>
-        <link href="https://v.daum.net/v/20220414155606105"/>
-        <updated>2022-04-14T09:23:10.320Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
