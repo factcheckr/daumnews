@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-04-14T13:37:33.290Z</updated>
+    <updated>2022-04-14T14:21:53.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220414220311541"/>
         <updated>2022-04-14T13:36:07.886Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["앞으로 두세 차례 더 올릴 듯"..물가 진정될까?]]></title>
+        <id>https://v.daum.net/v/20220414213438885</id>
+        <link href="https://v.daum.net/v/20220414213438885"/>
+        <updated>2022-04-14T14:20:39.361Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[외식·공산품 체감 물가 '껑충'..'급한 불' 물가에 금리인상 카드]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220414205103866"/>
         <updated>2022-04-14T12:41:23.176Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밀값 폭등하자..8000원대 칼국수, 1만원짜리 냉면]]></title>
-        <id>https://v.daum.net/v/20220414203609541</id>
-        <link href="https://v.daum.net/v/20220414203609541"/>
-        <updated>2022-04-14T12:41:23.178Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
