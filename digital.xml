@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-04-15T05:26:45.301Z</updated>
+    <updated>2022-04-15T06:28:49.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["자금력이 약하니" 확진자 쏟아져도 국산 코로나 치료제 임상 모집 난항]]></title>
+        <id>https://v.daum.net/v/20220415143628453</id>
+        <link href="https://v.daum.net/v/20220415143628453"/>
+        <updated>2022-04-15T06:28:08.754Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반도체 시장 작년 26% 성장..삼성 제치고 가장 많이 큰 이 회사]]></title>
         <id>https://v.daum.net/v/20220415131925210</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220415113131891"/>
         <updated>2022-04-15T03:41:46.355Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 감염병 등급 1급→2급 조정]]></title>
-        <id>https://v.daum.net/v/20220415112312542</id>
-        <link href="https://v.daum.net/v/20220415112312542"/>
-        <updated>2022-04-15T03:41:46.356Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
