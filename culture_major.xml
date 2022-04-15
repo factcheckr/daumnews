@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-04-15T03:42:21.581Z</updated>
+    <updated>2022-04-15T04:42:43.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["문명의 불꽃" 올해 청주 직지문화제 9월 2∼7일 열려]]></title>
+        <id>https://v.daum.net/v/20220415100004617</id>
+        <link href="https://v.daum.net/v/20220415100004617"/>
+        <updated>2022-04-15T04:41:57.897Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중고 등산용품 구입 꿀팁] 중고 배낭 필요한데.. 당근 갈까 중고나라 갈까]]></title>
         <id>https://v.daum.net/v/20220415093501533</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220415080020780"/>
         <updated>2022-04-15T01:45:48.823Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 내륙 포근, 동해안 쌀쌀..오후 중북부 '비']]></title>
-        <id>https://v.daum.net/v/20220415075218647</id>
-        <link href="https://v.daum.net/v/20220415075218647"/>
-        <updated>2022-04-15T01:45:48.823Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
