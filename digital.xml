@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-04-15T14:21:33.794Z</updated>
+    <updated>2022-04-15T15:24:16.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지속가능한 소재를 활용한 패션브랜드]]></title>
+        <id>https://v.daum.net/v/20220416000038065</id>
+        <link href="https://v.daum.net/v/20220416000038065"/>
+        <updated>2022-04-15T15:23:39.801Z</updated>
+        <content type="html"><![CDATA[코스모폴리탄]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['망 사용료 의무화' 법안 물 건너가..20일 법안소위 파행]]></title>
         <id>https://v.daum.net/v/20220415212945696</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220415181801487"/>
         <updated>2022-04-15T09:21:47.243Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["거품인가, 옥석 가리기인가"..헐값된 35억원짜리 NFT]]></title>
-        <id>https://v.daum.net/v/20220415180751207</id>
-        <link href="https://v.daum.net/v/20220415180751207"/>
-        <updated>2022-04-15T09:21:47.245Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
