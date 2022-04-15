@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-04-15T10:25:48.874Z</updated>
+    <updated>2022-04-15T11:21:01.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[IT애정남] 현장 증거 확보하는 바디캠, 일반인이 사용해도 괜찮을까요?]]></title>
+        <id>https://v.daum.net/v/20220415193000870</id>
+        <link href="https://v.daum.net/v/20220415193000870"/>
+        <updated>2022-04-15T11:20:22.768Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["개인정보 안바꾸면 암호화폐 거래 제한"..업비트 사칭 메일 '주의보']]></title>
         <id>https://v.daum.net/v/20220415184240911</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220415173754272"/>
         <updated>2022-04-15T09:21:47.245Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초기 우주 초대질량블랙홀 '잃어버린 고리' 찾았다]]></title>
-        <id>https://v.daum.net/v/20220415170118076</id>
-        <link href="https://v.daum.net/v/20220415170118076"/>
-        <updated>2022-04-15T08:27:35.961Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

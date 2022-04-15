@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-15T10:25:48.957Z</updated>
+    <updated>2022-04-15T11:21:01.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[초기 우주 초대질량블랙홀 '잃어버린 고리' 찾았다]]></title>
+        <id>https://v.daum.net/v/20220415170118076</id>
+        <link href="https://v.daum.net/v/20220415170118076"/>
+        <updated>2022-04-15T11:20:30.702Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누리호 3단 새 설계 적용한 산화제탱크 시험 완료..2개월 뒤 '재도전']]></title>
         <id>https://v.daum.net/v/20220415163013194</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220415110523757"/>
         <updated>2022-04-15T04:42:13.553Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코속에 뿌리는 코로나 치료제가 온다..모든 변이 효과]]></title>
-        <id>https://v.daum.net/v/20220415110013411</id>
-        <link href="https://v.daum.net/v/20220415110013411"/>
-        <updated>2022-04-15T03:41:53.332Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
