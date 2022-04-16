@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-04-16T02:57:12.266Z</updated>
+    <updated>2022-04-16T03:33:14.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[우크라 침공] NYT "러 매체, 폭스뉴스 인용해 전쟁 정당화"]]></title>
+        <id>https://v.daum.net/v/20220416120836013</id>
+        <link href="https://v.daum.net/v/20220416120836013"/>
+        <updated>2022-04-16T03:32:03.332Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['격전지' 우크라 동부서 피란민 2000여명 간신히 탈출]]></title>
         <id>https://v.daum.net/v/20220416110034341</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220416101224843"/>
         <updated>2022-04-16T01:38:46.325Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["5점차로 낙방 억울" 日 마코공주 남편, 美변호사 또 떨어졌다]]></title>
-        <id>https://v.daum.net/v/20220416100505734</id>
-        <link href="https://v.daum.net/v/20220416100505734"/>
-        <updated>2022-04-16T01:38:46.326Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
