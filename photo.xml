@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-04-16T06:27:22.428Z</updated>
+    <updated>2022-04-16T07:21:49.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화창한 주말 맞아 전통시장에 사람들  북적]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5033573/Ek164HbaDy</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5033573/Ek164HbaDy"/>
+        <updated>2022-04-16T07:21:26.049Z</updated>
+        <content type="html"><![CDATA[전통시장 모습]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산 야산 입구에서 불에 탄 컨테이너 창고]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1518/Ekq1Se9uYq</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5038639/EDRJqhqpPy"/>
         <updated>2022-04-15T10:25:24.494Z</updated>
         <content type="html"><![CDATA[짐바브웨는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미 상·하원의원단 환영하는 차이잉원 대만 총통]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033115/ES71pZY5KR</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033115/ES71pZY5KR"/>
-        <updated>2022-04-15T09:22:01.115Z</updated>
-        <content type="html"><![CDATA[대만 차이잉원 총통]]></content>
     </entry>
 </feed>
