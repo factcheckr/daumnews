@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2022-04-16T13:28:52.339Z</updated>
+    <updated>2022-04-16T14:21:15.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[함께하는K] "깨끗한 환경에서 생활하세요"..이불 빨래 봉사 '인기']]></title>
+        <id>https://v.daum.net/v/20220416214112750</id>
+        <link href="https://v.daum.net/v/20220416214112750"/>
+        <updated>2022-04-16T14:19:30.426Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이익 집회' 참석이 변호사들 공익 활동?]]></title>
         <id>https://v.daum.net/v/20220416213948734</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220416193756738"/>
         <updated>2022-04-16T13:26:58.603Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나로 '집콕'.. "우리 아이가 살쪘어요"]]></title>
-        <id>https://v.daum.net/v/20220416211700565</id>
-        <link href="https://v.daum.net/v/20220416211700565"/>
-        <updated>2022-04-16T13:26:58.603Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
