@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-04-17T20:24:07.227Z</updated>
+    <updated>2022-04-17T21:21:15.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,41 @@
         <link href="https://v.daum.net/v/20220418050707627"/>
         <updated>2022-04-17T20:22:46.603Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국, 첩보위성 NROL-85 성공리에 발사.."스페이스X 이용"]]></title>
+        <id>https://v.daum.net/v/20220418050646608</id>
+        <link href="https://v.daum.net/v/20220418050646608"/>
+        <updated>2022-04-17T21:19:54.506Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 진동, 멜로디로 바꿨더니..인간 뇌 속이는 '라'의 비밀]]></title>
+        <id>https://v.daum.net/v/20220418050116467</id>
+        <link href="https://v.daum.net/v/20220418050116467"/>
+        <updated>2022-04-17T21:19:54.507Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[푸틴이 노린 전투로 바뀌었다..돈바스 '추잡한 전쟁' 예고]]></title>
+        <id>https://v.daum.net/v/20220418050041442</id>
+        <link href="https://v.daum.net/v/20220418050041442"/>
+        <updated>2022-04-17T21:19:54.508Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태국, 중국제 잠수함 조달 무산 위기.."독일 엔진공급 거부"]]></title>
+        <id>https://v.daum.net/v/20220418044104218</id>
+        <link href="https://v.daum.net/v/20220418044104218"/>
+        <updated>2022-04-17T21:19:54.509Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[권지혜 특파원의 여기는 베이징] '봉쇄 3주' 상하이가 드러낸 중국식 '제로 코로나'의 한계]]></title>
+        <id>https://v.daum.net/v/20220418040323035</id>
+        <link href="https://v.daum.net/v/20220418040323035"/>
+        <updated>2022-04-17T21:19:54.509Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국 1분기 GDP 4.4% 전망..연간 '5.5%' 달성 빨간불]]></title>
@@ -39,40 +74,5 @@
         <link href="https://v.daum.net/v/20220418031616936"/>
         <updated>2022-04-17T20:22:46.608Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최은경의 재팬 인증샷] 목욕비가 하루아침에 50% 올랐어!]]></title>
-        <id>https://v.daum.net/v/20220418030700920</id>
-        <link href="https://v.daum.net/v/20220418030700920"/>
-        <updated>2022-04-17T18:26:20.698Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이든 부부, 7억5000만원 벌어 1억8000만원 납세]]></title>
-        <id>https://v.daum.net/v/20220418030608898</id>
-        <link href="https://v.daum.net/v/20220418030608898"/>
-        <updated>2022-04-17T18:26:20.698Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젤렌스키 "러, 핵사용 우려.. 테러지원국 지정을"]]></title>
-        <id>https://v.daum.net/v/20220418030402860</id>
-        <link href="https://v.daum.net/v/20220418030402860"/>
-        <updated>2022-04-17T20:22:46.611Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美-中 갈등 격화에.. 빛바랜 '판다외교' 50주년]]></title>
-        <id>https://v.daum.net/v/20220418030359856</id>
-        <link href="https://v.daum.net/v/20220418030359856"/>
-        <updated>2022-04-17T19:18:27.126Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러, 해군 상징 '모스크바함' 침몰.. 우크라 8개 도시 맹폭]]></title>
-        <id>https://v.daum.net/v/20220418030337848</id>
-        <link href="https://v.daum.net/v/20220418030337848"/>
-        <updated>2022-04-17T19:18:27.127Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
