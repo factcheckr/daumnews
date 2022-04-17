@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-04-17T12:36:07.604Z</updated>
+    <updated>2022-04-17T13:28:38.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[운동 How] 등운동의 시작 바벨로우, '이렇게' 하세요]]></title>
+        <id>https://v.daum.net/v/20220417220017285</id>
+        <link href="https://v.daum.net/v/20220417220017285"/>
+        <updated>2022-04-17T13:27:46.008Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화려한 영상미로 돌아온 '데스노트']]></title>
         <id>https://v.daum.net/v/20220417212036984</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220417181316221"/>
         <updated>2022-04-17T09:21:30.499Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배달료까지 폭등..짬뽕 한 그릇 배달료 5000원 "실화냐"]]></title>
-        <id>https://v.daum.net/v/20220417174850735</id>
-        <link href="https://v.daum.net/v/20220417174850735"/>
-        <updated>2022-04-17T09:21:30.503Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
