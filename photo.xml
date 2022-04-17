@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-04-17T10:24:50.607Z</updated>
+    <updated>2022-04-17T11:19:58.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[꽃비 휘날리는 봄[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/EKLBP0j89B</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/EKLBP0j89B"/>
+        <updated>2022-04-17T11:19:35.027Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[18일부터 거리두기 해제..명동성당 3년만에 대규모 부활절 미사]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5028903/EndhCZeJxw</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033573/Ek164HbaDy"/>
         <updated>2022-04-16T07:21:26.049Z</updated>
         <content type="html"><![CDATA[전통시장 모습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["주여, 평화를 허하소서"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5029579/EqZMlOjpCB</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5029579/EqZMlOjpCB"/>
-        <updated>2022-04-16T01:39:33.454Z</updated>
-        <content type="html"><![CDATA[이탈리아는 지금]]></content>
     </entry>
 </feed>
