@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-04-17T18:27:34.945Z</updated>
+    <updated>2022-04-17T19:19:40.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["클래식이 세상 구할 순 없지만 인간 고통 치유는 돕죠"]]></title>
+        <id>https://v.daum.net/v/20220418040831082</id>
+        <link href="https://v.daum.net/v/20220418040831082"/>
+        <updated>2022-04-17T19:18:37.256Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프란치스코 교황 "평화를 위한 결단이 있기를"]]></title>
         <id>https://v.daum.net/v/20220418014410689</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220418001856329"/>
         <updated>2022-04-17T15:23:22.222Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[명경대] 휴대전화 비번]]></title>
-        <id>https://v.daum.net/v/20220418001044272</id>
-        <link href="https://v.daum.net/v/20220418001044272"/>
-        <updated>2022-04-17T15:23:22.222Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
