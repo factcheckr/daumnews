@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-17T09:22:26.324Z</updated>
+    <updated>2022-04-17T10:24:50.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코인 발행·직접 투자·벤처 지정 불가..1000조 시장 '남의잔치'될라]]></title>
+        <id>https://v.daum.net/v/20220417171211071</id>
+        <link href="https://v.daum.net/v/20220417171211071"/>
+        <updated>2022-04-17T10:24:20.086Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우주비행사들이 신장결석 잘 생기는 이유 찾았다]]></title>
         <id>https://v.daum.net/v/20220417154014159</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220417120120836"/>
         <updated>2022-04-17T06:26:55.537Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[복합쇼핑몰만 없는 게 아니다..호남 '5G 속도차별'까지]]></title>
-        <id>https://v.daum.net/v/20220417114301364</id>
-        <link href="https://v.daum.net/v/20220417114301364"/>
-        <updated>2022-04-17T04:28:13.824Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
