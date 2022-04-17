@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-04-17T04:28:43.134Z</updated>
+    <updated>2022-04-17T05:21:12.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[벚꽃 길 달려 강가에서 먹는 계절의 맛 '벚굴']]></title>
+        <id>https://v.daum.net/v/20220417100108549</id>
+        <link href="https://v.daum.net/v/20220417100108549"/>
+        <updated>2022-04-17T05:20:21.986Z</updated>
+        <content type="html"><![CDATA[신동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[다시! 제주문화] (33)"똥돼지가 더럽다고?..다 이유가 있었네!"]]></title>
         <id>https://v.daum.net/v/20220417090112627</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220417100137559"/>
         <updated>2022-04-17T03:37:15.571Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[OK!제보] 전산 오류로 '운전면허' 정지.."당사자도 몰랐다"]]></title>
-        <id>https://v.daum.net/v/20220417063506435</id>
-        <link href="https://v.daum.net/v/20220417063506435"/>
-        <updated>2022-04-17T03:37:15.572Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
