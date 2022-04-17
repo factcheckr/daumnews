@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-04-17T15:24:38.278Z</updated>
+    <updated>2022-04-17T16:31:26.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인원제한 푼 롯데월드부산..다행히 교통지옥은 피했다]]></title>
+        <id>https://v.daum.net/v/20220418002048379</id>
+        <link href="https://v.daum.net/v/20220418002048379"/>
+        <updated>2022-04-17T16:30:15.923Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[수장고에서 찾아낸 유물이야기] <8> 남계우의 모란·나비 그림]]></title>
         <id>https://v.daum.net/v/20220418001937346</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220418000114117"/>
         <updated>2022-04-17T15:23:22.222Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화려한 영상미로 돌아온 '데스노트']]></title>
-        <id>https://v.daum.net/v/20220417212036984</id>
-        <link href="https://v.daum.net/v/20220417212036984"/>
-        <updated>2022-04-17T12:35:13.963Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>

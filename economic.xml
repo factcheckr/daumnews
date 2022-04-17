@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-04-17T15:24:38.279Z</updated>
+    <updated>2022-04-17T16:31:26.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이창용 "IMF SDR 통화바스켓에 원화 편입될 가능성 높지 않아"]]></title>
+        <id>https://v.daum.net/v/20220418011222579</id>
+        <link href="https://v.daum.net/v/20220418011222579"/>
+        <updated>2022-04-17T16:29:37.292Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["투자를 몰라도, 시간이 없어도 AI가 자산 관리해줍니다" [마이머니]]]></title>
+        <id>https://v.daum.net/v/20220418010249538</id>
+        <link href="https://v.daum.net/v/20220418010249538"/>
+        <updated>2022-04-17T16:29:37.293Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[로컬노믹스 리포트] 아파트 수요 늘고 공급 줄고..더 멀어진 '내 집 마련의 꿈']]></title>
         <id>https://v.daum.net/v/20220418001004236</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220418000033096"/>
         <updated>2022-04-17T15:22:38.683Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["임대주택을 왜 비싸게 짓나" 오세훈 서울시에 발목 잡힌 백사마을]]></title>
-        <id>https://v.daum.net/v/20220417223242570</id>
-        <link href="https://v.daum.net/v/20220417223242570"/>
-        <updated>2022-04-17T14:20:57.306Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이창용 "가장 시급한 경제문제는 고령화, 양극화, 재정여력 축소"]]></title>
-        <id>https://v.daum.net/v/20220417222851533</id>
-        <link href="https://v.daum.net/v/20220417222851533"/>
-        <updated>2022-04-17T14:20:57.306Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

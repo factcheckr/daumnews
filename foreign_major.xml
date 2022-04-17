@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-04-17T15:24:38.280Z</updated>
+    <updated>2022-04-17T16:31:26.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,20 @@
         <link href="https://v.daum.net/v/20220418001015246"/>
         <updated>2022-04-17T15:23:11.815Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젤렌스키 "나는 영웅 아냐.. 가족과 조국 사랑한 평범한 인간일 뿐"]]></title>
+        <id>https://v.daum.net/v/20220417235601053</id>
+        <link href="https://v.daum.net/v/20220417235601053"/>
+        <updated>2022-04-17T16:30:04.823Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['정국 혼란' 리비아 석유시설에 시위대 난입..원유 생산 차질]]></title>
+        <id>https://v.daum.net/v/20220417235118019</id>
+        <link href="https://v.daum.net/v/20220417235118019"/>
+        <updated>2022-04-17T16:30:04.824Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미얀마 군사정부, 새해 맞아 수감자 1619명 석방]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220417222351503"/>
         <updated>2022-04-17T15:23:11.824Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예멘 새 지도위원회 "평화가 목표지만, 내전 지속에도 대비"]]></title>
-        <id>https://v.daum.net/v/20220417221844461</id>
-        <link href="https://v.daum.net/v/20220417221844461"/>
-        <updated>2022-04-17T15:23:11.824Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자존심 격침당한 러 보복공세..마리우폴에 '투항' 최후통첩]]></title>
-        <id>https://v.daum.net/v/20220417220153314</id>
-        <link href="https://v.daum.net/v/20220417220153314"/>
-        <updated>2022-04-17T14:21:30.393Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
