@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-04-17T19:19:40.876Z</updated>
+    <updated>2022-04-17T20:24:07.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[존스 선배 그 성배, 3D프린터로 뽑아 레이저로 깎으리]]></title>
+        <id>https://v.daum.net/v/20220418050729642</id>
+        <link href="https://v.daum.net/v/20220418050729642"/>
+        <updated>2022-04-17T20:23:14.694Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수학神 가능해, 포기만 안 하면[유용하 기자의 사이언스 톡]]]></title>
+        <id>https://v.daum.net/v/20220418050727641</id>
+        <link href="https://v.daum.net/v/20220418050727641"/>
+        <updated>2022-04-17T20:23:14.697Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머스크 "트위터 53조원에 사줄게"..트위터 "포이즌 필로 저지"]]></title>
         <id>https://v.daum.net/v/20220418000358172</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220417205123779"/>
         <updated>2022-04-17T12:35:29.124Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코딩교육, 교재도 교사도 없는 까닭]]></title>
-        <id>https://v.daum.net/v/20220417201603520</id>
-        <link href="https://v.daum.net/v/20220417201603520"/>
-        <updated>2022-04-17T12:35:29.124Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상품 배송, 전차 타격..드론 '실용적 존재감' 드러내다]]></title>
-        <id>https://v.daum.net/v/20220417201607521</id>
-        <link href="https://v.daum.net/v/20220417201607521"/>
-        <updated>2022-04-17T12:35:29.125Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
