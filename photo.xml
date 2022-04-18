@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-04-18T18:29:54.993Z</updated>
+    <updated>2022-04-18T19:19:32.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일상의 자유]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/Et5rvFTgPi</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/Et5rvFTgPi"/>
+        <updated>2022-04-18T19:19:10.742Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해운대 모래축제 전시 작품 준비]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5035065/EP7PNbT6Oh</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1137876/Eo80Qeg7OH"/>
         <updated>2022-04-18T06:29:24.451Z</updated>
         <content type="html"><![CDATA[뉴시스 앵글]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군사 퍼레이드 지켜보는 이란 대통령]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5031013/EB4nVuBz3B</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5031013/EB4nVuBz3B"/>
-        <updated>2022-04-18T06:29:24.471Z</updated>
-        <content type="html"><![CDATA[이란은 지금]]></content>
     </entry>
 </feed>
