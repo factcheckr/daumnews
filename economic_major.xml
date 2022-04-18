@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-04-18T14:21:43.336Z</updated>
+    <updated>2022-04-18T15:23:51.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나로 차 운행 줄자 사고도 급감..보험 4년 만에 흑자]]></title>
+        <id>https://v.daum.net/v/20220419000437365</id>
+        <link href="https://v.daum.net/v/20220419000437365"/>
+        <updated>2022-04-18T15:22:37.492Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한글인데 해외 직구, 결제하니 연락 두절]]></title>
         <id>https://v.daum.net/v/20220418214314997</id>
         <link href="https://v.daum.net/v/20220418214314997"/>
         <updated>2022-04-18T13:33:01.159Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해외여행 기지개 켜는 공항, 항공기는 목욕..유통업계도 '들썩']]></title>
+        <id>https://v.daum.net/v/20220418214033961</id>
+        <link href="https://v.daum.net/v/20220418214033961"/>
+        <updated>2022-04-18T15:22:37.495Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['해외여행 더 비싸지겠네'..치솟는 유류할증료에 소비자 부담 가중]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220418204806262"/>
         <updated>2022-04-18T12:37:47.313Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김효숙 세종시의원 예비후보 "나성초·중 과밀학급 등 해결 약속"]]></title>
-        <id>https://v.daum.net/v/20220418200243502</id>
-        <link href="https://v.daum.net/v/20220418200243502"/>
-        <updated>2022-04-18T12:37:47.320Z</updated>
-        <content type="html"><![CDATA[대전일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외여행 수요 늘고 있지만..찬물 끼얹는 '유류할증료']]></title>
-        <id>https://v.daum.net/v/20220418200103460</id>
-        <link href="https://v.daum.net/v/20220418200103460"/>
-        <updated>2022-04-18T12:37:47.323Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
     </entry>
 </feed>
