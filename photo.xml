@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-04-18T19:19:32.922Z</updated>
+    <updated>2022-04-18T20:24:39.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하늘에 뜬 '핑크문']]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029633/EQv9uisTBv</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029633/EQv9uisTBv"/>
+        <updated>2022-04-18T20:24:16.443Z</updated>
+        <content type="html"><![CDATA[스페인은 지금]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다시 활기 찾은 명동]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/EBih8yfB05</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/EBih8yfB05"/>
+        <updated>2022-04-18T20:24:16.446Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일상의 자유]]></title>
         <id>https://gallery.v.daum.net/p/viewer/212305/Et5rvFTgPi</id>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5031020/EOeezm3Buy"/>
         <updated>2022-04-18T07:22:57.275Z</updated>
         <content type="html"><![CDATA[코스피 &amp; 코스닥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["월세 있읍니다"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/172711/El5bUYK5dZ</id>
-        <link href="https://gallery.v.daum.net/p/viewer/172711/El5bUYK5dZ"/>
-        <updated>2022-04-18T07:22:57.275Z</updated>
-        <content type="html"><![CDATA[포토에세이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제철 맞은 증평 미루나무숲]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1137876/Eo80Qeg7OH</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1137876/Eo80Qeg7OH"/>
-        <updated>2022-04-18T06:29:24.451Z</updated>
-        <content type="html"><![CDATA[뉴시스 앵글]]></content>
     </entry>
 </feed>
