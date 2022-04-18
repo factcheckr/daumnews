@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-18T10:26:50.235Z</updated>
+    <updated>2022-04-18T11:20:07.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[무너지는 '러시아의 구글'..KT·네이버·LG전자 '불똥']]></title>
+        <id>https://v.daum.net/v/20220418174657748</id>
+        <link href="https://v.daum.net/v/20220418174657748"/>
+        <updated>2022-04-18T11:19:34.596Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대구 경실련 "과기부, 국립대구과학관 재감사해야"]]></title>
         <id>https://v.daum.net/v/20220418174154610</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220418160112483"/>
         <updated>2022-04-18T08:29:02.297Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인수위 "디지털플랫폼정부 도구 아냐..일하는 방식 자체 바꿔야"]]></title>
-        <id>https://v.daum.net/v/20220418155420174</id>
-        <link href="https://v.daum.net/v/20220418155420174"/>
-        <updated>2022-04-18T08:29:02.297Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
