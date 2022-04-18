@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-04-18T21:22:09.287Z</updated>
+    <updated>2022-04-18T22:24:52.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아침에 보는 K아트&책]이제 나가서 사람 좀 만나려고요..이소나 'LEEWAY']]></title>
+        <id>https://v.daum.net/v/20220419050028968</id>
+        <link href="https://v.daum.net/v/20220419050028968"/>
+        <updated>2022-04-18T22:24:05.315Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[체온 조절 못하는 나비는 어떻게 북극에 살까? [그렇구나! 생생과학]]]></title>
         <id>https://v.daum.net/v/20220419043131746</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220419004102672"/>
         <updated>2022-04-18T18:29:06.014Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나무 위에 뿌려진 자개, 햇빛·달빛·별빛이 되다]]></title>
-        <id>https://v.daum.net/v/20220419001152486</id>
-        <link href="https://v.daum.net/v/20220419001152486"/>
-        <updated>2022-04-18T18:29:06.014Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
     </entry>
 </feed>
