@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-04-19T14:23:08.303Z</updated>
+    <updated>2022-04-19T15:25:47.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://v.daum.net/v/20220419225612441"/>
         <updated>2022-04-19T14:21:42.637Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이창양, 카이스트 교수 시절 대기업 자문위원으로도 활동]]></title>
-        <id>https://v.daum.net/v/20220419223343283</id>
-        <link href="https://v.daum.net/v/20220419223343283"/>
-        <updated>2022-04-19T13:39:42.878Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[푸틴이 한껏 끌어올린 원자재값..중소기업 한숨만 는다]]></title>
@@ -45,6 +38,13 @@
         <id>https://v.daum.net/v/20220419220803941</id>
         <link href="https://v.daum.net/v/20220419220803941"/>
         <updated>2022-04-19T13:39:42.881Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IMF, 韓 성장률 2%대로 낮춰..물가 11년 만에 4%대 예상]]></title>
+        <id>https://v.daum.net/v/20220419220701925</id>
+        <link href="https://v.daum.net/v/20220419220701925"/>
+        <updated>2022-04-19T15:24:16.221Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
