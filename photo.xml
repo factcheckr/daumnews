@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-04-19T19:20:01.382Z</updated>
+    <updated>2022-04-19T20:25:48.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[文대통령 양산 사저 '지금 이사 중']]></title>
+        <id>https://gallery.v.daum.net/p/viewer/318190/EAF0TWYDRb</id>
+        <link href="https://gallery.v.daum.net/p/viewer/318190/EAF0TWYDRb"/>
+        <updated>2022-04-19T20:25:25.785Z</updated>
+        <content type="html"><![CDATA[제19대 문재인 대통령]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손은 잡았지만..어긋난 시선]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/EYUJjDGEVa</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/EYUJjDGEVa"/>
+        <updated>2022-04-19T20:25:25.785Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['초록색 오선지']]></title>
         <id>https://gallery.v.daum.net/p/viewer/7156/EiMnPVgqZt</id>
         <link href="https://gallery.v.daum.net/p/viewer/7156/EiMnPVgqZt"/>
         <updated>2022-04-19T18:28:15.354Z</updated>
         <content type="html"><![CDATA[동아일보 포토 에세이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文대통령, 양산 주민들에 '이사떡']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/318190/Ek8JVc3B4w</id>
-        <link href="https://gallery.v.daum.net/p/viewer/318190/Ek8JVc3B4w"/>
-        <updated>2022-04-19T18:28:15.355Z</updated>
-        <content type="html"><![CDATA[제19대 문재인 대통령]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[활기 되찾은 캠퍼스]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2603/EI90SRaeg7"/>
         <updated>2022-04-19T05:29:57.496Z</updated>
         <content type="html"><![CDATA[광주 민주화항쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마음을 잇는 '情']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1127178/E6LvBNKOTL</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1127178/E6LvBNKOTL"/>
-        <updated>2022-04-19T04:41:07.608Z</updated>
-        <content type="html"><![CDATA[기자의 일상]]></content>
     </entry>
 </feed>
