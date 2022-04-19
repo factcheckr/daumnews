@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-04-19T11:21:10.466Z</updated>
+    <updated>2022-04-19T12:45:58.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세월이 흘러도, 그립습니다..[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/EPxufas6iU</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/EPxufas6iU"/>
+        <updated>2022-04-19T12:45:36.958Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이삿짐 들어가는 문 대통령 양산 사저..이웃 주민들에게 이사 떡도 돌려]]></title>
         <id>https://gallery.v.daum.net/p/viewer/318190/EgZP04f69s</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5029579/Ej63LcJAF4"/>
         <updated>2022-04-19T01:56:05.924Z</updated>
         <content type="html"><![CDATA[이탈리아는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한산해진 선별진료소]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5014013/EgIymAFp2S</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5014013/EgIymAFp2S"/>
-        <updated>2022-04-19T01:56:05.925Z</updated>
-        <content type="html"><![CDATA['코로나19' 바이러스]]></content>
     </entry>
 </feed>
