@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-21T03:40:33.822Z</updated>
+    <updated>2022-04-21T04:52:31.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220421120142372"/>
         <updated>2022-04-21T03:39:59.121Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얀센 백신 49만2천회분, 21일 국내 도입]]></title>
+        <id>https://v.daum.net/v/20220421112305626</id>
+        <link href="https://v.daum.net/v/20220421112305626"/>
+        <updated>2022-04-21T04:52:00.536Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화성의 하늘에서 포착한 일식]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220421074724167"/>
         <updated>2022-04-21T03:39:59.132Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5번 기침하면 코로나 확인..'1235억' 잭팟 터졌다]]></title>
-        <id>https://v.daum.net/v/20220421071603740</id>
-        <link href="https://v.daum.net/v/20220421071603740"/>
-        <updated>2022-04-21T03:39:59.133Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
