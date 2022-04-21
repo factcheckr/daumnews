@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-04-21T17:31:15.340Z</updated>
+    <updated>2022-04-21T18:30:58.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마지막 인사]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/EUGPsn3ega</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/EUGPsn3ega"/>
+        <updated>2022-04-21T18:30:33.932Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경남지역 찾은 윤 당선인 윤석열 대통령 당선인[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/EBrW7MpF2i</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1173214/EFPNrHZPOX"/>
         <updated>2022-04-21T07:21:54.410Z</updated>
         <content type="html"><![CDATA[헤럴드 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상승 마감한 코스피]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5031020/Esnd9pRnTT</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5031020/Esnd9pRnTT"/>
-        <updated>2022-04-21T07:21:54.411Z</updated>
-        <content type="html"><![CDATA[코스피 &amp; 코스닥]]></content>
     </entry>
 </feed>
