@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-21T10:27:29.228Z</updated>
+    <updated>2022-04-21T11:21:01.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[암세포 공격력 훨씬 더 강한 '슈퍼 킬러 T세포' 발견]]></title>
+        <id>https://v.daum.net/v/20220421175745437</id>
+        <link href="https://v.daum.net/v/20220421175745437"/>
+        <updated>2022-04-21T11:20:32.704Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오후초대석] 한국게임학회장 "최근 메타버스 현상은 '혹세무민'" 평가 이유는?]]></title>
         <id>https://v.daum.net/v/20220421175105236</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220421153353111"/>
         <updated>2022-04-21T08:29:30.165Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초신성 폭발과 정반대 '마이크로노바' 찾았다]]></title>
-        <id>https://v.daum.net/v/20220421153200977</id>
-        <link href="https://v.daum.net/v/20220421153200977"/>
-        <updated>2022-04-21T08:29:30.166Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
