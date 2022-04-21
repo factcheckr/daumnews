@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-04-21T18:30:58.118Z</updated>
+    <updated>2022-04-21T19:18:47.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[광주 아픔· 실험미술·단색화.. 베니스 수놓은 한국 현대미술]]></title>
+        <id>https://v.daum.net/v/20220422040603439</id>
+        <link href="https://v.daum.net/v/20220422040603439"/>
+        <updated>2022-04-21T19:17:53.982Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미술 올림픽' 개막.. 국가대표들의 베네치아 드라마]]></title>
         <id>https://v.daum.net/v/20220422030529270</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220422001226555"/>
         <updated>2022-04-21T15:25:33.919Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[점·선·면 그림되듯 바다·산·동굴 삼척되다]]></title>
-        <id>https://v.daum.net/v/20220422001018482</id>
-        <link href="https://v.daum.net/v/20220422001018482"/>
-        <updated>2022-04-21T15:25:33.920Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
