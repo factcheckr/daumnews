@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-04-21T12:40:33.422Z</updated>
+    <updated>2022-04-21T13:35:15.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[IT동아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["실패를 연구하다"..KAIST 실패연구소 본격 시동]]></title>
-        <id>https://v.daum.net/v/20220421195600418</id>
-        <link href="https://v.daum.net/v/20220421195600418"/>
-        <updated>2022-04-21T11:20:25.630Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OTT 세액공제 지원받나..국회 법안소위, 정부 합의안 의결]]></title>
         <id>https://v.daum.net/v/20220421193430971</id>
         <link href="https://v.daum.net/v/20220421193430971"/>
@@ -45,6 +38,13 @@
         <id>https://v.daum.net/v/20220421192020661</id>
         <link href="https://v.daum.net/v/20220421192020661"/>
         <updated>2022-04-21T11:20:25.631Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[출연연 연구자 10명 중 5명 "윤석열 정부 과학기술 정책 구체성 부족"]]></title>
+        <id>https://v.daum.net/v/20220421191012359</id>
+        <link href="https://v.daum.net/v/20220421191012359"/>
+        <updated>2022-04-21T13:34:39.817Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
