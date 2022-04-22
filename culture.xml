@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-04-22T10:27:24.171Z</updated>
+    <updated>2022-04-22T11:20:44.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[거실 불만 꺼도 커피쿠폰 받는다던데..일주일치 미션 드립니다 [지구, 뭐래?]]]></title>
+        <id>https://v.daum.net/v/20220422194850587</id>
+        <link href="https://v.daum.net/v/20220422194850587"/>
+        <updated>2022-04-22T11:19:47.788Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바이올리니스트 양인모 "프랑스 음악은 제2의 모국어"]]></title>
         <id>https://v.daum.net/v/20220422180352553</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220422150808040"/>
         <updated>2022-04-22T10:26:25.580Z</updated>
         <content type="html"><![CDATA[JIBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["매 형국, 큰 산엔 꿩이나 참새들 얼씬 못해"]]></title>
-        <id>https://v.daum.net/v/20220422130901648</id>
-        <link href="https://v.daum.net/v/20220422130901648"/>
-        <updated>2022-04-22T10:26:25.581Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
