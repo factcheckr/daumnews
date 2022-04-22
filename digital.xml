@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-04-22T11:20:44.295Z</updated>
+    <updated>2022-04-22T12:42:36.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["124만원→19만원, 이게 말이 돼?" '헐값'된 삼성폰 뭐길래]]></title>
+        <id>https://v.daum.net/v/20220422205139651</id>
+        <link href="https://v.daum.net/v/20220422205139651"/>
+        <updated>2022-04-22T12:41:55.882Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[NFT 산업현장] 1. "NFT는 다양한 산업에서 발전할 것"]]></title>
         <id>https://v.daum.net/v/20220422200002778</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220422175528338"/>
         <updated>2022-04-22T09:24:31.991Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아 우크라이나 침공, 가짜정보가 페이스북서 더 인기]]></title>
-        <id>https://v.daum.net/v/20220422175402297</id>
-        <link href="https://v.daum.net/v/20220422175402297"/>
-        <updated>2022-04-22T09:24:31.992Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
