@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-22T12:42:36.285Z</updated>
+    <updated>2022-04-22T13:40:55.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대통령이 직접 챙기겠다더니..尹 청와대에 '과학기술' 안보인다]]></title>
+        <id>https://v.daum.net/v/20220422175528338</id>
+        <link href="https://v.daum.net/v/20220422175528338"/>
+        <updated>2022-04-22T13:40:26.840Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러시아 우크라이나 침공, 가짜정보가 페이스북서 더 인기]]></title>
         <id>https://v.daum.net/v/20220422175402297</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220422165221578"/>
         <updated>2022-04-22T09:24:39.319Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["국가 주도형 데이터 공개 입법안..산업 경쟁력 약화 우려"]]></title>
-        <id>https://v.daum.net/v/20220422163842140</id>
-        <link href="https://v.daum.net/v/20220422163842140"/>
-        <updated>2022-04-22T09:24:39.320Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
