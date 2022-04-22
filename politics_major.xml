@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2022-04-22T13:40:55.898Z</updated>
+    <updated>2022-04-22T14:22:38.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220422222801357"/>
         <updated>2022-04-22T13:39:22.726Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[괴산군수 공천 경쟁 격화.."탈당 무소속 출마" 경고]]></title>
+        <id>https://v.daum.net/v/20220422215500728</id>
+        <link href="https://v.daum.net/v/20220422215500728"/>
+        <updated>2022-04-22T14:21:01.219Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한덕수 측 "부영 사업 관여한 적 없어..배우자 그림 구입이 전부"]]></title>
+        <id>https://v.daum.net/v/20220422214306533</id>
+        <link href="https://v.daum.net/v/20220422214306533"/>
+        <updated>2022-04-22T14:21:01.220Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공천 탈락 후보 잇따라 무소속 출마..지방선거 변수 될까]]></title>
@@ -59,20 +73,6 @@
         <id>https://v.daum.net/v/20220422212101199</id>
         <link href="https://v.daum.net/v/20220422212101199"/>
         <updated>2022-04-22T13:39:22.742Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 민주당 출신의 양향자, '검수완박' 반대한 이유]]></title>
-        <id>https://v.daum.net/v/20220422211232064</id>
-        <link href="https://v.daum.net/v/20220422211232064"/>
-        <updated>2022-04-22T12:40:58.897Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["직접수사권 폐지·보완수사권 유지·4개월 유예기간"]]></title>
-        <id>https://v.daum.net/v/20220422211530120</id>
-        <link href="https://v.daum.net/v/20220422211530120"/>
-        <updated>2022-04-22T12:40:58.895Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
