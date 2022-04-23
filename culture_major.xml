@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-04-23T06:27:36.271Z</updated>
+    <updated>2022-04-23T07:22:24.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지키는 마음, 아끼는 기억이 바로 박물관]]></title>
+        <id>https://v.daum.net/v/20220423134602024</id>
+        <link href="https://v.daum.net/v/20220423134602024"/>
+        <updated>2022-04-23T07:21:39.916Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여행honey] 여전히 입국 금지인 나라는 어디?]]></title>
         <id>https://v.daum.net/v/20220423130217581</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220423090150737"/>
         <updated>2022-04-23T03:03:55.325Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에메랄드빛 바다와 맹그로브 숲.. 열대의 비경 다시 열렸다[전승훈 기자의 아트로드]]]></title>
-        <id>https://v.daum.net/v/20220423030226855</id>
-        <link href="https://v.daum.net/v/20220423030226855"/>
-        <updated>2022-04-23T01:46:22.144Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
