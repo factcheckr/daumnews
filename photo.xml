@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-04-23T16:31:34.523Z</updated>
+    <updated>2022-04-23T17:23:43.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1473/EWpZqXLUIm"/>
         <updated>2022-04-23T11:19:19.875Z</updated>
         <content type="html"><![CDATA[교통사고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[겹복사꽃]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/EKBj6rElJN</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/EKBj6rElJN"/>
+        <updated>2022-04-23T17:23:21.420Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지옥 같았던 학살.. 삶 이어가는 부차 주민들]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5116766/E4B6nSePUS"/>
         <updated>2022-04-22T16:34:41.860Z</updated>
         <content type="html"><![CDATA[출근길 풍경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플라스틱에 질식되는 인류를 구해줘..[포토뉴스]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1461/EzmFLIc3xX</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1461/EzmFLIc3xX"/>
-        <updated>2022-04-22T12:42:12.050Z</updated>
-        <content type="html"><![CDATA[서울의 풍경]]></content>
     </entry>
 </feed>
