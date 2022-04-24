@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-04-24T17:23:39.965Z</updated>
+    <updated>2022-04-24T18:27:02.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인공지능-탈중앙화 장착한 차세대 인터넷 '웹3.0시대' 본격 개막된다]]></title>
+        <id>https://v.daum.net/v/20220425030716827</id>
+        <link href="https://v.daum.net/v/20220425030716827"/>
+        <updated>2022-04-24T18:26:23.907Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025년 서울 상공 300m, 다섯명 탄 '조비'가 뜬다]]></title>
+        <id>https://v.daum.net/v/20220425030206606</id>
+        <link href="https://v.daum.net/v/20220425030206606"/>
+        <updated>2022-04-24T18:26:23.908Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내일(25일) 남부지방 집중호우에 강풍..'시간당 50mm' 폭우 주의]]></title>
         <id>https://v.daum.net/v/20220424211919591</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220424175218174"/>
         <updated>2022-04-24T09:22:12.338Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부처 칸막이에 우주정책 산으로..G20 중 韓만 전담기구 없어]]></title>
-        <id>https://v.daum.net/v/20220424181133539</id>
-        <link href="https://v.daum.net/v/20220424181133539"/>
-        <updated>2022-04-24T09:22:12.339Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스잇(IT)쥬]'망사용료법' 공청회 간다..코로나19 특수 끝난 네이버 성장세 둔화]]></title>
-        <id>https://v.daum.net/v/20220424181014517</id>
-        <link href="https://v.daum.net/v/20220424181014517"/>
-        <updated>2022-04-24T09:22:12.340Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
