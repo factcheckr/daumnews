@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-04-25T22:23:52.679Z</updated>
+    <updated>2022-04-25T23:24:58.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[머스크가 품은 트위터, 어떻게 바뀌나..'표현의 자유' 키우고 사업 모델 바꿀수도]]></title>
+        <id>https://v.daum.net/v/20220426075410458</id>
+        <link href="https://v.daum.net/v/20220426075410458"/>
+        <updated>2022-04-25T23:24:22.636Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["靑 과학교육수석 신설해 달라"..안철수의 요구 이번엔 먹힐까]]></title>
         <id>https://v.daum.net/v/20220426070234749</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220426060507178"/>
         <updated>2022-04-25T21:19:25.587Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['축구장 25개' 세계 최대 반도체 공장.. 삼성전자 P3, 하반기 완공된다]]></title>
-        <id>https://v.daum.net/v/20220426060209146</id>
-        <link href="https://v.daum.net/v/20220426060209146"/>
-        <updated>2022-04-25T21:19:25.588Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
