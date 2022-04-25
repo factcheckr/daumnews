@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-04-25T16:32:24.856Z</updated>
+    <updated>2022-04-25T17:26:58.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美, 대중 무역관세 완화할까..재무장관 "검토할 가치있는 일"]]></title>
+        <id>https://v.daum.net/v/20220426021634666</id>
+        <link href="https://v.daum.net/v/20220426021634666"/>
+        <updated>2022-04-25T17:25:33.722Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[론스타 '먹튀' 빌미 제공한 정부.. 제2사태도 불보듯]]></title>
         <id>https://v.daum.net/v/20220426000608007</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220426000006860"/>
         <updated>2022-04-25T15:25:22.204Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["뒤통수 맞았다" 분당·일산 발칵..대선뒤 불만 터진 그 사업]]></title>
-        <id>https://v.daum.net/v/20220425234458738</id>
-        <link href="https://v.daum.net/v/20220425234458738"/>
-        <updated>2022-04-25T15:25:22.205Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
