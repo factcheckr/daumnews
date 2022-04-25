@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-04-25T17:26:58.333Z</updated>
+    <updated>2022-04-25T18:31:11.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글 첫 스마트워치, 식당서 발견됐다고?]]></title>
+        <id>https://v.daum.net/v/20220426030504984</id>
+        <link href="https://v.daum.net/v/20220426030504984"/>
+        <updated>2022-04-25T18:30:27.611Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유전자 조작 모기로 모기 없앤다..美 첫 실험 성공]]></title>
+        <id>https://v.daum.net/v/20220426022809691</id>
+        <link href="https://v.daum.net/v/20220426022809691"/>
+        <updated>2022-04-25T18:30:27.615Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["우주전담조직 대통령실·국가우주위 산하로 설립해야"]]></title>
         <id>https://v.daum.net/v/20220425215012624</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220425202055321"/>
         <updated>2022-04-25T12:41:16.666Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["36만원에 샀다" "나는 45만원이다" 믿었던 '이 회사' 어쩌나]]></title>
-        <id>https://v.daum.net/v/20220425195140891</id>
-        <link href="https://v.daum.net/v/20220425195140891"/>
-        <updated>2022-04-25T11:20:20.272Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["모텔 대실 덕 좀 보려다가" 난리난 '이 코인', 대체 뭐길래]]></title>
-        <id>https://v.daum.net/v/20220425185127797</id>
-        <link href="https://v.daum.net/v/20220425185127797"/>
-        <updated>2022-04-25T11:20:20.275Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-25T17:26:58.335Z</updated>
+    <updated>2022-04-25T18:31:11.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["36만원에 샀다" "나는 45만원이다" 믿었던 '이 회사' 어쩌나]]></title>
+        <id>https://v.daum.net/v/20220425195140891</id>
+        <link href="https://v.daum.net/v/20220425195140891"/>
+        <updated>2022-04-25T18:30:38.443Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["모텔 대실 덕 좀 보려다가" 난리난 '이 코인', 대체 뭐길래]]></title>
+        <id>https://v.daum.net/v/20220425185127797</id>
+        <link href="https://v.daum.net/v/20220425185127797"/>
+        <updated>2022-04-25T18:30:38.445Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['크롤링'다윈중개에 뿔난 네이버 "본안 소송 제기" 강력 대응 시사]]></title>
         <id>https://v.daum.net/v/20220425182502301</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220425164516039"/>
         <updated>2022-04-25T11:20:27.392Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안철수 "문재인 정부, 낙하산 인사·빅3산업 집중..새 정부 규제혁파·민간주도 집중할 것"]]></title>
-        <id>https://v.daum.net/v/20220425163013450</id>
-        <link href="https://v.daum.net/v/20220425163013450"/>
-        <updated>2022-04-25T08:30:03.206Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안철수 "달 착륙 당겼으면..정부 데이터 먼저 공개해야"]]></title>
-        <id>https://v.daum.net/v/20220425162208137</id>
-        <link href="https://v.daum.net/v/20220425162208137"/>
-        <updated>2022-04-25T08:30:03.208Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
