@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-04-25T19:19:38.723Z</updated>
+    <updated>2022-04-25T20:24:33.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민주당의 빈자리]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/ENhBOHxy8H</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/ENhBOHxy8H"/>
+        <updated>2022-04-25T20:24:09.581Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유채꽃 길]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/EOnpzz3e6D</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5031020/ELujalKvOX"/>
         <updated>2022-04-25T08:30:10.796Z</updated>
         <content type="html"><![CDATA[코스피 &amp; 코스닥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지하철에 나타난 오리 가족, 엘리베이터 태워 구조 [청계천 옆 사진관]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/344179/EEwlNkL3V3</id>
-        <link href="https://gallery.v.daum.net/p/viewer/344179/EEwlNkL3V3"/>
-        <updated>2022-04-25T08:30:10.800Z</updated>
-        <content type="html"><![CDATA[청계천 옆 사진관]]></content>
     </entry>
 </feed>
