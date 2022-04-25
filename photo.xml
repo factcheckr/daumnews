@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-04-25T03:18:10.212Z</updated>
+    <updated>2022-04-25T04:32:39.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이달의 보도사진 피처&네이처 부문 최우수상 '해질녘 산불 진화 헬기의 마지막 비행']]></title>
+        <id>https://gallery.v.daum.net/p/viewer/2323/E1l7UlB9FF</id>
+        <link href="https://gallery.v.daum.net/p/viewer/2323/E1l7UlB9FF"/>
+        <updated>2022-04-25T04:32:16.945Z</updated>
+        <content type="html"><![CDATA[보도사진상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘부터 영화관·마트 등 실내 취식 가능, '오늘 영화는 팝콘각!' [TF사진관]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5024184/ER85JfvoHn</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5031175/EIJg30aeWJ"/>
         <updated>2022-04-24T18:26:38.675Z</updated>
         <content type="html"><![CDATA[브라질은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꽃, 돌, 쇠]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5029578/ElhER74Ppf</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5029578/ElhER74Ppf"/>
-        <updated>2022-04-24T18:26:38.675Z</updated>
-        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
 </feed>
