@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-04-26T14:21:59.028Z</updated>
+    <updated>2022-04-26T15:25:18.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20220426221036300"/>
         <updated>2022-04-26T13:41:09.042Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1분기 GDP 성장률 0.7%..높은 물가·환율, 수출 악재가 걸림돌]]></title>
+        <id>https://v.daum.net/v/20220426213502448</id>
+        <link href="https://v.daum.net/v/20220426213502448"/>
+        <updated>2022-04-26T15:24:01.105Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[의장님도 소멸어민?..'조합원 끼어들기']]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220426205404620"/>
         <updated>2022-04-26T12:43:10.131Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대외악재에 불안한 금융시장.. 외국인 '셀코리아' 가속]]></title>
-        <id>https://v.daum.net/v/20220426204130366</id>
-        <link href="https://v.daum.net/v/20220426204130366"/>
-        <updated>2022-04-26T12:43:10.132Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
