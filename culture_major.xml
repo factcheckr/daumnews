@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-04-26T19:19:51.123Z</updated>
+    <updated>2022-04-26T20:25:45.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[최원준의 음식 사람] <56> 경북 김천 '갱시기']]></title>
+        <id>https://v.daum.net/v/20220426221607429</id>
+        <link href="https://v.daum.net/v/20220426221607429"/>
+        <updated>2022-04-26T20:24:55.537Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20세기초 우크라 비극 담은 뮤지컬 '지붕 위의 바이올린']]></title>
         <id>https://v.daum.net/v/20220426213102375</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220426173050198"/>
         <updated>2022-04-26T11:20:15.310Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미술시장 완전정복] 김환기·이우환이 낙찰률 1위 아니었어?]]></title>
-        <id>https://v.daum.net/v/20220426172100952</id>
-        <link href="https://v.daum.net/v/20220426172100952"/>
-        <updated>2022-04-26T10:26:56.810Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>

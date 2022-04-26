@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-04-26T19:19:51.108Z</updated>
+    <updated>2022-04-26T20:25:45.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 한국포럼 개막]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/Efnz3lDQI7</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/Efnz3lDQI7"/>
+        <updated>2022-04-26T20:25:20.932Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[색연필 벤치]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/EI5PubISs8</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5030433/EOjNVR4Rsb"/>
         <updated>2022-04-26T07:23:00.326Z</updated>
         <content type="html"><![CDATA[국립중앙박물관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 최고 불독(Bulldog) 미인(?)[퇴근길 한 컷]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1397984/EuzCTz33Wr</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1397984/EuzCTz33Wr"/>
-        <updated>2022-04-26T07:23:00.331Z</updated>
-        <content type="html"><![CDATA[퇴근길 한 컷]]></content>
     </entry>
 </feed>
