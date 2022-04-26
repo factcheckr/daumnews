@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-04-26T15:25:18.361Z</updated>
+    <updated>2022-04-26T16:33:50.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[초간단 혈압 낮추는 법 3가지]]></title>
+        <id>https://v.daum.net/v/20220427010014133</id>
+        <link href="https://v.daum.net/v/20220427010014133"/>
+        <updated>2022-04-26T16:32:52.923Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[수요동물원] 무엇을 위해 싸웠나..파멸로 끝난 수컷들의 혈투]]></title>
         <id>https://v.daum.net/v/20220427000033461</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220426210130809"/>
         <updated>2022-04-26T12:43:31.991Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세상돋보기] 식물 호텔부터 병원까지..'식집사' 위한 산업이 뜬다]]></title>
-        <id>https://v.daum.net/v/20220426202739038</id>
-        <link href="https://v.daum.net/v/20220426202739038"/>
-        <updated>2022-04-26T12:43:31.994Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
