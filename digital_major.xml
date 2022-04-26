@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-26T17:28:10.586Z</updated>
+    <updated>2022-04-26T18:28:34.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220426221519403"/>
         <updated>2022-04-26T13:41:52.044Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['삼성 천하' 폴더블폰에 中 도전장.."한때 라이벌" 화웨이, 신제품 출시]]></title>
+        <id>https://v.daum.net/v/20220426210106796</id>
+        <link href="https://v.daum.net/v/20220426210106796"/>
+        <updated>2022-04-26T18:28:05.178Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플, 노조 설립 본격적으로 막나..'反노조' 전문 로펌과 맞손]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220426173122344"/>
         <updated>2022-04-26T10:27:12.774Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보안 대장주 찜한 SK쉴더스 "공모가 고평가된 것 아니다"]]></title>
-        <id>https://v.daum.net/v/20220426172432120</id>
-        <link href="https://v.daum.net/v/20220426172432120"/>
-        <updated>2022-04-26T09:23:52.172Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
