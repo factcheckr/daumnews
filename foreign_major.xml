@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-04-27T16:35:43.064Z</updated>
+    <updated>2022-04-27T17:31:21.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中 외교부 "파키스탄 테러 강력 규탄..사람과 생명이 먼저"]]></title>
+        <id>https://v.daum.net/v/20220428010148686</id>
+        <link href="https://v.daum.net/v/20220428010148686"/>
+        <updated>2022-04-27T17:30:22.730Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유럽·韓·日 국방당국 모은 美, 러시아 군사력 약화 본격 추진]]></title>
         <id>https://v.daum.net/v/20220428010003663</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220428003613450"/>
         <updated>2022-04-27T16:34:46.692Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美공화 '사고뭉치' 의원, 총기갖고 탑승하려다 공항서 또 적발돼]]></title>
-        <id>https://v.daum.net/v/20220428002619350</id>
-        <link href="https://v.daum.net/v/20220428002619350"/>
-        <updated>2022-04-27T16:34:46.693Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
