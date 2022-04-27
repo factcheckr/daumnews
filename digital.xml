@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-04-27T13:40:41.680Z</updated>
+    <updated>2022-04-27T14:22:48.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파이 키우고 규제 피하고.. IT업계 해외시장 '정조준']]></title>
+        <id>https://v.daum.net/v/20220427223603226</id>
+        <link href="https://v.daum.net/v/20220427223603226"/>
+        <updated>2022-04-27T14:22:06.419Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5월 청와대 개방 전 사전 접수 시작..신청 방법 살펴보니]]></title>
         <id>https://v.daum.net/v/20220427223302178</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220427190012865"/>
         <updated>2022-04-27T10:26:35.161Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연합뉴스 이어 스포츠서울도 포털 제재 중단 가처분 '인용']]></title>
-        <id>https://v.daum.net/v/20220427184703600</id>
-        <link href="https://v.daum.net/v/20220427184703600"/>
-        <updated>2022-04-27T10:26:35.161Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
 </feed>

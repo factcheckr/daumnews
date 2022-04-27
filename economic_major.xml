@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-04-27T13:40:41.728Z</updated>
+    <updated>2022-04-27T14:22:48.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원화 약세·외국인 매도 악순환..올 들어 '셀코리아' 10조 육박]]></title>
+        <id>https://v.daum.net/v/20220427214503260</id>
+        <link href="https://v.daum.net/v/20220427214503260"/>
+        <updated>2022-04-27T14:21:27.570Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fed발 '강달러'에 묘수 없는 당국]]></title>
         <id>https://v.daum.net/v/20220427214454253</id>
         <link href="https://v.daum.net/v/20220427214454253"/>
         <updated>2022-04-27T13:39:21.935Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기대감만 키운 인수위 정책..어떻게 될까?]]></title>
+        <id>https://v.daum.net/v/20220427214445251</id>
+        <link href="https://v.daum.net/v/20220427214445251"/>
+        <updated>2022-04-27T14:21:27.570Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[금리 상승기에 아파트 거래량 증가 이유는?]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220427205740335"/>
         <updated>2022-04-27T13:39:21.948Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거리두기 끝, 이제 좀 놀고 싶었는데..'가격 펜스' 장난이 아니네]]></title>
-        <id>https://v.daum.net/v/20220427205101195</id>
-        <link href="https://v.daum.net/v/20220427205101195"/>
-        <updated>2022-04-27T12:41:01.801Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["배달료 깎는 거리 계산".. 뿔난 라이더들, 오토바이 행진]]></title>
-        <id>https://v.daum.net/v/20220427204804144</id>
-        <link href="https://v.daum.net/v/20220427204804144"/>
-        <updated>2022-04-27T12:41:01.802Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
