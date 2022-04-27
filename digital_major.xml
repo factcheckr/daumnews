@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-27T10:27:13.722Z</updated>
+    <updated>2022-04-27T11:20:48.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220427182212098"/>
         <updated>2022-04-27T10:26:43.102Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["요금만 비싸고 빠른 줄 모르겠다"..아직 LTE 절반뿐인 5G 가입자]]></title>
+        <id>https://v.daum.net/v/20220427174104640</id>
+        <link href="https://v.daum.net/v/20220427174104640"/>
+        <updated>2022-04-27T11:20:16.855Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[해외 전문가들 "원자력은 탄소중립·안보 이끌 유일한 대안"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220427163643954"/>
         <updated>2022-04-27T08:28:10.854Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내달 尹·바이든 회담, 넷플릭스 망사용료 논의할까]]></title>
-        <id>https://v.daum.net/v/20220427163219812</id>
-        <link href="https://v.daum.net/v/20220427163219812"/>
-        <updated>2022-04-27T08:28:10.856Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
