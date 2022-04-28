@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-04-28T15:26:57.894Z</updated>
+    <updated>2022-04-28T16:36:16.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공관기획, 정론지의 역할 보여줘..후속보도 해달라]]></title>
+        <id>https://v.daum.net/v/20220429000259041</id>
+        <link href="https://v.daum.net/v/20220429000259041"/>
+        <updated>2022-04-28T16:35:26.356Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내 코앞에 선 '덩어리 인간' 더 우러르는 이유[이수연의 아트버스]<2>]]></title>
         <id>https://v.daum.net/v/20220429000119008</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220428185605514"/>
         <updated>2022-04-28T13:41:21.876Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["쉽게 불행해지는 세상"..'차미'가 전하는 위로와 희망]]></title>
-        <id>https://v.daum.net/v/20220428184850315</id>
-        <link href="https://v.daum.net/v/20220428184850315"/>
-        <updated>2022-04-28T12:45:15.664Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-04-28T15:26:57.911Z</updated>
+    <updated>2022-04-28T16:36:16.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['요즘 왜 단어가 생각 안 나지'.. 술 좋아하는 사람이라면]]></title>
+        <id>https://v.daum.net/v/20220429010016483</id>
+        <link href="https://v.daum.net/v/20220429010016483"/>
+        <updated>2022-04-28T16:35:18.444Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쓰고 또 쓰고.. 문학에 펼쳐진 '강원도의 힘']]></title>
         <id>https://v.daum.net/v/20220429001124230</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220429001028188"/>
         <updated>2022-04-28T15:26:03.799Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공관 기획, 정론지의 역할 제대로 했다]]></title>
-        <id>https://v.daum.net/v/20220429000259041</id>
-        <link href="https://v.daum.net/v/20220429000259041"/>
-        <updated>2022-04-28T15:26:03.800Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
