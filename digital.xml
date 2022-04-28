@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-04-28T13:42:12.292Z</updated>
+    <updated>2022-04-28T14:20:29.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["자율주행 기술, 주차장에 주목하라"]]></title>
+        <id>https://v.daum.net/v/20220428224013202</id>
+        <link href="https://v.daum.net/v/20220428224013202"/>
+        <updated>2022-04-28T14:19:45.429Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박사 80명 뛰쳐나왔다.."인수위, 우주청 경남 결정 결사반대"]]></title>
         <id>https://v.daum.net/v/20220428220023393</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220428194606929"/>
         <updated>2022-04-28T11:19:40.398Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[WEEKLY BIZ] 1년만에 99% 폭락했다, 디지털 모나리자의 통곡]]></title>
-        <id>https://v.daum.net/v/20220428193011531</id>
-        <link href="https://v.daum.net/v/20220428193011531"/>
-        <updated>2022-04-28T11:19:40.399Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
