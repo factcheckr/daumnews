@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-04-28T21:20:52.929Z</updated>
+    <updated>2022-04-28T22:23:51.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국미술 상전벽해..베네치아서 다양한 전시 펼쳐]]></title>
+        <id>https://v.daum.net/v/20220429050659622</id>
+        <link href="https://v.daum.net/v/20220429050659622"/>
+        <updated>2022-04-28T22:23:07.520Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[눈에 안 보이는 울타리, 동물들은 행복할까?]]></title>
         <id>https://v.daum.net/v/20220429050637599</id>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20220429030253867</id>
         <link href="https://v.daum.net/v/20220429030253867"/>
         <updated>2022-04-28T20:24:09.170Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배변, 양치질, 감정표현.. 독서 통해 알려주세요]]></title>
-        <id>https://v.daum.net/v/20220429030232851</id>
-        <link href="https://v.daum.net/v/20220429030232851"/>
-        <updated>2022-04-28T19:19:47.908Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
