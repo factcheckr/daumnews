@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-04-29T15:26:04.221Z</updated>
+    <updated>2022-04-29T16:34:18.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원전업체 "물량 배당까지 4~5년..버티기 힘들어"]]></title>
+        <id>https://v.daum.net/v/20220429215554131</id>
+        <link href="https://v.daum.net/v/20220429215554131"/>
+        <updated>2022-04-29T16:32:58.318Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[집중취재] 서대구 역세권 개발..관건은 '민자유치']]></title>
         <id>https://v.daum.net/v/20220429215432111</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220429204643095"/>
         <updated>2022-04-29T12:43:18.324Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해태만 금(金)자?..같은 감잔데 가격 인상은 '천차만별']]></title>
-        <id>https://v.daum.net/v/20220429204628089</id>
-        <link href="https://v.daum.net/v/20220429204628089"/>
-        <updated>2022-04-29T12:43:18.324Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>
