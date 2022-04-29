@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-29T03:37:34.216Z</updated>
+    <updated>2022-04-29T04:38:46.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[초전도체 컴퓨팅 시대 열 실마리 찾았다]]></title>
+        <id>https://v.daum.net/v/20220429101929627</id>
+        <link href="https://v.daum.net/v/20220429101929627"/>
+        <updated>2022-04-29T04:38:14.090Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]'운동하며 돈버는 앱'스테픈 살았다..게임위 "게임 아니다" 결론]]></title>
         <id>https://v.daum.net/v/20220429100525003</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220429070105148"/>
         <updated>2022-04-29T02:00:27.464Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["과학기술, 새 정부 국정 중심에 반드시 들어가야"]]></title>
-        <id>https://v.daum.net/v/20220429070043135</id>
-        <link href="https://v.daum.net/v/20220429070043135"/>
-        <updated>2022-04-29T02:00:27.465Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
