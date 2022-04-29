@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-29T12:44:29.775Z</updated>
+    <updated>2022-04-29T13:42:40.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글·메타 컨콜에서 나란히 언급된 '틱톡'..왜?]]></title>
+        <id>https://v.daum.net/v/20220429154534580</id>
+        <link href="https://v.daum.net/v/20220429154534580"/>
+        <updated>2022-04-29T13:42:09.281Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카이스트 연구진 "지난 50년간 잦아진 동아시아 태풍, 지구온난화 때문"]]></title>
         <id>https://v.daum.net/v/20220429154106387</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220429113540848"/>
         <updated>2022-04-29T06:29:54.696Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산 코로나 이틀째 2000명대..국내 5만 명대 감소세 유지]]></title>
-        <id>https://v.daum.net/v/20220429111139801</id>
-        <link href="https://v.daum.net/v/20220429111139801"/>
-        <updated>2022-04-29T05:25:16.179Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
     </entry>
 </feed>

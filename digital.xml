@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-04-29T12:44:29.778Z</updated>
+    <updated>2022-04-29T13:42:40.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["우리 집도 없어요"..하자 심사 신청도 추진]]></title>
+        <id>https://v.daum.net/v/20220429214741006</id>
+        <link href="https://v.daum.net/v/20220429214741006"/>
+        <updated>2022-04-29T13:42:00.864Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김태진의 Newtro] 대통령실엔 디지털人이 없다]]></title>
         <id>https://v.daum.net/v/20220429200311323</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220429155212883"/>
         <updated>2022-04-29T07:25:36.911Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글·메타 컨콜에서 나란히 언급된 '틱톡'..왜?]]></title>
-        <id>https://v.daum.net/v/20220429154534580</id>
-        <link href="https://v.daum.net/v/20220429154534580"/>
-        <updated>2022-04-29T07:25:36.912Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>
