@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-04-29T04:38:46.736Z</updated>
+    <updated>2022-04-29T05:25:55.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부산 코로나 이틀째 2000명대..국내 5만 명대 감소세 유지]]></title>
+        <id>https://v.daum.net/v/20220429111139801</id>
+        <link href="https://v.daum.net/v/20220429111139801"/>
+        <updated>2022-04-29T05:25:16.179Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[우주산업 리포트]위성 지구관측에 돈이 몰리고 있다]]></title>
+        <id>https://v.daum.net/v/20220429110141349</id>
+        <link href="https://v.daum.net/v/20220429110141349"/>
+        <updated>2022-04-29T05:25:16.179Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동해 가스전의 불꽃 꺼졌다]]></title>
+        <id>https://v.daum.net/v/20220429105754166</id>
+        <link href="https://v.daum.net/v/20220429105754166"/>
+        <updated>2022-04-29T05:25:16.180Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초전도체 컴퓨팅 시대 열 실마리 찾았다]]></title>
         <id>https://v.daum.net/v/20220429101929627</id>
         <link href="https://v.daum.net/v/20220429101929627"/>
         <updated>2022-04-29T04:38:14.090Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]'운동하며 돈버는 앱'스테픈 살았다..게임위 "게임 아니다" 결론]]></title>
-        <id>https://v.daum.net/v/20220429100525003</id>
-        <link href="https://v.daum.net/v/20220429100525003"/>
-        <updated>2022-04-29T03:37:00.437Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공항서 찍은 얼굴 넘기고 과태료 100만원? "면죄부 줬다"]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220429080054938"/>
         <updated>2022-04-29T02:00:27.462Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['특허 잭팟' 이종호 장관 후보자, 내달 3일 청문회..특허 수익이 최대 쟁점]]></title>
-        <id>https://v.daum.net/v/20220429074646715</id>
-        <link href="https://v.daum.net/v/20220429074646715"/>
-        <updated>2022-04-29T02:00:27.463Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공룡시대의 퇴적암층..안산의 역사문화공간으로 재탄생한다]]></title>
-        <id>https://v.daum.net/v/20220429070105148</id>
-        <link href="https://v.daum.net/v/20220429070105148"/>
-        <updated>2022-04-29T02:00:27.464Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
