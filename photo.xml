@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-04-30T05:22:44.429Z</updated>
+    <updated>2022-04-30T06:28:36.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[멕시코시티에 K뷰티 팝업스토어]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032335/EippE8cpev</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032335/EippE8cpev"/>
+        <updated>2022-04-30T06:28:12.950Z</updated>
+        <content type="html"><![CDATA[멕시코는 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한시적 접촉면회' 오랜만에 느껴보는 아들과 딸의 체온 [뉴시스Pic]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5018824/EtL66dab2F</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/377110/EaHHY5GQFq"/>
         <updated>2022-04-29T12:44:08.096Z</updated>
         <content type="html"><![CDATA[포토뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전승절 열병식 연습하는 러시아군 탱크]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/2322/EjUT41RG8v</id>
-        <link href="https://gallery.v.daum.net/p/viewer/2322/EjUT41RG8v"/>
-        <updated>2022-04-29T09:24:22.675Z</updated>
-        <content type="html"><![CDATA[러시아 푸틴 대통령]]></content>
     </entry>
 </feed>
