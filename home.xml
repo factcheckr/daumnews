@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2022-04-30T16:31:18.168Z</updated>
+    <updated>2022-04-30T17:23:51.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['검수완박' 사실상 3일 본회의만 남았다..여야 '극한 충돌']]></title>
+        <id>https://v.daum.net/v/20220501014744258</id>
+        <link href="https://v.daum.net/v/20220501014744258"/>
+        <updated>2022-04-30T17:21:57.124Z</updated>
+        <content type="html"><![CDATA[정치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박홍근 "국힘, 법사위 회의진행 방해..징계안 3일 본회의 상정"]]></title>
         <id>https://v.daum.net/v/20220501012340205</id>
@@ -97,18 +104,18 @@
         <content type="html"><![CDATA[사회]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서울교육감 후보들 공약보니.."학력저하 해결 시급" 한목소리]]></title>
-        <id>https://v.daum.net/v/20220501000021826</id>
-        <link href="https://v.daum.net/v/20220501000021826"/>
-        <updated>2022-04-30T15:22:15.961Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['재계 47위→20위' 중흥건설 달라진 위상..'상호출자제한 지정' 영향은?]]></title>
         <id>https://v.daum.net/v/20220501000017823</id>
         <link href="https://v.daum.net/v/20220501000017823"/>
         <updated>2022-04-30T15:22:15.962Z</updated>
         <content type="html"><![CDATA[경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울교육감 후보들 공약보니.."학력저하 해결 시급" 한목소리]]></title>
+        <id>https://v.daum.net/v/20220501000021826</id>
+        <link href="https://v.daum.net/v/20220501000021826"/>
+        <updated>2022-04-30T15:22:15.961Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[文대통령의 마지막 항변이 아쉬운 이유[허주열의 '靑.春일기']]]></title>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20220430231043536"/>
         <updated>2022-04-30T14:19:56.468Z</updated>
         <content type="html"><![CDATA[문화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산자부 이창양 5월9일·중기부 이영 11일 인사청문 실시]]></title>
-        <id>https://v.daum.net/v/20220430230939528</id>
-        <link href="https://v.daum.net/v/20220430230939528"/>
-        <updated>2022-04-30T14:19:56.468Z</updated>
-        <content type="html"><![CDATA[정치]]></content>
     </entry>
 </feed>
