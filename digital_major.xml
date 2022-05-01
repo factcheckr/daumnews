@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-05-01T05:27:31.908Z</updated>
+    <updated>2022-05-01T06:28:39.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[과학핫이슈]베일 벗겨지는 우주 '첫 은하']]></title>
+        <id>https://v.daum.net/v/20220501120115575</id>
+        <link href="https://v.daum.net/v/20220501120115575"/>
+        <updated>2022-05-01T06:28:10.155Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KIST "내구성 높은 연료전지용 촉매, 스프레이 열분해로 개발"]]></title>
         <id>https://v.daum.net/v/20220501120007446</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220501063606179"/>
         <updated>2022-05-01T04:02:32.508Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성 '2030 시스템반도체 1위' 선포 3년..점유율은 오히려 하락]]></title>
-        <id>https://v.daum.net/v/20220501060106900</id>
-        <link href="https://v.daum.net/v/20220501060106900"/>
-        <updated>2022-05-01T04:02:32.511Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
