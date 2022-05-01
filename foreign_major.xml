@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-05-01T15:24:55.733Z</updated>
+    <updated>2022-05-01T16:32:24.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기원전 4세기 유물도, 유대 경전도.. 러, 우크라 '2300년 역사' 약탈]]></title>
+        <id>https://v.daum.net/v/20220501222705684</id>
+        <link href="https://v.daum.net/v/20220501222705684"/>
+        <updated>2022-05-01T16:31:25.687Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전세계 코로나 하루감염자, 40일째 감소..59.1만명]]></title>
         <id>https://v.daum.net/v/20220501222701681</id>
@@ -18,6 +25,13 @@
         <link href="https://v.daum.net/v/20220501222021613"/>
         <updated>2022-05-01T13:34:21.131Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日 산케이 "신중했던 한국도 마스크 의무 해제..우리도 재검토 해야"]]></title>
+        <id>https://v.daum.net/v/20220501221153550</id>
+        <link href="https://v.daum.net/v/20220501221153550"/>
+        <updated>2022-05-01T16:31:25.688Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[르포]시영주택과 평화기념관.. 재일 조선인 '우토로마을'의 변신]]></title>
@@ -59,20 +73,6 @@
         <id>https://v.daum.net/v/20220501213542154</id>
         <link href="https://v.daum.net/v/20220501213542154"/>
         <updated>2022-05-01T14:20:56.357Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[때 이른 기록적 더위에.. 밀 생산 위기 닥친 인도]]></title>
-        <id>https://v.daum.net/v/20220501213118119</id>
-        <link href="https://v.daum.net/v/20220501213118119"/>
-        <updated>2022-05-01T13:34:21.137Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["마리우폴 제철소서 민간인 20여 명 대피".."러, 돈바스 3곳 함락 실패"]]></title>
-        <id>https://v.daum.net/v/20220501213038116</id>
-        <link href="https://v.daum.net/v/20220501213038116"/>
-        <updated>2022-05-01T13:34:21.137Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
