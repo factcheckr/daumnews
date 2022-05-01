@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-05-01T10:26:47.849Z</updated>
+    <updated>2022-05-01T11:20:10.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베일 벗은 조국 다큐 "날 견제할 후보 판단..싹 자르자는 것"]]></title>
+        <id>https://v.daum.net/v/20220501192536008</id>
+        <link href="https://v.daum.net/v/20220501192536008"/>
+        <updated>2022-05-01T11:19:17.022Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구석기 동굴벽화 늑대, 메타버스서 NFT와 만나다]]></title>
         <id>https://v.daum.net/v/20220501180003088</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220501163354372"/>
         <updated>2022-05-01T10:25:51.086Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산 감천문화마을, 통영 동피랑, 목포는 '여기']]></title>
-        <id>https://v.daum.net/v/20220501162701249</id>
-        <link href="https://v.daum.net/v/20220501162701249"/>
-        <updated>2022-05-01T10:25:51.087Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>

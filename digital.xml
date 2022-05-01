@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-05-01T10:26:47.872Z</updated>
+    <updated>2022-05-01T11:20:10.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[통신3사 5G 망구축 실적, 과기부에 보고..28㎓ 정책 변할까 관심]]></title>
+        <id>https://v.daum.net/v/20220501195707284</id>
+        <link href="https://v.daum.net/v/20220501195707284"/>
+        <updated>2022-05-01T11:19:31.547Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹정부 '科技중심 국정기조' 사라졌다]]></title>
         <id>https://v.daum.net/v/20220501182833511</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220501170006930"/>
         <updated>2022-05-01T08:27:09.036Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["출시 한달만에 89만→0원" 삼성 신제품 이래도 돼?]]></title>
-        <id>https://v.daum.net/v/20220501165155743</id>
-        <link href="https://v.daum.net/v/20220501165155743"/>
-        <updated>2022-05-01T08:27:09.037Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>

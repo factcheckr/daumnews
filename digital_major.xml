@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-05-01T10:26:47.888Z</updated>
+    <updated>2022-05-01T11:20:10.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["출시 한달만에 89만→0원" 삼성 신제품 이래도 돼?]]></title>
+        <id>https://v.daum.net/v/20220501165155743</id>
+        <link href="https://v.daum.net/v/20220501165155743"/>
+        <updated>2022-05-01T11:19:39.560Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스잇(IT)쥬] 인수위 '5G 중간요금제' 검토..삼성 폰, 1분기 매출 10.8%↑]]></title>
         <id>https://v.daum.net/v/20220501164509597</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220501115838415"/>
         <updated>2022-05-01T04:47:24.185Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]"계획에 없었다"고 퇴짜 맞은 '한국 첫 소행성 탐사']]></title>
-        <id>https://v.daum.net/v/20220501114147128</id>
-        <link href="https://v.daum.net/v/20220501114147128"/>
-        <updated>2022-05-01T04:02:32.501Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
