@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-05-01T20:24:31.473Z</updated>
+    <updated>2022-05-01T21:21:25.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] SK하이닉스, 청주에도 반도체 공장 새로 짓는다]]></title>
+        <id>https://v.daum.net/v/20220502031219277</id>
+        <link href="https://v.daum.net/v/20220502031219277"/>
+        <updated>2022-05-01T21:20:50.760Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[눈으로 본다.. 뇌 속 지도를 편다]]></title>
         <id>https://v.daum.net/v/20220502050749075</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220502050602981"/>
         <updated>2022-05-01T20:23:55.385Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연구실에서 멈춘 '바이오 코리아'.."지금이 새판 짤 절호의 기회"]]></title>
-        <id>https://v.daum.net/v/20220502043047477</id>
-        <link href="https://v.daum.net/v/20220502043047477"/>
-        <updated>2022-05-01T20:23:55.386Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
