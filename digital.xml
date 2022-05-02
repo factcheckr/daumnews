@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-05-02T11:20:58.100Z</updated>
+    <updated>2022-05-02T12:43:42.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["접으려면 허락 받으라니" 접는 '폴더블폰' 이게 대체 무슨일]]></title>
+        <id>https://v.daum.net/v/20220502205133789</id>
+        <link href="https://v.daum.net/v/20220502205133789"/>
+        <updated>2022-05-02T12:43:03.226Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지능형 농기계 실증단지' 조성..새만금, 미래 농업 산실되나?]]></title>
         <id>https://v.daum.net/v/20220502192618503</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220502175347537"/>
         <updated>2022-05-02T09:23:37.604Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["15만원에 샀다" "나는 20만원이다" 논란의 욕 먹는 이 회사, 무슨 일?]]></title>
-        <id>https://v.daum.net/v/20220502175109444</id>
-        <link href="https://v.daum.net/v/20220502175109444"/>
-        <updated>2022-05-02T09:23:37.604Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
