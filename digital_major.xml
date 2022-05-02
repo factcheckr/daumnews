@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-05-02T12:43:42.420Z</updated>
+    <updated>2022-05-02T13:43:24.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA["15만원에 샀다" "나는 20만원이다" 논란의 욕 먹는 이 회사, 무슨 일?]]></title>
-        <id>https://v.daum.net/v/20220502175109444</id>
-        <link href="https://v.daum.net/v/20220502175109444"/>
-        <updated>2022-05-02T12:43:11.312Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA['재고 관리의 귀재' 팀 쿡, 1년 만에 30일 → 2일치로]]></title>
         <id>https://v.daum.net/v/20220502174006100</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220502165101251"/>
         <updated>2022-05-02T08:30:37.824Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우주날씨 관측위성 '도요샛' 금년 발사 어려울 듯..아리랑6호·차중 2호도 점점 '불투명']]></title>
+        <id>https://v.daum.net/v/20220502165013219</id>
+        <link href="https://v.daum.net/v/20220502165013219"/>
+        <updated>2022-05-02T13:42:47.596Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
