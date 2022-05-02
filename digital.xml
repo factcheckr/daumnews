@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-05-02T19:20:00.511Z</updated>
+    <updated>2022-05-02T20:21:53.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[요즘 '힙'한 게 궁금하다면..10억 명이 쓴다는 틱톡을 보라]]></title>
+        <id>https://v.daum.net/v/20220503043105933</id>
+        <link href="https://v.daum.net/v/20220503043105933"/>
+        <updated>2022-05-02T20:21:16.171Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플의 비명 "상하이 봉쇄로 10조원 손실"]]></title>
         <id>https://v.daum.net/v/20220503030309560</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220502180810951"/>
         <updated>2022-05-02T09:23:37.603Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['게임계 첫 파업' 웹젠, 임금 갈등 장기화에 정치권까지 나섰다]]></title>
-        <id>https://v.daum.net/v/20220502175347537</id>
-        <link href="https://v.daum.net/v/20220502175347537"/>
-        <updated>2022-05-02T09:23:37.604Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
