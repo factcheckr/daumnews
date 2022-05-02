@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-05-02T09:24:14.103Z</updated>
+    <updated>2022-05-02T10:28:31.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220502174006100"/>
         <updated>2022-05-02T09:23:44.669Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공수 바뀐 여야 첫 과기부 장관 청문회..'특허수익·아빠찬스' 쟁점]]></title>
+        <id>https://v.daum.net/v/20220502171508244</id>
+        <link href="https://v.daum.net/v/20220502171508244"/>
+        <updated>2022-05-02T10:27:59.756Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["과학기술 연구기관, 직급 높을수록 성비 격차 커"]]></title>
+        <id>https://v.daum.net/v/20220502171448222</id>
+        <link href="https://v.daum.net/v/20220502171448222"/>
+        <updated>2022-05-02T10:27:59.757Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주말새 마비된 블록체인 시스템 '솔라나', 7시간 만에 정상화]]></title>
@@ -25,13 +39,6 @@
         <link href="https://v.daum.net/v/20220502170550869"/>
         <updated>2022-05-02T09:23:44.670Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['디지털정부' PPT 발표한 안철수..'과학수석' 필요성 또 강조]]></title>
-        <id>https://v.daum.net/v/20220502170336777</id>
-        <link href="https://v.daum.net/v/20220502170336777"/>
-        <updated>2022-05-02T09:23:44.670Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기사 조회수·열독률, 두 마리 토끼 모두 잡으려면]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220502164600031"/>
         <updated>2022-05-02T08:30:37.826Z</updated>
         <content type="html"><![CDATA[대전일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(영상)5G 중간요금제 추진..통신사 득실 따져보니]]></title>
-        <id>https://v.daum.net/v/20220502164137887</id>
-        <link href="https://v.daum.net/v/20220502164137887"/>
-        <updated>2022-05-02T08:30:37.827Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
