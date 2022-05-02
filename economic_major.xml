@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-05-02T15:26:26.543Z</updated>
+    <updated>2022-05-02T16:35:49.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본 하늘길 열려도 PCR검사에 날개 접히는 항공업계]]></title>
+        <id>https://v.daum.net/v/20220503002725030</id>
+        <link href="https://v.daum.net/v/20220503002725030"/>
+        <updated>2022-05-02T16:34:39.062Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[치솟는 원·달러 환율..美 기준금리 인상하면 더 오를까? [뉴스분석]]]></title>
         <id>https://v.daum.net/v/20220502230212263</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220502214212453"/>
         <updated>2022-05-02T14:22:09.774Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추경호 "추경안 5월 중 국회 제출, 규모 30조보다 클 것"]]></title>
-        <id>https://v.daum.net/v/20220502212153239</id>
-        <link href="https://v.daum.net/v/20220502212153239"/>
-        <updated>2022-05-02T13:41:52.228Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
