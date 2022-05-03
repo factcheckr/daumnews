@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-05-03T19:19:59.653Z</updated>
+    <updated>2022-05-03T20:24:55.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['초격차' 보다 무서운 '초연결'..다음 승부수는 애플카]]></title>
+        <id>https://v.daum.net/v/20220503173307156</id>
+        <link href="https://v.daum.net/v/20220503173307156"/>
+        <updated>2022-05-03T20:24:27.397Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[범LG 23년간 잡음없이 줄줄이 계열분리]]></title>
         <id>https://v.daum.net/v/20220503194238359</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220503172541910"/>
         <updated>2022-05-03T10:30:50.031Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블록체인협회 "尹 암호화폐 국정과제 환영..국제 수준 제도 기대"]]></title>
-        <id>https://v.daum.net/v/20220503170641278</id>
-        <link href="https://v.daum.net/v/20220503170641278"/>
-        <updated>2022-05-03T10:30:50.032Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
