@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-05-03T13:43:25.064Z</updated>
+    <updated>2022-05-03T14:20:46.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나 특수로 폭리 취하고도 소득 은닉, 탈세자 89명 세무조사]]></title>
+        <id>https://v.daum.net/v/20220503223929711</id>
+        <link href="https://v.daum.net/v/20220503223929711"/>
+        <updated>2022-05-03T14:19:30.876Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고물가 앞에 꼬인 윤석열 공약]]></title>
         <id>https://v.daum.net/v/20220503213053409</id>
@@ -18,6 +25,13 @@
         <link href="https://v.daum.net/v/20220503210059866"/>
         <updated>2022-05-03T12:45:55.551Z</updated>
         <content type="html"><![CDATA[대구MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[물가 치솟는데 쓸 카드 바닥난 정부.."다음달 6% 돌파" 우려도]]></title>
+        <id>https://v.daum.net/v/20220503210059868</id>
+        <link href="https://v.daum.net/v/20220503210059868"/>
+        <updated>2022-05-03T14:19:30.878Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4.8% 점프한 물가..새 정부 발등의 불]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220503203123341"/>
         <updated>2022-05-03T12:45:55.558Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['5% 육박' 치솟는 물가..유류세 더 내렸지만 "체감 안 돼"]]></title>
-        <id>https://v.daum.net/v/20220503203009310</id>
-        <link href="https://v.daum.net/v/20220503203009310"/>
-        <updated>2022-05-03T12:45:55.559Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거품 꺼진 초고령사회 - 한국은 다른 길을 갈까?]]></title>
-        <id>https://v.daum.net/v/20220503201906095</id>
-        <link href="https://v.daum.net/v/20220503201906095"/>
-        <updated>2022-05-03T12:45:55.561Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>

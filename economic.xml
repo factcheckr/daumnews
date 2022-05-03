@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-05-03T13:43:25.084Z</updated>
+    <updated>2022-05-03T14:20:46.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["안 온다" vs "이미 진입".. 세계은행 경고한 스태그플레이션 [뉴스+]]]></title>
+        <id>https://v.daum.net/v/20220503230150019</id>
+        <link href="https://v.daum.net/v/20220503230150019"/>
+        <updated>2022-05-03T14:19:22.863Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우여곡절 끝에 한덕수 청문회 마무리..尹정부 첫 총리 가능성(종합)]]></title>
         <id>https://v.daum.net/v/20220503222409399</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220503213600497"/>
         <updated>2022-05-03T12:45:48.242Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물가 치솟는데 쓸 카드 바닥난 정부.."다음달 6% 돌파" 우려도]]></title>
-        <id>https://v.daum.net/v/20220503210059868</id>
-        <link href="https://v.daum.net/v/20220503210059868"/>
-        <updated>2022-05-03T12:45:48.243Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
