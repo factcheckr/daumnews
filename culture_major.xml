@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-05-03T10:31:22.632Z</updated>
+    <updated>2022-05-03T11:22:49.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://v.daum.net/v/20220503181135307</id>
         <link href="https://v.daum.net/v/20220503181135307"/>
         <updated>2022-05-03T09:27:19.953Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LED 1380장으로 꽉 채운 무대..공간 한계 넘은 압도적 경험 선사]]></title>
+        <id>https://v.daum.net/v/20220503175635833</id>
+        <link href="https://v.daum.net/v/20220503175635833"/>
+        <updated>2022-05-03T11:22:06.169Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220503163926218"/>
         <updated>2022-05-03T08:28:27.747Z</updated>
         <content type="html"><![CDATA[CJB청주방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[괌도 '엔데믹'..실내 마스크 해제·관광시설 정상운영]]></title>
-        <id>https://v.daum.net/v/20220503163825184</id>
-        <link href="https://v.daum.net/v/20220503163825184"/>
-        <updated>2022-05-03T08:28:27.748Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
