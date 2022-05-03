@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-05-03T12:47:07.833Z</updated>
+    <updated>2022-05-03T13:43:25.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[통신 3사, 5G 28㎓ 기지국 의무 이행률 '턱걸이'..주파수 취소 겨우 모면]]></title>
+        <id>https://v.daum.net/v/20220503223537629</id>
+        <link href="https://v.daum.net/v/20220503223537629"/>
+        <updated>2022-05-03T13:42:45.573Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국방백서에 '북 정권은 적' 명시 검토..가치·실용 외교도]]></title>
+        <id>https://v.daum.net/v/20220503222329392</id>
+        <link href="https://v.daum.net/v/20220503222329392"/>
+        <updated>2022-05-03T13:42:45.574Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마스크 벗었더니..화장품 매출 급증]]></title>
         <id>https://v.daum.net/v/20220503210144883</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220503190145417"/>
         <updated>2022-05-03T10:30:40.998Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B급 감성으로 위로와 재미를? "배민은 이용자와 즐겁게 논다"]]></title>
-        <id>https://v.daum.net/v/20220503185401220</id>
-        <link href="https://v.daum.net/v/20220503185401220"/>
-        <updated>2022-05-03T10:30:41.004Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[종합] 이종호 후보자, R&D 투자·인력 양성 확대 의견 피력..특허·증여세 논란 해명]]></title>
-        <id>https://v.daum.net/v/20220503183343808</id>
-        <link href="https://v.daum.net/v/20220503183343808"/>
-        <updated>2022-05-03T10:30:41.005Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
