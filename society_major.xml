@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2022-05-03T15:25:57.793Z</updated>
+    <updated>2022-05-03T16:38:05.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['어린이날 100주년' 어린이 위한 행사 한가득]]></title>
+        <id>https://v.daum.net/v/20220504001106699</id>
+        <link href="https://v.daum.net/v/20220504001106699"/>
+        <updated>2022-05-03T16:36:09.556Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[민주 화천 일부 선거구 후보 미확정 '속앓이']]></title>
         <id>https://v.daum.net/v/20220504001039672</id>
         <link href="https://v.daum.net/v/20220504001039672"/>
@@ -39,6 +46,13 @@
         <link href="https://v.daum.net/v/20220504000228522"/>
         <updated>2022-05-03T15:24:15.668Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김영환 전 지역·연령 우위..진보텃밭·2040 '표심 변화']]></title>
+        <id>https://v.daum.net/v/20220504000103496</id>
+        <link href="https://v.daum.net/v/20220504000103496"/>
+        <updated>2022-05-03T16:36:09.559Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10분째 무통장 입금만?..잡고보니 보이스피싱]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220504000110503"/>
         <updated>2022-05-03T15:24:15.671Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상민 태도 논란에 민주 집단퇴장..청문회 심야 파행]]></title>
-        <id>https://v.daum.net/v/20220503224140755</id>
-        <link href="https://v.daum.net/v/20220503224140755"/>
-        <updated>2022-05-03T15:24:15.672Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이런 후보 처음, 수사로 밝혀야" 민주당, 정호영 청문회 퇴장(종합)]]></title>
-        <id>https://v.daum.net/v/20220503225700967</id>
-        <link href="https://v.daum.net/v/20220503225700967"/>
-        <updated>2022-05-03T15:24:15.673Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
 </feed>
