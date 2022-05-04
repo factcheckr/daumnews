@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-05-04T14:25:37.392Z</updated>
+    <updated>2022-05-04T15:26:10.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퇴임 앞둔 문 대통령 .. 국회는 취임식 준비]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/318190/EtWVAmeqQB</id>
+        <link href="https://gallery.v.daum.net/p/viewer/318190/EtWVAmeqQB"/>
+        <updated>2022-05-04T15:25:46.758Z</updated>
+        <content type="html"><![CDATA[제19대 문재인 대통령]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[징검다리 휴일..공항은 '다닥다닥'[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/EHMSr8wADW</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1783949/ESBI561BM9"/>
         <updated>2022-05-04T07:22:56.126Z</updated>
         <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스피-코스닥 하락 마감]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5031020/En5iipM8Fz</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5031020/En5iipM8Fz"/>
-        <updated>2022-05-04T07:22:56.127Z</updated>
-        <content type="html"><![CDATA[코스피 &amp; 코스닥]]></content>
     </entry>
 </feed>

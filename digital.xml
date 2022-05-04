@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-05-04T14:25:37.403Z</updated>
+    <updated>2022-05-04T15:26:10.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아쉬운 실적 낸 카카오, CEO는 '카톡 한계' 5번 말했다]]></title>
+        <id>https://v.daum.net/v/20220505000334216</id>
+        <link href="https://v.daum.net/v/20220505000334216"/>
+        <updated>2022-05-04T15:25:32.495Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비트코인, 올해도 '5월 강세장 공식' 깨지나.."상승 여력 부재"]]></title>
         <id>https://v.daum.net/v/20220504232007890</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[월성1호기 부지서 삼중수소 샜다..외부 유출 확인 못해]]></title>
+        <title type="html"><![CDATA[월성원전 시설에서 삼중수소 샜다..외부 유출 확인 못해]]></title>
         <id>https://v.daum.net/v/20220504231012846</id>
         <link href="https://v.daum.net/v/20220504231012846"/>
         <updated>2022-05-04T14:24:57.010Z</updated>
@@ -38,13 +45,6 @@
         <id>https://v.daum.net/v/20220504175130914</id>
         <link href="https://v.daum.net/v/20220504175130914"/>
         <updated>2022-05-04T10:25:54.729Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동규 예비역 준장 "국방부, 현대전 흐름 못읽어..우주·사이버전 대비 서둘러야"]]></title>
-        <id>https://v.daum.net/v/20220504174948838</id>
-        <link href="https://v.daum.net/v/20220504174948838"/>
-        <updated>2022-05-04T09:24:38.539Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
