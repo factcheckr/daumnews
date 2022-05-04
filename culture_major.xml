@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-05-04T18:28:33.225Z</updated>
+    <updated>2022-05-04T19:20:33.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[산 위를 건너니 심장이 철렁..숲 아래 걸으니 마음이 일렁]]></title>
-        <id>https://v.daum.net/v/20220505000505247</id>
-        <link href="https://v.daum.net/v/20220505000505247"/>
-        <updated>2022-05-04T18:27:50.106Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[시네마 클래식] 난민이 된 우크라이나 최고의 작곡가]]></title>
         <id>https://v.daum.net/v/20220505000030138</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220504183301974"/>
         <updated>2022-05-04T12:45:50.013Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["열정적 지휘·섬세한 피아노가 빚어낸 고전의 감동"]]></title>
+        <id>https://v.daum.net/v/20220504175802086</id>
+        <link href="https://v.daum.net/v/20220504175802086"/>
+        <updated>2022-05-04T19:19:46.353Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
