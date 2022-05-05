@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-05-05T12:45:54.969Z</updated>
+    <updated>2022-05-05T13:42:08.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 고교생 해외 논문 13% 부실 학술지에 실렸다..해마다 비율 높아져]]></title>
+        <id>https://v.daum.net/v/20220505215013276</id>
+        <link href="https://v.daum.net/v/20220505215013276"/>
+        <updated>2022-05-05T13:41:23.986Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["비싼 셀프수리, 더 비싼 앱수수료".. '배짱' 애플에 쏟아지는 십자포화]]></title>
         <id>https://v.daum.net/v/20220505203056548</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220505192743806"/>
         <updated>2022-05-05T11:20:06.648Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["매달 40만원 그냥 번다" 쏠쏠한 용돈벌이, 이거였어?]]></title>
-        <id>https://v.daum.net/v/20220505190417548</id>
-        <link href="https://v.daum.net/v/20220505190417548"/>
-        <updated>2022-05-05T11:20:06.649Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>

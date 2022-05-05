@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-05-05T12:45:54.962Z</updated>
+    <updated>2022-05-05T13:42:08.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["매달 40만원 그냥 번다" 쏠쏠한 용돈벌이, 이거였어?]]></title>
+        <id>https://v.daum.net/v/20220505190417548</id>
+        <link href="https://v.daum.net/v/20220505190417548"/>
+        <updated>2022-05-05T13:41:32.632Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상화폐로 e스포츠 수익 늘자..T1·크래프톤 출사표]]></title>
         <id>https://v.daum.net/v/20220505175700652</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220505134311976"/>
         <updated>2022-05-05T07:23:30.992Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[500m 밖 떡볶이 1인분도 "단건배달 해주세요, 무료로"]]></title>
-        <id>https://v.daum.net/v/20220505131251438</id>
-        <link href="https://v.daum.net/v/20220505131251438"/>
-        <updated>2022-05-05T07:23:30.998Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
