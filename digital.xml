@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-05-05T13:42:08.697Z</updated>
+    <updated>2022-05-05T14:23:01.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["숨만 쉬어도 삼성과 격차"..'공정'이 부른 임금파행]]></title>
+        <id>https://v.daum.net/v/20220505224441746</id>
+        <link href="https://v.daum.net/v/20220505224441746"/>
+        <updated>2022-05-05T14:22:20.161Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 고교생 해외 논문 13% 부실 학술지에 실렸다..해마다 비율 높아져]]></title>
         <id>https://v.daum.net/v/20220505215013276</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220505193015843"/>
         <updated>2022-05-05T11:20:06.646Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["연봉도 과유불급"..노조 치킨게임에 삼성 직원들도 '지쳤다']]></title>
-        <id>https://v.daum.net/v/20220505192743806</id>
-        <link href="https://v.daum.net/v/20220505192743806"/>
-        <updated>2022-05-05T11:20:06.648Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
