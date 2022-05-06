@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-05-06T12:42:05.897Z</updated>
+    <updated>2022-05-06T13:38:42.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://v.daum.net/v/20220506211551549"/>
         <updated>2022-05-06T12:40:53.802Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원유 수급 불안 확산, 산유국은 증산 미적..유가 다시 오름세]]></title>
+        <id>https://v.daum.net/v/20220506211540539</id>
+        <link href="https://v.daum.net/v/20220506211540539"/>
+        <updated>2022-05-06T13:37:29.813Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1m 높이에도 사망, 왜?.."여전히 안전모도 없다"]]></title>
+        <id>https://v.daum.net/v/20220506211346496</id>
+        <link href="https://v.daum.net/v/20220506211346496"/>
+        <updated>2022-05-06T13:37:29.813Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뛰는 강남에 나는 1기 신도시..규제 완화 기대에 '들썩']]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220506202101081"/>
         <updated>2022-05-06T12:40:53.802Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美빅스텝 직격탄 제대로 맞았다..'IPO대어' SK쉴더스 공모 철회]]></title>
-        <id>https://v.daum.net/v/20220506175411710</id>
-        <link href="https://v.daum.net/v/20220506175411710"/>
-        <updated>2022-05-06T12:40:53.812Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정황근 인사청문회 종료..CPTPP 등 농정 현안 질의 '집중'(종합2보)]]></title>
-        <id>https://v.daum.net/v/20220506194937323</id>
-        <link href="https://v.daum.net/v/20220506194937323"/>
-        <updated>2022-05-06T12:40:53.812Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
