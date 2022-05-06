@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-05-06T16:34:59.969Z</updated>
+    <updated>2022-05-06T17:29:49.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[모빌리티 인사이트] 일상 속 자율주행, 로봇청소기]]></title>
-        <id>https://v.daum.net/v/20220506135701479</id>
-        <link href="https://v.daum.net/v/20220506135701479"/>
-        <updated>2022-05-06T08:29:07.964Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[애플·MS·구글 '비밀번호 없는 로그인' 지원 확대..IT공룡 '맞손']]></title>
         <id>https://v.daum.net/v/20220506180246931</id>
         <link href="https://v.daum.net/v/20220506180246931"/>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220506165550359"/>
         <updated>2022-05-06T15:25:34.273Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글로벌 TV 수요 12년만에 최저..코로나 잔치 끝났다]]></title>
+        <id>https://v.daum.net/v/20220506163349851</id>
+        <link href="https://v.daum.net/v/20220506163349851"/>
+        <updated>2022-05-06T17:29:03.229Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
