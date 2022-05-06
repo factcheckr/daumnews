@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-05-06T18:28:56.730Z</updated>
+    <updated>2022-05-06T19:20:16.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[꽃과 사랑]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/EahhVuqWKi</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/EahhVuqWKi"/>
+        <updated>2022-05-06T19:19:51.581Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백신 피해자 가족들, 文대통령 상대 손해배상 청구]]></title>
         <id>https://gallery.v.daum.net/p/viewer/318190/E98juz4KCU</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033570/EyGTOYQS14"/>
         <updated>2022-05-06T05:22:51.000Z</updated>
         <content type="html"><![CDATA[대한민국 해군]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시원한 음악분수]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1461/EfZeI9eTGw</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1461/EfZeI9eTGw"/>
-        <updated>2022-05-06T04:29:50.536Z</updated>
-        <content type="html"><![CDATA[서울의 풍경]]></content>
     </entry>
 </feed>
