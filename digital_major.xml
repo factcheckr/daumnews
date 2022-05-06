@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-05-06T04:30:13.774Z</updated>
+    <updated>2022-05-06T05:23:16.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독일, 반도체공장 유치 총력.."19조원 지원"]]></title>
+        <id>https://v.daum.net/v/20220506104838831</id>
+        <link href="https://v.daum.net/v/20220506104838831"/>
+        <updated>2022-05-06T05:22:43.195Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국은 어떻게 '제로 코로나' 함정에 빠졌나]]></title>
         <id>https://v.daum.net/v/20220506095610739</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220506060034991"/>
         <updated>2022-05-05T22:24:49.371Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공공의 적' 내몰린 카카오T.."콜 몰아주기, 알고리즘 변경 사실무근"]]></title>
-        <id>https://v.daum.net/v/20220506053501716</id>
-        <link href="https://v.daum.net/v/20220506053501716"/>
-        <updated>2022-05-05T22:24:49.371Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
