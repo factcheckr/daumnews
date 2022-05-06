@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-05-06T06:31:58.257Z</updated>
+    <updated>2022-05-06T07:22:57.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고즈넉한 백제 유산, 흑백사진 같은 추억 숨쉬는 공주의 옛 골목]]></title>
+        <id>https://v.daum.net/v/20220506145607026</id>
+        <link href="https://v.daum.net/v/20220506145607026"/>
+        <updated>2022-05-06T07:22:14.470Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中 유튜브 '빌리빌리' 시가총액 40조원 돌파..급성장 배경은?]]></title>
         <id>https://v.daum.net/v/20220506143615549</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['시민복지타운 분수대' 24개월 만에 재가동..내달 부터 운영]]></title>
+        <title type="html"><![CDATA['시민복지타운 분수대' 24개월 만에 재가동..내달 부터  운영]]></title>
         <id>https://v.daum.net/v/20220506131840664</id>
         <link href="https://v.daum.net/v/20220506131840664"/>
         <updated>2022-05-06T06:31:09.735Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220506104015508"/>
         <updated>2022-05-06T04:29:28.541Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['반달'부터 '아기상어'까지..아이들이 부른 동요 세계로]]></title>
-        <id>https://v.daum.net/v/20220506103318205</id>
-        <link href="https://v.daum.net/v/20220506103318205"/>
-        <updated>2022-05-06T03:09:56.346Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
