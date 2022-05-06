@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-05-06T19:20:16.611Z</updated>
+    <updated>2022-05-06T20:26:34.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2년 만에 드리는 카네이션]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/EYIqJmUTtI</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/EYIqJmUTtI"/>
+        <updated>2022-05-06T20:26:08.297Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[꽃과 사랑]]></title>
         <id>https://gallery.v.daum.net/p/viewer/212305/EahhVuqWKi</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5014013/EkR9OAAkIA"/>
         <updated>2022-05-06T06:31:34.247Z</updated>
         <content type="html"><![CDATA['코로나19' 바이러스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해군 이등병의 기쁨]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033570/EyGTOYQS14</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033570/EyGTOYQS14"/>
-        <updated>2022-05-06T05:22:51.000Z</updated>
-        <content type="html"><![CDATA[대한민국 해군]]></content>
     </entry>
 </feed>
