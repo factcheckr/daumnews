@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-05-06T03:10:43.802Z</updated>
+    <updated>2022-05-06T04:30:13.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국은 어떻게 '제로 코로나' 함정에 빠졌나]]></title>
+        <id>https://v.daum.net/v/20220506095610739</id>
+        <link href="https://v.daum.net/v/20220506095610739"/>
+        <updated>2022-05-06T04:29:43.516Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국 성인 3명 중 1명 "메타버스, 재미보다 두려움 느껴"]]></title>
         <id>https://v.daum.net/v/20220506093754029</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220506053501716"/>
         <updated>2022-05-05T22:24:49.371Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한한령 뚫은 게임, 중국서 인기는 시들]]></title>
-        <id>https://v.daum.net/v/20220506030454860</id>
-        <link href="https://v.daum.net/v/20220506030454860"/>
-        <updated>2022-05-05T22:24:49.374Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
