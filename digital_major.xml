@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-05-06T10:26:23.660Z</updated>
+    <updated>2022-05-06T11:20:54.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['탈(脫) 클레이튼' 잠재울까..카카오 클레이튼, 거래 수수료 인하]]></title>
+        <id>https://v.daum.net/v/20220506172241004</id>
+        <link href="https://v.daum.net/v/20220506172241004"/>
+        <updated>2022-05-06T11:20:21.215Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 "5년 뒤 반도체 수출 30%↑"..설계 점유율 1%]]></title>
         <id>https://v.daum.net/v/20220506165743405</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220506111112814"/>
         <updated>2022-05-06T07:22:28.901Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배달앱 주문 메뉴가 페북 광고에? 무단 수집 의혹]]></title>
-        <id>https://v.daum.net/v/20220506105138985</id>
-        <link href="https://v.daum.net/v/20220506105138985"/>
-        <updated>2022-05-06T06:31:26.015Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
 </feed>
