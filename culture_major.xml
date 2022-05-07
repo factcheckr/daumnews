@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-05-07T09:22:57.817Z</updated>
+    <updated>2022-05-07T10:26:00.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA["카드 대신 현금 결제 안 되나요?" 새 일상 시작 쉽지 않게 하는 그 목소리]]></title>
-        <id>https://v.daum.net/v/20220507120010238</id>
-        <link href="https://v.daum.net/v/20220507120010238"/>
-        <updated>2022-05-07T09:22:12.718Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA['정신질환' 입원 후 작가는 붓을 들었다..캔버스에 쏟아낸 빨강의 힘]]></title>
         <id>https://v.daum.net/v/20220507110105710</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220507085431257"/>
         <updated>2022-05-07T08:28:09.003Z</updated>
         <content type="html"><![CDATA[kbc광주방송]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강원 태백산 천제단 안전펜스 논란.. "훼손 방지" vs "존재 부정"]]></title>
+        <id>https://v.daum.net/v/20220507082706025</id>
+        <link href="https://v.daum.net/v/20220507082706025"/>
+        <updated>2022-05-07T10:25:12.107Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
