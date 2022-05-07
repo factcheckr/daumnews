@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-05-07T04:30:34.437Z</updated>
+    <updated>2022-05-07T05:21:22.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["시속 4마일 이상 빨리 걸으면 수명 20년은 길어져..치매 예방도" [양종구의 100세 시대 건강법]]]></title>
+        <id>https://v.daum.net/v/20220507140015048</id>
+        <link href="https://v.daum.net/v/20220507140015048"/>
+        <updated>2022-05-07T05:20:26.259Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이들과 교육·재미 다 잡는 '태백고생대자연사박물관' 어때요]]></title>
         <id>https://v.daum.net/v/20220507132505795</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220507110008685"/>
         <updated>2022-05-07T03:04:46.220Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베니스비엔날레, 한 번 냉정하게 볼까요[영감 한 스푼]]]></title>
-        <id>https://v.daum.net/v/20220507110006682</id>
-        <link href="https://v.daum.net/v/20220507110006682"/>
-        <updated>2022-05-07T03:04:46.220Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
