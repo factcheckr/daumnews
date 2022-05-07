@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-05-07T16:31:46.848Z</updated>
+    <updated>2022-05-07T17:24:43.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1518/EF33imF2ny"/>
         <updated>2022-05-07T15:24:29.217Z</updated>
         <content type="html"><![CDATA[전국 화재사고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[광화문 연등과 경복궁 야경]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/EqtKgZHOl5</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/EqtKgZHOl5"/>
+        <updated>2022-05-07T17:24:16.629Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[러시아 시베리아 남부서 대규모 화재.."건물 200채 피해"]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5029578/EYCXCDdlXl"/>
         <updated>2022-05-06T18:28:33.984Z</updated>
         <content type="html"><![CDATA[고양이 눈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포켓몬이 뭐길래]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1573204/EW05KPGVlW</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1573204/EW05KPGVlW"/>
-        <updated>2022-05-06T18:28:33.984Z</updated>
-        <content type="html"><![CDATA[[아무튼, 주말] 오종찬 기자의 Oh!컷]]></content>
     </entry>
 </feed>
