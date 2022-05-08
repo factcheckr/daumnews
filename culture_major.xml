@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-05-08T10:25:53.095Z</updated>
+    <updated>2022-05-08T11:19:57.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미디어아트 거장의 돌직구 "NFT, 뭔 혁신인데?"]]></title>
+        <id>https://v.daum.net/v/20220508172801911</id>
+        <link href="https://v.daum.net/v/20220508172801911"/>
+        <updated>2022-05-08T11:19:13.877Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[극작가 이양구, 제헌헌법 통해 한국 사회의 공정을 이야기하다]]></title>
         <id>https://v.daum.net/v/20220508172550869</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220508090519996"/>
         <updated>2022-05-08T05:21:14.048Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지끈지끈 편두통, 혹시 영양소 부족? [식탐]]]></title>
-        <id>https://v.daum.net/v/20220508080133268</id>
-        <link href="https://v.daum.net/v/20220508080133268"/>
-        <updated>2022-05-08T10:25:07.507Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
