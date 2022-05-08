@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-05-08T22:22:58.905Z</updated>
+    <updated>2022-05-08T23:23:47.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[익숙한 베토벤, 낯선 三色의 옷]]></title>
+        <id>https://v.daum.net/v/20220509050758913</id>
+        <link href="https://v.daum.net/v/20220509050758913"/>
+        <updated>2022-05-08T23:22:59.837Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["국민 마음 모이면 어떤 위기도 극복"]]></title>
         <id>https://v.daum.net/v/20220509050752910</id>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20220509001058487</id>
         <link href="https://v.daum.net/v/20220509001058487"/>
         <updated>2022-05-08T20:26:13.482Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나로 멈췄던 축제·행사 줄이어.. 원주지역 '활기']]></title>
-        <id>https://v.daum.net/v/20220509001041472</id>
-        <link href="https://v.daum.net/v/20220509001041472"/>
-        <updated>2022-05-08T16:31:08.684Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
