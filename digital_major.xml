@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-05-08T04:31:12.548Z</updated>
+    <updated>2022-05-08T05:21:59.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["메타버스 서울시청에 와보세요"..첫 가상공간 구축 시범운영]]></title>
+        <id>https://v.daum.net/v/20220508111521830</id>
+        <link href="https://v.daum.net/v/20220508111521830"/>
+        <updated>2022-05-08T05:21:29.651Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SK쉴더스 '융합보안 옥동자' 품고도 '고평가 논란' 못 뚫었다]]></title>
         <id>https://v.daum.net/v/20220508101419890</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220508120009540"/>
         <updated>2022-05-08T03:19:27.040Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[322개 기업 한 목소리 "尹에 바라는건 시장중시·공정·투자지원"]]></title>
-        <id>https://v.daum.net/v/20220508120001520</id>
-        <link href="https://v.daum.net/v/20220508120001520"/>
-        <updated>2022-05-08T03:19:27.041Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
