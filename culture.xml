@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-05-08T06:28:53.924Z</updated>
+    <updated>2022-05-08T07:22:26.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[실외 마스크 해제 후 '달리기' 도전.. 몰랐던 장점들]]></title>
+        <id>https://v.daum.net/v/20220508160014232</id>
+        <link href="https://v.daum.net/v/20220508160014232"/>
+        <updated>2022-05-08T07:21:35.330Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해외 시장 건너간 K웹툰, 번역은 어떻게?]]></title>
         <id>https://v.daum.net/v/20220508142902103</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220508113902193"/>
         <updated>2022-05-08T03:18:58.185Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봄 샐러드 만들 때 '간은 짭짤하게!' 잊지 말자]]></title>
-        <id>https://v.daum.net/v/20220508100116708</id>
-        <link href="https://v.daum.net/v/20220508100116708"/>
-        <updated>2022-05-08T01:54:36.762Z</updated>
-        <content type="html"><![CDATA[신동아]]></content>
     </entry>
 </feed>
