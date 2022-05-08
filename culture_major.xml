@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-05-08T13:32:14.998Z</updated>
+    <updated>2022-05-08T14:22:02.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몽룡 부름도 단칼 거절.. '당돌한' 춘향이가 왔다]]></title>
+        <id>https://v.daum.net/v/20220508200944441</id>
+        <link href="https://v.daum.net/v/20220508200944441"/>
+        <updated>2022-05-08T14:21:14.661Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['타는 목마름으로' 김지하 떠나다]]></title>
         <id>https://v.daum.net/v/20220508200300381</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220508142902103"/>
         <updated>2022-05-08T09:22:27.890Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[94세부터 31세까지, 피아니스트 48명 모였다 "이런 황홀함 처음"]]></title>
-        <id>https://v.daum.net/v/20220508140028517</id>
-        <link href="https://v.daum.net/v/20220508140028517"/>
-        <updated>2022-05-08T09:22:27.892Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
