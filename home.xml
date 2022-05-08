@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2022-05-08T16:32:00.908Z</updated>
+    <updated>2022-05-08T17:25:56.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비트코인, 증시 약세에 동반하락..3만4천달러선까지 떨어져]]></title>
+        <id>https://v.daum.net/v/20220509013555900</id>
+        <link href="https://v.daum.net/v/20220509013555900"/>
+        <updated>2022-05-08T17:23:45.667Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남편 대신한 바이든 여사..우크라서 평화 메시지로 연대감 과시]]></title>
         <id>https://v.daum.net/v/20220509011250837</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20220509001042474"/>
         <updated>2022-05-08T16:29:49.744Z</updated>
         <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나로 멈췄던 축제·행사 줄이어.. 원주지역 '활기']]></title>
-        <id>https://v.daum.net/v/20220509001041472</id>
-        <link href="https://v.daum.net/v/20220509001041472"/>
-        <updated>2022-05-08T16:29:49.746Z</updated>
-        <content type="html"><![CDATA[문화]]></content>
     </entry>
 </feed>

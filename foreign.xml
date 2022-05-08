@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-05-08T16:32:00.888Z</updated>
+    <updated>2022-05-08T17:25:56.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비트코인, 증시 약세에 동반하락..3만4천달러선까지 떨어져]]></title>
+        <id>https://v.daum.net/v/20220509013555900</id>
+        <link href="https://v.daum.net/v/20220509013555900"/>
+        <updated>2022-05-08T17:24:44.113Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남편 대신한 바이든 여사..우크라서 평화 메시지로 연대감 과시]]></title>
         <id>https://v.daum.net/v/20220509011250837</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220508231715095"/>
         <updated>2022-05-08T14:20:50.621Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남편보다 한발 먼저..질 바이든, 우크라이나 '깜짝 방문']]></title>
-        <id>https://v.daum.net/v/20220508231602086</id>
-        <link href="https://v.daum.net/v/20220508231602086"/>
-        <updated>2022-05-08T14:20:50.621Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
