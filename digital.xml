@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-05-08T14:22:02.393Z</updated>
+    <updated>2022-05-08T16:32:00.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자율주행·통신 수요 폭발..'노트북 크기' 소형위성 전쟁]]></title>
+        <id>https://v.daum.net/v/20220508172203784</id>
+        <link href="https://v.daum.net/v/20220508172203784"/>
+        <updated>2022-05-08T16:31:20.434Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['5G 중간 요금제' 추진되면..알뜰폰 업계는 어쩌나]]></title>
+        <id>https://v.daum.net/v/20220509000034290</id>
+        <link href="https://v.daum.net/v/20220509000034290"/>
+        <updated>2022-05-08T16:31:20.435Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OTT업체들 "尹정부 정책, 현 정부와 뭐가 다르냐?"]]></title>
         <id>https://v.daum.net/v/20220508194429182</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220508171920735"/>
         <updated>2022-05-08T08:27:15.696Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 OLED TV 출하량 2000만대 넘었다]]></title>
-        <id>https://v.daum.net/v/20220508171503642</id>
-        <link href="https://v.daum.net/v/20220508171503642"/>
-        <updated>2022-05-08T08:27:15.697Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골드·퍼플의 귀환..갤플립4 vs 아이폰14 치열한 '색깔 경쟁']]></title>
-        <id>https://v.daum.net/v/20220508162119656</id>
-        <link href="https://v.daum.net/v/20220508162119656"/>
-        <updated>2022-05-08T08:27:15.697Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
