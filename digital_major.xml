@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-05-09T17:30:16.717Z</updated>
+    <updated>2022-05-09T18:28:56.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220510001025990"/>
         <updated>2022-05-09T15:25:52.928Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['N번방 방지법' 시행 5개월..방통위, 각계 목소리 듣는다]]></title>
+        <id>https://v.daum.net/v/20220509175016188</id>
+        <link href="https://v.daum.net/v/20220509175016188"/>
+        <updated>2022-05-09T18:28:25.685Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[작년 노벨상 수상자 "韓 과학자 3명 수상 가능성 있어..15년내 나올 것"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220509153103420"/>
         <updated>2022-05-09T09:24:38.476Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 정부, 원전 포함 '에너지믹스'로 탄소중립]]></title>
-        <id>https://v.daum.net/v/20220509152924326</id>
-        <link href="https://v.daum.net/v/20220509152924326"/>
-        <updated>2022-05-09T09:24:38.477Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>

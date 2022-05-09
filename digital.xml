@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-05-09T17:30:16.713Z</updated>
+    <updated>2022-05-09T18:28:56.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강원도지사 선거에 느닷없이 등장한 '삼성']]></title>
+        <id>https://v.daum.net/v/20220510030211829</id>
+        <link href="https://v.daum.net/v/20220510030211829"/>
+        <updated>2022-05-09T18:28:17.772Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소형 발사체로 '우주 패권' 도전..글로벌 스타트업 '진격']]></title>
         <id>https://v.daum.net/v/20220509172911443</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220509193423605"/>
         <updated>2022-05-09T11:21:37.377Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['N번방 방지법' 시행 5개월..방통위, 각계 목소리 듣는다]]></title>
-        <id>https://v.daum.net/v/20220509175016188</id>
-        <link href="https://v.daum.net/v/20220509175016188"/>
-        <updated>2022-05-09T09:24:31.458Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
