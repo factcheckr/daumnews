@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-05-09T09:25:07.067Z</updated>
+    <updated>2022-05-09T10:28:06.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["우크라이나 전쟁 끝날 때까지..반전 연주 계속해요"]]></title>
+        <id>https://v.daum.net/v/20220509172103125</id>
+        <link href="https://v.daum.net/v/20220509172103125"/>
+        <updated>2022-05-09T10:27:16.040Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[짧은 영상에도 피로감..색다른 즐거움, 오디오 콘텐츠가 뜬다]]></title>
         <id>https://v.daum.net/v/20220509171552879</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220509160748365"/>
         <updated>2022-05-09T08:30:12.644Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['중국의 피카소' 600억원에 팔렸다]]></title>
-        <id>https://v.daum.net/v/20220509160304083</id>
-        <link href="https://v.daum.net/v/20220509160304083"/>
-        <updated>2022-05-09T08:30:12.645Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
