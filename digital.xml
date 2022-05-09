@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-05-09T22:24:15.241Z</updated>
+    <updated>2022-05-09T23:24:25.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우크라 도운 머스크, 러시아 '경고'에 "나 죽을 지도 몰라"[과학을읽다]]]></title>
+        <id>https://v.daum.net/v/20220510073309424</id>
+        <link href="https://v.daum.net/v/20220510073309424"/>
+        <updated>2022-05-09T23:23:42.340Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹정부, 차관 무더기 인선에도..과기정통부만 '일잘러' 관료들 빠져]]></title>
         <id>https://v.daum.net/v/20220510065503922</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220510060201388"/>
         <updated>2022-05-09T22:23:35.801Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새 정부, 어르신 요금제·청년층 데이터 지원 추진]]></title>
-        <id>https://v.daum.net/v/20220510060112351</id>
-        <link href="https://v.daum.net/v/20220510060112351"/>
-        <updated>2022-05-09T22:23:35.802Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
