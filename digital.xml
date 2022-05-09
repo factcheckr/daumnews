@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-05-09T19:20:39.713Z</updated>
+    <updated>2022-05-09T20:26:46.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연봉 절반, 실력은 비슷' 동남아 개발자로 눈 돌리는 기업들]]></title>
+        <id>https://v.daum.net/v/20220510043015323</id>
+        <link href="https://v.daum.net/v/20220510043015323"/>
+        <updated>2022-05-09T20:26:06.618Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT·메타버스·블록체인 연결..웹3.0 게임, 선구자될 것]]></title>
         <id>https://v.daum.net/v/20220510040307130</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220509215900724"/>
         <updated>2022-05-09T13:42:51.296Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["언제적 모토로라냐" 10년만에 한국 재진출, 누가 사?]]></title>
-        <id>https://v.daum.net/v/20220509195115895</id>
-        <link href="https://v.daum.net/v/20220509195115895"/>
-        <updated>2022-05-09T11:21:37.377Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
