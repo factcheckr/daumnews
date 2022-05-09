@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-05-09T11:22:20.200Z</updated>
+    <updated>2022-05-09T13:43:33.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1분기 세계 태블릿·크롬북 판매량 감소, 교육 수요 늘 하반기 회복 가능성]]></title>
+        <id>https://v.daum.net/v/20220509173604730</id>
+        <link href="https://v.daum.net/v/20220509173604730"/>
+        <updated>2022-05-09T13:42:59.378Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020년 러시아 덮친 역대급 더운 겨울의 원인은 인류였다]]></title>
         <id>https://v.daum.net/v/20220509173019517</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220509151704809"/>
         <updated>2022-05-09T07:24:43.696Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화이자·머크, 먹는 코로나19 치료제 실적 갈린 이유는]]></title>
-        <id>https://v.daum.net/v/20220509151253605</id>
-        <link href="https://v.daum.net/v/20220509151253605"/>
-        <updated>2022-05-09T07:24:43.697Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
