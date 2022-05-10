@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-05-10T17:31:59.250Z</updated>
+    <updated>2022-05-10T18:29:37.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진짜 창문을 찾아라]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/E4mgikHA5R</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/E4mgikHA5R"/>
+        <updated>2022-05-10T18:29:12.095Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[법률신문 사장 이수형씨]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1476/EzNUThz50T</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1476/EzNUThz50T"/>
+        <updated>2022-05-10T18:29:12.098Z</updated>
+        <content type="html"><![CDATA[미국은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이른더위 식히는 분수]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1783949/EsuVZyJ9Pk</id>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1127178/EpGJCebSDe"/>
         <updated>2022-05-10T06:29:32.842Z</updated>
         <content type="html"><![CDATA[기자의 일상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화질 비교불가..제임스웹 vs 스피처 우주망원경 비교해보니]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1497/EpH5gAs0T0</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1497/EpH5gAs0T0"/>
-        <updated>2022-05-10T05:22:49.523Z</updated>
-        <content type="html"><![CDATA[우주의 신비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나 전쟁 논의 뒤 기자회견 하는 독·프 정상]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5030466/EQ15dSyg9k</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5030466/EQ15dSyg9k"/>
-        <updated>2022-05-10T05:22:49.533Z</updated>
-        <content type="html"><![CDATA[독일은 지금]]></content>
     </entry>
 </feed>
