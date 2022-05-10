@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-05-10T11:22:05.864Z</updated>
+    <updated>2022-05-10T12:45:02.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[눈 깜빡임으로 전기 만들어내는 소자 개발]]></title>
+        <id>https://v.daum.net/v/20220510171014991</id>
+        <link href="https://v.daum.net/v/20220510171014991"/>
+        <updated>2022-05-10T12:44:31.201Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['블랙 테라 데이' 패닉..무너진 테라의 1달러, 루나 유의종목 지정(종합)]]></title>
+        <id>https://v.daum.net/v/20220510165551536</id>
+        <link href="https://v.daum.net/v/20220510165551536"/>
+        <updated>2022-05-10T12:44:31.202Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["덕화형! '따상' 가능할까요?" 수년째 적자, 믿고 사도 될까]]></title>
         <id>https://v.daum.net/v/20220510165200416</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220510155233115"/>
         <updated>2022-05-10T08:29:14.794Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코빗 "24시간 전 대비 50% 폭락한 루나..거래 유의 종목 지정"]]></title>
-        <id>https://v.daum.net/v/20220510152559993</id>
-        <link href="https://v.daum.net/v/20220510152559993"/>
-        <updated>2022-05-10T07:22:52.966Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["삼성부터 잡겠다"..R&D에 수조원 쏟아부은 '인텔의 승부수']]></title>
-        <id>https://v.daum.net/v/20220510120401203</id>
-        <link href="https://v.daum.net/v/20220510120401203"/>
-        <updated>2022-05-10T07:22:52.967Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
