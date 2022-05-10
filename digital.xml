@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-05-10T10:26:40.726Z</updated>
+    <updated>2022-05-10T11:22:05.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사면초가에 처한 배달 플랫폼]]></title>
+        <id>https://v.daum.net/v/20220510201500109</id>
+        <link href="https://v.daum.net/v/20220510201500109"/>
+        <updated>2022-05-10T11:21:25.853Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文, 퇴임 반나절만에 고발당했다.."월성1호기 폐쇄, 직권 남용"]]></title>
         <id>https://v.daum.net/v/20220510175746495</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220510165551536"/>
         <updated>2022-05-10T08:29:06.906Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["덕화형! '따상' 가능할까요?" 수년째 적자, 믿고 사도 될까]]></title>
-        <id>https://v.daum.net/v/20220510165200416</id>
-        <link href="https://v.daum.net/v/20220510165200416"/>
-        <updated>2022-05-10T08:29:06.907Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>

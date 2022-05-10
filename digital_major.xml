@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-05-10T10:26:40.727Z</updated>
+    <updated>2022-05-10T11:22:05.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["덕화형! '따상' 가능할까요?" 수년째 적자, 믿고 사도 될까]]></title>
+        <id>https://v.daum.net/v/20220510165200416</id>
+        <link href="https://v.daum.net/v/20220510165200416"/>
+        <updated>2022-05-10T11:21:34.040Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화재 현장 불 끄고 가스 탐지하는 소방 로봇, 국내는 아직 '걸음마']]></title>
         <id>https://v.daum.net/v/20220510164021923</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220510120401203"/>
         <updated>2022-05-10T07:22:52.967Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재호 교수 "AI규정이 무역장벽 될 수도..생각보다 빨리 올 것"]]></title>
-        <id>https://v.daum.net/v/20220510151403377</id>
-        <link href="https://v.daum.net/v/20220510151403377"/>
-        <updated>2022-05-10T07:22:52.971Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
