@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-05-10T21:22:08.557Z</updated>
+    <updated>2022-05-10T22:24:09.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 서울 한복판 110년 '금단의 땅'에 12m 하늘 전망대 들어서]]></title>
+        <id>https://v.daum.net/v/20220511050028915</id>
+        <link href="https://v.daum.net/v/20220511050028915"/>
+        <updated>2022-05-10T22:23:22.743Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 또 포스터 표절.. "공연계 전체 신뢰 떨어뜨린다"]]></title>
         <id>https://v.daum.net/v/20220511040909553</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220510220102403"/>
         <updated>2022-05-10T18:28:48.672Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[활기 찾은 문화예술계, 풍성하게 준비해 돌아왔다]]></title>
-        <id>https://v.daum.net/v/20220510212818748</id>
-        <link href="https://v.daum.net/v/20220510212818748"/>
-        <updated>2022-05-10T18:28:48.673Z</updated>
-        <content type="html"><![CDATA[CJB청주방송]]></content>
     </entry>
 </feed>
