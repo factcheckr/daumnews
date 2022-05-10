@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-05-10T14:27:12.105Z</updated>
+    <updated>2022-05-10T15:25:32.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[달콤한 사이언스] 계절성 독감 바이러스 분석했더니..]]></title>
+        <id>https://v.daum.net/v/20220511000105423</id>
+        <link href="https://v.daum.net/v/20220511000105423"/>
+        <updated>2022-05-10T15:24:56.773Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] KT 5G 와이파이, 시내버스 4200대에 깔린다]]></title>
         <id>https://v.daum.net/v/20220510173908993</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220510202012254"/>
         <updated>2022-05-10T12:44:23.541Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사면초가에 처한 배달 플랫폼]]></title>
-        <id>https://v.daum.net/v/20220510201500109</id>
-        <link href="https://v.daum.net/v/20220510201500109"/>
-        <updated>2022-05-10T11:21:25.853Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
