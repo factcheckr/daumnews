@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-05-10T13:52:42.234Z</updated>
+    <updated>2022-05-10T14:27:12.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고위험도 고혈압' 환자, 목표 혈압 130/80mmHg 미만 유지해야]]></title>
+        <id>https://v.daum.net/v/20220510230255023</id>
+        <link href="https://v.daum.net/v/20220510230255023"/>
+        <updated>2022-05-10T14:26:17.284Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["오픈런 대란 어디갔나"..까르띠에 매장 '텅텅' 무슨 일? [현장+]]]></title>
         <id>https://v.daum.net/v/20220510220102403</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220510183606490"/>
         <updated>2022-05-10T10:25:46.147Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["저항에서 생명으로" 故김지하의 작품 세계]]></title>
-        <id>https://v.daum.net/v/20220510174717203</id>
-        <link href="https://v.daum.net/v/20220510174717203"/>
-        <updated>2022-05-10T09:24:15.208Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>

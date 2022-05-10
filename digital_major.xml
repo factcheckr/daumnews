@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-05-10T13:52:42.227Z</updated>
+    <updated>2022-05-10T14:27:12.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[냄새를 눈으로 맡는다?]]></title>
+        <id>https://v.daum.net/v/20220510231503117</id>
+        <link href="https://v.daum.net/v/20220510231503117"/>
+        <updated>2022-05-10T14:26:40.759Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文, 퇴임 반나절만에 고발당했다.."월성1호기 폐쇄, 직권 남용"]]></title>
         <id>https://v.daum.net/v/20220510175746495</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220510161849160"/>
         <updated>2022-05-10T08:29:14.792Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손상된 위 스스로 치유하는 과정 밝혀내]]></title>
-        <id>https://v.daum.net/v/20220510161020789</id>
-        <link href="https://v.daum.net/v/20220510161020789"/>
-        <updated>2022-05-10T08:29:14.792Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
