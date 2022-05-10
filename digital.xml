@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-05-10T19:20:45.135Z</updated>
+    <updated>2022-05-10T20:26:00.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개전 3개월, 반도체 원자재 '러·우크라 의존도' 상승.. 수입선 다변화는?]]></title>
+        <id>https://v.daum.net/v/20220511043028623</id>
+        <link href="https://v.daum.net/v/20220511043028623"/>
+        <updated>2022-05-10T20:25:24.649Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["반도체 학생 2배 늘면 뭐하나, 교수가 없는데"]]></title>
         <id>https://v.daum.net/v/20220511030143069</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220510222354696"/>
         <updated>2022-05-10T13:52:03.509Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스마트폰과 외부 마이크, 어떻게 연결해야 하나요?]]></title>
-        <id>https://v.daum.net/v/20220510222102668</id>
-        <link href="https://v.daum.net/v/20220510222102668"/>
-        <updated>2022-05-10T13:52:03.513Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>

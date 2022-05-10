@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-05-10T19:20:45.130Z</updated>
+    <updated>2022-05-10T20:26:00.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220510231503117"/>
         <updated>2022-05-10T14:26:40.759Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스마트폰과 외부 마이크, 어떻게 연결해야 하나요?]]></title>
+        <id>https://v.daum.net/v/20220510222102668</id>
+        <link href="https://v.daum.net/v/20220510222102668"/>
+        <updated>2022-05-10T20:25:31.847Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["다 좋은데 이것만 좀.." 갤럭시Z플립4 '배터리 용량' 개선될까]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220510165551536"/>
         <updated>2022-05-10T12:44:31.202Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["덕화형! '따상' 가능할까요?" 수년째 적자, 믿고 사도 될까]]></title>
-        <id>https://v.daum.net/v/20220510165200416</id>
-        <link href="https://v.daum.net/v/20220510165200416"/>
-        <updated>2022-05-10T11:21:34.040Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
