@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-05-10T03:33:32.702Z</updated>
+    <updated>2022-05-10T04:30:18.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["삼성 갤Z플립4, 배터리 400mAh 늘고..25W 충전 지원"]]></title>
+        <id>https://v.daum.net/v/20220510115045618</id>
+        <link href="https://v.daum.net/v/20220510115045618"/>
+        <updated>2022-05-10T04:29:46.844Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["코로나 백신 4차 접종, 첫 부스터샷보다 면역효과 더 높아"]]></title>
+        <id>https://v.daum.net/v/20220510115013585</id>
+        <link href="https://v.daum.net/v/20220510115013585"/>
+        <updated>2022-05-10T04:29:46.854Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹대통령 만나는 美 노벨상 수상자.."韓 과학 투자 이어가길"]]></title>
         <id>https://v.daum.net/v/20220510105036182</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220510093555584"/>
         <updated>2022-05-10T02:53:48.186Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[틱톡의 바이트댄스, 중국판 '도우인'으로 회사명 변경 왜?]]></title>
-        <id>https://v.daum.net/v/20220510092458087</id>
-        <link href="https://v.daum.net/v/20220510092458087"/>
-        <updated>2022-05-10T02:53:48.187Z</updated>
-        <content type="html"><![CDATA[게임톡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["애플, 코로나19 이후 中 엔지니어 의존 더 심화"]]></title>
-        <id>https://v.daum.net/v/20220510092321007</id>
-        <link href="https://v.daum.net/v/20220510092321007"/>
-        <updated>2022-05-10T02:53:48.188Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
