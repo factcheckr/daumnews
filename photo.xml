@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-05-11T10:28:23.562Z</updated>
+    <updated>2022-05-11T11:21:18.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나토 가입' 스웨덴 방문하는 존슨 영국 총리]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029577/ETxPiP8BKj</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029577/ETxPiP8BKj"/>
+        <updated>2022-05-11T11:20:55.221Z</updated>
+        <content type="html"><![CDATA[영국 보리스 존슨 총리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몸 날리는 허광희]]></title>
         <id>https://gallery.v.daum.net/p/viewer/171596/EC1TmaNNgh</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1127178/E3qyjOS3s7"/>
         <updated>2022-05-11T06:32:53.740Z</updated>
         <content type="html"><![CDATA[기자의 일상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지구로 향하는 태양풍..강력한 X1.5급 태양폭발 포착]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1497/EtQEzLRyBD</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1497/EtQEzLRyBD"/>
-        <updated>2022-05-11T05:32:02.784Z</updated>
-        <content type="html"><![CDATA[우주의 신비]]></content>
     </entry>
 </feed>
