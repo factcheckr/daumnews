@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-05-11T22:22:55.623Z</updated>
+    <updated>2022-05-11T23:25:25.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['n번방' 재발방지 vs 과도한 검열..'불법촬영물' 근절대책 문제없나]]></title>
+        <id>https://v.daum.net/v/20220512053012529</id>
+        <link href="https://v.daum.net/v/20220512053012529"/>
+        <updated>2022-05-11T23:24:56.773Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["1.4나노 간다" 초조함 드러낸 TSMC..삼성은 3나노 추월 집중]]></title>
         <id>https://v.daum.net/v/20220512050301969</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220511204205626"/>
         <updated>2022-05-11T20:25:30.185Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버, "n번방 방지법 현장 고민 커..글로벌 사업자와 역차별 안 돼"]]></title>
-        <id>https://v.daum.net/v/20220511201249156</id>
-        <link href="https://v.daum.net/v/20220511201249156"/>
-        <updated>2022-05-11T20:25:30.186Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

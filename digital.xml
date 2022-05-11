@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-05-11T22:22:55.638Z</updated>
+    <updated>2022-05-11T23:25:25.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플, 테크 주식 폭락에 시총 세계 1위 자리 뺏겼다]]></title>
+        <id>https://v.daum.net/v/20220512081725358</id>
+        <link href="https://v.daum.net/v/20220512081725358"/>
+        <updated>2022-05-11T23:24:49.738Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성 비스포크, 잘 팔리는데 돈은 안 되네..돌파구는]]></title>
         <id>https://v.daum.net/v/20220512070020139</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220512053101546"/>
         <updated>2022-05-11T21:19:57.168Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['n번방' 재발방지 vs 과도한 검열..'불법촬영물' 근절대책 문제없나]]></title>
-        <id>https://v.daum.net/v/20220512053012529</id>
-        <link href="https://v.daum.net/v/20220512053012529"/>
-        <updated>2022-05-11T21:19:57.168Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
