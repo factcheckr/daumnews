@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-05-11T16:35:45.220Z</updated>
+    <updated>2022-05-11T17:33:53.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[조선 해관 문서에 담긴 '개항기 검역 역사']]></title>
-        <id>https://v.daum.net/v/20220511230041810</id>
-        <link href="https://v.daum.net/v/20220511230041810"/>
-        <updated>2022-05-11T16:35:00.210Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[일손 부족 되풀이?.."풍작 예상되는데도 걱정"]]></title>
         <id>https://v.daum.net/v/20220511212300397</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220511171901695"/>
         <updated>2022-05-11T11:20:32.177Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[풍수해보험 가입으로 여름철 피해 대비하세요]]></title>
+        <id>https://v.daum.net/v/20220511171800651</id>
+        <link href="https://v.daum.net/v/20220511171800651"/>
+        <updated>2022-05-11T17:33:06.071Z</updated>
+        <content type="html"><![CDATA[전주MBC]]></content>
     </entry>
 </feed>
