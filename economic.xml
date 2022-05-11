@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-05-11T15:26:29.277Z</updated>
+    <updated>2022-05-11T16:35:45.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강릉시, 영동지역 대표도시 유지하려면?]]></title>
+        <id>https://v.daum.net/v/20220512004107803</id>
+        <link href="https://v.daum.net/v/20220512004107803"/>
+        <updated>2022-05-11T16:34:22.161Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기름만 팔아선 미래 없다, 정유사들 '탈정유' 경쟁]]></title>
         <id>https://v.daum.net/v/20220512000402454</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220511234800233"/>
         <updated>2022-05-11T15:25:04.325Z</updated>
         <content type="html"><![CDATA[노컷뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['자이언트 스텝' 다시 가나..4월 美 CPI 8.3% 상승, 두달째 8%대]]></title>
-        <id>https://v.daum.net/v/20220511223745574</id>
-        <link href="https://v.daum.net/v/20220511223745574"/>
-        <updated>2022-05-11T13:43:11.399Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-05-11T15:26:29.275Z</updated>
+    <updated>2022-05-11T16:35:45.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조상의 지혜? '선비 자세' 척추에 좋아]]></title>
+        <id>https://v.daum.net/v/20220512010015899</id>
+        <link href="https://v.daum.net/v/20220512010015899"/>
+        <updated>2022-05-11T16:34:52.691Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[극단 파·람·불 '그날, 그날에' 수도권 관객 만난다]]></title>
         <id>https://v.daum.net/v/20220512001121587</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220511231303911"/>
         <updated>2022-05-11T14:22:20.946Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조선 해관 문서에 담긴 '개항기 검역 역사']]></title>
-        <id>https://v.daum.net/v/20220511230041810</id>
-        <link href="https://v.daum.net/v/20220511230041810"/>
-        <updated>2022-05-11T14:22:20.951Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
