@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-05-11T09:24:59.604Z</updated>
+    <updated>2022-05-11T10:28:23.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새 정부, 디지털 대전환 시동..과학기술 출연기관 역할 중요해져]]></title>
+        <id>https://v.daum.net/v/20220511173033088</id>
+        <link href="https://v.daum.net/v/20220511173033088"/>
+        <updated>2022-05-11T10:27:51.305Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글·애플 '이곳'에 3조 쓰는데..한국은 '걸음마 단계' 초비상]]></title>
         <id>https://v.daum.net/v/20220511171006376</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220511160525454"/>
         <updated>2022-05-11T08:32:10.815Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹정부 과기수장 "국가 미래 책임질 핵심 부처..'홀대' 없다"]]></title>
-        <id>https://v.daum.net/v/20220511155954225</id>
-        <link href="https://v.daum.net/v/20220511155954225"/>
-        <updated>2022-05-11T08:32:10.819Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
