@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-05-11T17:33:53.631Z</updated>
+    <updated>2022-05-11T18:29:44.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[도청도설] 약탈적 학술지]]></title>
+        <id>https://v.daum.net/v/20220512030257268</id>
+        <link href="https://v.daum.net/v/20220512030257268"/>
+        <updated>2022-05-11T18:29:04.052Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['제로웨이스트 숙소' 모아씨 "좀 불편해도 '사고가 확장되는 숙박' 어때요"[보통의 기후위기⑤]]]></title>
         <id>https://v.daum.net/v/20220511225613753</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220511201249156"/>
         <updated>2022-05-11T11:20:40.383Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외입국자 신속항원검사 '의견 분분'.."규제 풀어야"vs"신종 변이 경계해야"]]></title>
-        <id>https://v.daum.net/v/20220511195853816</id>
-        <link href="https://v.daum.net/v/20220511195853816"/>
-        <updated>2022-05-11T11:20:40.384Z</updated>
-        <content type="html"><![CDATA[대전일보]]></content>
     </entry>
 </feed>
