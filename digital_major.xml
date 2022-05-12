@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-05-12T14:24:45.417Z</updated>
+    <updated>2022-05-12T15:26:22.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[알고리즘으로 '개당 1달러' 보장한다더니..테라 스테이블코인 0.25달러까지 붕괴]]></title>
+        <id>https://v.daum.net/v/20220512181608980</id>
+        <link href="https://v.daum.net/v/20220512181608980"/>
+        <updated>2022-05-12T15:25:45.310Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수도권 최대 게임쇼 '플레이엑스포' 3년 만에 오프라인 개막]]></title>
+        <id>https://v.daum.net/v/20220512180301565</id>
+        <link href="https://v.daum.net/v/20220512180301565"/>
+        <updated>2022-05-12T15:25:45.311Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]수영장 마스크 물은 막는데 코로나는 못막는다]]></title>
         <id>https://v.daum.net/v/20220512180149528</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220512172302022"/>
         <updated>2022-05-12T09:24:47.580Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["지자체, 소비자 중심의 디지털 정책 수립이 중요하다"]]></title>
-        <id>https://v.daum.net/v/20220512170510234</id>
-        <link href="https://v.daum.net/v/20220512170510234"/>
-        <updated>2022-05-12T09:24:47.581Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오미크론 방역에 6.1兆 추경 편성..면역저하자 백신 2만명분 도입]]></title>
-        <id>https://v.daum.net/v/20220512165436830</id>
-        <link href="https://v.daum.net/v/20220512165436830"/>
-        <updated>2022-05-12T09:24:47.581Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
