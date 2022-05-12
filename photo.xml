@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-05-12T09:25:17.535Z</updated>
+    <updated>2022-05-12T10:29:38.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 정부 첫 추경안 의결..지원규모 59조로 역대 최다]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/318190/EfQKZQhNXM</id>
+        <link href="https://gallery.v.daum.net/p/viewer/318190/EfQKZQhNXM"/>
+        <updated>2022-05-12T10:29:15.731Z</updated>
+        <content type="html"><![CDATA[제19대 문재인 대통령]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박진 신임 외교부장관 취임.."외교는 소리없는 전쟁" [TF사진관]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5024184/Eww0mTSh4K</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/382/ENP5SWvX7s"/>
         <updated>2022-05-12T06:32:33.973Z</updated>
         <content type="html"><![CDATA[중국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미얀마의 민주주의를 응원합니다]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5154690/ELxSrMUl4a</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5154690/ELxSrMUl4a"/>
-        <updated>2022-05-12T06:32:33.974Z</updated>
-        <content type="html"><![CDATA[미얀마 반정부시위]]></content>
     </entry>
 </feed>

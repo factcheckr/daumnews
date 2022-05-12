@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-05-12T09:25:17.526Z</updated>
+    <updated>2022-05-12T10:29:38.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연구지원비 3조∙평균 연봉 2억∙하버드의대..美 보스턴 바이오 클러스터 성공 비결]]></title>
+        <id>https://v.daum.net/v/20220512192256576</id>
+        <link href="https://v.daum.net/v/20220512192256576"/>
+        <updated>2022-05-12T10:29:00.932Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["年 20조 R&D 지원받는데 20억(출연연·주요대학 연평균) 벌어..임팩트 큰 'IP 창출' 힘써야"]]></title>
+        <id>https://v.daum.net/v/20220512175753382</id>
+        <link href="https://v.daum.net/v/20220512175753382"/>
+        <updated>2022-05-12T09:24:39.861Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알고리즘으로 '개당 1달러' 보장한다더니..테라 스테이블코인 0.25달러까지 붕괴]]></title>
         <id>https://v.daum.net/v/20220512181608980</id>
@@ -20,7 +34,7 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]물은 막아도 코로나는 못막는 수영장 마스크]]></title>
+        <title type="html"><![CDATA[[단독]수영장 마스크 물은 막는데 코로나는 못막는다]]></title>
         <id>https://v.daum.net/v/20220512180149528</id>
         <link href="https://v.daum.net/v/20220512180149528"/>
         <updated>2022-05-12T09:24:39.859Z</updated>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220512180103499"/>
         <updated>2022-05-12T09:24:39.860Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["年 20조 R&D 지원하는데 20억 벌어..임팩트 큰 'IP 창출' 힘써야"]]></title>
-        <id>https://v.daum.net/v/20220512175753382</id>
-        <link href="https://v.daum.net/v/20220512175753382"/>
-        <updated>2022-05-12T09:24:39.861Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스마트폰 4500만대 생산차질..中봉쇄 길어지자 韓기업 '비명']]></title>
-        <id>https://v.daum.net/v/20220512175412281</id>
-        <link href="https://v.daum.net/v/20220512175412281"/>
-        <updated>2022-05-12T09:24:39.862Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
