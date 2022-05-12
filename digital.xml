@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-05-12T13:49:46.829Z</updated>
+    <updated>2022-05-12T14:24:45.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리 은하 블랙홀 모습 최초 포착..일반상대성이론 더 정확해졌다]]></title>
+        <id>https://v.daum.net/v/20220512230013633</id>
+        <link href="https://v.daum.net/v/20220512230013633"/>
+        <updated>2022-05-12T14:24:10.411Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플 잡자더니 삼성 '뒤통수'..이 분 손목의 '놀라운 비밀' [IT선빵!]]]></title>
         <id>https://v.daum.net/v/20220512195158217</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220512180301565"/>
         <updated>2022-05-12T09:24:39.857Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]수영장 마스크 물은 막는데 코로나는 못막는다]]></title>
-        <id>https://v.daum.net/v/20220512180149528</id>
-        <link href="https://v.daum.net/v/20220512180149528"/>
-        <updated>2022-05-12T09:24:39.859Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
