@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-05-12T06:32:57.736Z</updated>
+    <updated>2022-05-12T07:23:50.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA["평균 이상 vs 평균 이하"..웹젠 노사, '연봉' 두고 뚜렷한 시각차]]></title>
-        <id>https://v.daum.net/v/20220512144418991</id>
-        <link href="https://v.daum.net/v/20220512144418991"/>
-        <updated>2022-05-12T06:32:26.467Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 정부, 가상자산 육성 기조..대형 플레이어 참여 본격화]]></title>
         <id>https://v.daum.net/v/20220512143806814</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220512125606175"/>
         <updated>2022-05-12T06:32:26.476Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콧속에 뿌렸더니 '바이러스·세균 저격' 기술 개발]]></title>
+        <id>https://v.daum.net/v/20220512120102921</id>
+        <link href="https://v.daum.net/v/20220512120102921"/>
+        <updated>2022-05-12T07:23:18.897Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
