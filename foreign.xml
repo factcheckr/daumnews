@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-06-05T15:22:23.570Z</updated>
+    <updated>2022-06-05T16:29:49.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레바논-이스라엘, 동지중해 가스전 개발 두고 갈등 조짐]]></title>
+        <id>https://v.daum.net/v/20220606002219119</id>
+        <link href="https://v.daum.net/v/20220606002219119"/>
+        <updated>2022-06-05T16:28:33.561Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['키이우 재공습' 푸틴.."참아왔던 목표 파괴할 것"]]></title>
         <id>https://v.daum.net/v/20220606000754034</id>
@@ -20,20 +27,6 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우크라 전사자 하루 100명 육박.."장기전 대비 병력충원 필요"]]></title>
-        <id>https://v.daum.net/v/20220605235439892</id>
-        <link href="https://v.daum.net/v/20220605235439892"/>
-        <updated>2022-06-05T15:21:10.004Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美상무 "중국철강제품 관세 유지..가정용품 등은 인하 검토"]]></title>
-        <id>https://v.daum.net/v/20220605232215796</id>
-        <link href="https://v.daum.net/v/20220605232215796"/>
-        <updated>2022-06-05T15:21:10.006Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[러군, 39일 만에 키이우 공습 재개..푸틴 "'새 목표물 타격'할 것"]]></title>
         <id>https://v.daum.net/v/20220605231847786</id>
         <link href="https://v.daum.net/v/20220605231847786"/>
@@ -45,6 +38,13 @@
         <id>https://v.daum.net/v/20220605213130167</id>
         <link href="https://v.daum.net/v/20220605213130167"/>
         <updated>2022-06-05T13:27:06.059Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키이우 38일 만에 미사일 공격..동부 전선 공방 지속]]></title>
+        <id>https://v.daum.net/v/20220605212839144</id>
+        <link href="https://v.daum.net/v/20220605212839144"/>
+        <updated>2022-06-05T16:28:33.566Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
