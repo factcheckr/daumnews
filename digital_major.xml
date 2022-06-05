@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-05T04:27:19.468Z</updated>
+    <updated>2022-06-05T05:21:36.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자외선 지수가 알려주는 지구환경]]></title>
+        <id>https://v.daum.net/v/20220605094013725</id>
+        <link href="https://v.daum.net/v/20220605094013725"/>
+        <updated>2022-06-05T05:21:01.272Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개발자처럼 코딩 안해도 AI가 회계툴 뚝딱..'노코드' 확산]]></title>
         <id>https://v.daum.net/v/20220605093502670</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220605063013156"/>
         <updated>2022-06-05T03:15:51.698Z</updated>
         <content type="html"><![CDATA[게임톡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비대면 끝내고 다시 얼굴 마주 한 과학자들]]></title>
-        <id>https://v.daum.net/v/20220605060013793</id>
-        <link href="https://v.daum.net/v/20220605060013793"/>
-        <updated>2022-06-05T03:15:51.699Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>

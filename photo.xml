@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-06-05T04:27:19.488Z</updated>
+    <updated>2022-06-05T05:21:36.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[반가운 단비]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1783949/EI0JuZsp5K</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1783949/EI0JuZsp5K"/>
-        <updated>2022-06-05T04:26:52.944Z</updated>
+        <title type="html"><![CDATA[반가운 비 소식]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1783949/EBDIBJvLeh</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1783949/EBDIBJvLeh"/>
+        <updated>2022-06-05T05:21:09.888Z</updated>
         <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[출국하는 성 김]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/31583/E6udG8Pdd6</id>
+        <link href="https://gallery.v.daum.net/p/viewer/31583/E6udG8Pdd6"/>
+        <updated>2022-06-05T05:21:09.888Z</updated>
+        <content type="html"><![CDATA[인천공항 풍경]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국의 '역사 지우기'에도..톈안먼 추모는 계속된다]]></title>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[대만은 지금]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[北,탄도 미사일 발사. 출근하는 윤 대통령]]></title>
+        <title type="html"><![CDATA[北,탄도 미사일 발사. 윤 대통령 NSC소집]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5116766/Ejbf6ijuZR</id>
         <link href="https://gallery.v.daum.net/p/viewer/5116766/Ejbf6ijuZR"/>
         <updated>2022-06-05T04:26:52.944Z</updated>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/144832/EWozzyn5BH"/>
         <updated>2022-06-04T13:10:20.549Z</updated>
         <content type="html"><![CDATA[길따라 멋따라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["총기 규제" 목소리에 귀 막은 NRA 회원]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/584149/E83VBgqPlE</id>
-        <link href="https://gallery.v.daum.net/p/viewer/584149/E83VBgqPlE"/>
-        <updated>2022-06-04T13:10:20.550Z</updated>
-        <content type="html"><![CDATA[한 컷의 울림]]></content>
     </entry>
 </feed>

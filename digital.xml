@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-05T04:27:19.470Z</updated>
+    <updated>2022-06-05T05:21:36.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플의 상징 '8핀' 바뀐다? "정체성 사라져" VS "편리해져" 마니아들 갑론을박]]></title>
+        <id>https://v.daum.net/v/20220605141023202</id>
+        <link href="https://v.daum.net/v/20220605141023202"/>
+        <updated>2022-06-05T05:20:52.736Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KIST "악성·양성 종양 구분하는 인공촉각뉴런소자 개발"]]></title>
         <id>https://v.daum.net/v/20220605120018501</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220605095005830"/>
         <updated>2022-06-05T03:15:41.920Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자외선 지수가 알려주는 지구환경]]></title>
-        <id>https://v.daum.net/v/20220605094013725</id>
-        <link href="https://v.daum.net/v/20220605094013725"/>
-        <updated>2022-06-05T03:15:41.922Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
