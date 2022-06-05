@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-05T11:19:35.477Z</updated>
+    <updated>2022-06-05T12:36:51.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['60+' 노년이 세계 환경의 날에 '어린이대공원'에 모인 이유는]]></title>
+        <id>https://v.daum.net/v/20220605150736073</id>
+        <link href="https://v.daum.net/v/20220605150736073"/>
+        <updated>2022-06-05T12:36:14.925Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인공촉각으로 악성 암 빠르고 정확하게 진단한다]]></title>
         <id>https://v.daum.net/v/20220605150104956</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220605094013725"/>
         <updated>2022-06-05T05:21:01.272Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개발자처럼 코딩 안해도 AI가 회계툴 뚝딱..'노코드' 확산]]></title>
-        <id>https://v.daum.net/v/20220605093502670</id>
-        <link href="https://v.daum.net/v/20220605093502670"/>
-        <updated>2022-06-05T03:15:51.689Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
