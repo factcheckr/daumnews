@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-05T08:26:34.231Z</updated>
+    <updated>2022-06-05T09:21:17.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["얼마나 급하면 중국 따라하다 망신" 세계적 조롱거리된 유튜브]]></title>
+        <id>https://v.daum.net/v/20220605175107501</id>
+        <link href="https://v.daum.net/v/20220605175107501"/>
+        <updated>2022-06-05T09:20:32.721Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["40년 된 텅빈 건물에 야채 농장" 日 여성 건물주의 공실 극복 비법]]></title>
         <id>https://v.daum.net/v/20220605170426800</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220605150736073"/>
         <updated>2022-06-05T06:26:11.395Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인공촉각으로 악성 암 빠르고 정확하게 진단한다]]></title>
-        <id>https://v.daum.net/v/20220605150104956</id>
-        <link href="https://v.daum.net/v/20220605150104956"/>
-        <updated>2022-06-05T06:26:11.399Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
