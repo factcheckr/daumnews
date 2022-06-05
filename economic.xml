@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-06-05T12:36:51.099Z</updated>
+    <updated>2022-06-05T13:28:28.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['만년 저평가' 꼬리표 떼고 재평가 시동 거는 지주사]]></title>
+        <id>https://v.daum.net/v/20220605214800276</id>
+        <link href="https://v.daum.net/v/20220605214800276"/>
+        <updated>2022-06-05T13:26:45.008Z</updated>
+        <content type="html"><![CDATA[매경이코노미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지속 가능 vs 마케팅..ESG 대세 될까]]></title>
         <id>https://v.daum.net/v/20220605205105873</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220605184417060"/>
         <updated>2022-06-05T10:22:10.067Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이블코인 칼 대는 美·英·日.. 갈피 못 잡는 한국]]></title>
-        <id>https://v.daum.net/v/20220605183448996</id>
-        <link href="https://v.daum.net/v/20220605183448996"/>
-        <updated>2022-06-05T10:22:10.068Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-06-05T12:36:51.102Z</updated>
+    <updated>2022-06-05T13:28:28.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://v.daum.net/v/20220605212802138"/>
         <updated>2022-06-05T12:35:39.744Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국, 우주정거장 건설 '착착'..올해 말 완성]]></title>
-        <id>https://v.daum.net/v/20220605204510852</id>
-        <link href="https://v.daum.net/v/20220605204510852"/>
-        <updated>2022-06-05T12:35:39.745Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[38일 만에 키이우 도심 공습..'원전' 위로 미사일 발사까지]]></title>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220605185402143"/>
         <updated>2022-06-05T11:18:21.245Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["집처럼 편하게"..BTS 위해 직접 '버터' 틀어준 바이든]]></title>
+        <id>https://v.daum.net/v/20220605184615083</id>
+        <link href="https://v.daum.net/v/20220605184615083"/>
+        <updated>2022-06-05T13:27:14.854Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>

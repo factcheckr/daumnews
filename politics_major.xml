@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2022-06-05T12:36:51.116Z</updated>
+    <updated>2022-06-05T13:28:28.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최근 3번의 선거..아파트값 비싼 동네일수록 '보수 정당' 찍었다]]></title>
+        <id>https://v.daum.net/v/20220605214108220</id>
+        <link href="https://v.daum.net/v/20220605214108220"/>
+        <updated>2022-06-05T13:26:36.375Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["코로나가 北왕조 무너뜨릴 수도"..美싱크탱크의 조언]]></title>
+        <id>https://v.daum.net/v/20220605210148948</id>
+        <link href="https://v.daum.net/v/20220605210148948"/>
+        <updated>2022-06-05T13:26:36.375Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[용산 청사에 김건희 여사 '대기실' 따로 만든다]]></title>
         <id>https://v.daum.net/v/20220605193006386</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220605201205679"/>
         <updated>2022-06-05T12:35:07.404Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["안보 태세 시험이자 도전, 한미 억제력 강화"]]></title>
-        <id>https://v.daum.net/v/20220605200103610</id>
-        <link href="https://v.daum.net/v/20220605200103610"/>
-        <updated>2022-06-05T12:35:07.406Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여야 다음 승부처는 원구성.. 법사위원장 누가 차지하나]]></title>
-        <id>https://v.daum.net/v/20220605200013600</id>
-        <link href="https://v.daum.net/v/20220605200013600"/>
-        <updated>2022-06-05T12:35:07.408Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
