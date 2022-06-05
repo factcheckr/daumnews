@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-06-05T10:23:39.767Z</updated>
+    <updated>2022-06-05T11:19:35.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고양시 아파트거래 10채 중 3채는 서울거주자..1기 신도시 기대감 영향]]></title>
+        <id>https://v.daum.net/v/20220605182355896</id>
+        <link href="https://v.daum.net/v/20220605182355896"/>
+        <updated>2022-06-05T11:18:02.833Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뛰는 물가에 마트 달려간 부총리 "가격안정에 노력"]]></title>
         <id>https://v.daum.net/v/20220605182204882</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220605181007759"/>
         <updated>2022-06-05T10:22:17.669Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안전운임에 치인 기업들.."차라리 해외서 생산"]]></title>
-        <id>https://v.daum.net/v/20220605180605695</id>
-        <link href="https://v.daum.net/v/20220605180605695"/>
-        <updated>2022-06-05T10:22:17.671Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>

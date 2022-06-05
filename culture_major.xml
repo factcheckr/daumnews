@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-06-05T10:23:39.781Z</updated>
+    <updated>2022-06-05T11:19:35.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[음식 주문도 기계가.. 어르신들 '진땀']]></title>
+        <id>https://v.daum.net/v/20220605160550942</id>
+        <link href="https://v.daum.net/v/20220605160550942"/>
+        <updated>2022-06-05T11:18:39.438Z</updated>
+        <content type="html"><![CDATA[JIBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갖가지 장미로 눈이 즐거운 곳, 여깁니다]]></title>
         <id>https://v.daum.net/v/20220605154200582</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220605090554342"/>
         <updated>2022-06-05T09:20:24.541Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹툰산업협회 "정부, 인앱결제 조사만 하지말고 근본 대책을"]]></title>
-        <id>https://v.daum.net/v/20220605090459324</id>
-        <link href="https://v.daum.net/v/20220605090459324"/>
-        <updated>2022-06-05T10:22:48.836Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
