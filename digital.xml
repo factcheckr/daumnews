@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-06T11:19:33.717Z</updated>
+    <updated>2022-06-06T12:45:16.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코주름으로 반려견 등록..세계표준 만든다]]></title>
+        <id>https://v.daum.net/v/20220606170908701</id>
+        <link href="https://v.daum.net/v/20220606170908701"/>
+        <updated>2022-06-06T12:44:34.308Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["재택 웃겨? 출근 안할 거면 나가!" 언제적 구태 회사냐 '아우성']]></title>
         <id>https://v.daum.net/v/20220606175137226</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220606165310459"/>
         <updated>2022-06-06T08:26:10.661Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플 'WWDC' 7일 새벽 열린다.."아이폰14 iOS' 기대감↑]]></title>
-        <id>https://v.daum.net/v/20220606153320440</id>
-        <link href="https://v.daum.net/v/20220606153320440"/>
-        <updated>2022-06-06T11:18:53.116Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
