@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-06-06T20:23:19.311Z</updated>
+    <updated>2022-06-06T21:20:28.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다다익선 NO! 많이 먹으면 독 되는 영양소]]></title>
+        <id>https://v.daum.net/v/20220607060104170</id>
+        <link href="https://v.daum.net/v/20220607060104170"/>
+        <updated>2022-06-06T21:19:26.015Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['첼로 퀸' 최하영 "위험 부담 컸던 곡, 더 집중"]]></title>
         <id>https://v.daum.net/v/20220607050748589</id>
@@ -20,20 +27,6 @@
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[산통 버금가는 '요로결석' 고통.. 땀 많이 흘리는 여름철 최대 복병]]></title>
-        <id>https://v.daum.net/v/20220607050735580</id>
-        <link href="https://v.daum.net/v/20220607050735580"/>
-        <updated>2022-06-06T20:22:28.961Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[점점 더워지는데.. '이런 증상' 나타나면 '탈수' 신호]]></title>
-        <id>https://v.daum.net/v/20220607050018328</id>
-        <link href="https://v.daum.net/v/20220607050018328"/>
-        <updated>2022-06-06T20:22:28.962Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["새 문명 수용한 천주교 순교자의 비전, 개도국에 영감 줄 수 있어"]]></title>
         <id>https://v.daum.net/v/20220607030505831</id>
         <link href="https://v.daum.net/v/20220607030505831"/>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20220607030318727"/>
         <updated>2022-06-06T18:26:23.848Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨와 생활] 찬 음료 마시다가 '찌릿'..혹시 치아균열증후군?]]></title>
+        <id>https://v.daum.net/v/20220607003624157</id>
+        <link href="https://v.daum.net/v/20220607003624157"/>
+        <updated>2022-06-06T21:19:26.028Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
