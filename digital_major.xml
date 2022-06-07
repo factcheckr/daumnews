@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-07T14:22:12.340Z</updated>
+    <updated>2022-06-07T15:24:48.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[덥고 마른 강원도의 봄]]></title>
+        <id>https://v.daum.net/v/20220608001235907</id>
+        <link href="https://v.daum.net/v/20220608001235907"/>
+        <updated>2022-06-07T15:24:14.274Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["카카오 유니버스는 관심 소재 놓고 소통하고 돈 버는 세상"]]></title>
+        <id>https://v.daum.net/v/20220607182229729</id>
+        <link href="https://v.daum.net/v/20220607182229729"/>
+        <updated>2022-06-07T15:24:14.276Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IPO 앞두고..밀리의서재, 3년만에 또 해킹]]></title>
         <id>https://v.daum.net/v/20220607181535563</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220607162023623"/>
         <updated>2022-06-07T09:25:17.765Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['페이투윈' 아니라던 디아블로 이모탈.. "과금유도, 中 게임보다 심해"]]></title>
-        <id>https://v.daum.net/v/20220607161740538</id>
-        <link href="https://v.daum.net/v/20220607161740538"/>
-        <updated>2022-06-07T09:25:17.767Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스페셜리포트]위상 달라진 사이버 보안 시장..투자·인수 집중]]></title>
-        <id>https://v.daum.net/v/20220607160115943</id>
-        <link href="https://v.daum.net/v/20220607160115943"/>
-        <updated>2022-06-07T09:25:17.769Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
