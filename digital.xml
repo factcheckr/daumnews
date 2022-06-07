@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-07T11:20:45.050Z</updated>
+    <updated>2022-06-07T12:44:30.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누리호 2차 발사 카운트다운..8월에는 최초 달 탐사선 발사]]></title>
+        <id>https://v.daum.net/v/20220607203636511</id>
+        <link href="https://v.daum.net/v/20220607203636511"/>
+        <updated>2022-06-07T12:43:53.287Z</updated>
+        <content type="html"><![CDATA[kbc광주방송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자율운항선박 야외 실증 실험 성공]]></title>
         <id>https://v.daum.net/v/20220607195429853</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220607182229729"/>
         <updated>2022-06-07T10:25:53.237Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IPO 앞두고..밀리의서재, 3년만에 또 해킹]]></title>
-        <id>https://v.daum.net/v/20220607181535563</id>
-        <link href="https://v.daum.net/v/20220607181535563"/>
-        <updated>2022-06-07T09:25:10.271Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
