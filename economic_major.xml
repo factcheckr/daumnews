@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-06-08T13:44:10.954Z</updated>
+    <updated>2022-06-08T14:21:14.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220608220336307"/>
         <updated>2022-06-08T13:42:53.193Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2달 연속 무역수지 적자.."수출 좋지만 낙관 어려워"]]></title>
+        <id>https://v.daum.net/v/20220608212512665</id>
+        <link href="https://v.daum.net/v/20220608212512665"/>
+        <updated>2022-06-08T14:20:02.748Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["시멘트 재고 바닥났다" 피해 현실화..대화는 없어]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220608204205037"/>
         <updated>2022-06-08T12:43:46.854Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[24시간 뜨고 내린다..'빗장' 모두 푼 인천공항 가보니]]></title>
-        <id>https://v.daum.net/v/20220608203806995</id>
-        <link href="https://v.daum.net/v/20220608203806995"/>
-        <updated>2022-06-08T12:43:46.855Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>

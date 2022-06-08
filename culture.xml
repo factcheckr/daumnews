@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-06-08T13:44:10.968Z</updated>
+    <updated>2022-06-08T14:21:14.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[음주량 늘어날수록 뇌경색 위험.."하루 1~2잔 이하 절주해야"]]></title>
+        <id>https://v.daum.net/v/20220608230103913</id>
+        <link href="https://v.daum.net/v/20220608230103913"/>
+        <updated>2022-06-08T14:20:23.359Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[관광버스는 오지만.."中·日 관광객은?" 목 빠지는 면세점업계]]></title>
         <id>https://v.daum.net/v/20220608220102261</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220608180441431"/>
         <updated>2022-06-08T13:43:19.112Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['베토벤 전곡 도전' 노부스 콰르텟.."에베레스트 오르는 기분"]]></title>
-        <id>https://v.daum.net/v/20220608180402416</id>
-        <link href="https://v.daum.net/v/20220608180402416"/>
-        <updated>2022-06-08T13:43:19.113Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
