@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-06-08T09:23:03.428Z</updated>
+    <updated>2022-06-08T10:26:12.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여우락 페스티벌, 야외공연까지 포함한 완전체로 돌아온다]]></title>
+        <id>https://v.daum.net/v/20220608174559813</id>
+        <link href="https://v.daum.net/v/20220608174559813"/>
+        <updated>2022-06-08T10:25:20.620Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['여우樂 페스티벌', EDM·음식·미디어아트와 확장·증폭·팽창]]></title>
+        <id>https://v.daum.net/v/20220608174448767</id>
+        <link href="https://v.daum.net/v/20220608174448767"/>
+        <updated>2022-06-08T10:25:20.622Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["쉼없이 춤춰도 웃어야 하는 희극, 연기력 키울 수 있어 더 매력적"]]></title>
         <id>https://v.daum.net/v/20220608173604498</id>
         <link href="https://v.daum.net/v/20220608173604498"/>
         <updated>2022-06-08T09:22:16.875Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거리두기 없이 돌아온 '여우락'.."올해는 무료 야외 공연도"]]></title>
-        <id>https://v.daum.net/v/20220608173235372</id>
-        <link href="https://v.daum.net/v/20220608173235372"/>
-        <updated>2022-06-08T09:22:16.880Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쇼팽으로 한국팬 만나는 리시에츠키 "밤의 분위기 나누고 싶어"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220608160153677"/>
         <updated>2022-06-08T08:30:45.691Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국국학진흥원, 세계기록유산 학생 영상제작 공모전]]></title>
-        <id>https://v.daum.net/v/20220608153229539</id>
-        <link href="https://v.daum.net/v/20220608153229539"/>
-        <updated>2022-06-08T08:30:45.700Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
