@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-08T17:31:20.588Z</updated>
+    <updated>2022-06-08T18:28:10.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['尹정부 게임 공약 후퇴'..게임 산업계 "적극적인 관심과 지원 필요해"]]></title>
+        <id>https://v.daum.net/v/20220608174814881</id>
+        <link href="https://v.daum.net/v/20220608174814881"/>
+        <updated>2022-06-08T18:27:41.066Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[백서읽기]메탈, 유럽으로 결제 서비스 넓힐까]]></title>
         <id>https://v.daum.net/v/20220608170707468</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220608152626281"/>
         <updated>2022-06-08T08:31:01.942Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]이통사 알뜰폰 ARPU, LG-KT-SK순..전반적 하락 추세]]></title>
-        <id>https://v.daum.net/v/20220608152406182</id>
-        <link href="https://v.daum.net/v/20220608152406182"/>
-        <updated>2022-06-08T08:31:01.945Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
