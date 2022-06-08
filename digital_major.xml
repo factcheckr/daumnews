@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-08T12:45:00.437Z</updated>
+    <updated>2022-06-08T13:44:10.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[백서읽기]메탈, 유럽으로 결제 서비스 넓힐까]]></title>
+        <id>https://v.daum.net/v/20220608170707468</id>
+        <link href="https://v.daum.net/v/20220608170707468"/>
+        <updated>2022-06-08T13:43:42.037Z</updated>
+        <content type="html"><![CDATA[비즈니스워치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[스페셜리포트]노동계 "이참에 임금피크제 폐지" 들썩..기업 "경영여건 악화" 털썩]]></title>
         <id>https://v.daum.net/v/20220608140108276</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220608152406182"/>
         <updated>2022-06-08T08:31:01.945Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['자체 개발 CPU' 시도하는 러시아, 실현 가능성은?]]></title>
-        <id>https://v.daum.net/v/20220608150316329</id>
-        <link href="https://v.daum.net/v/20220608150316329"/>
-        <updated>2022-06-08T07:22:39.624Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
