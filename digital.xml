@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-08T11:19:26.482Z</updated>
+    <updated>2022-06-08T12:45:00.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위정현 교수 "尹 대통령, 당선되자 게이머 잊는가"]]></title>
+        <id>https://v.daum.net/v/20220608211426547</id>
+        <link href="https://v.daum.net/v/20220608211426547"/>
+        <updated>2022-06-08T12:44:23.623Z</updated>
+        <content type="html"><![CDATA[게임톡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[IT애정남] 윈도에는 '유니버설 컨트롤' 같은 기능이 없나요?]]></title>
         <id>https://v.daum.net/v/20220608193000555</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220608170707468"/>
         <updated>2022-06-08T08:30:53.469Z</updated>
         <content type="html"><![CDATA[비즈니스워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스페셜리포트]노동계 "이참에 임금피크제 폐지" 들썩..기업 "경영여건 악화" 털썩]]></title>
-        <id>https://v.daum.net/v/20220608140108276</id>
-        <link href="https://v.daum.net/v/20220608140108276"/>
-        <updated>2022-06-08T08:30:53.471Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
