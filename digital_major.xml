@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-08T10:26:12.955Z</updated>
+    <updated>2022-06-08T11:19:26.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플이 9월부터 앱과 웹의 비밀번호 입력을 없앤다]]></title>
+        <id>https://v.daum.net/v/20220608164903547</id>
+        <link href="https://v.daum.net/v/20220608164903547"/>
+        <updated>2022-06-08T11:18:53.084Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미디어는 누가 챙기나..'미디어 콘트롤타워' 실종 [OTT온에어]]]></title>
         <id>https://v.daum.net/v/20220608164444355</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220608144500384"/>
         <updated>2022-06-08T07:22:39.629Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재용이 픽업한 세바스찬 승 "겁먹지 말라, AI는 인류 구할 무기"]]></title>
-        <id>https://v.daum.net/v/20220608143036621</id>
-        <link href="https://v.daum.net/v/20220608143036621"/>
-        <updated>2022-06-08T07:22:39.633Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
