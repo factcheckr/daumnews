@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-08T19:19:25.616Z</updated>
+    <updated>2022-06-08T20:24:03.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울대, 국내 대학 최초로 '톱 30′ 들었다]]></title>
+        <id>https://v.daum.net/v/20220609050139369</id>
+        <link href="https://v.daum.net/v/20220609050139369"/>
+        <updated>2022-06-08T20:23:25.596Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반도체에 'RE100' 암초.. 이대로면 수출 30% 줄어든다]]></title>
         <id>https://v.daum.net/v/20220609030111318</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220608182752095"/>
         <updated>2022-06-08T10:25:28.759Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['다크코인' 된 라이트코인, 국내 거래소서 결국 퇴출]]></title>
-        <id>https://v.daum.net/v/20220608175809184</id>
-        <link href="https://v.daum.net/v/20220608175809184"/>
-        <updated>2022-06-08T09:22:24.325Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
