@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-06-09T11:20:07.699Z</updated>
+    <updated>2022-06-09T12:51:18.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[광주 '학동 참사' 벌써 1년[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/EmbkoWLAWF</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/EmbkoWLAWF"/>
+        <updated>2022-06-09T12:50:53.140Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테헤란서 열린 한국어 말하기 대회]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5031013/EPZnwrVczB</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5014013/E84JtWWywP"/>
         <updated>2022-06-09T06:46:36.942Z</updated>
         <content type="html"><![CDATA['코로나19' 바이러스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전주 스트리트 재즈 페스티벌' 17일부터 3일간 개최]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1476/EgJjkY2Mye</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1476/EgJjkY2Mye"/>
-        <updated>2022-06-09T06:46:36.943Z</updated>
-        <content type="html"><![CDATA[미국은 지금]]></content>
     </entry>
 </feed>
