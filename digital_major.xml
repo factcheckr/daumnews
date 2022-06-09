@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-09T14:21:11.613Z</updated>
+    <updated>2022-06-09T15:23:27.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220609185143547"/>
         <updated>2022-06-09T10:27:45.421Z</updated>
         <content type="html"><![CDATA[대전일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지니뮤직도 구글 인앱결제 도입.."당장 요금 인상 없어"]]></title>
+        <id>https://v.daum.net/v/20220609180915585</id>
+        <link href="https://v.daum.net/v/20220609180915585"/>
+        <updated>2022-06-09T15:22:56.740Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["포털 알고리즘 편향? 개혁 입법 편향성이 개선 더 어렵게 해"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220609161607723"/>
         <updated>2022-06-09T08:31:26.885Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與, 상장 코인 리스크 따진다..루나 대책 본격화]]></title>
-        <id>https://v.daum.net/v/20220609154406302</id>
-        <link href="https://v.daum.net/v/20220609154406302"/>
-        <updated>2022-06-09T13:40:56.807Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
