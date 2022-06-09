@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-06-09T13:41:34.572Z</updated>
+    <updated>2022-06-09T14:21:11.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220609220647957"/>
         <updated>2022-06-09T13:40:02.536Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["이직은 환승처럼"..상사 모르게 채용 사이트 접속하는 직장인들]]></title>
+        <id>https://v.daum.net/v/20220609210304881</id>
+        <link href="https://v.daum.net/v/20220609210304881"/>
+        <updated>2022-06-09T14:19:57.225Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[광주글로벌모터스 '사회적 임금'실종..과제 산적]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220609200121922"/>
         <updated>2022-06-09T12:49:59.049Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[같이경제] 물가 상승률 13년 8개월 만에 최고..서민 생활 위기]]></title>
-        <id>https://v.daum.net/v/20220609195734834</id>
-        <link href="https://v.daum.net/v/20220609195734834"/>
-        <updated>2022-06-09T12:49:59.050Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

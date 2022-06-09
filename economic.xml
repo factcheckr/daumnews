@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-06-09T13:41:34.568Z</updated>
+    <updated>2022-06-09T14:21:11.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ECB마저 긴축의 칼 뺀다..11년만에 금리 인상 예고(종합)]]></title>
+        <id>https://v.daum.net/v/20220609230158494</id>
+        <link href="https://v.daum.net/v/20220609230158494"/>
+        <updated>2022-06-09T14:19:49.785Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국 실업수당 청구 23만건..작년 7월 이후 최대폭 증가]]></title>
         <id>https://v.daum.net/v/20220609221249016</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220609211101013"/>
         <updated>2022-06-09T12:49:50.476Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이직은 환승처럼"..상사 모르게 채용 사이트 접속하는 직장인들]]></title>
-        <id>https://v.daum.net/v/20220609210304881</id>
-        <link href="https://v.daum.net/v/20220609210304881"/>
-        <updated>2022-06-09T12:49:50.477Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
