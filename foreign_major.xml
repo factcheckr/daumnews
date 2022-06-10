@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-06-10T14:26:50.337Z</updated>
+    <updated>2022-06-10T15:26:44.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[17개월 만에 만난 미·중 국방, 대만·우크라 놓고 공방전]]></title>
-        <id>https://v.daum.net/v/20220610232250124</id>
-        <link href="https://v.daum.net/v/20220610232250124"/>
-        <updated>2022-06-10T14:25:46.326Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[유엔, 친러 DPR '사형 선고'에 우려 표명]]></title>
         <id>https://v.daum.net/v/20220610223350516</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220610212516901"/>
         <updated>2022-06-10T14:25:46.336Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나토 사무차장 "스웨덴·핀란드에 러 위협 징후 없어"]]></title>
+        <id>https://v.daum.net/v/20220610212226853</id>
+        <link href="https://v.daum.net/v/20220610212226853"/>
+        <updated>2022-06-10T15:25:33.622Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
