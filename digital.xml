@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-10T10:26:26.914Z</updated>
+    <updated>2022-06-10T11:21:06.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이종호 과기장관, 국무회의 이어 與의원들에게 반도체 특강]]></title>
+        <id>https://v.daum.net/v/20220610194232976</id>
+        <link href="https://v.daum.net/v/20220610194232976"/>
+        <updated>2022-06-10T11:20:20.925Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["애플 이제 어떡해"..'C타입' 충전 못박은 EU, '아이폰' 운명은]]></title>
         <id>https://v.daum.net/v/20220610174741832</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220610164010966"/>
         <updated>2022-06-10T08:27:37.597Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누리호 2차도전 준비 끝.. '우주대국' 꿈 싣고 15일 난다]]></title>
-        <id>https://v.daum.net/v/20220610163043723</id>
-        <link href="https://v.daum.net/v/20220610163043723"/>
-        <updated>2022-06-10T08:27:37.598Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
