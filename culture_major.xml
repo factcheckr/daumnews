@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-06-11T09:21:31.815Z</updated>
+    <updated>2022-06-11T10:24:41.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[37억 혈세 들인 생태통로가 열렸다 [고은경의 반려배려]]]></title>
+        <id>https://v.daum.net/v/20220611140004453</id>
+        <link href="https://v.daum.net/v/20220611140004453"/>
+        <updated>2022-06-11T10:23:46.617Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동시대 미술로서 조각의 의미는..중견·신진 작가들의 조각전]]></title>
         <id>https://v.daum.net/v/20220611131621018</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220611080512876"/>
         <updated>2022-06-11T03:22:35.869Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[분명 빨았는데 냄새가?..습한 요즘을 위한 빨래법 3]]></title>
-        <id>https://v.daum.net/v/20220611080203843</id>
-        <link href="https://v.daum.net/v/20220611080203843"/>
-        <updated>2022-06-11T03:22:35.872Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
     </entry>
 </feed>
