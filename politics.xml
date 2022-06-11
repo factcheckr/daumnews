@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2022-06-11T04:29:16.728Z</updated>
+    <updated>2022-06-11T05:21:11.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김정은 "강대강, 전면투쟁" 천명..남쪽 겨냥 '대적투쟁']]></title>
+        <id>https://v.daum.net/v/20220611133001153</id>
+        <link href="https://v.daum.net/v/20220611133001153"/>
+        <updated>2022-06-11T05:19:03.372Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['개딸' 사랑한다던 이재명은 왜 '선 그었나']]></title>
         <id>https://v.daum.net/v/20220611130018816</id>
@@ -20,20 +27,6 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[강민진 "정의당, 지도부는 정정 입장문 덮고 간부들 2차 가해"]]></title>
-        <id>https://v.daum.net/v/20220611122509592</id>
-        <link href="https://v.daum.net/v/20220611122509592"/>
-        <updated>2022-06-11T04:27:22.711Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[말 많은 '민들레'..與, 장제원 불참으로 '계파·분열' 논란 진정될까]]></title>
-        <id>https://v.daum.net/v/20220611123631656</id>
-        <link href="https://v.daum.net/v/20220611123631656"/>
-        <updated>2022-06-11T04:27:22.712Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[루나 대책 내주 발표..안철수 "거래소 공시 강화해야"]]></title>
         <id>https://v.daum.net/v/20220611115059263</id>
         <link href="https://v.daum.net/v/20220611115059263"/>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20220611113435139"/>
         <updated>2022-06-11T03:21:41.776Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["김정은, 핵방사포·핵야포만들 것"..尹정부 5년이 '핵 남침' 막을 골든타임]]></title>
+        <id>https://v.daum.net/v/20220611111023907</id>
+        <link href="https://v.daum.net/v/20220611111023907"/>
+        <updated>2022-06-11T05:19:03.378Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
