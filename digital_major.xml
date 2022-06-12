@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-12T14:23:06.473Z</updated>
+    <updated>2022-06-12T15:24:06.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[떠돌이 행성을 우주 교통수단으로? 꿈이 아니다]]></title>
+        <id>https://v.daum.net/v/20220612215111859</id>
+        <link href="https://v.daum.net/v/20220612215111859"/>
+        <updated>2022-06-12T15:23:31.961Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독거 노인 목숨 구한 인공지능..돌봄까지 '척척']]></title>
+        <id>https://v.daum.net/v/20220612214430791</id>
+        <link href="https://v.daum.net/v/20220612214430791"/>
+        <updated>2022-06-12T15:23:31.961Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["日 우주탐사 목표, 새로운 지식의 창조..실현 전략은 국제협력"]]></title>
         <id>https://v.daum.net/v/20220612200001708</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220612145115836"/>
         <updated>2022-06-12T09:22:33.382Z</updated>
         <content type="html"><![CDATA[대전일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 외자판호 닫힌지 1년..불확실성 속 다변화 활로 찾는 국내 게임]]></title>
-        <id>https://v.daum.net/v/20220612140115668</id>
-        <link href="https://v.daum.net/v/20220612140115668"/>
-        <updated>2022-06-12T09:22:33.382Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누리호 2차 발사, 1차 때와 무엇이 달라지나]]></title>
-        <id>https://v.daum.net/v/20220612134504349</id>
-        <link href="https://v.daum.net/v/20220612134504349"/>
-        <updated>2022-06-12T08:25:47.071Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>

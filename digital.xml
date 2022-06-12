@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-12T14:23:06.471Z</updated>
+    <updated>2022-06-12T15:24:06.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[500원 내고 OTT 하루만 보면 안 돼? '1일권 판매' 논란]]></title>
+        <id>https://v.daum.net/v/20220613000422821</id>
+        <link href="https://v.daum.net/v/20220613000422821"/>
+        <updated>2022-06-12T15:23:23.021Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["우리 못 믿나?" RTO 갈등 건드린 카카오 '메타버스 근무제']]></title>
+        <id>https://v.daum.net/v/20220613000404810</id>
+        <link href="https://v.daum.net/v/20220613000404810"/>
+        <updated>2022-06-12T15:23:23.022Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[논란의 '임금피크제', IT·게임 업계는 딴나라 이야기]]></title>
         <id>https://v.daum.net/v/20220612215320890</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220612215125861"/>
         <updated>2022-06-12T13:29:31.042Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[떠돌이 행성을 우주 교통수단으로? 꿈이 아니다]]></title>
-        <id>https://v.daum.net/v/20220612215111859</id>
-        <link href="https://v.daum.net/v/20220612215111859"/>
-        <updated>2022-06-12T13:29:31.043Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독거 노인 목숨 구한 인공지능..돌봄까지 '척척']]></title>
-        <id>https://v.daum.net/v/20220612214430791</id>
-        <link href="https://v.daum.net/v/20220612214430791"/>
-        <updated>2022-06-12T13:29:31.044Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
