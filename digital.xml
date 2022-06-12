@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-12T22:22:12.039Z</updated>
+    <updated>2022-06-12T23:22:31.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스타필드·오버워치2·디아블로4..베일 벗은 엑스박스 신작 게임]]></title>
+        <id>https://v.daum.net/v/20220613081843550</id>
+        <link href="https://v.daum.net/v/20220613081843550"/>
+        <updated>2022-06-12T23:21:44.620Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인공지능과 로봇, '노동의 종말'보다 '노동의 질 저하' 걱정해야]]></title>
+        <id>https://v.daum.net/v/20220613073506857</id>
+        <link href="https://v.daum.net/v/20220613073506857"/>
+        <updated>2022-06-12T23:21:44.621Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘 루나 대책 나온다.."거래소 상장·상폐 통일"]]></title>
         <id>https://v.daum.net/v/20220613071127589</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220613063030146"/>
         <updated>2022-06-12T22:21:30.684Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AI 2.0 시대③] AI강국의 선행조건..'빅데이터' 보단 '굿데이터']]></title>
-        <id>https://v.daum.net/v/20220613062030055</id>
-        <link href="https://v.daum.net/v/20220613062030055"/>
-        <updated>2022-06-12T22:21:30.684Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT 수수료 vs 캐시 아이템..'돈되는' 블록체인 게임, 누가 웃을까]]></title>
-        <id>https://v.daum.net/v/20220613061509989</id>
-        <link href="https://v.daum.net/v/20220613061509989"/>
-        <updated>2022-06-12T21:18:53.483Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
