@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-06-12T21:19:36.106Z</updated>
+    <updated>2022-06-12T22:22:12.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자기랑만 69m 스크린을 오붓하게]]></title>
+        <id>https://v.daum.net/v/20220613050805149</id>
+        <link href="https://v.daum.net/v/20220613050805149"/>
+        <updated>2022-06-12T22:21:22.982Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비평이란 미학적 언어의 모험..문학적 감동의 순간과 만나다[유성호 교수가 찾은 문학의 순간]]]></title>
         <id>https://v.daum.net/v/20220613050720143</id>
@@ -48,20 +55,6 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[산에서 찾은 한국적 추상..'색채의 화가' 유영국]]></title>
-        <id>https://v.daum.net/v/20220612214433792</id>
-        <link href="https://v.daum.net/v/20220612214433792"/>
-        <updated>2022-06-12T20:23:18.288Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['양치로는 부족' 잇몸병 환자 1,700만..치석 제거 필수]]></title>
-        <id>https://v.daum.net/v/20220612213842726</id>
-        <link href="https://v.daum.net/v/20220612213842726"/>
-        <updated>2022-06-12T20:23:18.289Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[제16회 DIMF, 3년 만에 '온전한 무대'로]]></title>
         <id>https://v.daum.net/v/20220612203532122</id>
         <link href="https://v.daum.net/v/20220612203532122"/>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220612203200090"/>
         <updated>2022-06-12T18:25:19.926Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[높진 않지만, 신비하고 편안한 청송 주왕산]]></title>
+        <id>https://v.daum.net/v/20220612202101951</id>
+        <link href="https://v.daum.net/v/20220612202101951"/>
+        <updated>2022-06-12T22:21:23.002Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
