@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-06-12T17:23:17.229Z</updated>
+    <updated>2022-06-12T18:26:06.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기와로 그린 바다]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/ECm4hUgzBE</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/ECm4hUgzBE"/>
+        <updated>2022-06-12T18:25:42.920Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여의도 물빛광장서 더위 식히는 어린이들]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1783949/E1JC4ZCQQ0</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5014013/EvAyMYdqPi"/>
         <updated>2022-06-12T02:05:25.894Z</updated>
         <content type="html"><![CDATA['코로나19' 바이러스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[복지 업무가 봉사 취미로..경기교육청 '꿀나눔 봉사단']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1504/EA3fqHKZQD</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1504/EA3fqHKZQD"/>
-        <updated>2022-06-12T02:05:25.895Z</updated>
-        <content type="html"><![CDATA[훈훈한 미담]]></content>
     </entry>
 </feed>
