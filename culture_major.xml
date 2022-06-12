@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-06-12T08:26:20.245Z</updated>
+    <updated>2022-06-12T09:23:08.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[요즘 국내외 미술판은 '여성천하']]></title>
+        <id>https://v.daum.net/v/20220612161001243</id>
+        <link href="https://v.daum.net/v/20220612161001243"/>
+        <updated>2022-06-12T09:22:15.932Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제주 '오늘이 제일 싼 기름값?'.. 계속 올라]]></title>
+        <id>https://v.daum.net/v/20220612152155574</id>
+        <link href="https://v.daum.net/v/20220612152155574"/>
+        <updated>2022-06-12T09:22:15.933Z</updated>
+        <content type="html"><![CDATA[JIBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["한국 민주주의 위기..비자유주의·포퓰리즘·양극화가 위협"]]></title>
         <id>https://v.daum.net/v/20220612151517440</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220612113102429"/>
         <updated>2022-06-12T05:19:50.092Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["소록도 갱생원·울릉도 독도, 세계유산 잠정목록 등재 가치"]]></title>
-        <id>https://v.daum.net/v/20220612101917276</id>
-        <link href="https://v.daum.net/v/20220612101917276"/>
-        <updated>2022-06-12T05:19:50.096Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[큰 당근, 작은 당근, 흰 당근.. 맛은 어떻게 다를까]]></title>
-        <id>https://v.daum.net/v/20220612100112007</id>
-        <link href="https://v.daum.net/v/20220612100112007"/>
-        <updated>2022-06-12T05:19:50.098Z</updated>
-        <content type="html"><![CDATA[신동아]]></content>
     </entry>
 </feed>
