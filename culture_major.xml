@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-06-12T12:36:04.966Z</updated>
+    <updated>2022-06-12T13:30:13.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유영국 유족 "아버지 작품은 모두의 것..미술관 위해 기증할 것"]]></title>
+        <id>https://v.daum.net/v/20220612171950328</id>
+        <link href="https://v.daum.net/v/20220612171950328"/>
+        <updated>2022-06-12T13:29:22.828Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["매일 새벽 고래 잡으러 붓을 듭니다"]]></title>
         <id>https://v.daum.net/v/20220612170301025</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220612140014633"/>
         <updated>2022-06-12T08:25:30.254Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성의 안부 따라 미술계 흐름도 바뀐다?]]></title>
-        <id>https://v.daum.net/v/20220612130202713</id>
-        <link href="https://v.daum.net/v/20220612130202713"/>
-        <updated>2022-06-12T06:27:44.780Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
     </entry>
 </feed>
