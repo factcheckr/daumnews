@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-13T04:00:38.626Z</updated>
+    <updated>2022-06-13T04:49:48.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[표준 전쟁중인 세계..韓통신 등 차세대 기술서 선두권[테크전쟁 선진국의 탄생]]]></title>
+        <id>https://v.daum.net/v/20220613113112928</id>
+        <link href="https://v.daum.net/v/20220613113112928"/>
+        <updated>2022-06-13T04:49:18.204Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남극 눈에서 미세플라스틱 첫 발견.."생태계 위협"]]></title>
         <id>https://v.daum.net/v/20220613110504584</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220613081843550"/>
         <updated>2022-06-13T02:06:25.910Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인공지능과 로봇, '노동의 종말'보다 '노동의 질 저하' 걱정해야]]></title>
-        <id>https://v.daum.net/v/20220613073506857</id>
-        <link href="https://v.daum.net/v/20220613073506857"/>
-        <updated>2022-06-13T02:06:25.912Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
