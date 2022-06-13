@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-13T09:25:07.992Z</updated>
+    <updated>2022-06-13T10:26:47.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영상] "'통한의 46초' 넘어 꼭 성공"..누리호 '심장' 개발자를 만나다]]></title>
+        <id>https://v.daum.net/v/20220613171931875</id>
+        <link href="https://v.daum.net/v/20220613171931875"/>
+        <updated>2022-06-13T10:26:16.882Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['안심구역'·'법정협회' 등 데이터 기본법 후속 조치 속도]]></title>
         <id>https://v.daum.net/v/20220613160128692</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220613160019606"/>
         <updated>2022-06-13T08:28:40.077Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누리호 발사 D-2.."날씨 변수 없을 듯"]]></title>
-        <id>https://v.daum.net/v/20220613155936539</id>
-        <link href="https://v.daum.net/v/20220613155936539"/>
-        <updated>2022-06-13T08:28:40.078Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
