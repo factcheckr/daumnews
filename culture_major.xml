@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-06-13T13:45:46.027Z</updated>
+    <updated>2022-06-13T14:22:14.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[소박하면서도 화사한.. 수묵화에 가려진 色을 찾다]]></title>
-        <id>https://v.daum.net/v/20220613192636931</id>
-        <link href="https://v.daum.net/v/20220613192636931"/>
-        <updated>2022-06-13T12:47:33.242Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[카드뉴스] 신라 왕궁에서 발견된 곰 흔적, 곰이 왜 거기서 나와?]]></title>
         <id>https://v.daum.net/v/20220613190755609</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220613160708968"/>
         <updated>2022-06-13T13:44:59.605Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 개항장 '이음 1977' 개관..건축가 김수근 설계]]></title>
+        <id>https://v.daum.net/v/20220613155304326</id>
+        <link href="https://v.daum.net/v/20220613155304326"/>
+        <updated>2022-06-13T14:21:30.509Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

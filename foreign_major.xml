@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-06-13T13:45:46.026Z</updated>
+    <updated>2022-06-13T14:22:14.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미 연방대법원, 이번에도 '총기 자유 확대' 판결 내놓나]]></title>
+        <id>https://v.daum.net/v/20220613215501639</id>
+        <link href="https://v.daum.net/v/20220613215501639"/>
+        <updated>2022-06-13T14:21:14.882Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고물가에 꺾인 기시다 지지율..일본인 58%는 "일본은행 총재, 그 자리 안 어울려"]]></title>
         <id>https://v.daum.net/v/20220613215301626</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220613205202999"/>
         <updated>2022-06-13T12:47:15.258Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라가 선적한 곡물, 폴란드 발틱해 항구 '루트'로 스페인에 도착]]></title>
-        <id>https://v.daum.net/v/20220613204808968</id>
-        <link href="https://v.daum.net/v/20220613204808968"/>
-        <updated>2022-06-13T12:47:15.259Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
