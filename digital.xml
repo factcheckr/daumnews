@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-13T14:22:14.464Z</updated>
+    <updated>2022-06-13T15:32:27.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이더리움, 파생상품 '뱅크런' 우려에 급락..일주일 전보다 36%↓]]></title>
+        <id>https://v.daum.net/v/20220613235438393</id>
+        <link href="https://v.daum.net/v/20220613235438393"/>
+        <updated>2022-06-13T15:31:45.122Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[14일 오전 '조립동 → 발사대' 이동 여부 최종 결정 [재도전 준비 마친 누리호]]]></title>
         <id>https://v.daum.net/v/20220613110913007</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220613202051689"/>
         <updated>2022-06-13T12:47:42.141Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누리호, 15일 발사 '비'로 순연되나]]></title>
-        <id>https://v.daum.net/v/20220613202004682</id>
-        <link href="https://v.daum.net/v/20220613202004682"/>
-        <updated>2022-06-13T12:47:42.144Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
