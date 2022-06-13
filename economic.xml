@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-06-13T15:32:27.192Z</updated>
+    <updated>2022-06-13T16:35:11.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바이든, 인플레로 정치적 궁지..지지율 속수무책 하락해 최저치]]></title>
+        <id>https://v.daum.net/v/20220614010500992</id>
+        <link href="https://v.daum.net/v/20220614010500992"/>
+        <updated>2022-06-13T16:33:38.379Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이더리움 두달새 60% 폭락..'코인 대출시장' 붕괴 경고등]]></title>
         <id>https://v.daum.net/v/20220614000452540</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220613223637969"/>
         <updated>2022-06-13T13:44:17.601Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[총수 일가 3·4세를 쫓아가 보자..그룹 '알짜' 계열사가 보인다]]></title>
-        <id>https://v.daum.net/v/20220613222328908</id>
-        <link href="https://v.daum.net/v/20220613222328908"/>
-        <updated>2022-06-13T13:44:17.602Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
