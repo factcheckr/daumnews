@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-06-13T10:26:47.108Z</updated>
+    <updated>2022-06-13T11:21:10.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사상 최저치로 떨어진 이란 리알화]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5031013/EuT5mO3Sfd</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5031013/EuT5mO3Sfd"/>
+        <updated>2022-06-13T11:20:47.668Z</updated>
+        <content type="html"><![CDATA[이란은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 5월 CPI에 얼어붙은 시장..공포는 불길처럼 옮겨 붙는다]]></title>
         <id>https://gallery.v.daum.net/p/viewer/318190/ERMhrSPXLO</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/346997/E1rkZq1wiE"/>
         <updated>2022-06-13T06:30:33.803Z</updated>
         <content type="html"><![CDATA[도로 위에 와르르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['코로나 2년' 학력 와르르..'기초 미달' 늘고 '보통' 감소]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5014013/E1rkZq1wiE</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5014013/E1rkZq1wiE"/>
-        <updated>2022-06-13T06:30:33.804Z</updated>
-        <content type="html"><![CDATA['코로나19' 바이러스]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-06-13T10:26:47.105Z</updated>
+    <updated>2022-06-13T11:21:10.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[또 '문신템 팔찌 2개' 찼다..김건희 손목위 '네잎클로버' 뭐길래]]></title>
+        <id>https://v.daum.net/v/20220613181810554</id>
+        <link href="https://v.daum.net/v/20220613181810554"/>
+        <updated>2022-06-13T11:20:25.371Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕 MoMA 작품까지.."세계 미술 트렌드 서울서 한눈에"]]></title>
         <id>https://v.daum.net/v/20220613172603105</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220613150106302"/>
         <updated>2022-06-13T07:22:34.539Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티빙·웨이브 등 토종OTT 발목잡던 모래주머니 풀린다]]></title>
-        <id>https://v.daum.net/v/20220613141649356</id>
-        <link href="https://v.daum.net/v/20220613141649356"/>
-        <updated>2022-06-13T07:22:34.541Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
