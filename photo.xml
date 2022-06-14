@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-06-14T09:25:31.678Z</updated>
+    <updated>2022-06-14T10:28:34.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권씨네 꿈꾸는 만물트럭]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/803559/EEhywYwkxq</id>
+        <link href="https://gallery.v.daum.net/p/viewer/803559/EEhywYwkxq"/>
+        <updated>2022-06-14T10:28:07.153Z</updated>
+        <content type="html"><![CDATA[앵글속 세상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인도 야권 지도자 라훌 간디 소환조사에 시위 나선 지지자들]]></title>
         <id>https://gallery.v.daum.net/p/viewer/2447/EVdwK21Nxz</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1473/EHTQIRADlL"/>
         <updated>2022-06-14T05:35:24.720Z</updated>
         <content type="html"><![CDATA[교통사고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[학생이 만든 센서 탑재한 나사의 금성 탐사선 다빈치]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1497/EDhXWw1N4y</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1497/EDhXWw1N4y"/>
-        <updated>2022-06-14T04:11:25.519Z</updated>
-        <content type="html"><![CDATA[우주의 신비]]></content>
     </entry>
 </feed>
