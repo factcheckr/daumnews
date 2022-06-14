@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-06-14T13:38:53.809Z</updated>
+    <updated>2022-06-14T14:21:33.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국발 물가 충격 후폭풍 이어져..안갯속 세계 증시]]></title>
+        <id>https://v.daum.net/v/20220614211809273</id>
+        <link href="https://v.daum.net/v/20220614211809273"/>
+        <updated>2022-06-14T14:20:06.327Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한시 연장? 지속 추진?..협상 문구에 달렸다]]></title>
         <id>https://v.daum.net/v/20220614211732255</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220614200906543"/>
         <updated>2022-06-14T12:41:43.210Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["금리 7% 시대"..하우스푸어 몰린 영끌족, 퇴로도 안보인다]]></title>
-        <id>https://v.daum.net/v/20220614200700498</id>
-        <link href="https://v.daum.net/v/20220614200700498"/>
-        <updated>2022-06-14T12:41:43.210Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
