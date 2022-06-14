@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-14T17:27:38.998Z</updated>
+    <updated>2022-06-14T19:20:28.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中 기업이 규제에 맞서는 법.. 사교육업체가 영어로 식자재 판매]]></title>
+        <id>https://v.daum.net/v/20220615030502162</id>
+        <link href="https://v.daum.net/v/20220615030502162"/>
+        <updated>2022-06-14T19:19:44.988Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누리호, 16분 7초의 우주 비행..5번의 고비 넘겨야]]></title>
         <id>https://v.daum.net/v/20220615021908865</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220614190025530"/>
         <updated>2022-06-14T10:27:49.868Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["접힌 주름 안보여!" ..또 유출된 갤럭시Z플립4, 의도된 마케팅?]]></title>
-        <id>https://v.daum.net/v/20220614190002499</id>
-        <link href="https://v.daum.net/v/20220614190002499"/>
-        <updated>2022-06-14T10:27:49.868Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
