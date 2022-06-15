@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-06-15T04:40:37.923Z</updated>
+    <updated>2022-06-15T05:26:01.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신라 토착신앙 성지에서 불교 기도처로..경주 '낭산' 특별전]]></title>
+        <id>https://v.daum.net/v/20220615112256120</id>
+        <link href="https://v.daum.net/v/20220615112256120"/>
+        <updated>2022-06-15T05:25:13.477Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팬데믹 딛고 다시 열린 '춤의 향연'..발레부터 탭댄스까지 '6월의 춤판']]></title>
         <id>https://v.daum.net/v/20220615110948464</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220615043031396"/>
         <updated>2022-06-15T02:01:35.933Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사가 기록화' 찾아 20년.. "무슨 그림인지 모를땐 묘지문도 뒤졌죠"]]></title>
-        <id>https://v.daum.net/v/20220615090526098</id>
-        <link href="https://v.daum.net/v/20220615090526098"/>
-        <updated>2022-06-15T02:01:35.935Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
 </feed>
