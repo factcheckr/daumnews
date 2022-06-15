@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-06-15T16:31:51.271Z</updated>
+    <updated>2022-06-15T17:24:59.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[눈만 보면 안다.. 7가지 질환 감별법]]></title>
-        <id>https://v.daum.net/v/20220616010018664</id>
-        <link href="https://v.daum.net/v/20220616010018664"/>
-        <updated>2022-06-15T16:30:55.414Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[국립극장에 강원도산 ' 범 내려온다']]></title>
         <id>https://v.daum.net/v/20220616001124507</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20220615210402454"/>
         <updated>2022-06-15T12:43:22.459Z</updated>
         <content type="html"><![CDATA[대구MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 밤사이 곳곳 강한 비..내일 오전부터 차차 그쳐]]></title>
+        <id>https://v.daum.net/v/20220615210109396</id>
+        <link href="https://v.daum.net/v/20220615210109396"/>
+        <updated>2022-06-15T17:23:58.149Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
