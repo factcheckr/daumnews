@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-15T10:27:53.804Z</updated>
+    <updated>2022-06-15T11:21:31.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어제는 바람, 이번에는 전기체계 문제..누리호 발사 늦어진다]]></title>
+        <id>https://v.daum.net/v/20220615185104892</id>
+        <link href="https://v.daum.net/v/20220615185104892"/>
+        <updated>2022-06-15T11:20:56.215Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[일문일답]고정환 항우연 본부장 "내일 누리호 발사 불가..뜯어봐야 안다"]]></title>
         <id>https://v.daum.net/v/20220615184305737</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220615175806464"/>
         <updated>2022-06-15T09:23:59.629Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["1건당 6만원 받았다?" 토스, 깜짝 놀랄 개인정보 '장사' 알고보니]]></title>
-        <id>https://v.daum.net/v/20220615175102168</id>
-        <link href="https://v.daum.net/v/20220615175102168"/>
-        <updated>2022-06-15T09:23:59.631Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
