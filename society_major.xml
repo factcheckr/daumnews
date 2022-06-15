@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2022-06-15T18:27:39.260Z</updated>
+    <updated>2022-06-15T19:20:39.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -17,6 +17,20 @@
         <id>https://v.daum.net/v/20220616030703319</id>
         <link href="https://v.daum.net/v/20220616030703319"/>
         <updated>2022-06-15T18:25:34.073Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["그 시절 '우각로' 골목에선.." 숭의동 109번지로 떠나는 추억 여행]]></title>
+        <id>https://v.daum.net/v/20220616030617282</id>
+        <link href="https://v.daum.net/v/20220616030617282"/>
+        <updated>2022-06-15T19:18:20.356Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["태풍 진로 정확도, 처음으로 美·日 제쳤어요"]]></title>
+        <id>https://v.daum.net/v/20220616030545263</id>
+        <link href="https://v.daum.net/v/20220616030545263"/>
+        <updated>2022-06-15T19:18:20.357Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220616030212107"/>
         <updated>2022-06-15T18:25:34.086Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["교육부 학업성취도평가에 부산 모든 학교 참여시킬 것"]]></title>
-        <id>https://v.daum.net/v/20220616030207103</id>
-        <link href="https://v.daum.net/v/20220616030207103"/>
-        <updated>2022-06-15T18:25:34.087Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연금 건전성' 15계단 떨어져 50위.. 개혁 논의는 제자리]]></title>
-        <id>https://v.daum.net/v/20220616030154087</id>
-        <link href="https://v.daum.net/v/20220616030154087"/>
-        <updated>2022-06-15T18:25:34.088Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>

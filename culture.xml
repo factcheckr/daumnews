@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-06-15T18:27:39.255Z</updated>
+    <updated>2022-06-15T19:20:39.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몰입형 미디어 아트로 클림트를 만나다..빛의 시어터]]></title>
+        <id>https://v.daum.net/v/20220616033049422</id>
+        <link href="https://v.daum.net/v/20220616033049422"/>
+        <updated>2022-06-15T19:19:35.499Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[덕수궁 연못에 프랑스 연꽃이]]></title>
         <id>https://v.daum.net/v/20220616030919367</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220616001122506"/>
         <updated>2022-06-15T15:24:40.422Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[심층인터뷰] BTS '잠시 쉼표'..배경은?]]></title>
-        <id>https://v.daum.net/v/20220616000644417</id>
-        <link href="https://v.daum.net/v/20220616000644417"/>
-        <updated>2022-06-15T15:24:40.423Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
