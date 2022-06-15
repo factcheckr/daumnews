@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-06-15T13:40:59.989Z</updated>
+    <updated>2022-06-15T14:21:20.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 5월 소매판매 0.3%↓..인플레 속 5개월만에 첫 감소]]></title>
+        <id>https://v.daum.net/v/20220615223729780</id>
+        <link href="https://v.daum.net/v/20220615223729780"/>
+        <updated>2022-06-15T14:19:56.855Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 빅테크 기업들의 '신의 한 수'?  아마존 이어 구글·테슬라 주식 쪼갠다]]></title>
         <id>https://v.daum.net/v/20220615220316463</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220615215038208"/>
         <updated>2022-06-15T13:39:39.848Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제 월세는 세입자 선택..자의일까? 타의일까?]]></title>
-        <id>https://v.daum.net/v/20220615214708138</id>
-        <link href="https://v.daum.net/v/20220615214708138"/>
-        <updated>2022-06-15T13:39:39.849Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
