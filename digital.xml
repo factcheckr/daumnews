@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-15T19:20:39.670Z</updated>
+    <updated>2022-06-15T20:24:48.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가전·IT, 쌓이는 재고에..잠 못드는 부품업계]]></title>
+        <id>https://v.daum.net/v/20220616050102932</id>
+        <link href="https://v.daum.net/v/20220616050102932"/>
+        <updated>2022-06-15T20:24:01.879Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개발자·협력사 1만6000명, 콘서트 같은 시스코 설명회]]></title>
         <id>https://v.daum.net/v/20220616030455244</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220615210816555"/>
         <updated>2022-06-15T12:43:38.170Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["유상제공이 원칙"vs"처음부터 무정산"..SKB-넷플 법정공방]]></title>
-        <id>https://v.daum.net/v/20220615194842103</id>
-        <link href="https://v.daum.net/v/20220615194842103"/>
-        <updated>2022-06-15T11:20:48.372Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
