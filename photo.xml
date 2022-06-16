@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-06-16T17:27:48.865Z</updated>
+    <updated>2022-06-16T18:30:24.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[생각하는 사람]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/E8tu8ud8UP</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/E8tu8ud8UP"/>
+        <updated>2022-06-16T18:29:57.326Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10장의 사진으로 보는 한 주]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1476/EZwf1d7UAj</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5031017/EzuKZaVM8P"/>
         <updated>2022-06-16T07:21:51.362Z</updated>
         <content type="html"><![CDATA[남아공은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국에는 왜 슈퍼문이 없을까? [청계천 옆 사진관]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/344179/EbN8oAlKxm</id>
-        <link href="https://gallery.v.daum.net/p/viewer/344179/EbN8oAlKxm"/>
-        <updated>2022-06-16T07:21:51.363Z</updated>
-        <content type="html"><![CDATA[청계천 옆 사진관]]></content>
     </entry>
 </feed>
