@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-06-16T18:30:24.764Z</updated>
+    <updated>2022-06-16T19:19:16.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신장암, 담배 피우는 당신 가장 위험합니다 [Weekend 헬스]]]></title>
+        <id>https://v.daum.net/v/20220617040010434</id>
+        <link href="https://v.daum.net/v/20220617040010434"/>
+        <updated>2022-06-16T19:17:46.878Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[창문 열고 아이랑 같이 10분 정도 햇볕 쫴보세요]]></title>
         <id>https://v.daum.net/v/20220617030156097</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220617000059221"/>
         <updated>2022-06-16T15:23:00.405Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국중박'부터 '국현미'까지.. 이건희 컬렉션 6번 봤습니다]]></title>
-        <id>https://v.daum.net/v/20220616211800650</id>
-        <link href="https://v.daum.net/v/20220616211800650"/>
-        <updated>2022-06-16T12:43:28.584Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
