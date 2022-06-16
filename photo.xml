@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-06-16T14:22:24.182Z</updated>
+    <updated>2022-06-16T15:24:00.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10장의 사진으로 보는 한 주]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1476/EZwf1d7UAj</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1476/EZwf1d7UAj"/>
+        <updated>2022-06-16T15:23:36.169Z</updated>
+        <content type="html"><![CDATA[미국은 지금]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10장의 사진으로 보는 한 주]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032335/EZwf1d7UAj</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032335/EZwf1d7UAj"/>
+        <updated>2022-06-16T15:23:36.175Z</updated>
+        <content type="html"><![CDATA[멕시코는 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["전세버스 기사도 코로나 보상금 달라"[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/EbbPsBSsSP</id>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5032123/Ev9Ji6RZwd"/>
         <updated>2022-06-16T07:21:51.364Z</updated>
         <content type="html"><![CDATA[뉴질랜드는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자율주행 배달 로봇 뉴비]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/2328/E2C2UwWJQI</id>
-        <link href="https://gallery.v.daum.net/p/viewer/2328/E2C2UwWJQI"/>
-        <updated>2022-06-16T06:33:17.223Z</updated>
-        <content type="html"><![CDATA[로봇의 세계]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기 고양시 식품 공장서 불..'인명 피해 없어']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1518/EhNc2oYNFl</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1518/EhNc2oYNFl"/>
-        <updated>2022-06-16T06:33:17.225Z</updated>
-        <content type="html"><![CDATA[전국 화재사고]]></content>
     </entry>
 </feed>
