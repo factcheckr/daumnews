@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-06-17T12:48:49.506Z</updated>
+    <updated>2022-06-17T13:42:20.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[여행소식] 태국관광청장 "타이랜드 패스 다음달 폐지..태국 오세요"]]></title>
+        <id>https://v.daum.net/v/20220617180106368</id>
+        <link href="https://v.daum.net/v/20220617180106368"/>
+        <updated>2022-06-17T13:41:34.303Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문화재위원들 "청와대 활용방안 논의 전 철저한 연구·조사 필요"]]></title>
         <id>https://v.daum.net/v/20220617173413542</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220617125104001"/>
         <updated>2022-06-17T05:22:43.453Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 한 편 '1만5000원 시대'.. 4인가족 극장 나들이 10만원 들어]]></title>
-        <id>https://v.daum.net/v/20220617120546170</id>
-        <link href="https://v.daum.net/v/20220617120546170"/>
-        <updated>2022-06-17T03:29:07.723Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
 </feed>
