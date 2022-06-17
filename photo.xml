@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-06-17T18:29:07.445Z</updated>
+    <updated>2022-06-17T19:20:26.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더워도 분수는 무서워]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/EpPUWcCa2O</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/EpPUWcCa2O"/>
+        <updated>2022-06-17T19:19:50.971Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['물레방아 메뉴판']]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/EFRyGYOPD9</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1397984/Eu6b5G7bqP"/>
         <updated>2022-06-17T07:21:52.382Z</updated>
         <content type="html"><![CDATA[퇴근길 한 컷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국가유공자 및 보훈 가족 초청 오찬 가진 윤석열 대통령 내외 [뉴시스Pic]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5018824/EiPzifA53k</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5018824/EiPzifA53k"/>
-        <updated>2022-06-17T06:30:43.661Z</updated>
-        <content type="html"><![CDATA[뉴시스Pic]]></content>
     </entry>
 </feed>
