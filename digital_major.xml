@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-18T08:27:56.080Z</updated>
+    <updated>2022-06-18T09:21:15.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도쿄 워케이션부터 격주 놀금제까지..파격 근무제 도입하는 네·카]]></title>
+        <id>https://v.daum.net/v/20220618100114139</id>
+        <link href="https://v.daum.net/v/20220618100114139"/>
+        <updated>2022-06-18T09:20:39.392Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빠르게 식는 '디아블로 열풍'..전세계 주요 시장서 모두 5위권 밖으로]]></title>
         <id>https://v.daum.net/v/20220618095005929</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220618070003446"/>
         <updated>2022-06-18T08:27:22.978Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티맵, 동반위 권고 비틀어 '실질적' 콜대리시장 진출?]]></title>
-        <id>https://v.daum.net/v/20220618063801328</id>
-        <link href="https://v.daum.net/v/20220618063801328"/>
-        <updated>2022-06-18T08:27:22.979Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>

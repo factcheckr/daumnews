@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-18T08:27:56.081Z</updated>
+    <updated>2022-06-18T09:21:15.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["손쉽게 월 20만원 번다" 쏠쏠한 용돈벌이, 조롱받던 이거였어?]]></title>
+        <id>https://v.daum.net/v/20220618165056422</id>
+        <link href="https://v.daum.net/v/20220618165056422"/>
+        <updated>2022-06-18T09:20:31.467Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['도쿄서 원격 근무' '주 4.5일제'..네이버·카카오 직원들 좋겠네]]></title>
         <id>https://v.daum.net/v/20220618170102675</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220618101550348"/>
         <updated>2022-06-18T08:27:15.072Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도쿄 워케이션부터 격주 놀금제까지..파격 근무제 도입하는 네·카]]></title>
-        <id>https://v.daum.net/v/20220618100114139</id>
-        <link href="https://v.daum.net/v/20220618100114139"/>
-        <updated>2022-06-18T08:27:15.073Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
