@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-06-18T05:20:15.195Z</updated>
+    <updated>2022-06-18T06:27:00.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[카드뉴스] 신라 시대엔 가축을 어떻게 키웠을까?]]></title>
+        <id>https://v.daum.net/v/20220618104405655</id>
+        <link href="https://v.daum.net/v/20220618104405655"/>
+        <updated>2022-06-18T06:26:06.054Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강릉서 2022년 첫 열대야.. 경북권에는 폭염주의보 발효]]></title>
         <id>https://v.daum.net/v/20220618101903381</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220618040016396"/>
         <updated>2022-06-17T21:19:55.620Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천년을 덖은 차향기.. 고승들 마음까지 살랑살랑]]></title>
-        <id>https://v.daum.net/v/20220618030216236</id>
-        <link href="https://v.daum.net/v/20220618030216236"/>
-        <updated>2022-06-17T20:22:30.181Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>

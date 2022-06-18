@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-06-18T05:20:14.962Z</updated>
+    <updated>2022-06-18T06:27:00.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[곡물가 급등..유채씨앗으로 식용유 생산]]></title>
+        <id>https://v.daum.net/v/20220618135328222</id>
+        <link href="https://v.daum.net/v/20220618135328222"/>
+        <updated>2022-06-18T06:25:31.022Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글로벌 해운 운임, 4주간 상승세 마감.."박스권 유지"]]></title>
+        <id>https://v.daum.net/v/20220618135009210</id>
+        <link href="https://v.daum.net/v/20220618135009210"/>
+        <updated>2022-06-18T06:25:31.022Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[둔촌주공 사업비 대출 연장 불가..조합원당 1억씩 갚아야]]></title>
         <id>https://v.daum.net/v/20220618132401033</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220618120017446"/>
         <updated>2022-06-18T04:29:24.652Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2000원 미만 휘발유 없나? 전국 3곳뿐..최고가는 2997원]]></title>
-        <id>https://v.daum.net/v/20220618113838277</id>
-        <link href="https://v.daum.net/v/20220618113838277"/>
-        <updated>2022-06-18T04:29:24.653Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['경제 전쟁' 시작..규제개선·부동산·유류세·인구대책 줄줄이 나온다]]></title>
-        <id>https://v.daum.net/v/20220618113202221</id>
-        <link href="https://v.daum.net/v/20220618113202221"/>
-        <updated>2022-06-18T04:29:24.653Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
