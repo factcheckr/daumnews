@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-19T08:26:30.646Z</updated>
+    <updated>2022-06-19T09:22:22.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[결함 보완 누리호 '21일 우주로'..1·2단 분리 없이 전기 부품 교체 완료]]></title>
+        <id>https://v.daum.net/v/20220619174426162</id>
+        <link href="https://v.daum.net/v/20220619174426162"/>
+        <updated>2022-06-19T09:21:39.662Z</updated>
+        <content type="html"><![CDATA[대전일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1년 반만에 2만달러 무너진 비트코인..'디파이 리스크' 커졌다]]></title>
+        <id>https://v.daum.net/v/20220619174110030</id>
+        <link href="https://v.daum.net/v/20220619174110030"/>
+        <updated>2022-06-19T09:21:39.663Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국 5세 미만 코로나19 백신 접종 눈앞..효능 논란에 얼마나 접종할지 '미지수']]></title>
         <id>https://v.daum.net/v/20220619171012387</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220619161959638"/>
         <updated>2022-06-19T08:25:49.561Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결함 보완한 누리호, 모레 우주로..장마는 변수]]></title>
-        <id>https://v.daum.net/v/20220619161615598</id>
-        <link href="https://v.daum.net/v/20220619161615598"/>
-        <updated>2022-06-19T08:25:49.562Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 연구팀 "외계신호 포착"주장에..천문학자들 "인간이 만든 무선신호 오인한 것"]]></title>
-        <id>https://v.daum.net/v/20220619154013095</id>
-        <link href="https://v.daum.net/v/20220619154013095"/>
-        <updated>2022-06-19T07:20:24.769Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
