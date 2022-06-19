@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-06-19T13:29:25.579Z</updated>
+    <updated>2022-06-19T14:20:04.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['괴물 신인'의 피아니즘, 세계를 놀라게 하다]]></title>
+        <id>https://v.daum.net/v/20220619200752357</id>
+        <link href="https://v.daum.net/v/20220619200752357"/>
+        <updated>2022-06-19T14:19:16.276Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우크라이나에 드리운 감염병의 그림자..'콜레라'는 무엇?[약통팔달]]]></title>
         <id>https://v.daum.net/v/20220619181536921</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220619133916746"/>
         <updated>2022-06-19T08:25:41.726Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["임윤찬, 음악에 열정 불사르는 순수 소년..내면도 강해"]]></title>
-        <id>https://v.daum.net/v/20220619133112616</id>
-        <link href="https://v.daum.net/v/20220619133112616"/>
-        <updated>2022-06-19T13:28:32.516Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
