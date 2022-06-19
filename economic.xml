@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-06-19T18:25:56.835Z</updated>
+    <updated>2022-06-19T19:19:21.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올해도 金수박.. "들었다 놨어요"]]></title>
+        <id>https://v.daum.net/v/20220620040818081</id>
+        <link href="https://v.daum.net/v/20220620040818081"/>
+        <updated>2022-06-19T19:17:24.830Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이자 무서워".. 2억 내린 잠실 급매물도 안팔려]]></title>
         <id>https://v.daum.net/v/20220620030611900</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220620030411837"/>
         <updated>2022-06-19T18:24:24.842Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔데믹 시대 갈 길 먼 부산관광]]></title>
-        <id>https://v.daum.net/v/20220620030405830</id>
-        <link href="https://v.daum.net/v/20220620030405830"/>
-        <updated>2022-06-19T18:24:24.843Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
     </entry>
 </feed>
