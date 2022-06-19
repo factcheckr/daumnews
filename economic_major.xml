@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-06-19T15:23:08.199Z</updated>
+    <updated>2022-06-19T16:29:43.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220620001039197"/>
         <updated>2022-06-19T15:21:37.798Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빚잔치 앞둔 둔촌주공, 소송전 가면 '연이율 12%' 폭탄 맞는다]]></title>
+        <id>https://v.daum.net/v/20220619233249882</id>
+        <link href="https://v.daum.net/v/20220619233249882"/>
+        <updated>2022-06-19T16:28:25.102Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[확산하는 경기 침체 공포, '자산의 역습' 불러왔다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220619213530777"/>
         <updated>2022-06-19T14:18:43.254Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[득템한 줄 알았는데 백화점보다 비싸..면세점의 배신, 무슨일]]></title>
-        <id>https://v.daum.net/v/20220619213050716</id>
-        <link href="https://v.daum.net/v/20220619213050716"/>
-        <updated>2022-06-19T14:18:43.266Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
