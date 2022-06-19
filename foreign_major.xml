@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-06-19T16:29:43.072Z</updated>
+    <updated>2022-06-19T17:21:22.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국·유럽이 끓는다.. 폭염과 에너지대란 만나 '지구촌 블랙아웃' 우려]]></title>
+        <id>https://v.daum.net/v/20220620001003165</id>
+        <link href="https://v.daum.net/v/20220620001003165"/>
+        <updated>2022-06-19T17:20:11.735Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프랑스·스페인 벌써 43도..미국 열돔에 1억명 폭염 고통]]></title>
+        <id>https://v.daum.net/v/20220620000314091</id>
+        <link href="https://v.daum.net/v/20220620000314091"/>
+        <updated>2022-06-19T17:20:11.737Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폐허에도 꽃핀 예술.. 오데사 극장, 115일만 공연 재개]]></title>
         <id>https://v.daum.net/v/20220619235953992</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220619225434622"/>
         <updated>2022-06-19T15:21:54.911Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대만 코로나 신규 5만636명·총 329만5076명..172명 숨져]]></title>
-        <id>https://v.daum.net/v/20220619224812558</id>
-        <link href="https://v.daum.net/v/20220619224812558"/>
-        <updated>2022-06-19T14:18:59.564Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구로다 日銀총재의 불안한 뚝심..세계 추세와 거꾸로 '돈풀기' 고집]]></title>
-        <id>https://v.daum.net/v/20220619224725553</id>
-        <link href="https://v.daum.net/v/20220619224725553"/>
-        <updated>2022-06-19T14:18:59.565Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
