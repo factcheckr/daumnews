@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-19T09:22:22.855Z</updated>
+    <updated>2022-06-19T10:24:04.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누리호, 다시 우주 갈 채비..20일 발사대로 이송]]></title>
+        <id>https://v.daum.net/v/20220619190406998</id>
+        <link href="https://v.daum.net/v/20220619190406998"/>
+        <updated>2022-06-19T10:23:24.243Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[결함 보완 누리호 '21일 우주로'..1·2단 분리 없이 전기 부품 교체 완료]]></title>
         <id>https://v.daum.net/v/20220619174426162</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220619163052770"/>
         <updated>2022-06-19T08:25:49.560Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주식량 '배양육'을 아시나요? [우리가 몰랐던 과학 이야기] (248)]]></title>
-        <id>https://v.daum.net/v/20220619161959638</id>
-        <link href="https://v.daum.net/v/20220619161959638"/>
-        <updated>2022-06-19T08:25:49.561Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
