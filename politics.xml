@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2022-06-20T16:36:10.415Z</updated>
+    <updated>2022-06-20T17:28:25.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한상혁 방통위원장 사퇴 압박 논란, 과거 판례는 어땠나]]></title>
+        <id>https://v.daum.net/v/20220621013320880</id>
+        <link href="https://v.daum.net/v/20220621013320880"/>
+        <updated>2022-06-20T17:26:22.601Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北 '보리장마'에 때 이른 장마까지..7차 핵실험·식량난 변수?]]></title>
         <id>https://v.daum.net/v/20220621004016664</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220621000256367"/>
         <updated>2022-06-20T15:22:46.583Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경제난·지도부 갈등..국민의힘 '내우외환' 위기]]></title>
-        <id>https://v.daum.net/v/20220621000021317</id>
-        <link href="https://v.daum.net/v/20220621000021317"/>
-        <updated>2022-06-20T15:22:46.583Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
