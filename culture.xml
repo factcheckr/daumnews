@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-06-20T14:20:51.960Z</updated>
+    <updated>2022-06-20T15:24:21.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 날씨] 누리호 발사 예정..기상 상황 '양호']]></title>
+        <id>https://v.daum.net/v/20220621000035328</id>
+        <link href="https://v.daum.net/v/20220621000035328"/>
+        <updated>2022-06-20T15:23:31.590Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[120cm 높이서 바라본 세상..'낮은 사진전' 개막]]></title>
         <id>https://v.daum.net/v/20220620210843959</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220620200705212"/>
         <updated>2022-06-20T11:18:58.040Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변상욱, '뉴있저' 하차 2달만에 TBS로 복귀]]></title>
-        <id>https://v.daum.net/v/20220620180532045</id>
-        <link href="https://v.daum.net/v/20220620180532045"/>
-        <updated>2022-06-20T13:42:25.137Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
