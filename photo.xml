@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-06-20T10:28:04.476Z</updated>
+    <updated>2022-06-20T11:19:52.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브라질 상파울루 '게이 프라이드 퍼레이드' 참가자]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5031175/Ej7HevBOmc</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5031175/Ej7HevBOmc"/>
+        <updated>2022-06-20T11:19:27.221Z</updated>
+        <content type="html"><![CDATA[브라질은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["한국에 묻히고 싶다" 캐나다 6·25 참전용사 유해 봉환식]]></title>
         <id>https://gallery.v.daum.net/p/viewer/31583/Eu1idjYEOq</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5030473/EXW1DWqbla"/>
         <updated>2022-06-20T06:31:09.948Z</updated>
         <content type="html"><![CDATA[홍콩은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어산지 석방하라' 구호 적힌 시드니 거리]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033350/E3rUKRq1N4</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033350/E3rUKRq1N4"/>
-        <updated>2022-06-20T06:31:09.948Z</updated>
-        <content type="html"><![CDATA[호주는 지금]]></content>
     </entry>
 </feed>

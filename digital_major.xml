@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-20T10:28:04.465Z</updated>
+    <updated>2022-06-20T11:19:52.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강풍·부품결함 딛고 선 누리호.. 우주강국 꿈 재도전]]></title>
+        <id>https://v.daum.net/v/20220620180533047</id>
+        <link href="https://v.daum.net/v/20220620180533047"/>
+        <updated>2022-06-20T11:19:19.724Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스마트팜 기술 1세대에 머물러 있는데..R&D 예산은 오히려 줄어]]></title>
         <id>https://v.daum.net/v/20220620180309959</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220620171032964"/>
         <updated>2022-06-20T09:23:23.954Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['앞뒤 다른 해명' 유틸렉스, 쪼개기 상장 무리수 지적]]></title>
-        <id>https://v.daum.net/v/20220620170823875</id>
-        <link href="https://v.daum.net/v/20220620170823875"/>
-        <updated>2022-06-20T08:32:45.917Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

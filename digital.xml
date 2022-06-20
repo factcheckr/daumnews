@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-20T10:28:04.477Z</updated>
+    <updated>2022-06-20T11:19:52.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['입는 컴퓨터' 전자섬유 반도체 신기술 개발]]></title>
+        <id>https://v.daum.net/v/20220620195626056</id>
+        <link href="https://v.daum.net/v/20220620195626056"/>
+        <updated>2022-06-20T11:19:12.546Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누리호 2차 발사 D-1.."점검 과정 문제없어"]]></title>
         <id>https://v.daum.net/v/20220620191858493</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220620181643379"/>
         <updated>2022-06-20T09:23:15.252Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강풍·부품결함 딛고 선 누리호.. 우주강국 꿈 재도전]]></title>
-        <id>https://v.daum.net/v/20220620180533047</id>
-        <link href="https://v.daum.net/v/20220620180533047"/>
-        <updated>2022-06-20T09:23:15.255Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
