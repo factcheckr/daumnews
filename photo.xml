@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-06-20T18:29:46.943Z</updated>
+    <updated>2022-06-20T19:18:14.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단비가 필요해]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/Ek3JWA7kIO</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/Ek3JWA7kIO"/>
+        <updated>2022-06-20T19:17:47.444Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[치솟는 기름값에.. 최저가 주유소도 2000원 훌쩍]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5035080/EcWyCUJY00</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1796869/EMVPioLwNy"/>
         <updated>2022-06-20T08:32:53.898Z</updated>
         <content type="html"><![CDATA[파키스탄은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내일도 폭염 계속.. 낮 최고 32~34도]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/111971/EePfVTELC7</id>
-        <link href="https://gallery.v.daum.net/p/viewer/111971/EePfVTELC7"/>
-        <updated>2022-06-20T08:32:53.917Z</updated>
-        <content type="html"><![CDATA[무더운 한반도]]></content>
     </entry>
 </feed>

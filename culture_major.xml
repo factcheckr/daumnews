@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-06-20T18:29:46.944Z</updated>
+    <updated>2022-06-20T19:18:14.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유튜브 광고에도 한류 바람..톱 10에 세 편 진입]]></title>
+        <id>https://v.daum.net/v/20220621020816003</id>
+        <link href="https://v.daum.net/v/20220621020816003"/>
+        <updated>2022-06-20T19:17:22.367Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['테라코타 대모' 한애규, 다시 이끌고 온 '풍만 여인들']]></title>
         <id>https://v.daum.net/v/20220621010110720</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220620180309958"/>
         <updated>2022-06-20T12:48:25.588Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강원 올여름 첫 폭염주의보..정선 33.5도, 영월 33도]]></title>
-        <id>https://v.daum.net/v/20220620173842144</id>
-        <link href="https://v.daum.net/v/20220620173842144"/>
-        <updated>2022-06-20T12:48:25.590Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
