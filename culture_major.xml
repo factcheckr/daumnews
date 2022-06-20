@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-06-20T04:34:13.444Z</updated>
+    <updated>2022-06-20T05:22:11.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구슬조각 '오토니엘 마법'에 빠진 덕수궁·서울시립미술관]]></title>
+        <id>https://v.daum.net/v/20220620113433282</id>
+        <link href="https://v.daum.net/v/20220620113433282"/>
+        <updated>2022-06-20T05:21:19.427Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中 쇼핑축제 '대목'도 죽쑨 K뷰티..中브랜드에 순위 내줬다]]></title>
         <id>https://v.daum.net/v/20220620104735537</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220620095339101"/>
         <updated>2022-06-20T01:58:56.131Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유니크 베뉴?.. '이색 지역 명소' 어때요]]></title>
-        <id>https://v.daum.net/v/20220620092033714</id>
-        <link href="https://v.daum.net/v/20220620092033714"/>
-        <updated>2022-06-20T01:58:56.132Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
 </feed>
