@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-20T13:43:25.665Z</updated>
+    <updated>2022-06-20T14:20:51.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ICT 공공기관 4곳 경영평가 양호 점수]]></title>
+        <id>https://v.daum.net/v/20220620230916033</id>
+        <link href="https://v.daum.net/v/20220620230916033"/>
+        <updated>2022-06-20T14:20:12.192Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[필리핀, 한국인 대상 범죄 기승]]></title>
         <id>https://v.daum.net/v/20220620220430504</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220620214133190"/>
         <updated>2022-06-20T12:48:34.252Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누리호 21일 예정대로 쏜다.."강수·낙뢰 가능성 매우 낮아"]]></title>
-        <id>https://v.daum.net/v/20220620213749164</id>
-        <link href="https://v.daum.net/v/20220620213749164"/>
-        <updated>2022-06-20T12:48:34.253Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
