@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-06-20T21:22:30.727Z</updated>
+    <updated>2022-06-20T22:22:22.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한, 혁명과업 수행에서 당원들의 '선봉적 역할' 강조]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1489/Em7IBPxTS7</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1489/Em7IBPxTS7"/>
+        <updated>2022-06-20T22:21:58.653Z</updated>
+        <content type="html"><![CDATA[북한은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[30도 안팎 무더위 계속..남부 곳곳 소나기]]></title>
         <id>https://gallery.v.daum.net/p/viewer/111971/EI27Knz5vI</id>
         <link href="https://gallery.v.daum.net/p/viewer/111971/EI27Knz5vI"/>
-        <updated>2022-06-20T21:21:59.002Z</updated>
+        <updated>2022-06-20T22:21:58.654Z</updated>
         <content type="html"><![CDATA[무더운 한반도]]></content>
     </entry>
     <entry>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/85361/EvEqbuIE8X"/>
         <updated>2022-06-20T08:32:53.880Z</updated>
         <content type="html"><![CDATA[원대연 잡학사진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스피 2400선 붕괴.. 연저점 경신]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/674200/EdyG5DYrRP</id>
-        <link href="https://gallery.v.daum.net/p/viewer/674200/EdyG5DYrRP"/>
-        <updated>2022-06-20T08:32:53.880Z</updated>
-        <content type="html"><![CDATA[서울포토]]></content>
     </entry>
 </feed>
