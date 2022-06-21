@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-06-21T14:22:40.014Z</updated>
+    <updated>2022-06-21T15:30:32.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日 코로나19 신규감염 1만5384명..총 917만6804명]]></title>
+        <id>https://v.daum.net/v/20220621225056219</id>
+        <link href="https://v.daum.net/v/20220621225056219"/>
+        <updated>2022-06-21T15:29:13.705Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[억눌렸던 여행 수요 폭발하는데..팬데믹 구조조정에 파업까지 '항공대란']]></title>
         <id>https://v.daum.net/v/20220621222030906</id>
         <link href="https://v.daum.net/v/20220621222030906"/>
         <updated>2022-06-21T13:46:37.255Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마카오 호텔방에 700명 감금.."확진자 나와서"]]></title>
+        <id>https://v.daum.net/v/20220621220104623</id>
+        <link href="https://v.daum.net/v/20220621220104623"/>
+        <updated>2022-06-21T15:29:13.708Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["우크라군, 오데사 가스전 공격".."러, 하르키우 등 또 포격"]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220621205826345"/>
         <updated>2022-06-21T12:51:22.307Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["홍콩 몰락 보여주는 듯" .. 유명 수상 식당 '점보' 예인 중 침몰]]></title>
-        <id>https://v.daum.net/v/20220621203507809</id>
-        <link href="https://v.daum.net/v/20220621203507809"/>
-        <updated>2022-06-21T12:51:22.308Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 '신장산 수입금지' 법안 발효..중국 "국제 규범 파괴"]]></title>
-        <id>https://v.daum.net/v/20220621203307776</id>
-        <link href="https://v.daum.net/v/20220621203307776"/>
-        <updated>2022-06-21T12:51:22.309Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
