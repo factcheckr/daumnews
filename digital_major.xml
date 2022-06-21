@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-21T03:42:38.003Z</updated>
+    <updated>2022-06-21T04:43:44.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누리호 연료·산화제 충전 시작..기상조건 순풍~]]></title>
+        <id>https://v.daum.net/v/20220621113012528</id>
+        <link href="https://v.daum.net/v/20220621113012528"/>
+        <updated>2022-06-21T04:43:06.249Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나 속 '한시적' 비대면진료 '가치' 증명]]></title>
         <id>https://v.daum.net/v/20220621102510288</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220621102504280"/>
         <updated>2022-06-21T03:42:08.946Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누리호 카운트다운..발사 시나리오는?]]></title>
-        <id>https://v.daum.net/v/20220621102211147</id>
-        <link href="https://v.daum.net/v/20220621102211147"/>
-        <updated>2022-06-21T03:42:08.947Z</updated>
-        <content type="html"><![CDATA[kbc광주방송]]></content>
     </entry>
 </feed>
