@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-06-21T18:28:52.018Z</updated>
+    <updated>2022-06-21T19:19:27.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA["유화냄새 찐득한 곳에 차분히 붙였다, 올곧은 저 소나무"]]></title>
-        <id>https://v.daum.net/v/20220622000125889</id>
-        <link href="https://v.daum.net/v/20220622000125889"/>
-        <updated>2022-06-21T18:28:02.975Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] '서울 30도 · 대구 35도' 더위 기승..장맛비 언제?]]></title>
         <id>https://v.daum.net/v/20220621210627568</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220621171104130"/>
         <updated>2022-06-21T10:30:59.424Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["지자체 인구감소 해법, 장기체류 관광객 유치"]]></title>
+        <id>https://v.daum.net/v/20220621163716716</id>
+        <link href="https://v.daum.net/v/20220621163716716"/>
+        <updated>2022-06-21T19:18:34.712Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
