@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-21T17:36:13.689Z</updated>
+    <updated>2022-06-21T18:28:51.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["주가 방어하라".. NHN 300억, 한컴 100억 자사주 매입]]></title>
+        <id>https://v.daum.net/v/20220622030346851</id>
+        <link href="https://v.daum.net/v/20220622030346851"/>
+        <updated>2022-06-21T18:28:19.721Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[누리호 성능 등 검증..대기·미세먼지 관측도]]></title>
+        <id>https://v.daum.net/v/20220622030346850</id>
+        <link href="https://v.daum.net/v/20220622030346850"/>
+        <updated>2022-06-21T18:28:19.724Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔진부터 발사대까지 순수 우리 기술..이제 민간으로]]></title>
         <id>https://v.daum.net/v/20220621212055866</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220621190704683"/>
         <updated>2022-06-21T12:51:57.378Z</updated>
         <content type="html"><![CDATA[대전일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[누리호]지금은 '뉴스페이스' 기반 다질 때..민간 주도 '고도화사업'이 큰 도움]]></title>
-        <id>https://v.daum.net/v/20220621190804702</id>
-        <link href="https://v.daum.net/v/20220621190804702"/>
-        <updated>2022-06-21T11:29:52.762Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국산 로켓' 자립 난관 묻자 울컥..말 잇지 못한 '누리호 사령탑']]></title>
-        <id>https://v.daum.net/v/20220621190512643</id>
-        <link href="https://v.daum.net/v/20220621190512643"/>
-        <updated>2022-06-21T17:35:38.043Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
