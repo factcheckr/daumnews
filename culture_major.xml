@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-06-21T20:24:55.815Z</updated>
+    <updated>2022-06-21T21:20:37.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220622050803785"/>
         <updated>2022-06-21T20:24:04.471Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[와우산 자락서 만난 그날 이후 47년..'미술천재'들의 특별한 나들이]]></title>
+        <id>https://v.daum.net/v/20220622033013054</id>
+        <link href="https://v.daum.net/v/20220622033013054"/>
+        <updated>2022-06-21T21:19:50.528Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[벌써 10만.. '집에 초대한다'는 스토리텔링 먹혔죠]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220621192322077"/>
         <updated>2022-06-21T15:29:33.928Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주주의 위기 부른 자유주의 빈곤.."압축적 근대화의 결과"]]></title>
-        <id>https://v.daum.net/v/20220621190033504</id>
-        <link href="https://v.daum.net/v/20220621190033504"/>
-        <updated>2022-06-21T15:29:33.929Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
