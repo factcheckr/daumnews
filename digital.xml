@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-22T09:22:29.976Z</updated>
+    <updated>2022-06-22T10:28:01.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 상장사 TOP100 중 충청권은 단 3곳]]></title>
+        <id>https://v.daum.net/v/20220622153953683</id>
+        <link href="https://v.daum.net/v/20220622153953683"/>
+        <updated>2022-06-22T10:27:23.685Z</updated>
+        <content type="html"><![CDATA[대전일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MS, 얼굴 표정에서 감정 읽어주던 AI 서비스 종료..이유는?]]></title>
+        <id>https://v.daum.net/v/20220622183301778</id>
+        <link href="https://v.daum.net/v/20220622183301778"/>
+        <updated>2022-06-22T10:27:23.686Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[취임 100일 맞는 남궁훈 카카오號 "1년 같았다"]]></title>
         <id>https://v.daum.net/v/20220622180634187</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220622173506196"/>
         <updated>2022-06-22T09:21:46.193Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한·베 교역액 30년새 161배 급증..경제적으론 이미 '한배']]></title>
-        <id>https://v.daum.net/v/20220622170910346</id>
-        <link href="https://v.daum.net/v/20220622170910346"/>
-        <updated>2022-06-22T08:32:27.551Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국산 로켓 누리호, ICBM으로 만들 수 있을까요?[궁즉답]]]></title>
-        <id>https://v.daum.net/v/20220622170322168</id>
-        <link href="https://v.daum.net/v/20220622170322168"/>
-        <updated>2022-06-22T08:32:27.552Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
