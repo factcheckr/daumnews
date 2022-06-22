@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-06-22T16:35:18.110Z</updated>
+    <updated>2022-06-22T17:31:35.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본 코로나 신규감염 1만7285명..총 919만4082명]]></title>
+        <id>https://v.daum.net/v/20220622235604201</id>
+        <link href="https://v.daum.net/v/20220622235604201"/>
+        <updated>2022-06-22T17:30:35.298Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍콩 코로나 신규감염 1447명..누적 123만656명]]></title>
         <id>https://v.daum.net/v/20220622231456959</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220622223104642"/>
         <updated>2022-06-22T14:20:44.446Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미 포위망에 중, 브릭스로 맞불..서방과 대치 선명]]></title>
-        <id>https://v.daum.net/v/20220622223046634</id>
-        <link href="https://v.daum.net/v/20220622223046634"/>
-        <updated>2022-06-22T14:20:44.447Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>

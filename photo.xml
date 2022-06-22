@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-06-22T16:35:18.108Z</updated>
+    <updated>2022-06-22T17:31:35.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/2603/EAbFFcPwvw"/>
         <updated>2022-06-22T12:43:23.076Z</updated>
         <content type="html"><![CDATA[광주 민주화항쟁]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유월의 연못 풍경]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/ERbMkts017</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/ERbMkts017"/>
+        <updated>2022-06-22T17:31:12.700Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왕이 외교부장 예방한 장하성 주중대사]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/674200/E5xUbbNtoX"/>
         <updated>2022-06-22T07:22:09.240Z</updated>
         <content type="html"><![CDATA[서울포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나 전쟁 중 모스크바는 패션쇼[퇴근길 한 컷]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1397984/EpFUYjuyhI</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1397984/EpFUYjuyhI"/>
-        <updated>2022-06-22T07:22:09.242Z</updated>
-        <content type="html"><![CDATA[퇴근길 한 컷]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2022-06-22T16:35:18.097Z</updated>
+    <updated>2022-06-22T17:31:35.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://v.daum.net/v/20220623012445935"/>
         <updated>2022-06-22T16:33:37.552Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국힘, 이준석 징계 심의 7월 7일로 미뤄.. 李 "결정 미룬 이유, 나도 궁금"]]></title>
-        <id>https://v.daum.net/v/20220623010537803</id>
-        <link href="https://v.daum.net/v/20220623010537803"/>
-        <updated>2022-06-22T16:33:37.553Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국민의힘 윤리위원회 이준석 대표 징계 유보]]></title>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20220622234042104"/>
         <updated>2022-06-22T15:22:46.437Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국힘, 이준석 징계 심의 7월 7일로 미뤄.. 李 "결정 미룬 이유, 나도 궁금"]]></title>
+        <id>https://v.daum.net/v/20220623010537803</id>
+        <link href="https://v.daum.net/v/20220623010537803"/>
+        <updated>2022-06-22T16:33:37.553Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
