@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-06-22T15:24:31.243Z</updated>
+    <updated>2022-06-22T16:35:18.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍콩 코로나 신규감염 1447명..누적 123만656명]]></title>
+        <id>https://v.daum.net/v/20220622231456959</id>
+        <link href="https://v.daum.net/v/20220622231456959"/>
+        <updated>2022-06-22T16:34:16.011Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["싼 건 더 싸게, 비싼 건 더 비싸게"..美월마트가 힘들어진 이유는?]]></title>
         <id>https://v.daum.net/v/20220622230003869</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220622223046634"/>
         <updated>2022-06-22T14:20:44.447Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영국 5월 물가 상승률 9.1%.. "G7 중 가장 높다"]]></title>
-        <id>https://v.daum.net/v/20220622222914609</id>
-        <link href="https://v.daum.net/v/20220622222914609"/>
-        <updated>2022-06-22T14:20:44.454Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>

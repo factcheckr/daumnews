@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-06-22T15:24:31.245Z</updated>
+    <updated>2022-06-22T16:35:18.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경총 "성과급, 근로 대가 아냐..임금으로 볼 수 없다"(종합)]]></title>
+        <id>https://v.daum.net/v/20220623002310589</id>
+        <link href="https://v.daum.net/v/20220623002310589"/>
+        <updated>2022-06-22T16:33:52.881Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[심층인터뷰] 첫 부동산 대책..실효성은?]]></title>
         <id>https://v.daum.net/v/20220623001958546</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220622221308422"/>
         <updated>2022-06-22T13:42:59.336Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자영업자 대출 코로나 이전보다 40% 급증.."내년 이후 빨간불"]]></title>
-        <id>https://v.daum.net/v/20220622215710175</id>
-        <link href="https://v.daum.net/v/20220622215710175"/>
-        <updated>2022-06-22T13:42:59.337Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
