@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-06-22T14:21:48.719Z</updated>
+    <updated>2022-06-22T15:24:31.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,20 @@
         <link href="https://v.daum.net/v/20220622221316427"/>
         <updated>2022-06-22T13:43:07.247Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['60년 노포' 평양냉면 밀키트, 거기서 먹던 그맛 날까?]]></title>
+        <id>https://v.daum.net/v/20220622214500884</id>
+        <link href="https://v.daum.net/v/20220622214500884"/>
+        <updated>2022-06-22T15:23:11.432Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中 재활용 기업 4만개인데..韓 배터리는 지자체로 귀속]]></title>
+        <id>https://v.daum.net/v/20220622213007597</id>
+        <link href="https://v.daum.net/v/20220622213007597"/>
+        <updated>2022-06-22T15:23:11.439Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["성장 둔화·비대면 기술 등 대전환기..한국에 위기이자 기회"[경향포럼]]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220622210601061"/>
         <updated>2022-06-22T13:43:07.253Z</updated>
         <content type="html"><![CDATA[매경이코노미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구, 조정 대상 지역에서 해제?]]></title>
-        <id>https://v.daum.net/v/20220622210131943</id>
-        <link href="https://v.daum.net/v/20220622210131943"/>
-        <updated>2022-06-22T12:42:23.057Z</updated>
-        <content type="html"><![CDATA[대구MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원자재 가격 상승.."납품단가 연동제 필요"]]></title>
-        <id>https://v.daum.net/v/20220622210055914</id>
-        <link href="https://v.daum.net/v/20220622210055914"/>
-        <updated>2022-06-22T12:42:23.063Z</updated>
-        <content type="html"><![CDATA[대구MBC]]></content>
     </entry>
 </feed>
