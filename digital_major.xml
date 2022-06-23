@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-23T03:49:16.028Z</updated>
+    <updated>2022-06-23T04:42:38.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누리호가 '러시아제 복제품'·ICBM이라고?[과학을읽다]]]></title>
+        <id>https://v.daum.net/v/20220623101759207</id>
+        <link href="https://v.daum.net/v/20220623101759207"/>
+        <updated>2022-06-23T04:42:02.667Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["하반기 가상자산·리오프닝 산업 타깃 공격 주의해야"]]></title>
         <id>https://v.daum.net/v/20220623101019899</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220623083830139"/>
         <updated>2022-06-23T01:58:48.814Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모토로라 차기 폴더블폰 '레이저 3', 2800mAh 배터리?]]></title>
-        <id>https://v.daum.net/v/20220623081712701</id>
-        <link href="https://v.daum.net/v/20220623081712701"/>
-        <updated>2022-06-23T01:58:48.815Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
