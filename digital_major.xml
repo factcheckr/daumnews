@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-24T13:43:33.273Z</updated>
+    <updated>2022-06-24T14:20:56.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지금 전세계 게이머들이 쓰는 PC의 평균 사양은?]]></title>
+        <id>https://v.daum.net/v/20220624184806451</id>
+        <link href="https://v.daum.net/v/20220624184806451"/>
+        <updated>2022-06-24T14:20:24.023Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["왜 한국처럼 못 만드나?" '이 커플'에 두손두발 든 일본]]></title>
         <id>https://v.daum.net/v/20220624175108306</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220624153418386"/>
         <updated>2022-06-24T08:29:40.375Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일렬종대 '수금천화목토'..토요일 가장 잘 보인다]]></title>
-        <id>https://v.daum.net/v/20220624152425078</id>
-        <link href="https://v.daum.net/v/20220624152425078"/>
-        <updated>2022-06-24T08:29:40.376Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
