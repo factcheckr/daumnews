@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-06-24T18:29:50.066Z</updated>
+    <updated>2022-06-24T19:19:36.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손수레에 실린 삶의 무게]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/EV0MbjbpQk</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/EV0MbjbpQk"/>
+        <updated>2022-06-24T19:19:08.953Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[처마 끝 낙숫물]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/EBIdAswH0v</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033350/ECiUpntZO9"/>
         <updated>2022-06-24T06:28:24.174Z</updated>
         <content type="html"><![CDATA[호주는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달처럼 생겼네..탐사선이 920km 위에서 본 생생한 수성 표면]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1497/Eovog5m1u0</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1497/Eovog5m1u0"/>
-        <updated>2022-06-24T05:27:12.224Z</updated>
-        <content type="html"><![CDATA[우주의 신비]]></content>
     </entry>
 </feed>
