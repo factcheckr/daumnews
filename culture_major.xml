@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-06-24T12:47:24.361Z</updated>
+    <updated>2022-06-24T13:43:33.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬계 달군 '옥장판' 논란..옥주현에게 무슨 일이?]]></title>
+        <id>https://v.daum.net/v/20220624191511880</id>
+        <link href="https://v.daum.net/v/20220624191511880"/>
+        <updated>2022-06-24T13:42:44.253Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서계동 복합문화시설' 둘러싼 공연계 갈등..문체부 비판도]]></title>
         <id>https://v.daum.net/v/20220624193425196</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220624140509642"/>
         <updated>2022-06-24T08:29:25.894Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["초가 지붕 잇던 날의 기억입니다"]]></title>
-        <id>https://v.daum.net/v/20220624140444622</id>
-        <link href="https://v.daum.net/v/20220624140444622"/>
-        <updated>2022-06-24T07:21:35.215Z</updated>
-        <content type="html"><![CDATA[JIBS]]></content>
     </entry>
 </feed>

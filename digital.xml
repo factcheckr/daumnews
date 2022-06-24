@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-24T12:47:24.367Z</updated>
+    <updated>2022-06-24T13:43:33.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리 망원경에 잡힌 누리호의 성과..한국형 '스페이스X' 이어지려면]]></title>
+        <id>https://v.daum.net/v/20220624215639093</id>
+        <link href="https://v.daum.net/v/20220624215639093"/>
+        <updated>2022-06-24T13:42:52.511Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 낙태와 총기논쟁, 그리고 작지만 강한 언론 이야기]]></title>
         <id>https://v.daum.net/v/20220624153501397</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220624184806451"/>
         <updated>2022-06-24T10:26:54.705Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["왜 한국처럼 못 만드나?" '이 커플'에 두손두발 든 일본]]></title>
-        <id>https://v.daum.net/v/20220624175108306</id>
-        <link href="https://v.daum.net/v/20220624175108306"/>
-        <updated>2022-06-24T09:23:27.703Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
