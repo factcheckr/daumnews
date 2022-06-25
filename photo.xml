@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-06-25T04:34:55.088Z</updated>
+    <updated>2022-06-25T05:21:05.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가자 물놀이하러']]></title>
+        <id>https://gallery.v.daum.net/p/viewer/111971/ECquPW7kc7</id>
+        <link href="https://gallery.v.daum.net/p/viewer/111971/ECquPW7kc7"/>
+        <updated>2022-06-25T05:20:40.589Z</updated>
+        <content type="html"><![CDATA[무더운 한반도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도심에서는 축포, 전선에서는 포격. 전쟁중에도 열린 러시아 백야축제]]></title>
         <id>https://gallery.v.daum.net/p/viewer/6637/EAlva5AHHj</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/377110/EoCgFX8eTa"/>
         <updated>2022-06-24T12:46:55.058Z</updated>
         <content type="html"><![CDATA[포토뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영연방정상회의 참석한 보리스 존슨 총리]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5029577/EASLCcNFUX</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5029577/EASLCcNFUX"/>
-        <updated>2022-06-24T10:27:10.684Z</updated>
-        <content type="html"><![CDATA[영국 보리스 존슨 총리]]></content>
     </entry>
 </feed>
