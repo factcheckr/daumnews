@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-06-26T10:24:12.109Z</updated>
+    <updated>2022-06-26T11:19:48.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내달 8일 개장하는 경포해수욕장]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5035853/Ec6EvqHB8v</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5035853/Ec6EvqHB8v"/>
+        <updated>2022-06-26T11:19:23.341Z</updated>
+        <content type="html"><![CDATA[강원도 풍경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전주 등 6개 시군 폭염주의보, 강풍 동반 소나기 내려]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1783949/Ex6cyxaZCE</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/144832/E8Vjcp91Zu"/>
         <updated>2022-06-25T02:08:42.863Z</updated>
         <content type="html"><![CDATA[길따라 멋따라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베를린서 열린 글로벌 식량 위기 컨퍼런스 모습]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5030466/ElBunr3QCx</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5030466/ElBunr3QCx"/>
-        <updated>2022-06-25T02:08:42.863Z</updated>
-        <content type="html"><![CDATA[독일은 지금]]></content>
     </entry>
 </feed>
