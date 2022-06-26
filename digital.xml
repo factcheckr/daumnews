@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-26T06:26:44.848Z</updated>
+    <updated>2022-06-26T07:21:12.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김현아의 IT세상읽기] 페이센스가 놓친 것]]></title>
+        <id>https://v.daum.net/v/20220626155727738</id>
+        <link href="https://v.daum.net/v/20220626155727738"/>
+        <updated>2022-06-26T07:20:28.674Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['5만전자' 실적은 고공행진..역대 2분기 '최대 매출' 쓴다]]></title>
         <id>https://v.daum.net/v/20220626151701059</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220626110149061"/>
         <updated>2022-06-26T03:57:25.566Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플 스튜디오 디스플레이·맥 스튜디오 사용해보니 [백문이 불여IT견]]]></title>
-        <id>https://v.daum.net/v/20220626104801751</id>
-        <link href="https://v.daum.net/v/20220626104801751"/>
-        <updated>2022-06-26T04:35:48.965Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
