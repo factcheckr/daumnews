@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-27T19:19:43.661Z</updated>
+    <updated>2022-06-27T20:24:30.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI반도체 산업 전문 인력 7000명 양성한다]]></title>
+        <id>https://v.daum.net/v/20220628050631010</id>
+        <link href="https://v.daum.net/v/20220628050631010"/>
+        <updated>2022-06-27T20:23:31.014Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자율주행차 사업 넓히는 통신사들..1순위 과제 '5G 속도 향상']]></title>
         <id>https://v.daum.net/v/20220627221535724</id>
         <link href="https://v.daum.net/v/20220627221535724"/>
         <updated>2022-06-27T13:47:39.202Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[초고주사율 경쟁 돌입한 게이밍 모니터..꼭 필요할까?]]></title>
+        <id>https://v.daum.net/v/20220627194503181</id>
+        <link href="https://v.daum.net/v/20220627194503181"/>
+        <updated>2022-06-27T20:23:31.016Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[항우연 노조 "연구자들 기계 부품 취급하면 '위대한 성취'는 무너질 것"]]></title>
@@ -59,20 +73,6 @@
         <id>https://v.daum.net/v/20220627183440280</id>
         <link href="https://v.daum.net/v/20220627183440280"/>
         <updated>2022-06-27T11:21:34.991Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[달콤한 사이언스] '문어 대가리'라고 놀리면 안되는 이유, 알고보니..]]></title>
-        <id>https://v.daum.net/v/20220627180105383</id>
-        <link href="https://v.daum.net/v/20220627180105383"/>
-        <updated>2022-06-27T10:27:39.548Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[항우연 노조 "누리호 성공엔 현장 연구자 노력..처우개선 필요"]]></title>
-        <id>https://v.daum.net/v/20220627175114097</id>
-        <link href="https://v.daum.net/v/20220627175114097"/>
-        <updated>2022-06-27T10:27:39.549Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
