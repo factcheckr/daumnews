@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-27T18:31:26.270Z</updated>
+    <updated>2022-06-27T19:19:43.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220627221535724"/>
         <updated>2022-06-27T13:47:39.202Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[항우연 노조 "연구자들 기계 부품 취급하면 '위대한 성취'는 무너질 것"]]></title>
+        <id>https://v.daum.net/v/20220627194106141</id>
+        <link href="https://v.daum.net/v/20220627194106141"/>
+        <updated>2022-06-27T19:19:09.129Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["삼성은 철저히 홀대, 애플은 벌떼처럼 우르르" 중국, 애플 편애 무서울 정도]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220627175114097"/>
         <updated>2022-06-27T10:27:39.549Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['송해·터틀맨'처럼 돌아가신 부모님이 가상인간으로..괜찮을까]]></title>
-        <id>https://v.daum.net/v/20220627174104740</id>
-        <link href="https://v.daum.net/v/20220627174104740"/>
-        <updated>2022-06-27T10:27:39.550Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
