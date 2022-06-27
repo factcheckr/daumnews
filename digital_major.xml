@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-27T12:45:49.142Z</updated>
+    <updated>2022-06-27T13:48:11.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자율주행차 사업 넓히는 통신사들..1순위 과제 '5G 속도 향상']]></title>
+        <id>https://v.daum.net/v/20220627221535724</id>
+        <link href="https://v.daum.net/v/20220627221535724"/>
+        <updated>2022-06-27T13:47:39.202Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 반도체에 사활 건 과기정통부..삼성·SK도 뭉쳤다(종합)]]></title>
+        <id>https://v.daum.net/v/20220627183549306</id>
+        <link href="https://v.daum.net/v/20220627183549306"/>
+        <updated>2022-06-27T13:47:39.209Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[항우연 노조 "정치인들은 우리를 장기판의 졸로 여겨..정부는 나몰라라"]]></title>
         <id>https://v.daum.net/v/20220627183509291</id>
@@ -34,7 +48,7 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[송해·터틀맨이 돌아왔다..몸짓·목소리까지 되살린 AI]]></title>
+        <title type="html"><![CDATA['송해·터틀맨'처럼 돌아가신 부모님이 가상인간으로..괜찮을까]]></title>
         <id>https://v.daum.net/v/20220627174104740</id>
         <link href="https://v.daum.net/v/20220627174104740"/>
         <updated>2022-06-27T10:27:39.550Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220627171604966"/>
         <updated>2022-06-27T09:23:27.511Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["유명무실 인앱결제 강제금지법..방통위가 구글에 강력 대응해야"]]></title>
-        <id>https://v.daum.net/v/20220627170656652</id>
-        <link href="https://v.daum.net/v/20220627170656652"/>
-        <updated>2022-06-27T09:23:27.514Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["막아야 산다" 양자컴 해킹에 맞선 '절대암호' 경쟁 [Digital+]]]></title>
-        <id>https://v.daum.net/v/20220627170307517</id>
-        <link href="https://v.daum.net/v/20220627170307517"/>
-        <updated>2022-06-27T09:23:27.516Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
