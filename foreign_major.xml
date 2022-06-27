@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-06-27T13:48:11.124Z</updated>
+    <updated>2022-06-27T14:24:19.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -10,6 +10,20 @@
         <id>https://v.daum.net/v/20220627221112690</id>
         <link href="https://v.daum.net/v/20220627221112690"/>
         <updated>2022-06-27T13:47:08.804Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국이 50년 전으로 역주행한 날.. 독일은 임신중지 광고 80년 만에 '허용']]></title>
+        <id>https://v.daum.net/v/20220627221005684</id>
+        <link href="https://v.daum.net/v/20220627221005684"/>
+        <updated>2022-06-27T14:23:21.810Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[과거로 회귀하는 유럽.. 獨 이어 佛도 석탄발전 재가동 검토]]></title>
+        <id>https://v.daum.net/v/20220627221002683</id>
+        <link href="https://v.daum.net/v/20220627221002683"/>
+        <updated>2022-06-27T14:23:21.811Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220627211212149"/>
         <updated>2022-06-27T13:47:08.805Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[104년 만의 '디폴트'에도 미사일 공격]]></title>
-        <id>https://v.daum.net/v/20220627210904114</id>
-        <link href="https://v.daum.net/v/20220627210904114"/>
-        <updated>2022-06-27T13:47:08.805Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모두 '디폴트'라 말할 때 홀로 'NO!' 외친 러.."우린 잘못 없어"]]></title>
-        <id>https://v.daum.net/v/20220627210135998</id>
-        <link href="https://v.daum.net/v/20220627210135998"/>
-        <updated>2022-06-27T12:44:46.429Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
