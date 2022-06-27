@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-06-27T14:24:19.528Z</updated>
+    <updated>2022-06-27T15:38:28.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[은퇴 후 캠핑카 타고 떠난 여행.. 문화유산 도장 깬 부부]]></title>
+        <id>https://v.daum.net/v/20220627152114679</id>
+        <link href="https://v.daum.net/v/20220627152114679"/>
+        <updated>2022-06-27T15:37:37.173Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피아니스트 최고 등용문 '쇼팽'..4개 부문 번갈아 여는 '퀸 엘리자베스']]></title>
         <id>https://v.daum.net/v/20220627174008713</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220627135402809"/>
         <updated>2022-06-27T13:47:24.131Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지털 전환(DX), 위기의 한국 관광산업 전환점될까?]]></title>
-        <id>https://v.daum.net/v/20220627115047886</id>
-        <link href="https://v.daum.net/v/20220627115047886"/>
-        <updated>2022-06-27T13:47:24.132Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
