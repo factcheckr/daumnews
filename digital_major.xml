@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-27T08:31:20.381Z</updated>
+    <updated>2022-06-27T09:24:03.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인공지능 이용한 박테리아 신속 분석 기법 개발]]></title>
+        <id>https://v.daum.net/v/20220627171604966</id>
+        <link href="https://v.daum.net/v/20220627171604966"/>
+        <updated>2022-06-27T09:23:27.511Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["유명무실 인앱결제 강제금지법..방통위가 구글에 강력 대응해야"]]></title>
+        <id>https://v.daum.net/v/20220627170656652</id>
+        <link href="https://v.daum.net/v/20220627170656652"/>
+        <updated>2022-06-27T09:23:27.514Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["막아야 산다" 양자컴 해킹에 맞선 '절대암호' 경쟁 [Digital+]]]></title>
+        <id>https://v.daum.net/v/20220627170307517</id>
+        <link href="https://v.daum.net/v/20220627170307517"/>
+        <updated>2022-06-27T09:23:27.516Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中 암호연구 순항에 美 "우린 그 방식 안 써"..보안패권 충돌 [Digital+]]]></title>
+        <id>https://v.daum.net/v/20220627170301508</id>
+        <link href="https://v.daum.net/v/20220627170301508"/>
+        <updated>2022-06-27T09:23:27.518Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['실적 잔치 끝났나'..삼성·LG전자, 2분기 실적 전망 하향 조정]]></title>
+        <id>https://v.daum.net/v/20220627165903316</id>
+        <link href="https://v.daum.net/v/20220627165903316"/>
+        <updated>2022-06-27T09:23:27.519Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["하루에 무조건 17만원 줄게" '파격' 배달기사 모집에 시끌벅적 [단독]]]></title>
         <id>https://v.daum.net/v/20220627165142086</id>
@@ -18,13 +53,6 @@
         <link href="https://v.daum.net/v/20220627164810969"/>
         <updated>2022-06-27T08:30:46.069Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누리호 성공 영웅들인데..항우연 초봉은 '밑에서 4번째', 결국 불만폭발]]></title>
-        <id>https://v.daum.net/v/20220627164359818</id>
-        <link href="https://v.daum.net/v/20220627164359818"/>
-        <updated>2022-06-27T08:30:46.070Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[게임물관리위, 스팀에 공문 보내 성인용 게임 국내 차단]]></title>
@@ -46,33 +74,5 @@
         <link href="https://v.daum.net/v/20220627160245390"/>
         <updated>2022-06-27T08:30:46.073Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[항우연 노조 성명서 "누리호 성공에도 열악한 처우 개선해야"]]></title>
-        <id>https://v.daum.net/v/20220627154808843</id>
-        <link href="https://v.daum.net/v/20220627154808843"/>
-        <updated>2022-06-27T08:30:46.073Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비싸진 물가에 'TV 구매' 미루는 소비자들..삼성·LG 돌파구는]]></title>
-        <id>https://v.daum.net/v/20220627154739814</id>
-        <link href="https://v.daum.net/v/20220627154739814"/>
-        <updated>2022-06-27T08:30:46.074Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["재테크도 자기개발!"..주식·가상화폐·앱테크 뛰어든 MZ세대]]></title>
-        <id>https://v.daum.net/v/20220627154501683</id>
-        <link href="https://v.daum.net/v/20220627154501683"/>
-        <updated>2022-06-27T08:30:46.078Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[e커머스의 마지막 未개척지..'미들마일'에 뛰어드는 빅테크들]]></title>
-        <id>https://v.daum.net/v/20220627152702918</id>
-        <link href="https://v.daum.net/v/20220627152702918"/>
-        <updated>2022-06-27T07:21:18.291Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
