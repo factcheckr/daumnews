@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-06-28T22:26:08.535Z</updated>
+    <updated>2022-06-28T23:22:38.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙박스 극장에서 열리는 동시대 예술의 축제]]></title>
+        <id>https://v.daum.net/v/20220629053048752</id>
+        <link href="https://v.daum.net/v/20220629053048752"/>
+        <updated>2022-06-28T23:21:48.948Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["세상에 춤 못 추는 사람은 없어요.. 안 배웠을 뿐"]]></title>
         <id>https://v.daum.net/v/20220629050803551</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220628233101751"/>
         <updated>2022-06-28T18:36:54.867Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쌩쌩한 70~80대.. 어쩌면 젊은 날의 '이 식단' 때문]]></title>
-        <id>https://v.daum.net/v/20220628223015171</id>
-        <link href="https://v.daum.net/v/20220628223015171"/>
-        <updated>2022-06-28T16:36:59.033Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
