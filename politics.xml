@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2022-06-28T15:25:42.561Z</updated>
+    <updated>2022-06-28T16:37:59.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[野 '의장단 단독 선출' 예고..與 '원내 비상대기']]></title>
+        <id>https://v.daum.net/v/20220629003137412</id>
+        <link href="https://v.daum.net/v/20220629003137412"/>
+        <updated>2022-06-28T16:35:51.021Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위기의 민주당, 결국 금기어 '분당'까지 전면 등장]]></title>
         <id>https://v.daum.net/v/20220629000609159</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220628223946245"/>
         <updated>2022-06-28T13:45:35.999Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹, 첫 다자외교 시작..내일(29일) 한미일 정상회담]]></title>
-        <id>https://v.daum.net/v/20220628214013521</id>
-        <link href="https://v.daum.net/v/20220628214013521"/>
-        <updated>2022-06-28T13:45:36.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
