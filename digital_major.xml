@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-28T09:23:12.746Z</updated>
+    <updated>2022-06-28T10:27:01.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220628181800155"/>
         <updated>2022-06-28T09:22:40.243Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우주 R&D 집중 지원..내년예산 8천억 투입]]></title>
+        <id>https://v.daum.net/v/20220628172701418</id>
+        <link href="https://v.daum.net/v/20220628172701418"/>
+        <updated>2022-06-28T10:26:23.732Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전기차 충전요금도 인상..300원대 중반]]></title>
+        <id>https://v.daum.net/v/20220628143508230</id>
+        <link href="https://v.daum.net/v/20220628143508230"/>
+        <updated>2022-06-28T10:26:23.734Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["규제 개선에 정치적 결정은 그만, 시뮬레이션 검토·접근해야"]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220628163314125"/>
         <updated>2022-06-28T08:32:22.866Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닻 올린 디지털플랫폼정부, 행정시스템 대개편 가능할까..기대와 우려]]></title>
-        <id>https://v.daum.net/v/20220628162930951</id>
-        <link href="https://v.daum.net/v/20220628162930951"/>
-        <updated>2022-06-28T08:32:22.868Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베피콜롬보, 수성 가까이서 날았다.."울퉁불퉁 분화구 돋보여"[우주로 간다]]]></title>
-        <id>https://v.daum.net/v/20220628160812729</id>
-        <link href="https://v.daum.net/v/20220628160812729"/>
-        <updated>2022-06-28T08:32:22.870Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
