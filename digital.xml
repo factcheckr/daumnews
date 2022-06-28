@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-28T12:44:43.490Z</updated>
+    <updated>2022-06-28T13:47:32.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://v.daum.net/v/20220628200013727"/>
         <updated>2022-06-28T11:19:46.059Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나로호 키즈'에서 '누리호 개발자'로!]]></title>
-        <id>https://v.daum.net/v/20220628193227998</id>
-        <link href="https://v.daum.net/v/20220628193227998"/>
-        <updated>2022-06-28T11:19:46.060Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[갤폴드2 '240만원→60만원' 헐값됐다..이 기회에 폴더블폰 써볼까?]]></title>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20220628181940204"/>
         <updated>2022-06-28T09:22:31.950Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["치킨 배달비 5000원 아까워 직접 가는데" 포장도 이젠 돈 내라?]]></title>
+        <id>https://v.daum.net/v/20220628175259385</id>
+        <link href="https://v.daum.net/v/20220628175259385"/>
+        <updated>2022-06-28T13:46:50.565Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
