@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2022-06-28T13:47:32.828Z</updated>
+    <updated>2022-06-28T14:22:53.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김승희, 이번엔 '이중 청구서'로 의정보고서 제작비 부풀리기 의혹]]></title>
+        <id>https://v.daum.net/v/20220628224419291</id>
+        <link href="https://v.daum.net/v/20220628224419291"/>
+        <updated>2022-06-28T14:21:00.202Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["비판 좀 했다고 장제원 의원이 방송국에 전화" 주장에 YTN 입장은]]></title>
         <id>https://v.daum.net/v/20220628223946245</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220628212715286"/>
         <updated>2022-06-28T12:43:02.628Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통일부 "북에 댐 방류 시 사전 통지 요구..북 입장 안 밝혀"]]></title>
-        <id>https://v.daum.net/v/20220628212337225</id>
-        <link href="https://v.daum.net/v/20220628212337225"/>
-        <updated>2022-06-28T12:43:02.637Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

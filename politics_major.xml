@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2022-06-28T13:47:32.820Z</updated>
+    <updated>2022-06-28T14:22:53.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[통일부 "북에 댐 방류 시 사전 통지 요구..북 입장 안 밝혀"]]></title>
+        <id>https://v.daum.net/v/20220628212337225</id>
+        <link href="https://v.daum.net/v/20220628212337225"/>
+        <updated>2022-06-28T14:21:09.203Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한미일 정상, 북핵 대응 수위 촉각..'중 견제' 보폭 맞출지 관심]]></title>
         <id>https://v.daum.net/v/20220628212002176</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220628205847797"/>
         <updated>2022-06-28T12:43:10.950Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공무원 피살전 '6시간 생존' 통일부는 몰랐다.."靑, 공유 안해"]]></title>
-        <id>https://v.daum.net/v/20220628204903642</id>
-        <link href="https://v.daum.net/v/20220628204903642"/>
-        <updated>2022-06-28T12:43:10.951Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
