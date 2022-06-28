@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-28T10:27:01.355Z</updated>
+    <updated>2022-06-28T11:20:22.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220628181800155"/>
         <updated>2022-06-28T09:22:40.243Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["플랫폼 신산업, 효용성 관점에서도 살펴야"]]></title>
+        <id>https://v.daum.net/v/20220628175129328</id>
+        <link href="https://v.daum.net/v/20220628175129328"/>
+        <updated>2022-06-28T11:19:53.250Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[루나로 2500억 날린 헤지펀드 3AC, '채무불이행' 위기]]></title>
+        <id>https://v.daum.net/v/20220628174923245</id>
+        <link href="https://v.daum.net/v/20220628174923245"/>
+        <updated>2022-06-28T11:19:53.253Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우주 R&D 집중 지원..내년예산 8천억 투입]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220628163829342"/>
         <updated>2022-06-28T08:32:22.864Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["디지털 패권국 도약?..'코라파고스 규제' 부터 깨야"]]></title>
-        <id>https://v.daum.net/v/20220628163328140</id>
-        <link href="https://v.daum.net/v/20220628163328140"/>
-        <updated>2022-06-28T08:32:22.865Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이든이 서명했던 그 기술..삼성, TSMC 잡을 3나노 양산 '초읽기']]></title>
-        <id>https://v.daum.net/v/20220628163314125</id>
-        <link href="https://v.daum.net/v/20220628163314125"/>
-        <updated>2022-06-28T08:32:22.866Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
