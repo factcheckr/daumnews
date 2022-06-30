@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-30T04:52:35.962Z</updated>
+    <updated>2022-06-30T05:32:32.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["8만→1만원대로" 24시간 혈당측정기 검사 건보 적용에 바빠진 의료업체]]></title>
+        <id>https://v.daum.net/v/20220630135555865</id>
+        <link href="https://v.daum.net/v/20220630135555865"/>
+        <updated>2022-06-30T05:31:46.798Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["아이폰14 프로 모델, 더 비싸진다"]]></title>
         <id>https://v.daum.net/v/20220630130241310</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220630112600622"/>
         <updated>2022-06-30T04:01:43.328Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[메타버스 춘추전국]①사실상 코로나가 키웠다]]></title>
-        <id>https://v.daum.net/v/20220630110707609</id>
-        <link href="https://v.daum.net/v/20220630110707609"/>
-        <updated>2022-06-30T04:01:43.330Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
 </feed>
