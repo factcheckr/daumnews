@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-30T14:22:03.291Z</updated>
+    <updated>2022-06-30T15:26:44.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박윤규 차관 "SW는 SaaS..수출 등 SW기업 성장 지원"]]></title>
+        <id>https://v.daum.net/v/20220630145741677</id>
+        <link href="https://v.daum.net/v/20220630145741677"/>
+        <updated>2022-06-30T15:26:07.615Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서브컬쳐 게임' 핫하네..'적자' 라인게임즈도 80억 쐈다]]></title>
         <id>https://v.daum.net/v/20220630223055554</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220630192311669"/>
         <updated>2022-06-30T10:30:46.116Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플, 국내 모든 앱에 '제3자 결제' 허용..세계 최초]]></title>
-        <id>https://v.daum.net/v/20220630192133621</id>
-        <link href="https://v.daum.net/v/20220630192133621"/>
-        <updated>2022-06-30T10:30:46.116Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

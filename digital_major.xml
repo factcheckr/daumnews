@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-06-30T14:22:03.293Z</updated>
+    <updated>2022-06-30T15:26:44.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플, 국내 모든 앱에 '제3자 결제' 허용..세계 최초]]></title>
+        <id>https://v.daum.net/v/20220630192133621</id>
+        <link href="https://v.daum.net/v/20220630192133621"/>
+        <updated>2022-06-30T15:26:14.735Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[생각보다 춥지 않은 D램 겨울..삼성·SK하이닉스 '깜짝 실적' 기대]]></title>
         <id>https://v.daum.net/v/20220630191121395</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220630182900579"/>
         <updated>2022-06-30T10:30:55.013Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플, 한국 앱들 모두에 제3자결제 허용..수수료 26%(종합)]]></title>
-        <id>https://v.daum.net/v/20220630182630520</id>
-        <link href="https://v.daum.net/v/20220630182630520"/>
-        <updated>2022-06-30T10:30:55.020Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
