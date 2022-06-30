@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-30T19:19:42.130Z</updated>
+    <updated>2022-06-30T20:25:33.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인터넷이 바꾼 세상, AI는 더 바꾼다.. 초거대 AI 개발전쟁 스타트]]></title>
+        <id>https://v.daum.net/v/20220701043147765</id>
+        <link href="https://v.daum.net/v/20220701043147765"/>
+        <updated>2022-06-30T20:24:51.343Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TSMC보다 빠른 3나노 양산.. 관건은 품질]]></title>
         <id>https://v.daum.net/v/20220701032740373</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220630210104363"/>
         <updated>2022-06-30T13:41:52.932Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 사출 '큐브 위성' 화면 공개.."양방향 교신은 아직"]]></title>
-        <id>https://v.daum.net/v/20220630215354066</id>
-        <link href="https://v.daum.net/v/20220630215354066"/>
-        <updated>2022-06-30T13:41:52.933Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
