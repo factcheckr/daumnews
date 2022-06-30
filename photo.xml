@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-06-30T09:23:02.793Z</updated>
+    <updated>2022-06-30T10:31:25.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파문]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1803057/tJRtJmGM3s</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1803057/tJRtJmGM3s"/>
+        <updated>2022-06-30T10:31:01.750Z</updated>
+        <content type="html"><![CDATA[탁기형의 비어 있는 풍경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[관람객이 던진 음식 탓이었다..물에 빠진 오랑우탄 구한 사육사 (영상)]]></title>
         <id>https://gallery.v.daum.net/p/viewer/139426/XeKrl0fOAo</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/206527/9icpkYujCL"/>
         <updated>2022-06-30T04:52:07.901Z</updated>
         <content type="html"><![CDATA[필리핀 두테르테 대통령]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경남 폭염..쿨링포그 작동]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/111971/4I6r2osbSX</id>
-        <link href="https://gallery.v.daum.net/p/viewer/111971/4I6r2osbSX"/>
-        <updated>2022-06-30T04:52:07.901Z</updated>
-        <content type="html"><![CDATA[무더운 한반도]]></content>
     </entry>
 </feed>
