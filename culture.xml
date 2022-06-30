@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-06-30T12:47:16.760Z</updated>
+    <updated>2022-06-30T13:42:34.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[젖고, 잠기고, 무너지고..중부 휩쓴 장대비]]></title>
+        <id>https://v.daum.net/v/20220630220444319</id>
+        <link href="https://v.daum.net/v/20220630220444319"/>
+        <updated>2022-06-30T13:41:37.137Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건반 위 새 역사 쓰는 임윤찬 "달라진 건 없어..더 연습"]]></title>
+        <id>https://v.daum.net/v/20220630215801168</id>
+        <link href="https://v.daum.net/v/20220630215801168"/>
+        <updated>2022-06-30T13:41:37.139Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 수도권·강원 비 집중..주말 찜통더위 뒤 또 폭우]]></title>
         <id>https://v.daum.net/v/20220630210107366</id>
@@ -13,18 +27,11 @@
         <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["마지막 기회가 될 수도"..폭우 뚫고 샤넬 매장 달려간 이유 [현장+]]]></title>
+        <title type="html"><![CDATA["폭우 쏟아져도 오픈런"..샤넬·디올 매장에 인파 몰린 이유 [현장+]]]></title>
         <id>https://v.daum.net/v/20220630210101361</id>
         <link href="https://v.daum.net/v/20220630210101361"/>
         <updated>2022-06-30T12:46:08.211Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[문화K] '조선팝', 국악의 멋과 흥, 더 친숙하게!]]></title>
-        <id>https://v.daum.net/v/20220630195358265</id>
-        <link href="https://v.daum.net/v/20220630195358265"/>
-        <updated>2022-06-30T11:19:58.661Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['연극 메카' 대학로 되살리려면]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220630193436947"/>
         <updated>2022-06-30T11:19:58.664Z</updated>
         <content type="html"><![CDATA[EBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐나다·독일 명문 오케스트라 잇딴 내한공연]]></title>
-        <id>https://v.daum.net/v/20220630185503049</id>
-        <link href="https://v.daum.net/v/20220630185503049"/>
-        <updated>2022-06-30T10:30:30.207Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
