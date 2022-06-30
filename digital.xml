@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-06-30T10:31:25.199Z</updated>
+    <updated>2022-06-30T11:20:58.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["넥슨 매각 없다"..故김정주 유족, 지분 승계 유력]]></title>
+        <id>https://v.daum.net/v/20220630195658337</id>
+        <link href="https://v.daum.net/v/20220630195658337"/>
+        <updated>2022-06-30T11:20:14.742Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈대담] 누리호 탑재 조선대팀 '큐브위성' 첫 교신..현 상황·의미는?]]></title>
         <id>https://v.daum.net/v/20220630192311669</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하락 전망에도 선방한 D램..삼성·SK하이닉스 실적 기대감↑]]></title>
+        <title type="html"><![CDATA[생각보다 춥지 않은 D램 겨울..삼성·SK하이닉스 '깜짝 실적' 기대]]></title>
         <id>https://v.daum.net/v/20220630191121395</id>
         <link href="https://v.daum.net/v/20220630191121395"/>
         <updated>2022-06-30T10:30:46.116Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220630185627085"/>
         <updated>2022-06-30T10:30:46.119Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플, 한국선 인앱결제 강제 안한다..제3자 결제 허용]]></title>
-        <id>https://v.daum.net/v/20220630185624082</id>
-        <link href="https://v.daum.net/v/20220630185624082"/>
-        <updated>2022-06-30T10:30:46.120Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
