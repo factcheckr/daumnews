@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-06-30T20:25:33.410Z</updated>
+    <updated>2022-06-30T21:22:47.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["무상으로 받아안았다".. 신축 송화거리·경루동 띄우기]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5014013/0Fs8Nu6hhV</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5014013/0Fs8Nu6hhV"/>
+        <updated>2022-06-30T21:22:15.174Z</updated>
+        <content type="html"><![CDATA['코로나19' 바이러스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍콩 찾은 시진핑 "일국양제 견지해야"]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1391716/b93UmViHyD</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1783949/PZGYvU8CSV"/>
         <updated>2022-06-30T08:31:57.818Z</updated>
         <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스피 2% 가까이 하락 마감]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5031020/7E0jWqxvCy</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5031020/7E0jWqxvCy"/>
-        <updated>2022-06-30T07:20:18.029Z</updated>
-        <content type="html"><![CDATA[코스피 &amp; 코스닥]]></content>
     </entry>
 </feed>
