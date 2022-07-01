@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-07-01T10:26:45.110Z</updated>
+    <updated>2022-07-01T11:20:03.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[대통령실 "일 총리가 '한일관계 노력하자' 했다"는데.. 일 정부는 부인]]></title>
+        <title type="html"><![CDATA[제각각 다른 모습일지라도..우린 모두 연결돼있습니다]]></title>
+        <id>https://v.daum.net/v/20220701170909784</id>
+        <link href="https://v.daum.net/v/20220701170909784"/>
+        <updated>2022-07-01T11:19:18.971Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일 총리 발언 아전인수 해석했다 뺨맞은 대통령실]]></title>
         <id>https://v.daum.net/v/20220701165701413</id>
         <link href="https://v.daum.net/v/20220701165701413"/>
         <updated>2022-07-01T08:30:35.429Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220701115134837"/>
         <updated>2022-07-01T09:23:24.320Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이시영·한지민·로지·아기상어까지..해외 관광청 "한국 여행객 모셔라"]]></title>
-        <id>https://v.daum.net/v/20220701111939570</id>
-        <link href="https://v.daum.net/v/20220701111939570"/>
-        <updated>2022-07-01T10:25:57.842Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
