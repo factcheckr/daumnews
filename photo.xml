@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-07-02T07:21:13.189Z</updated>
+    <updated>2022-07-02T08:27:58.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[능소화와 낙화]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1783949/KwVgXYujFP</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1783949/KwVgXYujFP"/>
+        <updated>2022-07-02T08:27:32.143Z</updated>
+        <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["더위 날려버려"]]></title>
         <id>https://gallery.v.daum.net/p/viewer/111971/BJh4JRcpCF</id>
@@ -18,13 +25,6 @@
         <link href="https://gallery.v.daum.net/p/viewer/5014013/0u3HLJD7lz"/>
         <updated>2022-07-02T07:20:46.616Z</updated>
         <content type="html"><![CDATA['코로나19' 바이러스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파란하늘 아래 물놀이]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1783949/X5yBwkv8hG</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1783949/X5yBwkv8hG"/>
-        <updated>2022-07-02T07:20:46.617Z</updated>
-        <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3년 만에 돌아온 한강 수영장'..'더위를 부탁해'[TF사진관]]]></title>
@@ -67,6 +67,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/2603/y6gr4ET6So"/>
         <updated>2022-07-02T02:03:17.156Z</updated>
         <content type="html"><![CDATA[광주 민주화항쟁]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여자 PGA 챔피언십 우승 전인지, 금의환향]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/31583/1HVCu4LZj3</id>
+        <link href="https://gallery.v.daum.net/p/viewer/31583/1HVCu4LZj3"/>
+        <updated>2022-07-02T08:27:32.154Z</updated>
+        <content type="html"><![CDATA[인천공항 풍경]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나처럼 배곯는 아이 없도록..따뜻한 치킨 나눔 이희상씨]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/344179/uLcPVp4I6K"/>
         <updated>2022-07-01T09:23:50.413Z</updated>
         <content type="html"><![CDATA[청계천 옆 사진관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미 7공군 부사령관 만난 공군참모총장]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033571/13abuHzcSc</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033571/13abuHzcSc"/>
-        <updated>2022-07-01T09:23:50.413Z</updated>
-        <content type="html"><![CDATA[대한민국 공군]]></content>
     </entry>
 </feed>
