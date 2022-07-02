@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-07-02T06:27:56.047Z</updated>
+    <updated>2022-07-02T07:21:13.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우크라군 러군의 무기고 공격 기발하게 회피]]></title>
+        <id>https://v.daum.net/v/20220702145040103</id>
+        <link href="https://v.daum.net/v/20220702145040103"/>
+        <updated>2022-07-02T07:20:03.944Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이란 남부 지진으로 5명 사망 44명 부상]]></title>
+        <id>https://v.daum.net/v/20220702141206790</id>
+        <link href="https://v.daum.net/v/20220702141206790"/>
+        <updated>2022-07-02T07:20:03.946Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태국, 미얀마 전투기 영공 침범에 대응 출격..학생 대피 '소동']]></title>
         <id>https://v.daum.net/v/20220702140616742</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220702123642150"/>
         <updated>2022-07-02T04:41:49.887Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["침대도 전등도 흔들"..이란, 6.0 강진에 "최소 5명 사망" [영상]]]></title>
-        <id>https://v.daum.net/v/20220702123001126</id>
-        <link href="https://v.daum.net/v/20220702123001126"/>
-        <updated>2022-07-02T04:41:49.891Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐나다 건국기념일 코로나 이후 3년만에 현장·군중 행사]]></title>
-        <id>https://v.daum.net/v/20220702121929071</id>
-        <link href="https://v.daum.net/v/20220702121929071"/>
-        <updated>2022-07-02T04:41:49.891Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
