@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-07-02T05:23:42.923Z</updated>
+    <updated>2022-07-02T06:27:56.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[위클리 스마트] 필즈상 수상 유력하다는 허준이는 누구]]></title>
+        <id>https://v.daum.net/v/20220702110855502</id>
+        <link href="https://v.daum.net/v/20220702110855502"/>
+        <updated>2022-07-02T06:27:19.056Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[달콤한 사이언스] 쥐라기에 지구 지배한 공룡들 생존비결 알고보니..]]></title>
+        <id>https://v.daum.net/v/20220702110106429</id>
+        <link href="https://v.daum.net/v/20220702110106429"/>
+        <updated>2022-07-02T06:27:19.056Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[게임위드인] 넥슨 'DNF 듀얼'이 보여준 K-콘솔게임의 가능성]]></title>
         <id>https://v.daum.net/v/20220702110012403</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220702080114559"/>
         <updated>2022-07-02T02:03:08.853Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['성범죄' 온상 된 메타버스 손본다]]></title>
-        <id>https://v.daum.net/v/20220702080004492</id>
-        <link href="https://v.daum.net/v/20220702080004492"/>
-        <updated>2022-07-02T02:03:08.857Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더위먹은 '데이터 센터' 해수욕한다?..IT업계 ESG 열풍]]></title>
-        <id>https://v.daum.net/v/20220702075603455</id>
-        <link href="https://v.daum.net/v/20220702075603455"/>
-        <updated>2022-07-02T02:03:08.858Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
