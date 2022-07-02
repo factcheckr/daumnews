@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-02T04:42:51.928Z</updated>
+    <updated>2022-07-02T05:23:42.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[39세 한국계 허준이 교수..'수학계의 노벨상' 필즈상 품을까]]></title>
+        <id>https://v.daum.net/v/20220702140918766</id>
+        <link href="https://v.daum.net/v/20220702140918766"/>
+        <updated>2022-07-02T05:23:00.029Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["수백년 걸려도 못 풀어요"..이통사 '양자암호 기술'에 푹 빠졌다]]></title>
         <id>https://v.daum.net/v/20220702115802863</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220702110106429"/>
         <updated>2022-07-02T03:52:30.456Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[게임위드인] 넥슨 'DNF 듀얼'이 보여준 K-콘솔게임의 가능성]]></title>
-        <id>https://v.daum.net/v/20220702110012403</id>
-        <link href="https://v.daum.net/v/20220702110012403"/>
-        <updated>2022-07-02T03:52:30.456Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
