@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-07-02T09:21:40.414Z</updated>
+    <updated>2022-07-02T10:24:34.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더위 잊은 전력질주]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/111971/q8MH8fnXWZ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/111971/q8MH8fnXWZ"/>
+        <updated>2022-07-02T10:24:08.169Z</updated>
+        <content type="html"><![CDATA[무더운 한반도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[능소화와 낙화]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1783949/KwVgXYujFP</id>
@@ -13,18 +20,18 @@
         <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["더위 날려버려"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/111971/BJh4JRcpCF</id>
-        <link href="https://gallery.v.daum.net/p/viewer/111971/BJh4JRcpCF"/>
-        <updated>2022-07-02T07:20:46.608Z</updated>
-        <content type="html"><![CDATA[무더운 한반도]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[군 코로나19 신규 확진자 431명..누적 17만7717명]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5014013/0u3HLJD7lz</id>
         <link href="https://gallery.v.daum.net/p/viewer/5014013/0u3HLJD7lz"/>
         <updated>2022-07-02T07:20:46.616Z</updated>
         <content type="html"><![CDATA['코로나19' 바이러스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['가자 용산으로' 행진 나선 노동자대회 참가자들]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1629566/pRgzEAlf7K</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1629566/pRgzEAlf7K"/>
+        <updated>2022-07-02T10:24:08.187Z</updated>
+        <content type="html"><![CDATA[만리재사진첩]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3년 만에 돌아온 한강 수영장'..'더위를 부탁해'[TF사진관]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/344179/uLcPVp4I6K"/>
         <updated>2022-07-01T09:23:50.413Z</updated>
         <content type="html"><![CDATA[청계천 옆 사진관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미 7공군 부사령관 만난 공군참모총장]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033571/13abuHzcSc</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033571/13abuHzcSc"/>
-        <updated>2022-07-02T09:21:14.547Z</updated>
-        <content type="html"><![CDATA[대한민국 공군]]></content>
     </entry>
 </feed>
