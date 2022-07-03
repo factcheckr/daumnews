@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-07-03T12:38:11.596Z</updated>
+    <updated>2022-07-03T13:30:12.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누리호 KAIST팀 큐브위성 지상국과 양방향 통신 성공]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5204870/2bFW9sHRyj</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5204870/2bFW9sHRyj"/>
+        <updated>2022-07-03T13:29:45.607Z</updated>
+        <content type="html"><![CDATA[누리호 발사]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[과천향교 계곡에서 물놀이하며 더위 날리는 어린이들]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/111971/2RRbot9rqH</id>
+        <link href="https://gallery.v.daum.net/p/viewer/111971/2RRbot9rqH"/>
+        <updated>2022-07-03T13:29:45.607Z</updated>
+        <content type="html"><![CDATA[무더운 한반도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 재유행 조짐[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/FPdLYRcpot</id>
         <link href="https://gallery.v.daum.net/p/viewer/377110/FPdLYRcpot"/>
         <updated>2022-07-03T12:37:45.683Z</updated>
         <content type="html"><![CDATA[포토뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더위 쫓는 물놀이..6일까지 폭염 계속[포토뉴스]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/111971/HCGNZiwzcu</id>
-        <link href="https://gallery.v.daum.net/p/viewer/111971/HCGNZiwzcu"/>
-        <updated>2022-07-03T12:37:45.684Z</updated>
-        <content type="html"><![CDATA[무더운 한반도]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[군 코로나19 확진 364명 추가..누적 17만8천81명]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1518/bYySOJD7yf"/>
         <updated>2022-07-03T03:55:58.959Z</updated>
         <content type="html"><![CDATA[전국 화재사고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주지사 화상 회의 중 뉴욕 주지사와 얘기하는 바이든]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1476/88GZD7Pll5</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1476/88GZD7Pll5"/>
-        <updated>2022-07-03T03:55:58.961Z</updated>
-        <content type="html"><![CDATA[미국은 지금]]></content>
     </entry>
 </feed>
