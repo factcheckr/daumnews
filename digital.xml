@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-03T11:20:02.998Z</updated>
+    <updated>2022-07-03T12:38:11.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['IT기술로 농촌 변화'..스마트타운 조성]]></title>
+        <id>https://v.daum.net/v/20220703213327574</id>
+        <link href="https://v.daum.net/v/20220703213327574"/>
+        <updated>2022-07-03T12:37:29.220Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[흔들리는 테크산업] 중국·러시아시장서 내몰린 기업들.. 아마존마저 2분기 주가 35% 하락]]></title>
         <id>https://v.daum.net/v/20220703193427236</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220703175908906"/>
         <updated>2022-07-03T10:24:23.400Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[토종 앱마켓 '⅓ 수수료'에도.."입점 효과없네"]]></title>
-        <id>https://v.daum.net/v/20220703173238358</id>
-        <link href="https://v.daum.net/v/20220703173238358"/>
-        <updated>2022-07-03T10:24:23.401Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>

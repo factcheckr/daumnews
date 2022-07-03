@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-07-03T11:20:02.997Z</updated>
+    <updated>2022-07-03T12:38:11.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나19 재유행 조짐[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/FPdLYRcpot</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/FPdLYRcpot"/>
+        <updated>2022-07-03T12:37:45.683Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더위 쫓는 물놀이..6일까지 폭염 계속[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/111971/HCGNZiwzcu</id>
+        <link href="https://gallery.v.daum.net/p/viewer/111971/HCGNZiwzcu"/>
+        <updated>2022-07-03T12:37:45.684Z</updated>
+        <content type="html"><![CDATA[무더운 한반도]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[군 코로나19 확진 364명 추가..누적 17만8천81명]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5014013/fNWH1LmBpz</id>
         <link href="https://gallery.v.daum.net/p/viewer/5014013/fNWH1LmBpz"/>
         <updated>2022-07-03T11:19:38.313Z</updated>
         <content type="html"><![CDATA['코로나19' 바이러스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전북 지역 폭염, 대기 불안정으로 소나기]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/111971/zF0wfC5JkJ</id>
-        <link href="https://gallery.v.daum.net/p/viewer/111971/zF0wfC5JkJ"/>
-        <updated>2022-07-03T10:24:39.141Z</updated>
-        <content type="html"><![CDATA[무더운 한반도]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코트라, 걸프 국가 오만서 '한국 제품' 팝업스토어 운영]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1476/88GZD7Pll5"/>
         <updated>2022-07-03T03:55:58.961Z</updated>
         <content type="html"><![CDATA[미국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["봉사는 나의 삶" 박말순 천안 적십자사 봉사실장]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1504/9tgicp4IWN</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1504/9tgicp4IWN"/>
-        <updated>2022-07-03T03:55:58.962Z</updated>
-        <content type="html"><![CDATA[훈훈한 미담]]></content>
     </entry>
 </feed>
