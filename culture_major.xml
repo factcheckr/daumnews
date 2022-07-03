@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-07-03T10:25:01.436Z</updated>
+    <updated>2022-07-03T11:20:02.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[닫혔던 외국 하늘길 마침내 열렸다.. 6월 국제선 여객 100만명 돌파]]></title>
+        <id>https://v.daum.net/v/20220703171606953</id>
+        <link href="https://v.daum.net/v/20220703171606953"/>
+        <updated>2022-07-03T11:19:15.268Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[눈 가리고 '고래 노래' 연주..암흑서도 음악은 빛난다]]></title>
         <id>https://v.daum.net/v/20220703165407471</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220703121249642"/>
         <updated>2022-07-03T06:26:32.699Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어려운 현대미술에 첨단 기술을 입히다]]></title>
-        <id>https://v.daum.net/v/20220703120202516</id>
-        <link href="https://v.daum.net/v/20220703120202516"/>
-        <updated>2022-07-03T06:26:32.700Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
     </entry>
 </feed>
