@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-07-03T22:21:48.187Z</updated>
+    <updated>2022-07-03T23:22:48.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[유튜브뮤직의 구글찬스]③ 골든타임 끝나가는데..공정위, 조사만 1년째]]></title>
+        <id>https://v.daum.net/v/20220704064650675</id>
+        <link href="https://v.daum.net/v/20220704064650675"/>
+        <updated>2022-07-03T23:22:16.622Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인플레'에 美·유럽 통신비↑, 한국 거꾸로..'미래' 걱정하는 업계]]></title>
         <id>https://v.daum.net/v/20220704060301231</id>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국도 심상찮다.. 네이버 채용 30% 축소, 베스파 전직원 권고사직]]></title>
+        <title type="html"><![CDATA[감원 나선 한국 IT업계.. 네이버 채용 30% 축소, 베스파 전직원 권고사직]]></title>
         <id>https://v.daum.net/v/20220704030251737</id>
         <link href="https://v.daum.net/v/20220704030251737"/>
         <updated>2022-07-03T21:19:46.677Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220703215808035"/>
         <updated>2022-07-03T21:19:46.681Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['IT기술로 농촌 변화'..스마트타운 조성]]></title>
-        <id>https://v.daum.net/v/20220703213327574</id>
-        <link href="https://v.daum.net/v/20220703213327574"/>
-        <updated>2022-07-03T20:22:49.798Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

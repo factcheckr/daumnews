@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-07-03T22:21:48.186Z</updated>
+    <updated>2022-07-03T23:22:48.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[왜 멀리 가?..차로 1시간이면 끝내주는 오션뷰, 경기바다 4곳]]></title>
+        <id>https://v.daum.net/v/20220704050058408</id>
+        <link href="https://v.daum.net/v/20220704050058408"/>
+        <updated>2022-07-03T23:22:01.090Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[200년 전 한양 최고 명소 필운대에 흐른 풍류음악 들어볼까]]></title>
         <id>https://v.daum.net/v/20220704050033388</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220703203720045"/>
         <updated>2022-07-03T18:25:21.249Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아시아인·여성, 밖에서만 이슈.. 음악인들과 일할 땐 장벽 안돼"]]></title>
-        <id>https://v.daum.net/v/20220703200707718</id>
-        <link href="https://v.daum.net/v/20220703200707718"/>
-        <updated>2022-07-03T22:20:54.403Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
