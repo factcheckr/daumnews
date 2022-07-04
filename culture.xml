@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-07-04T12:49:40.468Z</updated>
+    <updated>2022-07-04T13:42:35.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박상현의 일상 속 문화사] "영혼을 치유한다".. 18세기 후반 英의사들 처방이 '사고 전환' 계기]]></title>
+        <id>https://v.daum.net/v/20220704220208140</id>
+        <link href="https://v.daum.net/v/20220704220208140"/>
+        <updated>2022-07-04T13:41:32.567Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최초로 후보 등록제 의장단 선출..9대 대구시의회 첫발]]></title>
         <id>https://v.daum.net/v/20220704214243918</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220704193259492"/>
         <updated>2022-07-04T11:19:55.774Z</updated>
         <content type="html"><![CDATA[대전일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈초대석]허민 전남대학교 한국공룡연구센터장]]></title>
-        <id>https://v.daum.net/v/20220704191625281</id>
-        <link href="https://v.daum.net/v/20220704191625281"/>
-        <updated>2022-07-04T10:27:52.904Z</updated>
-        <content type="html"><![CDATA[kbc광주방송]]></content>
     </entry>
 </feed>
