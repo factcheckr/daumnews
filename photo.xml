@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-07-04T19:22:28.273Z</updated>
+    <updated>2022-07-04T20:24:31.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뜨거워진 지구.. 알프스 돌로미티 빙하가 무너졌다]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/y1aJ5t9rMw</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/y1aJ5t9rMw"/>
+        <updated>2022-07-04T20:24:01.645Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장마에 오리도 집을 잃었다]]></title>
         <id>https://gallery.v.daum.net/p/viewer/212305/ZHTDLgOKqs</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1407/figlEJD7WH"/>
         <updated>2022-07-04T07:21:31.213Z</updated>
         <content type="html"><![CDATA[일본은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호주 집중 호우 강타.. 물에 잠긴 주택가]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033350/8DD60ypajy</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033350/8DD60ypajy"/>
-        <updated>2022-07-04T07:21:31.214Z</updated>
-        <content type="html"><![CDATA[호주는 지금]]></content>
     </entry>
 </feed>

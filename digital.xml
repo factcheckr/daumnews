@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-04T19:22:28.256Z</updated>
+    <updated>2022-07-04T20:24:31.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] "로봇 팔아 와라" KT, 직원들에 강제할당 논란]]></title>
+        <id>https://v.daum.net/v/20220705043103054</id>
+        <link href="https://v.daum.net/v/20220705043103054"/>
+        <updated>2022-07-04T20:23:44.959Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매각 결사반대→찬성? 8.5兆 카카오모빌리티는 어디로..]]></title>
         <id>https://v.daum.net/v/20220705030250717</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220704192725406"/>
         <updated>2022-07-04T11:20:11.990Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지하철 출구 '슥' 지나면 "결제됐습니다".. '태그리스' 시대 눈앞]]></title>
-        <id>https://v.daum.net/v/20220704185520021</id>
-        <link href="https://v.daum.net/v/20220704185520021"/>
-        <updated>2022-07-04T10:28:07.552Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
