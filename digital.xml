@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-05T19:20:10.742Z</updated>
+    <updated>2022-07-05T20:26:27.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구구단 겨우 외웠던 자퇴생, 독창적 해법으로 난제 풀고 세계적 수학자 반열 오르다]]></title>
+        <id>https://v.daum.net/v/20220706050608810</id>
+        <link href="https://v.daum.net/v/20220706050608810"/>
+        <updated>2022-07-05T20:25:42.932Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["환자가 약 고르는 비대면진료 위법 소지"]]></title>
         <id>https://v.daum.net/v/20220706030352026</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220705204801651"/>
         <updated>2022-07-05T12:55:53.127Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5월 글로벌 스마트폰 판매 2년만에 '1억대' 깨졌다..IT 수요 '뚝']]></title>
-        <id>https://v.daum.net/v/20220705201232054</id>
-        <link href="https://v.daum.net/v/20220705201232054"/>
-        <updated>2022-07-05T11:21:20.332Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
