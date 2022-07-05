@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-07-05T15:26:29.240Z</updated>
+    <updated>2022-07-05T16:38:10.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["변동성 관리가 핵심"..하반기 먹구름 증시 이길 펀드는?]]></title>
+        <id>https://v.daum.net/v/20220706002014427</id>
+        <link href="https://v.daum.net/v/20220706002014427"/>
+        <updated>2022-07-05T16:36:21.278Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금리공포가 2030 무주택공포 꺾었다]]></title>
         <id>https://v.daum.net/v/20220706000442274</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220705233153977"/>
         <updated>2022-07-05T15:24:47.380Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소비자물가 상승률 14년 만에 최고.."오름세 지속"]]></title>
-        <id>https://v.daum.net/v/20220705232249905</id>
-        <link href="https://v.daum.net/v/20220705232249905"/>
-        <updated>2022-07-05T15:24:47.381Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
