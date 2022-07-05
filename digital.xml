@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-05T16:38:10.320Z</updated>
+    <updated>2022-07-05T19:20:10.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["환자가 약 고르는 비대면진료 위법 소지"]]></title>
+        <id>https://v.daum.net/v/20220706030352026</id>
+        <link href="https://v.daum.net/v/20220706030352026"/>
+        <updated>2022-07-05T19:19:17.810Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대학 3학년 때 수학 본격 시작..세계 수학난제 11개 풀었다]]></title>
         <id>https://v.daum.net/v/20220706000233211</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220705201232054"/>
         <updated>2022-07-05T11:21:20.332Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플과 구글의 명분 없는 '수수료 26%']]></title>
-        <id>https://v.daum.net/v/20220705201201044</id>
-        <link href="https://v.daum.net/v/20220705201201044"/>
-        <updated>2022-07-05T11:21:20.332Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>

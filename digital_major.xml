@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-07-05T16:38:10.298Z</updated>
+    <updated>2022-07-05T19:20:10.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글·카카오 '인앱결제' 격돌]]></title>
+        <id>https://v.daum.net/v/20220706030349021</id>
+        <link href="https://v.daum.net/v/20220706030349021"/>
+        <updated>2022-07-05T19:19:29.739Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글로벌 가상화폐 대출업체들 '부도 도미노']]></title>
+        <id>https://v.daum.net/v/20220706030222945</id>
+        <link href="https://v.daum.net/v/20220706030222945"/>
+        <updated>2022-07-05T19:19:29.740Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플과 구글의 명분 없는 '수수료 26%']]></title>
+        <id>https://v.daum.net/v/20220705201201044</id>
+        <link href="https://v.daum.net/v/20220705201201044"/>
+        <updated>2022-07-05T19:19:29.741Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[르포] 뉴욕 빌딩숲·사막 순간이동.. 베일벗은 미래형 제작소]]></title>
         <id>https://v.daum.net/v/20220705161909716</id>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20220705175222622"/>
         <updated>2022-07-05T11:21:28.077Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] "대학 4학년때 뒤늦게 길 찾아..수학은 나의 한계 이해하는 과정"]]></title>
-        <id>https://v.daum.net/v/20220705162700127</id>
-        <link href="https://v.daum.net/v/20220705162700127"/>
-        <updated>2022-07-05T10:25:29.598Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['필즈상' 지도교수가 본 '학생 허준이'는?.."크게 사고 치겠더라"]]></title>
-        <id>https://v.daum.net/v/20220705173148970</id>
-        <link href="https://v.daum.net/v/20220705173148970"/>
-        <updated>2022-07-05T10:25:29.599Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이데이터 반년.."규제혁신 없이는 경쟁력 없다"]]></title>
-        <id>https://v.daum.net/v/20220705172729869</id>
-        <link href="https://v.daum.net/v/20220705172729869"/>
-        <updated>2022-07-05T09:22:40.655Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
