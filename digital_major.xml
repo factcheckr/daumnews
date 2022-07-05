@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-07-05T20:26:27.048Z</updated>
+    <updated>2022-07-05T21:21:47.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["환자가 약 고르는 비대면진료 위법 소지"]]></title>
+        <id>https://v.daum.net/v/20220706030352026</id>
+        <link href="https://v.daum.net/v/20220706030352026"/>
+        <updated>2022-07-05T21:21:10.793Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글·카카오 '인앱결제' 격돌]]></title>
         <id>https://v.daum.net/v/20220706030349021</id>
@@ -18,6 +25,27 @@
         <link href="https://v.daum.net/v/20220706030222945"/>
         <updated>2022-07-05T19:19:29.740Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시인 꿈꾸던 청년, 필즈상 수상자 만나 수학에 꽂혔다]]></title>
+        <id>https://v.daum.net/v/20220705213036532</id>
+        <link href="https://v.daum.net/v/20220705213036532"/>
+        <updated>2022-07-05T21:21:10.798Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[허준이 교수 "저 수포자 아닌데..팩트체크 필요해요"]]></title>
+        <id>https://v.daum.net/v/20220705212004292</id>
+        <link href="https://v.daum.net/v/20220705212004292"/>
+        <updated>2022-07-05T21:21:10.801Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["외로움은 사회가 풀어야 할 문제".. 사람들의 만남은 어떻게 더 많이 만들어질까?]]></title>
+        <id>https://v.daum.net/v/20220705204801651</id>
+        <link href="https://v.daum.net/v/20220705204801651"/>
+        <updated>2022-07-05T21:21:10.801Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5월 글로벌 스마트폰 판매 2년만에 '1억대' 깨졌다..IT 수요 '뚝']]></title>
@@ -46,33 +74,5 @@
         <link href="https://v.daum.net/v/20220705190736591"/>
         <updated>2022-07-05T12:56:00.398Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["엉뚱한 질문 곧잘"..옛 과외선생님이 회고한 고교중퇴 허준이]]></title>
-        <id>https://v.daum.net/v/20220705185016168</id>
-        <link href="https://v.daum.net/v/20220705185016168"/>
-        <updated>2022-07-05T11:21:28.074Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대바이오·일양약품 '바이오 떴다방' 눈총]]></title>
-        <id>https://v.daum.net/v/20220705184029950</id>
-        <link href="https://v.daum.net/v/20220705184029950"/>
-        <updated>2022-07-05T11:21:28.075Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민연금, 네카오·SKT·KT 지분 1%씩 줄였다]]></title>
-        <id>https://v.daum.net/v/20220705180658086</id>
-        <link href="https://v.daum.net/v/20220705180658086"/>
-        <updated>2022-07-05T11:21:28.075Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 '카톡' 업데이트 차단..빅테크 횡포 '점입가경']]></title>
-        <id>https://v.daum.net/v/20220705175303636</id>
-        <link href="https://v.daum.net/v/20220705175303636"/>
-        <updated>2022-07-05T11:21:28.076Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
