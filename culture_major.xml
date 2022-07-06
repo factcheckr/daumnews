@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-07-06T10:28:39.246Z</updated>
+    <updated>2022-07-06T11:22:11.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220706183642001"/>
         <updated>2022-07-06T10:27:43.431Z</updated>
         <content type="html"><![CDATA[대전일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스에 '미남당' 띄우기까지 하루 13시간 일했지만.. 불법입니다]]></title>
+        <id>https://v.daum.net/v/20220706181501396</id>
+        <link href="https://v.daum.net/v/20220706181501396"/>
+        <updated>2022-07-06T11:21:22.311Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국외소재문화재 44%가 일본에.. 일부 환수 문화재 한자리 모였다]]></title>
+        <id>https://v.daum.net/v/20220706181104275</id>
+        <link href="https://v.daum.net/v/20220706181104275"/>
+        <updated>2022-07-06T11:21:22.312Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["40년간 원고료 제자리..'넥스트 단색화' 제시할 평론가들이 없다"]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220706165305586"/>
         <updated>2022-07-06T09:34:04.074Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['尹 인생책' 프리드먼 '선택할 자유' 판매량 1.7배↑]]></title>
-        <id>https://v.daum.net/v/20220706160700517</id>
-        <link href="https://v.daum.net/v/20220706160700517"/>
-        <updated>2022-07-06T08:28:35.031Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["빵은 굉장히 짭니다" 유재석도 놀랐다 [식탐]]]></title>
-        <id>https://v.daum.net/v/20220706150148561</id>
-        <link href="https://v.daum.net/v/20220706150148561"/>
-        <updated>2022-07-06T08:28:35.035Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
