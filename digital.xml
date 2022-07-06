@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-06T14:33:12.345Z</updated>
+    <updated>2022-07-06T15:26:55.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글 '갑질'에 카카오 '맞불'..이용자 불편 누가 책임지나]]></title>
+        <id>https://v.daum.net/v/20220707000055479</id>
+        <link href="https://v.daum.net/v/20220707000055479"/>
+        <updated>2022-07-06T15:26:14.878Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나 더블링 반등..전국 오후 9시까지 1만7000명 확진]]></title>
         <id>https://v.daum.net/v/20220706215549402</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220706182444647"/>
         <updated>2022-07-06T09:34:11.313Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타트업 '억대 연봉'의 역습.."인력 구조조정 시작될 것"]]></title>
-        <id>https://v.daum.net/v/20220706180501086</id>
-        <link href="https://v.daum.net/v/20220706180501086"/>
-        <updated>2022-07-06T09:34:11.314Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
