@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-07-06T16:37:54.445Z</updated>
+    <updated>2022-07-06T17:32:11.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[다래끼 계속 난다면.. 암일 수도?]]></title>
-        <id>https://v.daum.net/v/20220707010017879</id>
-        <link href="https://v.daum.net/v/20220707010017879"/>
-        <updated>2022-07-06T16:35:52.707Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[오늘부터 최대 100mm 집중호우 예보 무더위 여전]]></title>
         <id>https://v.daum.net/v/20220707001103698</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20220707000041470"/>
         <updated>2022-07-06T15:25:58.840Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 중북부 강한 비..내일 오후~모레 새벽 시간당 30~50mm↑]]></title>
+        <id>https://v.daum.net/v/20220706210414308</id>
+        <link href="https://v.daum.net/v/20220706210414308"/>
+        <updated>2022-07-06T17:30:22.955Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
