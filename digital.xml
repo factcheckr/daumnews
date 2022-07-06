@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-06T19:24:35.262Z</updated>
+    <updated>2022-07-06T20:30:32.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['글로벌 공룡' 구글에 맞선 카카오..카톡은 진짜 삭제될까?]]></title>
+        <id>https://v.daum.net/v/20220707050514240</id>
+        <link href="https://v.daum.net/v/20220707050514240"/>
+        <updated>2022-07-06T20:28:27.584Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대학팀 큐브위성 모두 사출..궤도에 올려진 '젊은 도전']]></title>
         <id>https://v.daum.net/v/20220707022514187</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220706214822264"/>
         <updated>2022-07-06T13:48:01.234Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그린피스 "원전·가스가 녹색?"..유럽의회에 법적대응 예고]]></title>
-        <id>https://v.daum.net/v/20220706211012446</id>
-        <link href="https://v.daum.net/v/20220706211012446"/>
-        <updated>2022-07-06T12:49:01.035Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
