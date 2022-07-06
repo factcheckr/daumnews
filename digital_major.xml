@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-07-06T22:23:45.691Z</updated>
+    <updated>2022-07-06T23:22:40.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누리호 체계종합기업 KAI·한화 관심..우주산업시대 탄력]]></title>
+        <id>https://v.daum.net/v/20220707021124140</id>
+        <link href="https://v.daum.net/v/20220707021124140"/>
+        <updated>2022-07-06T23:22:08.464Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글 '갑질'에 카카오 '맞불'..이용자 불편 누가 책임지나]]></title>
         <id>https://v.daum.net/v/20220707000055479</id>
@@ -34,6 +41,13 @@
         <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[삼성 "정보보호 6939억 투자"..MS 0원·오라클 1원 '공시']]></title>
+        <id>https://v.daum.net/v/20220707073250966</id>
+        <link href="https://v.daum.net/v/20220707073250966"/>
+        <updated>2022-07-06T23:22:08.469Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[넥슨·넷마블이 달라졌다..'지스타' 출품작은]]></title>
         <id>https://v.daum.net/v/20220707061107980</id>
         <link href="https://v.daum.net/v/20220707061107980"/>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220706183604964"/>
         <updated>2022-07-06T21:21:04.852Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오후부터 새벽 사이 강한 비.. 주말 찜통 더위]]></title>
-        <id>https://v.daum.net/v/20220707040807723</id>
-        <link href="https://v.daum.net/v/20220707040807723"/>
-        <updated>2022-07-06T21:21:04.853Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["수학 성적 나쁠 때도 있지만 수포자였던 적은 없었다"]]></title>
-        <id>https://v.daum.net/v/20220707000338546</id>
-        <link href="https://v.daum.net/v/20220707000338546"/>
-        <updated>2022-07-06T21:21:04.856Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
