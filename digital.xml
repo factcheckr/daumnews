@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-07T17:31:34.006Z</updated>
+    <updated>2022-07-07T18:29:56.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하버드大 키스 정 교수 "유전자 가위는 미래 질병 치료의 핵심"]]></title>
+        <id>https://v.daum.net/v/20220708030224633</id>
+        <link href="https://v.daum.net/v/20220708030224633"/>
+        <updated>2022-07-07T18:29:19.377Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하천 범람 위험 조기 예측..서울 전역 적용 예정]]></title>
         <id>https://v.daum.net/v/20220708012216320</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220707205301814"/>
         <updated>2022-07-07T12:45:17.620Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["OTT 활성화 만큼 실시간 방송도 육성 필요" 전문가들 한 목소리]]></title>
-        <id>https://v.daum.net/v/20220707200441829</id>
-        <link href="https://v.daum.net/v/20220707200441829"/>
-        <updated>2022-07-07T11:20:33.543Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
