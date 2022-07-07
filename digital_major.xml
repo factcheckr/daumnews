@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-07-07T14:22:46.452Z</updated>
+    <updated>2022-07-07T15:30:52.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[춘천 위도개발사업 추가 성토 요청 '발목']]></title>
+        <id>https://v.daum.net/v/20220708001046653</id>
+        <link href="https://v.daum.net/v/20220708001046653"/>
+        <updated>2022-07-07T15:30:18.751Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["신형 아이폰 살려면 150만원 내라" 애플 '배짱' 해도 너무하네]]></title>
         <id>https://v.daum.net/v/20220707195040485</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220707173101822"/>
         <updated>2022-07-07T10:28:06.910Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한전 특허수 11위인데 경쟁력은 25위로 '뚝']]></title>
-        <id>https://v.daum.net/v/20220707173009765</id>
-        <link href="https://v.daum.net/v/20220707173009765"/>
-        <updated>2022-07-07T13:45:39.200Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
