@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-07-07T09:27:47.493Z</updated>
+    <updated>2022-07-07T10:28:39.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올 상반기 가장 많이 오른 외식 메뉴는 '자장면'..왜?]]></title>
+        <id>https://v.daum.net/v/20220707160750860</id>
+        <link href="https://v.daum.net/v/20220707160750860"/>
+        <updated>2022-07-07T10:27:51.243Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한 달 만에 일본으로 단체관광.."과거 북한 금강산 관광 수준 아냐"]]></title>
         <id>https://v.daum.net/v/20220707152554711</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220707070508604"/>
         <updated>2022-07-07T09:26:55.836Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 14만원, 한국 25만원..클래식 티켓값 차이나는 이유]]></title>
-        <id>https://v.daum.net/v/20220706180202995</id>
-        <link href="https://v.daum.net/v/20220706180202995"/>
-        <updated>2022-07-07T09:26:55.839Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
