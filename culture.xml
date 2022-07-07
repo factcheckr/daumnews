@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-07-07T15:30:52.662Z</updated>
+    <updated>2022-07-07T16:38:35.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고·저혈압보다 위험한 '○○○ 혈압']]></title>
+        <id>https://v.daum.net/v/20220708010015142</id>
+        <link href="https://v.daum.net/v/20220708010015142"/>
+        <updated>2022-07-07T16:37:31.887Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['문화재단' 어떻게 운영해야 하는가]]></title>
         <id>https://v.daum.net/v/20220708001134693</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220708000114481"/>
         <updated>2022-07-07T15:29:52.905Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오드리 헵번의 방은 어땠을까..'지금 이 순간'의 소중함]]></title>
-        <id>https://v.daum.net/v/20220707141743767</id>
-        <link href="https://v.daum.net/v/20220707141743767"/>
-        <updated>2022-07-07T12:45:00.617Z</updated>
-        <content type="html"><![CDATA[EBS]]></content>
     </entry>
 </feed>
