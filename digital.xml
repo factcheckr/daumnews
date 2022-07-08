@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-08T11:21:06.586Z</updated>
+    <updated>2022-07-08T12:45:03.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[날씨를 조작하는 기술, 어디까지 가능할까?]]></title>
+        <id>https://v.daum.net/v/20220708204201894</id>
+        <link href="https://v.daum.net/v/20220708204201894"/>
+        <updated>2022-07-08T12:44:21.922Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[체온 따라 색 변하는 나노섬유]]></title>
         <id>https://v.daum.net/v/20220708195357137</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['라벤더' 갤럭시S22 출시 나오나..애플·MS도 꽂힌 '보라색']]></title>
+        <title type="html"><![CDATA['라벤더' 갤럭시S22 나오나..애플·MS도 꽂힌 '보라색']]></title>
         <id>https://v.daum.net/v/20220708180807126</id>
         <link href="https://v.daum.net/v/20220708180807126"/>
         <updated>2022-07-08T09:26:37.351Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220708172404930"/>
         <updated>2022-07-08T08:41:53.997Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["상반기 블록체인 웹3 노린 해킹으로 2.6조원 피해"]]></title>
-        <id>https://v.daum.net/v/20220708172318900</id>
-        <link href="https://v.daum.net/v/20220708172318900"/>
-        <updated>2022-07-08T08:41:53.998Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
