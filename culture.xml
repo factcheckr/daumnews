@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-07-08T17:35:04.410Z</updated>
+    <updated>2022-07-08T18:31:54.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[옛 기억을 가로질러 건너가면.. 추억 속의 네가 기다리고 있을까 [전승훈의 아트로드]]]></title>
+        <id>https://v.daum.net/v/20220709030105953</id>
+        <link href="https://v.daum.net/v/20220709030105953"/>
+        <updated>2022-07-08T18:30:50.626Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다시 봐도 '명불허전' 박효신..뮤지컬 '웃는 남자'[이 공연Pick]]]></title>
         <id>https://v.daum.net/v/20220709010216595</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220708210425239"/>
         <updated>2022-07-08T12:44:03.587Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안동]"산불 피해지에서 잿물"..하천·바다 오염 심각]]></title>
-        <id>https://v.daum.net/v/20220708210248189</id>
-        <link href="https://v.daum.net/v/20220708210248189"/>
-        <updated>2022-07-08T12:44:03.593Z</updated>
-        <content type="html"><![CDATA[대구MBC]]></content>
     </entry>
 </feed>
