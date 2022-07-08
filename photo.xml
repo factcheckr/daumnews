@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-07-08T18:31:54.427Z</updated>
+    <updated>2022-07-08T19:20:04.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[취업의 문 앞에서]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/puwqsP7ABT</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/puwqsP7ABT"/>
+        <updated>2022-07-08T19:19:40.512Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[발레 무대 뒤에서]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1573204/1eQw3DJGvU</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5021010/2czbUjhVlg"/>
         <updated>2022-07-08T05:29:42.022Z</updated>
         <content type="html"><![CDATA[포토 in 월드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["계속 돌고 돈다..노인의 수레도, 가난의 굴레도"[포토다큐]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1509/VU6N2sHRoh</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1509/VU6N2sHRoh"/>
-        <updated>2022-07-08T05:29:42.026Z</updated>
-        <content type="html"><![CDATA[포토다큐]]></content>
     </entry>
 </feed>
