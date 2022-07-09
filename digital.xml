@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-09T07:22:41.589Z</updated>
+    <updated>2022-07-09T08:28:15.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["용산공원, 개방보다 정화가 먼저다"..정화 없는 시범개방은 국민 '건강권 침해']]></title>
+        <id>https://v.daum.net/v/20220709164324605</id>
+        <link href="https://v.daum.net/v/20220709164324605"/>
+        <updated>2022-07-09T08:27:28.569Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["처음 보는 이 여자, 그렇게 대단해?" 넷플릭스도 초긴장,알고보니]]></title>
         <id>https://v.daum.net/v/20220709155142126</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220709101831131"/>
         <updated>2022-07-09T04:29:30.404Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[위클리 스마트] '구글과 갈등' 카카오, 아웃링크 결제 유지할까]]></title>
-        <id>https://v.daum.net/v/20220709100020905</id>
-        <link href="https://v.daum.net/v/20220709100020905"/>
-        <updated>2022-07-09T04:29:30.406Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
