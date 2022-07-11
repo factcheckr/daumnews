@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-11T12:47:47.315Z</updated>
+    <updated>2022-07-11T13:50:01.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[80억원 횡령 의혹 받은 채 청산된 크로노스 다오..결국 소송전 돌입]]></title>
+        <id>https://v.daum.net/v/20220711223246427</id>
+        <link href="https://v.daum.net/v/20220711223246427"/>
+        <updated>2022-07-11T13:49:18.172Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앞에선 '중간요금제 공감', 뒤로는 '고가요금제 유도']]></title>
         <id>https://v.daum.net/v/20220711214058853</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220711181037550"/>
         <updated>2022-07-11T09:25:01.770Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["장관 요청에 화답했다"..이통사, 5G 중간요금제 내달 출시]]></title>
-        <id>https://v.daum.net/v/20220711174126596</id>
-        <link href="https://v.daum.net/v/20220711174126596"/>
-        <updated>2022-07-11T09:25:01.775Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
