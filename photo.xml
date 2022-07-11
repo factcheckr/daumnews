@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-07-11T21:21:50.154Z</updated>
+    <updated>2022-07-11T22:24:15.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한, 방역 선전 공세.."방역 대전 활발히 전개"]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1489/q3YSXtlfvC</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1489/q3YSXtlfvC"/>
+        <updated>2022-07-11T22:23:44.357Z</updated>
+        <content type="html"><![CDATA[북한은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스페인 한국주간 갈라디너]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029633/G8zyvYrqyB</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2329/Yuszkf0ggr"/>
         <updated>2022-07-11T06:31:06.085Z</updated>
         <content type="html"><![CDATA[영국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더위 언제 끝날까]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1461/6YEzn7GMSK</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1461/6YEzn7GMSK"/>
-        <updated>2022-07-11T06:31:06.086Z</updated>
-        <content type="html"><![CDATA[서울의 풍경]]></content>
     </entry>
 </feed>
