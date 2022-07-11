@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-07-11T18:30:06.804Z</updated>
+    <updated>2022-07-11T19:21:12.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220712030212021"/>
         <updated>2022-07-11T18:29:10.622Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미술로 씌우고 벗겨볼까 강릉서 즐기는 ' 탈' 일상]]></title>
+        <id>https://v.daum.net/v/20220712001043263</id>
+        <link href="https://v.daum.net/v/20220712001043263"/>
+        <updated>2022-07-11T19:20:13.902Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[강병로의 산야초 톡Ⅱ]  ⑬ 붓꽃]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220711191151740"/>
         <updated>2022-07-11T15:24:03.286Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신안섬의 공허한 현실적 풍경과 분단현장 실루엣 선보이다]]></title>
-        <id>https://v.daum.net/v/20220711191005712</id>
-        <link href="https://v.daum.net/v/20220711191005712"/>
-        <updated>2022-07-11T11:19:08.371Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
