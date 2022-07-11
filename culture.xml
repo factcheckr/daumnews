@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-07-11T04:00:46.806Z</updated>
+    <updated>2022-07-11T04:46:58.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파란 물감의 남자들이 선사하는 오감만족 공연]]></title>
+        <id>https://v.daum.net/v/20220711130202393</id>
+        <link href="https://v.daum.net/v/20220711130202393"/>
+        <updated>2022-07-11T04:45:52.693Z</updated>
+        <content type="html"><![CDATA[시사저널]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[지수로 보는 날씨정보] 꿉꿉한 날씨 에어컨은 켜야겠는데..]]></title>
         <id>https://v.daum.net/v/20220711112225783</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220711094805077"/>
         <updated>2022-07-11T02:05:57.267Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 '마리 퀴리', 폴란드 관객 울렸다]]></title>
-        <id>https://v.daum.net/v/20220711094727053</id>
-        <link href="https://v.daum.net/v/20220711094727053"/>
-        <updated>2022-07-11T02:05:57.268Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
