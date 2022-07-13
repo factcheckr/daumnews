@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-07-13T16:35:25.269Z</updated>
+    <updated>2022-07-13T17:29:23.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 "러시아, 우크라 민간인 납치..제네바 협약 위반한 전쟁 범죄"]]></title>
+        <id>https://v.daum.net/v/20220714011241132</id>
+        <link href="https://v.daum.net/v/20220714011241132"/>
+        <updated>2022-07-13T17:28:16.593Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐나다 중앙은행, 기준금리 2.5%로 1%P 인상.."인플레 대응"]]></title>
+        <id>https://v.daum.net/v/20220714005002962</id>
+        <link href="https://v.daum.net/v/20220714005002962"/>
+        <updated>2022-07-13T17:28:16.593Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우크라 곡물운송' 4자 협상, 3시간 만에 종료..진전 사항 언급 않아]]></title>
         <id>https://v.daum.net/v/20220714003506866</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220714000247393"/>
         <updated>2022-07-13T15:34:38.796Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[올댓차이나] 인민은행, 실물경제에 정책 지원 강화.."풍부한 유동성 유지"]]></title>
-        <id>https://v.daum.net/v/20220713235728274</id>
-        <link href="https://v.daum.net/v/20220713235728274"/>
-        <updated>2022-07-13T15:34:38.797Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이든, 중동 도착..이스라엘서 예루살렘 영사관 개관 논의]]></title>
-        <id>https://v.daum.net/v/20220713235324237</id>
-        <link href="https://v.daum.net/v/20220713235324237"/>
-        <updated>2022-07-13T15:34:38.798Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
