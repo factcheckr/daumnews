@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-07-13T19:23:46.637Z</updated>
+    <updated>2022-07-13T20:32:25.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독일 대홍수 1년.. 방치된 폐가]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/PGY56FS4de</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/PGY56FS4de"/>
+        <updated>2022-07-13T20:32:00.015Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헌책방의 매력]]></title>
         <id>https://gallery.v.daum.net/p/viewer/212305/yzlcHEdYfa</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5031020/tbnXN1hVXr"/>
         <updated>2022-07-13T08:29:21.968Z</updated>
         <content type="html"><![CDATA[코스피 &amp; 코스닥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이든 면전서 "우리 기름값은 싸" 발언한 멕시코 대통령]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5035080/y74EHXOKSb</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5035080/y74EHXOKSb"/>
-        <updated>2022-07-13T08:29:21.970Z</updated>
-        <content type="html"><![CDATA[기름값 현황]]></content>
     </entry>
 </feed>
