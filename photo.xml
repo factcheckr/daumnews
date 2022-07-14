@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-07-14T19:22:18.242Z</updated>
+    <updated>2022-07-14T20:26:55.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[물桶/김종삼]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1823/XkuKamLZoE</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1823/XkuKamLZoE"/>
+        <updated>2022-07-14T20:26:31.585Z</updated>
+        <content type="html"><![CDATA[그림과 시가 있는 아침]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한반도 가른 F-35A 편대 한미 첫 연합비행훈련]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/QjEKRNQSJI</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/QjEKRNQSJI"/>
+        <updated>2022-07-14T20:26:31.585Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내일 초복.. 더위 잊는 삼계탕 한그릇]]></title>
         <id>https://gallery.v.daum.net/p/viewer/111971/XhZeElA0vx</id>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5014013/8fkkyd9rkZ"/>
         <updated>2022-07-14T07:23:04.353Z</updated>
         <content type="html"><![CDATA['코로나19' 바이러스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["더위와 숨바꼭질해요" 분수가 신나는 아이들[퇴근길 한 컷]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1397984/3XPGuwiHps</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1397984/3XPGuwiHps"/>
-        <updated>2022-07-14T07:23:04.354Z</updated>
-        <content type="html"><![CDATA[퇴근길 한 컷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['기름 값 1897원']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5035080/VMyzPYrqhO</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5035080/VMyzPYrqhO"/>
-        <updated>2022-07-14T07:23:04.355Z</updated>
-        <content type="html"><![CDATA[기름값 현황]]></content>
     </entry>
 </feed>
