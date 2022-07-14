@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-07-14T17:34:31.633Z</updated>
+    <updated>2022-07-14T18:30:33.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인쇄소가 乙? 요즘은 출판사가 그 앞에 줄을 선다]]></title>
+        <id>https://v.daum.net/v/20220715030249173</id>
+        <link href="https://v.daum.net/v/20220715030249173"/>
+        <updated>2022-07-14T18:29:15.696Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["삼척은 조선 건국을 잉태한 곳"]]></title>
         <id>https://v.daum.net/v/20220715001109532</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220714192527617"/>
         <updated>2022-07-14T10:26:34.944Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["레고랜드 테러하겠다" 허위신고에 출동 경찰 폭행까지..40대 징역형]]></title>
-        <id>https://v.daum.net/v/20220714184303586</id>
-        <link href="https://v.daum.net/v/20220714184303586"/>
-        <updated>2022-07-14T16:38:56.297Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
