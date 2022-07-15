@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-07-15T19:19:46.148Z</updated>
+    <updated>2022-07-15T20:25:32.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[야호! 여름방학이다]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/9WFBIYrqdS</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/9WFBIYrqdS"/>
+        <updated>2022-07-15T20:25:07.119Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우산 좀 돌려주세요]]></title>
         <id>https://gallery.v.daum.net/p/viewer/212305/7cfeWFS4Km</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2329/Yn1Mf6ujUm"/>
         <updated>2022-07-15T08:30:06.444Z</updated>
         <content type="html"><![CDATA[영국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋은 비 나쁜 비 가릴 겨를 없이 일상이 돼버린 '기후위기' 단상[금주의 B컷]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/243854/zzZwV8UNjy</id>
-        <link href="https://gallery.v.daum.net/p/viewer/243854/zzZwV8UNjy"/>
-        <updated>2022-07-15T08:30:06.447Z</updated>
-        <content type="html"><![CDATA[금주의 B컷]]></content>
     </entry>
 </feed>
