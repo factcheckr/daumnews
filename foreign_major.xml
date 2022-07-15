@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-07-15T15:28:10.038Z</updated>
+    <updated>2022-07-15T16:35:39.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바이든, "4000억 원 원조".. 팔레스타인 달래기]]></title>
+        <id>https://v.daum.net/v/20220716000744245</id>
+        <link href="https://v.daum.net/v/20220716000744245"/>
+        <updated>2022-07-15T16:34:39.911Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유가 잡기 급한 바이든, 각세운 빈살만에 석유 증산 설득]]></title>
+        <id>https://v.daum.net/v/20220716000143199</id>
+        <link href="https://v.daum.net/v/20220716000143199"/>
+        <updated>2022-07-15T16:34:39.911Z</updated>
+        <content type="html"><![CDATA[중앙SUNDAY]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[옐런 美재무 "러 침공, 세계 경제 충격파..인플레 악화"(종합)]]></title>
+        <id>https://v.daum.net/v/20220715235949156</id>
+        <link href="https://v.daum.net/v/20220715235949156"/>
+        <updated>2022-07-15T16:34:39.913Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바이든, 이스라엘→사우디 직항 첫 美대통령..사우디, 영공 개방(종합)]]></title>
+        <id>https://v.daum.net/v/20220715235737148</id>
+        <link href="https://v.daum.net/v/20220715235737148"/>
+        <updated>2022-07-15T16:34:39.913Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU, 대러 7차 제재 '금' 겨냥..곡물·의약품은 완화(종합)]]></title>
+        <id>https://v.daum.net/v/20220715235508129</id>
+        <link href="https://v.daum.net/v/20220715235508129"/>
+        <updated>2022-07-15T16:34:39.914Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美국무·상무, 공급망 각료 토론회 개최.."장단기 공급망 해결책 식별"]]></title>
         <id>https://v.daum.net/v/20220715234103085</id>
@@ -18,13 +53,6 @@
         <link href="https://v.daum.net/v/20220715232606005"/>
         <updated>2022-07-15T15:26:44.722Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러 "'우크라 곡물 흑해 운송 합의' 담은 문서 조만간 마련될 것"]]></title>
-        <id>https://v.daum.net/v/20220715230845855</id>
-        <link href="https://v.daum.net/v/20220715230845855"/>
-        <updated>2022-07-15T15:26:44.722Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인플레 주범은 밀레니얼 세대? 실제 소비심리 분석해보니]]></title>
@@ -46,33 +74,5 @@
         <link href="https://v.daum.net/v/20220715224333600"/>
         <updated>2022-07-15T15:26:44.726Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미 소매점 매출, 6월에 1.0% 늘어나..총소비 강세 지속된듯]]></title>
-        <id>https://v.daum.net/v/20220715223451489</id>
-        <link href="https://v.daum.net/v/20220715223451489"/>
-        <updated>2022-07-15T14:27:11.357Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러 국방부 "우크라 빈니차 공격, 軍 무기공급 회의 겨냥한 것"]]></title>
-        <id>https://v.daum.net/v/20220715222532361</id>
-        <link href="https://v.daum.net/v/20220715222532361"/>
-        <updated>2022-07-15T14:27:11.357Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[친러 헝가리 총리, EU에 쓴소리 "대러 제재, 스스로에 총 쏜 격"]]></title>
-        <id>https://v.daum.net/v/20220715220347111</id>
-        <link href="https://v.daum.net/v/20220715220347111"/>
-        <updated>2022-07-15T14:27:11.357Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빈니차 사망자만 23명.."민간인 겨냥 잔인한 공격"]]></title>
-        <id>https://v.daum.net/v/20220715215521001</id>
-        <link href="https://v.daum.net/v/20220715215521001"/>
-        <updated>2022-07-15T13:51:53.916Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

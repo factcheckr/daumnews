@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-07-15T15:28:10.033Z</updated>
+    <updated>2022-07-15T16:35:39.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문턱 낮춘 '대학 박물관'..주민 문화공간으로 활짝]]></title>
+        <id>https://v.daum.net/v/20220715215958062</id>
+        <link href="https://v.daum.net/v/20220715215958062"/>
+        <updated>2022-07-15T16:34:54.341Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KBS대전 79년.."KBS에 바란다"]]></title>
         <id>https://v.daum.net/v/20220715215911048</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220715171800857"/>
         <updated>2022-07-15T12:48:44.700Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아트퍼니처 작가의 '회화적 조각'..곽철안 개인전 '긋']]></title>
-        <id>https://v.daum.net/v/20220715171334745</id>
-        <link href="https://v.daum.net/v/20220715171334745"/>
-        <updated>2022-07-15T09:22:43.970Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
