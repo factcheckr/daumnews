@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-07-15T06:29:47.317Z</updated>
+    <updated>2022-07-15T07:22:45.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[M2 맥북에어, 전작과 어떤 점이 달라졌나]]></title>
-        <id>https://v.daum.net/v/20220715110630827</id>
-        <link href="https://v.daum.net/v/20220715110630827"/>
-        <updated>2022-07-15T06:29:13.999Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[지구 밖의 '외계 생명체' 찾기에 탄력]]></title>
         <id>https://v.daum.net/v/20220715110210606</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220715082841854"/>
         <updated>2022-07-15T02:24:11.592Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['코인 빙하기'에 세계 최대 NFT거래소도 '꽁꽁'..직원 20% 해고]]></title>
+        <id>https://v.daum.net/v/20220715082707831</id>
+        <link href="https://v.daum.net/v/20220715082707831"/>
+        <updated>2022-07-15T07:22:15.486Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
