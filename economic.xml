@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-07-15T14:28:14.570Z</updated>
+    <updated>2022-07-15T15:28:10.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메타버스로 비용 줄이고 작업시간도 절약]]></title>
+        <id>https://v.daum.net/v/20220715233354044</id>
+        <link href="https://v.daum.net/v/20220715233354044"/>
+        <updated>2022-07-15T15:26:18.312Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세종시 주춤?..주택 공급 반토막·인구유입 시들]]></title>
         <id>https://v.daum.net/v/20220715221205192</id>
@@ -38,13 +45,6 @@
         <id>https://v.daum.net/v/20220715213629787</id>
         <link href="https://v.daum.net/v/20220715213629787"/>
         <updated>2022-07-15T12:48:04.109Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국제 원자재 가격 하락세인데..고환율이 복병]]></title>
-        <id>https://v.daum.net/v/20220715213142744</id>
-        <link href="https://v.daum.net/v/20220715213142744"/>
-        <updated>2022-07-15T12:48:04.110Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
