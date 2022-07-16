@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-07-16T11:20:27.772Z</updated>
+    <updated>2022-07-16T12:37:31.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[문화가K] 한중 현대미술 작가 18명 작품 한자리]]></title>
+        <id>https://v.daum.net/v/20220716213211201</id>
+        <link href="https://v.daum.net/v/20220716213211201"/>
+        <updated>2022-07-16T12:36:38.459Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[더스페셜리스트] 메이드 인 코리아-이게 창작 뮤지컬이라고?]]></title>
+        <id>https://v.daum.net/v/20220716204808513</id>
+        <link href="https://v.daum.net/v/20220716204808513"/>
+        <updated>2022-07-16T12:36:38.460Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무더운 복날에 뜨거운 삼계탕을 먹는 이유는?]]></title>
         <id>https://v.daum.net/v/20220716194500317</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220716161502656"/>
         <updated>2022-07-16T07:20:50.853Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닭가슴살 지겹다면.. '이 음식' 어때요?]]></title>
-        <id>https://v.daum.net/v/20220716160015487</id>
-        <link href="https://v.daum.net/v/20220716160015487"/>
-        <updated>2022-07-16T07:20:50.855Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오미크론보다 더 강한 변이가 왔다]]></title>
-        <id>https://v.daum.net/v/20220716150204937</id>
-        <link href="https://v.daum.net/v/20220716150204937"/>
-        <updated>2022-07-16T06:26:32.549Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
     </entry>
 </feed>
