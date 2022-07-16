@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2022-07-16T10:25:31.329Z</updated>
+    <updated>2022-07-16T11:20:27.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유승민 "경제, 윤석열 캠프 몇 사람 머릿속 해법으론 쉽지 않아"]]></title>
+        <id>https://v.daum.net/v/20220716192438096</id>
+        <link href="https://v.daum.net/v/20220716192438096"/>
+        <updated>2022-07-16T11:18:36.219Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민주, '대통령실 사적채용' 논란에 "내로남불 용궁채용"(종합)]]></title>
         <id>https://v.daum.net/v/20220716191817044</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220716174702213"/>
         <updated>2022-07-16T09:20:31.561Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주당, 개혁도 민생도 여성도 안 보인다]]></title>
-        <id>https://v.daum.net/v/20220716173117886</id>
-        <link href="https://v.daum.net/v/20220716173117886"/>
-        <updated>2022-07-16T09:20:31.565Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
