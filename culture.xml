@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-07-16T07:21:52.366Z</updated>
+    <updated>2022-07-16T08:28:05.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하루 만보 걷기, 당뇨병 환자 사망 위험 '뚝' ↓]]></title>
+        <id>https://v.daum.net/v/20220716170103236</id>
+        <link href="https://v.daum.net/v/20220716170103236"/>
+        <updated>2022-07-16T08:27:03.860Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폭염도 뚫지 못한 숲, 잠시 비 내려도 금세 푸릇해져]]></title>
         <id>https://v.daum.net/v/20220716161502656</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220716104102893"/>
         <updated>2022-07-16T04:35:03.706Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동해(東海) 탄생의 비밀 강릉 정동·심곡 바다부채길 다시 열리다]]></title>
-        <id>https://v.daum.net/v/20220716091421987</id>
-        <link href="https://v.daum.net/v/20220716091421987"/>
-        <updated>2022-07-16T04:35:03.706Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
