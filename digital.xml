@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-17T11:19:23.133Z</updated>
+    <updated>2022-07-17T12:39:21.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['디지털퍼스트' 1년 경향신문 편집국장 "사라진 나침반 되찾을 것"]]></title>
+        <id>https://v.daum.net/v/20220717204048126</id>
+        <link href="https://v.daum.net/v/20220717204048126"/>
+        <updated>2022-07-17T12:38:34.227Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1400억 투입 'K-백신' 임상서 멈췄다]]></title>
         <id>https://v.daum.net/v/20220717170108737</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220717144709268"/>
         <updated>2022-07-17T06:27:38.063Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심우민 교수 "헌재 변호사 광고규정 위헌판결은 명확했다"]]></title>
-        <id>https://v.daum.net/v/20220717143318052</id>
-        <link href="https://v.daum.net/v/20220717143318052"/>
-        <updated>2022-07-17T06:27:38.064Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
