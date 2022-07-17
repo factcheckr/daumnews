@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-07-17T20:24:14.586Z</updated>
+    <updated>2022-07-17T21:21:07.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220718050658490"/>
         <updated>2022-07-17T20:23:01.799Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 5일 뒤에나 통보되는 뒷북격리[베이징 노트]]]></title>
+        <id>https://v.daum.net/v/20220718045700293</id>
+        <link href="https://v.daum.net/v/20220718045700293"/>
+        <updated>2022-07-17T21:20:00.442Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라전 144일..러군, 우크라 남부 도시 공격]]></title>
+        <id>https://v.daum.net/v/20220718045337287</id>
+        <link href="https://v.daum.net/v/20220718045337287"/>
+        <updated>2022-07-17T21:20:00.442Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美, '러시아 안보위협'에 맞서 유럽에 무기판매 잇따라 승인]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220718030420970"/>
         <updated>2022-07-17T20:23:01.807Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이든 "사우디, 원유 증산".. 사우디 "논의 안했다" 일축]]></title>
-        <id>https://v.daum.net/v/20220718030321918</id>
-        <link href="https://v.daum.net/v/20220718030321918"/>
-        <updated>2022-07-17T20:23:01.808Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시진핑 3연임' 결정 앞두고.. 中 잇단 '민생불만 시위' 긴장]]></title>
-        <id>https://v.daum.net/v/20220718030315913</id>
-        <link href="https://v.daum.net/v/20220718030315913"/>
-        <updated>2022-07-17T20:23:01.809Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
