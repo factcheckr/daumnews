@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2022-07-17T13:31:34.103Z</updated>
+    <updated>2022-07-17T14:21:14.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동아일보 논설위원 "윤 대통령 메시지 아닌 감정 드러내"]]></title>
+        <id>https://v.daum.net/v/20220717223300802</id>
+        <link href="https://v.daum.net/v/20220717223300802"/>
+        <updated>2022-07-17T14:19:20.968Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제헌절에도 국회는 없었다.."野 독선에 막혀" vs "與 시간끌기"]]></title>
         <id>https://v.daum.net/v/20220717220309651</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220717211800346"/>
         <updated>2022-07-17T12:37:25.104Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신구 권력 충돌..엇갈리는 쟁점은?]]></title>
-        <id>https://v.daum.net/v/20220717211646343</id>
-        <link href="https://v.daum.net/v/20220717211646343"/>
-        <updated>2022-07-17T12:37:25.105Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
