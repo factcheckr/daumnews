@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-07-17T04:00:58.956Z</updated>
+    <updated>2022-07-17T04:43:33.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍콩 "애국 교육 강화"..학생 해외 이탈 계속]]></title>
+        <id>https://v.daum.net/v/20220717114731953</id>
+        <link href="https://v.daum.net/v/20220717114731953"/>
+        <updated>2022-07-17T04:42:26.705Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사우디 왕세자, 비현실적 에너지 정책에 물가만 오른다]]></title>
         <id>https://v.daum.net/v/20220717114552922</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220717104014715"/>
         <updated>2022-07-17T02:11:46.171Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 전 관리 "서방 '정치 바이러스' 세계 경제상황 악화"]]></title>
-        <id>https://v.daum.net/v/20220717102757552</id>
-        <link href="https://v.daum.net/v/20220717102757552"/>
-        <updated>2022-07-17T03:59:52.283Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
