@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-07-18T10:28:37.614Z</updated>
+    <updated>2022-07-18T11:20:44.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[판버러 국제 에어쇼 보러 온 존슨 영국 총리]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029577/bPlhiIaty7</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029577/bPlhiIaty7"/>
+        <updated>2022-07-18T11:20:18.808Z</updated>
+        <content type="html"><![CDATA[영국 보리스 존슨 총리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미공개 장소에서 발사되는 이스칸데르 미사일]]></title>
         <id>https://gallery.v.daum.net/p/viewer/6637/yyWUdWwz3C</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/143782/uprhWcRyoF"/>
         <updated>2022-07-18T06:31:07.282Z</updated>
         <content type="html"><![CDATA[한국의 문화유산]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['폭염' 스페인서 물싸움 축제 즐기는 사람들]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5029633/Yyiq8FS4l4</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5029633/Yyiq8FS4l4"/>
-        <updated>2022-07-18T05:35:54.076Z</updated>
-        <content type="html"><![CDATA[스페인은 지금]]></content>
     </entry>
 </feed>
