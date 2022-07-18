@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-07-18T17:32:02.484Z</updated>
+    <updated>2022-07-18T18:29:20.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220718221136747"/>
         <updated>2022-07-18T13:55:08.326Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비트코인 2만2000달러 돌파했는데..1억 간다던 플랜비, 이번엔 맞힐까]]></title>
+        <id>https://v.daum.net/v/20220718182654366</id>
+        <link href="https://v.daum.net/v/20220718182654366"/>
+        <updated>2022-07-18T18:28:49.533Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오모빌리티, 매각 확실시.."내달 자세한 진행여부 전달"]]></title>
+        <id>https://v.daum.net/v/20220718181238080</id>
+        <link href="https://v.daum.net/v/20220718181238080"/>
+        <updated>2022-07-18T18:28:49.533Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[류긍선 "카카오란 이유로 마녀사냥"..노조 "잘못된 문제인식"]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220718164538183"/>
         <updated>2022-07-18T09:23:38.554Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유럽 배터리 대전..한·중·유럽 '삼국지']]></title>
-        <id>https://v.daum.net/v/20220718160116397</id>
-        <link href="https://v.daum.net/v/20220718160116397"/>
-        <updated>2022-07-18T08:30:34.347Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또다시 '투톱 체제' 된 카카오..돌파구 찾을까]]></title>
-        <id>https://v.daum.net/v/20220718160002316</id>
-        <link href="https://v.daum.net/v/20220718160002316"/>
-        <updated>2022-07-18T08:30:34.347Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
