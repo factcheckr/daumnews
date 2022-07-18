@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-07-18T13:55:42.518Z</updated>
+    <updated>2022-07-18T14:25:12.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[콩팥병 환자, 식이섬유 늘리고 식물성 단백질 섭취했더니..]]></title>
+        <id>https://v.daum.net/v/20220718230015229</id>
+        <link href="https://v.daum.net/v/20220718230015229"/>
+        <updated>2022-07-18T14:24:06.538Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[골프 메일백➀] '핵민폐 걱정' 머리 올리러 가는 여자 골린이입니다, 뭘 챙길까요?]]></title>
         <id>https://v.daum.net/v/20220718211855909</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220718180237798"/>
         <updated>2022-07-18T09:23:12.453Z</updated>
         <content type="html"><![CDATA[이코노미조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천지역 TMS사업장, 15년간 대기오염물질 25만톤 배출]]></title>
-        <id>https://v.daum.net/v/20220718172003536</id>
-        <link href="https://v.daum.net/v/20220718172003536"/>
-        <updated>2022-07-18T10:27:35.741Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
     </entry>
 </feed>
