@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-07-19T16:36:39.941Z</updated>
+    <updated>2022-07-19T17:34:12.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가스 매장량 1·2위 러시아·이란, 반서방 '에너지 연대' 강화]]></title>
+        <id>https://v.daum.net/v/20220720010308327</id>
+        <link href="https://v.daum.net/v/20220720010308327"/>
+        <updated>2022-07-19T17:32:54.317Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[푹푹 찌는 영국·프랑스..40도 넘기며 사상 최고 기온(종합)]]></title>
+        <id>https://v.daum.net/v/20220720004141181</id>
+        <link href="https://v.daum.net/v/20220720004141181"/>
+        <updated>2022-07-19T17:32:54.318Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 코로나대응 이끈 파우치 "바이든 임기 전 은퇴"]]></title>
+        <id>https://v.daum.net/v/20220720000449829</id>
+        <link href="https://v.daum.net/v/20220720000449829"/>
+        <updated>2022-07-19T17:32:54.320Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백악관 "미국 지원받는 반도체 회사, 중국 투자 금지"..업계는 "반대"]]></title>
         <id>https://v.daum.net/v/20220720000236759</id>
         <link href="https://v.daum.net/v/20220720000236759"/>
         <updated>2022-07-19T15:27:03.148Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 유럽 비게임앱 이용자들에 다른 결제시스템 제공 허용]]></title>
+        <id>https://v.daum.net/v/20220719235200619</id>
+        <link href="https://v.daum.net/v/20220719235200619"/>
+        <updated>2022-07-19T17:32:54.324Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[팜유, 세계1위 공급국 印尼 생산 급증..9월까지 국제 거래가 20% 급락 전망]]></title>
@@ -46,33 +74,5 @@
         <link href="https://v.daum.net/v/20220719225639094"/>
         <updated>2022-07-19T14:21:02.575Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아에서도 '켄타우로스' 변이 확인.."모스크바서 5건 발견"]]></title>
-        <id>https://v.daum.net/v/20220719224252945</id>
-        <link href="https://v.daum.net/v/20220719224252945"/>
-        <updated>2022-07-19T15:27:03.156Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유럽 각지 40도 넘었는데..WMO "무더위 다음주가 최고조"]]></title>
-        <id>https://v.daum.net/v/20220719223819916</id>
-        <link href="https://v.daum.net/v/20220719223819916"/>
-        <updated>2022-07-19T15:27:03.157Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["2층 건물 삼킨 초대형 파도에 모든 것이 잠겼다"..하와이서 관측된 이상현상]]></title>
-        <id>https://v.daum.net/v/20220719220214488</id>
-        <link href="https://v.daum.net/v/20220719220214488"/>
-        <updated>2022-07-19T14:21:02.578Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["미국 돈 받으면 중국에 투자 금지"..중국 겨냥한 미 '반도체 지원법']]></title>
-        <id>https://v.daum.net/v/20220719220044441</id>
-        <link href="https://v.daum.net/v/20220719220044441"/>
-        <updated>2022-07-19T14:21:02.579Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
