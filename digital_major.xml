@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-07-20T08:31:45.447Z</updated>
+    <updated>2022-07-20T09:24:39.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[망(網)전쟁..넷플 "처음부터 무정산" VS SKB "망대가 '추가 협의' 남겨둔 것"]]></title>
-        <id>https://v.daum.net/v/20220720163542869</id>
-        <link href="https://v.daum.net/v/20220720163542869"/>
-        <updated>2022-07-20T08:31:11.217Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[국내 통신 3사에 5G 중간요금제는 '압박'..넷플릭스 '망사용료'는 "답 못해"]]></title>
         <id>https://v.daum.net/v/20220720163011565</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220720145752346"/>
         <updated>2022-07-20T07:22:04.634Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[일문일답]이종호 장관 "통신 공공성 고려해 탄소 무상할당 검토"]]></title>
+        <id>https://v.daum.net/v/20220720145554257</id>
+        <link href="https://v.daum.net/v/20220720145554257"/>
+        <updated>2022-07-20T09:24:02.278Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
