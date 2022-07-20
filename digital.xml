@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-20T14:23:03.322Z</updated>
+    <updated>2022-07-20T15:26:12.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지갑 얇은 MZ세대 잡자..불붙은 '디지털 외상' 서비스]]></title>
+        <id>https://v.daum.net/v/20220721000217308</id>
+        <link href="https://v.daum.net/v/20220721000217308"/>
+        <updated>2022-07-20T15:25:28.679Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폰·워치로 "약 깜빡했네" 안다..애플 '헬스케어' 보고서 공개]]></title>
         <id>https://v.daum.net/v/20220720210003709</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220720192931323"/>
         <updated>2022-07-20T11:19:54.054Z</updated>
         <content type="html"><![CDATA[대전일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15만명 넘어선 일본 코로나 일일 확진자 '역대 최다']]></title>
-        <id>https://v.daum.net/v/20220720192944333</id>
-        <link href="https://v.daum.net/v/20220720192944333"/>
-        <updated>2022-07-20T11:19:54.056Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
