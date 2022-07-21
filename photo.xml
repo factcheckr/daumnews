@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-07-21T18:31:36.652Z</updated>
+    <updated>2022-07-21T19:21:18.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이한결 기자 '이달의 보도 사진상']]></title>
+        <id>https://gallery.v.daum.net/p/viewer/2323/9W2l6ZQS2b</id>
+        <link href="https://gallery.v.daum.net/p/viewer/2323/9W2l6ZQS2b"/>
+        <updated>2022-07-21T19:20:48.176Z</updated>
+        <content type="html"><![CDATA[보도사진상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국보 '반가사유상' 지폐형 기념메달 출시]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5030433/4ZLgA2kUpe</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2329/HYPI9c1iCa"/>
         <updated>2022-07-21T06:32:07.176Z</updated>
         <content type="html"><![CDATA[영국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태평양 공군지휘관 화상회의' 참석한 정상화 공군참모총장]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033571/1hLTFelfpU</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033571/1hLTFelfpU"/>
-        <updated>2022-07-21T06:32:07.176Z</updated>
-        <content type="html"><![CDATA[대한민국 공군]]></content>
     </entry>
 </feed>
