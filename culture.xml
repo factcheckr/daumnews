@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-07-21T16:33:21.896Z</updated>
+    <updated>2022-07-21T17:28:15.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[계속 '깜박' 하길래 뇌 걱정했더니.. '이곳' 문제라고?]]></title>
-        <id>https://v.daum.net/v/20220722010018924</id>
-        <link href="https://v.daum.net/v/20220722010018924"/>
-        <updated>2022-07-21T16:32:25.479Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[사라진 외국인 근로자 빈자리 채운 '농가의 그늘']]></title>
         <id>https://v.daum.net/v/20220722001112707</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20220722000035478"/>
         <updated>2022-07-21T15:25:39.484Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['훈민정음 상주본' 회수 본격화하나..소장자 집·사무실 첫 수색]]></title>
+        <id>https://v.daum.net/v/20220721232203180</id>
+        <link href="https://v.daum.net/v/20220721232203180"/>
+        <updated>2022-07-21T17:27:12.560Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
