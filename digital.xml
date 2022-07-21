@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-21T12:48:16.989Z</updated>
+    <updated>2022-07-21T13:46:17.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['위치 정보 사용' 끄기가 '데이터 보호' 만능 해결책은 아니다[정은진의 기술을 기술하다]]]></title>
+        <id>https://v.daum.net/v/20220721214805333</id>
+        <link href="https://v.daum.net/v/20220721214805333"/>
+        <updated>2022-07-21T13:45:29.358Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재용 달려간 ASML '행복한 비명'.."11조원어치 주문 들어왔다"]]></title>
         <id>https://v.daum.net/v/20220721210102813</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220721191606327"/>
         <updated>2022-07-21T10:27:07.003Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[짚어봅시다] '반도체 강국' 해법 내놨지만.. 野협조·취약한 중기지원 관건]]></title>
-        <id>https://v.daum.net/v/20220721190017071</id>
-        <link href="https://v.daum.net/v/20220721190017071"/>
-        <updated>2022-07-21T10:27:07.003Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
