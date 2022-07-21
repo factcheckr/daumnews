@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-07-21T22:24:08.257Z</updated>
+    <updated>2022-07-21T23:25:25.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[헬스케어로 질주하는 아마존..이번엔 5조원 들여 진료 서비스 원메디컬 인수]]></title>
-        <id>https://v.daum.net/v/20220722055739678</id>
-        <link href="https://v.daum.net/v/20220722055739678"/>
-        <updated>2022-07-21T22:23:33.580Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[어젯밤도 보도블록에서 1시간.. 택시대란 해법, 안찾나 못찾나]]></title>
         <id>https://v.daum.net/v/20220722050013986</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220721210012803"/>
         <updated>2022-07-21T18:30:57.053Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빛으로 동작하는 양자 엔진 세계 첫 구현]]></title>
+        <id>https://v.daum.net/v/20220722075739196</id>
+        <link href="https://v.daum.net/v/20220722075739196"/>
+        <updated>2022-07-21T23:24:53.598Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
