@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-07-21T06:32:35.838Z</updated>
+    <updated>2022-07-21T07:22:18.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA["한국 웹툰 글로벌화 걸림돌은 인기 작품..이론도 수출해야"]]></title>
-        <id>https://v.daum.net/v/20220721140008899</id>
-        <link href="https://v.daum.net/v/20220721140008899"/>
-        <updated>2022-07-21T06:31:40.291Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[여름 휴가철 인천공항·인천항 '북적'..3년 만에 특별수송대책 시행]]></title>
         <id>https://v.daum.net/v/20220721111905016</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220721112010076"/>
         <updated>2022-07-21T04:01:25.963Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19 오미크론 변이 대응 백신 언제 나오나..가을에야 공급될 듯]]></title>
+        <id>https://v.daum.net/v/20220721110955575</id>
+        <link href="https://v.daum.net/v/20220721110955575"/>
+        <updated>2022-07-21T07:21:24.731Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
