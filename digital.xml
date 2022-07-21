@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-21T19:21:18.078Z</updated>
+    <updated>2022-07-21T20:28:17.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어젯밤도 보도블록에서 1시간.. 택시대란 해법, 안찾나 못찾나]]></title>
+        <id>https://v.daum.net/v/20220722050013986</id>
+        <link href="https://v.daum.net/v/20220722050013986"/>
+        <updated>2022-07-21T20:27:35.835Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['뉴 스페이스' 향하는 누리호.. 고도화사업 이끌 '우주기업' 뽑는다]]></title>
         <id>https://v.daum.net/v/20220722030315382</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220721214805333"/>
         <updated>2022-07-21T13:45:29.358Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재용 달려간 ASML '행복한 비명'.."11조원어치 주문 들어왔다"]]></title>
-        <id>https://v.daum.net/v/20220721210102813</id>
-        <link href="https://v.daum.net/v/20220721210102813"/>
-        <updated>2022-07-21T12:47:34.677Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
