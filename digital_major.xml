@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-07-22T12:45:11.589Z</updated>
+    <updated>2022-07-22T13:43:06.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["인구 500만 핀란드도 방폐장 40년 걸려"..방폐장 추진의 모순]]></title>
+        <id>https://v.daum.net/v/20220722173230341</id>
+        <link href="https://v.daum.net/v/20220722173230341"/>
+        <updated>2022-07-22T13:42:30.561Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['암세포 잡는' 대장균..위치 좌표 찍으면 항암제 맞춤 배달]]></title>
         <id>https://v.daum.net/v/20220722170606532</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220722110316703"/>
         <updated>2022-07-22T08:31:50.800Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네카오 노조, 단체행동 예고.. '노사 갈등' 격화]]></title>
-        <id>https://v.daum.net/v/20220722134553697</id>
-        <link href="https://v.daum.net/v/20220722134553697"/>
-        <updated>2022-07-22T08:31:50.801Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
