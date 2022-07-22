@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-07-22T08:32:27.288Z</updated>
+    <updated>2022-07-22T09:24:22.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220722170606532"/>
         <updated>2022-07-22T08:31:50.793Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[르포] "가루·시럽·알약 전부 부족".. 6차 유행에 어린이용 타이레놀 수급난]]></title>
+        <id>https://v.daum.net/v/20220722162003011</id>
+        <link href="https://v.daum.net/v/20220722162003011"/>
+        <updated>2022-07-22T09:23:45.938Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 진화 패턴이 달라졌다]]></title>
+        <id>https://v.daum.net/v/20220722160907648</id>
+        <link href="https://v.daum.net/v/20220722160907648"/>
+        <updated>2022-07-22T09:23:45.938Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오미크론 초기 감염자 BA.4·BA.5 변이 재감염 가능성 낮아]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220722112349733"/>
         <updated>2022-07-22T06:31:49.659Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["공학은 누구나 도전하고 잘할 수 있는 분야"]]></title>
-        <id>https://v.daum.net/v/20220722111401199</id>
-        <link href="https://v.daum.net/v/20220722111401199"/>
-        <updated>2022-07-22T05:31:49.341Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시 쓰고 그림 그리고..'한국도 초거대 AI 개발 '불' 붙었다]]></title>
-        <id>https://v.daum.net/v/20220722105855412</id>
-        <link href="https://v.daum.net/v/20220722105855412"/>
-        <updated>2022-07-22T05:31:49.344Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
