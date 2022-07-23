@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-07-23T14:21:47.438Z</updated>
+    <updated>2022-07-23T15:24:57.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[곡물 수출 합의 하루도 안 돼 공격]]></title>
+        <id>https://v.daum.net/v/20220723213605266</id>
+        <link href="https://v.daum.net/v/20220723213605266"/>
+        <updated>2022-07-23T15:23:43.523Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남아공 전 대통령 "남아공판 '아랍의 봄' 닥칠 가능성"]]></title>
         <id>https://v.daum.net/v/20220723213031198</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220723200102510"/>
         <updated>2022-07-23T12:38:46.134Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헝가리 총리 "우크라, 이렇게는 전쟁 못이겨..평화 전략 필요"]]></title>
-        <id>https://v.daum.net/v/20220723195742475</id>
-        <link href="https://v.daum.net/v/20220723195742475"/>
-        <updated>2022-07-23T12:38:46.135Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
