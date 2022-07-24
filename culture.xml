@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-07-24T10:25:36.747Z</updated>
+    <updated>2022-07-24T11:20:47.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빛으로 재탄생한 방의걸 화백 작품과 몬드리안 프로젝트의 공통점보니]]></title>
+        <id>https://v.daum.net/v/20220724195442923</id>
+        <link href="https://v.daum.net/v/20220724195442923"/>
+        <updated>2022-07-24T11:19:38.200Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오한에 허리 통증까지..여름감기로 오해하기 쉬운 '신우신염']]></title>
         <id>https://v.daum.net/v/20220724192003660</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220724122231008"/>
         <updated>2022-07-24T07:22:16.146Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한국적 사진예술' 토대 마련한 한정식 교수 별세]]></title>
-        <id>https://v.daum.net/v/20220724135501178</id>
-        <link href="https://v.daum.net/v/20220724135501178"/>
-        <updated>2022-07-24T07:22:16.146Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
