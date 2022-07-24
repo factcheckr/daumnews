@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-07-24T17:25:45.198Z</updated>
+    <updated>2022-07-24T18:30:05.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장마 끝, 폭염 시작..이번 주 33도 안팎 무더위 온다]]></title>
+        <id>https://v.daum.net/v/20220724202712258</id>
+        <link href="https://v.daum.net/v/20220724202712258"/>
+        <updated>2022-07-24T18:28:51.357Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빛으로 재탄생한 방의걸 화백 작품과 몬드리안 프로젝트의 공통점보니]]></title>
+        <id>https://v.daum.net/v/20220724195442923</id>
+        <link href="https://v.daum.net/v/20220724195442923"/>
+        <updated>2022-07-24T18:28:51.357Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]이건희 컬렉션이 위험하다..100년된 고서화 1년째 전시]]></title>
         <id>https://v.daum.net/v/20220724173400380</id>
@@ -34,13 +48,6 @@
         <content type="html"><![CDATA[한겨레]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] '靑 낙하산 홍역' 한국성장금융, 핵심인력 줄줄이 떠난다]]></title>
-        <id>https://v.daum.net/v/20220724150159613</id>
-        <link href="https://v.daum.net/v/20220724150159613"/>
-        <updated>2022-07-24T09:22:24.719Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[파격의 '숲' 수묵화..여백 대신 생명의 기운 꽉 채웠다]]></title>
         <id>https://v.daum.net/v/20220725000147606</id>
         <link href="https://v.daum.net/v/20220725000147606"/>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220724203703358"/>
         <updated>2022-07-24T15:24:16.894Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강원 동해안 해수욕장 주말 이틀간 28만9천명 찾아]]></title>
-        <id>https://v.daum.net/v/20220724180132900</id>
-        <link href="https://v.daum.net/v/20220724180132900"/>
-        <updated>2022-07-24T15:24:16.877Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
