@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메인뉴스</title>
-    <updated>2022-07-24T13:35:40.101Z</updated>
+    <updated>2022-07-24T14:21:14.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도로 무법자에서 방범대로..라이더들의 변신]]></title>
+        <id>https://v.daum.net/v/20220724231310383</id>
+        <link href="https://v.daum.net/v/20220724231310383"/>
+        <updated>2022-07-24T14:19:24.551Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나 확진자 전날 절반 수준..주말만 보면 14주만에 최고]]></title>
         <id>https://v.daum.net/v/20220724222003080</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220724215309877"/>
         <updated>2022-07-24T13:33:01.424Z</updated>
         <content type="html"><![CDATA[kbc광주방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[점유율 높이는 민간 자전거..공영 '누비자' 위협?]]></title>
-        <id>https://v.daum.net/v/20220724214917848</id>
-        <link href="https://v.daum.net/v/20220724214917848"/>
-        <updated>2022-07-24T13:33:01.426Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
