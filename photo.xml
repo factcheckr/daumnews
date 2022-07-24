@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-07-24T19:21:11.874Z</updated>
+    <updated>2022-07-24T20:25:44.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[절정 맞은 휴가철, 붐비는 인천공항]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/GV1mUD3oLE</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/GV1mUD3oLE"/>
+        <updated>2022-07-24T20:25:08.837Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장맛비로 한때 도로 통제]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1783949/uFNH2O7AzB</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5035080/VhhuWQOKhb"/>
         <updated>2022-07-24T06:28:44.142Z</updated>
         <content type="html"><![CDATA[기름값 현황]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 천문학자 부산 집결..국제천문연맹총회 8월 2일 개막]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033428/ywuDyPsbSM</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033428/ywuDyPsbSM"/>
-        <updated>2022-07-24T03:59:10.043Z</updated>
-        <content type="html"><![CDATA[오스트리아는 지금]]></content>
     </entry>
 </feed>
