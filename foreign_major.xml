@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-07-24T15:25:12.663Z</updated>
+    <updated>2022-07-24T16:32:26.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日최대 활화산 '사쿠라지마' 분화..당국 "피난"]]></title>
+        <id>https://v.daum.net/v/20220724223102163</id>
+        <link href="https://v.daum.net/v/20220724223102163"/>
+        <updated>2022-07-24T16:31:26.167Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백악관 코로나19 대응 조정관 "바이든 상태 매우 호전"]]></title>
         <id>https://v.daum.net/v/20220724223029160</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220724212548674"/>
         <updated>2022-07-24T13:34:17.395Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日 사쿠라지마 섬 분화..기상청 경계 레벨 5 '피난'으로 지정]]></title>
-        <id>https://v.daum.net/v/20220724211622621</id>
-        <link href="https://v.daum.net/v/20220724211622621"/>
-        <updated>2022-07-24T13:34:17.396Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
