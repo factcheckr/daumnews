@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-25T19:20:41.882Z</updated>
+    <updated>2022-07-25T20:24:48.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]임기 끝난 지 3달..나랏돈으로 떠난 11일 유럽출장]]></title>
+        <id>https://v.daum.net/v/20220726045802382</id>
+        <link href="https://v.daum.net/v/20220726045802382"/>
+        <updated>2022-07-25T20:24:01.134Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['15초 동영상' 중국의 틱톡, 유튜브 제쳤다]]></title>
         <id>https://v.daum.net/v/20220726030158687</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220726000002905"/>
         <updated>2022-07-25T15:26:31.631Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레트로 열풍, '보물'로 거듭난 과거의 유물들]]></title>
-        <id>https://v.daum.net/v/20220725204502711</id>
-        <link href="https://v.daum.net/v/20220725204502711"/>
-        <updated>2022-07-25T12:47:53.863Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
