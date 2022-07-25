@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-25T17:30:01.419Z</updated>
+    <updated>2022-07-25T18:31:41.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['15초 동영상' 중국의 틱톡, 유튜브 제쳤다]]></title>
+        <id>https://v.daum.net/v/20220726030158687</id>
+        <link href="https://v.daum.net/v/20220726030158687"/>
+        <updated>2022-07-25T18:30:58.961Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[좋은 기억 vs 나쁜 기억..기억에 감정 입혀지는 원리는?]]></title>
         <id>https://v.daum.net/v/20220726013413507</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220725204502711"/>
         <updated>2022-07-25T12:47:53.863Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠팡 노조 "합의 파기 아닌 이미 부결된 안건..농성장 원상복구 해야"]]></title>
-        <id>https://v.daum.net/v/20220725201507262</id>
-        <link href="https://v.daum.net/v/20220725201507262"/>
-        <updated>2022-07-25T11:21:44.551Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
