@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-07-25T16:33:29.924Z</updated>
+    <updated>2022-07-25T17:30:01.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA["월가 투자자들, 연준이 내년 금리인하 돌아설 것에 베팅"]]></title>
-        <id>https://v.daum.net/v/20220726005717363</id>
-        <link href="https://v.daum.net/v/20220726005717363"/>
-        <updated>2022-07-25T16:31:55.592Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[금융사 몰리는 싱가포르, 떠나는 한국..규제가 갈랐다]]></title>
         <id>https://v.daum.net/v/20220726004204320</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20220725223609419"/>
         <updated>2022-07-25T13:47:08.363Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부상하는 대형주, 주춤하는 중소형주..입지 바뀌나]]></title>
+        <id>https://v.daum.net/v/20220725222222309</id>
+        <link href="https://v.daum.net/v/20220725222222309"/>
+        <updated>2022-07-25T17:28:34.100Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
