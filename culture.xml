@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-07-25T11:22:25.403Z</updated>
+    <updated>2022-07-25T12:48:38.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[날씨] 장마 끝..전국에 본격 폭염 시작]]></title>
+        <title type="html"><![CDATA[충북문화재단 무예 주제 공연도 재검토 지시]]></title>
+        <id>https://v.daum.net/v/20220725210037005</id>
+        <link href="https://v.daum.net/v/20220725210037005"/>
+        <updated>2022-07-25T12:47:35.174Z</updated>
+        <content type="html"><![CDATA[CJB청주방송]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 장마 끝..전국 본격적인 폭염 시작]]></title>
         <id>https://v.daum.net/v/20220725201014198</id>
         <link href="https://v.daum.net/v/20220725201014198"/>
         <updated>2022-07-25T11:21:27.781Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220725190003892"/>
         <updated>2022-07-25T10:27:18.828Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내일 '중복' 불볕더위 이어져..모레까지 강원 영서지역 소나기]]></title>
-        <id>https://v.daum.net/v/20220725182916389</id>
-        <link href="https://v.daum.net/v/20220725182916389"/>
-        <updated>2022-07-25T11:21:27.789Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
