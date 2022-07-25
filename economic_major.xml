@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-07-25T12:48:38.969Z</updated>
+    <updated>2022-07-25T13:48:45.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원유가격 협상 난항..우유 대란 오나?]]></title>
+        <id>https://v.daum.net/v/20220725212738525</id>
+        <link href="https://v.daum.net/v/20220725212738525"/>
+        <updated>2022-07-25T13:47:17.092Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[높아진 변동금리, 고정금리와 '역전'.. 차주들 갈아탈까]]></title>
+        <id>https://v.daum.net/v/20220725210144024</id>
+        <link href="https://v.daum.net/v/20220725210144024"/>
+        <updated>2022-07-25T13:47:17.093Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[휴가철 코로나 재확산 '우려'..자율방역 '글쎄']]></title>
+        <id>https://v.daum.net/v/20220725204604740</id>
+        <link href="https://v.daum.net/v/20220725204604740"/>
+        <updated>2022-07-25T13:47:17.099Z</updated>
+        <content type="html"><![CDATA[kbc광주방송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계 최초 3나노 반도체 양산..수도권 공장도 증설]]></title>
         <id>https://v.daum.net/v/20220725204503717</id>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20220725201709285"/>
         <updated>2022-07-25T12:47:08.015Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼맥] 지방공항에 거는 기대, 그리고 우려]]></title>
-        <id>https://v.daum.net/v/20220725201534264</id>
-        <link href="https://v.daum.net/v/20220725201534264"/>
-        <updated>2022-07-25T12:47:08.016Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 봉쇄·G2 무역 전쟁에.. 수출비중 中 ↓·美 ↑]]></title>
-        <id>https://v.daum.net/v/20220725201213227</id>
-        <link href="https://v.daum.net/v/20220725201213227"/>
-        <updated>2022-07-25T12:47:08.018Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소득세 개편도 부자감세? 가장 큰 혜택은 8천만 원 이상 고소득자들]]></title>
-        <id>https://v.daum.net/v/20220725200713154</id>
-        <link href="https://v.daum.net/v/20220725200713154"/>
-        <updated>2022-07-25T12:47:08.019Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>

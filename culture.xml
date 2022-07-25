@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-07-25T12:48:38.955Z</updated>
+    <updated>2022-07-25T13:48:45.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박보균 장관 "오영수·모니카, K컬처 새 지평 열어줄 것"]]></title>
+        <id>https://v.daum.net/v/20220725220730153</id>
+        <link href="https://v.daum.net/v/20220725220730153"/>
+        <updated>2022-07-25T13:47:43.758Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[충북문화재단 무예 주제 공연도 재검토 지시]]></title>
         <id>https://v.daum.net/v/20220725210037005</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220725190045910"/>
         <updated>2022-07-25T10:27:18.827Z</updated>
         <content type="html"><![CDATA[EBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프랑스발레의 별, 심장 멎을 듯한 파드되]]></title>
-        <id>https://v.daum.net/v/20220725190003892</id>
-        <link href="https://v.daum.net/v/20220725190003892"/>
-        <updated>2022-07-25T10:27:18.828Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
