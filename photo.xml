@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-07-26T16:33:46.509Z</updated>
+    <updated>2022-07-26T17:26:51.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/2648/tFrlD0JGWg"/>
         <updated>2022-07-26T12:45:28.539Z</updated>
         <content type="html"><![CDATA[국회 대정부질문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미술관의 소소한 풍경]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/0rQbWFeWz8</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/0rQbWFeWz8"/>
+        <updated>2022-07-26T17:26:26.276Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태국 주재 미얀마 대사관 앞 시위하는 미얀마 사람들]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2904/84HEP9cpWf"/>
         <updated>2022-07-26T07:22:36.075Z</updated>
         <content type="html"><![CDATA[프랑스 마크롱 대통령]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중복더위 동물들도 보양식]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1783949/pe9Rgelfy4</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1783949/pe9Rgelfy4"/>
-        <updated>2022-07-26T07:22:36.075Z</updated>
-        <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
     </entry>
 </feed>
