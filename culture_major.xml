@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-07-26T08:29:16.231Z</updated>
+    <updated>2022-07-26T09:23:59.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[눈부신 호수 앞두고 끙끙 앓다.. 또 오라는 뜻 맞지?]]></title>
+        <id>https://v.daum.net/v/20220726160902623</id>
+        <link href="https://v.daum.net/v/20220726160902623"/>
+        <updated>2022-07-26T09:23:04.291Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시립미술관 없는 인천..빨라야 2027년 개관]]></title>
         <id>https://v.daum.net/v/20220726145725568</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220726111606089"/>
         <updated>2022-07-26T05:44:09.513Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상장 19년째 배당 거르지 않는 '눈높이' 대교]]></title>
-        <id>https://v.daum.net/v/20220726110503410</id>
-        <link href="https://v.daum.net/v/20220726110503410"/>
-        <updated>2022-07-26T05:44:09.514Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
 </feed>
