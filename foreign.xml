@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-07-26T13:45:09.311Z</updated>
+    <updated>2022-07-26T14:21:49.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러 "노르트스트림1 터빈, 안전상 1개 꺼야..정확한 상태 몰라"]]></title>
+        <id>https://v.daum.net/v/20220726230838964</id>
+        <link href="https://v.daum.net/v/20220726230838964"/>
+        <updated>2022-07-26T14:20:33.712Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영국, 러시아 법무부 장관 등 제재..입국 금지·자산 동결]]></title>
+        <id>https://v.daum.net/v/20220726225452843</id>
+        <link href="https://v.daum.net/v/20220726225452843"/>
+        <updated>2022-07-26T14:20:33.712Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 "北 악의적 사이버 활동 추적 위해 모든 가용한 정책 도구 사용"]]></title>
         <id>https://v.daum.net/v/20220726223819692</id>
         <link href="https://v.daum.net/v/20220726223819692"/>
         <updated>2022-07-26T13:44:05.584Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU 회원국, 가스 수요 15% 감축 방안에 합의..러 공급차질 대비]]></title>
-        <id>https://v.daum.net/v/20220726223213616</id>
-        <link href="https://v.daum.net/v/20220726223213616"/>
-        <updated>2022-07-26T13:44:05.586Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[Q&A] '공중보건 비상사태' 원숭이두창..증상부터 치료·백신 현황은?]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220726221243434"/>
         <updated>2022-07-26T13:44:05.589Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["타도 러시아" 하나로 뭉친 EU.. 천연가스 소비 감축안 합의]]></title>
-        <id>https://v.daum.net/v/20220726220102257</id>
-        <link href="https://v.daum.net/v/20220726220102257"/>
-        <updated>2022-07-26T13:44:05.590Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
