@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-26T14:21:49.594Z</updated>
+    <updated>2022-07-26T15:28:02.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버 노조 "자회사도 처우 개선해달라" 단체행동 예고]]></title>
+        <id>https://v.daum.net/v/20220727000154330</id>
+        <link href="https://v.daum.net/v/20220727000154330"/>
+        <updated>2022-07-26T15:27:20.986Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈K] 반도체 학과 증원..지역 대학 소외되나?]]></title>
         <id>https://v.daum.net/v/20220726202943298</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220726163631571"/>
         <updated>2022-07-26T08:28:31.787Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 5개 계열사 "계열사 임금 차별 안돼..파업도 고려"]]></title>
-        <id>https://v.daum.net/v/20220726163009369</id>
-        <link href="https://v.daum.net/v/20220726163009369"/>
-        <updated>2022-07-26T08:28:31.788Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>

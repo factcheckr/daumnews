@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-07-26T14:21:49.591Z</updated>
+    <updated>2022-07-26T15:28:02.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버 5개 계열사 "계열사 임금 차별 안돼..파업도 고려"]]></title>
+        <id>https://v.daum.net/v/20220726163009369</id>
+        <link href="https://v.daum.net/v/20220726163009369"/>
+        <updated>2022-07-26T15:27:29.165Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["개인정보 제공해야 인스타 쓸 수 있다고?"..메타 횡포 도마에]]></title>
         <id>https://v.daum.net/v/20220726162443148</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220726152509701"/>
         <updated>2022-07-26T07:22:27.208Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아주매운맛' 집단행동까지..네이버노조, 파업도 MZ스럽게]]></title>
-        <id>https://v.daum.net/v/20220726150205767</id>
-        <link href="https://v.daum.net/v/20220726150205767"/>
-        <updated>2022-07-26T07:22:27.208Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
