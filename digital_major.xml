@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-07-26T10:28:31.091Z</updated>
+    <updated>2022-07-26T11:21:17.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -32,13 +32,6 @@
         <link href="https://v.daum.net/v/20220726120012980"/>
         <updated>2022-07-26T08:28:41.062Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플 아이폰13 중국은 할인, 일본은 인상, 한국 그대로..왜?]]></title>
-        <id>https://v.daum.net/v/20220726154507548</id>
-        <link href="https://v.daum.net/v/20220726154507548"/>
-        <updated>2022-07-26T07:22:27.206Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["파업도 게임처럼" 네이버 노조 이색 단체행동 눈길]]></title>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220726150205767"/>
         <updated>2022-07-26T07:22:27.208Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["애플·구글·MS·아마존, 불법채굴 금 사서 썼다"]]></title>
+        <id>https://v.daum.net/v/20220726145243382</id>
+        <link href="https://v.daum.net/v/20220726145243382"/>
+        <updated>2022-07-26T11:20:44.125Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
