@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-27T06:30:51.983Z</updated>
+    <updated>2022-07-27T07:23:55.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LG디스플레이, 국내 LCD 생산 중단..OLED 전환 더 빨라진다]]></title>
+        <id>https://v.daum.net/v/20220727161525190</id>
+        <link href="https://v.daum.net/v/20220727161525190"/>
+        <updated>2022-07-27T07:23:17.715Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 미세플라스틱 흡입 독성 세계 첫 확인..서울 대기 중 존재도 확인]]></title>
+        <id>https://v.daum.net/v/20220727154419685</id>
+        <link href="https://v.daum.net/v/20220727154419685"/>
+        <updated>2022-07-27T07:23:17.716Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최태원·바이든 '코로나 딛고' 회동, 美 반도체 투자 전기 열린다(종합)]]></title>
         <id>https://v.daum.net/v/20220727152240553</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220727143056306"/>
         <updated>2022-07-27T05:36:58.403Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["갤럭시Z플립4 이렇게 생겼다"]]></title>
-        <id>https://v.daum.net/v/20220727143027287</id>
-        <link href="https://v.daum.net/v/20220727143027287"/>
-        <updated>2022-07-27T05:36:58.404Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 TV 출하량 2억200만대로 하향 조정..OLED TV 시장도 위축]]></title>
-        <id>https://v.daum.net/v/20220727141809844</id>
-        <link href="https://v.daum.net/v/20220727141809844"/>
-        <updated>2022-07-27T05:36:58.405Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
