@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-07-27T22:24:53.261Z</updated>
+    <updated>2022-07-27T23:23:33.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경북 의성과 경기 화성, 국가지질공원 후보지에 선정]]></title>
+        <id>https://v.daum.net/v/20220728060309177</id>
+        <link href="https://v.daum.net/v/20220728060309177"/>
+        <updated>2022-07-27T23:23:00.748Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['파운드리 삼국지' 영토 넓히는 TSMC·인텔.. 고립되는 삼성전자]]></title>
         <id>https://v.daum.net/v/20220728060047024</id>
@@ -55,7 +62,7 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美가 안정적 공급 위해 제안한 韓·日·대만과의 '반도체 동맹']]></title>
+        <title type="html"><![CDATA[[테크 똑똑] 칩4·팹4]]></title>
         <id>https://v.daum.net/v/20220728030130554</id>
         <link href="https://v.daum.net/v/20220728030130554"/>
         <updated>2022-07-27T22:24:23.883Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220728000132697"/>
         <updated>2022-07-27T22:24:23.883Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이 색상이 그렇게 예쁜가?" 삼성 호불호 '핑크'에 꽂혔다]]></title>
-        <id>https://v.daum.net/v/20220727195145097</id>
-        <link href="https://v.daum.net/v/20220727195145097"/>
-        <updated>2022-07-27T21:21:07.797Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
