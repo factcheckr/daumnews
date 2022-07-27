@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-07-27T11:20:37.881Z</updated>
+    <updated>2022-07-27T12:50:45.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["청와대 활용 적극 협력할것"]]></title>
+        <id>https://v.daum.net/v/20220727173907822</id>
+        <link href="https://v.daum.net/v/20220727173907822"/>
+        <updated>2022-07-27T12:50:03.755Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미술시장 완전정복] 생명의 끝에 남는 숯으로..미술시장 대세로 떠오르다]]></title>
         <id>https://v.daum.net/v/20220727171510853</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220727153521239"/>
         <updated>2022-07-27T07:23:10.360Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[점토판에 새겨진 4000년 전 소송..한국에 온 메소포타미아 유물들]]></title>
-        <id>https://v.daum.net/v/20220727153036916</id>
-        <link href="https://v.daum.net/v/20220727153036916"/>
-        <updated>2022-07-27T11:19:48.951Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
