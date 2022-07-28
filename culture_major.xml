@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-07-28T11:21:53.543Z</updated>
+    <updated>2022-07-28T12:51:39.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['행복한 그린존' 찾아가기]]></title>
+        <id>https://v.daum.net/v/20220728170305941</id>
+        <link href="https://v.daum.net/v/20220728170305941"/>
+        <updated>2022-07-28T12:50:50.895Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연광철 등 세계적 한국 성악가들 "예술가곡 기대하세요"..부산서 국제가곡축제 개최]]></title>
         <id>https://v.daum.net/v/20220728163644848</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220728145401378"/>
         <updated>2022-07-28T08:30:28.202Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[울진 왕피천공원에 야외 물놀이장 운영..곤충여행관도 새단장]]></title>
-        <id>https://v.daum.net/v/20220728145142249</id>
-        <link href="https://v.daum.net/v/20220728145142249"/>
-        <updated>2022-07-28T07:21:52.655Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

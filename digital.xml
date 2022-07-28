@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-28T11:21:53.589Z</updated>
+    <updated>2022-07-28T12:51:39.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[페북, 개인정보 제공동의 안해도 서비스 쓸 수 있다]]></title>
+        <id>https://v.daum.net/v/20220728194500721</id>
+        <link href="https://v.daum.net/v/20220728194500721"/>
+        <updated>2022-07-28T12:50:58.318Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[꼬리 내린 메타, '페북·인스타 개인정보 수집 강요' 철회]]></title>
         <id>https://v.daum.net/v/20220728181511395</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["넷플릭스 말고 우린 어때요?" '이분' 누구길래, 암시한 대항마]]></title>
+        <title type="html"><![CDATA["'이분'도 곧 볼 수 있나?" 넷플릭스 흔들러 '떼'로 몰려온다]]></title>
         <id>https://v.daum.net/v/20220728175116644</id>
         <link href="https://v.daum.net/v/20220728175116644"/>
         <updated>2022-07-28T09:24:08.325Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220728170559044"/>
         <updated>2022-07-28T08:30:36.013Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달궤도선 다누리, 발사체 작업에 일정 연기..내달 5일 발사 추진(종합)]]></title>
-        <id>https://v.daum.net/v/20220728165502596</id>
-        <link href="https://v.daum.net/v/20220728165502596"/>
-        <updated>2022-07-28T08:30:36.018Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
