@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-07-28T10:28:03.294Z</updated>
+    <updated>2022-07-28T11:21:53.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[페북, 개인정보 제공동의 안해도 서비스 쓸 수 있다]]></title>
+        <id>https://v.daum.net/v/20220728194500721</id>
+        <link href="https://v.daum.net/v/20220728194500721"/>
+        <updated>2022-07-28T11:21:17.993Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지구의 '1년치 탄소 자정능력' 오늘로 끝 ..인류, 내일부터 지구에 빚지고 산다]]></title>
         <id>https://v.daum.net/v/20220728164939398</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220728160115410"/>
         <updated>2022-07-28T08:30:47.088Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 아그네스 호 로슈진단 아태 대표 "BA.5 등 변이, 전담팀 두고 대응.. 디지털 역량 뛰어난 韓벤처 관심"]]></title>
-        <id>https://v.daum.net/v/20220728160040381</id>
-        <link href="https://v.daum.net/v/20220728160040381"/>
-        <updated>2022-07-28T08:30:47.089Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
