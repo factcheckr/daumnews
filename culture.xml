@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-07-28T15:25:55.661Z</updated>
+    <updated>2022-07-28T16:37:03.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베를린서 청소년 통일캠프.."남북한 접촉 끊겨서는 안돼"]]></title>
+        <id>https://v.daum.net/v/20220729011210235</id>
+        <link href="https://v.daum.net/v/20220729011210235"/>
+        <updated>2022-07-28T16:36:04.980Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시의 옷을 입은 수필로 본 세상]]></title>
         <id>https://v.daum.net/v/20220729001125875</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220729000136625"/>
         <updated>2022-07-28T15:24:53.950Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국에 뜬 '파리의 별들'..'에뚜알' 박세은 첫 고국 무대]]></title>
-        <id>https://v.daum.net/v/20220728215837391</id>
-        <link href="https://v.daum.net/v/20220728215837391"/>
-        <updated>2022-07-28T13:47:10.443Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
