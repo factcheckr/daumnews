@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-28T17:33:06.212Z</updated>
+    <updated>2022-07-28T18:31:17.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국형 달 궤도선 '다누리' 내달 발사.. 성공적 궤적 수정이 관건]]></title>
+        <id>https://v.daum.net/v/20220729030321553</id>
+        <link href="https://v.daum.net/v/20220729030321553"/>
+        <updated>2022-07-28T18:30:38.217Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["아이폰 신작, 한국선 올 가을 못 본다?" 중국 우대, 한국 홀대]]></title>
         <id>https://v.daum.net/v/20220728205100080</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220728175116644"/>
         <updated>2022-07-28T09:24:08.325Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["전체 악성코드 공격 3분의 2는 이용자 정보 노려"]]></title>
-        <id>https://v.daum.net/v/20220728170802155</id>
-        <link href="https://v.daum.net/v/20220728170802155"/>
-        <updated>2022-07-28T08:30:36.013Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
