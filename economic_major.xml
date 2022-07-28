@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-07-28T18:31:17.577Z</updated>
+    <updated>2022-07-28T19:19:21.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20220729030620644"/>
         <updated>2022-07-28T18:29:58.253Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양극·음극재 생산 국내 유일, GM과 14兆 공급계약]]></title>
+        <id>https://v.daum.net/v/20220729030235505</id>
+        <link href="https://v.daum.net/v/20220729030235505"/>
+        <updated>2022-07-28T19:18:11.418Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공매도 30% 넘고 주가 3% 하락땐, 다음날 공매도 금지]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220729015222342"/>
         <updated>2022-07-28T18:29:58.263Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정의선 회장 챙겨서 만난 조코위 대통령..이유는]]></title>
-        <id>https://v.daum.net/v/20220729011107230</id>
-        <link href="https://v.daum.net/v/20220729011107230"/>
-        <updated>2022-07-28T18:29:58.265Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
