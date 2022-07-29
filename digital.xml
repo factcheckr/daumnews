@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-29T15:29:16.880Z</updated>
+    <updated>2022-07-29T16:34:49.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中, 美 반도체산업 육성법에 "공급망 왜곡·국제무역 교란"]]></title>
+        <id>https://v.daum.net/v/20220730010112809</id>
+        <link href="https://v.daum.net/v/20220730010112809"/>
+        <updated>2022-07-29T16:34:07.127Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공정위, 외국인 총수지정 발표 연기..이유는?]]></title>
         <id>https://v.daum.net/v/20220729223106979</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["중국 '로켓' 전세계 민폐" '우주쓰레기' 한국에 떨어지면 어떡하나]]></title>
+        <title type="html"><![CDATA["중국 '로켓' 전세계 민폐" 31일 지구로 추락, 한국도 '비상']]></title>
         <id>https://v.daum.net/v/20220729201637407</id>
         <link href="https://v.daum.net/v/20220729201637407"/>
         <updated>2022-07-29T11:21:07.170Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220729183623944"/>
         <updated>2022-07-29T15:28:34.981Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벌써 10년, 이건 '진심'..라이엇게임즈의 '특별한' 한국문화 사랑]]></title>
-        <id>https://v.daum.net/v/20220729175823311</id>
-        <link href="https://v.daum.net/v/20220729175823311"/>
-        <updated>2022-07-29T15:28:34.981Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
