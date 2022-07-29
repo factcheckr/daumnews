@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-07-29T13:45:25.593Z</updated>
+    <updated>2022-07-29T14:21:27.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220729222834951"/>
         <updated>2022-07-29T13:44:20.291Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[푸틴, 유럽 분열 시도..헝가리 "우리만 러 가스 7억㎥ 받기로"]]></title>
+        <id>https://v.daum.net/v/20220729222049896</id>
+        <link href="https://v.daum.net/v/20220729222049896"/>
+        <updated>2022-07-29T14:20:28.934Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시진핑·폴란드 대통령 통화..무역·투자 등 협력 확대 강조]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220729210327959"/>
         <updated>2022-07-29T12:46:15.782Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["미국이 불장난" 때리자 "중국은 일방적"..'대만문제' 또 기싸움]]></title>
-        <id>https://v.daum.net/v/20220729203006579</id>
-        <link href="https://v.daum.net/v/20220729203006579"/>
-        <updated>2022-07-29T12:46:15.783Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
