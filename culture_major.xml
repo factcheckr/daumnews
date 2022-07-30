@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-07-30T04:06:34.932Z</updated>
+    <updated>2022-07-30T05:25:58.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[제주 가볼만한 곳] 푸른 빛 여름 축제에  빠져보세요]]></title>
+        <id>https://v.daum.net/v/20220730095246983</id>
+        <link href="https://v.daum.net/v/20220730095246983"/>
+        <updated>2022-07-30T05:25:11.461Z</updated>
+        <content type="html"><![CDATA[JIBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[C컷] 깨끗한 바다, 가까이 보면 쓰레기 천지]]></title>
         <id>https://v.daum.net/v/20220730070017462</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220730070119520"/>
         <updated>2022-07-29T23:23:04.967Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인천돋보기]③ 국내 첫 국제도시 인천..근대건축전시관]]></title>
-        <id>https://v.daum.net/v/20220730070046493</id>
-        <link href="https://v.daum.net/v/20220730070046493"/>
-        <updated>2022-07-29T23:23:04.972Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
