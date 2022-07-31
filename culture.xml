@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-07-31T17:22:37.961Z</updated>
+    <updated>2022-07-31T18:27:32.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['현대음악 선구자' 나운영 탄생 100주년.. 구순의 노제자들이 헌정곡 썼다]]></title>
+        <id>https://v.daum.net/v/20220801030118453</id>
+        <link href="https://v.daum.net/v/20220801030118453"/>
+        <updated>2022-07-31T18:26:32.904Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[춘천서 펼친 코미디극 정수.. 극장 꽉 채운 웃음]]></title>
         <id>https://v.daum.net/v/20220801001112099</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220731162333998"/>
         <updated>2022-07-31T08:25:57.316Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종 자전거 도둑 잡고보니.. 10명 중 8명이 10대들]]></title>
-        <id>https://v.daum.net/v/20220731160229773</id>
-        <link href="https://v.daum.net/v/20220731160229773"/>
-        <updated>2022-07-31T07:20:51.487Z</updated>
-        <content type="html"><![CDATA[대전일보]]></content>
     </entry>
 </feed>
