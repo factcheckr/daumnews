@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-07-31T16:30:14.487Z</updated>
+    <updated>2022-07-31T17:22:37.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이라크 반외세 정파 지지자들, 의회 점거후 무기한 농성]]></title>
+        <id>https://v.daum.net/v/20220801012706334</id>
+        <link href="https://v.daum.net/v/20220801012706334"/>
+        <updated>2022-07-31T17:21:20.495Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[물러나는 영국 총리, 보수당 고액후원자 저택에서 결혼파티]]></title>
         <id>https://v.daum.net/v/20220801011458314</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220731225121708"/>
         <updated>2022-07-31T14:19:59.725Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 전세계 하루확진자, 두 달만에 내림세 보여..102만명]]></title>
-        <id>https://v.daum.net/v/20220731224448676</id>
-        <link href="https://v.daum.net/v/20220731224448676"/>
-        <updated>2022-07-31T14:19:59.726Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
