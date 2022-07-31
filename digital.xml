@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-07-31T07:21:51.495Z</updated>
+    <updated>2022-07-31T08:26:46.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메타, 개인정보 수집 동의 방침 철회했지만..내 정보는 여전히 맞춤형 광고에 활용중?]]></title>
+        <id>https://v.daum.net/v/20220731162432017</id>
+        <link href="https://v.daum.net/v/20220731162432017"/>
+        <updated>2022-07-31T08:26:11.448Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[완성차까지 참전하다니..배터리 3사, 소재 공급망 확보 '총력전']]></title>
         <id>https://v.daum.net/v/20220731155309627</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220731144101458"/>
         <updated>2022-07-31T06:27:38.630Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["길찾기 이렇게"..방통위, 어르신 '디지털 격차해소' 캠페인 진행]]></title>
-        <id>https://v.daum.net/v/20220731142433182</id>
-        <link href="https://v.daum.net/v/20220731142433182"/>
-        <updated>2022-07-31T06:27:38.630Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
