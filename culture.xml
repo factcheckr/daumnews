@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-07-31T12:40:41.955Z</updated>
+    <updated>2022-07-31T13:33:01.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[물 끓여 먹는 게 좋을까?]]></title>
-        <id>https://v.daum.net/v/20220731210504867</id>
-        <link href="https://v.daum.net/v/20220731210504867"/>
-        <updated>2022-07-31T12:39:47.062Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[차웅 "팡파르로 여는 폭발적 도입부..스타워즈 떠올릴 것"]]></title>
         <id>https://v.daum.net/v/20220731165402341</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20220731154950560"/>
         <updated>2022-07-31T12:39:47.069Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세계 최고 한국 나전칠기의 현재와 미래]]></title>
+        <id>https://v.daum.net/v/20220731154800520</id>
+        <link href="https://v.daum.net/v/20220731154800520"/>
+        <updated>2022-07-31T13:32:08.854Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
