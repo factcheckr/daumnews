@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-08-01T09:27:38.486Z</updated>
+    <updated>2022-08-01T10:28:43.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남한산성 꽃동산에서 만난 여름 풍경]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/8rBMfGbDzQ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/8rBMfGbDzQ"/>
+        <updated>2022-08-01T10:28:16.438Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코인데스크코리아가 편집장을 공모합니다]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1476/be9iSiOK7X</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033570/4fDxPAyPTe"/>
         <updated>2022-08-01T05:56:57.279Z</updated>
         <content type="html"><![CDATA[대한민국 해군]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미 캘리포니아 국유림 산불로 전소된 차량]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/229025/U3fvXKnXWC</id>
-        <link href="https://gallery.v.daum.net/p/viewer/229025/U3fvXKnXWC"/>
-        <updated>2022-08-01T04:37:58.227Z</updated>
-        <content type="html"><![CDATA[미 서부 대형 산불]]></content>
     </entry>
 </feed>
