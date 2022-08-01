@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-08-01T20:29:49.029Z</updated>
+    <updated>2022-08-01T21:21:37.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20220802040536268"/>
         <updated>2022-08-01T19:18:47.178Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['코인 광풍에 돈 잃고 빚 지고'.. 연극에 담은 2030 자화상]]></title>
+        <id>https://v.daum.net/v/20220802040505263</id>
+        <link href="https://v.daum.net/v/20220802040505263"/>
+        <updated>2022-08-01T21:20:51.285Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[툭 하면 화장실行, 검진은 이상없다? 과민성 장 증후군이군요]]></title>
+        <id>https://v.daum.net/v/20220802030251072</id>
+        <link href="https://v.daum.net/v/20220802030251072"/>
+        <updated>2022-08-01T21:20:51.287Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소아 알레르기 비염 환자 62.8%가 아빠도 같은 병]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220802001032500"/>
         <updated>2022-08-01T18:31:32.149Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[롯데월드타워 접수한 셰퍼드 페어리.."눈 크고 뜨고 세상 움직여라"]]></title>
-        <id>https://v.daum.net/v/20220802000134369</id>
-        <link href="https://v.daum.net/v/20220802000134369"/>
-        <updated>2022-08-01T18:31:32.149Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["안락사 실행할 수의사 없다"..'8살 공격' 사고견, 안락사 피했다]]></title>
-        <id>https://v.daum.net/v/20220801232102140</id>
-        <link href="https://v.daum.net/v/20220801232102140"/>
-        <updated>2022-08-01T18:31:32.151Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
