@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-08-01T13:49:45.571Z</updated>
+    <updated>2022-08-01T14:23:41.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제주 전 도민·피해 회복 지원금 접수..신청 방법은?]]></title>
+        <id>https://v.daum.net/v/20220801215352595</id>
+        <link href="https://v.daum.net/v/20220801215352595"/>
+        <updated>2022-08-01T14:22:17.440Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고유가 속 '최고 이익' 올린 정유사..휘발윳값 1800원대 진입]]></title>
         <id>https://v.daum.net/v/20220801214307473</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220801201805687"/>
         <updated>2022-08-01T12:46:23.205Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하락하는 실질금리·달러값, 비트코인에 약 될까 [이정훈의 코읽남]]]></title>
-        <id>https://v.daum.net/v/20220801201535671</id>
-        <link href="https://v.daum.net/v/20220801201535671"/>
-        <updated>2022-08-01T12:46:23.206Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
