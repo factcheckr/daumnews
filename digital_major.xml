@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-08-01T12:47:49.681Z</updated>
+    <updated>2022-08-01T13:49:45.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[단독]니콘 미러리스 렌즈값 최대 12% 인상.."캐논 이어 너마저"]]></title>
-        <id>https://v.daum.net/v/20220801190031772</id>
-        <link href="https://v.daum.net/v/20220801190031772"/>
-        <updated>2022-08-01T12:47:09.538Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA["싸이타운 빈껍데기"..빈약한 콘텐츠·연동 오류에 '불만' 쏟아졌다]]></title>
         <id>https://v.daum.net/v/20220801190001754</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220801170744189"/>
         <updated>2022-08-01T09:27:03.582Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스피드 011' 서비스 일괄 해지..2G 기지국은 2년 전 종료]]></title>
+        <id>https://v.daum.net/v/20220801164454439</id>
+        <link href="https://v.daum.net/v/20220801164454439"/>
+        <updated>2022-08-01T13:49:15.306Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
