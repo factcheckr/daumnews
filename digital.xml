@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-08-01T10:28:43.068Z</updated>
+    <updated>2022-08-01T11:21:38.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]우티, 가맹택시 이용 시 최대 3000원 '탄력 호출료' 부과]]></title>
+        <id>https://v.daum.net/v/20220801191319957</id>
+        <link href="https://v.daum.net/v/20220801191319957"/>
+        <updated>2022-08-01T11:20:59.630Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["별풍선으로 수억원 벌던 '이 분들'" 어쩌다 이런 일이]]></title>
         <id>https://v.daum.net/v/20220801175309509</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220801190001754"/>
         <updated>2022-08-01T10:27:59.371Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["10일새 300만원 벌었다, 실화냐?" 폭염 속 '돌아온' 고수익 배달]]></title>
-        <id>https://v.daum.net/v/20220801185154682</id>
-        <link href="https://v.daum.net/v/20220801185154682"/>
-        <updated>2022-08-01T10:27:59.372Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
