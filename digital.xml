@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-08-01T18:32:15.015Z</updated>
+    <updated>2022-08-01T19:19:38.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[英 연구팀 "스마트폰, 기억력 향상에 도움돼"]]></title>
+        <id>https://v.daum.net/v/20220802040013233</id>
+        <link href="https://v.daum.net/v/20220802040013233"/>
+        <updated>2022-08-01T19:18:54.963Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인도, 환승객도 비자 발급받아야]]></title>
         <id>https://v.daum.net/v/20220801220420743</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220801175309509"/>
         <updated>2022-08-01T10:27:59.366Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]니콘 미러리스 렌즈값 최대 12% 인상.."캐논 이어 너마저"]]></title>
-        <id>https://v.daum.net/v/20220801190031772</id>
-        <link href="https://v.daum.net/v/20220801190031772"/>
-        <updated>2022-08-01T13:49:07.512Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
