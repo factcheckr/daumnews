@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-08-02T17:32:02.508Z</updated>
+    <updated>2022-08-02T18:29:47.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[복덩어리 표주박]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/7hdmBQkUQ4</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/7hdmBQkUQ4"/>
+        <updated>2022-08-02T18:29:20.525Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["美, 두고 보자"..'무력시위' 무시당한 中, 펠로시 대만 방문에 격앙]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5032319/FAeFhh0gBt</id>
@@ -130,12 +137,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033573/F73QL6A03B"/>
         <updated>2022-08-02T07:24:17.280Z</updated>
         <content type="html"><![CDATA[전통시장 모습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2차 부스터 샷 맞는 인도네시아 의료인]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1106239/xF7ifUxvWE</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1106239/xF7ifUxvWE"/>
-        <updated>2022-08-02T06:28:52.760Z</updated>
-        <content type="html"><![CDATA[인도네시아는 지금]]></content>
     </entry>
 </feed>
