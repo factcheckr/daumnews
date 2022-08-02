@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2022-08-02T15:26:34.568Z</updated>
+    <updated>2022-08-02T16:33:41.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美, 대만과 1979년 단교했지만..안보·경제상 없어선 안될 존재]]></title>
+        <id>https://v.daum.net/v/20220803004222586</id>
+        <link href="https://v.daum.net/v/20220803004222586"/>
+        <updated>2022-08-02T16:31:57.648Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["코바나 후원사가 관저 시공" 보도..대통령실 "후원 안했다"]]></title>
         <id>https://v.daum.net/v/20220803000258194</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220802220132070"/>
         <updated>2022-08-02T13:43:55.295Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제주로 휴가 간 文부부, 해수욕장 방문..탁현민도 동행]]></title>
-        <id>https://v.daum.net/v/20220802224921634</id>
-        <link href="https://v.daum.net/v/20220802224921634"/>
-        <updated>2022-08-02T14:21:33.440Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
