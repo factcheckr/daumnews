@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-08-03T10:28:33.450Z</updated>
+    <updated>2022-08-03T11:20:58.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국민에게 겨눈 총부리를 거둬라!]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/182540/9eKg1t4I7Q</id>
+        <link href="https://gallery.v.daum.net/p/viewer/182540/9eKg1t4I7Q"/>
+        <updated>2022-08-03T11:20:35.234Z</updated>
+        <content type="html"><![CDATA[옵스큐라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[펠로시 의장 대만 방문 기사 읽는 베이징 주민들]]></title>
         <id>https://gallery.v.daum.net/p/viewer/382/pZ81Z5Vs7F</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1518/7T41ndmBKL"/>
         <updated>2022-08-03T05:43:41.727Z</updated>
         <content type="html"><![CDATA[전국 화재사고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안전사고 예방, 체험교육이 중요합니다.]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1127178/H5P142o5lF</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1127178/H5P142o5lF"/>
-        <updated>2022-08-03T04:19:35.355Z</updated>
-        <content type="html"><![CDATA[기자의 일상]]></content>
     </entry>
 </feed>
