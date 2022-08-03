@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2022-08-03T13:45:20.631Z</updated>
+    <updated>2022-08-03T14:21:52.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이상민 탄핵' 꺼내든 이재명..'민형배 복당' 문제 던진 박용진]]></title>
+        <id>https://v.daum.net/v/20220803224834224</id>
+        <link href="https://v.daum.net/v/20220803224834224"/>
+        <updated>2022-08-03T14:20:21.503Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박진, 강제동원 피해자 측과 "계속 소통할 수 있도록 노력"]]></title>
         <id>https://v.daum.net/v/20220803211541997</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[JIBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박용진 "셀프공천으로 많은 분 낙선".. 이재명 "사당화한 적 없다"]]></title>
+        <title type="html"><![CDATA[박용진 "셀프공천 사과해야".. 이재명 "당 시스템으로 결정한 것"]]></title>
         <id>https://v.daum.net/v/20220803210608788</id>
         <link href="https://v.daum.net/v/20220803210608788"/>
         <updated>2022-08-03T13:43:40.001Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220803210058678"/>
         <updated>2022-08-03T12:45:33.785Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['與 당권주자' 누가 뛰나..이준석 수난속 후보 난립 예상도]]></title>
-        <id>https://v.daum.net/v/20220803204450357</id>
-        <link href="https://v.daum.net/v/20220803204450357"/>
-        <updated>2022-08-03T12:45:33.785Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>

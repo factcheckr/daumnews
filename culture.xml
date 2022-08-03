@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-08-03T13:45:20.627Z</updated>
+    <updated>2022-08-03T14:21:52.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[매일 먹는 쌀밥, '9가지' 알면 더 건강하게 섭취]]></title>
+        <id>https://v.daum.net/v/20220803230015296</id>
+        <link href="https://v.daum.net/v/20220803230015296"/>
+        <updated>2022-08-03T14:21:00.180Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은하수 건너는 하늘다리.. 연인 사랑도 이어준다]]></title>
         <id>https://v.daum.net/v/20220803211401963</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220803183726849"/>
         <updated>2022-08-03T10:27:34.641Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이 연극에 희망 따위 없다"..'영끌 투자' 내몰린 불안한 세대의 초상, 연극 '자연빵']]></title>
-        <id>https://v.daum.net/v/20220803181826437</id>
-        <link href="https://v.daum.net/v/20220803181826437"/>
-        <updated>2022-08-03T09:22:47.858Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
