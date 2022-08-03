@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-08-03T11:20:58.600Z</updated>
+    <updated>2022-08-03T12:47:02.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버,  1371억 규모 현금 배당..총 환원 규모는 유지]]></title>
+        <id>https://v.daum.net/v/20220803181712407</id>
+        <link href="https://v.daum.net/v/20220803181712407"/>
+        <updated>2022-08-03T12:46:33.061Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기획부터 발사까지 15년..열려라, Moon]]></title>
         <id>https://v.daum.net/v/20220803180546166</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220803172908113"/>
         <updated>2022-08-03T09:23:11.495Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['다누리' 4일 발사대로..한국 첫 달 탐사 카운트다운]]></title>
-        <id>https://v.daum.net/v/20220803170708446</id>
-        <link href="https://v.daum.net/v/20220803170708446"/>
-        <updated>2022-08-03T09:23:11.496Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
