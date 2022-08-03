@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-08-03T12:47:02.770Z</updated>
+    <updated>2022-08-03T13:45:20.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고물가에 맞서 '무지출 챌린지'.. 짠테크 열풍]]></title>
+        <id>https://v.daum.net/v/20220803223103074</id>
+        <link href="https://v.daum.net/v/20220803223103074"/>
+        <updated>2022-08-03T13:43:47.928Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[급증하는 간편결제.."수수료 내렸어도 부담 커"]]></title>
+        <id>https://v.daum.net/v/20220803215115557</id>
+        <link href="https://v.daum.net/v/20220803215115557"/>
+        <updated>2022-08-03T13:43:47.929Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부, 반도체 산업 육성 본격화..광주·전남, 유치 전략 '과제']]></title>
         <id>https://v.daum.net/v/20220803213036229</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220803210022668"/>
         <updated>2022-08-03T12:45:40.628Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다 짓고 나서 층간소음 검사?..효과는 '글쎄']]></title>
-        <id>https://v.daum.net/v/20220803205413530</id>
-        <link href="https://v.daum.net/v/20220803205413530"/>
-        <updated>2022-08-03T12:45:40.630Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TSMC 찾는 펠로시..미·중 갈등 불똥은 반도체로]]></title>
-        <id>https://v.daum.net/v/20220803201232835</id>
-        <link href="https://v.daum.net/v/20220803201232835"/>
-        <updated>2022-08-03T11:19:32.149Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>
