@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-08-05T18:30:48.713Z</updated>
+    <updated>2022-08-05T19:21:54.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빗방울처럼 또르르]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/Ko4BmAyP9L</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/Ko4BmAyP9L"/>
+        <updated>2022-08-05T19:21:32.508Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스모 벤치]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/VC5PtYBEQI</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5204870/pB2TASUNM2"/>
         <updated>2022-08-05T06:29:47.539Z</updated>
         <content type="html"><![CDATA[누리호 발사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열정부 국정과제]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/321090/tHj9qMD7SE</id>
-        <link href="https://gallery.v.daum.net/p/viewer/321090/tHj9qMD7SE"/>
-        <updated>2022-08-05T06:29:47.540Z</updated>
-        <content type="html"><![CDATA[대한민국 정부]]></content>
     </entry>
 </feed>
