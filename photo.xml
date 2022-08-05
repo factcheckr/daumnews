@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-08-05T17:31:58.636Z</updated>
+    <updated>2022-08-05T18:30:48.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스모 벤치]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/VC5PtYBEQI</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/VC5PtYBEQI"/>
+        <updated>2022-08-05T18:30:26.712Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산 기장 원룸 화재..1명 사망]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5035065/yxH4f6A0qr</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/321090/tHj9qMD7SE"/>
         <updated>2022-08-05T06:29:47.540Z</updated>
         <content type="html"><![CDATA[대한민국 정부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태국 나이트클럽 화재로 최소 13명 사망]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/171596/PltlRkYxWZ</id>
-        <link href="https://gallery.v.daum.net/p/viewer/171596/PltlRkYxWZ"/>
-        <updated>2022-08-05T06:29:47.542Z</updated>
-        <content type="html"><![CDATA[태국은 지금]]></content>
     </entry>
 </feed>
