@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-08-05T10:25:55.393Z</updated>
+    <updated>2022-08-05T11:21:15.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리나라 최초 달 탐사 '다누리' 발사 성공..첫 교신 성공]]></title>
+        <id>https://v.daum.net/v/20220805194430560</id>
+        <link href="https://v.daum.net/v/20220805194430560"/>
+        <updated>2022-08-05T11:20:30.570Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["다누리, 대한민국 우주영역 확대..달 향해 힘찬 첫발"]]></title>
         <id>https://v.daum.net/v/20220805183401141</id>
@@ -38,13 +45,6 @@
         <id>https://v.daum.net/v/20220805173900815</id>
         <link href="https://v.daum.net/v/20220805173900815"/>
         <updated>2022-08-05T09:23:18.850Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다누리, 12월 31일 달 궤도 진입..인류 정착 후보지 찾는다]]></title>
-        <id>https://v.daum.net/v/20220805173604752</id>
-        <link href="https://v.daum.net/v/20220805173604752"/>
-        <updated>2022-08-05T09:23:18.851Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
