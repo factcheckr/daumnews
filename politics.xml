@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2022-08-05T15:25:35.159Z</updated>
+    <updated>2022-08-05T16:36:23.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["尹대통령, 스타 장관 바랬는데 '신데렐라' 박순애만.."]]></title>
+        <id>https://v.daum.net/v/20220806005747666</id>
+        <link href="https://v.daum.net/v/20220806005747666"/>
+        <updated>2022-08-05T16:34:29.144Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준석, 자당 상대 '법적 대응' 예고.."당과 국가에 경종"]]></title>
         <id>https://v.daum.net/v/20220806000742467</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220805235627351"/>
         <updated>2022-08-05T15:23:42.651Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경찰국장 경찰입문 경위 논란.."특채과정 의혹" vs "소설 같은 말"]]></title>
-        <id>https://v.daum.net/v/20220805234512302</id>
-        <link href="https://v.daum.net/v/20220805234512302"/>
-        <updated>2022-08-05T15:23:42.653Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
