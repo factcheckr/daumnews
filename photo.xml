@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-08-07T14:21:17.955Z</updated>
+    <updated>2022-08-07T15:23:17.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[평창 봉평터널서 3중 추돌..3명 부상]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1473/yERAserq0H</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1473/yERAserq0H"/>
+        <updated>2022-08-07T15:22:56.913Z</updated>
+        <content type="html"><![CDATA[교통사고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[찜통 더위 속 빨갛게 물든 '입추'[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/3fsUoKnXcJ</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5014013/8TH5hWqkKe"/>
         <updated>2022-08-07T05:21:40.416Z</updated>
         <content type="html"><![CDATA['코로나19' 바이러스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개시원?..세계 개 서핑대회 참석한 견공들]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1476/3RjCY9LZNc</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1476/3RjCY9LZNc"/>
-        <updated>2022-08-07T02:11:19.911Z</updated>
-        <content type="html"><![CDATA[미국은 지금]]></content>
     </entry>
 </feed>
