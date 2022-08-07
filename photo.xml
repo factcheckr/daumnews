@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-08-07T17:22:31.163Z</updated>
+    <updated>2022-08-07T18:28:12.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[케첩의 미소]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/Ww9XQ7RyxV</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/Ww9XQ7RyxV"/>
+        <updated>2022-08-07T18:27:47.176Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[평창 봉평터널서 3중 추돌..3명 부상]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1473/yERAserq0H</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/344179/PvNCLAyPQm"/>
         <updated>2022-08-07T07:21:36.063Z</updated>
         <content type="html"><![CDATA[청계천 옆 사진관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비치파라솔 아래서 쉬는 피서객들]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5035065/8DqMqVg1hO</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5035065/8DqMqVg1hO"/>
-        <updated>2022-08-07T06:28:16.783Z</updated>
-        <content type="html"><![CDATA[부산은 지금]]></content>
     </entry>
 </feed>
