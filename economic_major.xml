@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-08-07T12:38:54.078Z</updated>
+    <updated>2022-08-07T13:32:06.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위층에서 바닥으로 떨어뜨린 2.5kg 공, 아래층은 못 느꼈다]]></title>
+        <id>https://v.daum.net/v/20220807190021208</id>
+        <link href="https://v.daum.net/v/20220807190021208"/>
+        <updated>2022-08-07T13:30:48.553Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원효대교서 보이던 45살 재건축 아파트..환경영향평가만 남았다 [부동산360]]]></title>
         <id>https://v.daum.net/v/20220807190010203</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220807180008377"/>
         <updated>2022-08-07T10:23:21.589Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해운사, 우회로·운항 축소도 검토..'원산지 변경' 불똥 튈까 비상]]></title>
-        <id>https://v.daum.net/v/20220807175632284</id>
-        <link href="https://v.daum.net/v/20220807175632284"/>
-        <updated>2022-08-07T09:20:25.073Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>

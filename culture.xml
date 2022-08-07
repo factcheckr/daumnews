@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-08-07T12:38:53.944Z</updated>
+    <updated>2022-08-07T13:32:06.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해저화산, 용암보다 더 무서운 잿빛 수증기]]></title>
+        <id>https://v.daum.net/v/20220807214313285</id>
+        <link href="https://v.daum.net/v/20220807214313285"/>
+        <updated>2022-08-07T13:31:12.818Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봄날 풍경 사진이 삭제 된 까닭은..일제 신문 검열의 생생한 증거]]></title>
         <id>https://v.daum.net/v/20220807190057218</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220807164831804"/>
         <updated>2022-08-07T12:37:58.902Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빛이 바다에 스며드는..아름다운 순간은 평등하다]]></title>
-        <id>https://v.daum.net/v/20220807163007569</id>
-        <link href="https://v.daum.net/v/20220807163007569"/>
-        <updated>2022-08-07T12:37:58.903Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
