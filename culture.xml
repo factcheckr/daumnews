@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-08-08T10:27:40.035Z</updated>
+    <updated>2022-08-08T11:20:35.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 경북 북부 모레까지 최대 250mm 비..대구·경북 무더위 계속]]></title>
+        <id>https://v.daum.net/v/20220808200649581</id>
+        <link href="https://v.daum.net/v/20220808200649581"/>
+        <updated>2022-08-08T11:19:37.751Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올들어 가장 무서운 비..세 가지 원인 겹쳤다]]></title>
+        <id>https://v.daum.net/v/20220808195816473</id>
+        <link href="https://v.daum.net/v/20220808195816473"/>
+        <updated>2022-08-08T11:19:37.752Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 이 시각 잠수교..350mm 더 온다]]></title>
+        <id>https://v.daum.net/v/20220808195515435</id>
+        <link href="https://v.daum.net/v/20220808195515435"/>
+        <updated>2022-08-08T11:19:37.753Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[거미줄처럼 얽힌 기억의 바다.. "한강 소설 읽고 영감 얻어"]]></title>
         <id>https://v.daum.net/v/20220808190301707</id>
         <link href="https://v.daum.net/v/20220808190301707"/>
         <updated>2022-08-08T10:26:28.046Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중부지방 집중호우로 곳곳 침수 피해..경기 연천 강수량 173mm]]></title>
-        <id>https://v.daum.net/v/20220808183828240</id>
-        <link href="https://v.daum.net/v/20220808183828240"/>
-        <updated>2022-08-08T10:26:28.047Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 이후 다시 열린 하늘길.. 엔데믹 인기 여행지 '방콕']]></title>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220808174447537"/>
         <updated>2022-08-08T09:22:52.764Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일할 사람이 찾아요'..여행 재개에 여행사 인력 확보 '총력']]></title>
-        <id>https://v.daum.net/v/20220808173804253</id>
-        <link href="https://v.daum.net/v/20220808173804253"/>
-        <updated>2022-08-08T09:22:52.764Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클래식 음반에 붙은 '노란 딱지'는 실력 보증수표]]></title>
-        <id>https://v.daum.net/v/20220808173203987</id>
-        <link href="https://v.daum.net/v/20220808173203987"/>
-        <updated>2022-08-08T09:22:52.764Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
