@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-08-08T13:47:04.079Z</updated>
+    <updated>2022-08-08T14:24:46.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220808215029638"/>
         <updated>2022-08-08T13:45:45.806Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[CarTalk]5년 뒤 펼쳐지는 자율주행 시대.."발 맞추는 기술·뒤처지는 규제"]]></title>
+        <id>https://v.daum.net/v/20220808210007119</id>
+        <link href="https://v.daum.net/v/20220808210007119"/>
+        <updated>2022-08-08T14:23:22.352Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 수천만원 먹튀 논란 에바종, 사무실 철수.. 폐점 절차 들어가나]]></title>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[JTBC]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내년 예산안 13년만에 줄인다..국유지 등 5년간 16조원 이상 매각 계획]]></title>
+        <title type="html"><![CDATA[51판/내년 예산안 13년만에 줄인다..국유지 등 5년간 16조원 이상 매각 계획]]></title>
         <id>https://v.daum.net/v/20220808200556567</id>
         <link href="https://v.daum.net/v/20220808200556567"/>
         <updated>2022-08-08T12:43:50.433Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220808195158413"/>
         <updated>2022-08-08T12:43:50.435Z</updated>
         <content type="html"><![CDATA[채널A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[집중인터뷰] 부여 '굿뜨래페이'..지역경제 효과는?]]></title>
-        <id>https://v.daum.net/v/20220808195126405</id>
-        <link href="https://v.daum.net/v/20220808195126405"/>
-        <updated>2022-08-08T12:43:50.436Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

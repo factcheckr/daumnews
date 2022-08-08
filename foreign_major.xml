@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-08-08T13:47:04.077Z</updated>
+    <updated>2022-08-08T14:24:46.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://v.daum.net/v/20220808213323477"/>
         <updated>2022-08-08T12:44:06.582Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["우크라 전쟁에 사용된 러시아 무기서 美 반도체칩 대거 발견"]]></title>
+        <id>https://v.daum.net/v/20220808205841100</id>
+        <link href="https://v.daum.net/v/20220808205841100"/>
+        <updated>2022-08-08T14:23:40.174Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[관광객 8만 명 꼼짝없이 묶였다..통째 봉쇄된 '유명 섬']]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220808201124638"/>
         <updated>2022-08-08T12:44:06.589Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[센 강에 북극 흰고래 발견..칠레 북부에 200m 깊이 싱크홀]]></title>
-        <id>https://v.daum.net/v/20220808200403551</id>
-        <link href="https://v.daum.net/v/20220808200403551"/>
-        <updated>2022-08-08T12:44:06.590Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
     </entry>
 </feed>
