@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-08-09T13:54:11.099Z</updated>
+    <updated>2022-08-09T14:25:27.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올림피아 자그놀리 특별전 : Life is Color]]></title>
+        <id>https://v.daum.net/v/20220809175451610</id>
+        <link href="https://v.daum.net/v/20220809175451610"/>
+        <updated>2022-08-09T14:24:36.548Z</updated>
+        <content type="html"><![CDATA[EBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DMZ서 뮤지컬 '원더티켓' 최광일 감독 "한국형 블록버스터"]]></title>
         <id>https://v.daum.net/v/20220809175347561</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220809142213733"/>
         <updated>2022-08-09T13:53:20.900Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강남 물폭탄 속 안전지대.. '방수 빌딩' 있었다]]></title>
-        <id>https://v.daum.net/v/20220809134402425</id>
-        <link href="https://v.daum.net/v/20220809134402425"/>
-        <updated>2022-08-09T13:53:20.901Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
