@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-08-09T14:25:27.000Z</updated>
+    <updated>2022-08-09T15:27:29.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['한물 갔다'? 추락하는 NFT에도 날개는 있다[아트&머니]]]></title>
+        <id>https://v.daum.net/v/20220810000127535</id>
+        <link href="https://v.daum.net/v/20220810000127535"/>
+        <updated>2022-08-09T15:26:31.195Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 양평 시간당 40mm 비..수도권 · 강원, 호우특보]]></title>
         <id>https://v.daum.net/v/20220809225417161</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220809163718897"/>
         <updated>2022-08-09T13:53:12.483Z</updated>
         <content type="html"><![CDATA[농민신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서관·미술관..경계를 허물다]]></title>
-        <id>https://v.daum.net/v/20220809181101177</id>
-        <link href="https://v.daum.net/v/20220809181101177"/>
-        <updated>2022-08-09T13:53:12.484Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
