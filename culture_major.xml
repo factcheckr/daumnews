@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-08-09T22:23:35.579Z</updated>
+    <updated>2022-08-09T23:25:16.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["짤막한 한 줄 가곡, 무대 위 기나긴 삶 품어 매력적"]]></title>
+        <id>https://v.daum.net/v/20220810050354140</id>
+        <link href="https://v.daum.net/v/20220810050354140"/>
+        <updated>2022-08-09T23:24:10.006Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[철로 빚은 말 조각과 색 유리 얼굴..절묘한 합 이루다]]></title>
         <id>https://v.daum.net/v/20220810050110035</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220810030357280"/>
         <updated>2022-08-09T20:25:39.237Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['자폐 음악가' 가족의 11년, 카메라에 담다]]></title>
-        <id>https://v.daum.net/v/20220810030148145</id>
-        <link href="https://v.daum.net/v/20220810030148145"/>
-        <updated>2022-08-09T20:25:39.238Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
