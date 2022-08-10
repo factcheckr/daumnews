@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-08-10T17:28:21.241Z</updated>
+    <updated>2022-08-10T18:29:19.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["우주개발 후발주자 한국, 상상 못할걸 해야"]]></title>
+        <id>https://v.daum.net/v/20220811030153632</id>
+        <link href="https://v.daum.net/v/20220811030153632"/>
+        <updated>2022-08-10T18:28:32.301Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가짜 양주 딱 걸렸어!..기포 모양으로 식별 기술 개발]]></title>
         <id>https://v.daum.net/v/20220811022213530</id>
@@ -38,13 +45,6 @@
         <id>https://v.daum.net/v/20220811004507102</id>
         <link href="https://v.daum.net/v/20220811004507102"/>
         <updated>2022-08-10T16:38:59.248Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성 플립4·폴드4 공개..노태문 "폴더블 대세로 이끈다"(종합)]]></title>
-        <id>https://v.daum.net/v/20220811003620065</id>
-        <link href="https://v.daum.net/v/20220811003620065"/>
-        <updated>2022-08-10T16:38:59.249Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

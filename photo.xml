@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-08-10T17:28:21.232Z</updated>
+    <updated>2022-08-10T18:29:19.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[폭염에 오른 채소값, 폭우로 또 걱정]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5593610/V9pLz06h8q</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5593610/V9pLz06h8q"/>
+        <updated>2022-08-10T18:28:52.625Z</updated>
+        <content type="html"><![CDATA[중부지방 기록적인 폭우]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UFO 편대]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/QOeFwAT664</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/QOeFwAT664"/>
+        <updated>2022-08-10T18:28:52.625Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[물에 잠긴 골목]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1783949/2VyzcQcpi1</id>
         <link href="https://gallery.v.daum.net/p/viewer/1783949/2VyzcQcpi1"/>
         <updated>2022-08-10T15:24:42.813Z</updated>
         <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍수주의보로 통제된 무심천]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5593610/upRPlalfyx</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5593610/upRPlalfyx"/>
-        <updated>2022-08-10T15:24:42.814Z</updated>
-        <content type="html"><![CDATA[중부지방 기록적인 폭우]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구조된 벨루가 끝내 숨져]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5030473/H6JNQXKwdF"/>
         <updated>2022-08-10T06:31:16.346Z</updated>
         <content type="html"><![CDATA[홍콩은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['노익장' 허블우주망원경, 별 가득한 'NGC 6638' 포착]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1497/qWEtwfg1kE</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1497/qWEtwfg1kE"/>
-        <updated>2022-08-10T05:22:01.012Z</updated>
-        <content type="html"><![CDATA[우주의 신비]]></content>
     </entry>
 </feed>
