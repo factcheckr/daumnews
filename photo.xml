@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-08-10T18:29:19.448Z</updated>
+    <updated>2022-08-10T19:20:00.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사랑마저 녹슨 건 아니겠죠]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/yxhEodrq9x</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/yxhEodrq9x"/>
+        <updated>2022-08-10T19:19:38.155Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폭염에 오른 채소값, 폭우로 또 걱정]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5593610/V9pLz06h8q</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033379/5IOsVTujMk"/>
         <updated>2022-08-10T06:31:16.346Z</updated>
         <content type="html"><![CDATA[케냐는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍콩 시내 거리서 방송되는 대만군 포사격 훈련 모습]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5030473/H6JNQXKwdF</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5030473/H6JNQXKwdF"/>
-        <updated>2022-08-10T06:31:16.346Z</updated>
-        <content type="html"><![CDATA[홍콩은 지금]]></content>
     </entry>
 </feed>
