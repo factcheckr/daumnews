@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-08-10T10:26:35.021Z</updated>
+    <updated>2022-08-10T11:20:29.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[가자! 우주로..'대덕특구'의 힘]③ 미국 화성탐사선부터 '다누리'까지]]></title>
+        <id>https://v.daum.net/v/20220810194143678</id>
+        <link href="https://v.daum.net/v/20220810194143678"/>
+        <updated>2022-08-10T11:19:53.998Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中, '칩4' 강공 대신 회유..韓 반도체 '위기를 기회로']]></title>
         <id>https://v.daum.net/v/20220810184500594</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220810175305444"/>
         <updated>2022-08-10T09:23:02.764Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인터넷 광고전쟁 "막아드려요" "뚫어드려요"]]></title>
-        <id>https://v.daum.net/v/20220810173902982</id>
-        <link href="https://v.daum.net/v/20220810173902982"/>
-        <updated>2022-08-10T09:23:02.765Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
