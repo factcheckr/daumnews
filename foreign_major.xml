@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-08-11T18:28:39.955Z</updated>
+    <updated>2022-08-11T19:18:37.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220812030251090"/>
         <updated>2022-08-11T18:27:31.802Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이더리움, 시스템 업그레이드 성공적 테스트에 2개월 최고치]]></title>
+        <id>https://v.daum.net/v/20220812014627882</id>
+        <link href="https://v.daum.net/v/20220812014627882"/>
+        <updated>2022-08-11T19:17:36.461Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자포리자 원전 또 포격..우크라·러시아 서로 "너희 탓"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220812002433555"/>
         <updated>2022-08-11T16:31:33.030Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아 "우크라 작전에 北 지원군 투입은 가짜 뉴스"]]></title>
-        <id>https://v.daum.net/v/20220812000936486</id>
-        <link href="https://v.daum.net/v/20220812000936486"/>
-        <updated>2022-08-11T16:31:33.030Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>

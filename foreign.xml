@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-08-11T18:28:39.954Z</updated>
+    <updated>2022-08-11T19:18:37.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['생방송 도중 반전 시위' 러 언론인, 두달 가택연금]]></title>
+        <id>https://v.daum.net/v/20220812033038261</id>
+        <link href="https://v.daum.net/v/20220812033038261"/>
+        <updated>2022-08-11T19:17:28.372Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메타, 메신저에서 암호화된 대화 내용 백업하는 기능 출시]]></title>
         <id>https://v.daum.net/v/20220812032511256</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220812020636929"/>
         <updated>2022-08-11T17:23:54.136Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이더리움, 시스템 업그레이드 성공적 테스트에 2개월 최고치]]></title>
-        <id>https://v.daum.net/v/20220812014627882</id>
-        <link href="https://v.daum.net/v/20220812014627882"/>
-        <updated>2022-08-11T17:23:54.137Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
