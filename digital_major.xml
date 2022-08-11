@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-08-11T08:28:54.631Z</updated>
+    <updated>2022-08-11T09:24:01.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220811165401399"/>
         <updated>2022-08-11T08:28:21.158Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2주 후 코로나19 하루 확진자 12~29만명대..9월 초 감소 전망도]]></title>
+        <id>https://v.daum.net/v/20220811154426423</id>
+        <link href="https://v.daum.net/v/20220811154426423"/>
+        <updated>2022-08-11T09:23:33.716Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["끊이지 않는 계정 탈취"..피싱 메일 주의보]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220811140902274"/>
         <updated>2022-08-11T07:23:22.297Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정필모 의원 "원전 안전성평가 후에 운영변경허가"]]></title>
-        <id>https://v.daum.net/v/20220811133116184</id>
-        <link href="https://v.daum.net/v/20220811133116184"/>
-        <updated>2022-08-11T07:23:22.298Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
