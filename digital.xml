@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-08-11T21:24:04.411Z</updated>
+    <updated>2022-08-11T22:23:39.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["넌 나한테 안 돼" 삼성, 폴더블폰 기술로 중국 눌렀다]]></title>
+        <id>https://v.daum.net/v/20220812070016267</id>
+        <link href="https://v.daum.net/v/20220812070016267"/>
+        <updated>2022-08-11T22:22:56.765Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[거미 꿈꾸는 듯한 동작 포착!..동물 렘수면 연구 진일보]]></title>
         <id>https://v.daum.net/v/20220812061912882</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220812050416822"/>
         <updated>2022-08-11T20:24:07.570Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광복절 연휴 영서지역 또 폭우 예보]]></title>
-        <id>https://v.daum.net/v/20220812050139725</id>
-        <link href="https://v.daum.net/v/20220812050139725"/>
-        <updated>2022-08-11T20:24:07.573Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
