@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-08-12T11:20:46.733Z</updated>
+    <updated>2022-08-12T12:43:18.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨]연휴 내내 무더위..내일 오후까지 비]]></title>
+        <id>https://v.daum.net/v/20220812191930403</id>
+        <link href="https://v.daum.net/v/20220812191930403"/>
+        <updated>2022-08-12T12:42:30.700Z</updated>
+        <content type="html"><![CDATA[kbc광주방송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국에서 온다고 하니.. 퇴근 않고 기다린 박물관 직원들]]></title>
         <id>https://v.daum.net/v/20220812154201879</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220812155338222"/>
         <updated>2022-08-12T08:28:52.336Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이상한 검사 임은정]④ "너희들 빠져라, 검사는 나다"]]></title>
-        <id>https://v.daum.net/v/20220812140024346</id>
-        <link href="https://v.daum.net/v/20220812140024346"/>
-        <updated>2022-08-12T08:28:52.337Z</updated>
-        <content type="html"><![CDATA[대구MBC]]></content>
     </entry>
 </feed>
