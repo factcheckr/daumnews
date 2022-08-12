@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-08-12T16:37:37.498Z</updated>
+    <updated>2022-08-12T17:29:34.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美, 첨단 반도체 생산 관련 기술에 수출통제 부과]]></title>
+        <id>https://v.daum.net/v/20220813021638463</id>
+        <link href="https://v.daum.net/v/20220813021638463"/>
+        <updated>2022-08-12T17:28:56.955Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전국 11만 9072명 코로나19 확진..1주 전 대비 1.1배]]></title>
         <id>https://v.daum.net/v/20220812222344277</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220812181258096"/>
         <updated>2022-08-12T09:22:30.584Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['北사이버 위협↑'..전문가들 "견고한 국제공조 필요"]]></title>
-        <id>https://v.daum.net/v/20220812175524704</id>
-        <link href="https://v.daum.net/v/20220812175524704"/>
-        <updated>2022-08-12T09:22:30.585Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
