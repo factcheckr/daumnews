@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-08-12T17:29:34.171Z</updated>
+    <updated>2022-08-12T18:29:43.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세계 청소년의 날..청소년 건강 주의할 점은?]]></title>
+        <id>https://v.daum.net/v/20220812195712103</id>
+        <link href="https://v.daum.net/v/20220812195712103"/>
+        <updated>2022-08-12T18:28:41.063Z</updated>
+        <content type="html"><![CDATA[EBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국에서 온다고 하니.. 퇴근 않고 기다린 박물관 직원들]]></title>
         <id>https://v.daum.net/v/20220812154201879</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220813000136914"/>
         <updated>2022-08-12T17:28:49.918Z</updated>
         <content type="html"><![CDATA[중앙SUNDAY]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 주말 중부 또 많은 비..남부는 무더위]]></title>
-        <id>https://v.daum.net/v/20220812204915743</id>
-        <link href="https://v.daum.net/v/20220812204915743"/>
-        <updated>2022-08-12T17:28:49.918Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
