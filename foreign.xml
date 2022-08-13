@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-08-13T05:20:57.298Z</updated>
+    <updated>2022-08-13T06:28:16.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[팔' 거리서 사라진 뱅크시 그림, 이스라엘 갤러리서 등장]]></title>
+        <id>https://v.daum.net/v/20220813141300946</id>
+        <link href="https://v.daum.net/v/20220813141300946"/>
+        <updated>2022-08-13T06:27:06.194Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["유튜브, 동영상 스트리밍 모아보는 온라인스토어 개설 추진"]]></title>
+        <id>https://v.daum.net/v/20220813140114820</id>
+        <link href="https://v.daum.net/v/20220813140114820"/>
+        <updated>2022-08-13T06:27:06.195Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국, 반도체 생산 관련 기술에 수출통제 부과]]></title>
         <id>https://v.daum.net/v/20220813132731504</id>
         <link href="https://v.daum.net/v/20220813132731504"/>
         <updated>2022-08-13T05:19:52.801Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국, 펠로시의 남편 거래처까지 손보나]]></title>
-        <id>https://v.daum.net/v/20220813132403468</id>
-        <link href="https://v.daum.net/v/20220813132403468"/>
-        <updated>2022-08-13T04:30:45.057Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美 해병대 홍보 책임자에 처음으로 민간인 여성 기용]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220813120553927"/>
         <updated>2022-08-13T03:23:46.375Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미수교국 쿠바 찾아간 우리 문화..아바나서 '한국문화 돋움제']]></title>
-        <id>https://v.daum.net/v/20220813111731501</id>
-        <link href="https://v.daum.net/v/20220813111731501"/>
-        <updated>2022-08-13T03:23:46.376Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
