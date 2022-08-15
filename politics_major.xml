@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2022-08-15T12:46:47.155Z</updated>
+    <updated>2022-08-15T13:46:15.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한이 수용할까?..한일관계 개선은?]]></title>
+        <id>https://v.daum.net/v/20220815212649131</id>
+        <link href="https://v.daum.net/v/20220815212649131"/>
+        <updated>2022-08-15T13:44:38.906Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[감사원, 9월 통계청 감사할듯.."자료조사 진행 중"]]></title>
         <id>https://v.daum.net/v/20220815211319050</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220815201805554"/>
         <updated>2022-08-15T12:45:13.501Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['강제 북송' 당시 통일부 차관 조사..줄소환 신호탄?]]></title>
-        <id>https://v.daum.net/v/20220815203106647</id>
-        <link href="https://v.daum.net/v/20220815203106647"/>
-        <updated>2022-08-15T12:45:13.502Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
