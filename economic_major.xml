@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-08-15T13:46:15.812Z</updated>
+    <updated>2022-08-15T14:25:01.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국산 홍수..한국 마늘 도전장 눈길]]></title>
+        <id>https://v.daum.net/v/20220815220041390</id>
+        <link href="https://v.daum.net/v/20220815220041390"/>
+        <updated>2022-08-15T14:23:45.936Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지방소멸대응기금 공모 '치열'.."과열경쟁에 실효성 의문"]]></title>
         <id>https://v.daum.net/v/20220815215643347</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220815202506602"/>
         <updated>2022-08-15T12:45:28.776Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포스코 사내 성희롱 관련 2명 '정직' 처분]]></title>
-        <id>https://v.daum.net/v/20220815200038389</id>
-        <link href="https://v.daum.net/v/20220815200038389"/>
-        <updated>2022-08-15T12:45:28.782Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
