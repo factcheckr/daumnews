@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-08-16T04:06:37.016Z</updated>
+    <updated>2022-08-16T05:24:15.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1개 동(洞)에 대학이 무려 5개..'대학인의 거리'가 조성되는 이곳은 어디?]]></title>
+        <id>https://v.daum.net/v/20220816105020606</id>
+        <link href="https://v.daum.net/v/20220816105020606"/>
+        <updated>2022-08-16T05:23:30.773Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰]당 타이 손 "베트남 전쟁속 달빛아래서 연주..쇼팽과 운명적 연결"]]></title>
         <id>https://v.daum.net/v/20220816104458411</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220816060101120"/>
         <updated>2022-08-16T02:11:54.451Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리빙톡] 갑자기 머리가 깨질 것 같아..빨리 병원 가세요!]]></title>
-        <id>https://v.daum.net/v/20220816060024083</id>
-        <link href="https://v.daum.net/v/20220816060024083"/>
-        <updated>2022-08-16T02:11:54.453Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
