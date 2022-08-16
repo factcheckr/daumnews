@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-08-16T18:32:17.334Z</updated>
+    <updated>2022-08-16T19:20:15.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[난개발 탓..1주일 폭우에 산사태 361건 "안전지역 없다"]]></title>
+        <id>https://v.daum.net/v/20220817040002445</id>
+        <link href="https://v.daum.net/v/20220817040002445"/>
+        <updated>2022-08-16T19:19:17.280Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['軍수저 신병'·장성 출신 유튜버.. 군대 이야기 쏟아진다]]></title>
         <id>https://v.daum.net/v/20220817030708348</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220816210015873"/>
         <updated>2022-08-16T12:40:54.780Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전남 남해안 내일 낮까지 곳곳 비..150mm ↑]]></title>
-        <id>https://v.daum.net/v/20220816204543639</id>
-        <link href="https://v.daum.net/v/20220816204543639"/>
-        <updated>2022-08-16T12:40:54.781Z</updated>
-        <content type="html"><![CDATA[kbc광주방송]]></content>
     </entry>
 </feed>

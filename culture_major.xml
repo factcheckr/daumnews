@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-08-16T18:32:17.335Z</updated>
+    <updated>2022-08-16T19:20:15.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전남 남해안 내일 낮까지 곳곳 비..150mm ↑]]></title>
+        <id>https://v.daum.net/v/20220816204543639</id>
+        <link href="https://v.daum.net/v/20220816204543639"/>
+        <updated>2022-08-16T19:19:25.392Z</updated>
+        <content type="html"><![CDATA[kbc광주방송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[경남人] 승전의 감동을 잇다..'통영 승전무 보존회장' 장영미]]></title>
         <id>https://v.daum.net/v/20220816200951138</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220816174024890"/>
         <updated>2022-08-16T09:20:06.916Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국립합창단, 미국 성악가들과 '한국 가곡' 알린다]]></title>
-        <id>https://v.daum.net/v/20220816173044577</id>
-        <link href="https://v.daum.net/v/20220816173044577"/>
-        <updated>2022-08-16T09:20:06.923Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
