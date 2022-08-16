@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-08-16T05:24:15.482Z</updated>
+    <updated>2022-08-16T06:29:12.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뿌린 대로 거두는 희열과 운 앞의 종종걸음]]></title>
+        <id>https://v.daum.net/v/20220816111803038</id>
+        <link href="https://v.daum.net/v/20220816111803038"/>
+        <updated>2022-08-16T06:28:23.649Z</updated>
+        <content type="html"><![CDATA[한겨레21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1개 동(洞)에 대학이 무려 5개..'대학인의 거리'가 조성되는 이곳은 어디?]]></title>
         <id>https://v.daum.net/v/20220816105020606</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220816090747096"/>
         <updated>2022-08-16T02:11:54.450Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["할렐루야, 주사파 척결하고, 헌금합시다" 종교와 정치가 섞인 광복절 집회]]></title>
-        <id>https://v.daum.net/v/20220816060101120</id>
-        <link href="https://v.daum.net/v/20220816060101120"/>
-        <updated>2022-08-16T02:11:54.451Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
