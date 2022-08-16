@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-08-16T13:35:43.152Z</updated>
+    <updated>2022-08-16T14:23:13.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소행성이 지구 생명태동 결정적 역할?]]></title>
+        <id>https://v.daum.net/v/20220816210128900</id>
+        <link href="https://v.daum.net/v/20220816210128900"/>
+        <updated>2022-08-16T14:21:59.537Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경기침체 공포에 유가 6개월래 '최저'..상승 변수도 산적]]></title>
         <id>https://v.daum.net/v/20220816210025878</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WHO "원숭이두창 이름 바꿔야"..웹사이트 통해 대중들 참여 독려]]></title>
+        <title type="html"><![CDATA[WHO "원숭이두창 이름 바꿔야"..웹사이트 통해 대중 참여 독려]]></title>
         <id>https://v.daum.net/v/20220816205602787</id>
         <link href="https://v.daum.net/v/20220816205602787"/>
         <updated>2022-08-16T12:40:46.864Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220816200622088"/>
         <updated>2022-08-16T12:40:46.873Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["지금 주식사면 바보"라던 '빅쇼트' 주인공..이 종목만은 샀다]]></title>
-        <id>https://v.daum.net/v/20220816200603077</id>
-        <link href="https://v.daum.net/v/20220816200603077"/>
-        <updated>2022-08-16T13:34:43.812Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>

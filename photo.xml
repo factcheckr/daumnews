@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-08-16T13:35:43.177Z</updated>
+    <updated>2022-08-16T14:23:13.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사우디아항공 인천-리야드-제다 노선 취항식]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/31583/VY4yHpPlMw</id>
+        <link href="https://gallery.v.daum.net/p/viewer/31583/VY4yHpPlMw"/>
+        <updated>2022-08-16T14:22:43.911Z</updated>
+        <content type="html"><![CDATA[인천공항 풍경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대학 미식축구 선수들 고성서 하계 전훈[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/KweaSZ9raD</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1476/tMvCDrXeL1"/>
         <updated>2022-08-16T07:19:57.111Z</updated>
         <content type="html"><![CDATA[미국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸틴 "동맹국에 현대식 무기 제공 준비됐다"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/2322/UFjcEwHRdX</id>
-        <link href="https://gallery.v.daum.net/p/viewer/2322/UFjcEwHRdX"/>
-        <updated>2022-08-16T07:19:57.111Z</updated>
-        <content type="html"><![CDATA[러시아 푸틴 대통령]]></content>
     </entry>
 </feed>
