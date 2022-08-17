@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2022-08-17T13:54:09.469Z</updated>
+    <updated>2022-08-17T14:28:35.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[흐릿한 번호판 잡는 '매의 눈'..AI시스템 경찰 현장에]]></title>
+        <id>https://v.daum.net/v/20220817215611436</id>
+        <link href="https://v.daum.net/v/20220817215611436"/>
+        <updated>2022-08-17T14:26:43.753Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 미추홀구, 가사간병서비스 전국 유일 중단 왜?]]></title>
         <id>https://v.daum.net/v/20220817215501418</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220817213713070"/>
         <updated>2022-08-17T13:52:08.686Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['과학 방역'..코로나 100일 로드맵 성적표는?]]></title>
-        <id>https://v.daum.net/v/20220817213647066</id>
-        <link href="https://v.daum.net/v/20220817213647066"/>
-        <updated>2022-08-17T13:52:08.687Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
