@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-08-18T11:21:30.464Z</updated>
+    <updated>2022-08-18T12:50:20.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내가 보낸 메시지, 서버도 모르게..'열쇠값' 꽁꽁 숨겨라[정은진의 기술을 기술하다]]]></title>
+        <id>https://v.daum.net/v/20220818213549051</id>
+        <link href="https://v.daum.net/v/20220818213549051"/>
+        <updated>2022-08-18T12:49:35.662Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기후 위기 시한폭탄 된 '영구동토층', 실태는?]]></title>
+        <id>https://v.daum.net/v/20220818213217007</id>
+        <link href="https://v.daum.net/v/20220818213217007"/>
+        <updated>2022-08-18T12:49:35.663Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[과·기·부] '자율주행 로봇' 규제 완화..과제는?]]></title>
         <id>https://v.daum.net/v/20220818200615033</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220818173621373"/>
         <updated>2022-08-18T09:24:50.661Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[IT애정남] 까다로운 중고폰 구매, 무엇을 확인해야 하나요?]]></title>
-        <id>https://v.daum.net/v/20220818172730014</id>
-        <link href="https://v.daum.net/v/20220818172730014"/>
-        <updated>2022-08-18T09:24:50.662Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[카카오모빌리티 매각 백지화] 진통 끝 '상생' 택했지만..자력갱생 시험대 올라]]></title>
-        <id>https://v.daum.net/v/20220818172034749</id>
-        <link href="https://v.daum.net/v/20220818172034749"/>
-        <updated>2022-08-18T08:28:25.898Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
