@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-08-18T10:27:48.400Z</updated>
+    <updated>2022-08-18T11:21:30.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[과·기·부] '자율주행 로봇' 규제 완화..과제는?]]></title>
+        <id>https://v.daum.net/v/20220818200615033</id>
+        <link href="https://v.daum.net/v/20220818200615033"/>
+        <updated>2022-08-18T11:20:43.981Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[달콤한 사이언스] 살 빼려면 뛰는 대신 껌 씹어라]]></title>
         <id>https://v.daum.net/v/20220818175801117</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220818172034749"/>
         <updated>2022-08-18T08:28:25.898Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오미크론 감염 바이러스 배출량, 알파·델타 변이보다 최대 1000배]]></title>
-        <id>https://v.daum.net/v/20220818172009739</id>
-        <link href="https://v.daum.net/v/20220818172009739"/>
-        <updated>2022-08-18T10:27:05.542Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
