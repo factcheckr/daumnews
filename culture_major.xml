@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-08-18T12:50:20.705Z</updated>
+    <updated>2022-08-18T13:48:12.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미리 설치했더라면..외면받던 추락 방지 장치로 맨홀 사고 막는다]]></title>
+        <id>https://v.daum.net/v/20220818192838343</id>
+        <link href="https://v.daum.net/v/20220818192838343"/>
+        <updated>2022-08-18T13:47:25.198Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상 아바타로 돌아온 클론 강원래 "옛날처럼 춤추는 모습에 나도 뭉클"]]></title>
         <id>https://v.daum.net/v/20220818191602097</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220818171823687"/>
         <updated>2022-08-18T09:24:41.984Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리의 탈춤극 형식과 만난 그리스 신화 '아가멤논의 비극']]></title>
-        <id>https://v.daum.net/v/20220818171301478</id>
-        <link href="https://v.daum.net/v/20220818171301478"/>
-        <updated>2022-08-18T09:24:41.985Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
