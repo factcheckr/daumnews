@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-08-18T09:25:33.978Z</updated>
+    <updated>2022-08-18T10:27:48.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[오미크론 감염 바이러스 배출량, 알파·델타 변이보다 최대 1000배]]></title>
-        <id>https://v.daum.net/v/20220818172009739</id>
-        <link href="https://v.daum.net/v/20220818172009739"/>
-        <updated>2022-08-18T09:24:59.352Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA['프롭테크 특허 분쟁' 아키드로우, 어반베이스 민사 승소]]></title>
         <id>https://v.daum.net/v/20220818171308489</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220818161007005"/>
         <updated>2022-08-18T08:28:33.564Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스마트홈 표준 '매터', 내년 적용 기기 4억개 전망..LG유플러스도 합류]]></title>
+        <id>https://v.daum.net/v/20220818144304174</id>
+        <link href="https://v.daum.net/v/20220818144304174"/>
+        <updated>2022-08-18T10:27:14.484Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
