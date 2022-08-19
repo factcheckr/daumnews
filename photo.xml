@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-08-19T11:21:43.241Z</updated>
+    <updated>2022-08-19T12:44:13.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[또 무거운 비..[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/Fbu6IO1ij7</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/Fbu6IO1ij7"/>
+        <updated>2022-08-19T12:43:48.726Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노조 파업으로 교통대란 벌어진 영국 런던]]></title>
         <id>https://gallery.v.daum.net/p/viewer/2329/9AsnfVo5e7</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1137876/Bfqqw7MTC8"/>
         <updated>2022-08-19T05:32:50.215Z</updated>
         <content type="html"><![CDATA[뉴시스 앵글]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부여군 수해복구 현장에 넘쳐나는 '온정']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5081373/UspBmqeWjE</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5081373/UspBmqeWjE"/>
-        <updated>2022-08-19T04:10:21.688Z</updated>
-        <content type="html"><![CDATA[전국 수해 복구]]></content>
     </entry>
 </feed>
