@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-08-19T17:30:50.939Z</updated>
+    <updated>2022-08-19T18:32:24.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[괴로우나 즐거우나 함께 부르는 노래]]></title>
+        <id>https://v.daum.net/v/20220819231502263</id>
+        <link href="https://v.daum.net/v/20220819231502263"/>
+        <updated>2022-08-19T18:31:38.721Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[까딱하면 큰 부상..인공암장 사고 예방하려면]]></title>
         <id>https://v.daum.net/v/20220819231126232</id>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20220819171812586</id>
         <link href="https://v.daum.net/v/20220819171812586"/>
         <updated>2022-08-19T12:43:24.169Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[석양 물든 호수에 흐르는 선율..유럽, 클래식 향연에 다시 흠뻑]]></title>
-        <id>https://v.daum.net/v/20220819171806579</id>
-        <link href="https://v.daum.net/v/20220819171806579"/>
-        <updated>2022-08-19T09:24:11.141Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
