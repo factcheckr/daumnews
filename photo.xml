@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-08-19T18:32:24.165Z</updated>
+    <updated>2022-08-19T19:20:03.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나만 아는 피서지]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/2Yehg4atbq</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/2Yehg4atbq"/>
+        <updated>2022-08-19T19:19:40.515Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[555미터 서울 하늘에서의 하룻밤]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1573204/UdJlzkWQMF</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5030466/6UlC0oC2eF"/>
         <updated>2022-08-19T06:32:28.343Z</updated>
         <content type="html"><![CDATA[독일은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아지랑이 피어오른 제주공항']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/111971/UpLDMvUNSH</id>
-        <link href="https://gallery.v.daum.net/p/viewer/111971/UpLDMvUNSH"/>
-        <updated>2022-08-19T06:32:28.347Z</updated>
-        <content type="html"><![CDATA[무더운 한반도]]></content>
     </entry>
 </feed>
