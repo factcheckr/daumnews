@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-08-19T15:28:41.402Z</updated>
+    <updated>2022-08-19T16:35:52.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플·유튜브도 한다는데.."카카오가 살 길은 '광고' 뿐"]]></title>
+        <id>https://v.daum.net/v/20220819172303749</id>
+        <link href="https://v.daum.net/v/20220819172303749"/>
+        <updated>2022-08-19T16:35:18.918Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소행성 '류구' 시료에 태양계 형성 이전 고대 알갱이 담겨]]></title>
         <id>https://v.daum.net/v/20220819162934126</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220819152012091"/>
         <updated>2022-08-19T07:23:33.143Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스타트업 겨울' 실감나네..네이버·카카오 상반기 투자 '주춤']]></title>
-        <id>https://v.daum.net/v/20220819150538721</id>
-        <link href="https://v.daum.net/v/20220819150538721"/>
-        <updated>2022-08-19T07:23:33.143Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
