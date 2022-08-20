@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-08-20T07:22:06.159Z</updated>
+    <updated>2022-08-20T08:29:42.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이폰·맥북 보안 뚫린 애플.."소프트웨어 업데이트 즉시 해야"]]></title>
+        <id>https://v.daum.net/v/20220820171906767</id>
+        <link href="https://v.daum.net/v/20220820171906767"/>
+        <updated>2022-08-20T08:29:01.511Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보이저호, 오늘로 45년..수년뒤 교신 끊겨도 우주여행은 계속되리]]></title>
         <id>https://v.daum.net/v/20220820135001526</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220820113011566"/>
         <updated>2022-08-20T03:58:16.014Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재드래곤(이재용)' 기흥에 뜬 날..라면도 동나고 직원과 영통까지 [사진으로 보는]]]></title>
-        <id>https://v.daum.net/v/20220820112700540</id>
-        <link href="https://v.daum.net/v/20220820112700540"/>
-        <updated>2022-08-20T03:58:16.015Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
