@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-08-21T11:20:20.584Z</updated>
+    <updated>2022-08-21T12:38:44.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['해외 미술', 우리나라에 몰려온다..기대 큰 만큼 우려도]]></title>
+        <id>https://v.daum.net/v/20220821205412343</id>
+        <link href="https://v.daum.net/v/20220821205412343"/>
+        <updated>2022-08-21T12:37:54.099Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인터넷·스마트폰 '과의존' 연령대 점점 낮아져]]></title>
+        <id>https://v.daum.net/v/20220821203939225</id>
+        <link href="https://v.daum.net/v/20220821203939225"/>
+        <updated>2022-08-21T12:37:54.106Z</updated>
+        <content type="html"><![CDATA[대구MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["같은 점프라도 더 높이 보이게.. 엄청 연습했죠"]]></title>
         <id>https://v.daum.net/v/20220821195809730</id>
         <link href="https://v.daum.net/v/20220821195809730"/>
         <updated>2022-08-21T11:19:21.419Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[올바른약복용법] 나에게 맞는 비타민]]></title>
-        <id>https://v.daum.net/v/20220821193629440</id>
-        <link href="https://v.daum.net/v/20220821193629440"/>
-        <updated>2022-08-21T11:19:21.420Z</updated>
-        <content type="html"><![CDATA[대전일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엽서화로 만나는 '초현실주의 사랑꾼' 이중섭]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220821174003903"/>
         <updated>2022-08-21T09:21:40.168Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그림을 찢고서야 비로소 알게 된 '그림']]></title>
-        <id>https://v.daum.net/v/20220821170949293</id>
-        <link href="https://v.daum.net/v/20220821170949293"/>
-        <updated>2022-08-21T08:27:23.270Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
