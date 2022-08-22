@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-08-22T11:21:24.156Z</updated>
+    <updated>2022-08-22T12:46:59.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["백신 부작용 심근염 발생위험, 접종 않고 코로나 감염시 11배"]]></title>
+        <id>https://v.daum.net/v/20220822180013179</id>
+        <link href="https://v.daum.net/v/20220822180013179"/>
+        <updated>2022-08-22T12:46:25.420Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우주산업 '3특구' 체제로 키운다.."연구·인재 기능 추가"]]></title>
         <id>https://v.daum.net/v/20220822174510797</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220822153218307"/>
         <updated>2022-08-22T08:30:51.214Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["콘텐츠와 반도체 다른데, R&D 연구소라니"..K-콘텐츠 세액공제 '암울' [OTT온에어]]]></title>
-        <id>https://v.daum.net/v/20220822153209304</id>
-        <link href="https://v.daum.net/v/20220822153209304"/>
-        <updated>2022-08-22T08:30:51.218Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>
