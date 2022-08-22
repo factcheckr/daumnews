@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-08-22T15:27:54.202Z</updated>
+    <updated>2022-08-22T16:31:36.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 중간선거서 허위정보 범람 우려..'SNS 공룡'들 억제책 부심]]></title>
+        <id>https://v.daum.net/v/20220823010153628</id>
+        <link href="https://v.daum.net/v/20220823010153628"/>
+        <updated>2022-08-22T16:30:56.272Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티맵, KB와 2000억 동맹 'IT·금융' 짝꿍 또 나왔다]]></title>
         <id>https://v.daum.net/v/20220823000309299</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220822193834745"/>
         <updated>2022-08-22T11:20:41.002Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화웨이, 아이폰14 공개 전날 '메이트50' 발표.."2년 만의  프리미엄 신작"]]></title>
-        <id>https://v.daum.net/v/20220822191431438</id>
-        <link href="https://v.daum.net/v/20220822191431438"/>
-        <updated>2022-08-22T10:26:48.044Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
