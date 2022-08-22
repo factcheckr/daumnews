@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-08-22T13:46:17.500Z</updated>
+    <updated>2022-08-22T14:21:34.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://v.daum.net/v/20220822215859162</id>
         <link href="https://v.daum.net/v/20220822215859162"/>
         <updated>2022-08-22T13:44:37.569Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['에너지 효율 낮은' 형광등 퇴출된다..2027년부턴 사실상 LED만]]></title>
+        <id>https://v.daum.net/v/20220822215641124</id>
+        <link href="https://v.daum.net/v/20220822215641124"/>
+        <updated>2022-08-22T14:20:12.620Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220822210608640"/>
         <updated>2022-08-22T12:45:25.791Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내홍 지속 국민의힘..1호 혁신안은 '공천손질']]></title>
-        <id>https://v.daum.net/v/20220822205550528</id>
-        <link href="https://v.daum.net/v/20220822205550528"/>
-        <updated>2022-08-22T12:45:25.792Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
