@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-08-22T14:21:34.128Z</updated>
+    <updated>2022-08-22T15:27:54.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티맵, KB와 2000억 동맹 'IT·금융' 짝꿍 또 나왔다]]></title>
+        <id>https://v.daum.net/v/20220823000309299</id>
+        <link href="https://v.daum.net/v/20220823000309299"/>
+        <updated>2022-08-22T15:27:17.646Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["반갑다 멍" 개도 주인과 재회할 때 눈물 흘린다]]></title>
         <id>https://v.daum.net/v/20220822230013886</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220822191431438"/>
         <updated>2022-08-22T10:26:48.044Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세탁기 하자보상' 삼성 품질경영 논란.. "29년전 신경영 선언 잊었나"]]></title>
-        <id>https://v.daum.net/v/20220822184024009</id>
-        <link href="https://v.daum.net/v/20220822184024009"/>
-        <updated>2022-08-22T10:26:48.045Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
