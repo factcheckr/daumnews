@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-08-22T18:28:59.037Z</updated>
+    <updated>2022-08-22T19:20:23.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['천연기념물 산양' 18년 뒤 우리나라서 멸종?]]></title>
+        <id>https://v.daum.net/v/20220822211310691</id>
+        <link href="https://v.daum.net/v/20220822211310691"/>
+        <updated>2022-08-22T19:19:50.946Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기획- 다중위기 극복해법 '융합연구'] 현실-가상 경계 무너뜨린 메타버스.. 자율주행, 이동의 자유 선물]]></title>
         <id>https://v.daum.net/v/20220822193834745</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220822171454008"/>
         <updated>2022-08-22T09:23:42.483Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비밀 제보'를 하고 싶은 당신에게 우리 언론은?]]></title>
-        <id>https://v.daum.net/v/20220822165839450</id>
-        <link href="https://v.daum.net/v/20220822165839450"/>
-        <updated>2022-08-22T09:23:42.485Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
 </feed>
