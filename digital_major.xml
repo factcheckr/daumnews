@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-08-22T09:24:14.207Z</updated>
+    <updated>2022-08-22T10:27:29.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[학과정원 확대.. 디지털 인재 100만명 키운다]]></title>
+        <id>https://v.daum.net/v/20220822172811366</id>
+        <link href="https://v.daum.net/v/20220822172811366"/>
+        <updated>2022-08-22T10:26:56.622Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["업무정지 봐주고, 원료 신속배정".. 감기약 동나자 총력 대응 나선 식약처]]></title>
         <id>https://v.daum.net/v/20220822171454008</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220822151113624"/>
         <updated>2022-08-22T08:30:51.220Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성·LG, 국내 노트북 시장 '양강 체제' 흔들]]></title>
-        <id>https://v.daum.net/v/20220822143419223</id>
-        <link href="https://v.daum.net/v/20220822143419223"/>
-        <updated>2022-08-22T08:30:51.221Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
