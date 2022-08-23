@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-08-23T15:25:38.111Z</updated>
+    <updated>2022-08-23T16:32:58.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보복여행 나선 미국인 잡아라..뉴욕·시카고·LA서 한국알리기]]></title>
+        <id>https://v.daum.net/v/20220824010007967</id>
+        <link href="https://v.daum.net/v/20220824010007967"/>
+        <updated>2022-08-23T16:31:32.330Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[국민의 기업] 내진성능부터 안전설비까지.."세계 어느 원전과 견줘도 안전"]]></title>
         <id>https://v.daum.net/v/20220824000547726</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220823220508687"/>
         <updated>2022-08-23T13:42:38.046Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주식하면 할수록 잔고가 줄어드는데..남들도 다 이런 거 맞죠?]]></title>
-        <id>https://v.daum.net/v/20220823220313662</id>
-        <link href="https://v.daum.net/v/20220823220313662"/>
-        <updated>2022-08-23T13:42:38.048Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
