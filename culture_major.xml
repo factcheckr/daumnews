@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-08-24T12:45:05.045Z</updated>
+    <updated>2022-08-24T13:41:22.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["일본 정부의 교과서 수정 노골화" 일본 학자들도 지적]]></title>
+        <id>https://v.daum.net/v/20220824185026603</id>
+        <link href="https://v.daum.net/v/20220824185026603"/>
+        <updated>2022-08-24T13:40:37.012Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[씨레라] '사면 불발' 박찬구 3세 경영 돌파구..'징역 10년' 박삼구 초라한 말로]]></title>
         <id>https://v.daum.net/v/20220824180321574</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220824155101809"/>
         <updated>2022-08-24T08:29:47.209Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름밤 포항 철길숲 걸으며 공연·체험 즐기세요]]></title>
-        <id>https://v.daum.net/v/20220824154637635</id>
-        <link href="https://v.daum.net/v/20220824154637635"/>
-        <updated>2022-08-24T08:29:47.209Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
