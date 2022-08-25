@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-08-25T13:01:21.063Z</updated>
+    <updated>2022-08-25T13:47:12.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA['멍 때리기 대회' 3년 만에 부활..우울·불안에 효과?]]></title>
-        <id>https://v.daum.net/v/20220825200707484</id>
-        <link href="https://v.daum.net/v/20220825200707484"/>
-        <updated>2022-08-25T12:44:47.864Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[김효은 작가의 '우리가 케이크를 먹는 방법']]></title>
         <id>https://v.daum.net/v/20220825191052075</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220825170801568"/>
         <updated>2022-08-25T12:44:47.876Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해외 갤러리 못잖은 KIAF..김구림·이건용·BAYC '별들의 전쟁']]></title>
+        <id>https://v.daum.net/v/20220825170602491</id>
+        <link href="https://v.daum.net/v/20220825170602491"/>
+        <updated>2022-08-25T13:46:21.291Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
