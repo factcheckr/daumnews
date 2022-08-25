@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-08-25T09:25:13.730Z</updated>
+    <updated>2022-08-25T10:28:21.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김효은 작가의 '우리가 케이크를 먹는 방법']]></title>
+        <id>https://v.daum.net/v/20220825191052075</id>
+        <link href="https://v.daum.net/v/20220825191052075"/>
+        <updated>2022-08-25T10:27:12.161Z</updated>
+        <content type="html"><![CDATA[EBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 국립현대미술관 학예실장 내정자, 음주운전에 직장내괴롭힘 의혹]]></title>
         <id>https://v.daum.net/v/20220825172236175</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220825180017830"/>
         <updated>2022-08-25T09:24:05.671Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[약손+] 수면장애⑦ 수면 무호흡증 환자 절반이 고혈압?]]></title>
-        <id>https://v.daum.net/v/20220825110618338</id>
-        <link href="https://v.daum.net/v/20220825110618338"/>
-        <updated>2022-08-25T09:24:05.672Z</updated>
-        <content type="html"><![CDATA[대구MBC]]></content>
     </entry>
 </feed>
