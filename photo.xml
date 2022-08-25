@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-08-25T16:32:59.676Z</updated>
+    <updated>2022-08-25T17:25:28.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1518/FWcBjpsbKM"/>
         <updated>2022-08-25T13:46:46.430Z</updated>
         <content type="html"><![CDATA[전국 화재사고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팔월의 해 질 녘]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/27gqeGNFTd</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/27gqeGNFTd"/>
+        <updated>2022-08-25T17:25:00.984Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소진공, 소상공인·전통시장 규제 정비 등 간담회]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1397984/KdgL3GNF6o"/>
         <updated>2022-08-25T12:45:11.537Z</updated>
         <content type="html"><![CDATA[퇴근길 한 컷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2470선 회복한 코스피]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5031020/5ww1EoqkRc</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5031020/5ww1EoqkRc"/>
-        <updated>2022-08-25T12:45:11.538Z</updated>
-        <content type="html"><![CDATA[코스피 &amp; 코스닥]]></content>
     </entry>
 </feed>

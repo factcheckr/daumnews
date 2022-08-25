@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-08-25T16:32:59.666Z</updated>
+    <updated>2022-08-25T17:25:28.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["전쟁 반대.. 아름다운 소리 뒤에 숨지 않을 것"]]></title>
+        <id>https://v.daum.net/v/20220825160636922</id>
+        <link href="https://v.daum.net/v/20220825160636922"/>
+        <updated>2022-08-25T17:24:27.955Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기후변화·저출산 예산, 잘 쓰이는지 계속 감시해달라]]></title>
         <id>https://v.daum.net/v/20220826000223125</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220825205413564"/>
         <updated>2022-08-25T12:44:39.398Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[문화톡톡] 아시아 도자문화 보고, 국립광주박물관]]></title>
-        <id>https://v.daum.net/v/20220825204109346</id>
-        <link href="https://v.daum.net/v/20220825204109346"/>
-        <updated>2022-08-25T12:44:39.399Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
