@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-08-25T18:29:16.689Z</updated>
+    <updated>2022-08-25T19:20:42.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[생쥐도 사람처럼 생생한 꿈을 꾼다]]></title>
+        <id>https://v.daum.net/v/20220826040015220</id>
+        <link href="https://v.daum.net/v/20220826040015220"/>
+        <updated>2022-08-25T19:19:59.530Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피카츄가 '미니' 시동걸고, 포드차로 레이싱.. 여긴 게임쇼? 모터쇼?]]></title>
         <id>https://v.daum.net/v/20220825163757308</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220826000506280"/>
         <updated>2022-08-25T15:24:59.578Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[재산공개]반도체 대가 이종호 과기정통부 장관, 160억..현직 2위]]></title>
-        <id>https://v.daum.net/v/20220826000030982</id>
-        <link href="https://v.daum.net/v/20220826000030982"/>
-        <updated>2022-08-25T15:24:59.579Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
