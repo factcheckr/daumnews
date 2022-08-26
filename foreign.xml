@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-08-26T12:49:00.695Z</updated>
+    <updated>2022-08-26T13:42:27.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美·中, 뉴욕증시 상장 中기업 회계 감독 협력 합의]]></title>
+        <id>https://v.daum.net/v/20220826221735188</id>
+        <link href="https://v.daum.net/v/20220826221735188"/>
+        <updated>2022-08-26T13:41:09.895Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["총 뒀다 뭐해"..中 드론에 돌 던진 대만군]]></title>
         <id>https://v.daum.net/v/20220826214234821</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220826210028242"/>
         <updated>2022-08-26T12:47:49.174Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대만 中 정책 입안자 다음달 美 방문..양안 정책 방향 등 설명]]></title>
-        <id>https://v.daum.net/v/20220826205855208</id>
-        <link href="https://v.daum.net/v/20220826205855208"/>
-        <updated>2022-08-26T12:47:49.176Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
