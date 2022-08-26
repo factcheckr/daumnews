@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-08-26T18:29:16.943Z</updated>
+    <updated>2022-08-26T19:20:18.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JUMF 2022 개막.. 3년 만 대면 공연]]></title>
+        <id>https://v.daum.net/v/20220826211246409</id>
+        <link href="https://v.daum.net/v/20220826211246409"/>
+        <updated>2022-08-26T19:19:32.056Z</updated>
+        <content type="html"><![CDATA[전주MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가을이 오고 있어요..다음 주도 화창]]></title>
         <id>https://v.daum.net/v/20220826205810203</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220826182700002"/>
         <updated>2022-08-26T10:26:21.692Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조선왕실 사도세자·순조·헌종 태실 그림 3건 보물 되다]]></title>
-        <id>https://v.daum.net/v/20220826182219921</id>
-        <link href="https://v.daum.net/v/20220826182219921"/>
-        <updated>2022-08-26T10:26:21.693Z</updated>
-        <content type="html"><![CDATA[CJB청주방송]]></content>
     </entry>
 </feed>
