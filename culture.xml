@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-08-26T17:26:44.566Z</updated>
+    <updated>2022-08-26T18:29:16.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아홉개의 비경 아홉번의 탄성.. 신선들 놀이터에 앉아 바둑 한판]]></title>
+        <id>https://v.daum.net/v/20220827030134597</id>
+        <link href="https://v.daum.net/v/20220827030134597"/>
+        <updated>2022-08-26T18:28:20.810Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제주화가 강요배 "그림은 입체적 경험 교묘하게 압축하는 행위"]]></title>
         <id>https://v.daum.net/v/20220827010716278</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220826211246409"/>
         <updated>2022-08-26T12:48:04.882Z</updated>
         <content type="html"><![CDATA[전주MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을이 오고 있어요..다음 주도 화창]]></title>
-        <id>https://v.daum.net/v/20220826205810203</id>
-        <link href="https://v.daum.net/v/20220826205810203"/>
-        <updated>2022-08-26T12:48:04.883Z</updated>
-        <content type="html"><![CDATA[대구MBC]]></content>
     </entry>
 </feed>
