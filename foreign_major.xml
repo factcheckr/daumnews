@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-08-26T13:42:27.436Z</updated>
+    <updated>2022-08-26T14:23:07.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,27 @@
         <link href="https://v.daum.net/v/20220826210627321"/>
         <updated>2022-08-26T12:47:57.079Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자포리자 원전, 전기유입선은 복구되었으나 송출선 연결은 안돼]]></title>
+        <id>https://v.daum.net/v/20220826210545307</id>
+        <link href="https://v.daum.net/v/20220826210545307"/>
+        <updated>2022-08-26T14:22:05.396Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미술품에 본드로 손 붙이는 시위 확산.. "기후위기 인질이냐"]]></title>
+        <id>https://v.daum.net/v/20220826210041243</id>
+        <link href="https://v.daum.net/v/20220826210041243"/>
+        <updated>2022-08-26T14:22:05.396Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청소도우미 '연봉 1억'인데 지원자 없다..'경제 붕괴' 경고 뜬 호주]]></title>
+        <id>https://v.daum.net/v/20220826210028242</id>
+        <link href="https://v.daum.net/v/20220826210028242"/>
+        <updated>2022-08-26T14:22:05.397Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대만 中 정책 입안자 다음달 美 방문..양안 정책 방향 등 설명]]></title>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20220826201016648"/>
         <updated>2022-08-26T12:47:57.085Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자포리자 핵재앙 현실로?.. 포격으로 전기 끊겨 방사능 유출될 뻔]]></title>
-        <id>https://v.daum.net/v/20220826200559577</id>
-        <link href="https://v.daum.net/v/20220826200559577"/>
-        <updated>2022-08-26T12:47:57.087Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뚜벅뚜벅 '걷는 상어'..땅 위에서 2시간 버틴다]]></title>
-        <id>https://v.daum.net/v/20220826195108368</id>
-        <link href="https://v.daum.net/v/20220826195108368"/>
-        <updated>2022-08-26T12:47:57.088Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신임 유흥식 추기경 "갈등의 중재자 교황 방북 가능성 열려 있어"]]></title>
-        <id>https://v.daum.net/v/20220826193801114</id>
-        <link href="https://v.daum.net/v/20220826193801114"/>
-        <updated>2022-08-26T12:47:57.090Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
