@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-08-28T08:29:06.500Z</updated>
+    <updated>2022-08-28T09:23:14.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LoL 한국 최강 가리는 LCK 서머 결승전..젠지, T1 2:0으로 리드]]></title>
+        <id>https://v.daum.net/v/20220828173032605</id>
+        <link href="https://v.daum.net/v/20220828173032605"/>
+        <updated>2022-08-28T09:22:33.036Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박미경 포시에스 대표 "전자문서법, 해석 명확해야"]]></title>
         <id>https://v.daum.net/v/20220828170106120</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220828150103142"/>
         <updated>2022-08-28T06:28:30.002Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그린피스 "미국러시아 등 이기주의에 해양보전조약 체결 무산..상당히 실망스럽다"]]></title>
-        <id>https://v.daum.net/v/20220828144444821</id>
-        <link href="https://v.daum.net/v/20220828144444821"/>
-        <updated>2022-08-28T06:28:30.004Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
