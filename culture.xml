@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-08-28T18:28:54.954Z</updated>
+    <updated>2022-08-28T19:20:09.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유흥식 추기경 서임.. 한국인으론 네 번째]]></title>
+        <id>https://v.daum.net/v/20220829040517447</id>
+        <link href="https://v.daum.net/v/20220829040517447"/>
+        <updated>2022-08-28T19:19:14.052Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이 건물의 주춧돌은 '글'.. 출판사·서점·글꼴 디자이너가 한 지붕 아래]]></title>
         <id>https://v.daum.net/v/20220829030733300</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220829010131757"/>
         <updated>2022-08-28T16:30:30.260Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세상 가장 우아한 '혈전'..단군 이래 가장 많은 '그림장사' 모인다]]></title>
-        <id>https://v.daum.net/v/20220829000147460</id>
-        <link href="https://v.daum.net/v/20220829000147460"/>
-        <updated>2022-08-28T15:23:53.990Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
