@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-08-28T21:23:25.586Z</updated>
+    <updated>2022-08-28T22:23:06.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[거리마다 다시 펼쳐진 '인형의 꿈']]></title>
+        <id>https://v.daum.net/v/20220829050121821</id>
+        <link href="https://v.daum.net/v/20220829050121821"/>
+        <updated>2022-08-28T22:22:20.583Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[평양 만찬에도 오른 안동소주..깔끔한데 깊다, 3단사입 비법]]></title>
         <id>https://v.daum.net/v/20220829050039771</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220829030139065"/>
         <updated>2022-08-28T20:24:38.149Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["1인가구라 해서 '1인분 선택지'만 정답 아냐" [차 한잔 나누며]]]></title>
-        <id>https://v.daum.net/v/20220829010131757</id>
-        <link href="https://v.daum.net/v/20220829010131757"/>
-        <updated>2022-08-28T20:24:38.150Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
