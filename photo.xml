@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-08-29T18:29:33.753Z</updated>
+    <updated>2022-08-29T19:21:17.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5002177/qEMPExtnFi"/>
         <updated>2022-08-29T16:32:51.929Z</updated>
         <content type="html"><![CDATA[광화문 글판]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예쁜 꼬리명주나비]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/ZmuIL9yPlZ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/ZmuIL9yPlZ"/>
+        <updated>2022-08-29T19:20:52.525Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고양 아파트에 화재..주민 3명 연기 마시고 병원 치료]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1473/zGPStQ1iiS"/>
         <updated>2022-08-29T07:29:27.054Z</updated>
         <content type="html"><![CDATA[교통사고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[함안 강명리사지서 통일신라 시대 금동불 등 유물 10여 점 출토]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/143782/f1DMjGNFLK</id>
-        <link href="https://gallery.v.daum.net/p/viewer/143782/f1DMjGNFLK"/>
-        <updated>2022-08-29T07:29:27.055Z</updated>
-        <content type="html"><![CDATA[한국의 문화유산]]></content>
     </entry>
 </feed>
