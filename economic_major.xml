@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-08-29T12:48:06.364Z</updated>
+    <updated>2022-08-29T13:45:35.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금감원, 불법 공매도 엄단 '칼' 뽑았다..첫 타깃은 모건스탠리]]></title>
+        <id>https://v.daum.net/v/20220829215642376</id>
+        <link href="https://v.daum.net/v/20220829215642376"/>
+        <updated>2022-08-29T13:44:21.182Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파월 '매파 쇼크'에 질린 '검은 월요일']]></title>
         <id>https://v.daum.net/v/20220829205433672</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220829195641091"/>
         <updated>2022-08-29T12:46:48.919Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1,350원도 뚫었다 - 달러 강세에 치솟은 환율, 수입물가 더 오른다]]></title>
-        <id>https://v.daum.net/v/20220829194911024</id>
-        <link href="https://v.daum.net/v/20220829194911024"/>
-        <updated>2022-08-29T12:46:48.920Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
