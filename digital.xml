@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-08-29T17:28:35.840Z</updated>
+    <updated>2022-08-29T18:29:33.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['1폰 2번호' 개통시 공시지원금은? 한 번호에만 줍니다]]></title>
+        <id>https://v.daum.net/v/20220830030322874</id>
+        <link href="https://v.daum.net/v/20220830030322874"/>
+        <updated>2022-08-29T18:28:53.772Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["AI공유 시대 온다..AI에서도 분업과 대량생산 일어나"]]></title>
         <id>https://v.daum.net/v/20220829231635878</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220829214159175"/>
         <updated>2022-08-29T13:44:58.969Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바라만 보기엔 아까운 달..반세기만의 달탐사 경쟁 왜?]]></title>
-        <id>https://v.daum.net/v/20220829213104062</id>
-        <link href="https://v.daum.net/v/20220829213104062"/>
-        <updated>2022-08-29T15:25:33.146Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
