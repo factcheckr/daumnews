@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-08-30T13:48:30.913Z</updated>
+    <updated>2022-08-30T14:23:43.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이 식단' 과민성 방광 위험까지 낮춘다]]></title>
+        <id>https://v.daum.net/v/20220830230017220</id>
+        <link href="https://v.daum.net/v/20220830230017220"/>
+        <updated>2022-08-30T14:22:45.112Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이유 없이 짖는 개, 치매에 걸린 건 아닐까?]]></title>
         <id>https://v.daum.net/v/20220830163748115</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220830175038977"/>
         <updated>2022-08-30T12:50:45.654Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈퍼태풍으로 발달..방향 틀어 제주로]]></title>
-        <id>https://v.daum.net/v/20220830205808884</id>
-        <link href="https://v.daum.net/v/20220830205808884"/>
-        <updated>2022-08-30T12:50:45.655Z</updated>
-        <content type="html"><![CDATA[JIBS]]></content>
     </entry>
 </feed>
