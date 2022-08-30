@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-08-30T22:25:20.588Z</updated>
+    <updated>2022-08-30T23:27:08.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1600만명 쓰는 '알약' 오류..이스트시큐리티 "내달 재발방지책 발표"]]></title>
+        <id>https://v.daum.net/v/20220831073856796</id>
+        <link href="https://v.daum.net/v/20220831073856796"/>
+        <updated>2022-08-30T23:26:26.243Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[청계광장]가상현실(VR),이제는 현실이 된다]]></title>
         <id>https://v.daum.net/v/20220831070109315</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220831053201020"/>
         <updated>2022-08-30T21:23:04.077Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]얼어붙은 코인 투자..은행 가상자산 거래소 수수료 수입 '반토막']]></title>
-        <id>https://v.daum.net/v/20220831051006729</id>
-        <link href="https://v.daum.net/v/20220831051006729"/>
-        <updated>2022-08-30T20:26:23.182Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
