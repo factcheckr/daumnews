@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2022-08-31T15:26:35.118Z</updated>
+    <updated>2022-08-31T16:34:01.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["지인에 빌린 것이면 문제없나" 김건희 여사 '보석' 공방 확산]]></title>
+        <id>https://v.daum.net/v/20220901003351670</id>
+        <link href="https://v.daum.net/v/20220901003351670"/>
+        <updated>2022-08-31T16:32:22.383Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령, 부산서 민생회의..'그림자 수행' 의원들 없었다]]></title>
         <id>https://v.daum.net/v/20220901000147365</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220831223702721"/>
         <updated>2022-08-31T13:44:32.358Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성주 사드기지로 이르면 주말부터 매일 차량 진입]]></title>
-        <id>https://v.daum.net/v/20220831223440693</id>
-        <link href="https://v.daum.net/v/20220831223440693"/>
-        <updated>2022-08-31T13:44:32.361Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
