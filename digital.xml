@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-08-31T21:29:19.414Z</updated>
+    <updated>2022-08-31T22:26:44.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["심야택시 대란 막자"..카카오모빌리티 '금토 택시' 달린다]]></title>
+        <id>https://v.daum.net/v/20220901065253078</id>
+        <link href="https://v.daum.net/v/20220901065253078"/>
+        <updated>2022-08-31T22:26:01.930Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내가 걸린 희소 유전 질환은?..AI로 5분 안에 유전자 해석]]></title>
         <id>https://v.daum.net/v/20220901061311370</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220901060016965"/>
         <updated>2022-08-31T21:28:33.050Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우리도 엄연한 소비자"..행동하는 게이머들에 긴장하는 게임사들]]></title>
-        <id>https://v.daum.net/v/20220901054805722</id>
-        <link href="https://v.daum.net/v/20220901054805722"/>
-        <updated>2022-08-31T21:28:33.052Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
