@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-08-31T07:00:12.291Z</updated>
+    <updated>2022-08-31T07:42:20.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]한국형 달 착륙선 2031년 발사..6200억원 투입·1.8t급[과학을읽다]]]></title>
+        <id>https://v.daum.net/v/20220831144906576</id>
+        <link href="https://v.daum.net/v/20220831144906576"/>
+        <updated>2022-08-31T07:41:49.855Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['추석선물 주소 확인해주세요' 문자 눌렀다가.."다 털렸어요"]]></title>
         <id>https://v.daum.net/v/20220831142503105</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220831114620493"/>
         <updated>2022-08-31T05:04:08.360Z</updated>
         <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['알약 오류' 월말 업무 망친 이용자들..피해보상은]]></title>
-        <id>https://v.daum.net/v/20220831112954760</id>
-        <link href="https://v.daum.net/v/20220831112954760"/>
-        <updated>2022-08-31T05:04:08.362Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
