@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-08-31T14:24:09.476Z</updated>
+    <updated>2022-08-31T15:26:35.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뭉쳐야 산다..'투자 혹한기' 스타트업끼리 M&A 급증]]></title>
+        <id>https://v.daum.net/v/20220901000334417</id>
+        <link href="https://v.daum.net/v/20220901000334417"/>
+        <updated>2022-08-31T15:25:44.658Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백신 '알약', PC 먹통 사태 사과..일각에서는 집단소송 움직임도]]></title>
         <id>https://v.daum.net/v/20220831222429605</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220831183804751"/>
         <updated>2022-08-31T10:26:29.498Z</updated>
         <content type="html"><![CDATA[비즈니스워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불법보조금에 '반값'된 갤Z폴드4..사전계약자만 호구되나]]></title>
-        <id>https://v.daum.net/v/20220831174117084</id>
-        <link href="https://v.daum.net/v/20220831174117084"/>
-        <updated>2022-08-31T10:26:29.499Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>

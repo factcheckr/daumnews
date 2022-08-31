@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-08-31T14:24:09.508Z</updated>
+    <updated>2022-08-31T15:26:35.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[불법보조금에 '반값'된 갤Z폴드4..사전계약자만 호구되나]]></title>
+        <id>https://v.daum.net/v/20220831174117084</id>
+        <link href="https://v.daum.net/v/20220831174117084"/>
+        <updated>2022-08-31T15:25:56.371Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은행별 예대금리차 온라인서 한눈에..비교 공시 제도 도입]]></title>
         <id>https://v.daum.net/v/20220831174807276</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220831164458075"/>
         <updated>2022-08-31T09:24:46.958Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 네이버 크림, 또 구매 수수료 인상..10월부터  3% 적용]]></title>
-        <id>https://v.daum.net/v/20220831164448066</id>
-        <link href="https://v.daum.net/v/20220831164448066"/>
-        <updated>2022-08-31T08:29:51.444Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
