@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-09-01T13:43:04.206Z</updated>
+    <updated>2022-09-01T14:23:33.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제11호 태풍 '힌남노' 예상 진로]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5608462/qLFVOg0gRZ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5608462/qLFVOg0gRZ"/>
+        <updated>2022-09-01T14:23:09.516Z</updated>
+        <content type="html"><![CDATA[태풍 힌남노 그래픽뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다이애나비 사망 25주기..여전한 英 국민의 사랑]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029622/tc9Z0TMTop</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5034020/4nFdpGJGSS"/>
         <updated>2022-09-01T04:42:03.112Z</updated>
         <content type="html"><![CDATA[유치원 풍경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['택배사들은 과로방지 대책 이행하라' [쿠키포토]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5076694/4cOjZlPlUt</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5076694/4cOjZlPlUt"/>
-        <updated>2022-09-01T04:42:03.113Z</updated>
-        <content type="html"><![CDATA[택배노동자]]></content>
     </entry>
 </feed>
