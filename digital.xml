@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-09-02T11:22:00.405Z</updated>
+    <updated>2022-09-02T12:45:39.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안 하면 후회막심 'BIC 페스티벌' 인디게임 8선]]></title>
+        <id>https://v.daum.net/v/20220902202239180</id>
+        <link href="https://v.daum.net/v/20220902202239180"/>
+        <updated>2022-09-02T12:44:57.502Z</updated>
+        <content type="html"><![CDATA[게임톡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5G 가입자 2500만 돌파..갤럭시·아이폰 신제품 하반기 구세주 될까]]></title>
         <id>https://v.daum.net/v/20220902195817800</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220902184838599"/>
         <updated>2022-09-02T10:27:02.323Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["다누리, 비행방향 수정 성공 예감..데이터 오류도 해결"]]></title>
-        <id>https://v.daum.net/v/20220902181445966</id>
-        <link href="https://v.daum.net/v/20220902181445966"/>
-        <updated>2022-09-02T09:23:24.118Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
