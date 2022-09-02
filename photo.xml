@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-09-02T19:19:53.245Z</updated>
+    <updated>2022-09-02T20:26:08.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[열차도 탈선 시킬 힌남노, 6일 한반도 할퀸다]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/4LSm8xYx3Y</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/4LSm8xYx3Y"/>
+        <updated>2022-09-02T20:25:46.287Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매미의 꿈]]></title>
         <id>https://gallery.v.daum.net/p/viewer/212305/pcPrJSQS2c</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5032954/14TLC8v8WI"/>
         <updated>2022-09-02T08:31:06.586Z</updated>
         <content type="html"><![CDATA[TK 통합신공항 갈등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우크라이나는 우리가 지킨다" 미래의 장교들 [퇴근길 한 컷]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1397984/ZqaxjuEu6x</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1397984/ZqaxjuEu6x"/>
-        <updated>2022-09-02T08:31:06.587Z</updated>
-        <content type="html"><![CDATA[퇴근길 한 컷]]></content>
     </entry>
 </feed>
