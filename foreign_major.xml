@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-09-02T20:26:08.389Z</updated>
+    <updated>2022-09-02T21:20:57.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여자 혼자 여행해도 안전한 나라 1위는 아일랜드..한국 19위]]></title>
+        <id>https://v.daum.net/v/20220903045425778</id>
+        <link href="https://v.daum.net/v/20220903045425778"/>
+        <updated>2022-09-02T21:19:44.537Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴욕유가] 유가 소폭 반등..다음주 OPEC+ 감산 논의 주목]]></title>
         <id>https://v.daum.net/v/20220903043450739</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220903025839455"/>
         <updated>2022-09-02T18:29:39.555Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라군, 자포리자 인근 러시아 기지 폭격..IAEA 사찰단 6명 아직 남아있어]]></title>
-        <id>https://v.daum.net/v/20220903021424432</id>
-        <link href="https://v.daum.net/v/20220903021424432"/>
-        <updated>2022-09-02T18:29:39.559Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
