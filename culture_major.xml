@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-09-03T17:24:43.700Z</updated>
+    <updated>2022-09-03T18:28:52.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[한겨레]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[굵고 가는 필획·짙고 옅은 묵법으로 일깨운 계절의 흐름 [김한들의 그림 아로새기기]]]></title>
-        <id>https://v.daum.net/v/20220903120134941</id>
-        <link href="https://v.daum.net/v/20220903120134941"/>
-        <updated>2022-09-03T10:25:57.912Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[문체부 관련 유튜브채널, 해킹으로 잇단 계정탈취 피해후 복구(종합3보)]]></title>
         <id>https://v.daum.net/v/20220903231625599</id>
         <link href="https://v.daum.net/v/20220903231625599"/>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220903204536498"/>
         <updated>2022-09-03T17:23:57.655Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우영우' 때문에..오히려 돌고래들이 위험하다 [지구용]]]></title>
+        <id>https://v.daum.net/v/20220903181413704</id>
+        <link href="https://v.daum.net/v/20220903181413704"/>
+        <updated>2022-09-03T18:28:02.126Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
