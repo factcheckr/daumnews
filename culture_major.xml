@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-09-03T07:22:31.615Z</updated>
+    <updated>2022-09-03T08:29:12.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양두구육 표현이 불편한 '진짜 이유' [고은경의 반려배려]]]></title>
+        <id>https://v.daum.net/v/20220903140007751</id>
+        <link href="https://v.daum.net/v/20220903140007751"/>
+        <updated>2022-09-03T08:28:22.087Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ESC] 전기차로 변신한 '백 투 더 퓨처' 들로리언이 궁금해?]]></title>
         <id>https://v.daum.net/v/20220903120515986</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220903100046634"/>
         <updated>2022-09-03T04:22:24.030Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[목포시, 가을 내내 풍성한 문화예술행사 연다]]></title>
-        <id>https://v.daum.net/v/20220903100048637</id>
-        <link href="https://v.daum.net/v/20220903100048637"/>
-        <updated>2022-09-03T04:22:24.032Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
