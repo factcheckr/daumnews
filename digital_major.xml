@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-09-03T08:29:12.868Z</updated>
+    <updated>2022-09-03T09:23:42.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[외계문명은 몇개나 있을까?..방정식 고안한 드레이크 별세]]></title>
+        <id>https://v.daum.net/v/20220903142002893</id>
+        <link href="https://v.daum.net/v/20220903142002893"/>
+        <updated>2022-09-03T09:23:08.965Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[21년만에 "잡았다 이놈"..살인자 마스크엔 '이것' 있었다]]></title>
         <id>https://v.daum.net/v/20220903130003312</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220903090022979"/>
         <updated>2022-09-03T02:29:26.249Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["340만원 안 아까워" TV보다 비싼 모니터 '완판'..게이머 홀린 비결]]></title>
-        <id>https://v.daum.net/v/20220903083003687</id>
-        <link href="https://v.daum.net/v/20220903083003687"/>
-        <updated>2022-09-03T02:29:26.250Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>

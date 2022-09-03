@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-09-03T08:29:12.860Z</updated>
+    <updated>2022-09-03T09:23:42.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["요금 2만원→8만원, 이렇게 비싼걸 누가 타?" 터무니 없는 '택시' 알고보니]]></title>
+        <id>https://v.daum.net/v/20220903175139323</id>
+        <link href="https://v.daum.net/v/20220903175139323"/>
+        <updated>2022-09-03T09:23:00.474Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["대만보다 못하다! 이게 말이 돼?" 일본 지독한 한국 '홀대']]></title>
         <id>https://v.daum.net/v/20220903165131402</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220903144736083"/>
         <updated>2022-09-03T06:30:50.955Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외계문명은 몇개나 있을까?..방정식 고안한 드레이크 별세]]></title>
-        <id>https://v.daum.net/v/20220903142002893</id>
-        <link href="https://v.daum.net/v/20220903142002893"/>
-        <updated>2022-09-03T05:36:29.203Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
