@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메인뉴스</title>
-    <updated>2022-09-03T13:35:37.094Z</updated>
+    <updated>2022-09-03T14:22:21.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[살빼기 위한 잘못된 선택, 뼈말라족과 '나비약']]></title>
+        <id>https://v.daum.net/v/20220903221503229</id>
+        <link href="https://v.daum.net/v/20220903221503229"/>
+        <updated>2022-09-03T14:20:31.870Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19 누적 치명률 0.11%로 하락..'사상 최저']]></title>
+        <id>https://v.daum.net/v/20220903223424354</id>
+        <link href="https://v.daum.net/v/20220903223424354"/>
+        <updated>2022-09-03T14:20:31.882Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[제보] "41억 피싱, 똑같이 당했다!"..요즘 피싱 '3대 특징']]></title>
         <id>https://v.daum.net/v/20220903214056898</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220903214843986"/>
         <updated>2022-09-03T13:33:42.756Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['매미'급 태풍 '힌남노' 북상..주말 대비 분주]]></title>
-        <id>https://v.daum.net/v/20220903214252917</id>
-        <link href="https://v.daum.net/v/20220903214252917"/>
-        <updated>2022-09-03T13:33:42.767Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["어이하여 그 경찰은 죽는고.." 일기장에 담긴 여순사건]]></title>
-        <id>https://v.daum.net/v/20220903213135823</id>
-        <link href="https://v.daum.net/v/20220903213135823"/>
-        <updated>2022-09-03T12:38:22.968Z</updated>
-        <content type="html"><![CDATA[kbc광주방송]]></content>
     </entry>
 </feed>
