@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-09-04T21:21:40.101Z</updated>
+    <updated>2022-09-04T22:24:13.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한 "뜻깊은 '사회주의 교육 테제' 발표 45주년 맞이"]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1489/Ut02KpcpdR</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1489/Ut02KpcpdR"/>
+        <updated>2022-09-04T22:23:46.457Z</updated>
+        <content type="html"><![CDATA[북한은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바짝 다가온 태풍]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5032452/8aZO0C8CUG</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1473/9ULYGWeWTF"/>
         <updated>2022-09-04T02:24:25.948Z</updated>
         <content type="html"><![CDATA[교통사고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선제골' 환호하는 호이비에르]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/2329/8iJPyvxvWc</id>
-        <link href="https://gallery.v.daum.net/p/viewer/2329/8iJPyvxvWc"/>
-        <updated>2022-09-04T02:24:25.950Z</updated>
-        <content type="html"><![CDATA[영국은 지금]]></content>
     </entry>
 </feed>
