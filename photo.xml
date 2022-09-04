@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-09-04T19:20:38.531Z</updated>
+    <updated>2022-09-04T20:26:38.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바짝 다가온 태풍]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/8aZO0C8CUG</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/8aZO0C8CUG"/>
+        <updated>2022-09-04T20:26:13.541Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화성 화장품 제조공장서 불..인명피해 없어]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1518/ytJG2XnXxG</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1518/ytJG2XnXxG"/>
+        <updated>2022-09-04T20:26:13.541Z</updated>
+        <content type="html"><![CDATA[전국 화재사고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안녕, 여름]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/YtwnJqrq8B</id>
@@ -18,13 +32,6 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033573/3xFU0C8Cgy"/>
         <updated>2022-09-04T18:28:06.574Z</updated>
         <content type="html"><![CDATA[전통시장 모습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화성 화장품 제조공장서 불..2시간째 진화 중]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1518/QBp1XeXexi</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1518/QBp1XeXexi"/>
-        <updated>2022-09-04T14:21:23.425Z</updated>
-        <content type="html"><![CDATA[전국 화재사고]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[갤러리아백화점, '생명 존중' 의미 담은 대체불가토큰 5종 전시[포토뉴스]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2329/8iJPyvxvWc"/>
         <updated>2022-09-04T02:24:25.950Z</updated>
         <content type="html"><![CDATA[영국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 신규 확진자 7만2144명]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5014013/2POt4VhVde</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5014013/2POt4VhVde"/>
-        <updated>2022-09-04T02:24:25.950Z</updated>
-        <content type="html"><![CDATA['코로나19' 바이러스]]></content>
     </entry>
 </feed>
