@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-09-04T09:23:33.099Z</updated>
+    <updated>2022-09-04T10:25:57.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에너지 대란에 데인 소비자들 '친환경·고효율'로 유혹했다]]></title>
+        <id>https://v.daum.net/v/20220904132613272</id>
+        <link href="https://v.daum.net/v/20220904132613272"/>
+        <updated>2022-09-04T10:25:15.719Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화웨이 유럽총괄 사장 "위기 겪고 강해졌다..폴더블폰 기술 우리가 최고"]]></title>
         <id>https://v.daum.net/v/20220904181400502</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다누리, 임무성공 가를 고비 넘었다..비행경로 변경 확인]]></title>
+        <title type="html"><![CDATA[다누리, 임무성공 고비 넘었다..비행경로 정상 변경 확인]]></title>
         <id>https://v.daum.net/v/20220904172518572</id>
         <link href="https://v.daum.net/v/20220904172518572"/>
         <updated>2022-09-04T09:22:49.684Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220904170807187"/>
         <updated>2022-09-04T08:27:42.839Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["제임스 본드 영화 보는 줄"..택시앱 해킹 당한 러 도로마비 사태]]></title>
-        <id>https://v.daum.net/v/20220904162819464</id>
-        <link href="https://v.daum.net/v/20220904162819464"/>
-        <updated>2022-09-04T08:27:42.840Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
