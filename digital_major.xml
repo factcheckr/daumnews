@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-09-04T04:29:22.626Z</updated>
+    <updated>2022-09-04T05:40:17.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성전자 "롤러블·슬라이더블폰도 개발 중..확신 섰을 때 공개"]]></title>
+        <id>https://v.daum.net/v/20220904110031546</id>
+        <link href="https://v.daum.net/v/20220904110031546"/>
+        <updated>2022-09-04T05:39:40.457Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[IFA 2022] 삼성 "폴더블 폼팩터 여전히 발전 중..앱 생태계도 갖춘다"]]></title>
+        <id>https://v.daum.net/v/20220904110009504</id>
+        <link href="https://v.daum.net/v/20220904110009504"/>
+        <updated>2022-09-04T05:39:40.458Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["힌남노 통신 피해 예방 총력"..KT, 비상 대응 체제 운영]]></title>
         <id>https://v.daum.net/v/20220904100151490</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220904080615008"/>
         <updated>2022-09-04T02:24:17.234Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신규 가상자산 사업자 길 터준 ISMS 예비인증.."현장선 혼란"]]></title>
-        <id>https://v.daum.net/v/20220904080255987</id>
-        <link href="https://v.daum.net/v/20220904080255987"/>
-        <updated>2022-09-04T02:24:17.235Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["웹툰 미리 보고 피드백"..네이버웹툰, 독자 참여 프로그램 'FRG' 도입]]></title>
-        <id>https://v.daum.net/v/20220904072513789</id>
-        <link href="https://v.daum.net/v/20220904072513789"/>
-        <updated>2022-09-04T02:24:17.241Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
