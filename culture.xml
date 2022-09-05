@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-09-05T18:31:06.530Z</updated>
+    <updated>2022-09-05T19:21:24.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[태풍 힌남노] 울산 피해 우려 해안가 주민 116명 대피·일부 도로 통제]]></title>
+        <id>https://v.daum.net/v/20220906041314361</id>
+        <link href="https://v.daum.net/v/20220906041314361"/>
+        <updated>2022-09-05T19:20:23.722Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아빠→할머니 '8초 변신'.. 웃음 빵빵 뮤지컬 '매직 분장쇼']]></title>
         <id>https://v.daum.net/v/20220906030352028</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220906004756117"/>
         <updated>2022-09-05T16:32:52.648Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 걸렸다 겨우 해제..콩쿠르 우승 아찔했죠]]></title>
-        <id>https://v.daum.net/v/20220906000236691</id>
-        <link href="https://v.daum.net/v/20220906000236691"/>
-        <updated>2022-09-05T15:26:12.386Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
