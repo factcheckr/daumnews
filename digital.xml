@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-09-05T19:21:24.936Z</updated>
+    <updated>2022-09-05T20:26:37.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미래기술25]포스트 코로나·전략기술로 주목받는 나노기술]]></title>
+        <id>https://v.daum.net/v/20220906050030666</id>
+        <link href="https://v.daum.net/v/20220906050030666"/>
+        <updated>2022-09-05T20:25:56.820Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["佛 배경의 피노키오 모험.. 한국색 뺀 글로벌게임 통했다"]]></title>
         <id>https://v.daum.net/v/20220906030234934</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220905192524938"/>
         <updated>2022-09-05T11:21:59.093Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아무도 기대 안 했는데 이럴수가" 회사 여럿 먹여살린 '이 남자']]></title>
-        <id>https://v.daum.net/v/20220905175114837</id>
-        <link href="https://v.daum.net/v/20220905175114837"/>
-        <updated>2022-09-05T10:26:27.253Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
