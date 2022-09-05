@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-09-05T20:26:37.512Z</updated>
+    <updated>2022-09-05T21:22:24.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[태풍 '힌남노' 강풍으로 떨어진 상가 셔터]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5035065/6GZ1TDbDhK</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5035065/6GZ1TDbDhK"/>
+        <updated>2022-09-05T21:22:00.244Z</updated>
+        <content type="html"><![CDATA[부산은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[힌남노 강타, 전국 할퀴다]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5032452/q1DJLDbD3M</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1476/5YW8SMGMv6"/>
         <updated>2022-09-05T07:36:28.183Z</updated>
         <content type="html"><![CDATA[미국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폭우 상처 아직인데..태풍 근심 더한 상인들]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1629566/HiSVI6T6vV</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1629566/HiSVI6T6vV"/>
-        <updated>2022-09-05T07:36:28.183Z</updated>
-        <content type="html"><![CDATA[만리재사진첩]]></content>
     </entry>
 </feed>
