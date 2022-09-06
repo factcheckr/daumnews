@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-09-06T17:31:15.801Z</updated>
+    <updated>2022-09-06T18:31:31.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['말많은 우마무스메 담판 지을까'..카겜, 이용자와 만난다]]></title>
+        <id>https://v.daum.net/v/20220906183103485</id>
+        <link href="https://v.daum.net/v/20220906183103485"/>
+        <updated>2022-09-06T18:30:44.482Z</updated>
+        <content type="html"><![CDATA[비즈니스워치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]금융위 단속 소용 없었다..'불법' 외국 코인거래소 활개]]></title>
         <id>https://v.daum.net/v/20220906182336325</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220906173013751"/>
         <updated>2022-09-06T09:25:21.004Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 번역기 '파파고'서 장애 발생.."정기배포 과정서 오류 포착"]]></title>
-        <id>https://v.daum.net/v/20220906171334310</id>
-        <link href="https://v.daum.net/v/20220906171334310"/>
-        <updated>2022-09-06T09:25:21.008Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
