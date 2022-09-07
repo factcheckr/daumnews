@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-09-07T14:32:05.634Z</updated>
+    <updated>2022-09-07T15:27:29.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버웹툰의 저력.. 日 한달 거래액 '970억']]></title>
+        <id>https://v.daum.net/v/20220907182018775</id>
+        <link href="https://v.daum.net/v/20220907182018775"/>
+        <updated>2022-09-07T15:27:01.067Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넥슨이 말하는 달라진 '책임운영'은 어떤 모습일까?]]></title>
         <id>https://v.daum.net/v/20220907180303271</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220907165013737"/>
         <updated>2022-09-07T08:32:52.136Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아르테미스Ⅰ로켓 발사 무산시킨 수소 누출 발사대서 수리]]></title>
-        <id>https://v.daum.net/v/20220907164744639</id>
-        <link href="https://v.daum.net/v/20220907164744639"/>
-        <updated>2022-09-07T08:32:52.137Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
