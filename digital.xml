@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-09-07T18:31:27.618Z</updated>
+    <updated>2022-09-07T19:21:55.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플, 트랜지스터 160억 개 탑재 'A16 바이오닉' 칩 공개]]></title>
+        <id>https://v.daum.net/v/20220908040525805</id>
+        <link href="https://v.daum.net/v/20220908040525805"/>
+        <updated>2022-09-07T19:21:12.996Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김현아의 IT세상읽기] 카카오T, 콜 몰아주기 없었다..못믿는 사람들에게]]></title>
         <id>https://v.daum.net/v/20220908003621874</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220907185059558"/>
         <updated>2022-09-07T10:29:15.159Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["헬리코박터 검사비 곧 반값된다"..분주해진 역류성 식도염 제약사들]]></title>
-        <id>https://v.daum.net/v/20220907184429393</id>
-        <link href="https://v.daum.net/v/20220907184429393"/>
-        <updated>2022-09-07T10:29:15.162Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
