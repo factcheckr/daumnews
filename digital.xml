@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-09-08T08:31:12.503Z</updated>
+    <updated>2022-09-08T09:27:19.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넥슨 고 김정주 창업주 재산 상속 완료.."자녀 경영권 승계 없다"]]></title>
+        <id>https://v.daum.net/v/20220908181202775</id>
+        <link href="https://v.daum.net/v/20220908181202775"/>
+        <updated>2022-09-08T09:26:42.348Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국 "2027년이면 사이버보안 인재 327만명 부족"]]></title>
+        <id>https://v.daum.net/v/20220908181040747</id>
+        <link href="https://v.daum.net/v/20220908181040747"/>
+        <updated>2022-09-08T09:26:42.350Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故 김정주 재산 상속 완료..두딸 지분율 30%대로 늘어(종합)]]></title>
         <id>https://v.daum.net/v/20220908172230454</id>
@@ -20,13 +34,6 @@
         <content type="html"><![CDATA[IT동아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[추석 연휴 시작에 '티맵' 앱 오류 발생.."일부 서비스 과부하"]]></title>
-        <id>https://v.daum.net/v/20220908170733941</id>
-        <link href="https://v.daum.net/v/20220908170733941"/>
-        <updated>2022-09-08T08:30:21.176Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[영상] '기후위기 vs 핵전쟁' 뭐가 더 위험? '궤도'에게 물어봄]]></title>
         <id>https://v.daum.net/v/20220908170007705</id>
         <link href="https://v.daum.net/v/20220908170007705"/>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220908163920106"/>
         <updated>2022-09-08T08:30:21.177Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전 세계 최대 규모 전투 열리는 게임 '이브온라인' 아세요?]]></title>
-        <id>https://v.daum.net/v/20220908161802406</id>
-        <link href="https://v.daum.net/v/20220908161802406"/>
-        <updated>2022-09-08T07:37:46.676Z</updated>
-        <content type="html"><![CDATA[게임동아]]></content>
     </entry>
 </feed>
