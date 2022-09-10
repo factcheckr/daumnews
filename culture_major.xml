@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-09-10T07:24:51.942Z</updated>
+    <updated>2022-09-10T08:31:50.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 라스베이거스 새 명물로 주목받는 '루프']]></title>
+        <id>https://v.daum.net/v/20220910145330047</id>
+        <link href="https://v.daum.net/v/20220910145330047"/>
+        <updated>2022-09-10T08:31:00.683Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1kg에 82만원 양양송이..'명품 대접' 받으며 비싼 값 거래되는 까닭]]></title>
         <id>https://v.daum.net/v/20220910145011027</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220910130002137"/>
         <updated>2022-09-10T04:43:48.593Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 저녁 7시쯤 구름 사이 '보름달'..제주 가끔 비]]></title>
-        <id>https://v.daum.net/v/20220910123004938</id>
-        <link href="https://v.daum.net/v/20220910123004938"/>
-        <updated>2022-09-10T04:43:48.595Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
