@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-09-10T13:38:45.981Z</updated>
+    <updated>2022-09-10T14:23:35.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대만 코로나 신규 3만5830명·총 565만28명..30명 숨져]]></title>
+        <id>https://v.daum.net/v/20220910224140651</id>
+        <link href="https://v.daum.net/v/20220910224140651"/>
+        <updated>2022-09-10T14:22:32.762Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍콩 코로나19 신규감염 9787명..누적 164만2941명]]></title>
         <id>https://v.daum.net/v/20220910220702500</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220910214710397"/>
         <updated>2022-09-10T13:37:36.983Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[속도 내는 미국 내 전기차 공장..조지아주 "IRA 차별 개선 돕겠다"]]></title>
-        <id>https://v.daum.net/v/20220910212349220</id>
-        <link href="https://v.daum.net/v/20220910212349220"/>
-        <updated>2022-09-10T12:41:59.816Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
