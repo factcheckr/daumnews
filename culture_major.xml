@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-09-11T12:44:02.796Z</updated>
+    <updated>2022-09-11T13:39:31.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[과식한 다음 날..이렇게 먹으면 살 안 된다]]></title>
+        <id>https://v.daum.net/v/20220911152901897</id>
+        <link href="https://v.daum.net/v/20220911152901897"/>
+        <updated>2022-09-11T13:38:36.727Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고려인들의 떡메치기, 추석에야 "미안하다.사랑한다"]]></title>
         <id>https://v.daum.net/v/20220911150637695</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220911102100241"/>
         <updated>2022-09-11T05:43:44.276Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은퇴·갱년기, 50대 그녀들의 인생 2막..뮤지컬 '다시, 봄']]></title>
-        <id>https://v.daum.net/v/20220911113000897</id>
-        <link href="https://v.daum.net/v/20220911113000897"/>
-        <updated>2022-09-11T05:43:44.276Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
