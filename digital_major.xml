@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-09-11T08:30:04.680Z</updated>
+    <updated>2022-09-11T09:24:58.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[성공예감] 미국이 50년 만에 달에 가려고 하는 이유는? -곽재식 작가]]></title>
+        <id>https://v.daum.net/v/20220911134251890</id>
+        <link href="https://v.daum.net/v/20220911134251890"/>
+        <updated>2022-09-11T09:24:23.912Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미세먼지가 폐암 일으키는 과정 찾았다]]></title>
         <id>https://v.daum.net/v/20220911125151530</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220911091014341"/>
         <updated>2022-09-11T04:27:49.020Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["OS 업뎃하면 기능 똑같은데.." 새폰 살까말까 소비자 딜레마]]></title>
-        <id>https://v.daum.net/v/20220911090037145</id>
-        <link href="https://v.daum.net/v/20220911090037145"/>
-        <updated>2022-09-11T02:33:49.117Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
