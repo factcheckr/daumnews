@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-09-11T07:24:29.010Z</updated>
+    <updated>2022-09-11T08:30:04.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미세먼지가 폐암 일으키는 과정 찾았다]]></title>
+        <id>https://v.daum.net/v/20220911125151530</id>
+        <link href="https://v.daum.net/v/20220911125151530"/>
+        <updated>2022-09-11T08:29:33.225Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이폰14 살까 1년 더 기다릴까..미리 보는 아이폰15]]></title>
         <id>https://v.daum.net/v/20220911124918519</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220911090037145"/>
         <updated>2022-09-11T02:33:49.117Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["키오스크 쓰는 법? 어렵지 않아요"..KT, 디지털 격차 해소 앞장선다]]></title>
-        <id>https://v.daum.net/v/20220911090021120</id>
-        <link href="https://v.daum.net/v/20220911090021120"/>
-        <updated>2022-09-11T02:33:49.118Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
