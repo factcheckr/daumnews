@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-09-12T11:23:18.927Z</updated>
+    <updated>2022-09-12T12:53:58.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220912193009027"/>
         <updated>2022-09-12T11:22:28.535Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["겨울 같던 삶, 글 배우니 봄날"..배움의 열정]]></title>
+        <id>https://v.daum.net/v/20220912190507729</id>
+        <link href="https://v.daum.net/v/20220912190507729"/>
+        <updated>2022-09-12T12:53:15.061Z</updated>
+        <content type="html"><![CDATA[EBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['기계생명체'가 전하는 인간의 상실과 욕망]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220912150505810"/>
         <updated>2022-09-12T07:44:02.253Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프랑스가 30년 걸린 일, 2년 만에 따라 만들더니]]></title>
-        <id>https://v.daum.net/v/20220912142101993</id>
-        <link href="https://v.daum.net/v/20220912142101993"/>
-        <updated>2022-09-12T07:44:02.255Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
