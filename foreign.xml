@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-09-12T14:31:28.460Z</updated>
+    <updated>2022-09-12T15:31:16.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뒤집히는 전세.. 우크라 요충지 탈환에 러 '종전' 거론]]></title>
+        <id>https://v.daum.net/v/20220913000902166</id>
+        <link href="https://v.daum.net/v/20220913000902166"/>
+        <updated>2022-09-12T15:29:46.104Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여왕이 잠든 참나무관, 30년 전 이미 준비됐다.."구하기 힘든 영국산"]]></title>
         <id>https://v.daum.net/v/20220912231156761</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220912230009688"/>
         <updated>2022-09-12T14:30:19.543Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍콩 코로나 신규감염 7938명..누적 165만9912명]]></title>
-        <id>https://v.daum.net/v/20220912225659668</id>
-        <link href="https://v.daum.net/v/20220912225659668"/>
-        <updated>2022-09-12T14:30:19.543Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
