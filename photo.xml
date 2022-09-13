@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-09-13T21:24:32.390Z</updated>
+    <updated>2022-09-13T22:27:57.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가을걷이 준비하는 북한 사리원시 농민들]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1489/XkGqzVlf3J</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1489/XkGqzVlf3J"/>
+        <updated>2022-09-13T22:27:32.940Z</updated>
+        <content type="html"><![CDATA[북한은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코스피 2449.54.. 오랜만에 웃은 증시]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5031020/VbrVSHnXAv</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5076625/12xX8w9r7P"/>
         <updated>2022-09-13T07:41:32.821Z</updated>
         <content type="html"><![CDATA[대한민국 해병대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태풍 '무이파' 간접 영향 전국 곳곳 비]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1783949/45zor0cp6V</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1783949/45zor0cp6V"/>
-        <updated>2022-09-13T07:41:32.822Z</updated>
-        <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
     </entry>
 </feed>
