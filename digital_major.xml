@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-09-13T17:34:44.594Z</updated>
+    <updated>2022-09-13T18:33:17.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임기 남았는데..공정위·금융위 이어 개인정보보호위원장도 바뀐다]]></title>
+        <id>https://v.daum.net/v/20220913185515042</id>
+        <link href="https://v.daum.net/v/20220913185515042"/>
+        <updated>2022-09-13T18:32:44.018Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동성끼리만 탑승·개인위치 공유.. 실효성 없는 택시 합승제]]></title>
         <id>https://v.daum.net/v/20220913184527879</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220913171809782"/>
         <updated>2022-09-13T09:28:15.967Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]KEI는 지침 충족 못 한다는데 영양 풍력 조건부 승인한 환경부]]></title>
-        <id>https://v.daum.net/v/20220913171546734</id>
-        <link href="https://v.daum.net/v/20220913171546734"/>
-        <updated>2022-09-13T09:28:15.967Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-09-13T17:34:44.565Z</updated>
+    <updated>2022-09-13T18:33:17.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대구오페라축제 23일 개막..바그너 니벨룽의 반지 전편 공연]]></title>
+        <id>https://v.daum.net/v/20220913202059477</id>
+        <link href="https://v.daum.net/v/20220913202059477"/>
+        <updated>2022-09-13T18:32:26.692Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대담] 창작오페라 '순이삼촌'으로 4·3 알린다]]></title>
         <id>https://v.daum.net/v/20220913195852154</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220913170725447"/>
         <updated>2022-09-13T09:27:52.870Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구찌·루이비통 명품 입은 '오징어 게임'..정호연의 '첩지' 한국미 뽐내]]></title>
-        <id>https://v.daum.net/v/20220913170028155</id>
-        <link href="https://v.daum.net/v/20220913170028155"/>
-        <updated>2022-09-13T14:30:07.042Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
