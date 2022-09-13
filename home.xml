@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2022-09-13T13:56:50.142Z</updated>
+    <updated>2022-09-13T14:30:57.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영국 통계청, 여왕 장례식에 모든 발표 오는 20일로 연기]]></title>
+        <id>https://v.daum.net/v/20220913225319756</id>
+        <link href="https://v.daum.net/v/20220913225319756"/>
+        <updated>2022-09-13T14:28:34.361Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미 주식시장, 8월 인플레 하락세 약하자 급락 개장]]></title>
         <id>https://v.daum.net/v/20220913224916743</id>
@@ -13,18 +20,18 @@
         <content type="html"><![CDATA[경제]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[PD수첩] 행정안전부 초대 경찰국장의 과거 '수상한 행적'과 '끄나풀' 의혹]]></title>
+        <id>https://v.daum.net/v/20220913224305707</id>
+        <link href="https://v.daum.net/v/20220913224305707"/>
+        <updated>2022-09-13T14:28:34.379Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[에너지 대란에 파리 "에펠탑 조명 일찍 꺼질 것"]]></title>
         <id>https://v.daum.net/v/20220913223840672</id>
         <link href="https://v.daum.net/v/20220913223840672"/>
         <updated>2022-09-13T13:54:27.545Z</updated>
         <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 8월 소비자물가, 예상넘은 8.3%↑..3연속 자이언트스텝 무게(종합)]]></title>
-        <id>https://v.daum.net/v/20220913223031623</id>
-        <link href="https://v.daum.net/v/20220913223031623"/>
-        <updated>2022-09-13T13:54:27.547Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[상·중·하.. 복통 위치별 의심해볼 질환들]]></title>
@@ -48,7 +55,7 @@
         <content type="html"><![CDATA[문화]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미, 8월 CPI 인플레 0.2%하락에 그쳐 연 8.3%..근원은 6.3%로 ↑]]></title>
+        <title type="html"><![CDATA[미, 8월 CPI 인플레 0.2%p 하락에 그쳐 연 8.3%..근원은 6.3%로 ↑]]></title>
         <id>https://v.daum.net/v/20220913220937401</id>
         <link href="https://v.daum.net/v/20220913220937401"/>
         <updated>2022-09-13T13:54:27.569Z</updated>
@@ -81,6 +88,13 @@
         <link href="https://v.daum.net/v/20220913220016229"/>
         <updated>2022-09-13T13:54:27.583Z</updated>
         <content type="html"><![CDATA[정치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 확진자 오후 9시까지 전국서 9만1239명..전날보다 3만6000여명 급증]]></title>
+        <id>https://v.daum.net/v/20220913215935215</id>
+        <link href="https://v.daum.net/v/20220913215935215"/>
+        <updated>2022-09-13T14:28:34.384Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고 엘리자베스 2세 장례식에 대통령·국왕 등 500여 VIP 참석]]></title>
@@ -130,19 +144,5 @@
         <link href="https://v.daum.net/v/20220913214007796"/>
         <updated>2022-09-13T12:51:09.791Z</updated>
         <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["얼마나 무서웠을까"..맹견에 물린 4살 아이, 동생 구하려던 언니도 다쳐]]></title>
-        <id>https://v.daum.net/v/20220913213901781</id>
-        <link href="https://v.daum.net/v/20220913213901781"/>
-        <updated>2022-09-13T12:51:09.791Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 8월 소비자물가 상승률 8.3%, 두 달째  하락했지만 여전히 높다]]></title>
-        <id>https://v.daum.net/v/20220913213645759</id>
-        <link href="https://v.daum.net/v/20220913213645759"/>
-        <updated>2022-09-13T13:54:27.597Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
     </entry>
 </feed>
