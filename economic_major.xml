@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-09-13T14:30:57.312Z</updated>
+    <updated>2022-09-13T15:29:00.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -24,13 +24,6 @@
         <id>https://v.daum.net/v/20220913214846979</id>
         <link href="https://v.daum.net/v/20220913214846979"/>
         <updated>2022-09-13T14:29:30.762Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["적자 폭 3% 이내로 관리한다"..기금 수입은 제외]]></title>
-        <id>https://v.daum.net/v/20220913214325861</id>
-        <link href="https://v.daum.net/v/20220913214325861"/>
-        <updated>2022-09-13T13:55:22.659Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20220913202833601"/>
         <updated>2022-09-13T12:51:54.010Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["적자 폭 3% 이내로 관리한다"..기금 수입은 제외]]></title>
+        <id>https://v.daum.net/v/20220913214325861</id>
+        <link href="https://v.daum.net/v/20220913214325861"/>
+        <updated>2022-09-13T13:55:22.659Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

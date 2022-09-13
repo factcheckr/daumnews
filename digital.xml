@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-09-13T14:30:57.325Z</updated>
+    <updated>2022-09-13T15:29:00.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손목 위 주치의 뜬다..하반기 스마트워치 대전 '후끈']]></title>
+        <id>https://v.daum.net/v/20220914000014172</id>
+        <link href="https://v.daum.net/v/20220914000014172"/>
+        <updated>2022-09-13T15:28:18.020Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돌아온 '뿔제비갈매기' 2세 봤다]]></title>
         <id>https://v.daum.net/v/20220913214251851</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220913185515042"/>
         <updated>2022-09-13T10:30:13.811Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동성끼리만 탑승·개인위치 공유.. 실효성 없는 택시 합승제]]></title>
-        <id>https://v.daum.net/v/20220913184527879</id>
-        <link href="https://v.daum.net/v/20220913184527879"/>
-        <updated>2022-09-13T13:56:06.270Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>

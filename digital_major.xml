@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-09-13T14:30:57.319Z</updated>
+    <updated>2022-09-13T15:29:00.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동성끼리만 탑승·개인위치 공유.. 실효성 없는 택시 합승제]]></title>
+        <id>https://v.daum.net/v/20220913184527879</id>
+        <link href="https://v.daum.net/v/20220913184527879"/>
+        <updated>2022-09-13T15:28:26.427Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바이든발 美우선주의 폭주] 美 '보호무역 횡포 3탄'.. 삼바·셀트리온·SK바사 수출 타격]]></title>
         <id>https://v.daum.net/v/20220913184515871</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220913171546734"/>
         <updated>2022-09-13T09:28:15.967Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청소년요금제는 일반요금제보다 저렴하다?]]></title>
-        <id>https://v.daum.net/v/20220913170427322</id>
-        <link href="https://v.daum.net/v/20220913170427322"/>
-        <updated>2022-09-13T13:56:14.880Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
