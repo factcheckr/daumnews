@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-09-14T16:36:51.884Z</updated>
+    <updated>2022-09-14T17:33:48.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[英 여왕 관, 웨스트민스터 사원 안치..곧 대중 공개 시작]]></title>
+        <id>https://v.daum.net/v/20220915002738395</id>
+        <link href="https://v.daum.net/v/20220915002738395"/>
+        <updated>2022-09-14T17:32:47.132Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콜롬비아정부, 반군과 '58년 대립' 끝낼까..협상 분위기 훈풍]]></title>
         <id>https://v.daum.net/v/20220915001927330</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[英여왕, 웨스트민스터홀로 운구..일반 조문 시작]]></title>
+        <title type="html"><![CDATA[英여왕 일반 조문 시작..1시간만에 5km 줄섰다]]></title>
         <id>https://v.daum.net/v/20220914234336007</id>
         <link href="https://v.daum.net/v/20220914234336007"/>
         <updated>2022-09-14T16:35:43.854Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220914230043753"/>
         <updated>2022-09-14T15:28:36.811Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아르메니아·아제르바이잔 交戰 100명 사망..2년만에 또 전쟁 위기]]></title>
-        <id>https://v.daum.net/v/20220914224756652</id>
-        <link href="https://v.daum.net/v/20220914224756652"/>
-        <updated>2022-09-14T14:30:42.242Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
