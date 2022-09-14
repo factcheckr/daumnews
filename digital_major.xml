@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-09-14T22:27:10.337Z</updated>
+    <updated>2022-09-14T23:28:00.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://v.daum.net/v/20220914135623812"/>
         <updated>2022-09-14T18:32:53.051Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美, 바이오 생산에 20억달러 투자.."국력 원천 재활성화"]]></title>
+        <id>https://v.daum.net/v/20220915065603001</id>
+        <link href="https://v.daum.net/v/20220915065603001"/>
+        <updated>2022-09-14T23:27:24.115Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["韓로봇산업 수요 높지만 글로벌 경쟁력은 주요국 중 최하위"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220915030003792"/>
         <updated>2022-09-14T20:29:26.203Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유럽선 개인정보보호 설정 '직접'..국내선 광고 최적화 표시 '기본값']]></title>
-        <id>https://v.daum.net/v/20220914220229236</id>
-        <link href="https://v.daum.net/v/20220914220229236"/>
-        <updated>2022-09-14T21:22:04.643Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
