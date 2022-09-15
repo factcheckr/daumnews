@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-09-15T16:36:31.976Z</updated>
+    <updated>2022-09-15T17:31:34.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바이든, 英국장에 전용차 탈 듯..런던서 '비스트' 목격]]></title>
+        <id>https://v.daum.net/v/20220916002036421</id>
+        <link href="https://v.daum.net/v/20220916002036421"/>
+        <updated>2022-09-15T17:30:28.447Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["돈 쉽게 번 기업들 세금 더 내놔".. 유럽 195조 '횡재세'로 에너지 위기 돌파]]></title>
         <id>https://v.daum.net/v/20220916001006357</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220915233438019"/>
         <updated>2022-09-15T15:27:48.964Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[런던 공항도 英여왕 애도에 동참..국장 당일 30분간 항공편 없다]]></title>
-        <id>https://v.daum.net/v/20220915232539944</id>
-        <link href="https://v.daum.net/v/20220915232539944"/>
-        <updated>2022-09-15T15:27:48.969Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
