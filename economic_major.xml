@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-09-15T13:57:05.391Z</updated>
+    <updated>2022-09-15T14:31:29.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["국책銀 우량여신, 시중銀에 이관"..금융위 보고서 논란]]></title>
+        <id>https://v.daum.net/v/20220915230000764</id>
+        <link href="https://v.daum.net/v/20220915230000764"/>
+        <updated>2022-09-15T14:30:11.746Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["환율 오르면 호재? 이젠 옛말"..업종별 희비도]]></title>
         <id>https://v.daum.net/v/20220915213109788</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220915182539726"/>
         <updated>2022-09-15T12:54:31.331Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[줄줄이 문 닫은 무료급식소..빈곤층 영양실조 2배 늘었다]]></title>
-        <id>https://v.daum.net/v/20220915202704841</id>
-        <link href="https://v.daum.net/v/20220915202704841"/>
-        <updated>2022-09-15T12:54:31.332Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>

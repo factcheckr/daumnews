@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-09-15T13:57:05.369Z</updated>
+    <updated>2022-09-15T14:31:29.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[올댓차이나] 中 광저우, 주택가격 20% 인하 판매 허용.."부동산 활성화"]]></title>
+        <id>https://v.daum.net/v/20220915220739328</id>
+        <link href="https://v.daum.net/v/20220915220739328"/>
+        <updated>2022-09-15T14:30:26.346Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바이든, 이번엔 외국인 대미투자 심사 강화.."국가안보 위험 검토"]]></title>
         <id>https://v.daum.net/v/20220915220007203</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220915205111209"/>
         <updated>2022-09-15T13:55:58.727Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하버드 역사 왜곡' 커지는 비판..외교부 대응은 미적]]></title>
-        <id>https://v.daum.net/v/20220915204619131</id>
-        <link href="https://v.daum.net/v/20220915204619131"/>
-        <updated>2022-09-15T12:54:47.082Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
