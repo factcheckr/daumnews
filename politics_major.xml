@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2022-09-16T13:56:17.500Z</updated>
+    <updated>2022-09-16T14:33:47.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220916224141459"/>
         <updated>2022-09-16T13:54:42.186Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尹 "사드, 한중 걸림돌 안돼야"..시진핑 中 주석 방한 초청도]]></title>
+        <id>https://v.daum.net/v/20220916192407909</id>
+        <link href="https://v.daum.net/v/20220916192407909"/>
+        <updated>2022-09-16T14:32:02.726Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FA-50 폴란드 수출 확정..올해 방산수출 11조원 역대 최고]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220916205433199"/>
         <updated>2022-09-16T12:46:05.060Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 당대표 "전북특별자치도·공공의대 등 속도내겠다"]]></title>
-        <id>https://v.daum.net/v/20220916204914132</id>
-        <link href="https://v.daum.net/v/20220916204914132"/>
-        <updated>2022-09-16T12:46:05.062Z</updated>
-        <content type="html"><![CDATA[전주MBC]]></content>
     </entry>
 </feed>
