@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-09-16T11:23:26.378Z</updated>
+    <updated>2022-09-16T12:48:08.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몸집 키우는 태풍 '난마돌'..18일 오후부터 한반도에 비]]></title>
+        <id>https://v.daum.net/v/20220916212300548</id>
+        <link href="https://v.daum.net/v/20220916212300548"/>
+        <updated>2022-09-16T12:47:06.796Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조계종 총무원장 당선인, 신당역 '스토킹 살인' 피해자 추모]]></title>
         <id>https://v.daum.net/v/20220916180628379</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220916155700926"/>
         <updated>2022-09-16T08:31:33.855Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정선아리랑제 전국 소리꾼에 박수·환호..첫날 3만명 '성황']]></title>
-        <id>https://v.daum.net/v/20220916155258705</id>
-        <link href="https://v.daum.net/v/20220916155258705"/>
-        <updated>2022-09-16T08:31:33.856Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
