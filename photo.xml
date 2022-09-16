@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-09-16T19:24:23.012Z</updated>
+    <updated>2022-09-16T20:28:58.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령, 리잔수 접견]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/2o7hC1atSP</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/2o7hC1atSP"/>
+        <updated>2022-09-16T20:28:24.695Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뜨거웠던 기억 뒤로하고]]></title>
         <id>https://gallery.v.daum.net/p/viewer/212305/zXVwJw9rfv</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/243854/4h1Bi3A0an"/>
         <updated>2022-09-16T08:31:57.670Z</updated>
         <content type="html"><![CDATA[금주의 B컷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김진표·리잔수 회담 "북핵 해결, 전략적소통"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5612596/0lIIKhPlYN</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5612596/0lIIKhPlYN"/>
-        <updated>2022-09-16T07:34:12.648Z</updated>
-        <content type="html"><![CDATA[머니S포토]]></content>
     </entry>
 </feed>
