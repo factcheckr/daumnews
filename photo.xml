@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-09-16T16:36:44.204Z</updated>
+    <updated>2022-09-16T17:40:36.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5018824/8rZilZo5tM"/>
         <updated>2022-09-16T11:22:52.854Z</updated>
         <content type="html"><![CDATA[뉴시스Pic]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마라도 빠삐용 절벽]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/fac3MaUNux</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/fac3MaUNux"/>
+        <updated>2022-09-16T17:40:12.186Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[본회의장서 노출된 문자 대화..사생활이라 할 수 있나[원대연의 잡학사진]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615618/V1eS7mVsvU"/>
         <updated>2022-09-16T07:34:12.651Z</updated>
         <content type="html"><![CDATA[오마이포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오징어게임·비대위·여왕·환율·신당역]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5615613/2NWxzsfOEE</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5615613/2NWxzsfOEE"/>
-        <updated>2022-09-16T07:34:12.651Z</updated>
-        <content type="html"><![CDATA[노컷한컷]]></content>
     </entry>
 </feed>
