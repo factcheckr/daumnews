@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-09-17T16:35:42.102Z</updated>
+    <updated>2022-09-17T17:30:20.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1518/pK6voGiH6r"/>
         <updated>2022-09-17T13:39:12.417Z</updated>
         <content type="html"><![CDATA[전국 화재사고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나팔꽃]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/Wg0OHpkUzu</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/Wg0OHpkUzu"/>
+        <updated>2022-09-17T17:29:42.604Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인천공항 도착한 모더나 2가 백신, 10월 동절기 접종부터 활용 예정]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1489/YT3TeitnUK"/>
         <updated>2022-09-16T22:28:34.415Z</updated>
         <content type="html"><![CDATA[북한은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤 대통령, 리잔수 접견]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5032452/2o7hC1atSP</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5032452/2o7hC1atSP"/>
-        <updated>2022-09-16T20:28:24.695Z</updated>
-        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
     </entry>
 </feed>
