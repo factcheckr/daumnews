@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-09-17T09:26:11.543Z</updated>
+    <updated>2022-09-17T10:27:50.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NYT "이란 하메네이 중병설"..이란은 12시간만에 '건재' 사진]]></title>
+        <id>https://v.daum.net/v/20220917183253030</id>
+        <link href="https://v.daum.net/v/20220917183253030"/>
+        <updated>2022-09-17T10:26:43.184Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["마트 반값 치킨 1주일 만에 6만개 팔려"..CNN에 등장한 'K-치킨 오픈런']]></title>
         <id>https://v.daum.net/v/20220917180200708</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220917170000897"/>
         <updated>2022-09-17T08:31:00.798Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 상륙군·함정 꼼짝마!..일본 내년부터 '공격형 무인기' 도입]]></title>
-        <id>https://v.daum.net/v/20220917164012635</id>
-        <link href="https://v.daum.net/v/20220917164012635"/>
-        <updated>2022-09-17T08:31:00.799Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
