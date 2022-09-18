@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-09-18T11:23:12.626Z</updated>
+    <updated>2022-09-18T12:45:24.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["이게 얼마나 대단하길래" 드라마판 점령..방송사 먹여 살렸다?]]></title>
+        <title type="html"><![CDATA[지난여름 전기요금 납부했다면 '기후변화 대응' 하신 겁니다[찌릿찌릿(知it智it) 전기 교실]]]></title>
+        <id>https://v.daum.net/v/20220918204705024</id>
+        <link href="https://v.daum.net/v/20220918204705024"/>
+        <updated>2022-09-18T12:44:38.270Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어, 유심 트레이도 없네?.. 아이폰14 'e심'으로 갈아탔다]]></title>
+        <id>https://v.daum.net/v/20220918203357922</id>
+        <link href="https://v.daum.net/v/20220918203357922"/>
+        <updated>2022-09-18T12:44:38.271Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["이게 얼마나 대단하길래" 무조건 흥행 보장?..방송사 먹여 살린다]]></title>
         <id>https://v.daum.net/v/20220918175148009</id>
         <link href="https://v.daum.net/v/20220918175148009"/>
         <updated>2022-09-18T09:25:18.121Z</updated>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220918160127601"/>
         <updated>2022-09-18T07:24:33.169Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성행위 몰래 찍었는데도..삭제까지 "2주 기다리세요"]]></title>
-        <id>https://v.daum.net/v/20220918160007531</id>
-        <link href="https://v.daum.net/v/20220918160007531"/>
-        <updated>2022-09-18T07:24:33.171Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['건전재정' 강조한 尹정부, R&D는 예외?..예타 숨통 틔워준 이유]]></title>
-        <id>https://v.daum.net/v/20220918160002520</id>
-        <link href="https://v.daum.net/v/20220918160002520"/>
-        <updated>2022-09-18T07:24:33.173Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
