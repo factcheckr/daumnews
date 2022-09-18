@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-09-18T08:31:44.357Z</updated>
+    <updated>2022-09-18T09:26:14.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[채솟값 1년 새 2배 올라..金치 물량 부족 사태까지]]></title>
+        <id>https://v.daum.net/v/20220918181652457</id>
+        <link href="https://v.daum.net/v/20220918181652457"/>
+        <updated>2022-09-18T09:24:54.932Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 걸린 후 어지럼증이 생겼어요 [롱코비드의 진실]]]></title>
+        <id>https://v.daum.net/v/20220918180016143</id>
+        <link href="https://v.daum.net/v/20220918180016143"/>
+        <updated>2022-09-18T09:24:54.933Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여러 빛깔의 한지 쌓아..흘러가는 시간을 잡아두다]]></title>
         <id>https://v.daum.net/v/20220918171703347</id>
         <link href="https://v.daum.net/v/20220918171703347"/>
         <updated>2022-09-18T08:30:27.303Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대사성질환 'GLP-1RA' 약 하나로 치료 기대 [생활속 건강 톡 '메디神']]]></title>
-        <id>https://v.daum.net/v/20220918163902387</id>
-        <link href="https://v.daum.net/v/20220918163902387"/>
-        <updated>2022-09-18T08:30:27.304Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국, 아이 안 낳는 나라..학원비 때문이다"]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20220918160023547"/>
         <updated>2022-09-18T07:24:12.589Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[딴소리]상상을 처벌하는 대중]]></title>
-        <id>https://v.daum.net/v/20220918144330176</id>
-        <link href="https://v.daum.net/v/20220918144330176"/>
-        <updated>2022-09-18T07:24:12.591Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
