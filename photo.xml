@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-09-18T14:24:00.450Z</updated>
+    <updated>2022-09-18T15:28:40.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[태풍 '난마돌' 일본 관통 .. 800만명 대피령]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5042224/zA5dnj7ANs</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5042224/zA5dnj7ANs"/>
+        <updated>2022-09-18T15:28:03.481Z</updated>
+        <content type="html"><![CDATA[일본 규슈지역 폭우]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["꿈 싣고 날아라"]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1461/FSP43xGM9z</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1476/98LtREbD0K"/>
         <updated>2022-09-18T02:44:08.585Z</updated>
         <content type="html"><![CDATA[미국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 방문 위해 출국하는 박진 장관]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/31583/7KLZmXLZpK</id>
-        <link href="https://gallery.v.daum.net/p/viewer/31583/7KLZmXLZpK"/>
-        <updated>2022-09-18T02:44:08.592Z</updated>
-        <content type="html"><![CDATA[인천공항 풍경]]></content>
     </entry>
 </feed>
