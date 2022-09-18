@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-09-18T12:45:24.856Z</updated>
+    <updated>2022-09-18T13:41:46.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남은 소주 밥할 때 넣어보세요~]]></title>
+        <id>https://v.daum.net/v/20220918220018619</id>
+        <link href="https://v.daum.net/v/20220918220018619"/>
+        <updated>2022-09-18T13:40:28.392Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[현장영상] '난마돌' 내일 새벽 최근접.. 강한 비바람 우려]]></title>
+        <id>https://v.daum.net/v/20220918215327516</id>
+        <link href="https://v.daum.net/v/20220918215327516"/>
+        <updated>2022-09-18T13:40:28.393Z</updated>
+        <content type="html"><![CDATA[JIBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 영남 해안 최대 150mm↑ 비..남해안 태풍경보]]></title>
         <id>https://v.daum.net/v/20220918210906165</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220918181652457"/>
         <updated>2022-09-18T09:24:54.932Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여러 빛깔의 한지 쌓아..흘러가는 시간을 잡아두다]]></title>
-        <id>https://v.daum.net/v/20220918171703347</id>
-        <link href="https://v.daum.net/v/20220918171703347"/>
-        <updated>2022-09-18T08:30:27.303Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["한국, 아이 안 낳는 나라..학원비 때문이다"]]></title>
-        <id>https://v.daum.net/v/20220918163601323</id>
-        <link href="https://v.daum.net/v/20220918163601323"/>
-        <updated>2022-09-18T08:30:27.308Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
