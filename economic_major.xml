@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-09-18T13:41:46.517Z</updated>
+    <updated>2022-09-18T14:24:00.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220918220218643"/>
         <updated>2022-09-18T13:39:52.089Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경사진 트랙서 즐기는 시속 250km 질주 "오늘은 나도 카레이서"]]></title>
+        <id>https://v.daum.net/v/20220918202956878</id>
+        <link href="https://v.daum.net/v/20220918202956878"/>
+        <updated>2022-09-18T14:22:15.727Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정부, '연금개혁' 위한 재정계산 착수..재정 전망 더 악화할듯]]></title>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20220918192647300</id>
         <link href="https://v.daum.net/v/20220918192647300"/>
         <updated>2022-09-18T11:20:54.193Z</updated>
-        <content type="html"><![CDATA[대전일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난달 대전 취업자수 2개월 만 증가세 전환..고용률 올해 최고치]]></title>
-        <id>https://v.daum.net/v/20220918192634294</id>
-        <link href="https://v.daum.net/v/20220918192634294"/>
-        <updated>2022-09-18T11:20:54.195Z</updated>
         <content type="html"><![CDATA[대전일보]]></content>
     </entry>
 </feed>
