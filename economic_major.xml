@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-09-19T15:29:44.148Z</updated>
+    <updated>2022-09-19T16:38:03.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[엔데믹 문턱 넘는 영화관..관람객 수 최대 90% 회복]]></title>
-        <id>https://v.daum.net/v/20220920000314082</id>
-        <link href="https://v.daum.net/v/20220920000314082"/>
-        <updated>2022-09-19T15:28:00.783Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5만전자 수렁..외국인 이달 1조원 팔았다]]></title>
-        <id>https://v.daum.net/v/20220920000218037</id>
-        <link href="https://v.daum.net/v/20220920000218037"/>
-        <updated>2022-09-19T15:28:00.784Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[포항제철소 때린 태풍에..하이브리드·전기차 출고 더 늦어지나]]></title>
         <id>https://v.daum.net/v/20220920000008976</id>
@@ -74,5 +60,19 @@
         <link href="https://v.daum.net/v/20220919220908150"/>
         <updated>2022-09-19T15:28:00.792Z</updated>
         <content type="html"><![CDATA[매경이코노미]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[완화에는 적극적, 규제에는 소극적]]></title>
+        <id>https://v.daum.net/v/20220919215807008</id>
+        <link href="https://v.daum.net/v/20220919215807008"/>
+        <updated>2022-09-19T16:36:34.590Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['반지하의 비극' 한달..인구주택총조사 첫 전수분석]]></title>
+        <id>https://v.daum.net/v/20220919215011900</id>
+        <link href="https://v.daum.net/v/20220919215011900"/>
+        <updated>2022-09-19T16:36:34.591Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
