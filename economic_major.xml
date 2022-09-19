@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-09-19T13:57:48.190Z</updated>
+    <updated>2022-09-19T14:32:18.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[완화에는 적극적, 규제에는 소극적]]></title>
+        <id>https://v.daum.net/v/20220919215807008</id>
+        <link href="https://v.daum.net/v/20220919215807008"/>
+        <updated>2022-09-19T14:30:54.495Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['반지하의 비극' 한달..인구주택총조사 첫 전수분석]]></title>
+        <id>https://v.daum.net/v/20220919215011900</id>
+        <link href="https://v.daum.net/v/20220919215011900"/>
+        <updated>2022-09-19T14:30:54.497Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성장률·물가 전망 높인 OECD..힘 받는 금리 인상]]></title>
         <id>https://v.daum.net/v/20220919213502726</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20220919202211447"/>
         <updated>2022-09-19T12:53:13.306Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["코로나도 버텼는데, 이젠 접습니다"..자영업자의 눈물]]></title>
-        <id>https://v.daum.net/v/20220919175309904</id>
-        <link href="https://v.daum.net/v/20220919175309904"/>
-        <updated>2022-09-19T12:53:13.307Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숫자로 보는 엘리자베스 2세 여왕]]></title>
-        <id>https://v.daum.net/v/20220919201201263</id>
-        <link href="https://v.daum.net/v/20220919201201263"/>
-        <updated>2022-09-19T12:53:13.308Z</updated>
-        <content type="html"><![CDATA[한경비즈니스]]></content>
     </entry>
 </feed>

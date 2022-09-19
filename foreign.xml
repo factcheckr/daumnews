@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-09-19T13:57:48.202Z</updated>
+    <updated>2022-09-19T14:32:18.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[英 여왕 웨스트민스터 사원 장례식 누구누구 참석했나]]></title>
+        <id>https://v.daum.net/v/20220919231431659</id>
+        <link href="https://v.daum.net/v/20220919231431659"/>
+        <updated>2022-09-19T14:31:02.871Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USTR 대표, 대중국 관세 인하 질문에 "공정 경쟁 위한 관세"]]></title>
+        <id>https://v.daum.net/v/20220919230802630</id>
+        <link href="https://v.daum.net/v/20220919230802630"/>
+        <updated>2022-09-19T14:31:02.873Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엘리자베스 2세 여왕 영면으로 '20세기와 결별' 한걸음 더]]></title>
         <id>https://v.daum.net/v/20220919224523437</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20220919223157333"/>
         <updated>2022-09-19T13:56:37.664Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영국 여왕이 영면 드는 '윈저성'.."조지 3세 이후 영국 왕족들이 안장된 곳"]]></title>
-        <id>https://v.daum.net/v/20220919223101326</id>
-        <link href="https://v.daum.net/v/20220919223101326"/>
-        <updated>2022-09-19T13:56:37.664Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹 "자유 수호자 못 잊을 것"..96번 弔鐘 속 '마지막 여행' 떠난 여왕]]></title>
-        <id>https://v.daum.net/v/20220919222043251</id>
-        <link href="https://v.daum.net/v/20220919222043251"/>
-        <updated>2022-09-19T13:56:37.666Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
