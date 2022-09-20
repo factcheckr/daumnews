@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-09-20T14:34:31.081Z</updated>
+    <updated>2022-09-20T15:30:10.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20220920210639717"/>
         <updated>2022-09-20T12:51:43.129Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["허접하다고, 무시했는데" 월 400억원이나 번다. 대체 뭐길래?]]></title>
+        <id>https://v.daum.net/v/20220920185131186</id>
+        <link href="https://v.daum.net/v/20220920185131186"/>
+        <updated>2022-09-20T15:29:35.562Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[첫 소행성 충돌실험]美·中·日 다 하는 '소행성 탐사'..한국 나홀로 뒷걸음질]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20220920172512853"/>
         <updated>2022-09-20T09:29:14.043Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DNA가 밝혀낸 강제징용 韓유해..남태평양서 3년째 봉환 막혔다]]></title>
-        <id>https://v.daum.net/v/20220920170025023</id>
-        <link href="https://v.daum.net/v/20220920170025023"/>
-        <updated>2022-09-20T09:29:14.044Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
