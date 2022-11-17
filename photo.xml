@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-11-17T17:24:29.817Z</updated>
+    <updated>2022-11-17T18:29:29.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[깁스한 ‘길냥이’]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/UiL1OKMT2h</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/UiL1OKMT2h"/>
+        <updated>2022-11-17T18:28:54.380Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴질랜드 총리와 건배하는 한덕수 총리]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5032123/3D0LMS1iol</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2904/V0ElMQg1k8"/>
         <updated>2022-11-17T08:31:24.993Z</updated>
         <content type="html"><![CDATA[프랑스 마크롱 대통령]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[특수본, 이태원 사고 관련 행안부 압수수색]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5644531/2xIe4VdYa7</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5644531/2xIe4VdYa7"/>
-        <updated>2022-11-17T07:21:31.781Z</updated>
-        <content type="html"><![CDATA[이태원 대형인명 사고]]></content>
     </entry>
 </feed>
