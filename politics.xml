@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2022-11-17T15:25:50.561Z</updated>
+    <updated>2022-11-17T16:35:32.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['쌍방울 남북회담 대가 상납 의혹'…與 "정황 차고 넘쳐" vs 野 "가짜뉴스"]]></title>
+        <id>https://v.daum.net/v/20221118003000811</id>
+        <link href="https://v.daum.net/v/20221118003000811"/>
+        <updated>2022-11-17T16:32:57.978Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[나이트포커스] 정진상·김용은 '철통 엄호'...노웅래는 '나홀로 회견']]></title>
         <id>https://v.daum.net/v/20221118001339648</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221117232418073"/>
         <updated>2022-11-17T15:23:20.835Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김정은 정권 종말' 언급한 미 당국자, 한국 국방부 방문]]></title>
-        <id>https://v.daum.net/v/20221117231800034</id>
-        <link href="https://v.daum.net/v/20221117231800034"/>
-        <updated>2022-11-17T15:23:20.837Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
