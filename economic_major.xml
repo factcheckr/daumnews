@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-11-17T13:41:08.317Z</updated>
+    <updated>2022-11-17T14:23:03.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[저소득층은 소득도 감소 “더 이상 줄일 수 없다”]]></title>
+        <id>https://v.daum.net/v/20221117214646230</id>
+        <link href="https://v.daum.net/v/20221117214646230"/>
+        <updated>2022-11-17T14:21:15.322Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[만수르보다 재산 10배 이상…사우디 '큰손'이자 실세]]></title>
         <id>https://v.daum.net/v/20221117201351978</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221117184330410"/>
         <updated>2022-11-17T12:44:41.694Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원안위, 신한울 1호기 PAR 실험 결과 보고 받아…"규제 요건 만족"]]></title>
-        <id>https://v.daum.net/v/20221117203146198</id>
-        <link href="https://v.daum.net/v/20221117203146198"/>
-        <updated>2022-11-17T12:44:41.696Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
