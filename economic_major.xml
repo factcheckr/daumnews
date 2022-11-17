@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-11-17T18:29:29.287Z</updated>
+    <updated>2022-11-17T19:20:34.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20221118030557811"/>
         <updated>2022-11-17T18:27:38.597Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손으로 눌러써야 마음에 새겨 ‘초심불망’ 오늘도 다짐한다]]></title>
+        <id>https://v.daum.net/v/20221118030549806</id>
+        <link href="https://v.daum.net/v/20221118030549806"/>
+        <updated>2022-11-17T19:18:36.815Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“1등 기업문화 가꾸자”… 셋째 금요일 휴무, 유연근무 공간 운영]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221118030228646"/>
         <updated>2022-11-17T18:27:38.618Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사막에 길이 170km-높이 500m 직선도시… 네옴시티 ‘더 라인’ 터널, 삼성-현대가 맡아]]></title>
-        <id>https://v.daum.net/v/20221118030112573</id>
-        <link href="https://v.daum.net/v/20221118030112573"/>
-        <updated>2022-11-17T18:27:38.618Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
