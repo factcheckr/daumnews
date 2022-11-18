@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-11-18T13:41:09.836Z</updated>
+    <updated>2022-11-18T14:23:41.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[음주단속하는 경찰관]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/197087/KYmPUDv8Wg</id>
+        <link href="https://gallery.v.daum.net/p/viewer/197087/KYmPUDv8Wg"/>
+        <updated>2022-11-18T14:23:19.771Z</updated>
+        <content type="html"><![CDATA[음주운전은 절대 금물]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태국 반정부 시위대 'APEC 반대' 단두대 모형 설치]]></title>
         <id>https://gallery.v.daum.net/p/viewer/171596/7dRLD9Ryop</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5014013/foRGBwT6ac"/>
         <updated>2022-11-18T07:21:48.629Z</updated>
         <content type="html"><![CDATA['코로나19' 바이러스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광주 신창동 마을, 서른 번째 가을 풍경]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5030433/Qr97GeA0NX</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5030433/Qr97GeA0NX"/>
-        <updated>2022-11-18T07:21:48.631Z</updated>
-        <content type="html"><![CDATA[국립중앙박물관]]></content>
     </entry>
 </feed>

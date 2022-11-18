@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2022-11-18T13:41:09.835Z</updated>
+    <updated>2022-11-18T14:23:41.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정부 “북, 오판해선 안 돼”…한·미 미사일 방어훈련 강화될 듯[북 ICBM 발사]]]></title>
+        <id>https://v.daum.net/v/20221118211131899</id>
+        <link href="https://v.daum.net/v/20221118211131899"/>
+        <updated>2022-11-18T14:22:01.583Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹 “MBC, 동맹 이간질·악의적”…기자·비서관 설전도]]></title>
         <id>https://v.daum.net/v/20221118212201039</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221118210018727"/>
         <updated>2022-11-18T12:40:26.370Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령실·여당 MBC 압박 왜?‥보수매체도 우려]]></title>
-        <id>https://v.daum.net/v/20221118201913260</id>
-        <link href="https://v.daum.net/v/20221118201913260"/>
-        <updated>2022-11-18T12:40:26.371Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
