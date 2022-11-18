@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-11-18T12:42:21.290Z</updated>
+    <updated>2022-11-18T13:41:09.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://v.daum.net/v/20221118195225880"/>
         <updated>2022-11-18T11:19:32.121Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이통3사, ‘5G 28㎓  구축’ 못 지켰다…대역 주파수 반납]]></title>
-        <id>https://v.daum.net/v/20221118192820530</id>
-        <link href="https://v.daum.net/v/20221118192820530"/>
-        <updated>2022-11-18T11:19:32.121Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[모빌리티 인사이트] 1인 1비서의 시대가 열린다, 자동차에 탑승하는 AI비서]]></title>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20221118181204530"/>
         <updated>2022-11-18T10:25:11.901Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[지스타] 7년만에 단독 부스 낸 삼성전자…게이밍 하드웨어 눈길]]></title>
+        <id>https://v.daum.net/v/20221118175819182</id>
+        <link href="https://v.daum.net/v/20221118175819182"/>
+        <updated>2022-11-18T13:40:21.748Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
