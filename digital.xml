@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-11-19T03:15:34.249Z</updated>
+    <updated>2022-11-19T04:28:27.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[달콤한 사이언스] 다둥이 엄마들 유독 기운 없어 보이는 이유는…]]></title>
+        <id>https://v.daum.net/v/20221119130101524</id>
+        <link href="https://v.daum.net/v/20221119130101524"/>
+        <updated>2022-11-19T04:27:45.792Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['원전 최강국' 한국·프랑스 기술동맹…27개 분야 밀착 '협력']]></title>
         <id>https://v.daum.net/v/20221119112609809</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221119091240399"/>
         <updated>2022-11-19T01:52:11.481Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[과학을읽다]인류의 화성행, 말과 마차·부츠가 준비됐다]]></title>
-        <id>https://v.daum.net/v/20221119093010593</id>
-        <link href="https://v.daum.net/v/20221119093010593"/>
-        <updated>2022-11-19T01:52:11.482Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
