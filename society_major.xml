@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2022-11-19T13:32:17.698Z</updated>
+    <updated>2022-11-19T14:20:23.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도시민 어촌 정착 ‘귀어학교’ 주목]]></title>
+        <id>https://v.daum.net/v/20221119214800242</id>
+        <link href="https://v.daum.net/v/20221119214800242"/>
+        <updated>2022-11-19T14:18:38.855Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가로림만 해양정원 조성 사업 예타…마무리 언제?]]></title>
         <id>https://v.daum.net/v/20221119214352217</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221119205400875"/>
         <updated>2022-11-19T12:37:15.505Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제는 제주 아닌 '동해 방어'…오징어는 급감]]></title>
-        <id>https://v.daum.net/v/20221119203904800</id>
-        <link href="https://v.daum.net/v/20221119203904800"/>
-        <updated>2022-11-19T12:37:15.509Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
