@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-11-19T09:23:03.193Z</updated>
+    <updated>2022-11-19T10:24:00.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[월급 고스란히 갖다 바친다…중국인들 유별난 '아이폰 사랑' [조아라의 소프트차이나]]]></title>
+        <id>https://v.daum.net/v/20221119100102956</id>
+        <link href="https://v.daum.net/v/20221119100102956"/>
+        <updated>2022-11-19T10:23:28.615Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['여자 스티브 잡스' 엘리자베스 홈즈, 징역 11년형]]></title>
         <id>https://v.daum.net/v/20221119091240399</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221119070020275"/>
         <updated>2022-11-19T01:52:20.969Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[위클리 스마트] 메타버스 시대 VR 뉴스, 주류 저널리즘 될까]]></title>
-        <id>https://v.daum.net/v/20221119070013261</id>
-        <link href="https://v.daum.net/v/20221119070013261"/>
-        <updated>2022-11-19T01:52:20.974Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
