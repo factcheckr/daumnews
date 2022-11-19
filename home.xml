@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2022-11-19T16:31:01.396Z</updated>
+    <updated>2022-11-19T17:21:53.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전남 신안군 흑산도 부근 해역에서 규모 3.3 지진]]></title>
+        <id>https://v.daum.net/v/20221120020300296</id>
+        <link href="https://v.daum.net/v/20221120020300296"/>
+        <updated>2022-11-19T17:19:40.216Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전남 신안군 흑산도 해역에서 규모 3.3 지진…“피해 없을 듯”]]></title>
+        <id>https://v.daum.net/v/20221120010531126</id>
+        <link href="https://v.daum.net/v/20221120010531126"/>
+        <updated>2022-11-19T17:19:40.218Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대만대표로 APEC 참석한 TSMC 창업자 "시진핑과 짧은 대화"]]></title>
+        <id>https://v.daum.net/v/20221120020234292</id>
+        <link href="https://v.daum.net/v/20221120020234292"/>
+        <updated>2022-11-19T17:19:40.219Z</updated>
+        <content type="html"><![CDATA[IT]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기상청 "흑산도 남남서쪽 바다서 규모 3.3 지진…피해 없을 듯"]]></title>
         <id>https://v.daum.net/v/20221120010555128</id>
@@ -123,26 +144,5 @@
         <link href="https://v.daum.net/v/20221119213821169"/>
         <updated>2022-11-19T14:18:21.923Z</updated>
         <content type="html"><![CDATA[경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['방역 만리장성' 쌓았던 베이징, 코로나 확산에 '비상']]></title>
-        <id>https://v.daum.net/v/20221119224904535</id>
-        <link href="https://v.daum.net/v/20221119224904535"/>
-        <updated>2022-11-19T14:18:21.923Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['중고생까지 동원'…대통령실 에워싼 '尹퇴진' 촛불집회]]></title>
-        <id>https://v.daum.net/v/20221119222900459</id>
-        <link href="https://v.daum.net/v/20221119222900459"/>
-        <updated>2022-11-19T14:18:21.923Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지스타2022에 나타난 '갓오브워 크레토스']]></title>
-        <id>https://v.daum.net/v/20221119214242209</id>
-        <link href="https://v.daum.net/v/20221119214242209"/>
-        <updated>2022-11-19T14:18:21.923Z</updated>
-        <content type="html"><![CDATA[IT]]></content>
     </entry>
 </feed>
