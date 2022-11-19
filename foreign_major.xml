@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-11-19T06:29:12.107Z</updated>
+    <updated>2022-11-19T07:21:17.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[펜스 전 美부통령, 회고록서 “김여정, 무시했다”]]></title>
+        <id>https://v.daum.net/v/20221119150335570</id>
+        <link href="https://v.daum.net/v/20221119150335570"/>
+        <updated>2022-11-19T07:20:02.882Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["노르트스트림서 폭탄 흔적 발견...'대규모 파괴공작'" 스웨덴 검찰]]></title>
+        <id>https://v.daum.net/v/20221119150212552</id>
+        <link href="https://v.daum.net/v/20221119150212552"/>
+        <updated>2022-11-19T07:20:02.883Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정상회담 후 달라진 미·중…통상협상 재개에 해리스·習 회동까지]]></title>
         <id>https://v.daum.net/v/20221119145254453</id>
@@ -18,13 +32,6 @@
         <link href="https://v.daum.net/v/20221119142215195"/>
         <updated>2022-11-19T06:28:09.085Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나, 러시아 미사일 공격으로 에너지 시설 절반 피해]]></title>
-        <id>https://v.daum.net/v/20221119142217196</id>
-        <link href="https://v.daum.net/v/20221119142217196"/>
-        <updated>2022-11-19T06:28:09.087Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[캐나다, 인도·태평양에 군사배치 확대 천명..."중국 견제"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221119120005140"/>
         <updated>2022-11-19T06:28:09.091Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국제유가, 미중 경기둔화 우려에 속락 마감...WTI 1.9%↓ 브렌트유 2.4%↓]]></title>
-        <id>https://v.daum.net/v/20221119122347315</id>
-        <link href="https://v.daum.net/v/20221119122347315"/>
-        <updated>2022-11-19T04:27:20.308Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
