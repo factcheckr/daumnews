@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-11-20T13:31:55.431Z</updated>
+    <updated>2022-11-20T14:21:08.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20221120214309574"/>
         <updated>2022-11-20T13:30:31.552Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추락하는 서울 아파트값… 시가총액 2021년말 수준으로 ‘뚝’]]></title>
+        <id>https://v.daum.net/v/20221120203127092</id>
+        <link href="https://v.daum.net/v/20221120203127092"/>
+        <updated>2022-11-20T14:19:31.205Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[미리보는 경제] "다음 순번은 누구?"‥코인판 리먼 사태 터지나]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221120184552215"/>
         <updated>2022-11-20T11:18:15.637Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] “정부가 원유 인상” 우유 가격 최대 15% 인상 고지 유업계…농식품부 “황당, 정부 핑계 말라”]]></title>
-        <id>https://v.daum.net/v/20221120184501208</id>
-        <link href="https://v.daum.net/v/20221120184501208"/>
-        <updated>2022-11-20T11:18:15.637Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>

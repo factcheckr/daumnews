@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-11-20T13:31:55.435Z</updated>
+    <updated>2022-11-20T14:21:08.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인간 탐욕에 희생된 바다 생물 위로… 제주, 미술에 물들다]]></title>
+        <id>https://v.daum.net/v/20221120193904653</id>
+        <link href="https://v.daum.net/v/20221120193904653"/>
+        <updated>2022-11-20T14:20:11.776Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['무용 거장'의 정글북은 화려했지만 무거웠다]]></title>
         <id>https://v.daum.net/v/20221120182304981</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221120160307978"/>
         <updated>2022-11-20T09:24:19.676Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[31회 오성제전... "전설 듣고나니 '오성산'이 다시 보여"]]></title>
-        <id>https://v.daum.net/v/20221120155102782</id>
-        <link href="https://v.daum.net/v/20221120155102782"/>
-        <updated>2022-11-20T09:24:19.677Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>

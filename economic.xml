@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-11-20T13:31:55.451Z</updated>
+    <updated>2022-11-20T14:21:08.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[실거래가 역전에…공시가, 2020년 수준으로 낮춘다]]></title>
+        <id>https://v.daum.net/v/20221120223301893</id>
+        <link href="https://v.daum.net/v/20221120223301893"/>
+        <updated>2022-11-20T14:19:22.078Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[근육질 몸·날렵한 쿠페형 곡선, 연비도 훌륭…시내 주행용 ‘딱’]]></title>
         <id>https://v.daum.net/v/20221120220011690</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221120211638398"/>
         <updated>2022-11-20T12:38:32.106Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추락하는 서울 아파트값… 시가총액 2021년말 수준으로 ‘뚝’]]></title>
-        <id>https://v.daum.net/v/20221120203127092</id>
-        <link href="https://v.daum.net/v/20221120203127092"/>
-        <updated>2022-11-20T12:38:32.108Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
