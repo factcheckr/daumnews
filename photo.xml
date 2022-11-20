@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-11-20T17:20:37.392Z</updated>
+    <updated>2022-11-20T18:27:33.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비둘기 통신]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/1PH6KJkUfR</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/1PH6KJkUfR"/>
+        <updated>2022-11-20T18:27:10.805Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원주 지정면 식당서 불…1명 화상]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1518/74wPHBQS1l</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615616/9YdAOz6hjz"/>
         <updated>2022-11-20T06:28:35.617Z</updated>
         <content type="html"><![CDATA[뉴스1 PICK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대만 금마장 시상식 참석한 정동환]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5034635/WIkRJTFLkY</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5034635/WIkRJTFLkY"/>
-        <updated>2022-11-20T06:28:35.618Z</updated>
-        <content type="html"><![CDATA[대만은 지금]]></content>
     </entry>
 </feed>
