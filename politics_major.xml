@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2022-11-20T14:21:08.357Z</updated>
+    <updated>2022-11-20T15:23:23.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://v.daum.net/v/20221120203834123"/>
         <updated>2022-11-20T12:38:24.263Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장경태, ‘김 여사 조명 논란’에 “전문가 분석 인용했을 뿐”]]></title>
+        <id>https://v.daum.net/v/20221120233033195</id>
+        <link href="https://v.daum.net/v/20221120233033195"/>
+        <updated>2022-11-20T15:21:35.969Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[일지]공군 KF-16 전투기 추락… 1997년 이후 8번째]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221120205212213"/>
         <updated>2022-11-20T14:19:11.828Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KF-16 1대 엔진이상 양평 야산에 추락…조종사 비상탈출(종합2보)]]></title>
-        <id>https://v.daum.net/v/20221120221758819</id>
-        <link href="https://v.daum.net/v/20221120221758819"/>
-        <updated>2022-11-20T14:19:11.830Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

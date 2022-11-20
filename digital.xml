@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-11-20T14:21:08.384Z</updated>
+    <updated>2022-11-20T15:23:23.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유니콘 직전에 휘청…‘부릉’ 매각설이 스타트업에 주는 경고]]></title>
+        <id>https://v.daum.net/v/20221121000251418</id>
+        <link href="https://v.daum.net/v/20221121000251418"/>
+        <updated>2022-11-20T15:22:42.341Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스스로 복구하는 자가치유 화학 신소재 [우리가 몰랐던 과학 이야기] (271)]]></title>
         <id>https://v.daum.net/v/20221120230519101</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221120204603173"/>
         <updated>2022-11-20T12:39:20.688Z</updated>
         <content type="html"><![CDATA[비즈니스워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18만명 찾은 지스타 2022…'안전·볼거리' 두마리 토끼]]></title>
-        <id>https://v.daum.net/v/20221120200352880</id>
-        <link href="https://v.daum.net/v/20221120200352880"/>
-        <updated>2022-11-20T11:18:57.956Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
