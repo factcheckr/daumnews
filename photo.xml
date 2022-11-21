@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-11-21T16:33:26.333Z</updated>
+    <updated>2022-11-21T17:24:11.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/2904/1qw4fRj3j3"/>
         <updated>2022-11-21T12:44:11.462Z</updated>
         <content type="html"><![CDATA[프랑스 마크롱 대통령]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한밭수목원 가을 끝자락]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/9O6iq4iHJR</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/9O6iq4iHJR"/>
+        <updated>2022-11-21T17:23:44.368Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[홍준표·송갑석, TK 신공항·광주 군공항 특별법 연내통과 협력]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615618/U3Q5MnD7fX"/>
         <updated>2022-11-21T06:34:53.655Z</updated>
         <content type="html"><![CDATA[오마이포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 코로나, 다시 도시 곳곳 봉쇄?]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/382/YOHW4MNFoL</id>
-        <link href="https://gallery.v.daum.net/p/viewer/382/YOHW4MNFoL"/>
-        <updated>2022-11-21T06:34:53.662Z</updated>
-        <content type="html"><![CDATA[중국은 지금]]></content>
     </entry>
 </feed>
