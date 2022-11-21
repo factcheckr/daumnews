@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-11-21T13:45:40.007Z</updated>
+    <updated>2022-11-21T14:21:47.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주마 전 남아공 대통령, 대법원도 '가석방 취소' 확정]]></title>
+        <id>https://v.daum.net/v/20221121231041985</id>
+        <link href="https://v.daum.net/v/20221121231041985"/>
+        <updated>2022-11-21T14:20:40.326Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이란, 월드컵 첫 경기서 국가 안 불렀다…‘반정부 시위 연대’]]></title>
+        <id>https://v.daum.net/v/20221121225502796</id>
+        <link href="https://v.daum.net/v/20221121225502796"/>
+        <updated>2022-11-21T14:20:40.327Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시진핑 떨고 있나… APEC서 옆자리 홍콩 행정장관 코로나 확진]]></title>
         <id>https://v.daum.net/v/20221121223317638</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20221121220022259"/>
         <updated>2022-11-21T13:44:19.836Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“문어 비켜!” 점쟁이 낙타 커밀라, 에콰도르 승리 맞혔다]]></title>
-        <id>https://v.daum.net/v/20221121215916235</id>
-        <link href="https://v.daum.net/v/20221121215916235"/>
-        <updated>2022-11-21T13:44:19.845Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에르도안, '시리아·이라크' 거점 '쿠르드族' 소탕하나…"대가 치를 것"(종합)]]></title>
-        <id>https://v.daum.net/v/20221121214709034</id>
-        <link href="https://v.daum.net/v/20221121214709034"/>
-        <updated>2022-11-21T13:44:19.847Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
