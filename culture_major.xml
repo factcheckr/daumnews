@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-11-21T15:25:25.372Z</updated>
+    <updated>2022-11-21T16:33:26.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김작가의 글이 되는 음악] 같은 날 다른 공연, 시대의 교차로]]></title>
+        <id>https://v.daum.net/v/20221121190002474</id>
+        <link href="https://v.daum.net/v/20221121190002474"/>
+        <updated>2022-11-21T16:32:39.212Z</updated>
+        <content type="html"><![CDATA[이코노미조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전설의 피아노…다시는 못 들을지도 모를]]></title>
         <id>https://v.daum.net/v/20221121182513664</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[한겨레]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["피카소처럼 죽을 때까지 그릴겁니다"…이기봉 작가 개인전]]></title>
+        <title type="html"><![CDATA["피카소처럼 죽을 때까지 그릴겁니다"]]></title>
         <id>https://v.daum.net/v/20221121181902503</id>
         <link href="https://v.daum.net/v/20221121181902503"/>
         <updated>2022-11-21T15:24:32.092Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221121162822571"/>
         <updated>2022-11-21T09:23:35.835Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[저녁잇슈] 2022년 11월 21일 월요일]]></title>
-        <id>https://v.daum.net/v/20221121163008634</id>
-        <link href="https://v.daum.net/v/20221121163008634"/>
-        <updated>2022-11-21T09:23:35.836Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

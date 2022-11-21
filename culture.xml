@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-11-21T15:25:25.373Z</updated>
+    <updated>2022-11-21T16:33:26.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세계김치연구소, 11월 22일 ‘김치의 날’ 맞아 김치의 22가지 효능 소개]]></title>
+        <id>https://v.daum.net/v/20221122010609994</id>
+        <link href="https://v.daum.net/v/20221122010609994"/>
+        <updated>2022-11-21T16:32:30.977Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[죽음 앞 둔 '인간' 예수의 고뇌…울부짖는 '겟세마네' 명불허전]]></title>
+        <id>https://v.daum.net/v/20221121181801475</id>
+        <link href="https://v.daum.net/v/20221121181801475"/>
+        <updated>2022-11-21T16:32:30.981Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[108년 된 춘포 도정공장, 거대한 설치미술이 되다]]></title>
         <id>https://v.daum.net/v/20221122000244478</id>
         <link href="https://v.daum.net/v/20221122000244478"/>
         <updated>2022-11-21T15:24:24.049Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이곳' 힘 약한 사람, 암·당뇨병 위험 크다]]></title>
-        <id>https://v.daum.net/v/20221121234515306</id>
-        <link href="https://v.daum.net/v/20221121234515306"/>
-        <updated>2022-11-21T15:24:24.053Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[다이어트 중이지만 면 당길 때, 밀가루면 대신 ‘이것’]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221121191543824"/>
         <updated>2022-11-21T10:25:19.384Z</updated>
         <content type="html"><![CDATA[대전일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김작가의 글이 되는 음악] 같은 날 다른 공연, 시대의 교차로]]></title>
-        <id>https://v.daum.net/v/20221121190002474</id>
-        <link href="https://v.daum.net/v/20221121190002474"/>
-        <updated>2022-11-21T10:25:19.384Z</updated>
-        <content type="html"><![CDATA[이코노미조선]]></content>
     </entry>
 </feed>
