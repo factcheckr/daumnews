@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-11-21T18:28:52.168Z</updated>
+    <updated>2022-11-21T19:19:31.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20221122030255601"/>
         <updated>2022-11-21T18:28:06.469Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[죽음 앞 둔 '인간' 예수의 고뇌…울부짖는 '겟세마네' 명불허전]]></title>
+        <id>https://v.daum.net/v/20221121181801475</id>
+        <link href="https://v.daum.net/v/20221121181801475"/>
+        <updated>2022-11-21T19:18:41.971Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[108년 된 춘포 도정공장, 거대한 설치미술이 되다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221121181803479"/>
         <updated>2022-11-21T12:43:48.619Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“우린 맥주를 원해” 떼창 울린 카타르…VIP는 샴페인도 가능]]></title>
-        <id>https://v.daum.net/v/20221121174014336</id>
-        <link href="https://v.daum.net/v/20221121174014336"/>
-        <updated>2022-11-21T12:43:48.620Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
