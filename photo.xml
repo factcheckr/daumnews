@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-11-21T17:24:11.697Z</updated>
+    <updated>2022-11-21T18:28:52.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[타란툴라]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/8OIGhNOKqb</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/8OIGhNOKqb"/>
+        <updated>2022-11-21T18:28:29.267Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전장연 “장애인권리 예산 보장하라”[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/ZSChmRj3Ff</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033573/zN3LGtbDNm"/>
         <updated>2022-11-21T07:22:26.733Z</updated>
         <content type="html"><![CDATA[전통시장 모습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['언론자유의 주적은 윤석열정권' 내건 민주당]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5615618/U3Q5MnD7fX</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5615618/U3Q5MnD7fX"/>
-        <updated>2022-11-21T06:34:53.655Z</updated>
-        <content type="html"><![CDATA[오마이포토]]></content>
     </entry>
 </feed>
