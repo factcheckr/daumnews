@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-11-21T12:44:34.633Z</updated>
+    <updated>2022-11-21T13:45:40.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고팍스 "고파이 고정형 상품도 만기 준수 불투명" 공지]]></title>
+        <id>https://v.daum.net/v/20221121183322906</id>
+        <link href="https://v.daum.net/v/20221121183322906"/>
+        <updated>2022-11-21T13:45:05.322Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["플랫폼이 심판?···공정위 규제 기준 구체화해야"]]></title>
         <id>https://v.daum.net/v/20221121163947102</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221121172826882"/>
         <updated>2022-11-21T10:25:42.174Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통신사, 발빠른 ‘6G 마케팅’ 배경은]]></title>
-        <id>https://v.daum.net/v/20221121171003263</id>
-        <link href="https://v.daum.net/v/20221121171003263"/>
-        <updated>2022-11-21T09:23:53.289Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
