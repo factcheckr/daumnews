@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-11-22T18:29:47.687Z</updated>
+    <updated>2022-11-22T19:20:35.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코소보-세르비아 갈등서 드러난 EU의 무능함]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5620554/P4zHRryPk7</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5620554/P4zHRryPk7"/>
+        <updated>2022-11-22T19:20:05.733Z</updated>
+        <content type="html"><![CDATA[특파원 시선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘산타 요정’[고양이 눈/김의철]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/6gUII39rKx</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1397984/0BaaXjI9bi"/>
         <updated>2022-11-22T07:22:25.420Z</updated>
         <content type="html"><![CDATA[퇴근길 한 컷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나토 의회 총회에 화상 연설하는 우크라 대통령]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5029633/7Z6bPZzcgX</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5029633/7Z6bPZzcgX"/>
-        <updated>2022-11-22T07:22:25.421Z</updated>
-        <content type="html"><![CDATA[스페인은 지금]]></content>
     </entry>
 </feed>
