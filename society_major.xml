@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2022-11-22T13:37:55.766Z</updated>
+    <updated>2022-11-22T14:22:39.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시민 78.1% ‘청주 오송역’ 찬성...도시 브랜드 강화 이유]]></title>
+        <id>https://v.daum.net/v/20221122220655822</id>
+        <link href="https://v.daum.net/v/20221122220655822"/>
+        <updated>2022-11-22T14:20:39.072Z</updated>
+        <content type="html"><![CDATA[CJB청주방송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[72년 만에 첫 독립청사...더부살이 설움 해소]]></title>
         <id>https://v.daum.net/v/20221122220517794</id>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘찰떡궁합’ 밀레니엄 듀오, 늪축구 비웃듯 골잔치 [카타르 스타]]]></title>
+        <title type="html"><![CDATA[‘찰떡궁합’ 밀레니엄 듀오, 이란전서 골잔치 [카타르 스타]]]></title>
         <id>https://v.daum.net/v/20221122190052279</id>
         <link href="https://v.daum.net/v/20221122190052279"/>
         <updated>2022-11-22T13:35:35.413Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221122213905280"/>
         <updated>2022-11-22T13:35:35.418Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우범기 시장 불출석"..소통 없는 경기장 개발 '질타']]></title>
-        <id>https://v.daum.net/v/20221122213748266</id>
-        <link href="https://v.daum.net/v/20221122213748266"/>
-        <updated>2022-11-22T13:35:35.419Z</updated>
-        <content type="html"><![CDATA[전주MBC]]></content>
     </entry>
 </feed>

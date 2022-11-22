@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-11-22T13:37:55.761Z</updated>
+    <updated>2022-11-22T14:22:39.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영국 경쟁당국, 애플·구글 모바일 브라우저 독점 심층조사]]></title>
+        <id>https://v.daum.net/v/20221122215247565</id>
+        <link href="https://v.daum.net/v/20221122215247565"/>
+        <updated>2022-11-22T14:21:30.891Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바이든, "좋은 기자는 부정적 견해 있어야"]]></title>
+        <id>https://v.daum.net/v/20221122214314357</id>
+        <link href="https://v.daum.net/v/20221122214314357"/>
+        <updated>2022-11-22T14:21:30.893Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해리스 방문에 마르코스 “미국 없는 필리핀 상상 못해” 화답]]></title>
         <id>https://v.daum.net/v/20221122214630434</id>
@@ -20,7 +34,7 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일 전문가 “적기지 공격 능력 필수”…전후 안보전략 확 바꾼다]]></title>
+        <title type="html"><![CDATA[일 정부 소집 전문가회의 “적기지 공격력 필수”…안보 틀 확 바뀐다]]></title>
         <id>https://v.daum.net/v/20221122212503998</id>
         <link href="https://v.daum.net/v/20221122212503998"/>
         <updated>2022-11-22T13:36:33.130Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20221122203832130"/>
         <updated>2022-11-22T12:43:29.219Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빈손 안보리' 올해만 10번째…'의장성명' 추진하는 미국]]></title>
-        <id>https://v.daum.net/v/20221122202908982</id>
-        <link href="https://v.daum.net/v/20221122202908982"/>
-        <updated>2022-11-22T12:43:29.220Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9개월 견뎌온 우크라, 추위와 단전의 4개월 '겨울 터널' 속으로]]></title>
-        <id>https://v.daum.net/v/20221122202628942</id>
-        <link href="https://v.daum.net/v/20221122202628942"/>
-        <updated>2022-11-22T12:43:29.221Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
