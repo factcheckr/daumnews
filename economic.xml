@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-11-22T14:22:39.151Z</updated>
+    <updated>2022-11-22T15:25:51.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[OECD, 중국 올해 3.3%·내년 4.6% 성장 예상]]></title>
+        <id>https://v.daum.net/v/20221123001531631</id>
+        <link href="https://v.daum.net/v/20221123001531631"/>
+        <updated>2022-11-22T15:24:05.410Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘앱 추적 금지’ 시행한 애플…오히려 광고 수익 창출 ‘묘수’가 되다[미국주식사관학교의 해외투자 야전교범]]]></title>
         <id>https://v.daum.net/v/20221122220834852</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221122220008691"/>
         <updated>2022-11-22T13:36:03.820Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융현안에 목소리 높이는 이복현, 위기 해결사냐 관치금융 신봉자냐]]></title>
-        <id>https://v.daum.net/v/20221122215658631</id>
-        <link href="https://v.daum.net/v/20221122215658631"/>
-        <updated>2022-11-22T13:36:03.823Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
