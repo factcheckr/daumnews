@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-11-23T17:20:31.735Z</updated>
+    <updated>2022-11-23T18:27:26.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나흘간 18만명… 2시간 기다려야 게임체험, 그래도 줄섰다]]></title>
+        <id>https://v.daum.net/v/20221124030316906</id>
+        <link href="https://v.daum.net/v/20221124030316906"/>
+        <updated>2022-11-23T18:26:35.672Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트위터·메타 '대량 해고'에…"잘리면 오세요" 틱톡 속내는]]></title>
         <id>https://v.daum.net/v/20221123220101163</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221123185801708"/>
         <updated>2022-11-23T10:23:46.101Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠팡이츠 라이더, 우루과이전 파업 예고…"배달 대란 우려"]]></title>
-        <id>https://v.daum.net/v/20221123183843336</id>
-        <link href="https://v.daum.net/v/20221123183843336"/>
-        <updated>2022-11-23T10:23:46.102Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>

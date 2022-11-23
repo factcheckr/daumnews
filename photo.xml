@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-11-23T17:20:31.739Z</updated>
+    <updated>2022-11-23T18:27:26.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘케이블 나무’]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/bL3uLQmBK3</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/bL3uLQmBK3"/>
+        <updated>2022-11-23T18:26:53.523Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대장동 핵심 김만배 ‘석방’[청계천 옆 사진관]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/344179/xeUPgzLZ2Z</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1476/5ycmDeA0kq"/>
         <updated>2022-11-23T07:20:42.222Z</updated>
         <content type="html"><![CDATA[미국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환영사 하는 정상화 공군참모총장]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033571/PJpaa8nXl8</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033571/PJpaa8nXl8"/>
-        <updated>2022-11-23T06:27:06.662Z</updated>
-        <content type="html"><![CDATA[대한민국 공군]]></content>
     </entry>
 </feed>
