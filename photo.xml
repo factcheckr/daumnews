@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-11-23T09:23:06.583Z</updated>
+    <updated>2022-11-23T10:24:30.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[축구 너머에도 세상이]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/182540/KrxAPtxvJE</id>
+        <link href="https://gallery.v.daum.net/p/viewer/182540/KrxAPtxvJE"/>
+        <updated>2022-11-23T10:24:02.196Z</updated>
+        <content type="html"><![CDATA[옵스큐라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울대병원 파업 첫 날, 하염없이 기다리는 환자들[청계천 옆 사진관]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/344179/46h8GAXe9z</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2904/qbM20S1iNK"/>
         <updated>2022-11-23T06:27:06.673Z</updated>
         <content type="html"><![CDATA[프랑스 마크롱 대통령]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울의료원서 펼쳐진 재난대응 안전한국훈련]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5610796/GZ1k1IHRgl</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5610796/GZ1k1IHRgl"/>
-        <updated>2022-11-23T06:27:06.675Z</updated>
-        <content type="html"><![CDATA[모멘트]]></content>
     </entry>
 </feed>
