@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-11-24T14:21:03.788Z</updated>
+    <updated>2022-11-24T15:23:47.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[광화문에 울려 퍼진 ‘대한민국’… 거리두기 해제 후 첫 월드컵 거리응원 [밀착취재]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5620487/4OxbN8D7tF</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5620487/4OxbN8D7tF"/>
+        <updated>2022-11-24T15:23:16.444Z</updated>
+        <content type="html"><![CDATA[밀착취재]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['뜨거운 함성으로' [쿠키포토]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5620091/V55Dj6wz5v</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1397984/VzpaNqo5Kx"/>
         <updated>2022-11-24T08:27:27.539Z</updated>
         <content type="html"><![CDATA[퇴근길 한 컷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차이잉원 대만 총통, 지방선거서 민진당 지지 호소]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033115/3s0y9SBEAe</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033115/3s0y9SBEAe"/>
-        <updated>2022-11-24T07:20:25.352Z</updated>
-        <content type="html"><![CDATA[대만 차이잉원 총통]]></content>
     </entry>
 </feed>
