@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-11-24T13:36:02.780Z</updated>
+    <updated>2022-11-24T14:21:03.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DAXA, 위믹스 '상장폐지' 결론…"유통량 공시 오류·신뢰 훼손"(상보)]]></title>
+        <id>https://v.daum.net/v/20221124195243904</id>
+        <link href="https://v.daum.net/v/20221124195243904"/>
+        <updated>2022-11-24T14:20:25.346Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“중국에 ‘몰빵’하더니 이런일까지…” 아이폰 ‘날벼락’ 무슨일]]></title>
         <id>https://v.daum.net/v/20221124195105852</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221124172404056"/>
         <updated>2022-11-24T09:21:24.675Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월드컵 첫 경기 노린 배달노조 파업, 업계선 "영향 미미할 듯"]]></title>
-        <id>https://v.daum.net/v/20221124172056937</id>
-        <link href="https://v.daum.net/v/20221124172056937"/>
-        <updated>2022-11-24T09:21:24.678Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
