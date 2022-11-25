@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-11-25T12:40:29.313Z</updated>
+    <updated>2022-11-25T13:30:58.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김치코인, 졸속상장 의혹…발행사·VC 수십배 수익]]></title>
+        <id>https://v.daum.net/v/20221125182603803</id>
+        <link href="https://v.daum.net/v/20221125182603803"/>
+        <updated>2022-11-25T13:30:26.932Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여야 갈등 도화선 ‘공영방송 지배구조’ 논의 본격화]]></title>
         <id>https://v.daum.net/v/20221125172531599</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221125161736870"/>
         <updated>2022-11-25T08:27:30.039Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["-1억" 위믹스 투자자들 충격·분노·절망…일부는 "끝까지 믿는다"]]></title>
-        <id>https://v.daum.net/v/20221125155055159</id>
-        <link href="https://v.daum.net/v/20221125155055159"/>
-        <updated>2022-11-25T12:40:00.857Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
