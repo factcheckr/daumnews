@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2022-11-25T16:30:45.972Z</updated>
+    <updated>2022-11-25T17:21:00.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[검찰, '금품 제공 혐의' 조영달 前서울교육감 후보 구속]]></title>
+        <id>https://v.daum.net/v/20221126014222088</id>
+        <link href="https://v.daum.net/v/20221126014222088"/>
+        <updated>2022-11-25T17:18:10.166Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조영달 전 서울대 교수 구속…교육감 선거 당시 금품 제공 혐의]]></title>
+        <id>https://v.daum.net/v/20221126013318062</id>
+        <link href="https://v.daum.net/v/20221126013318062"/>
+        <updated>2022-11-25T17:18:10.170Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EU "美인플레법 해법 신속 도출되길…우리가 원하는건 동등대우"]]></title>
         <id>https://v.daum.net/v/20221126012521029</id>
@@ -130,19 +144,5 @@
         <link href="https://v.daum.net/v/20221125220507524"/>
         <updated>2022-11-25T16:27:45.295Z</updated>
         <content type="html"><![CDATA[경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘#이재명과 정치공동체’ 민주 최고위서 李방탄 캠페인 참여 호소]]></title>
-        <id>https://v.daum.net/v/20221125223143139</id>
-        <link href="https://v.daum.net/v/20221125223143139"/>
-        <updated>2022-11-25T16:27:45.298Z</updated>
-        <content type="html"><![CDATA[정치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與 윤리위, '이태원 참사' 박희영 용산구청장 징계절차 개시]]></title>
-        <id>https://v.daum.net/v/20221125220301451</id>
-        <link href="https://v.daum.net/v/20221125220301451"/>
-        <updated>2022-11-25T14:18:03.952Z</updated>
-        <content type="html"><![CDATA[정치]]></content>
     </entry>
 </feed>
