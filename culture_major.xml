@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-11-25T08:28:06.503Z</updated>
+    <updated>2022-11-25T09:21:45.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 ‘알로하, 나의 엄마들’, 하와이 사진신부들의 우정과 모성애]]></title>
+        <id>https://v.daum.net/v/20221125163708411</id>
+        <link href="https://v.daum.net/v/20221125163708411"/>
+        <updated>2022-11-25T09:21:04.565Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정호승 시인 “반송할 수 없는 죽음에 대하여”[박주연의 메타뷰](26)]]></title>
         <id>https://v.daum.net/v/20221125163129254</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221125142950645"/>
         <updated>2022-11-25T06:32:42.527Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안녕, 사진 - 80대부터 20대까지 한국 대표 사진작가 26인]]></title>
-        <id>https://v.daum.net/v/20221125142051354</id>
-        <link href="https://v.daum.net/v/20221125142051354"/>
-        <updated>2022-11-25T06:32:42.528Z</updated>
-        <content type="html"><![CDATA[중앙SUNDAY]]></content>
     </entry>
 </feed>
