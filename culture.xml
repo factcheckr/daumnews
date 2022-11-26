@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-11-26T13:27:10.898Z</updated>
+    <updated>2022-11-26T14:19:31.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코 '이렇게' 고는 사람, 자는 중 돌연사할 수도]]></title>
+        <id>https://v.daum.net/v/20221126230018649</id>
+        <link href="https://v.daum.net/v/20221126230018649"/>
+        <updated>2022-11-26T14:18:29.631Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 갑자기 찾아온 한파…내일 아침 서울 영하 1도]]></title>
         <id>https://v.daum.net/v/20221126221506169</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221126200900060"/>
         <updated>2022-11-26T12:38:09.876Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 서울 첫 영하권, 반짝 황사 물러가‥비 온뒤 한파 더 심해져]]></title>
-        <id>https://v.daum.net/v/20221126203440311</id>
-        <link href="https://v.daum.net/v/20221126203440311"/>
-        <updated>2022-11-26T12:38:09.877Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
