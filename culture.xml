@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-11-26T19:18:16.131Z</updated>
+    <updated>2022-11-26T20:22:41.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아침마다 얼굴 빵빵… 부기 빼는 ‘이 식품’ 어때?]]></title>
+        <id>https://v.daum.net/v/20221127050019820</id>
+        <link href="https://v.daum.net/v/20221127050019820"/>
+        <updated>2022-11-26T20:21:29.647Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인프루언서 프리즘] 복잡한 데이터 한 눈에 정리하는 '데이터 시각화' 유튜브 '인기']]></title>
         <id>https://v.daum.net/v/20221127000033173</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221126204245383"/>
         <updated>2022-11-26T12:38:09.874Z</updated>
         <content type="html"><![CDATA[대구MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['완벽한 김치' 위해 배추밭 찾았지만... 식당의 꿈을 접다 [이제 겨우 절반 살았을 뿐입니다]]]></title>
-        <id>https://v.daum.net/v/20221126200900060</id>
-        <link href="https://v.daum.net/v/20221126200900060"/>
-        <updated>2022-11-26T12:38:09.876Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
