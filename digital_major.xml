@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-11-27T08:26:59.523Z</updated>
+    <updated>2022-11-27T09:21:27.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[상폐 ‘제2의 위믹스’ 막으려면…회계기준 정립 vs 투자자보호 의지]]></title>
+        <id>https://v.daum.net/v/20221127155008894</id>
+        <link href="https://v.daum.net/v/20221127155008894"/>
+        <updated>2022-11-27T09:20:49.904Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["업비트, 다른 코인은 유통량 정보 수정"…위믹스 커뮤니티 '시끌']]></title>
         <id>https://v.daum.net/v/20221127152235480</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221127092013535"/>
         <updated>2022-11-27T05:22:38.785Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[체험기]네이버 '아크버스' 통해 조선시대로…세종대왕과 투샷]]></title>
-        <id>https://v.daum.net/v/20221127090110339</id>
-        <link href="https://v.daum.net/v/20221127090110339"/>
-        <updated>2022-11-27T04:26:07.519Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
