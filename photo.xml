@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-11-27T19:20:41.610Z</updated>
+    <updated>2022-11-27T20:22:32.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추위 성큼… 길게 매달린 고드름]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1783949/0HtmcjHRU8</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1783949/0HtmcjHRU8"/>
+        <updated>2022-11-27T20:22:01.490Z</updated>
+        <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가나 잡고 16강 간다]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/5Bvpx6wzFe</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/5Bvpx6wzFe"/>
+        <updated>2022-11-27T20:22:01.500Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뭐가 보이나요?]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/3D7UYTKwBE</id>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1473/Zm3h99j3Ad"/>
         <updated>2022-11-27T05:22:48.454Z</updated>
         <content type="html"><![CDATA[교통사고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 달 앞둔 이태원 참사 현장]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5644531/FRp0ttxvNz</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5644531/FRp0ttxvNz"/>
-        <updated>2022-11-27T05:22:48.456Z</updated>
-        <content type="html"><![CDATA[이태원 대형인명 사고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["5·18유공자 명단, 이미 공개"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/2603/6mnsppdYas</id>
-        <link href="https://gallery.v.daum.net/p/viewer/2603/6mnsppdYas"/>
-        <updated>2022-11-27T05:22:48.467Z</updated>
-        <content type="html"><![CDATA[광주 민주화항쟁]]></content>
     </entry>
 </feed>
