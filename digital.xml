@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-11-29T13:33:24.102Z</updated>
+    <updated>2022-11-29T14:21:10.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전국 대부분 한파경보...겨울철 차량 관리법 살펴보니]]></title>
+        <id>https://v.daum.net/v/20221129223301273</id>
+        <link href="https://v.daum.net/v/20221129223301273"/>
+        <updated>2022-11-29T14:20:25.344Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[달·화성 자원 개발 위해 룩셈부르크와 맞손]]></title>
         <id>https://v.daum.net/v/20221129220858981</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["워치로 결제 가능"…'애플페이' 기대감 폭발했지만 '갸우뚱' [애플페이 상륙(1)]]]></title>
+        <title type="html"><![CDATA["8년을 기다렸다"…'애플페이' 기대감 폭발했지만 '갸우뚱' [애플페이 상륙(1)]]]></title>
         <id>https://v.daum.net/v/20221129210102980</id>
         <link href="https://v.daum.net/v/20221129210102980"/>
         <updated>2022-11-29T12:40:00.323Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221129190430880"/>
         <updated>2022-11-29T10:23:55.834Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국연구재단, 자폐·우울증 치료법 단서 찾았다]]></title>
-        <id>https://v.daum.net/v/20221129185859760</id>
-        <link href="https://v.daum.net/v/20221129185859760"/>
-        <updated>2022-11-29T10:23:55.835Z</updated>
-        <content type="html"><![CDATA[대전일보]]></content>
     </entry>
 </feed>

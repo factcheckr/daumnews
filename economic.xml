@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-11-29T13:33:24.092Z</updated>
+    <updated>2022-11-29T14:21:10.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지금 파리엔 ‘부산엑스포’ 열망 휘날린다]]></title>
+        <id>https://v.daum.net/v/20221129223606313</id>
+        <link href="https://v.daum.net/v/20221129223606313"/>
+        <updated>2022-11-29T14:19:35.035Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대치동 학군 수요 ‘잠잠’…반포 전세 9억 ‘뚝’]]></title>
         <id>https://v.daum.net/v/20221129221514077</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221129215335707"/>
         <updated>2022-11-29T13:31:59.823Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안덕근 통상본부장, 파리 찾아 IRA 대응 요청]]></title>
-        <id>https://v.daum.net/v/20221129214157549</id>
-        <link href="https://v.daum.net/v/20221129214157549"/>
-        <updated>2022-11-29T13:31:59.828Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
