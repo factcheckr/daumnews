@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-11-29T21:21:19.358Z</updated>
+    <updated>2022-11-29T22:21:37.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이폰 생산차질에도 핵심 부품사 LG이노텍 잘 나가는 이유]]></title>
+        <id>https://v.daum.net/v/20221130060118260</id>
+        <link href="https://v.daum.net/v/20221130060118260"/>
+        <updated>2022-11-29T22:20:56.315Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 과학자들, 동양인 조울증 유전자 밝힌다]]></title>
         <id>https://v.daum.net/v/20221130060051223</id>
@@ -48,7 +55,7 @@
         <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[만나도 놀라지 마세요… 배달로봇이 골목을 누빕니다]]></title>
+        <title type="html"><![CDATA[혼자 움직이는 이 로봇 봐도 놀라지 마세요]]></title>
         <id>https://v.daum.net/v/20221130030343442</id>
         <link href="https://v.daum.net/v/20221130030343442"/>
         <updated>2022-11-29T21:20:39.515Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221129174004584"/>
         <updated>2022-11-29T20:23:31.157Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[승객도 태우고, 화물도 나르고…다목적 자율주행차 시동]]></title>
-        <id>https://v.daum.net/v/20221130000247097</id>
-        <link href="https://v.daum.net/v/20221130000247097"/>
-        <updated>2022-11-29T20:23:31.161Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
