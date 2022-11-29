@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-11-29T12:40:45.992Z</updated>
+    <updated>2022-11-29T13:33:24.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["삼성페이 부러워"…8년 참은 애플페이 '기대감 폭발'했지만 [애플페이 상륙(1)]]]></title>
+        <title type="html"><![CDATA[달·화성 자원 개발 위해 룩셈부르크와 맞손]]></title>
+        <id>https://v.daum.net/v/20221129220858981</id>
+        <link href="https://v.daum.net/v/20221129220858981"/>
+        <updated>2022-11-29T13:32:45.358Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["워치로 결제 가능"…'애플페이' 기대감 폭발했지만 '갸우뚱' [애플페이 상륙(1)]]]></title>
         <id>https://v.daum.net/v/20221129210102980</id>
         <link href="https://v.daum.net/v/20221129210102980"/>
         <updated>2022-11-29T12:40:00.323Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221129185859760"/>
         <updated>2022-11-29T10:23:55.835Z</updated>
         <content type="html"><![CDATA[대전일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["망 중립성, 전기통신사업법 개정으로 법제화해야"(종합)]]></title>
-        <id>https://v.daum.net/v/20221129185107584</id>
-        <link href="https://v.daum.net/v/20221129185107584"/>
-        <updated>2022-11-29T10:23:55.836Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

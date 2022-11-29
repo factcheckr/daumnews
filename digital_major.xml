@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-11-29T12:40:45.964Z</updated>
+    <updated>2022-11-29T13:33:24.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["망 중립성, 전기통신사업법 개정으로 법제화해야"(종합)]]></title>
+        <id>https://v.daum.net/v/20221129185107584</id>
+        <link href="https://v.daum.net/v/20221129185107584"/>
+        <updated>2022-11-29T13:32:53.173Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“망 이용료 분쟁 조정할 최소한의 규제 만들자”]]></title>
         <id>https://v.daum.net/v/20221129184328389</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221129170304235"/>
         <updated>2022-11-29T09:21:43.791Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생체 요소 엔지니어링?...미래 바이오 열쇠, 합성생물학 키운다]]></title>
-        <id>https://v.daum.net/v/20221129170018110</id>
-        <link href="https://v.daum.net/v/20221129170018110"/>
-        <updated>2022-11-29T08:28:57.546Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
