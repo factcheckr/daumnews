@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-11-29T11:19:36.186Z</updated>
+    <updated>2022-11-29T12:40:45.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["삼성페이 부러워"…8년 참은 애플페이 '기대감 폭발'했지만 [애플페이 상륙(1)]]]></title>
+        <id>https://v.daum.net/v/20221129210102980</id>
+        <link href="https://v.daum.net/v/20221129210102980"/>
+        <updated>2022-11-29T12:40:00.323Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전기통신법 개정 논의 착수…'자율이냐 규제냐']]></title>
         <id>https://v.daum.net/v/20221129195804923</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221129185107584"/>
         <updated>2022-11-29T10:23:55.836Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“망 이용료 분쟁 조정할 최소한의 규제 만들자”]]></title>
-        <id>https://v.daum.net/v/20221129184328389</id>
-        <link href="https://v.daum.net/v/20221129184328389"/>
-        <updated>2022-11-29T10:23:55.841Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
