@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-11-30T10:27:24.250Z</updated>
+    <updated>2022-11-30T11:19:54.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["유찰, 또 유찰" 서울옥션 홍콩서 망신…한국만 외면당했다]]></title>
+        <id>https://v.daum.net/v/20221130182002597</id>
+        <link href="https://v.daum.net/v/20221130182002597"/>
+        <updated>2022-11-30T11:18:57.643Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[틸레만 끌고, 이지윤 밀고…빛나는 브람스 합작[강진아의 이 공연Pick]]]></title>
         <id>https://v.daum.net/v/20221130181940590</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221130163645941"/>
         <updated>2022-11-30T09:23:16.905Z</updated>
         <content type="html"><![CDATA[농민신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[저녁잇슈] 2022년 11월 30일 수요일]]></title>
-        <id>https://v.daum.net/v/20221130163005620</id>
-        <link href="https://v.daum.net/v/20221130163005620"/>
-        <updated>2022-11-30T08:27:42.048Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
