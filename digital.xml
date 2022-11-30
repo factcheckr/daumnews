@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-11-30T19:19:37.317Z</updated>
+    <updated>2022-11-30T20:24:18.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[블랙홀이 별 잡아먹고 물질 분출하는 극히 드문 현상 포착]]></title>
-        <id>https://v.daum.net/v/20221201010105829</id>
-        <link href="https://v.daum.net/v/20221201010105829"/>
-        <updated>2022-11-30T16:30:56.691Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[의사과학자, 누가 어떻게 키울까?]]></title>
         <id>https://v.daum.net/v/20221130221458279</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20221130190001512"/>
         <updated>2022-11-30T10:26:35.734Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“후불결제, 카드랑 똑같이 규제”…전금법 개정안에 카드사 입김 논란]]></title>
+        <id>https://v.daum.net/v/20221130185350379</id>
+        <link href="https://v.daum.net/v/20221130185350379"/>
+        <updated>2022-11-30T20:23:22.725Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
