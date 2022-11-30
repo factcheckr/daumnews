@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2022-11-30T15:24:37.716Z</updated>
+    <updated>2022-11-30T16:31:46.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20221201000141355"/>
         <updated>2022-11-30T15:22:37.814Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여야, 예산안 시한 앞두고 막판 담판…법정시한 준수 '빨간불'(종합)]]></title>
+        <id>https://v.daum.net/v/20221130225354682</id>
+        <link href="https://v.daum.net/v/20221130225354682"/>
+        <updated>2022-11-30T16:29:32.621Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박진, 美싱크탱크 'CSIS 대표단' 접견…"인태 전략 지지 요청"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221201000000302"/>
         <updated>2022-11-30T15:22:37.819Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마지막 날에도 예결위 합의 불발…예산 법정기한 넘길듯]]></title>
-        <id>https://v.daum.net/v/20221130232414067</id>
-        <link href="https://v.daum.net/v/20221130232414067"/>
-        <updated>2022-11-30T15:22:37.819Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

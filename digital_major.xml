@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-11-30T15:24:37.759Z</updated>
+    <updated>2022-11-30T16:31:46.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“후불결제, 카드랑 똑같이 규제”…전금법 개정안에 카드사 입김 논란]]></title>
+        <id>https://v.daum.net/v/20221130185350379</id>
+        <link href="https://v.daum.net/v/20221130185350379"/>
+        <updated>2022-11-30T16:31:06.311Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전기통신사업법 전부개정한다는데…‘토론회’는 뒷말]]></title>
         <id>https://v.daum.net/v/20221130180108928</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221130165247580"/>
         <updated>2022-11-30T09:23:39.877Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월드컵 뒤흔든 AI 판정, FIFA는 어떻게 확신가졌나]]></title>
-        <id>https://v.daum.net/v/20221130165053504</id>
-        <link href="https://v.daum.net/v/20221130165053504"/>
-        <updated>2022-11-30T08:28:03.427Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>

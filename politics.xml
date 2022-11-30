@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2022-11-30T15:24:37.726Z</updated>
+    <updated>2022-11-30T16:31:46.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[예결위 마지막날 합의 불발…간사·원내대표 투트랙 심사 계속]]></title>
+        <id>https://v.daum.net/v/20221201002133574</id>
+        <link href="https://v.daum.net/v/20221201002133574"/>
+        <updated>2022-11-30T16:29:21.042Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘탄핵하기엔 아직…’ 민주, 막판 ‘先 해임건의안’ 결정]]></title>
         <id>https://v.daum.net/v/20221201000507436</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221130231804005"/>
         <updated>2022-11-30T15:22:26.871Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여야, 예산안 시한 앞두고 막판 담판…법정시한 준수 '빨간불'(종합)]]></title>
-        <id>https://v.daum.net/v/20221130225354682</id>
-        <link href="https://v.daum.net/v/20221130225354682"/>
-        <updated>2022-11-30T14:19:03.503Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
