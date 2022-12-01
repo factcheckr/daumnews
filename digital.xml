@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-12-01T11:20:34.824Z</updated>
+    <updated>2022-12-01T12:44:02.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개인정보보호법 개정 임박…“전송요구권 신중 검토해야”]]></title>
+        <id>https://v.daum.net/v/20221201211323089</id>
+        <link href="https://v.daum.net/v/20221201211323089"/>
+        <updated>2022-12-01T12:43:21.038Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“막내아들 얼마나 대단하길래?” 5년 전 ‘이것’까지 먹여살렸다]]></title>
+        <id>https://v.daum.net/v/20221201204052602</id>
+        <link href="https://v.daum.net/v/20221201204052602"/>
+        <updated>2022-12-01T12:43:21.039Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['전송요구권' 대상 개인정보는?…"상시 운영 협의체서 설정해야" [데이터링]]]></title>
         <id>https://v.daum.net/v/20221201200259065</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20221201185618043"/>
         <updated>2022-12-01T10:25:53.624Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“중국·호주, 대학에 兆단위 투자···한국 등록금은 사립유치원만도 못해” [AKC 2022 韓·亞 과학기술 토크콘서트]]]></title>
-        <id>https://v.daum.net/v/20221201175045357</id>
-        <link href="https://v.daum.net/v/20221201175045357"/>
-        <updated>2022-12-01T10:25:53.626Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["넷플릭스 잡으려다 국내기업 죽인다”…저작권법 개정에 일제 '반발']]></title>
-        <id>https://v.daum.net/v/20221201185011954</id>
-        <link href="https://v.daum.net/v/20221201185011954"/>
-        <updated>2022-12-01T10:25:53.627Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
