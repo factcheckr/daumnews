@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-12-01T13:39:50.366Z</updated>
+    <updated>2022-12-01T14:21:18.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화물연대 총파업, 주말 분수령…정부 "업무개시명령 효과"]]></title>
+        <id>https://v.daum.net/v/20221201225306110</id>
+        <link href="https://v.daum.net/v/20221201225306110"/>
+        <updated>2022-12-01T14:19:36.582Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 완성차 5개사, 11월 총 65만5419대 판매…실적 선방]]></title>
         <id>https://v.daum.net/v/20221201222700915</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221201220508705"/>
         <updated>2022-12-01T13:38:09.518Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부동산 가격 급등에 가구당 평균 자산 2년 연속 상승]]></title>
-        <id>https://v.daum.net/v/20221201220122661</id>
-        <link href="https://v.daum.net/v/20221201220122661"/>
-        <updated>2022-12-01T13:38:09.520Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
