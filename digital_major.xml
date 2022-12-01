@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-01T19:19:49.173Z</updated>
+    <updated>2022-12-01T20:22:08.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20221202030238455"/>
         <updated>2022-12-01T18:38:26.704Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사이테크+] 몽골서 '다이빙 새' 닮은 반수생 육식 두발 공룡 첫 발견]]></title>
+        <id>https://v.daum.net/v/20221202010104466</id>
+        <link href="https://v.daum.net/v/20221202010104466"/>
+        <updated>2022-12-01T20:21:28.322Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘바이러스 4종·40분 만에 진단’ PCR 기기 개발]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221201175045357"/>
         <updated>2022-12-01T12:43:28.834Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["넷플릭스 잡으려다 국내기업 죽인다”…저작권법 개정에 일제 '반발']]></title>
-        <id>https://v.daum.net/v/20221201185011954</id>
-        <link href="https://v.daum.net/v/20221201185011954"/>
-        <updated>2022-12-01T12:43:28.838Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
