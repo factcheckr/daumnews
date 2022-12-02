@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-12-02T12:37:33.034Z</updated>
+    <updated>2022-12-02T13:27:13.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다누리 17일 달 궤도 진입 순항…“실시간 위치 확인”]]></title>
+        <id>https://v.daum.net/v/20221202215729265</id>
+        <link href="https://v.daum.net/v/20221202215729265"/>
+        <updated>2022-12-02T13:26:29.220Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“한국은 이상한 나라” 남성 의무된 ‘포경수술’ 세계적 조롱거리?]]></title>
         <id>https://v.daum.net/v/20221202205413657</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221202180041338"/>
         <updated>2022-12-02T09:20:14.352Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“넷플릭스 말고, 우린 어때요?” 제니 암시 ‘이것’ 한국 상륙 임박]]></title>
-        <id>https://v.daum.net/v/20221202175116107</id>
-        <link href="https://v.daum.net/v/20221202175116107"/>
-        <updated>2022-12-02T09:20:14.356Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
