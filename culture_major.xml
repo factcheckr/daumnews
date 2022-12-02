@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-12-02T03:27:49.554Z</updated>
+    <updated>2022-12-02T04:25:53.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KBS 다누리 특집 사이트 ‘다누리 MOON을 열다’ 개설]]></title>
+        <id>https://v.daum.net/v/20221202110538103</id>
+        <link href="https://v.daum.net/v/20221202110538103"/>
+        <updated>2022-12-02T04:24:59.770Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[애니청원] "들고양이도 사람 곁에 머무는 동물… 안락사 이외의 해법 찾아야"]]></title>
         <id>https://v.daum.net/v/20221202110012888</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221202094120610"/>
         <updated>2022-12-02T01:36:19.686Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“동물원법, 고통·공포·스트레스 금지”…동물카페 학대 사라질까]]></title>
-        <id>https://v.daum.net/v/20221202050608824</id>
-        <link href="https://v.daum.net/v/20221202050608824"/>
-        <updated>2022-12-02T03:26:43.907Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
