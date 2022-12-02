@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-12-02T15:20:27.591Z</updated>
+    <updated>2022-12-02T16:28:58.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한반도의 아프리카인을 포착하다]]></title>
+        <id>https://v.daum.net/v/20221202220600360</id>
+        <link href="https://v.daum.net/v/20221202220600360"/>
+        <updated>2022-12-02T16:28:05.395Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바다 유리병 쓰레기가 예술작품으로]]></title>
         <id>https://v.daum.net/v/20221202213301051</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221202190505266"/>
         <updated>2022-12-02T12:36:42.028Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[D리포트] 103세 철학자가 본 "행복이란 무엇인가?"]]></title>
-        <id>https://v.daum.net/v/20221202184811096</id>
-        <link href="https://v.daum.net/v/20221202184811096"/>
-        <updated>2022-12-02T12:36:42.030Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
