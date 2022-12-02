@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-12-02T20:22:10.669Z</updated>
+    <updated>2022-12-02T21:19:28.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“잠자리 헬기는 없다”… 마르고 닳도록 쓴 500MD, 국산으로 바뀐다 [박수찬의 軍]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5620488/zvMi5cZdYg</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5620488/zvMi5cZdYg"/>
+        <updated>2022-12-02T21:18:51.307Z</updated>
+        <content type="html"><![CDATA[박수찬의 軍]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미라클 태극전사, 16강 문 깼다]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5032452/qypAMtxv75</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615613/fLljthzcQY"/>
         <updated>2022-12-02T08:25:57.165Z</updated>
         <content type="html"><![CDATA[노컷한컷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을 단상]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1120776/bhjhIgWQdp</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1120776/bhjhIgWQdp"/>
-        <updated>2022-12-02T08:25:57.166Z</updated>
-        <content type="html"><![CDATA[단풍 풍경]]></content>
     </entry>
 </feed>
