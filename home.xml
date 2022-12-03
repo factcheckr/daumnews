@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2022-12-03T16:27:27.739Z</updated>
+    <updated>2022-12-03T17:18:17.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올겨울 순환정전 대비하는 프랑스…"극단적 상황 가정한 것"]]></title>
+        <id>https://v.daum.net/v/20221204013110737</id>
+        <link href="https://v.daum.net/v/20221204013110737"/>
+        <updated>2022-12-03T17:15:47.430Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美상원의원 42명, 中에 경고…"시위 폭력 진압시 양국관계 훼손"]]></title>
         <id>https://v.daum.net/v/20221204011121668</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20221203204104415"/>
         <updated>2022-12-03T13:21:52.852Z</updated>
         <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금리 상승 속 유동성 위기..산단 계약업체 "중도금 늦춰달라"]]></title>
-        <id>https://v.daum.net/v/20221203211013592</id>
-        <link href="https://v.daum.net/v/20221203211013592"/>
-        <updated>2022-12-03T13:21:52.852Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
     </entry>
 </feed>
