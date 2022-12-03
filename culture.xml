@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-12-03T20:22:35.884Z</updated>
+    <updated>2022-12-03T21:18:05.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영상] 백 리 밖 풍경이 한눈에, 쉬엄쉬엄 돌면 가슴이 뻥]]></title>
+        <id>https://v.daum.net/v/20221204052914628</id>
+        <link href="https://v.daum.net/v/20221204052914628"/>
+        <updated>2022-12-03T21:17:09.546Z</updated>
+        <content type="html"><![CDATA[CJB청주방송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다이어트에 빈혈 예방까지… 겨울에 딱인 초록빛 '이 음식']]></title>
         <id>https://v.daum.net/v/20221204050019418</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221203210652563"/>
         <updated>2022-12-03T12:34:04.212Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낚시 금지된 곳인데···죽은 수달 몸에 낚시바늘 발견]]></title>
-        <id>https://v.daum.net/v/20221203210055521</id>
-        <link href="https://v.daum.net/v/20221203210055521"/>
-        <updated>2022-12-03T12:34:04.213Z</updated>
-        <content type="html"><![CDATA[대구MBC]]></content>
     </entry>
 </feed>

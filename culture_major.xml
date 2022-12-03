@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-12-03T20:22:35.894Z</updated>
+    <updated>2022-12-03T21:18:05.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[낚시 금지된 곳인데···죽은 수달 몸에 낚시바늘 발견]]></title>
+        <id>https://v.daum.net/v/20221203210055521</id>
+        <link href="https://v.daum.net/v/20221203210055521"/>
+        <updated>2022-12-03T21:17:18.447Z</updated>
+        <content type="html"><![CDATA[대구MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[OPEN 인터뷰]박보검‧임시완·최정…너와 나의 공통분모]]></title>
         <id>https://v.daum.net/v/20221203204510435</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221203113312154"/>
         <updated>2022-12-03T11:16:22.807Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주말&문화] 인간과 동물의 ‘눈맞춤’…세계가 반한 ‘사진 자화상’]]></title>
-        <id>https://v.daum.net/v/20221203220343853</id>
-        <link href="https://v.daum.net/v/20221203220343853"/>
-        <updated>2022-12-03T19:15:55.351Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
