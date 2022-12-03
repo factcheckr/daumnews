@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-12-03T03:22:49.145Z</updated>
+    <updated>2022-12-03T04:25:31.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中 코로나19 신규 확진자 5일 연속 하락세…봉쇄 완화 기대감]]></title>
+        <id>https://v.daum.net/v/20221203112958119</id>
+        <link href="https://v.daum.net/v/20221203112958119"/>
+        <updated>2022-12-03T04:24:14.372Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머스크가 애플에 화내는 진짜 이유… 결국 자율주행 싸움?]]></title>
         <id>https://v.daum.net/v/20221203111807035</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221203100006245"/>
         <updated>2022-12-03T02:39:29.004Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스프] 시위에 놀란 시진핑, '제로코로나' 포기할까?]]></title>
-        <id>https://v.daum.net/v/20221203090600754</id>
-        <link href="https://v.daum.net/v/20221203090600754"/>
-        <updated>2022-12-03T02:39:29.005Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
