@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-12-03T14:18:13.685Z</updated>
+    <updated>2022-12-03T15:21:09.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["도시에서 힘들게 사는 분들, 제 이야기 들어보실래요"]]></title>
+        <id>https://v.daum.net/v/20221203113617187</id>
+        <link href="https://v.daum.net/v/20221203113617187"/>
+        <updated>2022-12-03T15:19:58.065Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ESC] 와인 한 잔에 천 년 이야기 타래 정도는 가뿐하지]]></title>
         <id>https://v.daum.net/v/20221203193014016</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221203161001633"/>
         <updated>2022-12-03T11:16:22.811Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성종의 심심함은 ‘심술’ 때문]]></title>
-        <id>https://v.daum.net/v/20221203144303686</id>
-        <link href="https://v.daum.net/v/20221203144303686"/>
-        <updated>2022-12-03T11:16:22.815Z</updated>
-        <content type="html"><![CDATA[한겨레21]]></content>
     </entry>
 </feed>

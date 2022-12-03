@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2022-12-03T14:18:13.678Z</updated>
+    <updated>2022-12-03T15:21:09.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강원 영서 한파특보 발령…5일까지 강추위]]></title>
+        <id>https://v.daum.net/v/20221203233209255</id>
+        <link href="https://v.daum.net/v/20221203233209255"/>
+        <updated>2022-12-03T15:18:01.991Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매장서 햄버거 먹을 때 광고지에 케첩 짜놓는다면, 주의!]]></title>
         <id>https://v.daum.net/v/20221203230018161</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20221203210016518"/>
         <updated>2022-12-03T12:32:50.100Z</updated>
         <content type="html"><![CDATA[정치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파업 지지' 민주노총 집회…"복귀 거부 기사, 제재" 경고]]></title>
-        <id>https://v.daum.net/v/20221203210008515</id>
-        <link href="https://v.daum.net/v/20221203210008515"/>
-        <updated>2022-12-03T12:32:50.110Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
     </entry>
 </feed>

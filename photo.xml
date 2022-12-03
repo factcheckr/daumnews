@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-12-03T14:18:13.703Z</updated>
+    <updated>2022-12-03T15:21:09.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘날강두’에서 ‘날두형’으로…호날두가 한국에 두 골을 안겨준 순간들[청계천 옆 사진관]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/344179/1kRst1QSf3</id>
+        <link href="https://gallery.v.daum.net/p/viewer/344179/1kRst1QSf3"/>
+        <updated>2022-12-03T15:20:35.401Z</updated>
+        <content type="html"><![CDATA[청계천 옆 사진관]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍천 한 공장서 불…1시간 만에 진화]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1518/zEDoFtxvA0</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5620469/5oWTx1QStG"/>
         <updated>2022-12-03T04:25:02.956Z</updated>
         <content type="html"><![CDATA[가봤더니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미라클 태극전사, 16강 문 깼다]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5032452/qypAMtxv75</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5032452/qypAMtxv75"/>
-        <updated>2022-12-02T20:21:37.219Z</updated>
-        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
     </entry>
 </feed>
