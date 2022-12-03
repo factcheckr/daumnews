@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-12-03T04:25:31.115Z</updated>
+    <updated>2022-12-03T05:18:51.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[농협중앙회장 연임제 둘러싼 논란 가열...찬반 의견 '분분']]></title>
+        <id>https://v.daum.net/v/20221203120017373</id>
+        <link href="https://v.daum.net/v/20221203120017373"/>
+        <updated>2022-12-03T05:17:29.948Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자동차도 월동준비 필수…1순위는 '배터리 점검']]></title>
         <id>https://v.daum.net/v/20221203120014370</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221203104108700"/>
         <updated>2022-12-03T02:39:09.273Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부진경자구역 '견고한 성장'…지난해 고용 23%·매출 27%↑]]></title>
-        <id>https://v.daum.net/v/20221203103841678</id>
-        <link href="https://v.daum.net/v/20221203103841678"/>
-        <updated>2022-12-03T02:39:09.276Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
     </entry>
 </feed>
