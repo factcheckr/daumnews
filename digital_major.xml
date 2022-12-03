@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-03T10:22:15.365Z</updated>
+    <updated>2022-12-03T11:17:24.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[펭하! 한국 과학자들, 펭귄처럼 잠수했던 공룡 찾았다]]></title>
+        <id>https://v.daum.net/v/20221203134950060</id>
+        <link href="https://v.daum.net/v/20221203134950060"/>
+        <updated>2022-12-03T11:16:40.736Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 12년 만에 '16강' 진출 현장…네이버서 1153만명 봤다]]></title>
+        <id>https://v.daum.net/v/20221203132153820</id>
+        <link href="https://v.daum.net/v/20221203132153820"/>
+        <updated>2022-12-03T11:16:40.737Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[달콤한 사이언스] 청동기 시대 아이들이 가장 원했던 선물, 알고보니…]]></title>
         <id>https://v.daum.net/v/20221203130102700</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20221203090022649"/>
         <updated>2022-12-03T02:40:05.612Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주말N수학] 필즈상 수상자도 놀랐다...정수론 난제 해결한 고3]]></title>
-        <id>https://v.daum.net/v/20221203060026630</id>
-        <link href="https://v.daum.net/v/20221203060026630"/>
-        <updated>2022-12-03T02:40:05.614Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아무Tech]'길 잃기 어려워진 시대' 만든 GPS…상대성이론도 쓰인다]]></title>
-        <id>https://v.daum.net/v/20221203080033198</id>
-        <link href="https://v.daum.net/v/20221203080033198"/>
-        <updated>2022-12-03T10:21:40.881Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
