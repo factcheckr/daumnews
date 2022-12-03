@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-12-03T13:24:05.284Z</updated>
+    <updated>2022-12-03T14:18:13.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[혈관 70% 막혀도 전혀 모른다...뇌졸중·심근경색 '악마의 짝꿍' [건강한 가족]]]></title>
+        <id>https://v.daum.net/v/20221203215146781</id>
+        <link href="https://v.daum.net/v/20221203215146781"/>
+        <updated>2022-12-03T14:17:12.532Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 강원 중북부 한파경보…서울 영하 8도, 기온 '뚝']]></title>
         <id>https://v.daum.net/v/20221203211838631</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221203113617187"/>
         <updated>2022-12-03T11:16:12.608Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ESC] 와인 한 잔에 천 년 이야기 타래 정도는 가뿐하지]]></title>
-        <id>https://v.daum.net/v/20221203193014016</id>
-        <link href="https://v.daum.net/v/20221203193014016"/>
-        <updated>2022-12-03T11:16:12.609Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
