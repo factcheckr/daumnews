@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-12-04T12:36:46.611Z</updated>
+    <updated>2022-12-04T13:24:41.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘음악의 보석상자’ 무대 선 임윤찬…열도팬 2000명 눈·귀 사로잡았다]]></title>
+        <id>https://v.daum.net/v/20221204213116353</id>
+        <link href="https://v.daum.net/v/20221204213116353"/>
+        <updated>2022-12-04T13:23:37.909Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[벽화가 된 논바닥 그림… ‘민중미술’ 대가의 또 다른 시도]]></title>
         <id>https://v.daum.net/v/20221204211623259</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221204183921049"/>
         <updated>2022-12-04T10:20:55.934Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기계와 인간이 함께 그려낸 '가을의 초상']]></title>
-        <id>https://v.daum.net/v/20221204173612146</id>
-        <link href="https://v.daum.net/v/20221204173612146"/>
-        <updated>2022-12-04T11:18:48.056Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
