@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-12-04T14:20:33.938Z</updated>
+    <updated>2022-12-04T15:20:22.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[RM 못 말리는 미술 사랑, 첫 솔로 앨범에 최애 작가 목소리]]></title>
+        <id>https://v.daum.net/v/20221205000240324</id>
+        <link href="https://v.daum.net/v/20221205000240324"/>
+        <updated>2022-12-04T15:19:18.560Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘음악의 보석상자’ 무대 선 임윤찬…열도팬 2000명 눈·귀 사로잡았다]]></title>
         <id>https://v.daum.net/v/20221204213116353</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221204195554682"/>
         <updated>2022-12-04T11:18:48.047Z</updated>
         <content type="html"><![CDATA[채널A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연말 홈파티 메뉴, 이거 하나면 든든합니다]]></title>
-        <id>https://v.daum.net/v/20221204183921049</id>
-        <link href="https://v.daum.net/v/20221204183921049"/>
-        <updated>2022-12-04T10:20:55.934Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
