@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2022-12-04T16:27:29.033Z</updated>
+    <updated>2022-12-04T17:19:52.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[출근길 한파 계속..서해안 저녁부터 잔눈발]]></title>
+        <id>https://v.daum.net/v/20221205021210340</id>
+        <link href="https://v.daum.net/v/20221205021210340"/>
+        <updated>2022-12-04T17:17:37.329Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[멕시코서 20세 만삭 여성 피살…"아이 옷 나눔 제안에 유인돼"]]></title>
+        <id>https://v.daum.net/v/20221205014352183</id>
+        <link href="https://v.daum.net/v/20221205014352183"/>
+        <updated>2022-12-04T17:17:37.335Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中코로나 규제 속속 완화…베이징·상하이 등 '음성' 증명서 일부 해제]]></title>
         <id>https://v.daum.net/v/20221205004958739</id>
@@ -130,19 +144,5 @@
         <link href="https://v.daum.net/v/20221204211106223"/>
         <updated>2022-12-04T14:18:05.269Z</updated>
         <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['화물연대 파업' 운송거부 22개사 운송 재개…7개사 복귀 예정]]></title>
-        <id>https://v.daum.net/v/20221204220800698</id>
-        <link href="https://v.daum.net/v/20221204220800698"/>
-        <updated>2022-12-04T14:18:05.273Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["부자감세" vs "국정운영 방해"…남은 예산안 협상 쟁점은]]></title>
-        <id>https://v.daum.net/v/20221204221054723</id>
-        <link href="https://v.daum.net/v/20221204221054723"/>
-        <updated>2022-12-04T14:18:05.273Z</updated>
-        <content type="html"><![CDATA[정치]]></content>
     </entry>
 </feed>
