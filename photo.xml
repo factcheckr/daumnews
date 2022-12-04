@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-12-04T19:17:13.010Z</updated>
+    <updated>2022-12-04T20:22:11.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아무도 모른다, 또 하나의 이변]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/qw6nSswzUA</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/qw6nSswzUA"/>
+        <updated>2022-12-04T20:21:39.899Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[처마 밑 매듭]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/Kr2dHvhVqC</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5620478/tzF9M1XeHf"/>
         <updated>2022-12-04T06:28:43.280Z</updated>
         <content type="html"><![CDATA[김동환의 김기자와 만납시다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화물연대 파업에도 기름값 뚝…이번주 휘발유 18원·경유 16원 하락]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5035080/5ePIVyS4cm</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5035080/5ePIVyS4cm"/>
-        <updated>2022-12-04T06:28:43.293Z</updated>
-        <content type="html"><![CDATA[기름값 현황]]></content>
     </entry>
 </feed>
