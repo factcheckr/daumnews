@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-12-04T15:20:22.895Z</updated>
+    <updated>2022-12-04T16:27:29.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러 "생산량 줄더라도 가격상한 적용국엔 석유 안 팔아"]]></title>
+        <id>https://v.daum.net/v/20221205003525619</id>
+        <link href="https://v.daum.net/v/20221205003525619"/>
+        <updated>2022-12-04T16:26:11.850Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인니 스메루 화산 1년 만에 재분화…최고 경보·2000명 대피(종합)]]></title>
         <id>https://v.daum.net/v/20221204234819222</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221204211106223"/>
         <updated>2022-12-04T12:35:36.038Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곤경의 러시아 석유,  EU의 90% 수입금지와 비EU의 60달러 상한]]></title>
-        <id>https://v.daum.net/v/20221204205730134</id>
-        <link href="https://v.daum.net/v/20221204205730134"/>
-        <updated>2022-12-04T12:35:36.039Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
