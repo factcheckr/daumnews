@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-12-06T15:22:23.085Z</updated>
+    <updated>2022-12-06T16:32:10.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[세계 최대 만화축제 앙굴렘에 한국 만화 2편 후보 주목]]></title>
-        <id>https://v.daum.net/v/20221206173536824</id>
-        <link href="https://v.daum.net/v/20221206173536824"/>
-        <updated>2022-12-06T10:21:47.931Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA['50년 한국 사랑' 후지모토 작품전…"한국 식문화 기록 남길 것"]]></title>
         <id>https://v.daum.net/v/20221206170612857</id>
@@ -55,13 +48,6 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["다중 밀집 사고 막아야"…포항 호미곶해맞이축전 취소]]></title>
-        <id>https://v.daum.net/v/20221206160505736</id>
-        <link href="https://v.daum.net/v/20221206160505736"/>
-        <updated>2022-12-06T13:29:29.935Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[국립중앙박물관, 매주 수요일 12월 '큐레이터와의 대화']]></title>
         <id>https://v.daum.net/v/20221206154133828</id>
         <link href="https://v.daum.net/v/20221206154133828"/>
@@ -74,5 +60,19 @@
         <link href="https://v.daum.net/v/20221206144458667"/>
         <updated>2022-12-06T13:29:29.940Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주저앉은 낙찰률 불안한 경매시장…미술시장 긴 겨울 들어가나 [식어가는 미술시장①]]]></title>
+        <id>https://v.daum.net/v/20221206113649704</id>
+        <link href="https://v.daum.net/v/20221206113649704"/>
+        <updated>2022-12-06T16:31:21.995Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여행 중에 갑신정변 소식을 듣다 [조선의 의인, 조지 포크]]]></title>
+        <id>https://v.daum.net/v/20221206143301173</id>
+        <link href="https://v.daum.net/v/20221206143301173"/>
+        <updated>2022-12-06T16:31:21.997Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
