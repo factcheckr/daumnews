@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-06T03:22:39.091Z</updated>
+    <updated>2022-12-06T04:25:02.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“신변종 랜섬웨어 위협 더 커진다”]]></title>
+        <id>https://v.daum.net/v/20221206113446640</id>
+        <link href="https://v.daum.net/v/20221206113446640"/>
+        <updated>2022-12-06T04:24:31.880Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“문자만 읽어도 해킹 당한다…코인·슈퍼앱 비상”]]></title>
+        <id>https://v.daum.net/v/20221206113007504</id>
+        <link href="https://v.daum.net/v/20221206113007504"/>
+        <updated>2022-12-06T04:24:31.882Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["SMS 링크 안눌러도 털린다" 내년 당신 위협할 보안위협 5요소는?]]></title>
         <id>https://v.daum.net/v/20221206113001492</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20221206102641445"/>
         <updated>2022-12-06T02:46:26.789Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화성 땅 속에 뜨거운 암석 기둥 있다 [여기는 화성]]]></title>
-        <id>https://v.daum.net/v/20221206101942142</id>
-        <link href="https://v.daum.net/v/20221206101942142"/>
-        <updated>2022-12-06T02:46:26.792Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["폭스콘, 연말 완전 가동 전망"…애플 한숨 돌리나]]></title>
-        <id>https://v.daum.net/v/20221206033000472</id>
-        <link href="https://v.daum.net/v/20221206033000472"/>
-        <updated>2022-12-06T02:46:26.798Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
