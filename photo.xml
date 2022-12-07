@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-12-07T12:41:31.356Z</updated>
+    <updated>2022-12-07T13:28:57.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[뜨거웠던 그대를 위한 ‘뜨거운 환영’[포토뉴스]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/377110/uaqJVpFL3J</id>
-        <link href="https://gallery.v.daum.net/p/viewer/377110/uaqJVpFL3J"/>
-        <updated>2022-12-07T12:40:56.158Z</updated>
+        <title type="html"><![CDATA['인천 인쇄공장 화재 대응 2단계 발령']]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1518/3tamq5HRSM</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1518/3tamq5HRSM"/>
+        <updated>2022-12-07T13:28:25.386Z</updated>
+        <content type="html"><![CDATA[전국 화재사고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KT ‘디지털 시민 원 팀’ 출범…초등생 대상 시민 교육도[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/UPsOpYT6zt</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/UPsOpYT6zt"/>
+        <updated>2022-12-07T13:28:25.404Z</updated>
         <content type="html"><![CDATA[포토뉴스]]></content>
     </entry>
     <entry>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5620091/p0AsacNFt8"/>
         <updated>2022-12-07T07:19:00.239Z</updated>
         <content type="html"><![CDATA[쿠키포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 신규확진 7만4717명 발생]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5014013/9bIBacNFaI</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5014013/9bIBacNFaI"/>
-        <updated>2022-12-07T07:19:00.239Z</updated>
-        <content type="html"><![CDATA['코로나19' 바이러스]]></content>
     </entry>
 </feed>

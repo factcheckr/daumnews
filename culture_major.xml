@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-12-07T12:41:31.339Z</updated>
+    <updated>2022-12-07T13:28:57.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[눈에 좋은 '베타카로틴'… 채소·과일 중 가장 많이 든 것은?]]></title>
+        <id>https://v.daum.net/v/20221207183016636</id>
+        <link href="https://v.daum.net/v/20221207183016636"/>
+        <updated>2022-12-07T13:27:56.954Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금 귀걸이·은 허리띠···떠나는 길에도 권력·부 누린 이 신라 남성 누굴까]]></title>
         <id>https://v.daum.net/v/20221207182153319</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221207155302664"/>
         <updated>2022-12-07T12:40:28.282Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[문화소식] 국립중앙박물관, 12월 '큐레이터와의 대화']]></title>
-        <id>https://v.daum.net/v/20221207155702811</id>
-        <link href="https://v.daum.net/v/20221207155702811"/>
-        <updated>2022-12-07T12:40:28.283Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
