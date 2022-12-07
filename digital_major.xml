@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-07T02:56:27.188Z</updated>
+    <updated>2022-12-07T03:26:37.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“카카오 사태 사회적 책임...소명 다할 것”]]></title>
+        <id>https://v.daum.net/v/20221207112312059</id>
+        <link href="https://v.daum.net/v/20221207112312059"/>
+        <updated>2022-12-07T03:26:05.598Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“무려 36만원 돈값 할까...막상 써보니 고개 끄덕”[미래산업 플러스]]]></title>
         <id>https://v.daum.net/v/20221207111215608</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221207100510796"/>
         <updated>2022-12-07T02:55:55.104Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국게임정책자율기구 “확률형 아이템 자율규제해야”]]></title>
-        <id>https://v.daum.net/v/20221207100447770</id>
-        <link href="https://v.daum.net/v/20221207100447770"/>
-        <updated>2022-12-07T02:55:55.104Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
