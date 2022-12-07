@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-12-07T18:26:01.764Z</updated>
+    <updated>2022-12-07T19:18:11.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[달콤한 사이언스] 참을 수 없는 만성통증도 ‘이것’에 노출되면 좋아진다]]></title>
+        <id>https://v.daum.net/v/20221208040102305</id>
+        <link href="https://v.daum.net/v/20221208040102305"/>
+        <updated>2022-12-07T19:17:33.447Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“미래가 여기있다” TSMC 美공장에 바이든·팀 쿡 총출동]]></title>
         <id>https://v.daum.net/v/20221208030557224</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221207204839464"/>
         <updated>2022-12-07T12:40:38.462Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈대담] 한빛원전 4호기 재가동 ‘논란’…전문가 시각은?]]></title>
-        <id>https://v.daum.net/v/20221207200721784</id>
-        <link href="https://v.daum.net/v/20221207200721784"/>
-        <updated>2022-12-07T11:17:48.269Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
