@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-12-07T03:26:37.121Z</updated>
+    <updated>2022-12-07T04:26:22.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1인가구 10명 중 7명 연간 3000만원 못 번다…기초수급 비중 70%]]></title>
+        <id>https://v.daum.net/v/20221207120142759</id>
+        <link href="https://v.daum.net/v/20221207120142759"/>
+        <updated>2022-12-07T04:24:30.773Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미혼 1인가구 45.2% "경제적 문제로 결혼 못한다"]]></title>
         <id>https://v.daum.net/v/20221207120307798</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221207120037636"/>
         <updated>2022-12-07T03:25:15.793Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중기부, '대기업과 협업' 우수모델 제안 스타트업 60곳 지원]]></title>
-        <id>https://v.daum.net/v/20221207120104691</id>
-        <link href="https://v.daum.net/v/20221207120104691"/>
-        <updated>2022-12-07T03:25:15.794Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
