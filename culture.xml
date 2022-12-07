@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-12-07T15:21:55.469Z</updated>
+    <updated>2022-12-07T16:29:15.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[FDA, 한국산 생굴 리콜… 우린 먹어도 되나?]]></title>
+        <id>https://v.daum.net/v/20221208010016664</id>
+        <link href="https://v.daum.net/v/20221208010016664"/>
+        <updated>2022-12-07T16:28:25.098Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 'KPOP', 2주만에 브로드웨이 강판…11일 마지막 공연]]></title>
         <id>https://v.daum.net/v/20221207235616180</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221207184906157"/>
         <updated>2022-12-07T10:22:20.943Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계를 홀린 독특한 ‘퓨트로(Futuro)’ 감성, 마리아 스바르보바 사진전 개막]]></title>
-        <id>https://v.daum.net/v/20221207184804121</id>
-        <link href="https://v.daum.net/v/20221207184804121"/>
-        <updated>2022-12-07T10:22:20.944Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
