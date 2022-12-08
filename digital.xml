@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-12-08T10:22:35.000Z</updated>
+    <updated>2022-12-08T11:18:28.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[월드컵 승부예측, K리그 중계까지…'축구에 진심'인 게임회사]]></title>
+        <id>https://v.daum.net/v/20221208200102617</id>
+        <link href="https://v.daum.net/v/20221208200102617"/>
+        <updated>2022-12-08T11:17:43.270Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[WEEKLY BIZ] ‘돌아온 영웅’ 아이거, 위기의 디즈니 구원하나]]></title>
         <id>https://v.daum.net/v/20221208190019728</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221208183540318"/>
         <updated>2022-12-08T10:22:00.241Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["구글, 최악의 2차 성착취물 가해 사이트"… 앰네스티 국제탄원 나선다]]></title>
-        <id>https://v.daum.net/v/20221208175040155</id>
-        <link href="https://v.daum.net/v/20221208175040155"/>
-        <updated>2022-12-08T09:20:08.368Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
