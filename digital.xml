@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-12-08T20:24:18.438Z</updated>
+    <updated>2022-12-08T21:19:38.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위믹스 퇴출 후폭풍…韓 코인 시장 혼돈 속으로]]></title>
+        <id>https://v.daum.net/v/20221209060510665</id>
+        <link href="https://v.daum.net/v/20221209060510665"/>
+        <updated>2022-12-08T21:19:02.625Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본이 우주기술 독자 개발했더니... 미국 태도가 변했다]]></title>
         <id>https://v.daum.net/v/20221209050005705</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221209012507147"/>
         <updated>2022-12-08T17:19:15.859Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[IT애정남] 아이폰에서도 '통화 녹음' 가능한가요?]]></title>
-        <id>https://v.daum.net/v/20221208224201097</id>
-        <link href="https://v.daum.net/v/20221208224201097"/>
-        <updated>2022-12-08T14:19:35.534Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
