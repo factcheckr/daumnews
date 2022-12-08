@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-12-08T18:25:57.966Z</updated>
+    <updated>2022-12-08T19:20:39.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퇴출 ‘위믹스’ 대표, 회삿돈으로 ‘120억 시그니엘’ 거주 논란]]></title>
+        <id>https://v.daum.net/v/20221209030149289</id>
+        <link href="https://v.daum.net/v/20221209030149289"/>
+        <updated>2022-12-08T19:18:57.704Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임기 곧 만료되는 금융지주 회장들 다 갈리나?]]></title>
         <id>https://v.daum.net/v/20221209030547479</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221209030336409"/>
         <updated>2022-12-08T18:24:16.778Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금리 노마드족, ‘적금 해지 읍소 사태’에 술렁]]></title>
-        <id>https://v.daum.net/v/20221209030353420</id>
-        <link href="https://v.daum.net/v/20221209030353420"/>
-        <updated>2022-12-08T18:24:16.780Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
