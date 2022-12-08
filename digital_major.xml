@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-08T19:20:39.749Z</updated>
+    <updated>2022-12-08T20:24:18.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20221209030445458"/>
         <updated>2022-12-08T18:25:23.878Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다가올 ‘양자컴퓨터 시대’…인터넷 ‘보안’은 국가안보다[정은진의 기술을 기술하다]]]></title>
+        <id>https://v.daum.net/v/20221208220517755</id>
+        <link href="https://v.daum.net/v/20221208220517755"/>
+        <updated>2022-12-08T20:23:45.038Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 FBI, 애플 '종단간 암호' 적용 우려…왜?]]></title>
+        <id>https://v.daum.net/v/20221208215748631</id>
+        <link href="https://v.daum.net/v/20221208215748631"/>
+        <updated>2022-12-08T20:23:45.039Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[월드컵 승부예측, K리그 중계까지…'축구에 진심'인 회사]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20221208175040155"/>
         <updated>2022-12-08T11:17:52.111Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘송년회 시즌’ 카카오T·우티·온다…어떤 앱이 택시 잡기 좋을까요?[궁즉답]]]></title>
-        <id>https://v.daum.net/v/20221208174945122</id>
-        <link href="https://v.daum.net/v/20221208174945122"/>
-        <updated>2022-12-08T10:22:07.435Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['위믹스' 법원 결정문으로 살펴본 쟁점 4가지는?]]></title>
-        <id>https://v.daum.net/v/20221208174757059</id>
-        <link href="https://v.daum.net/v/20221208174757059"/>
-        <updated>2022-12-08T10:22:07.438Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
