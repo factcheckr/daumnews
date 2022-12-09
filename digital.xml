@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-12-09T12:37:03.496Z</updated>
+    <updated>2022-12-09T13:27:42.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헤븐 번즈 레드 "오로지 게이머 재미에 집중"]]></title>
+        <id>https://v.daum.net/v/20221209221312509</id>
+        <link href="https://v.daum.net/v/20221209221312509"/>
+        <updated>2022-12-09T13:27:01.774Z</updated>
+        <content type="html"><![CDATA[게임톡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10년 만에 상업운전, 5년 만에 재가동…바쁘게 돌아가는 ‘원전 시계’]]></title>
         <id>https://v.daum.net/v/20221209202716063</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221209181808464"/>
         <updated>2022-12-09T10:22:25.353Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오 "디지털 접근성 노력하겠다"…전문가 "생활 밀착 서비스 개선 기대"]]></title>
-        <id>https://v.daum.net/v/20221209174121302</id>
-        <link href="https://v.daum.net/v/20221209174121302"/>
-        <updated>2022-12-09T09:20:04.300Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
