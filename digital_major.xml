@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-09T11:18:42.196Z</updated>
+    <updated>2022-12-09T12:37:03.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반달곰 ‘불법 증식’ 방치…곰도 사람도 죽게 했다]]></title>
+        <id>https://v.daum.net/v/20221209212640049</id>
+        <link href="https://v.daum.net/v/20221209212640049"/>
+        <updated>2022-12-09T12:36:27.561Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[급제동 걸린 세기의 빅딜]]></title>
         <id>https://v.daum.net/v/20221209174526430</id>
         <link href="https://v.daum.net/v/20221209174526430"/>
         <updated>2022-12-09T09:20:12.556Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전 세계에 100마리도 안 남은 ‘뿔제비갈매기’ 멸종 위기종 됐다]]></title>
+        <id>https://v.daum.net/v/20221209172458702</id>
+        <link href="https://v.daum.net/v/20221209172458702"/>
+        <updated>2022-12-09T12:36:27.564Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['장벽 없는 디지털 서비스 도전'… 네카오 "접근성 높인다" [IT돋보기]]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20221209150942698"/>
         <updated>2022-12-09T08:26:07.795Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자 줄고, TSMC 늘고…파운드리 격차 더 커졌다]]></title>
-        <id>https://v.daum.net/v/20221209150815664</id>
-        <link href="https://v.daum.net/v/20221209150815664"/>
-        <updated>2022-12-09T08:26:07.796Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알뜰폰 성장에 금융권도 진입…이통3사 '어쩌나']]></title>
-        <id>https://v.daum.net/v/20221209150203498</id>
-        <link href="https://v.daum.net/v/20221209150203498"/>
-        <updated>2022-12-09T11:18:09.044Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
 </feed>

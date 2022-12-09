@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-12-09T11:18:42.194Z</updated>
+    <updated>2022-12-09T12:37:03.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘내 수능 성적은’[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/z5HU3aLZFV</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/z5HU3aLZFV"/>
+        <updated>2022-12-09T12:36:35.893Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성북구 정릉동 재개발 구역 화재…진화 중]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1518/XX5PJXYxgE</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1518/XX5PJXYxgE"/>
+        <updated>2022-12-09T12:36:35.895Z</updated>
+        <content type="html"><![CDATA[전국 화재사고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 지도책]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1476/fKWuPKqkTb</id>
         <link href="https://gallery.v.daum.net/p/viewer/1476/fKWuPKqkTb"/>
         <updated>2022-12-09T09:20:21.161Z</updated>
         <content type="html"><![CDATA[미국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 작전동 다세대주택 화재 현장]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1518/UTW42u0gNr</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1518/UTW42u0gNr"/>
-        <updated>2022-12-09T08:26:16.760Z</updated>
-        <content type="html"><![CDATA[전국 화재사고]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쿠웨이트 왕세자와 악수하는 시진핑 주석]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2904/trK8loiHnT"/>
         <updated>2022-12-09T05:19:20.912Z</updated>
         <content type="html"><![CDATA[프랑스 마크롱 대통령]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[응원단 표정으로 본 16강 희노애락 [청계천 옆 사진관]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/344179/KJIrEQ8CB0</id>
-        <link href="https://gallery.v.daum.net/p/viewer/344179/KJIrEQ8CB0"/>
-        <updated>2022-12-09T04:25:17.322Z</updated>
-        <content type="html"><![CDATA[청계천 옆 사진관]]></content>
     </entry>
 </feed>
