@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2022-12-09T15:23:02.525Z</updated>
+    <updated>2022-12-09T16:29:11.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간政談<상>] '소통' 강조 尹대통령의 비공개 '관저정치' 뒷말 무성]]></title>
+        <id>https://v.daum.net/v/20221210000038996</id>
+        <link href="https://v.daum.net/v/20221210000038996"/>
+        <updated>2022-12-09T16:26:41.648Z</updated>
+        <content type="html"><![CDATA[정치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간政談<하>] '취임 100일' 이재명 '불통', 언제쯤 '사이다'로 돌아올까?]]></title>
+        <id>https://v.daum.net/v/20221210000044000</id>
+        <link href="https://v.daum.net/v/20221210000044000"/>
+        <updated>2022-12-09T16:26:41.666Z</updated>
+        <content type="html"><![CDATA[정치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“나무 한 그루라도…” 기약 없는 추모, 슬픈 기다림 [이슈&탐사]]]></title>
         <id>https://v.daum.net/v/20221210000432032</id>
@@ -39,13 +53,6 @@
         <link href="https://v.daum.net/v/20221210000306027"/>
         <updated>2022-12-09T15:20:37.187Z</updated>
         <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴욕개장] 美 11월 생산자물가 예상치 상회…하락 출발]]></title>
-        <id>https://v.daum.net/v/20221209235106945</id>
-        <link href="https://v.daum.net/v/20221209235106945"/>
-        <updated>2022-12-09T15:20:37.196Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[갑자기 사라진 아내…젖먹이 딸 들쳐업고 600리 헤맸는데 [Books]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20221209205551556"/>
         <updated>2022-12-09T14:17:21.946Z</updated>
         <content type="html"><![CDATA[정치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비조합원 車에 쇠구슬 쏜 3명 檢송치…경찰 “불법행위 60명 수사중”]]></title>
-        <id>https://v.daum.net/v/20221209212511032</id>
-        <link href="https://v.daum.net/v/20221209212511032"/>
-        <updated>2022-12-09T14:17:21.946Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
     </entry>
 </feed>
