@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-09T01:40:38.814Z</updated>
+    <updated>2022-12-09T02:50:09.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국 ‘로봇 밀도’ 세계 최초 네자릿수…과연 좋기만 할까]]></title>
+        <id>https://v.daum.net/v/20221209101005602</id>
+        <link href="https://v.daum.net/v/20221209101005602"/>
+        <updated>2022-12-09T02:49:37.829Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU "2024년 12월28일까지 USB-C로 전환"]]></title>
+        <id>https://v.daum.net/v/20221209093514286</id>
+        <link href="https://v.daum.net/v/20221209093514286"/>
+        <updated>2022-12-09T02:49:37.831Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스마트폰 터치 습관으로 이상거래 잡는다]]></title>
         <id>https://v.daum.net/v/20221209091358635</id>
@@ -41,13 +55,6 @@
         <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위믹스 퇴출 후폭풍…韓 코인 시장 혼돈 속으로]]></title>
-        <id>https://v.daum.net/v/20221209060510665</id>
-        <link href="https://v.daum.net/v/20221209060510665"/>
-        <updated>2022-12-09T01:40:02.368Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[일본이 우주기술 독자 개발했더니... 미국 태도가 변했다]]></title>
         <id>https://v.daum.net/v/20221209050005705</id>
         <link href="https://v.daum.net/v/20221209050005705"/>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221209030445458"/>
         <updated>2022-12-08T18:25:23.878Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“따뜻했던 그린란드엔 다양한 동식물 살았다”… ‘환경DNA’로 200만 년 전 생태계 재현]]></title>
-        <id>https://v.daum.net/v/20221209030227331</id>
-        <link href="https://v.daum.net/v/20221209030227331"/>
-        <updated>2022-12-08T23:22:48.619Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
