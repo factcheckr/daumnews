@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-12-09T14:19:47.879Z</updated>
+    <updated>2022-12-09T15:23:02.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -10,13 +10,6 @@
         <id>https://v.daum.net/v/20221209215300298</id>
         <link href="https://v.daum.net/v/20221209215300298"/>
         <updated>2022-12-09T14:18:21.521Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“일할 사람 없어요”…속초시, 제도 개선 추진]]></title>
-        <id>https://v.daum.net/v/20221209215244294</id>
-        <link href="https://v.daum.net/v/20221209215244294"/>
-        <updated>2022-12-09T13:26:19.238Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20221209203305160"/>
         <updated>2022-12-09T13:26:19.263Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“일할 사람 없어요”…속초시, 제도 개선 추진]]></title>
+        <id>https://v.daum.net/v/20221209215244294</id>
+        <link href="https://v.daum.net/v/20221209215244294"/>
+        <updated>2022-12-09T13:26:19.238Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
