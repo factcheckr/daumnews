@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2022-12-10T03:22:34.832Z</updated>
+    <updated>2022-12-10T04:25:25.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[與 "최측근 기소에 '정치탄압' 레퍼토리...이재명 적은 이재명"]]></title>
+        <id>https://v.daum.net/v/20221210115636886</id>
+        <link href="https://v.daum.net/v/20221210115636886"/>
+        <updated>2022-12-10T04:23:44.897Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與 "안전운임제 협상 테이블 앉겠지만…불법 파업은 원칙 따라 조치"]]></title>
         <id>https://v.daum.net/v/20221210113632745</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221210104636316"/>
         <updated>2022-12-10T02:42:07.454Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하늘과 땅과 당신이 안다…윤 정부 인사들의 ‘거짓말 정치’]]></title>
-        <id>https://v.daum.net/v/20221210100517890</id>
-        <link href="https://v.daum.net/v/20221210100517890"/>
-        <updated>2022-12-10T02:42:07.456Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
