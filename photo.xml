@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-12-10T12:35:28.369Z</updated>
+    <updated>2022-12-10T13:24:45.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현재·미래, 생물·무생물의 모호한 경계…그 속에서 발견한 미학 [김한들의 그림 아로새기기]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5620480/y4f6Lswzte</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5620480/y4f6Lswzte"/>
+        <updated>2022-12-10T13:24:22.813Z</updated>
+        <content type="html"><![CDATA[김한들의 그림 아로새기기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문 전 대통령과 16년 함께…‘마루’의 마지막 산책길 [김유민의 노견일기]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5620479/X0GMe9BEU1</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5620471/U3eWLtZdso"/>
         <updated>2022-12-09T19:17:01.085Z</updated>
         <content type="html"><![CDATA[개st하우스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위험 주차금지]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/212305/ZqF4YexvmE</id>
-        <link href="https://gallery.v.daum.net/p/viewer/212305/ZqF4YexvmE"/>
-        <updated>2022-12-09T19:17:01.086Z</updated>
-        <content type="html"><![CDATA[포토 카페]]></content>
     </entry>
 </feed>
