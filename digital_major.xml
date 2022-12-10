@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-10T05:19:25.731Z</updated>
+    <updated>2022-12-10T06:30:38.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오디오 콘텐츠 시장 커진다… V로그 이어 ‘A로그’ 뜰까]]></title>
+        <id>https://v.daum.net/v/20221210100109843</id>
+        <link href="https://v.daum.net/v/20221210100109843"/>
+        <updated>2022-12-10T06:29:56.679Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MOON을 열다] ‘달 관측의 신 기원’ 편광카메라는 어떻게 개발됐나]]></title>
         <id>https://v.daum.net/v/20221210100018811</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221210060139779"/>
         <updated>2022-12-10T01:27:22.664Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표지로 읽는 과학] 200만년 전 그린란드, 코끼리의 조상이 살았다]]></title>
-        <id>https://v.daum.net/v/20221210060040746</id>
-        <link href="https://v.daum.net/v/20221210060040746"/>
-        <updated>2022-12-10T01:27:22.665Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-12-10T05:19:25.749Z</updated>
+    <updated>2022-12-10T06:30:38.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KT 지배구조위 운영규정 제7조 [김현아의 IT세상읽기]]]></title>
+        <id>https://v.daum.net/v/20221210143211100</id>
+        <link href="https://v.daum.net/v/20221210143211100"/>
+        <updated>2022-12-10T06:29:47.959Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잘려도 또 자라는 도마뱀 꼬리...재생 관여 유전자 발견]]></title>
         <id>https://v.daum.net/v/20221210131031401</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221210103603233"/>
         <updated>2022-12-10T02:42:57.527Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오디오 콘텐츠 시장 커진다… V로그 이어 ‘A로그’ 뜰까]]></title>
-        <id>https://v.daum.net/v/20221210100109843</id>
-        <link href="https://v.daum.net/v/20221210100109843"/>
-        <updated>2022-12-10T01:27:14.115Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
