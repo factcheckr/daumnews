@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-12-11T15:20:57.535Z</updated>
+    <updated>2022-12-11T16:28:39.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독일 벤츠공장, 컨베이어벨트 대신 ‘로봇’이 400대]]></title>
+        <id>https://v.daum.net/v/20221212002310128</id>
+        <link href="https://v.daum.net/v/20221212002310128"/>
+        <updated>2022-12-11T16:26:39.769Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화물차주 울리는 ‘중간 마진’… 파업 끝나도 불씨 여전]]></title>
         <id>https://v.daum.net/v/20221212000413044</id>
@@ -38,13 +45,6 @@
         <id>https://v.daum.net/v/20221211215623452</id>
         <link href="https://v.daum.net/v/20221211215623452"/>
         <updated>2022-12-11T13:26:39.461Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘억’ 소리 나게 뚝뚝…거래절벽 속 급매가격, 진짜 내집 가격일까]]></title>
-        <id>https://v.daum.net/v/20221211220550517</id>
-        <link href="https://v.daum.net/v/20221211220550517"/>
-        <updated>2022-12-11T13:26:39.464Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
