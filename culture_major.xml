@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-12-11T12:36:05.111Z</updated>
+    <updated>2022-12-11T13:28:13.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["전자여행허가 장벽···동남아 관광객 내쫓아"]]></title>
+        <id>https://v.daum.net/v/20221211175005563</id>
+        <link href="https://v.daum.net/v/20221211175005563"/>
+        <updated>2022-12-11T13:27:19.605Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[클래식계 젊은 천재들이 만났다… 한국 찾는 OPS와 캉토로프]]></title>
         <id>https://v.daum.net/v/20221211170603028</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221211111010800"/>
         <updated>2022-12-11T05:18:48.371Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“술잔 하나에 380억원” 중국 고미술 투자 열풍[찐부자 리포트]]]></title>
-        <id>https://v.daum.net/v/20221211112702066</id>
-        <link href="https://v.daum.net/v/20221211112702066"/>
-        <updated>2022-12-11T05:18:48.371Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

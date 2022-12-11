@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-12-11T12:36:05.118Z</updated>
+    <updated>2022-12-11T13:28:13.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기자회견 하는 기시다 후미오 일본 총리]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1407/x90D8MPlN1</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1407/x90D8MPlN1"/>
+        <updated>2022-12-11T13:27:45.786Z</updated>
+        <content type="html"><![CDATA[일본은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누출 원유로 얼룩진 美 캔자스주]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1476/yH1kyf9rOF</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033573/yk0ooRQSaN"/>
         <updated>2022-12-11T01:44:14.277Z</updated>
         <content type="html"><![CDATA[전통시장 모습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파퀴아오 VS 유대경' 승자는?]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5621479/H24aDaLZ0d</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5621479/H24aDaLZ0d"/>
-        <updated>2022-12-11T04:25:39.373Z</updated>
-        <content type="html"><![CDATA[포토타임]]></content>
     </entry>
 </feed>
