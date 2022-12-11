@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-12-11T03:27:32.306Z</updated>
+    <updated>2022-12-11T04:26:07.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["개발만 4년 걸린 야심작"…'구글 폴더블폰' 드디어 나온다]]></title>
+        <id>https://v.daum.net/v/20221211131902523</id>
+        <link href="https://v.daum.net/v/20221211131902523"/>
+        <updated>2022-12-11T04:25:22.749Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웹툰 읽어주고 서류 요약하고…AI, 저시력자 '눈'이 됐다 [선한결의 IT포커스]]]></title>
+        <id>https://v.daum.net/v/20221211131102445</id>
+        <link href="https://v.daum.net/v/20221211131102445"/>
+        <updated>2022-12-11T04:25:22.751Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[클라우드 품질 측정 기준 마련한다…한국 주도 국제 프로젝트 개시]]></title>
         <id>https://v.daum.net/v/20221211120008551</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20221211100503594"/>
         <updated>2022-12-11T02:53:32.840Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI로 오프사이드 감지, 센서 장착 공인구… 첨단기술 시험장 카타르월드컵]]></title>
-        <id>https://v.daum.net/v/20221211100144497</id>
-        <link href="https://v.daum.net/v/20221211100144497"/>
-        <updated>2022-12-11T02:53:32.840Z</updated>
-        <content type="html"><![CDATA[주간동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MOON을 열다] “궤도설계 위해 7개월 매달려…결국 해냈죠”]]></title>
-        <id>https://v.daum.net/v/20221211100026432</id>
-        <link href="https://v.daum.net/v/20221211100026432"/>
-        <updated>2022-12-11T02:53:32.841Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
