@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-11T18:25:11.438Z</updated>
+    <updated>2022-12-11T19:18:06.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화면 커지고 성능 UP… 키보드 붙이니 노트북 대용도 가능]]></title>
+        <id>https://v.daum.net/v/20221211214830389</id>
+        <link href="https://v.daum.net/v/20221211214830389"/>
+        <updated>2022-12-11T19:17:34.229Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“5천만원 손실, 울면서 버텼다” 카카오에 빠진 30대 여성, 빛보나]]></title>
         <id>https://v.daum.net/v/20221211203634969</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221211171253106"/>
         <updated>2022-12-11T12:35:28.293Z</updated>
         <content type="html"><![CDATA[게임톡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“말도 안돼?” 우영우도 제친 ‘이것’ 대체 무슨일이]]></title>
-        <id>https://v.daum.net/v/20221211165037777</id>
-        <link href="https://v.daum.net/v/20221211165037777"/>
-        <updated>2022-12-11T09:19:25.494Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
