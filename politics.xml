@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2022-12-11T21:18:50.938Z</updated>
+    <updated>2022-12-11T22:20:31.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북 "2022년 건설의 최전성기"…송화거리·연포농장 등 치적 과시]]></title>
+        <id>https://v.daum.net/v/20221212071107310</id>
+        <link href="https://v.daum.net/v/20221212071107310"/>
+        <updated>2022-12-11T22:18:25.461Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與 전당대회 3월10일 유력…'당무감사' 유명무실]]></title>
         <id>https://v.daum.net/v/20221212061026784</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221212060247723"/>
         <updated>2022-12-11T21:16:30.305Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與 국조 보이콧 시사, 野 단독 조사 맞불…대통령실, 해임안 사실상 거부]]></title>
-        <id>https://v.daum.net/v/20221212060050636</id>
-        <link href="https://v.daum.net/v/20221212060050636"/>
-        <updated>2022-12-11T21:16:30.305Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-12-11T21:18:50.943Z</updated>
+    <updated>2022-12-11T22:20:31.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사진으로 보는 한 주의 뉴스]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5611561/5VY9BexvNl</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5611561/5VY9BexvNl"/>
+        <updated>2022-12-11T22:19:54.657Z</updated>
+        <content type="html"><![CDATA[[뉴스원클릭] 사진으로 보는 한 주의 뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노동신문, 제품 질 높이기 강조… "현장 정치 사업 참신하게"]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1489/0PU6zMPlaz</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1489/0PU6zMPlaz"/>
+        <updated>2022-12-11T22:19:54.660Z</updated>
+        <content type="html"><![CDATA[북한은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[멕시코 중부서 규모 6.0 지진…수도 멕시코시티 등 일대까지 '흔들']]></title>
         <id>https://gallery.v.daum.net/p/viewer/5032335/1j4oVLJGgD</id>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5610796/K3BW9x6hA1"/>
         <updated>2022-12-11T08:24:48.801Z</updated>
         <content type="html"><![CDATA[모멘트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문경시 한 상가건물서 화재..3명 연기 흡입]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1518/ZySFfexvXO</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1518/ZySFfexvXO"/>
-        <updated>2022-12-11T07:18:39.500Z</updated>
-        <content type="html"><![CDATA[전국 화재사고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그랑프리 파이널서 프리스케이팅 나선 김예림]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5029579/2txCZu0gAa</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5029579/2txCZu0gAa"/>
-        <updated>2022-12-11T07:18:39.502Z</updated>
-        <content type="html"><![CDATA[이탈리아는 지금]]></content>
     </entry>
 </feed>
