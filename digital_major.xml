@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-11T11:17:40.081Z</updated>
+    <updated>2022-12-11T12:36:05.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20221211171814168"/>
         <updated>2022-12-11T08:24:40.287Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[검은사막, '한국의 美' 세계에 알리다]]></title>
+        <id>https://v.daum.net/v/20221211171253106</id>
+        <link href="https://v.daum.net/v/20221211171253106"/>
+        <updated>2022-12-11T12:35:28.293Z</updated>
+        <content type="html"><![CDATA[게임톡]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“말도 안돼?” 우영우도 제친 ‘이것’ 대체 무슨일이]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221211140012188"/>
         <updated>2022-12-11T08:24:40.291Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클라우드 품질 측정 기준 마련한다…한국 주도 국제 프로젝트 개시]]></title>
-        <id>https://v.daum.net/v/20221211120008551</id>
-        <link href="https://v.daum.net/v/20221211120008551"/>
-        <updated>2022-12-11T10:25:09.331Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
