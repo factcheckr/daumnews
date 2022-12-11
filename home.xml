@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2022-12-11T17:19:40.073Z</updated>
+    <updated>2022-12-11T18:25:11.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[페루에서 '대통령 탄핵 항의' 시위 격화…"20여명 부상"]]></title>
+        <id>https://v.daum.net/v/20221212031747619</id>
+        <link href="https://v.daum.net/v/20221212031747619"/>
+        <updated>2022-12-11T18:22:24.131Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 중부지방·전북·경상권 비 또는 눈]]></title>
         <id>https://v.daum.net/v/20221212013711294</id>
@@ -60,13 +67,6 @@
         <link href="https://v.daum.net/v/20221212000711075"/>
         <updated>2022-12-11T15:18:28.609Z</updated>
         <content type="html"><![CDATA[정치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내년 전기료 3배 오를 수도" 한전법 개정 부결…서민 '직격탄' 맞나]]></title>
-        <id>https://v.daum.net/v/20221212000024951</id>
-        <link href="https://v.daum.net/v/20221212000024951"/>
-        <updated>2022-12-11T15:18:28.611Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지지자발 '단일대오' 균열…'이재명표 원팀' 빨간불]]></title>
