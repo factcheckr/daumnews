@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-12-12T10:24:07.101Z</updated>
+    <updated>2022-12-12T11:18:27.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마주 선 독일-폴란드 대통령]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5030466/1nLp79BEAx</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5030466/1nLp79BEAx"/>
+        <updated>2022-12-12T11:18:01.764Z</updated>
+        <content type="html"><![CDATA[독일은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정시 대학입학정보 박람회]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5270/bYmb8RQSMM</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5029580/ZMg2KgnXjX"/>
         <updated>2022-12-12T06:26:47.778Z</updated>
         <content type="html"><![CDATA[체코는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문 전 대통령이 키우던 곰이·송강, 광주 우치동물원으로 옮겨져]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1512/FkMZovhVdC</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1512/FkMZovhVdC"/>
-        <updated>2022-12-12T06:26:47.780Z</updated>
-        <content type="html"><![CDATA[북한 김정은 국무위원장]]></content>
     </entry>
 </feed>
