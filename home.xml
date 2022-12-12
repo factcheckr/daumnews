@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2022-12-12T16:36:28.223Z</updated>
+    <updated>2022-12-12T17:19:37.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영국, 비동맹 포용 '인내 외교' 발표…이념 대립구도 완화]]></title>
+        <id>https://v.daum.net/v/20221213020915730</id>
+        <link href="https://v.daum.net/v/20221213020915730"/>
+        <updated>2022-12-12T17:17:38.899Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얼마나 왔길래…우박에 볼리비아 졸업식장 지붕 붕괴 7명 사망]]></title>
         <id>https://v.daum.net/v/20221213012046603</id>
@@ -25,20 +32,6 @@
         <link href="https://v.daum.net/v/20221213003055346"/>
         <updated>2022-12-12T16:33:50.385Z</updated>
         <content type="html"><![CDATA[정치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기술주 폭락에 인내심 잃은 투자자들…'돈나무 언니'도 흔들]]></title>
-        <id>https://v.daum.net/v/20221213010304503</id>
-        <link href="https://v.daum.net/v/20221213010304503"/>
-        <updated>2022-12-12T16:33:50.385Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[38노스 "북러 철도무역 순조롭게 진행…北 세상에 문 여는 신호"]]></title>
-        <id>https://v.daum.net/v/20221213004554422</id>
-        <link href="https://v.daum.net/v/20221213004554422"/>
-        <updated>2022-12-12T16:33:50.388Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹정부 첫 현역의원 영장 청구…노웅래 체포동의안 통과될까]]></title>
@@ -144,5 +137,12 @@
         <link href="https://v.daum.net/v/20221212223120662"/>
         <updated>2022-12-12T14:17:44.851Z</updated>
         <content type="html"><![CDATA[국제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[암 발생 위험 키우는 만성염증, ‘이런 습관’이 만든다]]></title>
+        <id>https://v.daum.net/v/20221212223014647</id>
+        <link href="https://v.daum.net/v/20221212223014647"/>
+        <updated>2022-12-12T17:17:38.941Z</updated>
+        <content type="html"><![CDATA[문화]]></content>
     </entry>
 </feed>
