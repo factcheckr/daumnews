@@ -2,18 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-12-12T11:18:27.483Z</updated>
+    <updated>2022-12-12T12:41:06.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[KT 구현모 연임 내주 결론 가닥…연임 무게]]></title>
+        <title type="html"><![CDATA[트위터 게시물 최대 글자수 280→4000자로… 머스크, 직접 “맞다” 확인]]></title>
+        <id>https://v.daum.net/v/20221212212410078</id>
+        <link href="https://v.daum.net/v/20221212212410078"/>
+        <updated>2022-12-12T12:40:18.211Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오 유료서비스 보상만 400억…연내 해결 물 건너갔다]]></title>
+        <id>https://v.daum.net/v/20221212210102820</id>
+        <link href="https://v.daum.net/v/20221212210102820"/>
+        <updated>2022-12-12T12:40:18.213Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘AR 3D 헤드업 디스플레이’ 상용화...국제표준 획득으로 앞당겨]]></title>
+        <id>https://v.daum.net/v/20221212203302490</id>
+        <link href="https://v.daum.net/v/20221212203302490"/>
+        <updated>2022-12-12T12:40:18.219Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KT 구현모 연임 이번주 결론 가닥…연임 무게]]></title>
         <id>https://v.daum.net/v/20221212190151451</id>
         <link href="https://v.daum.net/v/20221212190151451"/>
         <updated>2022-12-12T10:23:20.098Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구현모 KT 대표이사 연임 심사 중에…공정위, KT텔레캅 현장조사]]></title>
+        <title type="html"><![CDATA[구현모 KT 대표 연임 심사 중에…공정위, KT텔레캅 특혜의혹 조사]]></title>
         <id>https://v.daum.net/v/20221212190028425</id>
         <link href="https://v.daum.net/v/20221212190028425"/>
         <updated>2022-12-12T10:23:20.106Z</updated>
@@ -25,26 +46,5 @@
         <link href="https://v.daum.net/v/20221212184946299"/>
         <updated>2022-12-12T10:23:20.107Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘인공태양’ 핵융합 발전 방법 찾았나…미 정부, 13일 ‘중요 성과’ 발표]]></title>
-        <id>https://v.daum.net/v/20221212181043622</id>
-        <link href="https://v.daum.net/v/20221212181043622"/>
-        <updated>2022-12-12T09:20:56.508Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[애니멀리포트] 웰시코기와 보더콜리…생김새는 달라도 사촌입니다]]></title>
-        <id>https://v.daum.net/v/20221212180232429</id>
-        <link href="https://v.daum.net/v/20221212180232429"/>
-        <updated>2022-12-12T09:20:56.509Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네카오가 점찍은 스타트업, 'CES 2023' 출격]]></title>
-        <id>https://v.daum.net/v/20221212175214183</id>
-        <link href="https://v.daum.net/v/20221212175214183"/>
-        <updated>2022-12-12T09:20:56.513Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
