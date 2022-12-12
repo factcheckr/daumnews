@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-12-12T13:30:12.035Z</updated>
+    <updated>2022-12-12T14:20:12.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["K-컬처로 관광산업 재도약"…관광객 3천만명 목표]]></title>
+        <id>https://v.daum.net/v/20221212223716684</id>
+        <link href="https://v.daum.net/v/20221212223716684"/>
+        <updated>2022-12-12T14:18:31.413Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고금리·고환율·고물가 ‘3고’에 중소기업 휘청]]></title>
         <id>https://v.daum.net/v/20221212215538394</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221212211720008"/>
         <updated>2022-12-12T12:39:16.817Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국도 일본도 한국도…본궤도 오른 '달 탐사' 경쟁]]></title>
-        <id>https://v.daum.net/v/20221212211552001</id>
-        <link href="https://v.daum.net/v/20221212211552001"/>
-        <updated>2022-12-12T12:39:16.818Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>

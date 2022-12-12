@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-12T13:30:12.048Z</updated>
+    <updated>2022-12-12T14:20:12.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이언맨의 ‘무제한 에너지’ 핵융합 발전 성큼...美연구진, 에너지 ‘순생산’ 첫 성공]]></title>
+        <id>https://v.daum.net/v/20221212184946299</id>
+        <link href="https://v.daum.net/v/20221212184946299"/>
+        <updated>2022-12-12T14:19:35.390Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘인공태양’ 핵융합 발전 방법 찾았나…미 정부, 13일 ‘중요 성과’ 발표]]></title>
         <id>https://v.daum.net/v/20221212181043622</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221212170856882"/>
         <updated>2022-12-12T09:21:07.160Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] “깜깜이 계약서 시정하라” 소비자원 지적에...버티는 LGU+]]></title>
-        <id>https://v.daum.net/v/20221212170602789</id>
-        <link href="https://v.daum.net/v/20221212170602789"/>
-        <updated>2022-12-12T09:21:07.161Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>

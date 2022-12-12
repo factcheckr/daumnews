@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-12-12T13:30:12.049Z</updated>
+    <updated>2022-12-12T14:20:12.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국도 일본도 한국도…본궤도 오른 '달 탐사' 경쟁]]></title>
+        <id>https://v.daum.net/v/20221212211552001</id>
+        <link href="https://v.daum.net/v/20221212211552001"/>
+        <updated>2022-12-12T14:18:40.811Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노동계 “장시간 노동 회귀” vs 경영계 “부족하지만 환영”]]></title>
         <id>https://v.daum.net/v/20221212211215971</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221212203913562"/>
         <updated>2022-12-12T12:39:26.604Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[떼인 보증금 받기까지 '산 넘어 산'…정부는 해법 못 내놔]]></title>
-        <id>https://v.daum.net/v/20221212203707534</id>
-        <link href="https://v.daum.net/v/20221212203707534"/>
-        <updated>2022-12-12T12:39:26.606Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
