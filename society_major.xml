@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2022-12-12T15:23:04.925Z</updated>
+    <updated>2022-12-12T16:36:28.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -10,6 +10,20 @@
         <id>https://v.daum.net/v/20221213000637237</id>
         <link href="https://v.daum.net/v/20221213000637237"/>
         <updated>2022-12-12T15:20:49.165Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“박람회 통해 ‘바다잡초’로 인식됐던 해조류의 가치 입증”]]></title>
+        <id>https://v.daum.net/v/20221213000148150</id>
+        <link href="https://v.daum.net/v/20221213000148150"/>
+        <updated>2022-12-12T16:34:10.214Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“더 추워져라~” 3년만에 겨울축제 대박 꿈꾸는 강원도]]></title>
+        <id>https://v.daum.net/v/20221213000158157</id>
+        <link href="https://v.daum.net/v/20221213000158157"/>
+        <updated>2022-12-12T16:34:10.219Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20221212223812697"/>
         <updated>2022-12-12T15:20:49.182Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조금박해 반발에 유시민 추가질문, "필요하면 또 쓸 생각"]]></title>
-        <id>https://v.daum.net/v/20221212222315617</id>
-        <link href="https://v.daum.net/v/20221212222315617"/>
-        <updated>2022-12-12T15:20:49.184Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일상 위협하는 재난과 사고…학생 안전 교육 강화]]></title>
-        <id>https://v.daum.net/v/20221212215352369</id>
-        <link href="https://v.daum.net/v/20221212215352369"/>
-        <updated>2022-12-12T15:20:49.186Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
