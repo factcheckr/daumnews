@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-12T17:19:37.613Z</updated>
+    <updated>2022-12-12T18:26:39.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인력공고 다음날, 삼성전자 인사팀은 왜 청문회를 당했을까]]></title>
+        <id>https://v.daum.net/v/20221213030115803</id>
+        <link href="https://v.daum.net/v/20221213030115803"/>
+        <updated>2022-12-12T18:26:06.777Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘AR 3D 헤드업 디스플레이’ 상용화...국제표준 획득으로 앞당겨]]></title>
+        <id>https://v.daum.net/v/20221212203302490</id>
+        <link href="https://v.daum.net/v/20221212203302490"/>
+        <updated>2022-12-12T18:26:06.777Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KT 구현모 연임 이번주 결론 가닥…연임 무게]]></title>
         <id>https://v.daum.net/v/20221212190151451</id>
@@ -18,13 +32,6 @@
         <link href="https://v.daum.net/v/20221212190028425"/>
         <updated>2022-12-12T15:22:26.903Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이언맨의 ‘무제한 에너지’ 핵융합 발전 성큼...美연구진, 에너지 ‘순생산’ 첫 성공]]></title>
-        <id>https://v.daum.net/v/20221212184946299</id>
-        <link href="https://v.daum.net/v/20221212184946299"/>
-        <updated>2022-12-12T14:19:35.390Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘인공태양’ 핵융합 발전 방법 찾았나…미 정부, 13일 ‘중요 성과’ 발표]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221212172337333"/>
         <updated>2022-12-12T10:23:28.146Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["바이오는 산업 넘어 안보 자산"… 美·유럽·中 주도권 쟁탈전]]></title>
-        <id>https://v.daum.net/v/20221212171200973</id>
-        <link href="https://v.daum.net/v/20221212171200973"/>
-        <updated>2022-12-12T08:27:30.950Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
