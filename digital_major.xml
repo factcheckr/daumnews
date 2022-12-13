@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-13T02:56:22.626Z</updated>
+    <updated>2022-12-13T03:29:47.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['갓생 살기'에 빠진 MZ세대…네이버 '블로그'로 몰렸다]]></title>
+        <id>https://v.daum.net/v/20221213094326275</id>
+        <link href="https://v.daum.net/v/20221213094326275"/>
+        <updated>2022-12-13T03:29:15.023Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["애플, 2024년 OLED 탑재 맥북 에어·아이패드 프로 출시"]]></title>
         <id>https://v.daum.net/v/20221213093831081</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221213060140254"/>
         <updated>2022-12-13T02:55:50.481Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 반도체가 뭐길래…네이버·이통사도 뛰어들었다]]></title>
-        <id>https://v.daum.net/v/20221213060032200</id>
-        <link href="https://v.daum.net/v/20221213060032200"/>
-        <updated>2022-12-13T02:55:50.483Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
