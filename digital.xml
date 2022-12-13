@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-12-13T19:19:03.870Z</updated>
+    <updated>2022-12-13T20:22:38.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 삼성전자, 갤럭시S23에 ‘맞춤형 고성능 두뇌 반도체’ 탑재한다]]></title>
+        <id>https://v.daum.net/v/20221214050133581</id>
+        <link href="https://v.daum.net/v/20221214050133581"/>
+        <updated>2022-12-13T20:21:54.895Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“한반도에 규모 6 지진 언제든 가능, 단층 지도 만들어 대비해야”]]></title>
         <id>https://v.daum.net/v/20221214034011924</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221213210007638"/>
         <updated>2022-12-13T12:38:15.194Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["오겜사태 방지법, 자칫 콘텐츠산업 생태계 파괴로 이어질 것"]]></title>
-        <id>https://v.daum.net/v/20221213184526194</id>
-        <link href="https://v.daum.net/v/20221213184526194"/>
-        <updated>2022-12-13T12:38:15.196Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
