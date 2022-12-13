@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-12-13T14:20:32.875Z</updated>
+    <updated>2022-12-13T15:26:58.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미 11월 CPI 7.1% 상승…인플레 진정 관측]]></title>
+        <id>https://v.daum.net/v/20221213231530498</id>
+        <link href="https://v.daum.net/v/20221213231530498"/>
+        <updated>2022-12-13T15:25:44.835Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젤렌스키 “러, 성탄절에 군대 철수해야”…G7 “종전 협상안 지지”]]></title>
+        <id>https://v.daum.net/v/20221213215033489</id>
+        <link href="https://v.daum.net/v/20221213215033489"/>
+        <updated>2022-12-13T15:25:44.840Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외신들 ‘BTS 진 입대’에 훈련소까지 취재···메인 뉴스로 다뤄]]></title>
         <id>https://v.daum.net/v/20221213214303332</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20221213212303042"/>
         <updated>2022-12-13T13:27:43.148Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젤렌스키 "겨울 나려면 1조 원조 필요"…佛·獨 추가 지원 약속]]></title>
-        <id>https://v.daum.net/v/20221213212018984</id>
-        <link href="https://v.daum.net/v/20221213212018984"/>
-        <updated>2022-12-13T13:27:43.150Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["과학사에서 중대한 돌파구"…'인공 태양' 가능성 열리나]]></title>
-        <id>https://v.daum.net/v/20221213211213855</id>
-        <link href="https://v.daum.net/v/20221213211213855"/>
-        <updated>2022-12-13T13:27:43.151Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
