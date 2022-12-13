@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-12-13T17:19:26.271Z</updated>
+    <updated>2022-12-13T18:25:55.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[알뜰폰 LTE 가입자 32% 급증… 이젠 ‘통신 4강’?]]></title>
+        <id>https://v.daum.net/v/20221214030401792</id>
+        <link href="https://v.daum.net/v/20221214030401792"/>
+        <updated>2022-12-13T18:25:10.812Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[리뷰] 성능으로 엔비디아 잡았다, AMD 라데온 RX 7900 XTX]]></title>
         <id>https://v.daum.net/v/20221213174806886</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221213191634690"/>
         <updated>2022-12-13T10:22:58.801Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[`경선 자청` 구현모의 승부수]]></title>
-        <id>https://v.daum.net/v/20221213191224648</id>
-        <link href="https://v.daum.net/v/20221213191224648"/>
-        <updated>2022-12-13T10:22:58.802Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>

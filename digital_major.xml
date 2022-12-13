@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-13T17:19:26.245Z</updated>
+    <updated>2022-12-13T18:25:55.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[`경선 자청` 구현모의 승부수]]></title>
+        <id>https://v.daum.net/v/20221213191224648</id>
+        <link href="https://v.daum.net/v/20221213191224648"/>
+        <updated>2022-12-13T18:25:20.794Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ET] ‘대답 척척’ 초거대 AI ‘챗GPT’…구글링 저리 가라?]]></title>
         <id>https://v.daum.net/v/20221213182626843</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221213163909588"/>
         <updated>2022-12-13T09:20:54.964Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파란만장 연임도전 '청신호' 켜진 구현모…'디지코 KT' 힘실린다]]></title>
-        <id>https://v.daum.net/v/20221213163225374</id>
-        <link href="https://v.daum.net/v/20221213163225374"/>
-        <updated>2022-12-13T16:29:16.378Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
