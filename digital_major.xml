@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-14T19:18:09.312Z</updated>
+    <updated>2022-12-14T20:22:35.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KT 대표 '경선' 돌입…구현모 승부수 통할까]]></title>
+        <id>https://v.daum.net/v/20221215000015545</id>
+        <link href="https://v.daum.net/v/20221215000015545"/>
+        <updated>2022-12-14T20:21:59.454Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노트북·스마트폰에 치이더니 '수요 폭발'…대학생 '필수품' 됐다]]></title>
         <id>https://v.daum.net/v/20221214220101779</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221214180023660"/>
         <updated>2022-12-14T10:22:21.416Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["택시 몰아주기 의혹?…공정위, 콜 고르는 비가맹 말만 듣는다"]]></title>
-        <id>https://v.daum.net/v/20221214175417463</id>
-        <link href="https://v.daum.net/v/20221214175417463"/>
-        <updated>2022-12-14T10:22:21.418Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
