@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-14T10:22:52.197Z</updated>
+    <updated>2022-12-14T11:18:54.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20221214185340854"/>
         <updated>2022-12-14T10:22:21.414Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CO2 포집 비용 t당 30달러 이하로…세계적 수준 전략기술 8개 이상 확보]]></title>
+        <id>https://v.daum.net/v/20221214180105686</id>
+        <link href="https://v.daum.net/v/20221214180105686"/>
+        <updated>2022-12-14T11:18:16.324Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내년에 '기후기술 범정부 협의체' 운영한다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221214172201530"/>
         <updated>2022-12-14T09:20:47.713Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[섣부른 방통위 OTT 규제… "틀에 가두지 말라"]]></title>
-        <id>https://v.daum.net/v/20221214171317290</id>
-        <link href="https://v.daum.net/v/20221214171317290"/>
-        <updated>2022-12-14T09:20:47.714Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
