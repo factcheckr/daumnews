@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-12-14T14:19:56.133Z</updated>
+    <updated>2022-12-14T15:22:04.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["시사의 신기원""털면피 방송"... '뉴스공장' 김어준의 공과]]></title>
+        <id>https://v.daum.net/v/20221214200001167</id>
+        <link href="https://v.daum.net/v/20221214200001167"/>
+        <updated>2022-12-14T15:21:21.674Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“먹방족 출입금지” 손님 가려받는 무한리필집, 문제될까[여행 팩트체크]]]></title>
         <id>https://v.daum.net/v/20221214194202888</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221214171955475"/>
         <updated>2022-12-14T09:20:29.173Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['못난이 부츠'가 돌아왔다...신발에도 Y2K 감성]]></title>
-        <id>https://v.daum.net/v/20221214170427031</id>
-        <link href="https://v.daum.net/v/20221214170427031"/>
-        <updated>2022-12-14T09:20:29.176Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
