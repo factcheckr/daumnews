@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-14T17:20:17.009Z</updated>
+    <updated>2022-12-14T18:27:19.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노트북·스마트폰에 치이더니 '수요 폭발'…대학생 '필수품' 됐다]]></title>
+        <id>https://v.daum.net/v/20221214220101779</id>
+        <link href="https://v.daum.net/v/20221214220101779"/>
+        <updated>2022-12-14T18:26:47.869Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우회 침투하는 'SW 공급망 공격'…"국가 차원 통합 관리 필요"]]></title>
         <id>https://v.daum.net/v/20221214195027035</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221214175417463"/>
         <updated>2022-12-14T10:22:21.418Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“머리 심는데 1개 3만원?, ‘이 분’은 어쩌나” 병원 잘못가면 거덜난다]]></title>
-        <id>https://v.daum.net/v/20221214175107370</id>
-        <link href="https://v.daum.net/v/20221214175107370"/>
-        <updated>2022-12-14T09:20:47.704Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
