@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-12-14T09:21:27.379Z</updated>
+    <updated>2022-12-14T10:22:52.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[문화소식] 한국문화재재단, '만신 정순덕의 삶과 굿' 공연]]></title>
+        <id>https://v.daum.net/v/20221214174257150</id>
+        <link href="https://v.daum.net/v/20221214174257150"/>
+        <updated>2022-12-14T10:22:03.616Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3D 프린트로 조각한 동물들]]></title>
         <id>https://v.daum.net/v/20221214174200111</id>
@@ -20,25 +27,11 @@
         <content type="html"><![CDATA[한겨레]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["조기사망 부르는 '비알코올 지방간'…병원방문률은 40% 그쳐"]]></title>
-        <id>https://v.daum.net/v/20221214160205890</id>
-        <link href="https://v.daum.net/v/20221214160205890"/>
-        <updated>2022-12-14T09:20:29.172Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[돌아온 '호두까기인형' 시즌, 올해는 뭘로 골라볼까?]]></title>
         <id>https://v.daum.net/v/20221214171955475</id>
         <link href="https://v.daum.net/v/20221214171955475"/>
         <updated>2022-12-14T09:20:29.173Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독감 vs 감기...이런 증상 있다면 독감 의심]]></title>
-        <id>https://v.daum.net/v/20221214151615085</id>
-        <link href="https://v.daum.net/v/20221214151615085"/>
-        <updated>2022-12-14T09:20:29.173Z</updated>
-        <content type="html"><![CDATA[하이닥]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['못난이 부츠'가 돌아왔다...신발에도 Y2K 감성]]></title>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20221214160853149"/>
         <updated>2022-12-14T08:26:07.395Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인도네시아 한류①]젊은 섬나라, 360도 둘러봐도 K-콘텐츠]]></title>
+        <id>https://v.daum.net/v/20221214160040811</id>
+        <link href="https://v.daum.net/v/20221214160040811"/>
+        <updated>2022-12-14T10:22:03.639Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
