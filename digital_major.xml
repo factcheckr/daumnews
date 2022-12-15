@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-15T11:20:59.030Z</updated>
+    <updated>2022-12-15T12:40:00.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KT, 네트워크 인력 1000명 재배치…디지코 전환 속도]]></title>
+        <id>https://v.daum.net/v/20221215183413439</id>
+        <link href="https://v.daum.net/v/20221215183413439"/>
+        <updated>2022-12-15T12:39:27.084Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리가 IP 가져오면 넷플릭스 투자 안 한다? "프랑스 사례 보라"]]></title>
         <id>https://v.daum.net/v/20221215182435207</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] "원가 절감 타령 그만"…스마트폰 전략 多 뜯어고친 삼성]]></title>
+        <title type="html"><![CDATA[[단독] "원가절감 타령 그만"…多 뜯어고친 삼성, 승부수 던졌다]]></title>
         <id>https://v.daum.net/v/20221215170908033</id>
         <link href="https://v.daum.net/v/20221215170908033"/>
         <updated>2022-12-15T10:22:59.824Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221215170639958"/>
         <updated>2022-12-15T09:20:30.590Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청원 올라갔지만 표류하는 탈석탄법, 어떻게 만들지?]]></title>
-        <id>https://v.daum.net/v/20221215165707652</id>
-        <link href="https://v.daum.net/v/20221215165707652"/>
-        <updated>2022-12-15T09:20:30.594Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
