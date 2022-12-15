@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-12-15T20:21:14.209Z</updated>
+    <updated>2022-12-15T21:18:14.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공방 앞엔, 카페 뒤엔, 우리 옆엔…언제나 박수근 온기가]]></title>
+        <id>https://v.daum.net/v/20221216050019033</id>
+        <link href="https://v.daum.net/v/20221216050019033"/>
+        <updated>2022-12-15T21:17:24.687Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“빠르고 격정적인 1악장보다 느리고 서정적인 2악장이 좋아져”]]></title>
+        <id>https://v.daum.net/v/20221216030309434</id>
+        <link href="https://v.daum.net/v/20221216030309434"/>
+        <updated>2022-12-15T21:17:24.688Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[우리 아이 튼튼하게] 단순 감기엔 항생제 잘 안 써… 세균 감염 질병엔 꼭 써야 해요]]></title>
         <id>https://v.daum.net/v/20221216030305426</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20221215223014190"/>
         <updated>2022-12-15T18:22:52.234Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[땅콩 잘못 보관하면 생기는 일]]></title>
-        <id>https://v.daum.net/v/20221215220017892</id>
-        <link href="https://v.daum.net/v/20221215220017892"/>
-        <updated>2022-12-15T18:22:52.235Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 수도권 '최고 7cm' 눈 뿌린 구름, 충청 이남으로]]></title>
-        <id>https://v.daum.net/v/20221215210912249</id>
-        <link href="https://v.daum.net/v/20221215210912249"/>
-        <updated>2022-12-15T18:22:52.235Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
