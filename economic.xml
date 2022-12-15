@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-12-15T03:27:25.415Z</updated>
+    <updated>2022-12-15T04:26:50.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[문답]'케이큐브 고발' 공정위 "심증은 있지만, 김범수 관여 입증 안 돼"]]></title>
+        <id>https://v.daum.net/v/20221215123015005</id>
+        <link href="https://v.daum.net/v/20221215123015005"/>
+        <updated>2022-12-15T04:24:57.631Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[일문일답]공정위 "'금산분리 위반' 카카오, 총수 고발 없어…정황 입증 어려워"]]></title>
         <id>https://v.daum.net/v/20221215121109659</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221215120308470"/>
         <updated>2022-12-15T03:25:43.457Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3분기 기업 마진율 4%대로 추락…부채비율 6년 만에 최고]]></title>
-        <id>https://v.daum.net/v/20221215120155434</id>
-        <link href="https://v.daum.net/v/20221215120155434"/>
-        <updated>2022-12-15T03:25:43.459Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

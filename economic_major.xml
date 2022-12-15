@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-12-15T03:27:25.401Z</updated>
+    <updated>2022-12-15T04:26:50.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3분기 기업 마진율 4%대로 추락…부채비율 6년 만에 최고]]></title>
+        <id>https://v.daum.net/v/20221215120155434</id>
+        <link href="https://v.daum.net/v/20221215120155434"/>
+        <updated>2022-12-15T04:25:11.788Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공정위 '금산분리 위반' 케이큐브홀딩스 檢고발…김범수 카카오 의장은 제외]]></title>
         <id>https://v.daum.net/v/20221215120038311</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221215114547773"/>
         <updated>2022-12-15T02:50:46.431Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 11월 소매판매 5.9% ↓…상하이 봉쇄 이후 최악(종합)]]></title>
-        <id>https://v.daum.net/v/20221215114023586</id>
-        <link href="https://v.daum.net/v/20221215114023586"/>
-        <updated>2022-12-15T03:25:52.512Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
