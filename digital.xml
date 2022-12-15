@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-12-15T14:21:10.292Z</updated>
+    <updated>2022-12-15T15:22:32.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모바일·PC에서 콘솔로도…‘선 넘는 게임’ 크로스 플랫폼]]></title>
+        <id>https://v.daum.net/v/20221216000255740</id>
+        <link href="https://v.daum.net/v/20221216000255740"/>
+        <updated>2022-12-15T15:21:53.384Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다누리 모레 달 궤도 진입 시도 “단 한 번의 기회”]]></title>
         <id>https://v.daum.net/v/20221215215454821</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221215190036953"/>
         <updated>2022-12-15T10:22:51.482Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고학수 위원장 "구글·메타에 1000억 과징금…리더십 만들어"]]></title>
-        <id>https://v.daum.net/v/20221215185403849</id>
-        <link href="https://v.daum.net/v/20221215185403849"/>
-        <updated>2022-12-15T10:22:51.482Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
 </feed>
