@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-15T04:26:50.840Z</updated>
+    <updated>2022-12-15T05:20:35.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SKT·LGU+, 오픈랜 실증 결과 발표회 '플러그페스트' 참가]]></title>
+        <id>https://v.daum.net/v/20221215120233452</id>
+        <link href="https://v.daum.net/v/20221215120233452"/>
+        <updated>2022-12-15T05:20:00.094Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김범수 케이큐브홀딩스가 금융회사?…공정위 고발에 “금융사 아냐" 소명]]></title>
+        <id>https://v.daum.net/v/20221215120215445</id>
+        <link href="https://v.daum.net/v/20221215120215445"/>
+        <updated>2022-12-15T05:20:00.097Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 첫 달탐사선 다누리, 가장 어려운 임무를 시작한다]]></title>
         <id>https://v.daum.net/v/20221215120033298</id>
@@ -48,13 +62,6 @@
         <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[채권자 법정관리 신청…메쉬코리아 "ARS 유효·내년까지 채무변제 마무리"]]></title>
-        <id>https://v.daum.net/v/20221215113249273</id>
-        <link href="https://v.daum.net/v/20221215113249273"/>
-        <updated>2022-12-15T03:26:51.578Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['반도체 한파' 삼성전자 3분기 D램 매출 34.2% 급감…점유율↓]]></title>
         <id>https://v.daum.net/v/20221215111932751</id>
         <link href="https://v.daum.net/v/20221215111932751"/>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221215062019103"/>
         <updated>2022-12-15T03:26:51.582Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘225배’ 기적의 수익률…나눔은 행복한 투자다]]></title>
-        <id>https://v.daum.net/v/20221215101502860</id>
-        <link href="https://v.daum.net/v/20221215101502860"/>
-        <updated>2022-12-15T02:51:43.224Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
