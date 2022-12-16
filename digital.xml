@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-12-16T01:27:07.178Z</updated>
+    <updated>2022-12-16T02:38:00.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MS "한국, 중국 등 이어 4번째 'IoT 멀웨어' 감염 진원지"]]></title>
+        <id>https://v.daum.net/v/20221216111119347</id>
+        <link href="https://v.daum.net/v/20221216111119347"/>
+        <updated>2022-12-16T02:37:22.859Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고양이 말 번역해준다는 어플, 믿어도 될까?]]></title>
         <id>https://v.daum.net/v/20221216101421222</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221216100406785"/>
         <updated>2022-12-16T01:26:26.142Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사이테크+] "인류 직립보행, 평지 아닌 나무 위에서부터 시작된 듯"]]></title>
-        <id>https://v.daum.net/v/20221216095428326</id>
-        <link href="https://v.daum.net/v/20221216095428326"/>
-        <updated>2022-12-16T01:26:26.143Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
