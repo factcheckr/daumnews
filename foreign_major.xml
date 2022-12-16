@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-12-16T14:18:41.367Z</updated>
+    <updated>2022-12-16T15:22:45.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[IMF "코로나 기간 과도하게 오른 한국 집값...10%p 하락 예측"]]></title>
+        <id>https://v.daum.net/v/20221216222226411</id>
+        <link href="https://v.daum.net/v/20221216222226411"/>
+        <updated>2022-12-16T15:21:38.123Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[독일 초대형 수족관 별안간 '펑'→도심 물난리…원인은 깜짝 추위?]]></title>
         <id>https://v.daum.net/v/20221216214647756</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221216203335403"/>
         <updated>2022-12-16T12:33:55.281Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 코로나 환자 폭증에 "화장하려면 5~6일"‥의료진까지 대거 감염]]></title>
-        <id>https://v.daum.net/v/20221216203300395</id>
-        <link href="https://v.daum.net/v/20221216203300395"/>
-        <updated>2022-12-16T12:33:55.285Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
