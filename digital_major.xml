@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-17T04:25:17.267Z</updated>
+    <updated>2022-12-17T05:20:41.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[과학을읽다]美 스타링크 vs 中 일대일로…우주인터넷 경쟁 불붙었다]]></title>
+        <id>https://v.daum.net/v/20221217100450303</id>
+        <link href="https://v.daum.net/v/20221217100450303"/>
+        <updated>2022-12-17T05:20:02.316Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[달 향한 '골드러시'…"金보다 귀한 자원 찾는다" [달 탐사 패권경쟁②]]]></title>
         <id>https://v.daum.net/v/20221217100014212</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221217080016152"/>
         <updated>2022-12-17T01:24:23.617Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인공지능(AI)의 두 얼굴]]></title>
-        <id>https://v.daum.net/v/20221217070007704</id>
-        <link href="https://v.daum.net/v/20221217070007704"/>
-        <updated>2022-12-17T01:24:23.619Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
