@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2022-12-17T19:16:09.206Z</updated>
+    <updated>2022-12-17T20:20:03.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가상현실 기술 개척자' 존 카맥 전 CTO, 메타 떠난다]]></title>
+        <id>https://v.daum.net/v/20221218042825333</id>
+        <link href="https://v.daum.net/v/20221218042825333"/>
+        <updated>2022-12-17T20:17:29.618Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WSJ "이번 美주택시장 침체는 2008년 금융위기와 다를 것"]]></title>
         <id>https://v.daum.net/v/20221218030631286</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20221217220018468"/>
         <updated>2022-12-17T19:13:44.126Z</updated>
         <content type="html"><![CDATA[문화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 내년에도 5% 이하 실업률…그러나 고용주는 “일할 사람이 없다”]]></title>
-        <id>https://v.daum.net/v/20221217220310502</id>
-        <link href="https://v.daum.net/v/20221217220310502"/>
-        <updated>2022-12-17T19:13:44.127Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
     </entry>
 </feed>
