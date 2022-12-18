@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-12-18T19:16:40.568Z</updated>
+    <updated>2022-12-18T20:20:53.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[50년 넘은 초고령 주택, 서울에 2만3000채]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/fBHStxPl0U</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/fBHStxPl0U"/>
+        <updated>2022-12-18T20:20:19.638Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나무 산타]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/93ufJlC29h</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033573/ySuD7XGMa5"/>
         <updated>2022-12-18T02:38:57.098Z</updated>
         <content type="html"><![CDATA[전통시장 모습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한파에도 불 밝힌 ‘윤석열 퇴진’ 촛불 [만리재사진첩]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1629566/GEoI4upadD</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1629566/GEoI4upadD"/>
-        <updated>2022-12-18T01:27:13.973Z</updated>
-        <content type="html"><![CDATA[만리재사진첩]]></content>
     </entry>
 </feed>
