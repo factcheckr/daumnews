@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-12-18T01:27:43.409Z</updated>
+    <updated>2022-12-18T02:39:29.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["분명 들어봤는데"…임윤찬·조성진 손에서 울려퍼진 소리 정체 [김수현의 THE클래식]]]></title>
+        <id>https://v.daum.net/v/20221218090301153</id>
+        <link href="https://v.daum.net/v/20221218090301153"/>
+        <updated>2022-12-18T02:38:25.148Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[거리두기 없는 3년 만의 크리스마스 콘서트]]></title>
         <id>https://v.daum.net/v/20221218085818044</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221218070010271"/>
         <updated>2022-12-17T23:18:35.527Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[짜장면을 안주로 들면 녀석이 생각난다]]></title>
-        <id>https://v.daum.net/v/20221218061806039</id>
-        <link href="https://v.daum.net/v/20221218061806039"/>
-        <updated>2022-12-17T23:18:35.532Z</updated>
-        <content type="html"><![CDATA[시사IN]]></content>
     </entry>
 </feed>
