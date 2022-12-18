@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-12-18T17:17:49.209Z</updated>
+    <updated>2022-12-18T18:23:18.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이건희가 사랑한 ‘안개 낀 숲’… 모호하고 몽환적인 ‘이중 그림’]]></title>
+        <id>https://v.daum.net/v/20221218205619013</id>
+        <link href="https://v.daum.net/v/20221218205619013"/>
+        <updated>2022-12-18T18:22:26.795Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쉬운 우리말 쓰기] 오토캠핑과 자동차 야영]]></title>
         <id>https://v.daum.net/v/20221218203229813</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221218173037866"/>
         <updated>2022-12-18T11:16:01.511Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나, 그대, 우리의 초상.. 이 시대에 전하는 위로의 시선]]></title>
-        <id>https://v.daum.net/v/20221218173002843</id>
-        <link href="https://v.daum.net/v/20221218173002843"/>
-        <updated>2022-12-18T10:20:11.597Z</updated>
-        <content type="html"><![CDATA[JIBS]]></content>
     </entry>
 </feed>
