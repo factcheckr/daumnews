@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2022-12-19T14:20:42.439Z</updated>
+    <updated>2022-12-19T15:27:53.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[무늬만 인사청문회…“또 시장 보은인사”]]></title>
+        <id>https://v.daum.net/v/20221220000216016</id>
+        <link href="https://v.daum.net/v/20221220000216016"/>
+        <updated>2022-12-19T15:25:18.126Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전장연 '게릴라 시위'로 무정차 맞대응…與 "극단적 이기주의"]]></title>
+        <id>https://v.daum.net/v/20221219232708817</id>
+        <link href="https://v.daum.net/v/20221219232708817"/>
+        <updated>2022-12-19T15:25:18.129Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넉 달만에 또 주차난..지사 공약 '차 없는 도청' 제자리]]></title>
         <id>https://v.daum.net/v/20221219230913752</id>
         <link href="https://v.daum.net/v/20221219230913752"/>
         <updated>2022-12-19T14:18:33.675Z</updated>
         <content type="html"><![CDATA[CJB청주방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공직감찰반 부활? 총리실 "사실과 달라…공직복무관리실 보강"]]></title>
-        <id>https://v.daum.net/v/20221219222446525</id>
-        <link href="https://v.daum.net/v/20221219222446525"/>
-        <updated>2022-12-19T14:18:33.676Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[감사원, ‘김건희 여사 관저 공사 특혜 의혹’ 감사 착수]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221219213643072"/>
         <updated>2022-12-19T13:24:20.577Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부 "노조 지출 보겠다"…양대 노총 "자주권 침해"]]></title>
-        <id>https://v.daum.net/v/20221219211510911</id>
-        <link href="https://v.daum.net/v/20221219211510911"/>
-        <updated>2022-12-19T12:35:09.836Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
