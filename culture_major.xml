@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-12-19T18:25:43.635Z</updated>
+    <updated>2022-12-19T19:18:07.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어두워지면 갑자기 두통·눈 통증…혹시 ‘폐쇄각 녹내장’?]]></title>
+        <id>https://v.daum.net/v/20221220030222584</id>
+        <link href="https://v.daum.net/v/20221220030222584"/>
+        <updated>2022-12-19T19:17:10.032Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전수형 교수의 한방 이야기] 코로나 후유증, 체질별 관리 필요]]></title>
         <id>https://v.daum.net/v/20221220030217578</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221219200311179"/>
         <updated>2022-12-19T18:24:43.771Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 겪고 나니…"일보다 여가"·"각자도생"]]></title>
-        <id>https://v.daum.net/v/20221219181807552</id>
-        <link href="https://v.daum.net/v/20221219181807552"/>
-        <updated>2022-12-19T15:26:40.416Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
