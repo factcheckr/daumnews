@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-12-19T04:25:19.879Z</updated>
+    <updated>2022-12-19T05:20:05.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“음표마다 상처입은 영혼...베토벤은 록스타 같았다”]]></title>
+        <id>https://v.daum.net/v/20221219113652672</id>
+        <link href="https://v.daum.net/v/20221219113652672"/>
+        <updated>2022-12-19T05:19:06.428Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연말연시 모임에서 ‘나도 말 잘하고 싶은데...’ 생각한다면]]></title>
         <id>https://v.daum.net/v/20221219113101379</id>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20221219090922619</id>
         <link href="https://v.daum.net/v/20221219090922619"/>
         <updated>2022-12-19T04:24:13.725Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘행복한 공예교육’ 작가·시민 2000여명 참여]]></title>
-        <id>https://v.daum.net/v/20221219090921618</id>
-        <link href="https://v.daum.net/v/20221219090921618"/>
-        <updated>2022-12-19T04:24:13.727Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
     </entry>
 </feed>
