@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-12-19T19:18:07.309Z</updated>
+    <updated>2022-12-19T20:25:42.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[완벽한 '라스트 댄스']]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/230W3Isb0l</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/230W3Isb0l"/>
+        <updated>2022-12-19T20:25:09.502Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한라산 자락 수놓은 눈꽃]]></title>
         <id>https://gallery.v.daum.net/p/viewer/47169/pc7PA8fOfM</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1397984/Xcfv1t5JVb"/>
         <updated>2022-12-19T07:18:53.978Z</updated>
         <content type="html"><![CDATA[퇴근길 한 컷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['북극 아니고 영종도' 外]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5611563/UDDnEDkUgG</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5611563/UDDnEDkUgG"/>
-        <updated>2022-12-19T07:18:53.978Z</updated>
-        <content type="html"><![CDATA[사진구성]]></content>
     </entry>
 </feed>
