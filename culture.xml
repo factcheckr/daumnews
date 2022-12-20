@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-12-20T05:19:31.103Z</updated>
+    <updated>2022-12-20T06:29:41.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['통합상징' 여수 새 현충탑, 이순신공원에 조성]]></title>
+        <id>https://v.daum.net/v/20221220145417911</id>
+        <link href="https://v.daum.net/v/20221220145417911"/>
+        <updated>2022-12-20T06:28:40.950Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나윤선의 '예측 불가능' 소리의 향연]]></title>
         <id>https://v.daum.net/v/20221220140703777</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221220135301294"/>
         <updated>2022-12-20T05:18:28.866Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한파특보 해제 추위 주춤… 내일 ‘눈’, 모레 ‘다시 한파’]]></title>
-        <id>https://v.daum.net/v/20221220134340052</id>
-        <link href="https://v.daum.net/v/20221220134340052"/>
-        <updated>2022-12-20T05:18:28.868Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
