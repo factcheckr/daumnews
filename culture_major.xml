@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-12-20T07:19:36.837Z</updated>
+    <updated>2022-12-20T08:25:45.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나윤선의 '예측 불가능' 소리의 향연]]></title>
+        <id>https://v.daum.net/v/20221220140703777</id>
+        <link href="https://v.daum.net/v/20221220140703777"/>
+        <updated>2022-12-20T08:24:53.544Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[신효승의 역사 속 장소 이야기⑫] 아관파천의 길]]></title>
         <id>https://v.daum.net/v/20221220140412685</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221220120143904"/>
         <updated>2022-12-20T05:18:36.759Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[우리들의 점심시간] "여기 국밥 하나요" 음식만 주문한 게 아닙니다]]></title>
-        <id>https://v.daum.net/v/20221220112702033</id>
-        <link href="https://v.daum.net/v/20221220112702033"/>
-        <updated>2022-12-20T04:24:30.151Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
