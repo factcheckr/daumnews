@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-20T10:22:45.152Z</updated>
+    <updated>2022-12-20T11:17:42.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1200만 고객 알뜰폰, 이젠 5G시장 도전하나]]></title>
+        <id>https://v.daum.net/v/20221220173308072</id>
+        <link href="https://v.daum.net/v/20221220173308072"/>
+        <updated>2022-12-20T11:17:11.663Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나19로 웅크렸던 의료관광, 다시 기지개 켠다]]></title>
         <id>https://v.daum.net/v/20221220171301416</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221220150013184"/>
         <updated>2022-12-20T07:18:56.462Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 5G, 속도 1위 올랐지만 가용성은 미국에 뒤져]]></title>
-        <id>https://v.daum.net/v/20221220145505943</id>
-        <link href="https://v.daum.net/v/20221220145505943"/>
-        <updated>2022-12-20T07:18:56.463Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
