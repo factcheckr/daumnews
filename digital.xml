@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-12-21T03:22:39.401Z</updated>
+    <updated>2022-12-21T04:24:40.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[과기정통부, 28㎓용 앵커 주파수 고민... 제4이통 등장 근거되나]]></title>
+        <id>https://v.daum.net/v/20221221123103156</id>
+        <link href="https://v.daum.net/v/20221221123103156"/>
+        <updated>2022-12-21T04:24:00.141Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[40만 가구 집안 들여다본 해킹범 잡혔다…경찰 "구속영장 재신청 검토"]]></title>
         <id>https://v.daum.net/v/20221221121412854</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221221101206635"/>
         <updated>2022-12-21T03:21:52.495Z</updated>
         <content type="html"><![CDATA[게임톡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통신 업계 2023년 3대 과제는…'주파수·규제·AI']]></title>
-        <id>https://v.daum.net/v/20221221113330522</id>
-        <link href="https://v.daum.net/v/20221221113330522"/>
-        <updated>2022-12-21T02:38:13.668Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
