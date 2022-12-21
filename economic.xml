@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-12-21T13:25:16.401Z</updated>
+    <updated>2022-12-21T14:19:23.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[불면증·우울증·ADHD… 약 대신 ‘디지털 치료제’로 고친다]]></title>
+        <id>https://v.daum.net/v/20221221224247339</id>
+        <link href="https://v.daum.net/v/20221221224247339"/>
+        <updated>2022-12-21T14:17:44.127Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘중국의 봄’은 증시에서…어디에 투자할 것인가]]></title>
         <id>https://v.daum.net/v/20221221215708923</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221221205704082"/>
         <updated>2022-12-21T12:35:15.772Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["스타벅스도 매출 성장 둔화…올해 잘 버텼지만 내년엔 고전"]]></title>
-        <id>https://v.daum.net/v/20221221204355852</id>
-        <link href="https://v.daum.net/v/20221221204355852"/>
-        <updated>2022-12-21T12:35:15.773Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
