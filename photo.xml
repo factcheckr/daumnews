@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-12-21T20:21:47.244Z</updated>
+    <updated>2022-12-21T21:18:29.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나19 사태 후 최대 인파 준비하는 뉴욕]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5619500/YVANAOmBaK</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5619500/YVANAOmBaK"/>
+        <updated>2022-12-21T21:18:07.193Z</updated>
+        <content type="html"><![CDATA[월드&amp;포토]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국 도착 젤렌스키…바이든 어깨동무하며 환영 [포착]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5632022/xGkK6idYEs</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/47169/fJCOzbqkTe"/>
         <updated>2022-12-21T09:20:04.245Z</updated>
         <content type="html"><![CDATA[눈 오는 풍경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["메시 왔다" 환호가 비극으로…20대 추락사, 5살 아이 혼수상태 [이시각]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5615619/fo9hH5Xep1</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5615619/fo9hH5Xep1"/>
-        <updated>2022-12-21T09:20:04.246Z</updated>
-        <content type="html"><![CDATA[이 시각]]></content>
     </entry>
 </feed>
