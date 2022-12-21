@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-12-21T22:22:35.441Z</updated>
+    <updated>2022-12-21T23:22:31.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지하철 혼잡도에 사고소식까지 알려준다…공적 역할 커진 교통앱]]></title>
+        <id>https://v.daum.net/v/20221222080016657</id>
+        <link href="https://v.daum.net/v/20221222080016657"/>
+        <updated>2022-12-21T23:21:47.583Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이영완의 디알로고] “인간은 150세까지 살 수 있다…200년 이상 바다 누비는 고래에서 배워라”]]></title>
         <id>https://v.daum.net/v/20221222070026783</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221222060038039"/>
         <updated>2022-12-21T21:17:51.431Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“옥석 가린다” 네이버·카카오, 불황에도 스타트업 공격적 투자]]></title>
-        <id>https://v.daum.net/v/20221222060054081</id>
-        <link href="https://v.daum.net/v/20221222060054081"/>
-        <updated>2022-12-21T21:17:51.431Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
