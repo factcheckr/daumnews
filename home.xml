@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2022-12-22T16:29:56.698Z</updated>
+    <updated>2022-12-22T17:19:10.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[징병제 폐지하고 병력 56% 줄인 벨기에, 30년만에 확대 계획]]></title>
+        <id>https://v.daum.net/v/20221223020006866</id>
+        <link href="https://v.daum.net/v/20221223020006866"/>
+        <updated>2022-12-22T17:17:05.821Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스위스, EU 전력소비 감축 동참…횡재세 부과는 제외]]></title>
         <id>https://v.daum.net/v/20221223011540783</id>
@@ -76,25 +83,11 @@
         <content type="html"><![CDATA[사회]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국 방문 젤렌스키, 귀국길에 이웃 폴란드 대통령과 회담]]></title>
-        <id>https://v.daum.net/v/20221223002923542</id>
-        <link href="https://v.daum.net/v/20221223002923542"/>
-        <updated>2022-12-22T16:27:33.491Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[李, 강원 현장 최고위...'檢 소환통보' 입장 발표 주목]]></title>
         <id>https://v.daum.net/v/20221223000605442</id>
         <link href="https://v.daum.net/v/20221223000605442"/>
         <updated>2022-12-22T16:27:33.492Z</updated>
         <content type="html"><![CDATA[정치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스페인 하원, '성전환자 권리' 법안 통과…신분증 성별 변경 간소화]]></title>
-        <id>https://v.daum.net/v/20221223001956512</id>
-        <link href="https://v.daum.net/v/20221223001956512"/>
-        <updated>2022-12-22T16:27:33.494Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“집 팔아도 빚 못 갚을 수도”… 부동산 경착륙, 경고음]]></title>
@@ -144,5 +137,12 @@
         <link href="https://v.daum.net/v/20221222234517215"/>
         <updated>2022-12-22T15:20:01.286Z</updated>
         <content type="html"><![CDATA[문화]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“남들이 반도체 안좋다 할 때 역발상” 관심 여전한 종목 2개]]></title>
+        <id>https://v.daum.net/v/20221222230001013</id>
+        <link href="https://v.daum.net/v/20221222230001013"/>
+        <updated>2022-12-22T17:17:05.872Z</updated>
+        <content type="html"><![CDATA[경제]]></content>
     </entry>
 </feed>
