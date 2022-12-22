@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-12-22T17:19:10.731Z</updated>
+    <updated>2022-12-22T18:25:11.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마이크론도 인텔도 감원… 반도체업계 13년만의 한파]]></title>
+        <id>https://v.daum.net/v/20221223030240019</id>
+        <link href="https://v.daum.net/v/20221223030240019"/>
+        <updated>2022-12-22T18:24:27.741Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온실가스 줄이고 수명은 더 길게… 크리스마스트리도 진화한다]]></title>
+        <id>https://v.daum.net/v/20221223030119949</id>
+        <link href="https://v.daum.net/v/20221223030119949"/>
+        <updated>2022-12-22T18:24:27.741Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘전자강국’ 몰린 동아시아, 전자 불황에 직격탄]]></title>
         <id>https://v.daum.net/v/20221222200022493</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20221222182733974"/>
         <updated>2022-12-22T13:27:21.311Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]엔씨, 내년에도 '전사 출근제' 쐐기…"신작 개발 힘써야"]]></title>
-        <id>https://v.daum.net/v/20221222182556947</id>
-        <link href="https://v.daum.net/v/20221222182556947"/>
-        <updated>2022-12-22T13:27:21.312Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엔데믹' 속 새 근무제 띄운 네이버·카카오, 새해 앞두고 채비]]></title>
-        <id>https://v.daum.net/v/20221222180723453</id>
-        <link href="https://v.daum.net/v/20221222180723453"/>
-        <updated>2022-12-22T13:27:21.313Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>

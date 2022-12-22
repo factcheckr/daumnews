@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-12-22T17:19:10.758Z</updated>
+    <updated>2022-12-22T18:25:11.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[복 토끼]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/95OxhKBE2R</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/95OxhKBE2R"/>
+        <updated>2022-12-22T18:24:45.056Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕문화원, 할렘 고교서 김치 담그기 체험 행사]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1476/Vk0X6OmB19</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1397984/PsgaMjatK6"/>
         <updated>2022-12-22T07:18:30.996Z</updated>
         <content type="html"><![CDATA[퇴근길 한 컷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산 해운대 갈매기떼]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5035065/7h0SOHYxl8</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5035065/7h0SOHYxl8"/>
-        <updated>2022-12-22T07:18:30.996Z</updated>
-        <content type="html"><![CDATA[부산은 지금]]></content>
     </entry>
 </feed>
