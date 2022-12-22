@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-12-22T22:19:50.477Z</updated>
+    <updated>2022-12-22T23:22:29.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버 블록딜에 휘청한 '자이언트스텝', 가상인간으로 반등할까]]></title>
+        <id>https://v.daum.net/v/20221223072105398</id>
+        <link href="https://v.daum.net/v/20221223072105398"/>
+        <updated>2022-12-22T23:21:47.295Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베일 벗은 네이버 도착보장…왜 '선물하기' 기능은 없을까]]></title>
         <id>https://v.daum.net/v/20221223070001061</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221223030240019"/>
         <updated>2022-12-22T18:24:27.741Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온실가스 줄이고 수명은 더 길게… 크리스마스트리도 진화한다]]></title>
-        <id>https://v.daum.net/v/20221223030119949</id>
-        <link href="https://v.daum.net/v/20221223030119949"/>
-        <updated>2022-12-22T18:24:27.741Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
