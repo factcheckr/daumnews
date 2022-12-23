@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-12-23T18:24:24.530Z</updated>
+    <updated>2022-12-23T19:17:11.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우크라 vs 러시아, 운명 건 ‘겨울전쟁’ 세계지형 바꾼다]]></title>
+        <id>https://v.daum.net/v/20221224040906397</id>
+        <link href="https://v.daum.net/v/20221224040906397"/>
+        <updated>2022-12-23T19:15:51.492Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“北, 러 용병집단에 무기 팔았다”]]></title>
         <id>https://v.daum.net/v/20221224030507300</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221224030052181"/>
         <updated>2022-12-23T18:22:53.669Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내년 영국 실질임금, 2006년來 최저" PwC]]></title>
-        <id>https://v.daum.net/v/20221224025156151</id>
-        <link href="https://v.daum.net/v/20221224025156151"/>
-        <updated>2022-12-23T18:22:53.670Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
