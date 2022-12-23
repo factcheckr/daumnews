@@ -2,29 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-23T02:41:39.611Z</updated>
+    <updated>2022-12-23T03:22:29.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[하루에 1분씩 3번만 뛰세요, 암 사망률 38% 줄여줍니다]]></title>
-        <id>https://v.daum.net/v/20221223100508394</id>
-        <link href="https://v.daum.net/v/20221223100508394"/>
-        <updated>2022-12-23T02:41:06.682Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[원안위, 방사선안전관리 위반 업체 행정처분 보류]]></title>
         <id>https://v.daum.net/v/20221223100014201</id>
         <link href="https://v.daum.net/v/20221223100014201"/>
         <updated>2022-12-23T02:41:06.684Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청년 수학자 장기 연구 지원하는 '허준이 연구소' 내년 신설]]></title>
-        <id>https://v.daum.net/v/20221223094706791</id>
-        <link href="https://v.daum.net/v/20221223094706791"/>
-        <updated>2022-12-23T02:41:06.690Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[노로바이러스 감염증, 한달새 2배 넘게 증가…영유아 중심 확산]]></title>
@@ -74,5 +60,19 @@
         <link href="https://v.daum.net/v/20221223060214466"/>
         <updated>2022-12-23T02:41:06.702Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해 넘기는 KT CEO 선임…구현모 '자신감'에도 조직은 뒤숭숭]]></title>
+        <id>https://v.daum.net/v/20221223060013315</id>
+        <link href="https://v.daum.net/v/20221223060013315"/>
+        <updated>2022-12-23T03:21:52.447Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“반도체 재고 넘쳐난다” 13년만의 최악 한파에 결국…]]></title>
+        <id>https://v.daum.net/v/20221223030240019</id>
+        <link href="https://v.daum.net/v/20221223030240019"/>
+        <updated>2022-12-23T03:21:52.449Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
