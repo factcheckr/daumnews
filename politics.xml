@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2022-12-24T08:24:12.290Z</updated>
+    <updated>2022-12-24T09:18:56.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국민의힘 "이재명 출두하라" vs 민주당 "尹 가족엔 왜 눈 감나"]]></title>
+        <id>https://v.daum.net/v/20221224175831853</id>
+        <link href="https://v.daum.net/v/20221224175831853"/>
+        <updated>2022-12-24T09:16:52.112Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민의힘, 전대 룰 확정...'윤심 전쟁' 본격화되나]]></title>
         <id>https://v.daum.net/v/20221224170736263</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221224154403607"/>
         <updated>2022-12-24T08:22:22.513Z</updated>
         <content type="html"><![CDATA[시사저널]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민의힘 “행안장관의 현장지휘?… 혼선만 가중시켰을 것”]]></title>
-        <id>https://v.daum.net/v/20221224153444533</id>
-        <link href="https://v.daum.net/v/20221224153444533"/>
-        <updated>2022-12-24T08:22:22.515Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
