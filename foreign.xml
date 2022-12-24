@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2022-12-24T12:33:34.838Z</updated>
+    <updated>2022-12-24T13:22:38.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[젤렌스키 우크라 대통령 "러, 크리스마스 동안 더 많은 공습할 수도"]]></title>
+        <id>https://v.daum.net/v/20221224214534108</id>
+        <link href="https://v.daum.net/v/20221224214534108"/>
+        <updated>2022-12-24T13:21:31.989Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["中 동부도시 코로나 일일확진 49만~53만명…12월에만 2억5천만명 감염 추정도"]]></title>
         <id>https://v.daum.net/v/20221224212712847</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221224202517925"/>
         <updated>2022-12-24T12:32:07.855Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[獨 대통령 "단결 속 어려움 견뎌야…우크라전 빨리 안 끝날 듯"]]></title>
-        <id>https://v.daum.net/v/20221224201432708</id>
-        <link href="https://v.daum.net/v/20221224201432708"/>
-        <updated>2022-12-24T12:32:07.856Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
