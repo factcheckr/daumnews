@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-12-25T13:23:23.263Z</updated>
+    <updated>2022-12-25T14:17:36.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20221225213509352"/>
         <updated>2022-12-25T13:21:54.533Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해외 항만 운영…부산항 국내 첫 도전]]></title>
+        <id>https://v.daum.net/v/20221225213358342</id>
+        <link href="https://v.daum.net/v/20221225213358342"/>
+        <updated>2022-12-25T14:16:03.877Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스를 만나다] “월급 250만 원인데 470억 원 소송”]]></title>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20221225204512047</id>
         <link href="https://v.daum.net/v/20221225204512047"/>
         <updated>2022-12-25T12:33:52.943Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["다주택자 규제 푼다" 발표…일부는 관심 속 당장은 글쎄]]></title>
-        <id>https://v.daum.net/v/20221225204204027</id>
-        <link href="https://v.daum.net/v/20221225204204027"/>
-        <updated>2022-12-25T12:33:52.945Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
