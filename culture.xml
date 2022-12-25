@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2022-12-25T03:21:29.908Z</updated>
+    <updated>2022-12-25T04:23:57.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양파·포도 말고도… 껍질째 먹으면 좋은 식품]]></title>
+        <id>https://v.daum.net/v/20221225123015726</id>
+        <link href="https://v.daum.net/v/20221225123015726"/>
+        <updated>2022-12-25T04:22:57.043Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5개월 만에 선 체중계, 입에서 욕이 튀어나왔다]]></title>
         <id>https://v.daum.net/v/20221225110323550</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221225102302935"/>
         <updated>2022-12-25T01:29:56.034Z</updated>
         <content type="html"><![CDATA[한겨레21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무리한 산행은 위험…산행 전에는 숲길의 ‘○○○’부터 확인하라]]></title>
-        <id>https://v.daum.net/v/20221225101322792</id>
-        <link href="https://v.daum.net/v/20221225101322792"/>
-        <updated>2022-12-25T01:29:56.040Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
