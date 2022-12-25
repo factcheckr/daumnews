@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-12-25T18:23:14.700Z</updated>
+    <updated>2022-12-25T19:16:11.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국인들 감기약 싹쓸이에… 日 약국들 몸살 [이상훈 특파원의 도쿄 현장]]]></title>
+        <id>https://v.daum.net/v/20221226030329458</id>
+        <link href="https://v.daum.net/v/20221226030329458"/>
+        <updated>2022-12-25T19:14:59.251Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 “주한미군 규모 유지… 대만에 무기 지원”]]></title>
         <id>https://v.daum.net/v/20221226030155354</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221226001958081"/>
         <updated>2022-12-25T18:22:01.712Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이란 히잡시위 불댕긴 아미니, 트위터 정치화 논란 머스크]]></title>
-        <id>https://v.daum.net/v/20221226000139976</id>
-        <link href="https://v.daum.net/v/20221226000139976"/>
-        <updated>2022-12-25T18:22:01.714Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
