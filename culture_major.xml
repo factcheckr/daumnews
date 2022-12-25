@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-12-25T11:16:18.750Z</updated>
+    <updated>2022-12-25T12:35:25.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한강 ‘꽁꽁’…평년보다 16일 빨리 얼어붙어]]></title>
+        <id>https://v.daum.net/v/20221225205040073</id>
+        <link href="https://v.daum.net/v/20221225205040073"/>
+        <updated>2022-12-25T12:34:30.978Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조카를 살해한 세조의 능침에서 발견한 미묘한 풍경 [중앙선 역사문화기행]]]></title>
         <id>https://v.daum.net/v/20221225174810393</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221225150805060"/>
         <updated>2022-12-25T09:18:46.022Z</updated>
         <content type="html"><![CDATA[시사저널]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조개·굴, 해감 제대로 안 하면 생기는 일]]></title>
-        <id>https://v.daum.net/v/20221225140015841</id>
-        <link href="https://v.daum.net/v/20221225140015841"/>
-        <updated>2022-12-25T08:23:46.430Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
