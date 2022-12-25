@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-12-25T05:18:28.469Z</updated>
+    <updated>2022-12-25T06:24:10.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[변화하는 신림동 고시촌에 가봤습니다 [우리 도시 에세이]]]></title>
+        <id>https://v.daum.net/v/20221225110601584</id>
+        <link href="https://v.daum.net/v/20221225110601584"/>
+        <updated>2022-12-25T06:23:19.087Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아찔하고 아득하고... 533개 계단 지옥의 끝]]></title>
         <id>https://v.daum.net/v/20221225110303541</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221225090022851"/>
         <updated>2022-12-25T01:30:04.011Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['겨울=규슈·홋카이도' 공식 깨졌다…한국 사람들 왜 요즘 오사카 많이 갈까]]></title>
-        <id>https://v.daum.net/v/20221225090003814</id>
-        <link href="https://v.daum.net/v/20221225090003814"/>
-        <updated>2022-12-25T01:30:04.012Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
