@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-12-26T11:17:01.469Z</updated>
+    <updated>2022-12-26T12:35:27.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유빙 둥둥…북극 같은 한강[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/065wCog1u8</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/065wCog1u8"/>
+        <updated>2022-12-26T12:35:04.917Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아산 국도서 중앙분리대 넘어 추돌한 승용차]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1473/0LUXOnLZoz</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/506571/uACr351iav"/>
         <updated>2022-12-26T07:18:48.228Z</updated>
         <content type="html"><![CDATA[사진톡톡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['묵묵부답' 영장실질심사 받는 박희영 용산구청장]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5615618/BdUBdxMT2F</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5615618/BdUBdxMT2F"/>
-        <updated>2022-12-26T06:25:36.384Z</updated>
-        <content type="html"><![CDATA[오마이포토]]></content>
     </entry>
 </feed>
