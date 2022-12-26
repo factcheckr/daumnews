@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-26T04:27:09.085Z</updated>
+    <updated>2022-12-26T05:19:42.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["삼성 '엑시노스2300', 갤럭시S22FE에 탑재 전망"]]></title>
+        <id>https://v.daum.net/v/20221226105154978</id>
+        <link href="https://v.daum.net/v/20221226105154978"/>
+        <updated>2022-12-26T05:19:03.794Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화이자가 한국 의료데이터 스타트업을 보스턴에 초청한 이유]]></title>
         <id>https://v.daum.net/v/20221226060049361</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221226082807151"/>
         <updated>2022-12-26T02:41:28.837Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['만성적자' AI 의료기기 업계… 원인은 내부에도 있다?]]></title>
-        <id>https://v.daum.net/v/20221226081529937</id>
-        <link href="https://v.daum.net/v/20221226081529937"/>
-        <updated>2022-12-26T02:41:28.839Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
