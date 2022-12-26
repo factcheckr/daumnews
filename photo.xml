@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-12-26T18:24:35.844Z</updated>
+    <updated>2022-12-26T19:16:42.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경제난에 얼어붙은 사랑의 불씨]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/UoV5HChVro</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/UoV5HChVro"/>
+        <updated>2022-12-26T19:16:07.351Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[눈사람과 눈오리[고양이 눈]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/2a6PBtFL2w</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5611563/KTN4hsOKom"/>
         <updated>2022-12-26T07:18:48.216Z</updated>
         <content type="html"><![CDATA[사진구성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부, 공공기관 정원 대규모 구조조정]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5610796/Q53VIrmBjr</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5610796/Q53VIrmBjr"/>
-        <updated>2022-12-26T07:18:48.217Z</updated>
-        <content type="html"><![CDATA[모멘트]]></content>
     </entry>
 </feed>
