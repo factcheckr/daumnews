@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-12-26T21:17:51.741Z</updated>
+    <updated>2022-12-26T22:19:08.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국도 버거운데 구글까지 달려든다… 삼성과 ‘폴더블 경쟁’]]></title>
+        <id>https://v.daum.net/v/20221227061908794</id>
+        <link href="https://v.daum.net/v/20221227061908794"/>
+        <updated>2022-12-26T22:18:24.614Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갤럭시폴드 잘팔린다…삼성 쌍끌이 전략 먹힐까]]></title>
         <id>https://v.daum.net/v/20221227060034497</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221227060009435"/>
         <updated>2022-12-26T21:17:15.719Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[28㎓ 주파수 취소에도 '지하철 와이파이' 달린다…내년엔 상용화되나]]></title>
-        <id>https://v.daum.net/v/20221227053010247</id>
-        <link href="https://v.daum.net/v/20221227053010247"/>
-        <updated>2022-12-26T21:17:15.721Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
