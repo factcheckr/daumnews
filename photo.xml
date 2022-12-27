@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-12-27T17:18:08.256Z</updated>
+    <updated>2022-12-27T18:24:05.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나무 전봇대]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/Gzv85kEuKa</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/Gzv85kEuKa"/>
+        <updated>2022-12-27T18:23:38.943Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘안녕, 2022’]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/7156/P1EuhdJG2E</id>
+        <link href="https://gallery.v.daum.net/p/viewer/7156/P1EuhdJG2E"/>
+        <updated>2022-12-27T18:23:38.945Z</updated>
+        <content type="html"><![CDATA[포토 에세이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김경수 "윤 대통령 특별사면, 억지 선물"]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5615618/VKS3JmsbBI</id>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5612596/zNXGLWYxha"/>
         <updated>2022-12-27T08:29:16.608Z</updated>
         <content type="html"><![CDATA[머니S포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북 무인기 침범에 중단된 안보관광지 外]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5611563/9LSYxIC2a5</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5611563/9LSYxIC2a5"/>
-        <updated>2022-12-27T08:29:16.615Z</updated>
-        <content type="html"><![CDATA[사진구성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이 정도 추위쯤이야” 강으로 풍덩[퇴근길 한 컷]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1397984/UM0HWf4I2L</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1397984/UM0HWf4I2L"/>
-        <updated>2022-12-27T08:29:16.619Z</updated>
-        <content type="html"><![CDATA[퇴근길 한 컷]]></content>
     </entry>
 </feed>
