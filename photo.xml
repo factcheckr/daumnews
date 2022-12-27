@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-12-27T20:20:56.727Z</updated>
+    <updated>2022-12-27T21:17:53.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비상']]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5014013/qT01bvT6Nu</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5014013/qT01bvT6Nu"/>
+        <updated>2022-12-27T21:17:28.272Z</updated>
+        <content type="html"><![CDATA['코로나19' 바이러스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한옥마을에서 한 발짝 더... 진짜 전주가 보인다 [자박자박 소읍탐방]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5621449/QgCppsOK7S</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033115/1Gph7og1cI"/>
         <updated>2022-12-27T09:19:54.030Z</updated>
         <content type="html"><![CDATA[대만 차이잉원 총통]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸슈파 카말 다할 네팔 총리]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033397/9sOKaHXec3</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033397/9sOKaHXec3"/>
-        <updated>2022-12-27T09:19:54.030Z</updated>
-        <content type="html"><![CDATA[네팔은 지금]]></content>
     </entry>
 </feed>
