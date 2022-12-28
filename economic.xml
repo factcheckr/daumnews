@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2022-12-28T15:21:12.983Z</updated>
+    <updated>2022-12-28T16:26:41.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크루그먼 "머스크에겐 고양이도 못맡겨…IRA로 테슬라 평범해져"]]></title>
+        <id>https://v.daum.net/v/20221229010733978</id>
+        <link href="https://v.daum.net/v/20221229010733978"/>
+        <updated>2022-12-28T16:25:10.684Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미 테크기업 해고자 바로 재취업…‘고용시장 식지를 않네’ Fed 고민]]></title>
         <id>https://v.daum.net/v/20221229000347574</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221229000300540"/>
         <updated>2022-12-28T15:19:43.042Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의무공개매수제도에 사모펀드 '움찔'…상장사 투자 씨 마르나]]></title>
-        <id>https://v.daum.net/v/20221229000057490</id>
-        <link href="https://v.daum.net/v/20221229000057490"/>
-        <updated>2022-12-28T15:19:43.044Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>

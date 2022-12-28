@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-12-28T15:21:12.969Z</updated>
+    <updated>2022-12-28T16:26:41.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세계 7번째 달 탐사국…다누리 출발부터 안착까지]]></title>
+        <id>https://v.daum.net/v/20221229002905766</id>
+        <link href="https://v.daum.net/v/20221229002905766"/>
+        <updated>2022-12-28T16:25:59.627Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“상속세 65%, 국가가 상속 받나” 故김정주 상속세 내려다 빚더미 이자 폭탄]]></title>
         <id>https://v.daum.net/v/20221228185102641</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221228182727209"/>
         <updated>2022-12-28T10:21:40.187Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓 다누리 무사히 안착…세계 7번째 달 탐사국 됐다]]></title>
-        <id>https://v.daum.net/v/20221228182510168</id>
-        <link href="https://v.daum.net/v/20221228182510168"/>
-        <updated>2022-12-28T10:21:40.188Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
