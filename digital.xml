@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-12-28T17:18:26.144Z</updated>
+    <updated>2022-12-28T18:24:51.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[머스크 167조원, 베이조스 101조원… 지갑서 날아갔다]]></title>
+        <id>https://v.daum.net/v/20221229030408251</id>
+        <link href="https://v.daum.net/v/20221229030408251"/>
+        <updated>2022-12-28T18:24:14.008Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계 7번째 달 탐사국…다누리 출발부터 안착까지]]></title>
         <id>https://v.daum.net/v/20221229002905766</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221228184017459"/>
         <updated>2022-12-28T10:21:40.186Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ET] ‘다누리’ 달 상공 100km 안착 성공 외]]></title>
-        <id>https://v.daum.net/v/20221228182727209</id>
-        <link href="https://v.daum.net/v/20221228182727209"/>
-        <updated>2022-12-28T10:21:40.187Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
