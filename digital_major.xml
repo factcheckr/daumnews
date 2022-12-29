@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2022-12-29T15:21:01.193Z</updated>
+    <updated>2022-12-29T16:29:54.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“이렇게 예쁜데 1만원?” 궁지 몰린 삼성폰 마지막 ‘헐값’ 유혹]]></title>
+        <id>https://v.daum.net/v/20221229185113364</id>
+        <link href="https://v.daum.net/v/20221229185113364"/>
+        <updated>2022-12-29T16:29:19.752Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공공 데이터 '정부 역할론' 들어보니]]></title>
         <id>https://v.daum.net/v/20221229182710900</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221229145347052"/>
         <updated>2022-12-29T08:24:48.556Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버, 포쉬마크 인수 마무리...글로벌 공략 본격화]]></title>
-        <id>https://v.daum.net/v/20221229143745422</id>
-        <link href="https://v.daum.net/v/20221229143745422"/>
-        <updated>2022-12-29T07:17:58.453Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
