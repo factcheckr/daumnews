@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2022-12-29T13:24:32.416Z</updated>
+    <updated>2022-12-29T14:18:57.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20221229221525358"/>
         <updated>2022-12-29T13:23:12.022Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지방 살아도 서울 아파트 ‘줍줍’ 가능···6월부터 ‘2주택자 종부세 중과’ 폐지]]></title>
+        <id>https://v.daum.net/v/20221229220300155</id>
+        <link href="https://v.daum.net/v/20221229220300155"/>
+        <updated>2022-12-29T14:17:31.834Z</updated>
+        <content type="html"><![CDATA[매경이코노미]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SRT 포항·창원·여수로 노선 확대…철도노조 “민영화 포석”]]></title>
+        <id>https://v.daum.net/v/20221229215422990</id>
+        <link href="https://v.daum.net/v/20221229215422990"/>
+        <updated>2022-12-29T14:17:31.835Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[올해 美증시 "인플레이션, 기업실적·파월 발언이 폭탄"]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20221229210009102"/>
         <updated>2022-12-29T13:23:12.049Z</updated>
         <content type="html"><![CDATA[JIBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[항공편 늘리고 '유커 특수' 기대했던 관광업계엔 먹구름]]></title>
-        <id>https://v.daum.net/v/20221229203307521</id>
-        <link href="https://v.daum.net/v/20221229203307521"/>
-        <updated>2022-12-29T12:33:45.303Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 관광객 두고 엇갈린 반응…"큰손 복귀" · "재확산 우려"]]></title>
-        <id>https://v.daum.net/v/20221229202740364</id>
-        <link href="https://v.daum.net/v/20221229202740364"/>
-        <updated>2022-12-29T12:33:45.303Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
