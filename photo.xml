@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-12-29T19:17:24.233Z</updated>
+    <updated>2022-12-29T20:21:24.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[후주곡(後奏曲)/토마스 트란스트뢰메르/이경수 옮김]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1823/pVnrpUuj7U</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1823/pVnrpUuj7U"/>
+        <updated>2022-12-29T20:21:00.369Z</updated>
+        <content type="html"><![CDATA[그림과 시가 있는 아침]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수백m 터널 순식간에 불타]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/WOP7F30gUV</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/WOP7F30gUV"/>
+        <updated>2022-12-29T20:21:00.371Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[눈 침대]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/HvYnWTyPbu</id>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1476/8zJdfkEujq"/>
         <updated>2022-12-29T08:24:57.192Z</updated>
         <content type="html"><![CDATA[미국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['택시기사·동거녀 살해범'신상·얼굴 공개…31세 이기영]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5615616/b7nPBgatgg</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5615616/b7nPBgatgg"/>
-        <updated>2022-12-29T08:24:57.192Z</updated>
-        <content type="html"><![CDATA[뉴스1 PICK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의왕시 왕송호수 천연기념물 원앙 포착]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5612596/uvTPH48Cv9</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5612596/uvTPH48Cv9"/>
-        <updated>2022-12-29T08:24:57.192Z</updated>
-        <content type="html"><![CDATA[머니S포토]]></content>
     </entry>
 </feed>
