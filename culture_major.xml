@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-12-29T18:24:39.456Z</updated>
+    <updated>2022-12-29T19:17:24.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국보 ‘통감속편’ 일본산 종이로 제작 첫 확인]]></title>
+        <id>https://v.daum.net/v/20221230030048943</id>
+        <link href="https://v.daum.net/v/20221230030048943"/>
+        <updated>2022-12-29T19:16:32.553Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3분 공연 중단… ‘물랑루즈’ 관객들 뿔났다]]></title>
         <id>https://v.daum.net/v/20221230030033937</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221229204323741"/>
         <updated>2022-12-29T15:20:06.472Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[문화톡톡] 추억의 비디오 테이프…‘원초적 비디오 본색’ 전시]]></title>
-        <id>https://v.daum.net/v/20221229201943180</id>
-        <link href="https://v.daum.net/v/20221229201943180"/>
-        <updated>2022-12-29T15:20:06.476Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
