@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-12-30T02:41:43.670Z</updated>
+    <updated>2022-12-30T03:24:50.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[토니상 최우수음악상…'식스 더 뮤지컬', 내년 한국 초연]]></title>
+        <id>https://v.daum.net/v/20221230103311297</id>
+        <link href="https://v.daum.net/v/20221230103311297"/>
+        <updated>2022-12-30T03:23:49.993Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Z세대는 한 해 결산도 앱으로 한다]]></title>
         <id>https://v.daum.net/v/20221230100134047</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221230084211753"/>
         <updated>2022-12-30T01:28:12.934Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일년에 단 두 번, 기막힌 일출을 볼 수 있는 곳]]></title>
-        <id>https://v.daum.net/v/20221230083600642</id>
-        <link href="https://v.daum.net/v/20221230083600642"/>
-        <updated>2022-12-30T01:28:12.936Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
