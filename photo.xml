@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-12-30T19:16:55.751Z</updated>
+    <updated>2022-12-30T20:21:14.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이태원에서 희망을 말하다 [사진잇슈]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5611568/5RcafChV74</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5611568/5RcafChV74"/>
+        <updated>2022-12-30T20:20:46.726Z</updated>
+        <content type="html"><![CDATA[사진잇슈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[상생을 바라며]]></title>
         <id>https://gallery.v.daum.net/p/viewer/212305/7JsuKmsbD7</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5611563/fsoFo51iaZ"/>
         <updated>2022-12-30T08:23:57.331Z</updated>
         <content type="html"><![CDATA[사진구성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[펑후제도 찾아 병사들과 사진 찍는 차이잉원 대만 총통]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033115/7nGQlf4Ik3</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033115/7nGQlf4Ik3"/>
-        <updated>2022-12-30T08:23:57.331Z</updated>
-        <content type="html"><![CDATA[대만 차이잉원 총통]]></content>
     </entry>
 </feed>
