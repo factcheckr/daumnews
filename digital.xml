@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2022-12-30T15:22:26.111Z</updated>
+    <updated>2022-12-30T16:26:34.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독서 감수성 진화, 종이책 완독보다 전자책 ‘발췌독’ 대세]]></title>
+        <id>https://v.daum.net/v/20221231003152481</id>
+        <link href="https://v.daum.net/v/20221231003152481"/>
+        <updated>2022-12-30T16:25:54.903Z</updated>
+        <content type="html"><![CDATA[중앙SUNDAY]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라, 디지털 혁신·스타링크·드론으로 반전 이끌어]]></title>
+        <id>https://v.daum.net/v/20221231002650471</id>
+        <link href="https://v.daum.net/v/20221231002650471"/>
+        <updated>2022-12-30T16:25:54.906Z</updated>
+        <content type="html"><![CDATA[중앙SUNDAY]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방역 상황 꽁꽁 숨기던 중국, 하늘길 막히자 결국 변이 정보 공개 나섰다]]></title>
         <id>https://v.daum.net/v/20221230223644814</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20221230180406583"/>
         <updated>2022-12-30T09:18:46.616Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["물 다음으로 많이 쓰이는 콘크리트…탄소 흡수하게 만들어 지구 지킨다"]]></title>
-        <id>https://v.daum.net/v/20221230174104218</id>
-        <link href="https://v.daum.net/v/20221230174104218"/>
-        <updated>2022-12-30T09:18:46.618Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구현모 연임 제동건 국민연금…의결권 행사보니]]></title>
-        <id>https://v.daum.net/v/20221230172904009</id>
-        <link href="https://v.daum.net/v/20221230172904009"/>
-        <updated>2022-12-30T09:18:46.620Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
 </feed>
