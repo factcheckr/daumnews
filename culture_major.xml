@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2022-12-30T09:19:27.481Z</updated>
+    <updated>2022-12-30T10:21:18.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[2022 미술계 결산]1兆 미술시장, 지금은 ‘조정기’]]></title>
+        <id>https://v.daum.net/v/20221230165456282</id>
+        <link href="https://v.daum.net/v/20221230165456282"/>
+        <updated>2022-12-30T10:20:31.213Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해 경매시장 최고의 블루칩은 ‘쿠사마 야요이’…낙찰총액·최고가 ‘석권’]]></title>
         <id>https://v.daum.net/v/20221230163852972</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221230141302337"/>
         <updated>2022-12-30T09:18:38.879Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 새해 첫날 큰 추위 없어…전국서 해넘이 · 해돋이 본다]]></title>
-        <id>https://v.daum.net/v/20221230124502740</id>
-        <link href="https://v.daum.net/v/20221230124502740"/>
-        <updated>2022-12-30T09:18:38.880Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
