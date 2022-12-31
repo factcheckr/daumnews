@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2022-12-31T05:18:17.127Z</updated>
+    <updated>2022-12-31T06:24:10.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남북, 올해 마지막 날까지 '힘대결'…새해에도 첨예한 대립 불가피]]></title>
+        <id>https://v.daum.net/v/20221231142324517</id>
+        <link href="https://v.daum.net/v/20221231142324517"/>
+        <updated>2022-12-31T06:22:09.589Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[野 "대통령 가족 소환 못 하는 檢, 헌법유린…특검이 방법"]]></title>
         <id>https://v.daum.net/v/20221231140956418</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20221231123017777"/>
         <updated>2022-12-31T04:22:20.963Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그 따위 말을 내놓다니... 이태원 참사 망언의 네 가지 유형]]></title>
-        <id>https://v.daum.net/v/20221231113902365</id>
-        <link href="https://v.daum.net/v/20221231113902365"/>
-        <updated>2022-12-31T03:19:30.358Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
