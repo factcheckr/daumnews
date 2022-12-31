@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2022-12-31T04:24:27.252Z</updated>
+    <updated>2022-12-31T05:18:17.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['개인휴지' 갖고 출근…악취 덮인 트위터 본사]]></title>
+        <id>https://v.daum.net/v/20221231121516704</id>
+        <link href="https://v.daum.net/v/20221231121516704"/>
+        <updated>2022-12-31T05:17:14.383Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국 정치에 MZ세대는 없다]]></title>
         <id>https://v.daum.net/v/20221231121204679</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20221231110506093"/>
         <updated>2022-12-31T03:20:14.047Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["FTX 창업자, 가택연금 중에도 코인 거래"…내달 재판서 무죄 주장할 듯]]></title>
-        <id>https://v.daum.net/v/20221231110035039</id>
-        <link href="https://v.daum.net/v/20221231110035039"/>
-        <updated>2022-12-31T03:20:14.051Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
