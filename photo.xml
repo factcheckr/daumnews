@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2022-12-31T08:24:34.700Z</updated>
+    <updated>2022-12-31T09:19:10.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밤안개 내린 호수 공원]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1783949/0yMUQog1do</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1783949/0yMUQog1do"/>
+        <updated>2022-12-31T09:18:45.763Z</updated>
+        <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국 대학생 4명 살해 용의자 47일 만에 검거…범죄학 박사과정생]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1476/U78cFckUeV</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5620488/pOaUEK9r5S"/>
         <updated>2022-12-30T21:17:27.529Z</updated>
         <content type="html"><![CDATA[박수찬의 軍]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["경찰 100명이 못찾은 실종자, 드론 한 대로 찾았죠"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5620491/tggwKChVWl</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5620491/tggwKChVWl"/>
-        <updated>2022-12-30T21:17:27.530Z</updated>
-        <content type="html"><![CDATA[베테랑]]></content>
     </entry>
 </feed>
