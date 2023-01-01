@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-01-01T10:20:57.069Z</updated>
+    <updated>2023-01-01T11:16:19.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“다 유출됐네” 삼성, 아이폰 상대로 ‘놀라운 성능’ 보여준다]]></title>
+        <id>https://v.daum.net/v/20230101195052029</id>
+        <link href="https://v.daum.net/v/20230101195052029"/>
+        <updated>2023-01-01T11:15:39.871Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기업들 몰려온다…'10대의 놀이터' 한계 넘은 메타버스 [2023 신년기획]]]></title>
         <id>https://v.daum.net/v/20230101181834256</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230101165053977"/>
         <updated>2023-01-01T08:25:22.449Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먹통 피해 보상안 마련한 카카오, 비대위 체제 종료]]></title>
-        <id>https://v.daum.net/v/20230101163932816</id>
-        <link href="https://v.daum.net/v/20230101163932816"/>
-        <updated>2023-01-01T08:25:22.449Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
