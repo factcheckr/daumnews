@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-01-01T14:17:37.510Z</updated>
+    <updated>2023-01-01T15:20:21.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잘 가라! 다사다난 했던 2022년 호랑이여]]></title>
+        <id>https://v.daum.net/v/20230101191804812</id>
+        <link href="https://v.daum.net/v/20230101191804812"/>
+        <updated>2023-01-01T15:19:17.811Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동트기 직전인 '검은 암토끼의 해'…시련 이겨내고 봄날 맞는다]]></title>
         <id>https://v.daum.net/v/20230101172413513</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230101121106798"/>
         <updated>2023-01-01T14:16:49.883Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해 소망 안고 바다에 풍덩…서귀포 펭귄수영대회 열려]]></title>
-        <id>https://v.daum.net/v/20230101132504756</id>
-        <link href="https://v.daum.net/v/20230101132504756"/>
-        <updated>2023-01-01T14:16:49.884Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

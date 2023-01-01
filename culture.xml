@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-01-01T14:17:37.508Z</updated>
+    <updated>2023-01-01T15:20:21.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[꾸준한 걷기·커피 복용...당뇨병 예방 도움 [클릭, 제약·바이오]]]></title>
+        <id>https://v.daum.net/v/20230101235006443</id>
+        <link href="https://v.daum.net/v/20230101235006443"/>
+        <updated>2023-01-01T15:19:07.141Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[길을 잃고 무작정 걷던 내 발자국을 확인한 순간[2023 경향 신춘문예]]]></title>
         <id>https://v.daum.net/v/20230101215611892</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230101204245449"/>
         <updated>2023-01-01T12:34:17.014Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘 가라! 다사다난 했던 2022년 호랑이여]]></title>
-        <id>https://v.daum.net/v/20230101191804812</id>
-        <link href="https://v.daum.net/v/20230101191804812"/>
-        <updated>2023-01-01T14:16:41.099Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
