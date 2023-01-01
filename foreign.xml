@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-01-01T13:23:16.319Z</updated>
+    <updated>2023-01-01T14:17:37.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새해맞이 불꽃놀이하다가…독일서 1명 폴란드서 2명 사망]]></title>
+        <id>https://v.daum.net/v/20230101222842175</id>
+        <link href="https://v.daum.net/v/20230101222842175"/>
+        <updated>2023-01-01T14:16:25.169Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본, 제로 금리는 포기…'반격능력'은 강화]]></title>
         <id>https://v.daum.net/v/20230101211508634</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230101220010933"/>
         <updated>2023-01-01T13:22:00.550Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시진핑 핵심 지위 수호해야'…중국 새해 첫날부터 충성 요구]]></title>
-        <id>https://v.daum.net/v/20230101215830911</id>
-        <link href="https://v.daum.net/v/20230101215830911"/>
-        <updated>2023-01-01T13:22:00.552Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
