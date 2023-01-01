@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-01-01T18:23:29.433Z</updated>
+    <updated>2023-01-01T19:16:25.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[mRNA 백신… 우주 탐사… 올해 주목해야 할 과학이슈는?]]></title>
-        <id>https://v.daum.net/v/20230102030352176</id>
-        <link href="https://v.daum.net/v/20230102030352176"/>
-        <updated>2023-01-01T18:22:45.099Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[“소설·기사·시나리오·논문도 쓸 수 있는 생성형 AI, 합리적이고 빠른 결정에 도움”]]></title>
         <id>https://v.daum.net/v/20230102030149038</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20230101181834256"/>
         <updated>2023-01-01T10:20:11.786Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인프라 공정 기여 촉구, 인도·호주로 확산]]></title>
+        <id>https://v.daum.net/v/20230101170125171</id>
+        <link href="https://v.daum.net/v/20230101170125171"/>
+        <updated>2023-01-01T19:15:41.374Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>

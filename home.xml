@@ -2,14 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-01-01T18:23:29.442Z</updated>
+    <updated>2023-01-01T19:16:25.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[바이든, 공화 지도부와 새해 첫 외부 일정…'협치'에 방점]]></title>
-        <id>https://v.daum.net/v/20230102031634279</id>
-        <link href="https://v.daum.net/v/20230102031634279"/>
-        <updated>2023-01-01T18:20:49.159Z</updated>
+        <title type="html"><![CDATA[[단독]한일, 상반기중 北미사일 정보 ‘즉시공유’… 지소미아보다 강력한 대북 정보협력 추진]]></title>
+        <id>https://v.daum.net/v/20230102030159052</id>
+        <link href="https://v.daum.net/v/20230102030159052"/>
+        <updated>2023-01-01T19:13:49.807Z</updated>
+        <content type="html"><![CDATA[정치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]“코로나와 ‘헤어질 결심’… 여행 수요 날아오르길”]]></title>
+        <id>https://v.daum.net/v/20230102030328151</id>
+        <link href="https://v.daum.net/v/20230102030328151"/>
+        <updated>2023-01-01T19:13:49.807Z</updated>
+        <content type="html"><![CDATA[경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전장연 “오늘부터 지하철 승하차 시위 재개”]]></title>
+        <id>https://v.daum.net/v/20230102030334158</id>
+        <link href="https://v.daum.net/v/20230102030334158"/>
+        <updated>2023-01-01T19:13:49.807Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“中서 입국자 하루 550명 공항서 검사… 100명 격리시설 확보”]]></title>
+        <id>https://v.daum.net/v/20230102030312133</id>
+        <link href="https://v.daum.net/v/20230102030312133"/>
+        <updated>2023-01-01T19:13:49.815Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英-佛도 중국發 입국자 음성 확인서 의무화]]></title>
+        <id>https://v.daum.net/v/20230102030315136</id>
+        <link href="https://v.daum.net/v/20230102030315136"/>
+        <updated>2023-01-01T19:13:49.816Z</updated>
         <content type="html"><![CDATA[국제]]></content>
     </entry>
     <entry>
@@ -18,13 +46,6 @@
         <link href="https://v.daum.net/v/20230102030125025"/>
         <updated>2023-01-01T18:20:49.159Z</updated>
         <content type="html"><![CDATA[정치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“상하이 1000만 감염”… 中 코로나 급증에도 새해맞이 인파 가득]]></title>
-        <id>https://v.daum.net/v/20230102030309128</id>
-        <link href="https://v.daum.net/v/20230102030309128"/>
-        <updated>2023-01-01T18:20:49.159Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지난해 영불해협 건넌 이주민 4만6천명…사상 최고 기록]]></title>
@@ -123,26 +144,5 @@
         <link href="https://v.daum.net/v/20230101220908030"/>
         <updated>2023-01-01T14:15:26.802Z</updated>
         <content type="html"><![CDATA[정치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["세금 줄이려 증여"...11월 주택 증여 비중 역대 최대]]></title>
-        <id>https://v.daum.net/v/20230101224016227</id>
-        <link href="https://v.daum.net/v/20230101224016227"/>
-        <updated>2023-01-01T14:15:26.805Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해맞이 불꽃놀이 즐기다…우간다 수도서 최소 9명 '압사']]></title>
-        <id>https://v.daum.net/v/20230101211028613</id>
-        <link href="https://v.daum.net/v/20230101211028613"/>
-        <updated>2023-01-01T14:15:26.805Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 새해 첫 출근길 강추위‥서울 아침 -9도]]></title>
-        <id>https://v.daum.net/v/20230101221905120</id>
-        <link href="https://v.daum.net/v/20230101221905120"/>
-        <updated>2023-01-01T14:15:26.808Z</updated>
-        <content type="html"><![CDATA[문화]]></content>
     </entry>
 </feed>
