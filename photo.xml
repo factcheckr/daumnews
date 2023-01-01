@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-01-01T09:19:27.286Z</updated>
+    <updated>2023-01-01T10:20:57.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단양 석회석 가공 공장 화재]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1518/5GkqdjA0CU</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1518/5GkqdjA0CU"/>
+        <updated>2023-01-01T10:20:30.421Z</updated>
+        <content type="html"><![CDATA[전국 화재사고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구례 사성암 셔틀버스 내리막 굽은길서 사고…11명 다쳐]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1473/VC5C57zcNX</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1473/VC5C57zcNX"/>
+        <updated>2023-01-01T10:20:30.424Z</updated>
+        <content type="html"><![CDATA[교통사고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새해 첫 날, 정치인에게 휴일은 없다 [청계천 옆 사진관]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/344179/qHZDIED7bT</id>
         <link href="https://gallery.v.daum.net/p/viewer/344179/qHZDIED7bT"/>
         <updated>2023-01-01T08:25:41.025Z</updated>
         <content type="html"><![CDATA[청계천 옆 사진관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경북 예천 야산 산불…0.2㏊ 피해]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1518/fycmlrmBj4</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1518/fycmlrmBj4"/>
-        <updated>2023-01-01T08:25:41.035Z</updated>
-        <content type="html"><![CDATA[전국 화재사고]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김정은 전원회의 보고 남측 관련 주요 언급 내용]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033350/FD3KcED7NL"/>
         <updated>2023-01-01T04:25:18.324Z</updated>
         <content type="html"><![CDATA[호주는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해 맞이하는 獨 베를린]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5030466/Fe32RdJGkT</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5030466/Fe32RdJGkT"/>
-        <updated>2023-01-01T04:25:18.325Z</updated>
-        <content type="html"><![CDATA[독일은 지금]]></content>
     </entry>
 </feed>
