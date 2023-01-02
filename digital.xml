@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-01-02T22:19:15.487Z</updated>
+    <updated>2023-01-02T23:20:05.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[CES 2023]참가기업만 3000개…코로나 이후 '최대 대면행사']]></title>
+        <id>https://v.daum.net/v/20230103070035141</id>
+        <link href="https://v.daum.net/v/20230103070035141"/>
+        <updated>2023-01-02T23:19:29.889Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['쿠팡' 경쟁 상대 된 네이버…'비호감' 탈피하는 카카오]]></title>
         <id>https://v.daum.net/v/20230103070028130</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230103050112827"/>
         <updated>2023-01-02T21:17:21.480Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해 넘긴' SW원격지개발' 가이드라인 언제쯤…떠나는 MZ개발자]]></title>
-        <id>https://v.daum.net/v/20230103061018644</id>
-        <link href="https://v.daum.net/v/20230103061018644"/>
-        <updated>2023-01-02T21:17:21.482Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
