@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-01-02T12:36:50.091Z</updated>
+    <updated>2023-01-02T13:25:23.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쌀쌀한 출근길… 아침 최저 영하 18도]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5116766/FkasTBbDDJ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5116766/FkasTBbDDJ"/>
+        <updated>2023-01-02T13:25:02.429Z</updated>
+        <content type="html"><![CDATA[출근길 풍경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정진석 특사, 룰라 브라질 대통령 취임식 참석]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5031175/6XvBVjA0lL</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5611563/f0sSVwrqcH"/>
         <updated>2023-01-02T07:19:15.866Z</updated>
         <content type="html"><![CDATA[사진구성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오영훈 제주지사 "제2공항 자기 결정권 원칙  지켜야"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5034397/7CVchK9rRe</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5034397/7CVchK9rRe"/>
-        <updated>2023-01-02T07:19:15.889Z</updated>
-        <content type="html"><![CDATA[제주 제2공항 갈등]]></content>
     </entry>
 </feed>
