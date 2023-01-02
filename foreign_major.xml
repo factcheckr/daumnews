@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-01-02T15:21:22.277Z</updated>
+    <updated>2023-01-02T16:27:11.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프랑스, 중국발 입국자 유럽연합 공동대응 촉구]]></title>
+        <id>https://v.daum.net/v/20230102231019423</id>
+        <link href="https://v.daum.net/v/20230102231019423"/>
+        <updated>2023-01-02T16:26:12.091Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IS, 아프가니스탄 군 공항에 테러 공격…20명 사망 주장]]></title>
         <id>https://v.daum.net/v/20230102223501245</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230102214301681"/>
         <updated>2023-01-02T13:24:26.523Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이든의 새해 첫 일정은 ‘협치’]]></title>
-        <id>https://v.daum.net/v/20230102214213674</id>
-        <link href="https://v.daum.net/v/20230102214213674"/>
-        <updated>2023-01-02T13:24:26.525Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
