@@ -2,29 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-01-02T17:18:23.896Z</updated>
+    <updated>2023-01-02T18:24:19.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테슬라, 작년 4분기 40만5천278대 인도…월가 예상치 하회]]></title>
+        <id>https://v.daum.net/v/20230103031205425</id>
+        <link href="https://v.daum.net/v/20230103031205425"/>
+        <updated>2023-01-02T18:21:55.799Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국發 입국자 PCR 첫날… 106명중 13명 확진 판정]]></title>
+        <id>https://v.daum.net/v/20230103030041155</id>
+        <link href="https://v.daum.net/v/20230103030041155"/>
+        <updated>2023-01-02T18:21:55.815Z</updated>
+        <content type="html"><![CDATA[경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폐광지역 7곳, 26년간 4조 썼지만 인구 급감]]></title>
+        <id>https://v.daum.net/v/20230103030141194</id>
+        <link href="https://v.daum.net/v/20230103030141194"/>
+        <updated>2023-01-02T18:21:55.821Z</updated>
+        <content type="html"><![CDATA[경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 전국 대체로 맑음‥전국 최저기온 영하권]]></title>
+        <id>https://v.daum.net/v/20230103021607112</id>
+        <link href="https://v.daum.net/v/20230103021607112"/>
+        <updated>2023-01-02T18:21:55.831Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유럽의회 '로비 스캔들' 수사확대…의원 2명 면책특권 박탈 착수]]></title>
         <id>https://v.daum.net/v/20230103021132106</id>
         <link href="https://v.daum.net/v/20230103021132106"/>
         <updated>2023-01-02T17:16:04.632Z</updated>
         <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["떠나는 직원들 붙잡자"…美 고용주, 25년 만에 최고 임금 인상]]></title>
-        <id>https://v.daum.net/v/20230103015316088</id>
-        <link href="https://v.daum.net/v/20230103015316088"/>
-        <updated>2023-01-02T17:16:04.632Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월가 대형은행 70% "올해 美 경기침체"…하반기 금리인하 예상도]]></title>
-        <id>https://v.daum.net/v/20230103014821083</id>
-        <link href="https://v.daum.net/v/20230103014821083"/>
-        <updated>2023-01-02T17:16:04.642Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[반환점 도는 해리스 美 부통령 정치적 시험대…"존재감 찾아라"]]></title>
@@ -130,19 +144,5 @@
         <link href="https://v.daum.net/v/20230103000307731"/>
         <updated>2023-01-02T15:18:44.757Z</updated>
         <content type="html"><![CDATA[경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹대통령 띄우고 국회의장 받았다…중대선거구제 탄력 받나]]></title>
-        <id>https://v.daum.net/v/20230103000001640</id>
-        <link href="https://v.daum.net/v/20230103000001640"/>
-        <updated>2023-01-02T15:18:44.757Z</updated>
-        <content type="html"><![CDATA[정치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해 첫날 유럽 이상고온 속출…스위스 일부 20도 넘기기도]]></title>
-        <id>https://v.daum.net/v/20230103000752775</id>
-        <link href="https://v.daum.net/v/20230103000752775"/>
-        <updated>2023-01-02T15:18:44.758Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
     </entry>
 </feed>
