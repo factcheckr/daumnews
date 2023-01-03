@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-01-03T14:19:33.396Z</updated>
+    <updated>2023-01-03T15:26:39.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[탄산수, 물처럼 벌컥벌컥 마셨다가 벌어지는 일]]></title>
+        <id>https://v.daum.net/v/20230103234516437</id>
+        <link href="https://v.daum.net/v/20230103234516437"/>
+        <updated>2023-01-03T15:25:33.709Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리 아이가 혹시? 자폐증, 언제부터 알 수 있을까]]></title>
         <id>https://v.daum.net/v/20230103210015262</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230103220002828"/>
         <updated>2023-01-03T13:25:24.538Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“소름끼치도록 맞아”…2023년 예언한 노스트라다무스]]></title>
-        <id>https://v.daum.net/v/20230103213401582</id>
-        <link href="https://v.daum.net/v/20230103213401582"/>
-        <updated>2023-01-03T12:37:13.481Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
