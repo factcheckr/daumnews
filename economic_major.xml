@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-01-03T13:26:27.567Z</updated>
+    <updated>2023-01-03T14:19:33.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230103215556801"/>
         <updated>2023-01-03T13:24:56.444Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[급작스런 정책 기조 변경, 최선일까?]]></title>
+        <id>https://v.daum.net/v/20230103214246644</id>
+        <link href="https://v.daum.net/v/20230103214246644"/>
+        <updated>2023-01-03T14:18:10.009Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대규모 세액공제 추가 발표…이유는 ‘위기감’]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230103203303875"/>
         <updated>2023-01-03T12:36:46.601Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부, 반도체 기업 세금 최대 35% 깎아주기로]]></title>
-        <id>https://v.daum.net/v/20230103203004847</id>
-        <link href="https://v.daum.net/v/20230103203004847"/>
-        <updated>2023-01-03T12:36:46.603Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
