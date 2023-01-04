@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-01-04T18:27:40.514Z</updated>
+    <updated>2023-01-04T19:19:39.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[맹탕 질의에 진상규명 허탕… 여야는 호통, 유족은 분통]]></title>
+        <id>https://v.daum.net/v/20230105040926416</id>
+        <link href="https://v.daum.net/v/20230105040926416"/>
+        <updated>2023-01-04T19:17:52.176Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘청담동 술자리 믿는 野지지자 70%’ 기사에 댓글창도 두쪽 났다]]></title>
         <id>https://v.daum.net/v/20230105030539174</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230105030119955"/>
         <updated>2023-01-04T18:26:01.909Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“정치 양극화, 이대로 두면 국가 내전상태 될것”]]></title>
-        <id>https://v.daum.net/v/20230105030516158</id>
-        <link href="https://v.daum.net/v/20230105030516158"/>
-        <updated>2023-01-04T18:26:01.911Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
