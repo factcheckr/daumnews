@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-01-04T13:27:33.507Z</updated>
+    <updated>2023-01-04T14:21:08.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령 부부, 문화예술계 신년인사회 이어 음악회 관람]]></title>
+        <id>https://v.daum.net/v/20230104223908717</id>
+        <link href="https://v.daum.net/v/20230104223908717"/>
+        <updated>2023-01-04T14:19:15.603Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[교과서에서 ‘5·18’ 삭제 논란, 대통령실 “문재인 정부서 내용 축소” 해명]]></title>
         <id>https://v.daum.net/v/20230104220137384</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230104211205880"/>
         <updated>2023-01-04T12:35:36.193Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이임재 전 용산서장 "기동대 요청 지시…많은 흔적 한순간에 사라져"]]></title>
-        <id>https://v.daum.net/v/20230104211023861</id>
-        <link href="https://v.daum.net/v/20230104211023861"/>
-        <updated>2023-01-04T13:25:45.285Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
