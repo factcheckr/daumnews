@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-01-04T02:43:34.329Z</updated>
+    <updated>2023-01-04T03:22:16.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘생태계 교란’ 브라운송어, 찬 소양강에 정착…퍼질 가능성은?]]></title>
+        <id>https://v.daum.net/v/20230104113007907</id>
+        <link href="https://v.daum.net/v/20230104113007907"/>
+        <updated>2023-01-04T03:21:24.009Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[H+양지병원 “겨울철 비만, 당뇨부터 뇌졸중 위험까지 초래”]]></title>
         <id>https://v.daum.net/v/20230104112842842</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230104074505971"/>
         <updated>2023-01-04T02:42:45.511Z</updated>
         <content type="html"><![CDATA[월간산]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이뇨제 계열 2대 혈압약, 효과 차이 없다"]]></title>
-        <id>https://v.daum.net/v/20230104105916368</id>
-        <link href="https://v.daum.net/v/20230104105916368"/>
-        <updated>2023-01-04T02:42:45.512Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
