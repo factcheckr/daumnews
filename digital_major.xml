@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-01-05T11:18:18.555Z</updated>
+    <updated>2023-01-05T12:38:04.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[CES 2023] 삼성전자, 스마트홈 생태계로 사용자 일상 파고든다]]></title>
+        <id>https://v.daum.net/v/20230105143606760</id>
+        <link href="https://v.daum.net/v/20230105143606760"/>
+        <updated>2023-01-05T12:37:28.672Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[CES2023] AMD 리사 수 박사, "반도체, 코로나 19 계기로 현대 생활의 중심 돼"]]></title>
         <id>https://v.daum.net/v/20230105171211725</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230105175732049"/>
         <updated>2023-01-05T09:20:47.035Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[97인치 4K LG TV에… 전선이 없어졌다]]></title>
-        <id>https://v.daum.net/v/20230105170035306</id>
-        <link href="https://v.daum.net/v/20230105170035306"/>
-        <updated>2023-01-05T09:20:47.045Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
