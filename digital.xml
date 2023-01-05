@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-01-05T19:17:27.287Z</updated>
+    <updated>2023-01-05T20:22:05.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[근원에서 찾는 우주의 기원 땅 속에서 하늘 밖 ‘어둠’을 밝히다]]></title>
+        <id>https://v.daum.net/v/20230106050111367</id>
+        <link href="https://v.daum.net/v/20230106050111367"/>
+        <updated>2023-01-05T20:21:29.660Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[두팔 따로 일하고, 잡초-해충 골라내고… ‘노동 로봇’이 온다]]></title>
         <id>https://v.daum.net/v/20230106030053271</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230105143606760"/>
         <updated>2023-01-05T16:33:34.025Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국판 디즈니 육성펀드 1500억 조성…K콘텐츠 스타트업에 역대 최대 지원]]></title>
-        <id>https://v.daum.net/v/20230105182346733</id>
-        <link href="https://v.daum.net/v/20230105182346733"/>
-        <updated>2023-01-05T13:30:46.922Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
