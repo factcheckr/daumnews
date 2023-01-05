@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-01-05T15:23:14.942Z</updated>
+    <updated>2023-01-05T16:34:18.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[업무보고]콘텐츠 모든 산업에 필요…2023년은 교육개혁 원년]]></title>
+        <id>https://v.daum.net/v/20230106011504048</id>
+        <link href="https://v.daum.net/v/20230106011504048"/>
+        <updated>2023-01-05T16:33:34.024Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[CES 2023] 삼성전자, 스마트홈 생태계로 사용자 일상 파고든다]]></title>
+        <id>https://v.daum.net/v/20230105143606760</id>
+        <link href="https://v.daum.net/v/20230105143606760"/>
+        <updated>2023-01-05T16:33:34.025Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국판 디즈니 육성펀드 1500억 조성…K콘텐츠 스타트업에 역대 최대 지원]]></title>
         <id>https://v.daum.net/v/20230105182346733</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230105203906576"/>
         <updated>2023-01-05T12:37:15.590Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“21만→2만원, 말이 돼?” 18만명이 빠진 신풍제약 광풍, 남은 건 배신]]></title>
-        <id>https://v.daum.net/v/20230105195124593</id>
-        <link href="https://v.daum.net/v/20230105195124593"/>
-        <updated>2023-01-05T11:17:36.708Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넥슨 "카트라이더 3월 31일 서비스 종료…환불·보상 예정"]]></title>
-        <id>https://v.daum.net/v/20230105193538298</id>
-        <link href="https://v.daum.net/v/20230105193538298"/>
-        <updated>2023-01-05T11:17:36.709Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
