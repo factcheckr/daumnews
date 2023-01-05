@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-01-05T13:31:33.502Z</updated>
+    <updated>2023-01-05T14:22:23.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[실업수당 청구 줄고 민간고용 큰 폭 증가…'핫'한 美 노동시장]]></title>
+        <id>https://v.daum.net/v/20230105231221246</id>
+        <link href="https://v.daum.net/v/20230105231221246"/>
+        <updated>2023-01-05T14:20:42.226Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전선이 모두 사라진 TV…세로로 영상통화도 가능해져]]></title>
         <id>https://v.daum.net/v/20230105195749734</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230105212506240"/>
         <updated>2023-01-05T12:36:18.605Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컵 보증금' 현장 점검…'40% 보이콧'은 어떻게?]]></title>
-        <id>https://v.daum.net/v/20230105211505145</id>
-        <link href="https://v.daum.net/v/20230105211505145"/>
-        <updated>2023-01-05T12:36:18.606Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
