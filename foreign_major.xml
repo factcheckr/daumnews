@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-01-05T16:34:18.844Z</updated>
+    <updated>2023-01-05T17:19:36.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美하원의장 공석 3일째…매카시, 추가 양보로 돌파구 마련되나]]></title>
+        <id>https://v.daum.net/v/20230106004140849</id>
+        <link href="https://v.daum.net/v/20230106004140849"/>
+        <updated>2023-01-05T17:18:26.452Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베네딕토 16세 뜨거운 추모 열기 속 장례미사 거행]]></title>
+        <id>https://v.daum.net/v/20230106002213783</id>
+        <link href="https://v.daum.net/v/20230106002213783"/>
+        <updated>2023-01-05T17:18:26.455Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아프간 힌두쿠시 산맥서 규모 5.8 지진…파키스탄·인도까지 '흔들']]></title>
         <id>https://v.daum.net/v/20230106001916754</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230105224851127"/>
         <updated>2023-01-05T16:33:07.274Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘255억 계약’ 英왕자의 폭로 “형 공격에 개밥그릇 파편 박혀”]]></title>
-        <id>https://v.daum.net/v/20230105225100134</id>
-        <link href="https://v.daum.net/v/20230105225100134"/>
-        <updated>2023-01-05T15:22:07.231Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸틴에 전화한 튀르키예 대통령 “휴전 선언 어떠냐”]]></title>
-        <id>https://v.daum.net/v/20230105222852008</id>
-        <link href="https://v.daum.net/v/20230105222852008"/>
-        <updated>2023-01-05T15:22:07.232Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>

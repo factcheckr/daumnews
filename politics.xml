@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-01-05T16:34:18.848Z</updated>
+    <updated>2023-01-05T17:19:36.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신원식 "北 무인기 조잡한 수준" vs 김병주 "경호 작전 실패"]]></title>
+        <id>https://v.daum.net/v/20230106015819177</id>
+        <link href="https://v.daum.net/v/20230106015819177"/>
+        <updated>2023-01-05T17:17:39.942Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“北지령 받고 보수타격”...전국 '국보법 수사' 중앙지검에 모인다]]></title>
         <id>https://v.daum.net/v/20230105232842347</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230106000027542"/>
         <updated>2023-01-05T15:21:25.418Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘北무인기 침범’ 주장한 국방위 野간사…與 “軍보다 먼저 알아, 北과 내통하나”]]></title>
-        <id>https://v.daum.net/v/20230105231922286</id>
-        <link href="https://v.daum.net/v/20230105231922286"/>
-        <updated>2023-01-05T15:21:25.419Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
