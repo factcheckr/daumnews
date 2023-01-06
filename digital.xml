@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-01-06T03:22:54.960Z</updated>
+    <updated>2023-01-06T04:24:40.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[과학을읽다]인류의 비만 정복 머지않았다?]]></title>
+        <id>https://v.daum.net/v/20230106123749900</id>
+        <link href="https://v.daum.net/v/20230106123749900"/>
+        <updated>2023-01-06T04:23:59.866Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["파리협정 충실히 지켜도 2100년까지 빙하 절반 녹을 것"]]></title>
         <id>https://v.daum.net/v/20230106121612474</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230106112053637"/>
         <updated>2023-01-06T02:48:04.899Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해에도 확률형아이템 논란…'민법서 규제' 공방]]></title>
-        <id>https://v.daum.net/v/20230106112059641</id>
-        <link href="https://v.daum.net/v/20230106112059641"/>
-        <updated>2023-01-06T02:48:04.901Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
