@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-01-06T02:48:47.550Z</updated>
+    <updated>2023-01-06T03:22:54.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["파리협정 충실히 지켜도 2100년까지 빙하 절반 녹을 것"]]></title>
+        <id>https://v.daum.net/v/20230106121612474</id>
+        <link href="https://v.daum.net/v/20230106121612474"/>
+        <updated>2023-01-06T03:22:06.121Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미일, 첨단 반도체 국산화 협력 강화…IBM·라피더스 공동개발]]></title>
+        <id>https://v.daum.net/v/20230106115539972</id>
+        <link href="https://v.daum.net/v/20230106115539972"/>
+        <updated>2023-01-06T03:22:06.122Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성폰, 4분기 영업익 30% 넘게 줄 듯…"플립·폴드도 힘 못 썼나"]]></title>
         <id>https://v.daum.net/v/20230106113719316</id>
         <link href="https://v.daum.net/v/20230106113719316"/>
         <updated>2023-01-06T02:48:04.893Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3년만에 돌아온 CES 2023 개막…혁신 기술 한자리에]]></title>
-        <id>https://v.daum.net/v/20230106023334229</id>
-        <link href="https://v.daum.net/v/20230106023334229"/>
-        <updated>2023-01-06T02:48:04.894Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['방통위 흔들기' 점입가경…검찰 압수수색 이어 국무조정실 감찰까지]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230106112059641"/>
         <updated>2023-01-06T02:48:04.901Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['2.3조→1.6조' 네이버 포시마크 인수액, 6770억 싸졌다…왜?]]></title>
-        <id>https://v.daum.net/v/20230106111933592</id>
-        <link href="https://v.daum.net/v/20230106111933592"/>
-        <updated>2023-01-06T02:48:04.904Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
