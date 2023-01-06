@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-01-06T19:17:43.361Z</updated>
+    <updated>2023-01-06T20:21:58.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[함박눈 내리는 광화문의 밤]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/Fz9iqXMT3R</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/Fz9iqXMT3R"/>
+        <updated>2023-01-06T20:21:35.447Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새하얀 눈이 만든 표정]]></title>
         <id>https://gallery.v.daum.net/p/viewer/212305/flMecRv8Oq</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5611563/UPCG3ZRyNE"/>
         <updated>2023-01-06T07:17:49.841Z</updated>
         <content type="html"><![CDATA[사진구성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["성실히 임해달라" 이태원 참사 국정조사, 10일 연장]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5615618/9b87aiYxbe</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5615618/9b87aiYxbe"/>
-        <updated>2023-01-06T07:17:49.846Z</updated>
-        <content type="html"><![CDATA[오마이포토]]></content>
     </entry>
 </feed>
