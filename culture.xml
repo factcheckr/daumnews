@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-01-07T11:16:33.613Z</updated>
+    <updated>2023-01-07T12:33:27.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 일요일에도 서울 등 공기질 '매우 나쁨']]></title>
+        <id>https://v.daum.net/v/20230107210003921</id>
+        <link href="https://v.daum.net/v/20230107210003921"/>
+        <updated>2023-01-07T12:32:37.110Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엎어지지 말고 자빠져라…당황하면 까먹는 '스키장 노하우' [건강한 가족]]]></title>
+        <id>https://v.daum.net/v/20230107201011612</id>
+        <link href="https://v.daum.net/v/20230107201011612"/>
+        <updated>2023-01-07T12:32:37.111Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[좋아도 싫어도 그만 둘 수 없는 일]]></title>
         <id>https://v.daum.net/v/20230107195401505</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230107194544467"/>
         <updated>2023-01-07T11:15:35.266Z</updated>
         <content type="html"><![CDATA[채널A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3년 기다린 ‘손맛’…산천어축제 개막에 경찰·소방 배치]]></title>
-        <id>https://v.daum.net/v/20230107191055303</id>
-        <link href="https://v.daum.net/v/20230107191055303"/>
-        <updated>2023-01-07T11:15:35.270Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘날씨, ‘황사’ 덮친 주말...내일아침 깜짝 ‘추위’]]></title>
-        <id>https://v.daum.net/v/20230107105102115</id>
-        <link href="https://v.daum.net/v/20230107105102115"/>
-        <updated>2023-01-07T11:15:35.270Z</updated>
-        <content type="html"><![CDATA[bnt뉴스]]></content>
     </entry>
 </feed>
