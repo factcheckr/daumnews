@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-01-07T09:18:51.895Z</updated>
+    <updated>2023-01-07T10:20:34.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[협치 손 내민 바이든…매카시에 "공화당과 협력 준비돼있다"]]></title>
+        <id>https://v.daum.net/v/20230107161921060</id>
+        <link href="https://v.daum.net/v/20230107161921060"/>
+        <updated>2023-01-07T10:19:32.123Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플·페북 개발자 얼마 벌까?···베일 벗겨졌다]]></title>
         <id>https://v.daum.net/v/20230107161712041</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230107145408200"/>
         <updated>2023-01-07T07:17:24.643Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초등생이 교사 총으로 쏴…미국 총기규제 왜 어렵나]]></title>
-        <id>https://v.daum.net/v/20230107151602445</id>
-        <link href="https://v.daum.net/v/20230107151602445"/>
-        <updated>2023-01-07T07:17:24.646Z</updated>
-        <content type="html"><![CDATA[쿠키뉴스]]></content>
     </entry>
 </feed>
