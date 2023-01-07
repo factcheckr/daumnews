@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-01-07T05:18:55.228Z</updated>
+    <updated>2023-01-07T06:23:47.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본  항공기, 폭발물 신고전화에 긴급 착륙…"수상한 물건 없어"]]></title>
+        <id>https://v.daum.net/v/20230107135403702</id>
+        <link href="https://v.daum.net/v/20230107135403702"/>
+        <updated>2023-01-07T06:22:39.842Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영상] 美서 ‘XBB.1.5’ 급속 확산…신규 감염의 3분의 1 차지]]></title>
+        <id>https://v.daum.net/v/20230107135419704</id>
+        <link href="https://v.daum.net/v/20230107135419704"/>
+        <updated>2023-01-07T06:22:39.843Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“화 냈더니 연봉 올라” ‘조용한 퇴사’의 진화..이젠 ‘분노의 구직’]]></title>
         <id>https://v.daum.net/v/20230107130118355</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230107120032861"/>
         <updated>2023-01-07T04:23:13.767Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울현충원, 4년 만에 '가짜 독립유공자' 묘비 철거]]></title>
-        <id>https://v.daum.net/v/20230107115121742</id>
-        <link href="https://v.daum.net/v/20230107115121742"/>
-        <updated>2023-01-07T04:23:13.768Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸틴, ‘36시간 휴전’ 명령… 젤렌스키 “시간 벌기 위장술”]]></title>
-        <id>https://v.daum.net/v/20230107090341884</id>
-        <link href="https://v.daum.net/v/20230107090341884"/>
-        <updated>2023-01-07T04:23:13.768Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
