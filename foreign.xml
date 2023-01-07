@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-01-07T12:33:27.795Z</updated>
+    <updated>2023-01-07T13:23:03.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트럼프가 해결사 등판?…"美하원의장 반대파에 전화해 '입김'"]]></title>
+        <id>https://v.daum.net/v/20230107215659283</id>
+        <link href="https://v.daum.net/v/20230107215659283"/>
+        <updated>2023-01-07T13:21:47.498Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휴전 한다더니‥성탄절 전날도 이어진 포성]]></title>
         <id>https://v.daum.net/v/20230107204828860</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230107201644660"/>
         <updated>2023-01-07T12:32:21.714Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘20억 대이동’ 중국 첫 춘제 수송 시작…방역 중대 고비]]></title>
-        <id>https://v.daum.net/v/20230107193231427</id>
-        <link href="https://v.daum.net/v/20230107193231427"/>
-        <updated>2023-01-07T12:32:21.715Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
