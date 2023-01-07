@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-01-07T18:23:25.186Z</updated>
+    <updated>2023-01-07T19:16:23.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[멕시코시티서 지하철 2대 충돌…1명 사망·16명 부상]]></title>
+        <id>https://v.daum.net/v/20230108033215224</id>
+        <link href="https://v.daum.net/v/20230108033215224"/>
+        <updated>2023-01-07T19:13:57.644Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이란 최고지도자, 경찰 수장 교체…"시위 대응에 불만"]]></title>
         <id>https://v.daum.net/v/20230108030033205</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20230107210300967"/>
         <updated>2023-01-07T12:31:23.293Z</updated>
         <content type="html"><![CDATA[경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“왜 내 나라에서 추방돼야 했나요”…국가에 책임 묻는 입양인들]]></title>
-        <id>https://v.daum.net/v/20230107213205146</id>
-        <link href="https://v.daum.net/v/20230107213205146"/>
-        <updated>2023-01-07T13:20:47.971Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
     </entry>
 </feed>
