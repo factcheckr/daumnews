@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-01-08T15:20:10.382Z</updated>
+    <updated>2023-01-08T16:26:22.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[건강관리 못하는 ‘39살’ 김정은…갑자기 사망하면 후계자는]]></title>
+        <id>https://v.daum.net/v/20230109001902421</id>
+        <link href="https://v.daum.net/v/20230109001902421"/>
+        <updated>2023-01-08T16:24:28.324Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사상 초유의 야당대표 소환… 이번 주 나라 두쪽 된다]]></title>
         <id>https://v.daum.net/v/20230109000409346</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230109000001236"/>
         <updated>2023-01-08T15:18:23.004Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령실 "나경원, 대단히 실망..더이상 방치할 수 없어"]]></title>
-        <id>https://v.daum.net/v/20230108235509226</id>
-        <link href="https://v.daum.net/v/20230108235509226"/>
-        <updated>2023-01-08T15:18:23.004Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
