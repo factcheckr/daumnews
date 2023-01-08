@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-01-08T16:26:22.864Z</updated>
+    <updated>2023-01-08T17:19:47.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[이란 "佛, 표현의 자유 핑계로 신성 모독"…대사관앞 항의 집회]]></title>
-        <id>https://v.daum.net/v/20230109000745373</id>
-        <link href="https://v.daum.net/v/20230109000745373"/>
-        <updated>2023-01-08T16:25:15.175Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[“아프간서 25명 사살, 17세 때 마약”]]></title>
         <id>https://v.daum.net/v/20230109000223299</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230108215820681"/>
         <updated>2023-01-08T15:19:04.346Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中 코로나19 진단키트 공장서 노동자 시위…공안과 충돌]]></title>
+        <id>https://v.daum.net/v/20230108215320623</id>
+        <link href="https://v.daum.net/v/20230108215320623"/>
+        <updated>2023-01-08T17:18:39.990Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
