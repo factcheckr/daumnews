@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-01-08T06:25:02.304Z</updated>
+    <updated>2023-01-08T08:24:27.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,27 @@
         <link href="https://v.daum.net/v/20230108141902748"/>
         <updated>2023-01-08T06:24:29.818Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“‘폴더블’도 이젠 식상하네”…관람객 눈 돌아가는 스마트폰 나왔다]]></title>
+        <id>https://v.daum.net/v/20230108140300450</id>
+        <link href="https://v.daum.net/v/20230108140300450"/>
+        <updated>2023-01-08T08:23:52.102Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[현대원의 CES 2023] "메타버스, 산업으로 여전히 유효"]]></title>
+        <id>https://v.daum.net/v/20230108135701313</id>
+        <link href="https://v.daum.net/v/20230108135701313"/>
+        <updated>2023-01-08T08:23:52.110Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“180만원→18만원, 말이 돼?” 헐값된 ‘아이폰14’ 알고보니…복제품]]></title>
+        <id>https://v.daum.net/v/20230108135119224</id>
+        <link href="https://v.daum.net/v/20230108135119224"/>
+        <updated>2023-01-08T08:23:52.112Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[금속을 대체하는 고성능 엔지니어링 플라스틱 [우리가 몰랐던 과학 이야기] (278)]]></title>
@@ -25,13 +46,6 @@
         <link href="https://v.daum.net/v/20230108122405104"/>
         <updated>2023-01-08T06:24:29.821Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통신3사, 5G 중간요금제 또 나오나…첫발은 SKT]]></title>
-        <id>https://v.daum.net/v/20230108113107337</id>
-        <link href="https://v.daum.net/v/20230108113107337"/>
-        <updated>2023-01-08T06:24:29.823Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['깜짝 등장' 최태원 '종횡무진' 정용진…CEO 총출동[CES 2023]]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230108114302470"/>
         <updated>2023-01-08T04:23:38.531Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전염성 최강 변이 XBB.1.5 미국서 빠르게 확산]]></title>
-        <id>https://v.daum.net/v/20230108110402977</id>
-        <link href="https://v.daum.net/v/20230108110402977"/>
-        <updated>2023-01-08T04:23:38.532Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정원 관리 로봇, 냄새 나는 VR, 혼자 움직이는 유모차…[CES 2023]]]></title>
-        <id>https://v.daum.net/v/20230108110208937</id>
-        <link href="https://v.daum.net/v/20230108110208937"/>
-        <updated>2023-01-08T03:22:39.417Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
