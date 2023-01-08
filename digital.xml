@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-01-08T17:19:47.232Z</updated>
+    <updated>2023-01-08T18:23:08.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전기차 충전기 꽂았더니…노화·이상징조 감지까지 30분 만에? [CES 2023]]]></title>
+        <id>https://v.daum.net/v/20230108220141720</id>
+        <link href="https://v.daum.net/v/20230108220141720"/>
+        <updated>2023-01-08T18:22:30.042Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['손안의 PC'·'혁신의 아이콘' 아이폰 탄생[그해 오늘]]]></title>
         <id>https://v.daum.net/v/20230109000312330</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230108202628049"/>
         <updated>2023-01-08T12:35:29.435Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[CES 현장에서] 노태문 사장 "지난해 폴더블폰 목표치 근접…S·Z 투트랙 이상 無"]]></title>
-        <id>https://v.daum.net/v/20230108110010819</id>
-        <link href="https://v.daum.net/v/20230108110010819"/>
-        <updated>2023-01-08T12:35:29.437Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
