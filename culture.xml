@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-01-08T13:23:32.343Z</updated>
+    <updated>2023-01-08T14:17:34.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[치아 썩게 하는 '이 균'… 입맞춤 통해 옮겨가기도]]></title>
+        <id>https://v.daum.net/v/20230108230014074</id>
+        <link href="https://v.daum.net/v/20230108230014074"/>
+        <updated>2023-01-08T14:16:37.670Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소리 없이 찾아오는 뇌졸중, 자는 중에도 위험]]></title>
         <id>https://v.daum.net/v/20230108220023709</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230108220321741"/>
         <updated>2023-01-08T13:22:29.817Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈냄새 잘 맡는 경매회사...“이 나라 MZ세대를 잡아라”]]></title>
-        <id>https://v.daum.net/v/20230108215400631</id>
-        <link href="https://v.daum.net/v/20230108215400631"/>
-        <updated>2023-01-08T13:22:29.818Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
