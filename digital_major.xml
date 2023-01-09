@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-01-09T16:35:05.291Z</updated>
+    <updated>2023-01-09T17:21:43.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://v.daum.net/v/20230110000512595"/>
         <updated>2023-01-09T15:34:23.817Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['워크 프롬 애니웨어 2.0' 나선 SKT, 재택근무 '주1회' 제한]]></title>
-        <id>https://v.daum.net/v/20230109182900594</id>
-        <link href="https://v.daum.net/v/20230109182900594"/>
-        <updated>2023-01-09T15:34:23.817Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['댕댕이' 덕 본 솔라나 40% 급등…'알트코인 투심' 불붙나]]></title>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230109175057630"/>
         <updated>2023-01-09T09:20:54.712Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독일 개발자 “우리나라 은행 사이트, 매우 불편하고 위험해”]]></title>
+        <id>https://v.daum.net/v/20230109174833574</id>
+        <link href="https://v.daum.net/v/20230109174833574"/>
+        <updated>2023-01-09T17:21:08.266Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
