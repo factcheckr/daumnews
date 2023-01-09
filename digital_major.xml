@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-01-09T12:38:40.254Z</updated>
+    <updated>2023-01-09T14:25:19.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -32,13 +32,6 @@
         <link href="https://v.daum.net/v/20230109180358034"/>
         <updated>2023-01-09T10:23:12.886Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스줌인]클라우드 기업, 공공 클라우드 사업 축소에 대응책 고심]]></title>
-        <id>https://v.daum.net/v/20230109170104983</id>
-        <link href="https://v.daum.net/v/20230109170104983"/>
-        <updated>2023-01-09T10:23:12.891Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플 첫 'MR헤드셋' 올 봄 공개되나…가을 공식 출시 기대]]></title>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230109174557497"/>
         <updated>2023-01-09T09:20:54.716Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“마약류 처방 분석해 병원 불시 점검…감기약 원료 생산 뒷받침 검토”]]></title>
+        <id>https://v.daum.net/v/20230109172525839</id>
+        <link href="https://v.daum.net/v/20230109172525839"/>
+        <updated>2023-01-09T14:24:51.539Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
