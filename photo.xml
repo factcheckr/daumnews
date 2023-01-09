@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-01-09T18:26:01.740Z</updated>
+    <updated>2023-01-09T19:18:06.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 남부국경 첫 방문한 바이든]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1476/GBepYxlfou</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1476/GBepYxlfou"/>
+        <updated>2023-01-09T19:17:37.318Z</updated>
+        <content type="html"><![CDATA[미국은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[23층 주차타워 8시간 불타… 552가구 긴급대피]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1518/bjYSdYPlVl</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615616/xTjEAN1ijk"/>
         <updated>2023-01-09T07:22:29.674Z</updated>
         <content type="html"><![CDATA[뉴스1 PICK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설날 차례상 비용 전통시장 23만원·마트28만원]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033573/P31H4Vrqgx</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033573/P31H4Vrqgx"/>
-        <updated>2023-01-09T07:22:29.678Z</updated>
-        <content type="html"><![CDATA[전통시장 모습]]></content>
     </entry>
 </feed>
