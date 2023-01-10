@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-01-10T17:21:44.584Z</updated>
+    <updated>2023-01-10T18:25:30.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[온기도 전해지길]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/U96kHJWQKb</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/U96kHJWQKb"/>
+        <updated>2023-01-10T18:25:03.155Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈사람의 손님맞이]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/7156/1UWbLtJGK4</id>
+        <link href="https://gallery.v.daum.net/p/viewer/7156/1UWbLtJGK4"/>
+        <updated>2023-01-10T18:25:03.161Z</updated>
+        <content type="html"><![CDATA[포토 에세이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 마포구 염리동 건물서 불…인명피해 없어]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1518/ygUp0k0gqC</id>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/385/b39QvmzcW9"/>
         <updated>2023-01-10T06:26:18.842Z</updated>
         <content type="html"><![CDATA[미세먼지의 습격]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태원 참사 국조특위 '현장 재난응급의료대응.....등' 전문가 공청회]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5644531/P75yqFiH8b</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5644531/P75yqFiH8b"/>
-        <updated>2023-01-10T06:26:18.844Z</updated>
-        <content type="html"><![CDATA[이태원 대형인명 사고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해 파티! 나란히 식사 중인 쌍둥이 블랙홀 발견]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1497/2s3KLxlfpv</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1497/2s3KLxlfpv"/>
-        <updated>2023-01-10T06:26:18.846Z</updated>
-        <content type="html"><![CDATA[우주의 신비]]></content>
     </entry>
 </feed>
