@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-01-10T15:28:36.007Z</updated>
+    <updated>2023-01-10T16:31:18.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[심층인터뷰] ‘이재명 수사’ 쟁점과 정국 영향은?]]></title>
+        <id>https://v.daum.net/v/20230111003056034</id>
+        <link href="https://v.daum.net/v/20230111003056034"/>
+        <updated>2023-01-10T16:29:42.801Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나경원 '출마할 결심'에 쏠리는 與 시선…전당대회 판도는 '오리무중']]></title>
         <id>https://v.daum.net/v/20230111001501914</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230110232700447"/>
         <updated>2023-01-10T15:26:46.483Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[李, A4용지 6장 서면진술서 제출…檢 핵심 질문엔 답변 피해]]></title>
-        <id>https://v.daum.net/v/20230110211908029</id>
-        <link href="https://v.daum.net/v/20230110211908029"/>
-        <updated>2023-01-10T15:26:46.486Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
