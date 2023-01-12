@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-01-12T13:35:29.926Z</updated>
+    <updated>2023-01-12T14:26:15.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["오늘이 가장 싸다는 말 맞네"…해 바뀌니 또 명품 가격 올렸다]]></title>
+        <title type="html"><![CDATA[12월 미국 물가 6.5% 상승, 13개월만에 6%대로 하락]]></title>
+        <id>https://v.daum.net/v/20230112224354366</id>
+        <link href="https://v.daum.net/v/20230112224354366"/>
+        <updated>2023-01-12T14:24:47.425Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[작년 가격 4번이나 올린 '프라다', 해 바뀌자마자 한 일이…]]></title>
         <id>https://v.daum.net/v/20230112220105003</id>
         <link href="https://v.daum.net/v/20230112220105003"/>
         <updated>2023-01-12T13:33:56.366Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230112205622844"/>
         <updated>2023-01-12T12:38:54.786Z</updated>
         <content type="html"><![CDATA[전주MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 업체의 반발…석연찮은 전기차 보조금 개편 연기]]></title>
-        <id>https://v.daum.net/v/20230112211214236</id>
-        <link href="https://v.daum.net/v/20230112211214236"/>
-        <updated>2023-01-12T12:38:54.786Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
