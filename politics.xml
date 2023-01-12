@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-01-12T15:32:10.132Z</updated>
+    <updated>2023-01-12T17:31:50.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대통령실, MBC '공군 1호기' 탑승 전격 허용…위기 극복 집중]]></title>
+        <id>https://v.daum.net/v/20230113021253654</id>
+        <link href="https://v.daum.net/v/20230113021253654"/>
+        <updated>2023-01-12T17:30:01.591Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與 최고위원 선거전도 가열…'친윤 대 비윤' 구도에 '나경원 변수'까지]]></title>
         <id>https://v.daum.net/v/20230113001509106</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230112234106767"/>
         <updated>2023-01-12T15:30:10.452Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김기현·나경원, 내주 연달아 오세훈 회동…與시도지사에 러브콜(종합)]]></title>
-        <id>https://v.daum.net/v/20230112233624740</id>
-        <link href="https://v.daum.net/v/20230112233624740"/>
-        <updated>2023-01-12T15:30:10.453Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
