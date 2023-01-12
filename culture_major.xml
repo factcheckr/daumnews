@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-01-12T18:29:10.882Z</updated>
+    <updated>2023-01-12T19:17:48.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://v.daum.net/v/20230113030157749"/>
         <updated>2023-01-12T18:28:19.379Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국인은 잘 모르는 ‘일본판 우유니 사막’]]></title>
+        <id>https://v.daum.net/v/20230113000157935</id>
+        <link href="https://v.daum.net/v/20230113000157935"/>
+        <updated>2023-01-12T19:16:59.841Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자궁내막증, 적출 아닌 새로운 치료법 나오나]]></title>
+        <id>https://v.daum.net/v/20230113000145929</id>
+        <link href="https://v.daum.net/v/20230113000145929"/>
+        <updated>2023-01-12T19:16:59.842Z</updated>
+        <content type="html"><![CDATA[농민신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[행동하는 예술…한나라 도자기 박살은 시작이었을 뿐[정하윤의 아트차이나]<14>]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230112161046017"/>
         <updated>2023-01-12T15:31:14.877Z</updated>
         <content type="html"><![CDATA[농민신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이어폰 사용 늘면서… '소음성 난청' 60만 명 넘어]]></title>
-        <id>https://v.daum.net/v/20230112220123012</id>
-        <link href="https://v.daum.net/v/20230112220123012"/>
-        <updated>2023-01-12T15:31:14.878Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["태반유착증, 혈액검사로 간단히 진단 가능"]]></title>
-        <id>https://v.daum.net/v/20230112190044972</id>
-        <link href="https://v.daum.net/v/20230112190044972"/>
-        <updated>2023-01-12T15:31:14.880Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
