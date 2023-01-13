@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-01-13T18:25:52.903Z</updated>
+    <updated>2023-01-13T19:17:16.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[브라질 전 법무장관 자택서 쿠데타 계획 시사하는 법령초안 발견]]></title>
-        <id>https://v.daum.net/v/20230114001319390</id>
-        <link href="https://v.daum.net/v/20230114001319390"/>
-        <updated>2023-01-13T18:24:41.892Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[美 XBB.1.5 감염 비중 일주일새 30→43%]]></title>
         <id>https://v.daum.net/v/20230114000118277</id>
         <link href="https://v.daum.net/v/20230114000118277"/>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230113231328877"/>
         <updated>2023-01-13T16:31:33.315Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 은행 잇따라 실적 발표…JP모간·씨티그룹 희비 교차]]></title>
+        <id>https://v.daum.net/v/20230113230302845</id>
+        <link href="https://v.daum.net/v/20230113230302845"/>
+        <updated>2023-01-13T19:16:10.381Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
