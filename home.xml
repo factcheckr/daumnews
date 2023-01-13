@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-01-13T16:32:42.576Z</updated>
+    <updated>2023-01-13T17:22:22.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WEF "녹색·사회 부문서 8년간 글로벌 일자리 7천699만개 필요"]]></title>
+        <id>https://v.daum.net/v/20230114015746733</id>
+        <link href="https://v.daum.net/v/20230114015746733"/>
+        <updated>2023-01-13T17:19:53.988Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전국이 흐리고 중부지방 등 비]]></title>
         <id>https://v.daum.net/v/20230114004804550</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20230113233903995"/>
         <updated>2023-01-13T15:20:29.248Z</updated>
         <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[간만 나쁜줄 알았더니… 술고래 중년 男 '0000 장애' 두 배 위험]]></title>
-        <id>https://v.daum.net/v/20230113230019838</id>
-        <link href="https://v.daum.net/v/20230113230019838"/>
-        <updated>2023-01-13T14:22:41.790Z</updated>
-        <content type="html"><![CDATA[문화]]></content>
     </entry>
 </feed>
