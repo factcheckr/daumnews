@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-01-13T19:17:16.840Z</updated>
+    <updated>2023-01-13T20:22:00.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한·중·일 ‘행복의 언덕’ 함께 오르는 소망 영화에 담다]]></title>
+        <id>https://v.daum.net/v/20230114002019409</id>
+        <link href="https://v.daum.net/v/20230114002019409"/>
+        <updated>2023-01-13T20:21:16.000Z</updated>
+        <content type="html"><![CDATA[중앙SUNDAY]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[입 속 세균이 ‘혈관’ 속을 떠돈다?…치매·심혈관질환 위험↑]]></title>
         <id>https://v.daum.net/v/20230114001050375</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230113220020517"/>
         <updated>2023-01-13T15:22:06.279Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패스트푸드, 간 건강도 해쳐…"비알콜성 지방간 위험 ↑"]]></title>
-        <id>https://v.daum.net/v/20230113203043528</id>
-        <link href="https://v.daum.net/v/20230113203043528"/>
-        <updated>2023-01-13T15:22:06.281Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
