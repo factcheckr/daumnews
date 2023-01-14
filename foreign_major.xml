@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-01-14T15:25:07.620Z</updated>
+    <updated>2023-01-14T16:25:50.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日 코로나19 신규감염 13만2071명...일일사망 503명 '사상최다']]></title>
+        <id>https://v.daum.net/v/20230114223417703</id>
+        <link href="https://v.daum.net/v/20230114223417703"/>
+        <updated>2023-01-14T16:24:46.945Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이스라엘군, 서안지구서 팔레스타인人 2명 사살]]></title>
         <id>https://v.daum.net/v/20230114215941373</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230114203001695"/>
         <updated>2023-01-14T13:22:10.269Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대만 코로나 신규 2만412명·총 918만8207명...47명 사망]]></title>
-        <id>https://v.daum.net/v/20230114200516533</id>
-        <link href="https://v.daum.net/v/20230114200516533"/>
-        <updated>2023-01-14T12:32:38.918Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
