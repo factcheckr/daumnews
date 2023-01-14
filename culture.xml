@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-01-14T17:17:49.081Z</updated>
+    <updated>2023-01-14T18:23:37.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누구에게 어떤 선물? 설 선물 고민되면 ‘심리적 거리’ 활용]]></title>
+        <id>https://v.daum.net/v/20230115024255788</id>
+        <link href="https://v.daum.net/v/20230115024255788"/>
+        <updated>2023-01-14T18:22:28.938Z</updated>
+        <content type="html"><![CDATA[농민신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[똥배? 임신? 우리집 냥이 아랫배는 왜 나왔을까? [개st상식]]]></title>
         <id>https://v.daum.net/v/20230115000508220</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230114220016386"/>
         <updated>2023-01-14T13:22:18.305Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의인 이수현이 만든 한일교류의 길]]></title>
-        <id>https://v.daum.net/v/20230114214333205</id>
-        <link href="https://v.daum.net/v/20230114214333205"/>
-        <updated>2023-01-14T13:22:18.307Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
