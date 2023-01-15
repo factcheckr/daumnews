@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-01-15T13:23:28.503Z</updated>
+    <updated>2023-01-15T14:17:51.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['추억의 명소' 광주 지산유원지 조성 시행자 재지정]]></title>
+        <id>https://v.daum.net/v/20230115195517536</id>
+        <link href="https://v.daum.net/v/20230115195517536"/>
+        <updated>2023-01-15T14:16:59.345Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 내일까지 영동 눈...강원·동해안에 최고 10cm]]></title>
         <id>https://v.daum.net/v/20230115194617453</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230115180538336"/>
         <updated>2023-01-15T11:16:07.576Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폭설 이긴 화천산천어축제…주말 이틀간 10만명 찾아]]></title>
-        <id>https://v.daum.net/v/20230115180315310</id>
-        <link href="https://v.daum.net/v/20230115180315310"/>
-        <updated>2023-01-15T10:20:04.958Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
