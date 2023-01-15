@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-01-15T14:17:51.315Z</updated>
+    <updated>2023-01-15T15:20:00.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[울고, 웃은 화이자 [클릭 글로벌, 제약·바이오]]]></title>
+        <id>https://v.daum.net/v/20230115235508333</id>
+        <link href="https://v.daum.net/v/20230115235508333"/>
+        <updated>2023-01-15T15:18:54.703Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[통조림 세트… '이렇게' 보관하면 유해물질 나와]]></title>
         <id>https://v.daum.net/v/20230115230017127</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230115203003845"/>
         <updated>2023-01-15T12:34:01.440Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오랜만에 찾아간 '3천원 국숫집'... 놀라움의 연속]]></title>
-        <id>https://v.daum.net/v/20230115200001567</id>
-        <link href="https://v.daum.net/v/20230115200001567"/>
-        <updated>2023-01-15T11:15:58.105Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>

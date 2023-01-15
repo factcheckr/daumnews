@@ -2,21 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-01-15T14:17:51.334Z</updated>
+    <updated>2023-01-15T15:20:00.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국 삼킨 ‘악마 마약’… 펜타닐에 6년간 21만명 사망]]></title>
+        <id>https://v.daum.net/v/20230116000409438</id>
+        <link href="https://v.daum.net/v/20230116000409438"/>
+        <updated>2023-01-15T15:18:36.466Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대만 코로나 신규 2만1270명·총 920만9474명...31명 숨져]]></title>
+        <id>https://v.daum.net/v/20230115235536335</id>
+        <link href="https://v.daum.net/v/20230115235536335"/>
+        <updated>2023-01-15T15:18:36.470Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍콩 코로나 신규감염 6261명...누적 283만1717명]]></title>
+        <id>https://v.daum.net/v/20230115234051288</id>
+        <link href="https://v.daum.net/v/20230115234051288"/>
+        <updated>2023-01-15T15:18:36.471Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伊 문화부장관 "단테는 이탈리아 우파 사상의 창시자" 발언 논란]]></title>
         <id>https://v.daum.net/v/20230115231447203</id>
         <link href="https://v.daum.net/v/20230115231447203"/>
         <updated>2023-01-15T14:16:33.892Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네팔, 한국인 2명 탑승 추락 여객기 첫날 수색 종료…내일 재개]]></title>
-        <id>https://v.daum.net/v/20230115225219073</id>
-        <link href="https://v.daum.net/v/20230115225219073"/>
-        <updated>2023-01-15T14:16:33.899Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230115224454030"/>
         <updated>2023-01-15T14:16:33.900Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주유소 한 곳서 1700만원… 보우소나루, 대통령 시절 업무용 카드 ‘펑펑’]]></title>
-        <id>https://v.daum.net/v/20230115200257599</id>
-        <link href="https://v.daum.net/v/20230115200257599"/>
-        <updated>2023-01-15T14:16:33.902Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['새로운 단계'로 격상된 미일동맹...대중국 '통합 억지'에 초점]]></title>
-        <id>https://v.daum.net/v/20230115220036635</id>
-        <link href="https://v.daum.net/v/20230115220036635"/>
-        <updated>2023-01-15T13:22:05.576Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
