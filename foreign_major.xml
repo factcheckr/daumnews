@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-01-15T16:25:41.445Z</updated>
+    <updated>2023-01-15T17:18:10.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나 전세계 하루 감염, 50만명 아래로]]></title>
+        <id>https://v.daum.net/v/20230115224454030</id>
+        <link href="https://v.daum.net/v/20230115224454030"/>
+        <updated>2023-01-15T17:17:00.383Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주유소 한 곳서 1700만원… 보우소나루, 대통령 시절 업무용 카드 ‘펑펑’]]></title>
         <id>https://v.daum.net/v/20230115200257599</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230115180005237"/>
         <updated>2023-01-15T13:22:15.552Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이든도 못 피한 '재임 중 특검'..."워터게이트급 정치 공세 예상"]]></title>
-        <id>https://v.daum.net/v/20230115203032863</id>
-        <link href="https://v.daum.net/v/20230115203032863"/>
-        <updated>2023-01-15T16:24:35.822Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>

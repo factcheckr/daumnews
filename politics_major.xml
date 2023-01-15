@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-01-15T16:25:41.447Z</updated>
+    <updated>2023-01-15T17:18:10.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[취재석] 더 강화된 尹대통령의 선택적 '소통']]></title>
+        <id>https://v.daum.net/v/20230116000032367</id>
+        <link href="https://v.daum.net/v/20230116000032367"/>
+        <updated>2023-01-15T17:16:24.218Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“나경원, 대변인 직접 내정”…사실상 ‘캠프’ 출범 채비]]></title>
         <id>https://v.daum.net/v/20230116000137383</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230115211218240"/>
         <updated>2023-01-15T15:18:06.821Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14년전 수출한 바라카 원전…300억달러 투자로 돌아왔다]]></title>
-        <id>https://v.daum.net/v/20230115221259735</id>
-        <link href="https://v.daum.net/v/20230115221259735"/>
-        <updated>2023-01-15T15:18:06.826Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
