@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-01-17T13:28:28.729Z</updated>
+    <updated>2023-01-17T14:19:58.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잇단 철도 사고…코레일 일할 사람 줄이는 게 안전 대책?]]></title>
+        <id>https://v.daum.net/v/20230117211804992</id>
+        <link href="https://v.daum.net/v/20230117211804992"/>
+        <updated>2023-01-17T14:18:32.319Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 ~ 부산 8시간40분…설 전날인 ‘21일 오전’ 가장 붐빈다]]></title>
         <id>https://v.daum.net/v/20230117211619982</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230117204505497"/>
         <updated>2023-01-17T12:38:19.964Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[취약계층 선물로 VIP 선물 돌린 지역 농협]]></title>
-        <id>https://v.daum.net/v/20230117204309462</id>
-        <link href="https://v.daum.net/v/20230117204309462"/>
-        <updated>2023-01-17T12:38:19.966Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
