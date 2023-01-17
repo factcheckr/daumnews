@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-01-17T03:22:35.500Z</updated>
+    <updated>2023-01-17T04:28:57.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['삼성 독주' 폴더블폰, 올해 1850만대 넘을 듯...전년비 44% 성장]]></title>
+        <title type="html"><![CDATA[통신 3사 "설 통화·데이터 이용 증가 대비책 마련"]]></title>
+        <id>https://v.daum.net/v/20230117114601484</id>
+        <link href="https://v.daum.net/v/20230117114601484"/>
+        <updated>2023-01-17T04:28:21.529Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인간이 개를 길들인 비결은…"동물에게도 통하는 이타심"]]></title>
+        <id>https://v.daum.net/v/20230117114012304</id>
+        <link href="https://v.daum.net/v/20230117114012304"/>
+        <updated>2023-01-17T04:28:21.531Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['삼성 독주' 폴더블폰, 올 40% 이상 성장…1850만대 돌파]]></title>
         <id>https://v.daum.net/v/20230117112710745</id>
         <link href="https://v.daum.net/v/20230117112710745"/>
         <updated>2023-01-17T03:21:57.400Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230117104233202"/>
         <updated>2023-01-17T02:43:52.947Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공정위 손 들어 준 서울고법…KT·LGU+ "상고 여부 검토"]]></title>
-        <id>https://v.daum.net/v/20230117103544848</id>
-        <link href="https://v.daum.net/v/20230117103544848"/>
-        <updated>2023-01-17T02:43:52.950Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모르는 언어 ‘욕설’도 알아챌 수 있는 이유, 비밀은 ‘접근음’]]></title>
-        <id>https://v.daum.net/v/20230117101007678</id>
-        <link href="https://v.daum.net/v/20230117101007678"/>
-        <updated>2023-01-17T02:43:52.952Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
