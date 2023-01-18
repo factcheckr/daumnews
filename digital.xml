@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-01-18T15:22:39.021Z</updated>
+    <updated>2023-01-18T16:29:00.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금세기말 육상동물 40%  폭염 겪는다]]></title>
+        <id>https://v.daum.net/v/20230119010015983</id>
+        <link href="https://v.daum.net/v/20230119010015983"/>
+        <updated>2023-01-18T16:28:15.097Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올 3천억 규모 공공IT사업 단 하나…수주경쟁 뜨거울듯]]></title>
         <id>https://v.daum.net/v/20230118165654501</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230118205101821"/>
         <updated>2023-01-18T12:36:37.980Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구현모 KT 대표, 연임 둘러싼 잡음에 "말할 입장 아냐"]]></title>
-        <id>https://v.daum.net/v/20230118182106179</id>
-        <link href="https://v.daum.net/v/20230118182106179"/>
-        <updated>2023-01-18T15:21:59.151Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
