@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-01-18T11:20:28.396Z</updated>
+    <updated>2023-01-18T12:37:18.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 스페인어권 5억명 '정조준'···중남미까지 영토 넓히는 K웹툰]]></title>
+        <id>https://v.daum.net/v/20230118174643220</id>
+        <link href="https://v.daum.net/v/20230118174643220"/>
+        <updated>2023-01-18T12:36:45.990Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 블루투스보다 1000배나 빨라 … 삼성전자 '꿈의 칩' 만들었다]]></title>
         <id>https://v.daum.net/v/20230118171500120</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230118162507255"/>
         <updated>2023-01-18T08:25:14.606Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['변협·로톡 갈등' 결국 국회가 나선다]]></title>
-        <id>https://v.daum.net/v/20230118161907035</id>
-        <link href="https://v.daum.net/v/20230118161907035"/>
-        <updated>2023-01-18T08:25:14.607Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

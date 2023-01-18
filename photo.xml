@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-01-18T11:20:28.409Z</updated>
+    <updated>2023-01-18T12:37:18.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[눈꽃 핀 대관령 - 봄꽃 핀 섬진강]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/47169/UBIWX6hVOf</id>
+        <link href="https://gallery.v.daum.net/p/viewer/47169/UBIWX6hVOf"/>
+        <updated>2023-01-18T12:36:53.848Z</updated>
+        <content type="html"><![CDATA[눈 오는 풍경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[행안부 재난안전관리본부장 전통시장 점검]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5033573/0G39YfOKg1</id>
@@ -18,6 +25,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5620469/1aptr0g1XA"/>
         <updated>2023-01-18T11:20:06.480Z</updated>
         <content type="html"><![CDATA[가봤더니]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[순천 와온 / 장선노두길]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/tjFVmVsbig</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/tjFVmVsbig"/>
+        <updated>2023-01-18T12:36:53.853Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[러 외무 "美의 대 러 정책, 나치의 대소전쟁과 같아"]]></title>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2322/BZ9LA7A0cL"/>
         <updated>2023-01-18T06:25:34.746Z</updated>
         <content type="html"><![CDATA[러시아 푸틴 대통령]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가뭄에 메마른 아르헨티나 강]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5031018/p0o8RHRyjA</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5031018/p0o8RHRyjA"/>
-        <updated>2023-01-18T06:25:34.754Z</updated>
-        <content type="html"><![CDATA[아르헨티나는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페루 계속된 '탄핵 불복' 시위]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5029635/HHvwC8C2kV</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5029635/HHvwC8C2kV"/>
-        <updated>2023-01-18T06:25:34.758Z</updated>
-        <content type="html"><![CDATA[페루는 지금]]></content>
     </entry>
 </feed>
