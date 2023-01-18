@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-01-18T16:29:00.468Z</updated>
+    <updated>2023-01-18T17:19:17.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파월 연준 의장, 코로나 확진…미 증시 낙폭 확대(상보)]]></title>
+        <id>https://v.daum.net/v/20230119013536155</id>
+        <link href="https://v.daum.net/v/20230119013536155"/>
+        <updated>2023-01-18T17:17:50.429Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미 소비 1.1% '뚝'…인플레 둔화하자 경기 침체 왔다(종합)]]></title>
         <id>https://v.daum.net/v/20230119010756075</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230119000506644"/>
         <updated>2023-01-18T15:21:11.492Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공시가격보다 하락한 급매물…작년 794건 거래, 충북이 최다]]></title>
-        <id>https://v.daum.net/v/20230119000310609</id>
-        <link href="https://v.daum.net/v/20230119000310609"/>
-        <updated>2023-01-18T15:21:11.493Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
