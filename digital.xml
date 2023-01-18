@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-01-18T18:24:55.652Z</updated>
+    <updated>2023-01-18T19:17:35.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中 게임산업 구름 걷히나...텐센트 올해 첫 판호 발급]]></title>
+        <id>https://v.daum.net/v/20230119034801643</id>
+        <link href="https://v.daum.net/v/20230119034801643"/>
+        <updated>2023-01-18T19:16:54.499Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금세기말 육상동물 40%  폭염 겪는다]]></title>
         <id>https://v.daum.net/v/20230119010015983</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230118220101679"/>
         <updated>2023-01-18T13:26:26.023Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“회사 출근이 그렇게 끔찍한가?” 돈보다 ‘재택 근무’ 택한 직장인들]]></title>
-        <id>https://v.daum.net/v/20230118205101821</id>
-        <link href="https://v.daum.net/v/20230118205101821"/>
-        <updated>2023-01-18T12:36:37.980Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>

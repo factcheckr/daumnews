@@ -2,21 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-01-18T18:24:55.655Z</updated>
+    <updated>2023-01-18T19:17:35.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美, '다크넷 불법수익 거래' 비츨라토 적발·러시아 창업자 체포]]></title>
+        <id>https://v.daum.net/v/20230119034614636</id>
+        <link href="https://v.daum.net/v/20230119034614636"/>
+        <updated>2023-01-18T19:15:23.011Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 ‘반도체 反中전선’ 삐걱… 네덜란드도 수출 전면규제 반기]]></title>
+        <id>https://v.daum.net/v/20230119030321468</id>
+        <link href="https://v.daum.net/v/20230119030321468"/>
+        <updated>2023-01-18T19:15:23.031Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李 “술먹다 김성태 전화 받았다는데 기억 안나”]]></title>
+        <id>https://v.daum.net/v/20230119030056316</id>
+        <link href="https://v.daum.net/v/20230119030056316"/>
+        <updated>2023-01-18T19:15:23.032Z</updated>
+        <content type="html"><![CDATA[정치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이스라엘 대법, 범죄자 장관임명 무효화…네타냐후 연정 '비상']]></title>
         <id>https://v.daum.net/v/20230119025808287</id>
         <link href="https://v.daum.net/v/20230119025808287"/>
         <updated>2023-01-18T18:22:35.729Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젤렌스키 "생각할 시간에 그들은 살인한다…탱크지원 서둘러야"]]></title>
-        <id>https://v.daum.net/v/20230119025100274</id>
-        <link href="https://v.daum.net/v/20230119025100274"/>
-        <updated>2023-01-18T18:22:35.731Z</updated>
         <content type="html"><![CDATA[국제]]></content>
     </entry>
     <entry>
@@ -130,19 +144,5 @@
         <link href="https://v.daum.net/v/20230119000030539"/>
         <updated>2023-01-18T16:26:32.206Z</updated>
         <content type="html"><![CDATA[정치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시-전장연 면담 평행선…지하철 탑승시위 재개 조짐]]></title>
-        <id>https://v.daum.net/v/20230119000022530</id>
-        <link href="https://v.daum.net/v/20230119000022530"/>
-        <updated>2023-01-18T16:26:32.209Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌 CEO 만난 尹 “밥 한번 사는 게 영업사원 도리, 언제든 사무실 오라”]]></title>
-        <id>https://v.daum.net/v/20230118235801488</id>
-        <link href="https://v.daum.net/v/20230118235801488"/>
-        <updated>2023-01-18T15:20:29.126Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
     </entry>
 </feed>

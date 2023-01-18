@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-01-18T18:24:55.649Z</updated>
+    <updated>2023-01-18T19:17:35.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아름다운 독서]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/WQ0ObVsbI7</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/WQ0ObVsbI7"/>
+        <updated>2023-01-18T19:17:09.832Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마스크 언제나 벗나]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5014013/2X8hvYxvqt</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1497/zP4wj7A0pJ"/>
         <updated>2023-01-18T08:25:22.426Z</updated>
         <content type="html"><![CDATA[우주의 신비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추위 잊은 바다 사나이…해군 SSU 혹한기 훈련 外]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5611563/Gt1oflfON8</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5611563/Gt1oflfON8"/>
-        <updated>2023-01-18T07:19:15.808Z</updated>
-        <content type="html"><![CDATA[사진구성]]></content>
     </entry>
 </feed>

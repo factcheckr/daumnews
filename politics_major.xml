@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-01-18T18:24:55.651Z</updated>
+    <updated>2023-01-18T19:17:35.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230119030109328"/>
         <updated>2023-01-18T18:23:11.211Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]韓美 국방장관, 내달 5년여만에 JSA 갈 듯… 대북경고 메시지]]></title>
+        <id>https://v.daum.net/v/20230119030115332</id>
+        <link href="https://v.daum.net/v/20230119030115332"/>
+        <updated>2023-01-18T19:15:55.733Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[與 “北 대변해온 민노총 철저 수사”… 민주당은 공식입장 안 내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230119030046304"/>
         <updated>2023-01-18T18:23:11.253Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주말 홀로 檢 출석…'리스크 대응' 달라진 이재명]]></title>
-        <id>https://v.daum.net/v/20230119000030539</id>
-        <link href="https://v.daum.net/v/20230119000030539"/>
-        <updated>2023-01-18T18:23:11.255Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
