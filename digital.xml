@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-01-19T14:20:52.565Z</updated>
+    <updated>2023-01-19T15:24:56.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스타트업 아이디어 도용 의혹 또 터졌다…이번엔 영양제 디스펜서]]></title>
+        <id>https://v.daum.net/v/20230120000331815</id>
+        <link href="https://v.daum.net/v/20230120000331815"/>
+        <updated>2023-01-19T15:24:11.975Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[홍기훈의 ESG 금융] ‘선도그룹연합(FMC)’이 지닌 차별성]]></title>
         <id>https://v.daum.net/v/20230119224801159</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230119193003519"/>
         <updated>2023-01-19T11:18:01.316Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<뉴스브릿지> 중국계 미국인 수학자 '이탕 장', 리만 가설 풀었나?]]></title>
-        <id>https://v.daum.net/v/20230119182421856</id>
-        <link href="https://v.daum.net/v/20230119182421856"/>
-        <updated>2023-01-19T10:22:26.817Z</updated>
-        <content type="html"><![CDATA[EBS]]></content>
     </entry>
 </feed>
