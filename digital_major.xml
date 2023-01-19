@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-01-19T12:38:59.428Z</updated>
+    <updated>2023-01-19T13:28:52.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[정부, CSAP 고시 개정안 의견수렴 기한 연장…31일 공포]]></title>
-        <id>https://v.daum.net/v/20230119173403064</id>
-        <link href="https://v.daum.net/v/20230119173403064"/>
-        <updated>2023-01-19T12:38:23.678Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[금융사, 알뜰폰 시장 눈독...KB 이어 신한도 발 담그나]]></title>
         <id>https://v.daum.net/v/20230119175109742</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230119165131481"/>
         <updated>2023-01-19T09:20:47.906Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["100만원어치 날렸다"…오늘은 꼭 비밀번호 바꿔야 하는 이유 [선한결의 IT포커스]]]></title>
+        <id>https://v.daum.net/v/20230119164902395</id>
+        <link href="https://v.daum.net/v/20230119164902395"/>
+        <updated>2023-01-19T13:28:18.390Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
