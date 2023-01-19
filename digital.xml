@@ -2,21 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-01-19T18:26:52.507Z</updated>
+    <updated>2023-01-19T19:17:53.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[재미 한국인 과학자들, 양자컴퓨터 성능 측정방법 찾았다]]></title>
+        <id>https://v.daum.net/v/20230120040004076</id>
+        <link href="https://v.daum.net/v/20230120040004076"/>
+        <updated>2023-01-19T19:17:12.974Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사이테크+] 재미 한국 물리학자들 획기적 양자정보기술 성과 연속 발표]]></title>
+        <id>https://v.daum.net/v/20230120040006080</id>
+        <link href="https://v.daum.net/v/20230120040006080"/>
+        <updated>2023-01-19T19:17:12.974Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머스크가 꺾은 날개… 트위터 매출 -40%]]></title>
         <id>https://v.daum.net/v/20230120030107693</id>
         <link href="https://v.daum.net/v/20230120030107693"/>
-        <updated>2023-01-19T18:26:14.876Z</updated>
+        <updated>2023-01-19T19:17:12.981Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[150만km 떨어진 곳으로… 생명체 흔적 찾아 떠납니다]]></title>
         <id>https://v.daum.net/v/20230120030105692</id>
         <link href="https://v.daum.net/v/20230120030105692"/>
-        <updated>2023-01-19T18:26:14.885Z</updated>
+        <updated>2023-01-19T19:17:12.982Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230119171230209"/>
         <updated>2023-01-19T16:33:03.447Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타트업 아이디어 도용 의혹 또 터졌다…이번엔 영양제 디스펜서]]></title>
-        <id>https://v.daum.net/v/20230120000331815</id>
-        <link href="https://v.daum.net/v/20230120000331815"/>
-        <updated>2023-01-19T16:33:03.450Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[홍기훈의 ESG 금융] ‘선도그룹연합(FMC)’이 지닌 차별성]]></title>
-        <id>https://v.daum.net/v/20230119224801159</id>
-        <link href="https://v.daum.net/v/20230119224801159"/>
-        <updated>2023-01-19T14:20:06.910Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
