@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-01-19T10:23:11.808Z</updated>
+    <updated>2023-01-19T11:18:38.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[눈꽃 언덕에서]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/47169/zYWw1BEuLx</id>
+        <link href="https://gallery.v.daum.net/p/viewer/47169/zYWw1BEuLx"/>
+        <updated>2023-01-19T11:18:16.735Z</updated>
+        <content type="html"><![CDATA[눈 오는 풍경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도수안경 온라인 불법판매에 고물가… “손님 없는 날 허다” [밀착취재]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5620487/Pr7uGUNFXH</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5611584/7NXrjj3ot5"/>
         <updated>2023-01-19T07:19:23.562Z</updated>
         <content type="html"><![CDATA[쿡 정치포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외교부, 주한이란대사 초치…"윤 대통령 발언, 국제관계와 무관"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5031013/30TrKKwznG</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5031013/30TrKKwznG"/>
-        <updated>2023-01-19T06:25:51.976Z</updated>
-        <content type="html"><![CDATA[이란은 지금]]></content>
     </entry>
 </feed>
