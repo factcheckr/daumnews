@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-01-19T16:33:42.258Z</updated>
+    <updated>2023-01-19T17:21:10.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[채권 투자 전성시대…지난해 개인 순매수액 20조원]]></title>
+        <id>https://v.daum.net/v/20230120000311802</id>
+        <link href="https://v.daum.net/v/20230120000311802"/>
+        <updated>2023-01-19T17:19:40.228Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개미가 팔면 오르네…설 앞둔 코스피, 전문가 조언은]]></title>
         <id>https://v.daum.net/v/20230120000114750</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230119215702559"/>
         <updated>2023-01-19T16:32:25.604Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주인 못 찾은 ‘로또 1등’ 20억...결국 국고 귀속]]></title>
-        <id>https://v.daum.net/v/20230119215404518</id>
-        <link href="https://v.daum.net/v/20230119215404518"/>
-        <updated>2023-01-19T14:19:23.536Z</updated>
-        <content type="html"><![CDATA[매경이코노미]]></content>
     </entry>
 </feed>
