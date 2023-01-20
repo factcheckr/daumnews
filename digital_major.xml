@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-01-20T03:24:33.641Z</updated>
+    <updated>2023-01-20T04:25:51.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도시 풍경 바꾼 화면, 미래엔 몸 일부 되고 꿈 생중계한다]]></title>
+        <id>https://v.daum.net/v/20230120110052228</id>
+        <link href="https://v.daum.net/v/20230120110052228"/>
+        <updated>2023-01-20T04:25:16.640Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["나 찍는데 다 캐논" 이재용 회장, 이번엔 "니콘 섭섭하겠다"]]></title>
         <id>https://v.daum.net/v/20230120095039499</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230120091747180"/>
         <updated>2023-01-20T01:42:07.278Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이세계 전생'을 현실로... 소니 '플레이스테이션 VR2' 체험기]]></title>
-        <id>https://v.daum.net/v/20230120090112590</id>
-        <link href="https://v.daum.net/v/20230120090112590"/>
-        <updated>2023-01-20T01:42:07.279Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
