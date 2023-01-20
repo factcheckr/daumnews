@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-01-20T09:21:22.023Z</updated>
+    <updated>2023-01-20T10:22:58.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한 핵무기의 새로운 돈줄은 '사이버공격'.."한국도 국가적 대응 체계 마련해야"]]></title>
+        <id>https://v.daum.net/v/20230120191501210</id>
+        <link href="https://v.daum.net/v/20230120191501210"/>
+        <updated>2023-01-20T10:22:18.572Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국 판호 열렸다? 기대감 크지만, 중국 게임 시장도 부진 깊어져]]></title>
         <id>https://v.daum.net/v/20230120181204508</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230120093354856"/>
         <updated>2023-01-20T09:20:41.449Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융위 STO 허용 시사…코인마켓 거래소 대응 '골몰']]></title>
-        <id>https://v.daum.net/v/20230120163005625</id>
-        <link href="https://v.daum.net/v/20230120163005625"/>
-        <updated>2023-01-20T08:26:46.240Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
