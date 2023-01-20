@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-01-20T18:25:42.453Z</updated>
+    <updated>2023-01-20T19:17:22.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[美, 여야 대치에 ‘정부 부도’ 위기…  “공무원 연금 지원 유예”]]></title>
+        <title type="html"><![CDATA[英 법원 "中 신장 강제노동 면화 있어"…위구르 소송은 기각]]></title>
+        <id>https://v.daum.net/v/20230121030521100</id>
+        <link href="https://v.daum.net/v/20230121030521100"/>
+        <updated>2023-01-20T19:16:22.792Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“한국인 70%가 핵무장 찬성… 여론조사에 깜짝 놀랐다”]]></title>
+        <id>https://v.daum.net/v/20230121030346088</id>
+        <link href="https://v.daum.net/v/20230121030346088"/>
+        <updated>2023-01-20T19:16:22.793Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美, 여야 대치에 ‘정부 부도’ 위기… “공무원 연금 지원 유예”]]></title>
         <id>https://v.daum.net/v/20230121030131989</id>
         <link href="https://v.daum.net/v/20230121030131989"/>
         <updated>2023-01-20T18:24:35.343Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230121001741454"/>
         <updated>2023-01-20T17:18:48.741Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예상 뛰어 넘은 佛 ‘연금 개혁 반대’ 집회…정부 “대화하자”]]></title>
-        <id>https://v.daum.net/v/20230121001419425</id>
-        <link href="https://v.daum.net/v/20230121001419425"/>
-        <updated>2023-01-20T17:18:48.743Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英 12월 소매매출 전월비 1.0%↓..."예상 반해 감소"]]></title>
-        <id>https://v.daum.net/v/20230120235930287</id>
-        <link href="https://v.daum.net/v/20230120235930287"/>
-        <updated>2023-01-20T17:18:48.744Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
