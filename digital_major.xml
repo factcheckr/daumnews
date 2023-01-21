@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-01-21T07:18:19.642Z</updated>
+    <updated>2023-01-21T08:24:34.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[포털 다음 '댓글 접힘' 개편 후 '혐오댓글' 줄었을까]]></title>
+        <id>https://v.daum.net/v/20230121110504378</id>
+        <link href="https://v.daum.net/v/20230121110504378"/>
+        <updated>2023-01-21T08:24:01.960Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[게임위드인] 확률형 아이템과 거리 두는 게임업계 노력, 빛 볼까]]></title>
         <id>https://v.daum.net/v/20230121110006298</id>
@@ -41,20 +48,6 @@
         <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새해 테크 트렌드 '주방 자리잡은 로봇' 주목]]></title>
-        <id>https://v.daum.net/v/20230121091221072</id>
-        <link href="https://v.daum.net/v/20230121091221072"/>
-        <updated>2023-01-21T02:41:56.359Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[위클리 스마트] '게임체인저' 양자에 조 단위 투자…기술패권 노린다]]></title>
-        <id>https://v.daum.net/v/20230121090005814</id>
-        <link href="https://v.daum.net/v/20230121090005814"/>
-        <updated>2023-01-21T02:41:56.362Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["머스크 인수 후 80% 해고…트위터, 1,300명으로 축소"]]></title>
         <id>https://v.daum.net/v/20230121094804501</id>
         <link href="https://v.daum.net/v/20230121094804501"/>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230121095708589"/>
         <updated>2023-01-21T07:17:44.257Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세뱃돈 얼마가 적당?…‘똑똑이’ 소문난 챗GPT에 물어보니]]></title>
+        <id>https://v.daum.net/v/20230121135503857</id>
+        <link href="https://v.daum.net/v/20230121135503857"/>
+        <updated>2023-01-21T08:24:01.977Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
