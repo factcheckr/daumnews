@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-01-21T09:19:34.657Z</updated>
+    <updated>2023-01-21T10:20:18.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“오늘도 집에서 썼는데” 손톱 젤 굳히려다 피부암이라니]]></title>
+        <id>https://v.daum.net/v/20230121185104424</id>
+        <link href="https://v.daum.net/v/20230121185104424"/>
+        <updated>2023-01-21T10:19:36.772Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갤럭시S23울트라 기본모델 159만원...판매 자료 유출]]></title>
         <id>https://v.daum.net/v/20230121155509965</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1500만원 날리고 팔았는데 무섭게 오르네? “비트코인, 폭락보다 더 뼈아퍼!”]]></title>
+        <title type="html"><![CDATA[“1500만원 날리고 팔았는데 무섭게 오르네?” 비트코인, 폭락보다 더 뼈아퍼!]]></title>
         <id>https://v.daum.net/v/20230121165101427</id>
         <link href="https://v.daum.net/v/20230121165101427"/>
         <updated>2023-01-21T08:23:54.407Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230121140004895"/>
         <updated>2023-01-21T05:18:18.897Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설에도 쉬지 않는 코인 거래…올해는 다를까]]></title>
-        <id>https://v.daum.net/v/20230121140003892</id>
-        <link href="https://v.daum.net/v/20230121140003892"/>
-        <updated>2023-01-21T05:18:18.898Z</updated>
-        <content type="html"><![CDATA[비즈니스워치]]></content>
     </entry>
 </feed>
