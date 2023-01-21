@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-01-21T13:23:26.946Z</updated>
+    <updated>2023-01-21T14:17:59.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노안 늦추고 싶다면 ‘이것’ 먹어야!]]></title>
+        <id>https://v.daum.net/v/20230121230019981</id>
+        <link href="https://v.daum.net/v/20230121230019981"/>
+        <updated>2023-01-21T14:16:57.004Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머리 묶는 방법에 따라 ‘탈모’ 오기도… 가장 안 좋은 것은?]]></title>
         <id>https://v.daum.net/v/20230121220019663</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“예쁜 손 만들려다” 손톱 젤 굳히는 기기 ‘피부암’ 유발 충격]]></title>
+        <title type="html"><![CDATA[“예쁜 손 만들려다” 여성들 지나친 손톱 네일 ‘피부암’ 유발 우려]]></title>
         <id>https://v.daum.net/v/20230121185104424</id>
         <link href="https://v.daum.net/v/20230121185104424"/>
         <updated>2023-01-21T12:33:22.161Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230121204004157"/>
         <updated>2023-01-21T12:33:22.165Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[떡국 끓이고 남은 가래떡, 3일 지나면 냉동보관 해야]]></title>
-        <id>https://v.daum.net/v/20230121173724845</id>
-        <link href="https://v.daum.net/v/20230121173724845"/>
-        <updated>2023-01-21T12:33:22.166Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
