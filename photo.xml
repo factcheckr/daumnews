@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-01-21T20:20:24.820Z</updated>
+    <updated>2023-01-21T21:17:44.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“한국만 뒤쳐졌다”…세계는 ‘드론 전쟁’ 한창인데, 한국은 ‘뒷북’ [박수찬의 軍]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5620488/yHwLXI9r52</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5620488/yHwLXI9r52"/>
+        <updated>2023-01-21T21:17:21.257Z</updated>
+        <content type="html"><![CDATA[박수찬의 軍]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전북 김제 가구 단지 불…"인명피해 없어"]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1518/Q1UJY0g1Jb</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1504/Q1yea3o5j6"/>
         <updated>2023-01-21T01:29:29.755Z</updated>
         <content type="html"><![CDATA[훈훈한 미담]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘세일즈외교 마치고 왔습니다’ 귀국한 尹 내외 [포착]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5632022/0P9ayxv8rT</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5632022/0P9ayxv8rT"/>
-        <updated>2023-01-21T01:29:29.757Z</updated>
-        <content type="html"><![CDATA[국민일보 포착]]></content>
     </entry>
 </feed>
