@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-01-22T12:35:01.056Z</updated>
+    <updated>2023-01-22T13:23:42.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이산가족 상봉의 날 올까요… 정부 "北, 올바른 길 가길"]]></title>
+        <id>https://v.daum.net/v/20230122214108536</id>
+        <link href="https://v.daum.net/v/20230122214108536"/>
+        <updated>2023-01-22T13:21:54.697Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스를 만나다] “일본 참여 없는 해법? 받아들일 수 없어”]]></title>
         <id>https://v.daum.net/v/20230122212641424</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230122211221364"/>
         <updated>2023-01-22T12:33:17.130Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여랑야랑]삼만 원권 촉구결의안 / 기습 조문]]></title>
-        <id>https://v.daum.net/v/20230122192542778</id>
-        <link href="https://v.daum.net/v/20230122192542778"/>
-        <updated>2023-01-22T11:15:12.823Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
     </entry>
 </feed>
