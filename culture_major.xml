@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-01-22T15:19:53.190Z</updated>
+    <updated>2023-01-22T16:25:58.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["우리 엄마가 원래 그래" 대신 "섭섭했지?"라고 해주세요]]></title>
+        <id>https://v.daum.net/v/20230122220018663</id>
+        <link href="https://v.daum.net/v/20230122220018663"/>
+        <updated>2023-01-22T16:25:03.435Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['25억원' 역대급 도자기 등장…"국보와 매우 유사, 왕실용 고려청자"]]></title>
         <id>https://v.daum.net/v/20230122215712639</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230122190201656"/>
         <updated>2023-01-22T12:34:13.048Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고등어는 ‘살파’를 먹고 갈치는 갈치를 먹는다]]></title>
-        <id>https://v.daum.net/v/20230122183030454</id>
-        <link href="https://v.daum.net/v/20230122183030454"/>
-        <updated>2023-01-22T12:34:13.052Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
