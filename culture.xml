@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-01-23T16:28:34.044Z</updated>
+    <updated>2023-01-23T17:20:17.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몸에 좋은 고로쇠 수액에 무슨 일이⋯]]></title>
+        <id>https://v.daum.net/v/20230124020110562</id>
+        <link href="https://v.daum.net/v/20230124020110562"/>
+        <updated>2023-01-23T17:19:21.298Z</updated>
+        <content type="html"><![CDATA[농민신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘날씨, 전국 ‘기상특보’... '냉동실 한파' 서울 체감온도 영하 26도]]></title>
         <id>https://v.daum.net/v/20230124001102290</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230123222108909"/>
         <updated>2023-01-23T13:27:09.315Z</updated>
         <content type="html"><![CDATA[CJB청주방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈 생기자마자 쇼핑? ‘이 음료’ 안마시면 쇼핑 욕구 줄어]]></title>
-        <id>https://v.daum.net/v/20230123220016777</id>
-        <link href="https://v.daum.net/v/20230123220016777"/>
-        <updated>2023-01-23T13:27:09.316Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
