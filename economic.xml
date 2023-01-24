@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-01-24T15:25:25.561Z</updated>
+    <updated>2023-01-24T16:28:16.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시세 떨어진 중고차, 지금 구매한다면]]></title>
+        <id>https://v.daum.net/v/20230125010150920</id>
+        <link href="https://v.daum.net/v/20230125010150920"/>
+        <updated>2023-01-24T16:26:46.543Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“발전설비도 고장 위험”…역대급 한파에 정부 ‘긴급 비상대응’]]></title>
         <id>https://v.daum.net/v/20230125001500770</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230125000030637"/>
         <updated>2023-01-24T15:23:39.526Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령실, 취임 첫해 업무추진비 36.7억 지출]]></title>
-        <id>https://v.daum.net/v/20230124225810371</id>
-        <link href="https://v.daum.net/v/20230124225810371"/>
-        <updated>2023-01-24T14:17:44.103Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
