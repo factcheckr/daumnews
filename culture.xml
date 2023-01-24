@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-01-24T12:39:06.085Z</updated>
+    <updated>2023-01-24T13:26:11.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“고지서 잘못된줄” “지난달보다 2배”…‘난방비 폭탄’ 하소연 빗발]]></title>
+        <id>https://v.daum.net/v/20230124215933022</id>
+        <link href="https://v.daum.net/v/20230124215933022"/>
+        <updated>2023-01-24T13:25:10.154Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대한민국 ‘일출 버킷리스트’…정동진역 7배 규모로 키운다]]></title>
         <id>https://v.daum.net/v/20230124211200752</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230124185713734"/>
         <updated>2023-01-24T10:21:02.936Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금연 상담사에게 받은 아주 특별한 가불]]></title>
-        <id>https://v.daum.net/v/20230124183600558</id>
-        <link href="https://v.daum.net/v/20230124183600558"/>
-        <updated>2023-01-24T10:21:02.938Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
