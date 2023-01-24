@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-01-24T08:26:18.410Z</updated>
+    <updated>2023-01-24T09:21:07.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["기업경영 나침반 된 소셜데이터, 거시경제 지표까지 알 수 있어"]]></title>
+        <id>https://v.daum.net/v/20230124181103264</id>
+        <link href="https://v.daum.net/v/20230124181103264"/>
+        <updated>2023-01-24T09:20:20.578Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[회원수 늘자 ‘공유계정 유료화’ 선언 넷플릭스, 득일까 실일까]]></title>
+        <id>https://v.daum.net/v/20230124150040653</id>
+        <link href="https://v.daum.net/v/20230124150040653"/>
+        <updated>2023-01-24T09:20:20.579Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10년 쓰는 스마트가전, SW 지원은 고작 2년?]]></title>
         <id>https://v.daum.net/v/20230124170018323</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230124155105449"/>
         <updated>2023-01-24T07:18:15.882Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 120년전 석탄회사가 영양과학기업으로 거듭난 비결은...“멈추지 않는 변화”]]></title>
-        <id>https://v.daum.net/v/20230124160013569</id>
-        <link href="https://v.daum.net/v/20230124160013569"/>
-        <updated>2023-01-24T07:18:15.884Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온다, 온다더니 아직도? … 애플페이 '한국 상륙작전' 통할까]]></title>
-        <id>https://v.daum.net/v/20230124160007562</id>
-        <link href="https://v.daum.net/v/20230124160007562"/>
-        <updated>2023-01-24T07:18:15.885Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
