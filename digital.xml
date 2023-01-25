@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-01-25T12:39:58.679Z</updated>
+    <updated>2023-01-25T13:28:56.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이폰 대항마 삼성 갤럭S23, 최고 172만원]]></title>
+        <id>https://v.daum.net/v/20230125111033674</id>
+        <link href="https://v.daum.net/v/20230125111033674"/>
+        <updated>2023-01-25T13:28:10.193Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“1만→3만→6만→8만원, 한달전 이걸 샀어야?” 삼성도 뛰어들었다]]></title>
         <id>https://v.daum.net/v/20230125165124945</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230125201803541"/>
         <updated>2023-01-25T12:39:12.949Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MS365 서비스 기술적 오류로 먹통…"순차 복구 중"(종합)]]></title>
-        <id>https://v.daum.net/v/20230125201100421</id>
-        <link href="https://v.daum.net/v/20230125201100421"/>
-        <updated>2023-01-25T11:16:59.974Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
