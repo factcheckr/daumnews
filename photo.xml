@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-01-25T19:17:28.581Z</updated>
+    <updated>2023-01-25T20:21:57.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러시아 핵리스크에 지구 종말시간 90초로 앞당겨졌다]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/KZjNtLZduV</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/KZjNtLZduV"/>
+        <updated>2023-01-25T20:21:25.416Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[설경에 핀 홍매화]]></title>
         <id>https://gallery.v.daum.net/p/viewer/47169/tNocbwzcfL</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1476/F55w8I9raJ"/>
         <updated>2023-01-25T07:21:20.446Z</updated>
         <content type="html"><![CDATA[미국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘부터 부모급여 지급]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5610796/bklbSfOKga</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5610796/bklbSfOKga"/>
-        <updated>2023-01-25T07:21:20.448Z</updated>
-        <content type="html"><![CDATA[모멘트]]></content>
     </entry>
 </feed>
