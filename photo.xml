@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-01-25T17:18:41.108Z</updated>
+    <updated>2023-01-25T18:24:13.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[설경에 핀 홍매화]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/47169/tNocbwzcfL</id>
+        <link href="https://gallery.v.daum.net/p/viewer/47169/tNocbwzcfL"/>
+        <updated>2023-01-25T18:23:48.139Z</updated>
+        <content type="html"><![CDATA[눈 오는 풍경]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개구리의 환승]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/u9hYnZdY93</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/u9hYnZdY93"/>
+        <updated>2023-01-25T18:23:48.139Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하늘길 열린 제주공항 체류객 수송 총력 [뉴시스Pic]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5018824/zRJYcA0gC2</id>
@@ -83,13 +97,6 @@
         <content type="html"><![CDATA[교통사고]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[설경]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/47169/bFlnRrqkME</id>
-        <link href="https://gallery.v.daum.net/p/viewer/47169/bFlnRrqkME"/>
-        <updated>2023-01-25T09:19:35.252Z</updated>
-        <content type="html"><![CDATA[눈 오는 풍경]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[여야, 1~2월 임시회 합의..."민생 어려운만큼 생산적인 국회될 것" [TF사진관]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5024184/K2BiKLZdXF</id>
         <link href="https://gallery.v.daum.net/p/viewer/5024184/K2BiKLZdXF"/>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5610796/bklbSfOKga"/>
         <updated>2023-01-25T07:21:20.448Z</updated>
         <content type="html"><![CDATA[모멘트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북극 한파에 전력수요 증가]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5572743/X42W9wzcjk</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5572743/X42W9wzcjk"/>
-        <updated>2023-01-25T16:27:56.118Z</updated>
-        <content type="html"><![CDATA[여름 전력수요 급증]]></content>
     </entry>
 </feed>
