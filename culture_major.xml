@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-01-25T16:28:21.715Z</updated>
+    <updated>2023-01-25T17:18:41.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[머리카락 잘 안자라는 사람, ‘베개’가 원인?!]]></title>
+        <id>https://v.daum.net/v/20230125221515276</id>
+        <link href="https://v.daum.net/v/20230125221515276"/>
+        <updated>2023-01-25T17:17:55.957Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[생선 더 건강하게 먹으려면? ‘이 부위’ 제거해야]]></title>
         <id>https://v.daum.net/v/20230125223016396</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230125204305901"/>
         <updated>2023-01-25T12:39:02.993Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여긴 어디? 1950~1980년대 다큐 사진 찍은 이들은 누구?]]></title>
-        <id>https://v.daum.net/v/20230125192005556</id>
-        <link href="https://v.daum.net/v/20230125192005556"/>
-        <updated>2023-01-25T12:39:03.012Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
