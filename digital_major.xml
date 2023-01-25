@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-01-25T03:24:33.349Z</updated>
+    <updated>2023-01-25T04:27:58.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[적게 먹어도 살찌는 이유 찾자...체질 분석 ‘DTC검사’ 인기몰이]]></title>
+        <id>https://v.daum.net/v/20230125112932587</id>
+        <link href="https://v.daum.net/v/20230125112932587"/>
+        <updated>2023-01-25T04:27:22.577Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플, 폴더블 화면 문제 해결?... 균열 방지 폴더블 디스플레이 특허 출원]]></title>
         <id>https://v.daum.net/v/20230125112533394</id>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[과학]과기 출연연 기관장 임기 만료 계속 이어져...선임 '시급']]></title>
+        <title type="html"><![CDATA[과기 출연연 기관장 임기 만료 계속 이어져...선임 '시급']]></title>
         <id>https://v.daum.net/v/20230125110826564</id>
         <link href="https://v.daum.net/v/20230125110826564"/>
         <updated>2023-01-25T02:43:12.798Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230125101531290"/>
         <updated>2023-01-25T02:43:12.807Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이엇게임즈, 해커에 LoL 소스 코드 도난당해…"돈 요구 거절"]]></title>
-        <id>https://v.daum.net/v/20230125102429693</id>
-        <link href="https://v.daum.net/v/20230125102429693"/>
-        <updated>2023-01-25T02:43:12.807Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
