@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-01-26T11:17:55.712Z</updated>
+    <updated>2023-01-26T12:39:26.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[타고난 팔자? 주사위 놀음? ‘인생 스포일러’ 그냥 따를까, 돌파할까[전문가의 세계 - 이종필의 과학자의 발상법]]]></title>
+        <id>https://v.daum.net/v/20230126213426901</id>
+        <link href="https://v.daum.net/v/20230126213426901"/>
+        <updated>2023-01-26T12:38:48.972Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[과·기·부] 우주쓰레기 위협, 현실로]]></title>
         <id>https://v.daum.net/v/20230126200622273</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230126185055015"/>
         <updated>2023-01-26T10:21:33.461Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이폰 수리 안하면 바보?…"보험사기다" vs "돈 내고 이것도 못하나"]]></title>
-        <id>https://v.daum.net/v/20230126182506612</id>
-        <link href="https://v.daum.net/v/20230126182506612"/>
-        <updated>2023-01-26T10:21:33.464Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
