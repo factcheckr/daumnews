@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-01-26T18:25:01.139Z</updated>
+    <updated>2023-01-26T19:17:37.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[北무인기 대응, '첫 단추'부터 꼬였다]]></title>
+        <id>https://v.daum.net/v/20230127040001189</id>
+        <link href="https://v.daum.net/v/20230127040001189"/>
+        <updated>2023-01-26T19:15:38.903Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘고준위 방폐물 특별법’ 국회 공청회서 찬반 충돌]]></title>
         <id>https://v.daum.net/v/20230127030345040</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230127000103201"/>
         <updated>2023-01-26T15:19:22.447Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[재산공개] 고학수 개인정보위원장 60억8천만원 신고]]></title>
-        <id>https://v.daum.net/v/20230127000008161</id>
-        <link href="https://v.daum.net/v/20230127000008161"/>
-        <updated>2023-01-26T15:19:22.453Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
