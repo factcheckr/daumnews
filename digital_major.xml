@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-01-26T17:19:45.961Z</updated>
+    <updated>2023-01-26T18:25:01.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메타·MS 등 ‘감원 칼바람’ 애플만 피했다]]></title>
+        <id>https://v.daum.net/v/20230127030220945</id>
+        <link href="https://v.daum.net/v/20230127030220945"/>
+        <updated>2023-01-26T18:24:24.637Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빅테크 지각변동, 챗GPT 전쟁 시작됐다]]></title>
         <id>https://v.daum.net/v/20230126173911082</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230126172757582"/>
         <updated>2023-01-26T09:21:17.873Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["접속자 달랑 한 명 뿐"…골칫덩이 전락한 '메타버스']]></title>
-        <id>https://v.daum.net/v/20230126172707550</id>
-        <link href="https://v.daum.net/v/20230126172707550"/>
-        <updated>2023-01-26T15:20:47.891Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
