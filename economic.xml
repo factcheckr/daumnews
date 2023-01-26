@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-01-26T13:32:02.142Z</updated>
+    <updated>2023-01-26T14:19:42.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미 작년 4분기 GDP 2.9% 상승…"문제는 올해, 0.4% 그칠 것"]]></title>
+        <id>https://v.daum.net/v/20230126224417727</id>
+        <link href="https://v.daum.net/v/20230126224417727"/>
+        <updated>2023-01-26T14:18:15.506Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성남도개公 청렴도 최하 등급...사정 기관도 '낙제점']]></title>
         <id>https://v.daum.net/v/20230126220430352</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230126210600493"/>
         <updated>2023-01-26T12:38:01.725Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금도 ‘원가 이하’…가스요금 추가 인상 불가피]]></title>
-        <id>https://v.daum.net/v/20230126211614650</id>
-        <link href="https://v.daum.net/v/20230126211614650"/>
-        <updated>2023-01-26T12:38:01.729Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
