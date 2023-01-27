@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-01-27T09:20:39.538Z</updated>
+    <updated>2023-01-27T10:23:44.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[벨기에 소방관들, 근무 환경 개선 요구 시위]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032955/GLaQgJqkCN</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032955/GLaQgJqkCN"/>
+        <updated>2023-01-27T10:23:17.122Z</updated>
+        <content type="html"><![CDATA[벨기에는 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[30일부터 은행 점포 영업시간 정상화]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5610796/zSeTbHEukg</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1476/3exACo9rk3"/>
         <updated>2023-01-27T06:25:05.378Z</updated>
         <content type="html"><![CDATA[미국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한파가 그린 추상화]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/506571/BxR4we7AcT</id>
-        <link href="https://gallery.v.daum.net/p/viewer/506571/BxR4we7AcT"/>
-        <updated>2023-01-27T06:25:05.378Z</updated>
-        <content type="html"><![CDATA[사진톡톡]]></content>
     </entry>
 </feed>
