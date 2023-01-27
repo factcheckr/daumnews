@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-01-27T14:19:36.800Z</updated>
+    <updated>2023-01-27T15:24:22.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[IT 잡학다식] 왜 키보드는 ‘QWERTY’로 시작할까]]></title>
-        <id>https://v.daum.net/v/20230127180112600</id>
-        <link href="https://v.daum.net/v/20230127180112600"/>
-        <updated>2023-01-27T11:17:49.489Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[스파이더맨처럼 벽 기어올랐다…한국 연구진 '놀라운 성과']]></title>
         <id>https://v.daum.net/v/20230127171804570</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230127154412644"/>
         <updated>2023-01-27T14:18:54.414Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['불법' 대신 휴대폰 유통망 지원금 인상…갤S23 보조금 늘어날까]]></title>
+        <id>https://v.daum.net/v/20230127153055198</id>
+        <link href="https://v.daum.net/v/20230127153055198"/>
+        <updated>2023-01-27T15:23:47.770Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
