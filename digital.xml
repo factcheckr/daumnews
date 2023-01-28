@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-01-28T05:19:00.931Z</updated>
+    <updated>2023-01-28T06:25:37.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[행안부 "디지털로 정부 혁신·국민 서비스 질 향상"]]></title>
+        <id>https://v.daum.net/v/20230128144944194</id>
+        <link href="https://v.daum.net/v/20230128144944194"/>
+        <updated>2023-01-28T06:24:58.587Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“2만→8만원, 한달새 4배 벌었다” 누가 미리 ‘찜’했나 했더니]]></title>
         <id>https://v.daum.net/v/20230128135101720</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230128110004320"/>
         <updated>2023-01-28T02:48:53.662Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[게임위드인] 잇단 '스트리머 특혜' 논란, 박탈감 느끼는 게이머]]></title>
-        <id>https://v.daum.net/v/20230128110005322</id>
-        <link href="https://v.daum.net/v/20230128110005322"/>
-        <updated>2023-01-28T02:48:53.669Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-01-28T05:19:00.929Z</updated>
+    <updated>2023-01-28T06:25:38.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국 백악관 "북한, 암호화폐 10억 달러 이상 탈취, 미사일 개발 지원"]]></title>
+        <id>https://v.daum.net/v/20230128114014850</id>
+        <link href="https://v.daum.net/v/20230128114014850"/>
+        <updated>2023-01-28T06:24:34.228Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국전쟁 전쟁고아 돌본 '앙카라학원' 기념사업회 출범]]></title>
         <id>https://v.daum.net/v/20230128120340057</id>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20230128110304398</id>
         <link href="https://v.daum.net/v/20230128110304398"/>
         <updated>2023-01-28T02:48:25.134Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평양에 코로나19 재유행?…北당국 ‘최장 8일 봉쇄령’ 공식 확인]]></title>
-        <id>https://v.daum.net/v/20230128105701260</id>
-        <link href="https://v.daum.net/v/20230128105701260"/>
-        <updated>2023-01-28T02:48:25.137Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
