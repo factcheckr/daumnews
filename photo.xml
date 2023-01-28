@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-01-28T02:49:38.935Z</updated>
+    <updated>2023-01-28T03:21:57.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중앙박물관의 겨울 풍경]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5030433/XnvLH6FLeK</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5030433/XnvLH6FLeK"/>
+        <updated>2023-01-28T03:21:32.450Z</updated>
+        <content type="html"><![CDATA[국립중앙박물관]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“이재명 구속” vs “정치검찰 타도” [쿡 정치포토]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5611584/V6JgLWA0X2</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5611584/V6JgLWA0X2"/>
+        <updated>2023-01-28T03:21:32.457Z</updated>
+        <content type="html"><![CDATA[쿡 정치포토]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제임스웹 망원경, 고리 있는 소행성의 비밀 풀었다 (연구)]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1497/KUMRjZwz0Q</id>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5620471/XYO5aIiHs6"/>
         <updated>2023-01-27T19:18:28.504Z</updated>
         <content type="html"><![CDATA[개st하우스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 추위의 매운맛!]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/212305/7pYqDyj3wf</id>
-        <link href="https://gallery.v.daum.net/p/viewer/212305/7pYqDyj3wf"/>
-        <updated>2023-01-27T19:18:28.505Z</updated>
-        <content type="html"><![CDATA[포토 카페]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인도 국가행사에 한국산 K9 자주포 등장]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/2447/GI6nLmeWkP</id>
-        <link href="https://gallery.v.daum.net/p/viewer/2447/GI6nLmeWkP"/>
-        <updated>2023-01-27T19:18:28.507Z</updated>
-        <content type="html"><![CDATA[인도는 지금]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-01-28T02:49:38.921Z</updated>
+    <updated>2023-01-28T03:21:57.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘사랑은 비번 공유’라던 넷플릭스, 3월부턴 동거가족 외 1명당 3달러 수수료 받는다]]></title>
+        <id>https://v.daum.net/v/20230128050507128</id>
+        <link href="https://v.daum.net/v/20230128050507128"/>
+        <updated>2023-01-28T03:21:24.058Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리포트 AI 대필..막아야 할까, 막을 수는 있을까]]></title>
         <id>https://v.daum.net/v/20230128092002072</id>
@@ -48,7 +55,7 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["속이 시원하지 않아요" 알쏭달쏭 한국어도 척척, 똑똑해진 AI]]></title>
+        <title type="html"><![CDATA["속이 더부룩해" 할머니의 전화…"아이고" AI가 맞장구 쳤다]]></title>
         <id>https://v.daum.net/v/20230128084005707</id>
         <link href="https://v.daum.net/v/20230128084005707"/>
         <updated>2023-01-28T01:37:57.912Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230128080015383"/>
         <updated>2023-01-28T01:37:57.919Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아무Tech]AI가 '글' 쓰는 시대…AI가 쓴 기사, '눈치' 챘나요?]]></title>
-        <id>https://v.daum.net/v/20230128080012378</id>
-        <link href="https://v.daum.net/v/20230128080012378"/>
-        <updated>2023-01-28T01:37:57.921Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
