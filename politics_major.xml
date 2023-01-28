@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-01-28T17:18:03.303Z</updated>
+    <updated>2023-01-28T18:23:21.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230128230248514"/>
         <updated>2023-01-28T16:24:02.351Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12시간 반 조사 마친 이재명 "윤석열 검찰, 수사 아닌 정치해"]]></title>
+        <id>https://v.daum.net/v/20230129023431092</id>
+        <link href="https://v.daum.net/v/20230129023431092"/>
+        <updated>2023-01-28T18:21:40.075Z</updated>
+        <content type="html"><![CDATA[프레시안]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사실상 ‘묵비권’ 행사 이재명, “검찰, 기소 목표로 조작”, 검찰 “2차 출석 조사 필요”]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230128232624661"/>
         <updated>2023-01-28T15:18:54.751Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安, “무조건 사람만 많이 모아” vs 김기현 “자신의 정치적 목표 위한 발판으로 이용” 상호 비판]]></title>
-        <id>https://v.daum.net/v/20230128231806599</id>
-        <link href="https://v.daum.net/v/20230128231806599"/>
-        <updated>2023-01-28T15:18:54.753Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
 </feed>
