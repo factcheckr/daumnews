@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-01-29T18:23:16.602Z</updated>
+    <updated>2023-01-29T19:16:51.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[향기롭고 달콤하고 알록달록한, 고양이마저 유혹하는 다래 [허태임의 초록목록]]]></title>
+        <id>https://v.daum.net/v/20230130040030766</id>
+        <link href="https://v.daum.net/v/20230130040030766"/>
+        <updated>2023-01-29T19:15:51.676Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수의사가 걸으면 기적이라던 유기견, 지금은 뛰어다녀요]]></title>
         <id>https://v.daum.net/v/20230130030217497</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230130000239069"/>
         <updated>2023-01-29T15:19:22.004Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오후의 이진욱]]></title>
-        <id>https://v.daum.net/v/20230130000103047</id>
-        <link href="https://v.daum.net/v/20230130000103047"/>
-        <updated>2023-01-29T15:19:22.007Z</updated>
-        <content type="html"><![CDATA[아레나]]></content>
     </entry>
 </feed>
