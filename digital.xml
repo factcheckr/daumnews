@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-01-29T05:18:54.919Z</updated>
+    <updated>2023-01-29T06:23:57.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인도에서도 한파…복극소용돌이발 아시아 추위 2월엔 물러갈까]]></title>
+        <id>https://v.daum.net/v/20230129150013620</id>
+        <link href="https://v.daum.net/v/20230129150013620"/>
+        <updated>2023-01-29T06:23:14.387Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“공부가 제일 쉬웠어요?” 의사·MBA·로스쿨 시험 모두 합격 ‘3관왕’ 정체]]></title>
         <id>https://v.daum.net/v/20230129125119707</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230129112659452"/>
         <updated>2023-01-29T02:49:50.181Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美, 1년에 한번 코로나 백신 접종...과학자들 "변이 대응 효과 의문"]]></title>
-        <id>https://v.daum.net/v/20230129112613432</id>
-        <link href="https://v.daum.net/v/20230129112613432"/>
-        <updated>2023-01-29T02:49:50.182Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
