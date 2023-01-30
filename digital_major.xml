@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-01-30T10:23:04.733Z</updated>
+    <updated>2023-01-30T11:18:02.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中 해킹에 맥없이 뚫린 12곳 '공통점' 있었다…"홈피 복구 안 될 수도"]]></title>
+        <id>https://v.daum.net/v/20230130183602001</id>
+        <link href="https://v.daum.net/v/20230130183602001"/>
+        <updated>2023-01-30T11:17:27.231Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["디지털정책 지원체계 강화"…KCA 조직개편 단행]]></title>
+        <id>https://v.daum.net/v/20230130182109663</id>
+        <link href="https://v.daum.net/v/20230130182109663"/>
+        <updated>2023-01-30T11:17:27.231Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금융당국 "법적 근거 없는 디지털자산 자율규제, 한계 명확"]]></title>
         <id>https://v.daum.net/v/20230130180350209</id>
@@ -20,7 +34,7 @@
         <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 中해커, 텔레그램에 정보 공유···2차 피해 우려]]></title>
+        <title type="html"><![CDATA[[단독] 中해커끼리 韓 개인정보 퍼날라···2차 피해 우려]]></title>
         <id>https://v.daum.net/v/20230130180104118</id>
         <link href="https://v.daum.net/v/20230130180104118"/>
         <updated>2023-01-30T10:22:35.292Z</updated>
@@ -59,20 +73,6 @@
         <id>https://v.daum.net/v/20230130170104204</id>
         <link href="https://v.daum.net/v/20230130170104204"/>
         <updated>2023-01-30T09:20:59.233Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스페셜리포트]'챗GPT' 열풍, AI 시장 뒤흔든다]]></title>
-        <id>https://v.daum.net/v/20230130170111208</id>
-        <link href="https://v.daum.net/v/20230130170111208"/>
-        <updated>2023-01-30T09:20:59.234Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["한국형 '챗GPT' 도입 선결과제는 데이터 법 개정"]]></title>
-        <id>https://v.daum.net/v/20230130144710593</id>
-        <link href="https://v.daum.net/v/20230130144710593"/>
-        <updated>2023-01-30T09:20:59.236Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
