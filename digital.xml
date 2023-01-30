@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-01-30T12:40:53.122Z</updated>
+    <updated>2023-01-30T13:30:13.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[IT동아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[수소 발전이란?…탄소 없는 발전 목표]]></title>
-        <id>https://v.daum.net/v/20230130191836724</id>
-        <link href="https://v.daum.net/v/20230130191836724"/>
-        <updated>2023-01-30T10:22:24.801Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[‘확률형 아이템’ 정보표시 의무화 코앞]]></title>
         <id>https://v.daum.net/v/20230130190314454</id>
         <link href="https://v.daum.net/v/20230130190314454"/>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20230130184231109"/>
         <updated>2023-01-30T10:22:24.805Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무인계산기 '키오스크'... 연령과 장애 여부 관계 없이 '모두'에게 어려워]]></title>
+        <id>https://v.daum.net/v/20230130183904051</id>
+        <link href="https://v.daum.net/v/20230130183904051"/>
+        <updated>2023-01-30T13:29:24.823Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
