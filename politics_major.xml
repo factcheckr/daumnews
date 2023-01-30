@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-01-30T16:28:18.364Z</updated>
+    <updated>2023-01-30T17:20:11.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“독자 핵개발 필요” 77% “북 비핵화 불가능” 78%]]></title>
+        <id>https://v.daum.net/v/20230131002434127</id>
+        <link href="https://v.daum.net/v/20230131002434127"/>
+        <updated>2023-01-30T17:18:39.783Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“이태원 골목에 기름 뿌려”… 의원들 폰에도 퍼지는 ‘독버섯’]]></title>
         <id>https://v.daum.net/v/20230131000306945</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230130223254442"/>
         <updated>2023-01-30T15:23:38.759Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[속도 빨리진 한일 징용해법 논의…쟁점은 전범기업 기금 참여 여부]]></title>
-        <id>https://v.daum.net/v/20230130221923354</id>
-        <link href="https://v.daum.net/v/20230130221923354"/>
-        <updated>2023-01-30T15:23:38.760Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>

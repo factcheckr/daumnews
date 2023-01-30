@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-01-30T16:28:18.369Z</updated>
+    <updated>2023-01-30T17:20:11.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리금융지주·KT 등 ‘주인 없는 회사’ CEO 선임 투명성 높인다]]></title>
+        <id>https://v.daum.net/v/20230130225433541</id>
+        <link href="https://v.daum.net/v/20230130225433541"/>
+        <updated>2023-01-30T17:18:48.553Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은행 대출 연체율 일제히 상승…한계 내몰리는 자영업자·기업]]></title>
         <id>https://v.daum.net/v/20230131003455187</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230130230745593"/>
         <updated>2023-01-30T14:18:30.150Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족같았던 반려견 버리는 사람 늘어…“보다못해 나섰어요”]]></title>
-        <id>https://v.daum.net/v/20230130230001555</id>
-        <link href="https://v.daum.net/v/20230130230001555"/>
-        <updated>2023-01-30T14:18:30.151Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>

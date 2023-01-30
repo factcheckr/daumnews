@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-01-30T16:28:18.391Z</updated>
+    <updated>2023-01-30T17:20:11.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5035080/24pWANfOwm"/>
         <updated>2023-01-30T12:40:25.571Z</updated>
         <content type="html"><![CDATA[기름값 현황]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월정사 계곡]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/XBVgidzcJg</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/XBVgidzcJg"/>
+        <updated>2023-01-30T17:19:48.238Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 대통령, 금융위원회 업무보고 [뉴시스Pic]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5610796/7AGqaLKwoY"/>
         <updated>2023-01-30T08:26:15.981Z</updated>
         <content type="html"><![CDATA[모멘트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘해방이다!’ 실내마스크 해제 첫날 교실은 ‘웃음꽃’ [포착]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5632022/VonFySg1w2</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5632022/VonFySg1w2"/>
-        <updated>2023-01-30T07:19:18.501Z</updated>
-        <content type="html"><![CDATA[국민일보 포착]]></content>
     </entry>
 </feed>
