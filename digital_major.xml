@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-01-30T13:30:13.532Z</updated>
+    <updated>2023-01-30T14:20:00.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://v.daum.net/v/20230130183602001"/>
         <updated>2023-01-30T11:17:27.231Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["디지털정책 지원체계 강화"…KCA 조직개편 단행]]></title>
-        <id>https://v.daum.net/v/20230130182109663</id>
-        <link href="https://v.daum.net/v/20230130182109663"/>
-        <updated>2023-01-30T11:17:27.231Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[금융당국 "법적 근거 없는 디지털자산 자율규제, 한계 명확"]]></title>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230130165331968"/>
         <updated>2023-01-30T13:29:35.022Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공공기관 지정해제 과기원…해외석학 유치 길 열렸다]]></title>
+        <id>https://v.daum.net/v/20230130165013843</id>
+        <link href="https://v.daum.net/v/20230130165013843"/>
+        <updated>2023-01-30T14:19:28.005Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
