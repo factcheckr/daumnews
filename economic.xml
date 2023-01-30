@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-01-30T15:25:25.413Z</updated>
+    <updated>2023-01-30T16:28:18.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[은행 대출 연체율 일제히 상승…한계 내몰리는 자영업자·기업]]></title>
+        <id>https://v.daum.net/v/20230131003455187</id>
+        <link href="https://v.daum.net/v/20230131003455187"/>
+        <updated>2023-01-30T16:26:50.293Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9시 정각에 은행 찾은 상인 “이제 중간에 가게 안 닫아도 돼”]]></title>
         <id>https://v.daum.net/v/20230131000417986</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230130230001555"/>
         <updated>2023-01-30T14:18:30.151Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융인 100명, 청와대서 4시간 끝장토론…김주현 "금융 영업사원 되겠다"]]></title>
-        <id>https://v.daum.net/v/20230130225431540</id>
-        <link href="https://v.daum.net/v/20230130225431540"/>
-        <updated>2023-01-30T14:18:30.154Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
