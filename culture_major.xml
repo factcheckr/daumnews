@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-01-30T18:29:26.120Z</updated>
+    <updated>2023-01-30T19:18:04.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20230131030258619"/>
         <updated>2023-01-30T18:28:32.091Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여행·호텔업계 "마스크 미착용이 불안감 키울 수도… 당분간 마스크 착용"]]></title>
+        <id>https://v.daum.net/v/20230130235450815</id>
+        <link href="https://v.daum.net/v/20230130235450815"/>
+        <updated>2023-01-30T19:17:10.772Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[방귀 많이 뀌는 사람, ‘이 음식’ 먹어봐요]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230130210001312"/>
         <updated>2023-01-30T13:29:16.340Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔로 '벅벅' 닦은 세계 최대 고인돌…얼마나 훼손됐나 '정밀 검진']]></title>
-        <id>https://v.daum.net/v/20230130203805035</id>
-        <link href="https://v.daum.net/v/20230130203805035"/>
-        <updated>2023-01-30T12:39:58.783Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-01-30T18:29:26.118Z</updated>
+    <updated>2023-01-30T19:18:04.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[치매 같은 섬망… AI 이용 ‘한국형 예측 모델’ 개발 주목]]></title>
+        <id>https://v.daum.net/v/20230131040717934</id>
+        <link href="https://v.daum.net/v/20230131040717934"/>
+        <updated>2023-01-30T19:17:02.118Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[강병령의 한방 이야기] 치매 중장기 치료 중요…백회혈 등 침으로 자극, 탕약·공진단도 복용을]]></title>
         <id>https://v.daum.net/v/20230131030251612</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230130234701793"/>
         <updated>2023-01-30T15:24:24.868Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여행·호텔업계 "마스크 미착용이 불안감 키울 수도… 당분간 마스크 착용"]]></title>
-        <id>https://v.daum.net/v/20230130235450815</id>
-        <link href="https://v.daum.net/v/20230130235450815"/>
-        <updated>2023-01-30T15:24:24.870Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

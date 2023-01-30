@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-01-30T18:29:26.119Z</updated>
+    <updated>2023-01-30T19:18:04.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,20 @@
         <link href="https://v.daum.net/v/20230131030313640"/>
         <updated>2023-01-30T18:28:12.791Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프랑스·호주, 우크라에 155㎜ 포탄 공동지원 발표]]></title>
+        <id>https://v.daum.net/v/20230131023012451</id>
+        <link href="https://v.daum.net/v/20230131023012451"/>
+        <updated>2023-01-30T19:16:53.745Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO 총장 "코로나 경계 늦추지 말자"…백신접종 강화 등 주문]]></title>
+        <id>https://v.daum.net/v/20230131013747405</id>
+        <link href="https://v.daum.net/v/20230131013747405"/>
+        <updated>2023-01-30T19:16:53.747Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["문제는 정부야"…미국인 21% '최대 문제'로 정부 지목]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230131000313951"/>
         <updated>2023-01-30T16:27:15.014Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주러 美대사, 러 외무부 방문했다가 반미 시위대에 야유받아]]></title>
-        <id>https://v.daum.net/v/20230130234527785</id>
-        <link href="https://v.daum.net/v/20230130234527785"/>
-        <updated>2023-01-30T16:27:15.022Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Fed에 맞서지 말라'는 격언 잊은 美증시 운명은 [설리의 글로벌 픽]]]></title>
-        <id>https://v.daum.net/v/20230130233702756</id>
-        <link href="https://v.daum.net/v/20230130233702756"/>
-        <updated>2023-01-30T16:27:15.023Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
