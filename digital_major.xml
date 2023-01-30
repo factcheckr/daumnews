@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-01-30T17:20:11.728Z</updated>
+    <updated>2023-01-30T18:29:26.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘확률형 아이템’ 정보표시 의무화 코앞]]></title>
+        <id>https://v.daum.net/v/20230130190314454</id>
+        <link href="https://v.daum.net/v/20230130190314454"/>
+        <updated>2023-01-30T18:28:48.638Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[클라우드인증등급제 시행 내일 공포할 듯 …예고대로 '하 등급' 우선  시행]]></title>
         <id>https://v.daum.net/v/20230130184231109</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230130175850003"/>
         <updated>2023-01-30T09:20:59.230Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사탕수수'에서 찾은 새로운 항생제 후보물질]]></title>
-        <id>https://v.daum.net/v/20230130165818102</id>
-        <link href="https://v.daum.net/v/20230130165818102"/>
-        <updated>2023-01-30T13:29:35.021Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
