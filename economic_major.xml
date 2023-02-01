@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-02-01T14:19:53.766Z</updated>
+    <updated>2023-02-01T15:22:00.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공공기관 올해 2만2000여 명 뽑는다…4년 연속 감소세]]></title>
+        <id>https://v.daum.net/v/20230202000306462</id>
+        <link href="https://v.daum.net/v/20230202000306462"/>
+        <updated>2023-02-01T15:20:46.221Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위드 코로나 전환 중국, 보상소비 폭발 땐…다시 글로벌 물가 상승 ‘쓰나미’ 우려]]></title>
         <id>https://v.daum.net/v/20230201214913359</id>
@@ -25,6 +32,20 @@
         <link href="https://v.daum.net/v/20230201214456316"/>
         <updated>2023-02-01T13:26:44.932Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하늘길 열렸지만 웃지 못하는 대한항공]]></title>
+        <id>https://v.daum.net/v/20230201211505877</id>
+        <link href="https://v.daum.net/v/20230201211505877"/>
+        <updated>2023-02-01T15:20:46.233Z</updated>
+        <content type="html"><![CDATA[매경이코노미]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장사 대신 경영을···자영업 스케일업]]></title>
+        <id>https://v.daum.net/v/20230201211502875</id>
+        <link href="https://v.daum.net/v/20230201211502875"/>
+        <updated>2023-02-01T15:20:46.234Z</updated>
+        <content type="html"><![CDATA[매경이코노미]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 왜 한국 전망치만 낮췄나? "건설·부동산 악화일로 걷고 있기 때문"]]></title>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20230201204702313"/>
         <updated>2023-02-01T13:26:44.935Z</updated>
         <content type="html"><![CDATA[쿠키뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가스 끊긴 집 2만6천가구, 난방비 복지 사각 늘 듯…감면 혜택은 한정적]]></title>
-        <id>https://v.daum.net/v/20230201204527298</id>
-        <link href="https://v.daum.net/v/20230201204527298"/>
-        <updated>2023-02-01T12:37:54.895Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무인상점 전성시대‥사장님도 좋고 고객도 좋고?]]></title>
-        <id>https://v.daum.net/v/20230201203418174</id>
-        <link href="https://v.daum.net/v/20230201203418174"/>
-        <updated>2023-02-01T12:37:54.895Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무역수지 적자 '계속'…소비여력 하락에 내수도 우려]]></title>
-        <id>https://v.daum.net/v/20230201201504810</id>
-        <link href="https://v.daum.net/v/20230201201504810"/>
-        <updated>2023-02-01T12:37:54.895Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
