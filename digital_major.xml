@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-02-01T10:23:36.279Z</updated>
+    <updated>2023-02-01T11:18:37.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[작품 수준·주제의식 압도적… 2차 투표 만장일치 선정 [창간34-제19회 세계문학상]]]></title>
+        <id>https://v.daum.net/v/20230201061137915</id>
+        <link href="https://v.daum.net/v/20230201061137915"/>
+        <updated>2023-02-01T11:18:01.549Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양자·인공지능 연구 날개 달 초저전력 차세대 트랜지스터 개발]]></title>
         <id>https://v.daum.net/v/20230201175931715</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230201165137624"/>
         <updated>2023-02-01T09:20:45.368Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["비번 공유는 사랑" 외치던 넷플릭스…'계정공유 유료화' 돌아선 이유 [OTT온에어]]]></title>
-        <id>https://v.daum.net/v/20230201164036244</id>
-        <link href="https://v.daum.net/v/20230201164036244"/>
-        <updated>2023-02-01T09:20:45.371Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>

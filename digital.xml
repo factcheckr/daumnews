@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-02-01T10:23:36.281Z</updated>
+    <updated>2023-02-01T11:18:37.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팽동현의 AI人] "챗GPT, 자동차로 치면 엔진… 이제 제품화 단계로 가야"]]></title>
+        <id>https://v.daum.net/v/20230201184519731</id>
+        <link href="https://v.daum.net/v/20230201184519731"/>
+        <updated>2023-02-01T11:17:53.110Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“아이폰보다 낫나요?” 내일 공개, 삼성 ‘최고폰’ 실제 이런 모습]]></title>
         <id>https://v.daum.net/v/20230201175128540</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230201134711184"/>
         <updated>2023-02-01T09:20:37.845Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작품 수준·주제의식 압도적… 2차 투표 만장일치 선정 [창간34-제19회 세계문학상]]]></title>
-        <id>https://v.daum.net/v/20230201061137915</id>
-        <link href="https://v.daum.net/v/20230201061137915"/>
-        <updated>2023-02-01T09:20:37.849Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
