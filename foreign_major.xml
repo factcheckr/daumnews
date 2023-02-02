@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-02-02T16:29:04.169Z</updated>
+    <updated>2023-02-02T17:21:20.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주영대사 "찰스3세 한반도 문제 관심…韓 음식·음악 인기 알아"]]></title>
+        <id>https://v.daum.net/v/20230203011814557</id>
+        <link href="https://v.daum.net/v/20230203011814557"/>
+        <updated>2023-02-02T17:20:04.090Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 인플레 끝 보이는데]]></title>
+        <id>https://v.daum.net/v/20230203003320371</id>
+        <link href="https://v.daum.net/v/20230203003320371"/>
+        <updated>2023-02-02T17:20:04.090Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘부장님, 이 기사 보셨으면’… 퇴근 후 연락, 막은 나라들]]></title>
         <id>https://v.daum.net/v/20230203000308202</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230202232102931"/>
         <updated>2023-02-02T15:22:51.179Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECB, 일반은행이 자금예치하면 2.50% 이자…5번째 인상]]></title>
-        <id>https://v.daum.net/v/20230202225848815</id>
-        <link href="https://v.daum.net/v/20230202225848815"/>
-        <updated>2023-02-02T14:19:55.928Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['저출산 속도 예상보다 빨라'…일본 정치권 해법 고심]]></title>
-        <id>https://v.daum.net/v/20230202224500762</id>
-        <link href="https://v.daum.net/v/20230202224500762"/>
-        <updated>2023-02-02T15:22:51.182Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-02-02T16:29:04.160Z</updated>
+    <updated>2023-02-02T17:21:20.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['安캠프' 소속 김영우 국민통합위 해촉한 尹…안철수 반응은]]></title>
+        <id>https://v.daum.net/v/20230203012813566</id>
+        <link href="https://v.daum.net/v/20230203012813566"/>
+        <updated>2023-02-02T17:19:13.084Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대장동 수사팀, 이재명 '판교 힐튼호텔 특혜 의혹'도 들여다본다]]></title>
         <id>https://v.daum.net/v/20230203001004256</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230203000609240"/>
         <updated>2023-02-02T15:22:08.011Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 용혜인 "尹하면...화물연대 '쥐잡듯' 잡은 것"]]></title>
-        <id>https://v.daum.net/v/20230203000033125</id>
-        <link href="https://v.daum.net/v/20230203000033125"/>
-        <updated>2023-02-02T15:22:08.013Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
