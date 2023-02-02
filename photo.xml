@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-02-02T19:16:35.768Z</updated>
+    <updated>2023-02-02T20:22:10.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김밥 너마저...외식물가 껑충]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/UVK1pf5JuS</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/UVK1pf5JuS"/>
+        <updated>2023-02-02T20:21:47.531Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화석을 꿈꾸며]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/2O0OOHEufR</id>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[전국 화재사고]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[해야 쏟아라]]></title>
+        <title type="html"><![CDATA[해야 솟아라]]></title>
         <id>https://gallery.v.daum.net/p/viewer/379/BKCf6sdYez</id>
         <link href="https://gallery.v.daum.net/p/viewer/379/BKCf6sdYez"/>
         <updated>2023-02-02T17:20:50.404Z</updated>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5611563/9xf2NmeWN0"/>
         <updated>2023-02-02T08:26:45.295Z</updated>
         <content type="html"><![CDATA[사진구성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前 미국 인도·태평양 사령관 만나는 대만 총통]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033115/9v5hytsbgY</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033115/9v5hytsbgY"/>
-        <updated>2023-02-02T07:18:51.389Z</updated>
-        <content type="html"><![CDATA[대만 차이잉원 총통]]></content>
     </entry>
 </feed>
