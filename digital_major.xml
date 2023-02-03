@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-02-03T02:54:10.597Z</updated>
+    <updated>2023-02-03T03:25:47.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2월 17일 출격 갤S23 ‘GOS 재발방지’ 3대 기술력은?]]></title>
+        <id>https://v.daum.net/v/20230203105423684</id>
+        <link href="https://v.daum.net/v/20230203105423684"/>
+        <updated>2023-02-03T03:25:08.590Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콜롬비아 판사 “판결문 작성에 챗GPT 사용했다”]]></title>
         <id>https://v.daum.net/v/20230203104903537</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230203084502439"/>
         <updated>2023-02-03T01:41:20.703Z</updated>
         <content type="html"><![CDATA[비즈니스워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美, 인도와 반도체 편먹기...미중 줄다리기 속 위기의 韓반도체]]></title>
-        <id>https://v.daum.net/v/20230203083840281</id>
-        <link href="https://v.daum.net/v/20230203083840281"/>
-        <updated>2023-02-03T01:41:20.703Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
