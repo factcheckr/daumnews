@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-02-03T13:27:07.651Z</updated>
+    <updated>2023-02-03T14:21:09.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[찬바람 쐬면 온몸이 가렵고 두드러기가 나는데…]]></title>
+        <id>https://v.daum.net/v/20230203222055729</id>
+        <link href="https://v.daum.net/v/20230203222055729"/>
+        <updated>2023-02-03T14:20:11.928Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이번 달이 더 겁나" 난방비 부담 가중]]></title>
         <id>https://v.daum.net/v/20230203211955205</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230203212055218"/>
         <updated>2023-02-03T13:26:08.828Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이평복 대한통증학회장 “잘못된 통증치료법 넘쳐나…더 큰 병 키워”]]></title>
-        <id>https://v.daum.net/v/20230203212525294</id>
-        <link href="https://v.daum.net/v/20230203212525294"/>
-        <updated>2023-02-03T12:36:26.201Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
