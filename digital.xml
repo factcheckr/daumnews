@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-02-03T10:22:38.234Z</updated>
+    <updated>2023-02-03T11:18:45.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[페이코인, 금융당국 벽 못 넘었다… 서비스 '일시 중단'(종합)]]></title>
+        <id>https://v.daum.net/v/20230203200014234</id>
+        <link href="https://v.daum.net/v/20230203200014234"/>
+        <updated>2023-02-03T11:18:07.184Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이통 3사, ‘이태원 참사’ 중계기 지원 소극 대응…허위 보고도]]></title>
         <id>https://v.daum.net/v/20230203191938754</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230203183703276"/>
         <updated>2023-02-03T10:21:54.667Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[궁즉답]月 2만4000원짜리 챗GPT는 뭐가 다를까]]></title>
-        <id>https://v.daum.net/v/20230203183026181</id>
-        <link href="https://v.daum.net/v/20230203183026181"/>
-        <updated>2023-02-03T10:21:54.669Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
