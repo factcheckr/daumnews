@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-02-04T19:16:45.677Z</updated>
+    <updated>2023-02-04T20:21:05.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[푸틴 '우크라 침공 설계자' 다시 불렀다…그가 가장 먼저 한 일 [후후월드]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5620565/7im9sBWQpB</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5620565/7im9sBWQpB"/>
+        <updated>2023-02-04T20:20:39.218Z</updated>
+        <content type="html"><![CDATA[후후월드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이태원 참사 99일…다시 만질 수 없는 그 얼굴]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1629566/2Wwz2yj3Lt</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5620554/Y6xUWDxvj4"/>
         <updated>2023-02-03T22:20:06.296Z</updated>
         <content type="html"><![CDATA[특파원 시선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['남수단을 위해' 교황의 평화 순례]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/2438/2uNC5IiHAW</id>
-        <link href="https://gallery.v.daum.net/p/viewer/2438/2uNC5IiHAW"/>
-        <updated>2023-02-03T22:20:06.312Z</updated>
-        <content type="html"><![CDATA[프란치스코 교황]]></content>
     </entry>
 </feed>
