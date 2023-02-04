@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-02-04T16:26:36.966Z</updated>
+    <updated>2023-02-04T17:22:48.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3년 만의 '꿀잼' 축제... 산천어 70만 마리가 죽었다 [하상윤의 멈칫]]]></title>
+        <id>https://v.daum.net/v/20230204180006324</id>
+        <link href="https://v.daum.net/v/20230204180006324"/>
+        <updated>2023-02-04T17:21:48.077Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3회 이상의 ‘이것’ 인지기능 떨어뜨리는 요인]]></title>
         <id>https://v.daum.net/v/20230204220016169</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230204205353690"/>
         <updated>2023-02-04T13:23:12.263Z</updated>
         <content type="html"><![CDATA[대구MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결핵 치료시 한약은 금기?]]></title>
-        <id>https://v.daum.net/v/20230204203048558</id>
-        <link href="https://v.daum.net/v/20230204203048558"/>
-        <updated>2023-02-04T13:23:12.264Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
