@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-02-05T18:26:00.522Z</updated>
+    <updated>2023-02-05T19:18:11.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밀려드는 관광·문화…주민도 만족할 ‘핫플 섬’ 만들자]]></title>
+        <id>https://v.daum.net/v/20230206030243359</id>
+        <link href="https://v.daum.net/v/20230206030243359"/>
+        <updated>2023-02-05T19:16:59.063Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이수만의 퇴장… K팝, 신비주의 벗고 더 빠르고 투명하게]]></title>
         <id>https://v.daum.net/v/20230206030338413</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230206000137736"/>
         <updated>2023-02-05T15:19:00.929Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퀴퀴한 곰팡이 냄새… '이런 사람'에게 치명적]]></title>
-        <id>https://v.daum.net/v/20230205230017466</id>
-        <link href="https://v.daum.net/v/20230205230017466"/>
-        <updated>2023-02-05T14:17:14.378Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
