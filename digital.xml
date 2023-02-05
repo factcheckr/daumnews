@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-02-05T10:20:47.806Z</updated>
+    <updated>2023-02-05T11:19:57.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[`행복이음` 먹통 이후… `공공SW사업` 손떼는 기업들]]></title>
+        <title type="html"><![CDATA[밥보다 고기 더 먹는 한국인…주식이 바뀌었다]]></title>
+        <id>https://v.daum.net/v/20230205201006363</id>
+        <link href="https://v.daum.net/v/20230205201006363"/>
+        <updated>2023-02-05T11:19:16.647Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“100만원이나 싸다” 삼성 고심 끝 결단…직원들까지 난리난 제품]]></title>
+        <id>https://v.daum.net/v/20230205185100404</id>
+        <link href="https://v.daum.net/v/20230205185100404"/>
+        <updated>2023-02-05T11:19:16.648Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[테크&포커스] `행복이음` 먹통 이후… `공공SW사업` 손떼는 기업들]]></title>
         <id>https://v.daum.net/v/20230205184034237</id>
         <link href="https://v.daum.net/v/20230205184034237"/>
         <updated>2023-02-05T10:20:02.706Z</updated>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230205180453722"/>
         <updated>2023-02-05T09:18:40.104Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“케이크 담을 그릇 없으면, 안 팝니다” 이 사장님 배짱 , 뭐지? [지구, 뭐래?]]]></title>
-        <id>https://v.daum.net/v/20230205175805602</id>
-        <link href="https://v.daum.net/v/20230205175805602"/>
-        <updated>2023-02-05T09:18:40.105Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘백신 맞고 코로나 걸리면 무적?’ 면역력 8개월 이상 유지된다]]></title>
-        <id>https://v.daum.net/v/20230205175652595</id>
-        <link href="https://v.daum.net/v/20230205175652595"/>
-        <updated>2023-02-05T09:18:40.107Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
