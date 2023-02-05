@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-02-05T09:19:17.083Z</updated>
+    <updated>2023-02-05T10:20:47.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['우영우 매직' KT스튜디오지니, 설립 2년만에 흑자 전환]]></title>
+        <title type="html"><![CDATA[`행복이음` 먹통 이후… `공공SW사업` 손떼는 기업들]]></title>
+        <id>https://v.daum.net/v/20230205184034237</id>
+        <link href="https://v.daum.net/v/20230205184034237"/>
+        <updated>2023-02-05T10:20:02.706Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[챗GPT, 잡지에 기사도 썼다…‘중년 근육 유지법’ 콘텐츠 생산]]></title>
+        <id>https://v.daum.net/v/20230205181103819</id>
+        <link href="https://v.daum.net/v/20230205181103819"/>
+        <updated>2023-02-05T10:20:02.708Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] '우영우 매직' KT스튜디오지니, 설립 2년 만에 흑자 전환]]></title>
         <id>https://v.daum.net/v/20230205180601742</id>
         <link href="https://v.daum.net/v/20230205180601742"/>
         <updated>2023-02-05T09:18:40.103Z</updated>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230205175652595"/>
         <updated>2023-02-05T09:18:40.107Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[르포]울진 산양 서식지 가보니···산불 피해지역에 산양이 돌아왔다]]></title>
-        <id>https://v.daum.net/v/20230205172048727</id>
-        <link href="https://v.daum.net/v/20230205172048727"/>
-        <updated>2023-02-05T09:18:40.109Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인공눈물 넣었다 사망·실명…식약처 “국내 허가 제품 아냐”]]></title>
-        <id>https://v.daum.net/v/20230205161507211</id>
-        <link href="https://v.daum.net/v/20230205161507211"/>
-        <updated>2023-02-05T08:24:05.416Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
