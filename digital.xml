@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-02-05T11:19:57.691Z</updated>
+    <updated>2023-02-05T12:34:24.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[밥보다 고기 더 먹는 한국인…주식이 바뀌었다]]></title>
+        <title type="html"><![CDATA[얼룩소가 쏘아올린 '글 값' 논쟁]]></title>
+        <id>https://v.daum.net/v/20230205094819924</id>
+        <link href="https://v.daum.net/v/20230205094819924"/>
+        <updated>2023-02-05T12:33:47.624Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사람마다 다르게 느끼는 추위, 객관적 수치로 보여줄 수 있다면…[알아두면 쓸모 있는 한의과학]]]></title>
+        <id>https://v.daum.net/v/20230205204210592</id>
+        <link href="https://v.daum.net/v/20230205204210592"/>
+        <updated>2023-02-05T12:33:47.625Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지구 밖으로 나간 첫 AI, 달 표면 탐사 ‘내비게이션’으로 활약한다]]></title>
+        <id>https://v.daum.net/v/20230205204141584</id>
+        <link href="https://v.daum.net/v/20230205204141584"/>
+        <updated>2023-02-05T12:33:47.629Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국인의 주식이 고기로 바뀌었다…“밥심으로 산다”는 옛말]]></title>
         <id>https://v.daum.net/v/20230205201006363</id>
         <link href="https://v.daum.net/v/20230205201006363"/>
         <updated>2023-02-05T11:19:16.647Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“100만원이나 싸다” 삼성 고심 끝 결단…직원들까지 난리난 제품]]></title>
-        <id>https://v.daum.net/v/20230205185100404</id>
-        <link href="https://v.daum.net/v/20230205185100404"/>
-        <updated>2023-02-05T11:19:16.648Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[테크&포커스] `행복이음` 먹통 이후… `공공SW사업` 손떼는 기업들]]></title>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230205181103819"/>
         <updated>2023-02-05T10:20:02.708Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] '우영우 매직' KT스튜디오지니, 설립 2년 만에 흑자 전환]]></title>
-        <id>https://v.daum.net/v/20230205180601742</id>
-        <link href="https://v.daum.net/v/20230205180601742"/>
-        <updated>2023-02-05T09:18:40.103Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통신3사, "이태원 참사 통신 장애 없었다"…"현장은 통신 마비"]]></title>
-        <id>https://v.daum.net/v/20230205180453722</id>
-        <link href="https://v.daum.net/v/20230205180453722"/>
-        <updated>2023-02-05T09:18:40.104Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
