@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-02-05T13:23:43.974Z</updated>
+    <updated>2023-02-05T14:18:16.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[성김 “최근에도 北에 메시지”…한미 수석 ‘확정억제’ 강조]]></title>
+        <id>https://v.daum.net/v/20230205205234665</id>
+        <link href="https://v.daum.net/v/20230205205234665"/>
+        <updated>2023-02-05T14:16:29.705Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스를 만나다] 홍준표 “지하철도 버스도 무료는 70세로”]]></title>
         <id>https://v.daum.net/v/20230205213011944</id>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中, 위성으로도 볼 수 있는데...  美 반응 떠보려 풍선 띄웠나]]></title>
+        <title type="html"><![CDATA[中, 위성으로도 볼 수 있는데...  美에 불안감 주려 ‘정찰 풍선’ 띄웠나]]></title>
         <id>https://v.daum.net/v/20230205205917697</id>
         <link href="https://v.daum.net/v/20230205205917697"/>
         <updated>2023-02-05T13:21:50.339Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230205184642339"/>
         <updated>2023-02-05T12:32:53.877Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신평 발 ‘윤석열 신당 창당설’에 이준석 “엄청난 스캔들”]]></title>
-        <id>https://v.daum.net/v/20230205190010556</id>
-        <link href="https://v.daum.net/v/20230205190010556"/>
-        <updated>2023-02-05T12:32:53.877Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>

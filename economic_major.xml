@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-02-05T13:23:43.986Z</updated>
+    <updated>2023-02-05T14:18:16.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -24,6 +24,20 @@
         <id>https://v.daum.net/v/20230205214103013</id>
         <link href="https://v.daum.net/v/20230205214103013"/>
         <updated>2023-02-05T13:22:08.913Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[챗GPT는…딥러닝 기반 대화형 인공지능, 사용자 원하는 ‘창작물’ 생성]]></title>
+        <id>https://v.daum.net/v/20230205211425835</id>
+        <link href="https://v.daum.net/v/20230205211425835"/>
+        <updated>2023-02-05T14:16:47.879Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그림 그리기는 ‘엑사원’ 한국어챗봇 ‘하이퍼클로바’…국내도 AI 서비스 봇물]]></title>
+        <id>https://v.daum.net/v/20230205211410834</id>
+        <link href="https://v.daum.net/v/20230205211410834"/>
+        <updated>2023-02-05T14:16:47.881Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230205204939631"/>
         <updated>2023-02-05T12:33:08.231Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] '우영우 매직' KT스튜디오지니, 설립 2년 만에 흑자 전환]]></title>
-        <id>https://v.daum.net/v/20230205180601742</id>
-        <link href="https://v.daum.net/v/20230205180601742"/>
-        <updated>2023-02-05T12:33:08.235Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울지역 15억원 이상 고가 아파트 매매 거래 늘었다]]></title>
-        <id>https://v.daum.net/v/20230205204658620</id>
-        <link href="https://v.daum.net/v/20230205204658620"/>
-        <updated>2023-02-05T12:33:08.235Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
