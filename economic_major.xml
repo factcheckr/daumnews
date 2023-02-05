@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-02-05T03:25:22.369Z</updated>
+    <updated>2023-02-05T04:24:07.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[토큰 증권 시장 개방...'혁신·투자자 보호' 두 토끼 잡을까]]></title>
+        <id>https://v.daum.net/v/20230205120055051</id>
+        <link href="https://v.daum.net/v/20230205120055051"/>
+        <updated>2023-02-05T04:22:51.322Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[르포] “베테랑만 모였다” 타다대우 운명 가를 ‘더쎈’ 생산공장]]></title>
         <id>https://v.daum.net/v/20230205120024002</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230205110614157"/>
         <updated>2023-02-05T03:24:01.547Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1000조원 천문학적 수주고 달성 초읽기..질주하는 K배터리]]></title>
-        <id>https://v.daum.net/v/20230205112241435</id>
-        <link href="https://v.daum.net/v/20230205112241435"/>
-        <updated>2023-02-05T03:24:01.549Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
