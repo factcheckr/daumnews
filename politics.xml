@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-02-06T18:26:34.256Z</updated>
+    <updated>2023-02-06T19:17:59.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[北 열병식서 고체연료 ICBM 내놓나… 한 달째 잠행 중인 김정은 연설 주목]]></title>
+        <id>https://v.daum.net/v/20230207040517015</id>
+        <link href="https://v.daum.net/v/20230207040517015"/>
+        <updated>2023-02-06T19:15:39.527Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장제원 "대통령실 安 비판, 당무 개입 아냐...나경원 함께 가자"]]></title>
         <id>https://v.daum.net/v/20230207031024916</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230207030209686"/>
         <updated>2023-02-06T18:24:12.399Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘검수완박2′ 논란에… 野 “제도 개선 논의 李대표 지시 아니다”]]></title>
-        <id>https://v.daum.net/v/20230207030528862</id>
-        <link href="https://v.daum.net/v/20230207030528862"/>
-        <updated>2023-02-06T18:24:12.400Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>

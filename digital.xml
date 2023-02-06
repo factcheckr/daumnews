@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-02-06T18:26:34.259Z</updated>
+    <updated>2023-02-06T19:17:59.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2조 클럽 나왔지만 갈 길 멀다…나약한 K-팹리스, 삼성도 '한숨']]></title>
+        <id>https://v.daum.net/v/20230207040902061</id>
+        <link href="https://v.daum.net/v/20230207040902061"/>
+        <updated>2023-02-06T19:17:00.813Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[컴컴하고 추운 우주에서 화합물 만드는 분자 발견...생명체 탄생 실마리 포착]]></title>
         <id>https://v.daum.net/v/20230207010124409</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230207010017385"/>
         <updated>2023-02-06T17:20:34.669Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 연구자 예견 이론 응용해 새로운 양자물질 찾았다]]></title>
-        <id>https://v.daum.net/v/20230207010008374</id>
-        <link href="https://v.daum.net/v/20230207010008374"/>
-        <updated>2023-02-06T17:20:34.671Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

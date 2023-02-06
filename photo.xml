@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-02-06T18:26:34.271Z</updated>
+    <updated>2023-02-06T19:17:59.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신호가 중요해]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/7Ecrxu5Jwp</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/7Ecrxu5Jwp"/>
+        <updated>2023-02-06T19:17:24.776Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국박 ‘이건희 컬렉션’ 2025년부터 美·英 전시]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5030433/5ZXPjoMTks</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/346997/6dRUFHlfAn"/>
         <updated>2023-02-06T07:19:54.261Z</updated>
         <content type="html"><![CDATA[도로 위에 와르르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1.7% 급락 마감한 코스피]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5610796/8sIixfzcc2</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5610796/8sIixfzcc2"/>
-        <updated>2023-02-06T07:19:54.262Z</updated>
-        <content type="html"><![CDATA[모멘트]]></content>
     </entry>
 </feed>

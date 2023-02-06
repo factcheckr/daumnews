@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-02-06T18:26:34.257Z</updated>
+    <updated>2023-02-06T19:17:59.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘검수완박2′ 논란에… 野 “제도 개선 논의 李대표 지시 아니다”]]></title>
+        <id>https://v.daum.net/v/20230207030528862</id>
+        <link href="https://v.daum.net/v/20230207030528862"/>
+        <updated>2023-02-06T19:15:48.933Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스 분석] 尹도 安도 총선 공천권 절실…진흙탕 전대 불렀다]]></title>
         <id>https://v.daum.net/v/20230207030155673</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230207002933224"/>
         <updated>2023-02-06T18:24:20.974Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與 안팎서 '안철수 정체성 비판론' 분출…'선명성 강화' 나설까]]></title>
-        <id>https://v.daum.net/v/20230207003000225</id>
-        <link href="https://v.daum.net/v/20230207003000225"/>
-        <updated>2023-02-06T18:24:20.975Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
