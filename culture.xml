@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-02-06T02:43:45.937Z</updated>
+    <updated>2023-02-06T03:23:11.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[국외소재문화재재단의 세계 속 우리 문화재]고종이 佛대통령에게 선물한 아름다운 장식품]]></title>
+        <id>https://v.daum.net/v/20230206114208892</id>
+        <link href="https://v.daum.net/v/20230206114208892"/>
+        <updated>2023-02-06T03:21:55.879Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계적 건축가 마야 린 ‘물빛 구슬’로 담은 남과 북]]></title>
         <id>https://v.daum.net/v/20230206113728709</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230206112022902"/>
         <updated>2023-02-06T02:42:47.702Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘울지 않는’ 청개구리 또 있다…울음주머니에 달린 가시로 소통]]></title>
-        <id>https://v.daum.net/v/20230206112007897</id>
-        <link href="https://v.daum.net/v/20230206112007897"/>
-        <updated>2023-02-06T02:42:47.703Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
