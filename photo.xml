@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-02-07T21:19:15.155Z</updated>
+    <updated>2023-02-07T22:20:54.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“조심해서 다녀오라”]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1270177/PHY5LCEuAt</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1270177/PHY5LCEuAt"/>
+        <updated>2023-02-07T22:20:26.886Z</updated>
+        <content type="html"><![CDATA[C컷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“쓰레기를 에너지로”… 지자체 소각장 폐열로 난방비 아꼈다 [밀착취재]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5620487/W7Rcdmj3Xe</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1407/bChObFYxca"/>
         <updated>2023-02-07T07:20:12.440Z</updated>
         <content type="html"><![CDATA[일본은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[판문점 지키는 국군 장병들]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1627582/7Zra1vmBcC</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1627582/7Zra1vmBcC"/>
-        <updated>2023-02-07T07:20:12.446Z</updated>
-        <content type="html"><![CDATA[판문점은 지금]]></content>
     </entry>
 </feed>
