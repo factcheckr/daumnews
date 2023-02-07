@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-02-07T12:39:10.476Z</updated>
+    <updated>2023-02-07T13:27:31.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2천만년의 세월 고스란히…국내 최대 나무화석[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/YLODUWI9zK</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/YLODUWI9zK"/>
+        <updated>2023-02-07T13:27:03.466Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지진으로 무너져 불타는 컨테이너들]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1518/ZBpJjhD7WQ</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/321090/Wr84uXS4aA"/>
         <updated>2023-02-07T05:19:35.910Z</updated>
         <content type="html"><![CDATA[대한민국 정부]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태양 세 바퀴 반 돌며 40억km… 우주여행 5주년 맞은 스타맨과 테슬라 스포츠카]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1616/zAGwOjJGJS</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1616/zAGwOjJGJS"/>
-        <updated>2023-02-07T05:19:35.913Z</updated>
-        <content type="html"><![CDATA[스페이스X]]></content>
     </entry>
 </feed>
