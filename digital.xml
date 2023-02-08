@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-02-08T12:38:09.555Z</updated>
+    <updated>2023-02-08T13:28:41.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[“신작과 별 차이 없다”155만→80만원 반값된 삼성폰 대란?]]></title>
+        <title type="html"><![CDATA[“송혜교 복수 차라리 안봐” 넷플릭스 ‘추가 요금’ 횡포에 해지 ‘러시?’]]></title>
+        <id>https://v.daum.net/v/20230208214107818</id>
+        <link href="https://v.daum.net/v/20230208214107818"/>
+        <updated>2023-02-08T13:27:55.860Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['싫은 운동' 좋아지는 뜻밖의 방법 10가지]]></title>
+        <id>https://v.daum.net/v/20230208161007423</id>
+        <link href="https://v.daum.net/v/20230208161007423"/>
+        <updated>2023-02-08T13:27:55.862Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“신작과 별 차이 없네” 155만→80만원 반값된 삼성폰 대란?]]></title>
         <id>https://v.daum.net/v/20230208203104456</id>
         <link href="https://v.daum.net/v/20230208203104456"/>
         <updated>2023-02-08T12:37:30.185Z</updated>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230208185939854"/>
         <updated>2023-02-08T11:18:17.514Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민의힘 "온라인 포털 편향성 문제 대두…공정성 위해 제도 정비 필요"]]></title>
-        <id>https://v.daum.net/v/20230208182332089</id>
-        <link href="https://v.daum.net/v/20230208182332089"/>
-        <updated>2023-02-08T10:24:29.832Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅테크 '챗GPT 혈투']]></title>
-        <id>https://v.daum.net/v/20230208183402388</id>
-        <link href="https://v.daum.net/v/20230208183402388"/>
-        <updated>2023-02-08T10:24:29.832Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
