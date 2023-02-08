@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-02-08T19:18:46.119Z</updated>
+    <updated>2023-02-08T20:23:11.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헌정사 첫 장관 탄핵 가결··· 이상민 직무 정지]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/27bb4Dg1uU</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/27bb4Dg1uU"/>
+        <updated>2023-02-08T20:22:31.040Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성전자 갤럭시 체험 공간, 19개국 24개 도시에 오픈]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029622/1QmDw3GMfF</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5611563/xmbHBSrqch"/>
         <updated>2023-02-08T07:19:41.476Z</updated>
         <content type="html"><![CDATA[사진구성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[튀르키예서 구호장비 내리는 긴급구호대]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1783949/6LzNE4qkoU</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1783949/6LzNE4qkoU"/>
-        <updated>2023-02-08T07:19:41.477Z</updated>
-        <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
     </entry>
 </feed>
