@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-02-08T15:22:20.085Z</updated>
+    <updated>2023-02-08T16:30:35.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파리 등 세계 24개 도시서 ‘갤럭시S23’ 체험 행사]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029622/POSzd5T61F</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029622/POSzd5T61F"/>
+        <updated>2023-02-08T16:30:08.658Z</updated>
+        <content type="html"><![CDATA[프랑스는 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조민 '이태원 참사 고인' 캠핑샷 논란…"확대 해석 지양"]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5644531/0nuWw9UNRl</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1173214/KtLmIRfOgt"/>
         <updated>2023-02-08T07:19:41.481Z</updated>
         <content type="html"><![CDATA[헤럴드포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI와 함께하는 하루]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1127178/GaWHOMVsnX</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1127178/GaWHOMVsnX"/>
-        <updated>2023-02-08T07:19:41.488Z</updated>
-        <content type="html"><![CDATA[기자의 일상]]></content>
     </entry>
 </feed>

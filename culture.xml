@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-02-08T15:22:20.078Z</updated>
+    <updated>2023-02-08T16:30:35.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지방간 있는 젊은 여성에게 위험한 의외의 질환]]></title>
+        <id>https://v.daum.net/v/20230209010016482</id>
+        <link href="https://v.daum.net/v/20230209010016482"/>
+        <updated>2023-02-08T16:29:26.081Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["여진 계속되는데…튀르키예 여행, 괜찮을까요?"]]></title>
+        <id>https://v.daum.net/v/20230209010106485</id>
+        <link href="https://v.daum.net/v/20230209010106485"/>
+        <updated>2023-02-08T16:29:26.081Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부모 세대보다 빨리 늙는 3040… ‘이것’ 섭취를]]></title>
         <id>https://v.daum.net/v/20230208234515783</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230208181102740"/>
         <updated>2023-02-08T14:19:59.266Z</updated>
         <content type="html"><![CDATA[쿠키뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쓸개의 정상 세포가 '담낭암'으로 변하는 과정 밝혀]]></title>
-        <id>https://v.daum.net/v/20230208211611192</id>
-        <link href="https://v.daum.net/v/20230208211611192"/>
-        <updated>2023-02-08T14:19:59.268Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“주사 한방에 500만원” 유방암 환자 2만명 발만 ‘동동’]]></title>
-        <id>https://v.daum.net/v/20230208175110147</id>
-        <link href="https://v.daum.net/v/20230208175110147"/>
-        <updated>2023-02-08T13:27:32.649Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
