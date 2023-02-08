@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-02-08T14:21:10.629Z</updated>
+    <updated>2023-02-08T15:22:20.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[新 AI 혁명①] '챗GPT'에 물었다…"넌 누구니?"]]></title>
+        <id>https://v.daum.net/v/20230209000013950</id>
+        <link href="https://v.daum.net/v/20230209000013950"/>
+        <updated>2023-02-08T15:21:40.475Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(영상) 머스크도 감탄했다… 갤럭시S23으로 찍은 ‘달’ 어떻길래?]]></title>
         <id>https://v.daum.net/v/20230208220551440</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230208210101903"/>
         <updated>2023-02-08T12:37:30.187Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방통위 놓고 여야 공방…한상혁 "많이 불편하고 힘든 것은 사실"]]></title>
-        <id>https://v.daum.net/v/20230208204208616</id>
-        <link href="https://v.daum.net/v/20230208204208616"/>
-        <updated>2023-02-08T12:37:30.189Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-02-08T14:21:10.642Z</updated>
+    <updated>2023-02-08T15:22:20.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빨리 자고 싶을수록, 침대에서 더 뒤척이는 까닭]]></title>
+        <id>https://v.daum.net/v/20230208221515621</id>
+        <link href="https://v.daum.net/v/20230208221515621"/>
+        <updated>2023-02-08T15:21:32.346Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['저 SNS 글은 나를 욕하는 것'... 그 사라지지 않는 의심]]></title>
         <id>https://v.daum.net/v/20230208220301386</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230208203014446"/>
         <updated>2023-02-08T12:37:22.116Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아빠가 '엄마 죽었어' 오열" 19세 여고생은 지옥을 봤다]]></title>
-        <id>https://v.daum.net/v/20230208181136751</id>
-        <link href="https://v.daum.net/v/20230208181136751"/>
-        <updated>2023-02-08T12:37:22.128Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
