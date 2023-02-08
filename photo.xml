@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-02-08T21:19:42.772Z</updated>
+    <updated>2023-02-08T22:22:35.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[젤렌스키 바라보는 마크롱]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/2904/qgUAFUZdA1</id>
+        <link href="https://gallery.v.daum.net/p/viewer/2904/qgUAFUZdA1"/>
+        <updated>2023-02-08T22:22:10.720Z</updated>
+        <content type="html"><![CDATA[프랑스 마크롱 대통령]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헌정사 첫 장관 탄핵 가결··· 이상민 직무 정지]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5032452/27bb4Dg1uU</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/385/UaPl3rNFk4"/>
         <updated>2023-02-08T07:19:41.475Z</updated>
         <content type="html"><![CDATA[미세먼지의 습격]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지진 피해자 위한 구호물품 준비 外]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5611563/xmbHBSrqch</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5611563/xmbHBSrqch"/>
-        <updated>2023-02-08T07:19:41.476Z</updated>
-        <content type="html"><![CDATA[사진구성]]></content>
     </entry>
 </feed>
