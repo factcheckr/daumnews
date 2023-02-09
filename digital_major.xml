@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-02-09T15:23:02.310Z</updated>
+    <updated>2023-02-09T16:29:34.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피폭방사선량 초과한 항공승무원, 항공기 안타도 된다]]></title>
+        <id>https://v.daum.net/v/20230209214309099</id>
+        <link href="https://v.daum.net/v/20230209214309099"/>
+        <updated>2023-02-09T16:29:03.138Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['제2 타다 사태' 재현 위기… 소비자 속만 터진다 [카카오도 무료 택시호출 접나]]]></title>
         <id>https://v.daum.net/v/20230209181156464</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230209174120522"/>
         <updated>2023-02-09T09:21:35.744Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[챗GPT로 촉발된 인공지능 경쟁··· 네이버·카카오의 전략과 행보는?]]></title>
-        <id>https://v.daum.net/v/20230209173920472</id>
-        <link href="https://v.daum.net/v/20230209173920472"/>
-        <updated>2023-02-09T14:21:33.917Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
