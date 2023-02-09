@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-02-09T07:25:36.781Z</updated>
+    <updated>2023-02-09T08:26:45.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[탈석탄 시대는 다가오는데···아직 관련 법도 마련 못한 한국]]></title>
+        <id>https://v.daum.net/v/20230209170256243</id>
+        <link href="https://v.daum.net/v/20230209170256243"/>
+        <updated>2023-02-09T08:25:59.000Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['디자인 베끼기 논란' 비상교육 vs 슬링…표절 공방 격화]]></title>
+        <id>https://v.daum.net/v/20230209164702625</id>
+        <link href="https://v.daum.net/v/20230209164702625"/>
+        <updated>2023-02-09T08:25:59.001Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KT, CEO 다시 뽑는다…'연임' 2번 취소된 구현모, 3번째 도전]]></title>
         <id>https://v.daum.net/v/20230209161237106</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230209155130139"/>
         <updated>2023-02-09T07:24:50.263Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LGU+ "개인정보 유출 책임 통감…고객 유심 교체 중"]]></title>
-        <id>https://v.daum.net/v/20230209154829957</id>
-        <link href="https://v.daum.net/v/20230209154829957"/>
-        <updated>2023-02-09T07:24:50.263Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유의 연장' 입장문 낸 페이코인 "닥사가 신뢰할만한 자료 제출"]]></title>
-        <id>https://v.daum.net/v/20230209153642399</id>
-        <link href="https://v.daum.net/v/20230209153642399"/>
-        <updated>2023-02-09T07:24:50.264Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
