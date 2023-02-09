@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-02-09T14:22:11.542Z</updated>
+    <updated>2023-02-09T15:23:02.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LGU+ "해킹 피해자 번호 변경, 인터넷 접속 장애 피해 보상 검토"]]></title>
+        <id>https://v.daum.net/v/20230209182524801</id>
+        <link href="https://v.daum.net/v/20230209182524801"/>
+        <updated>2023-02-09T15:22:18.894Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[숨가쁜 ‘AI 전쟁’…구글, 섣부른 공개로 오답 망신살]]></title>
+        <id>https://v.daum.net/v/20230210000341455</id>
+        <link href="https://v.daum.net/v/20230210000341455"/>
+        <updated>2023-02-09T15:22:18.894Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘각계각층 한마음’ 윤 대통령부터 경기도청·기업·연예인까지 튀르키예 성금]]></title>
         <id>https://v.daum.net/v/20230209172535990</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230209214309099"/>
         <updated>2023-02-09T13:34:58.578Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['제2 타다 사태' 재현 위기… 소비자 속만 터진다 [카카오도 무료 택시호출 접나]]]></title>
-        <id>https://v.daum.net/v/20230209181156464</id>
-        <link href="https://v.daum.net/v/20230209181156464"/>
-        <updated>2023-02-09T12:40:03.235Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기대감 키우는 애플페이…‘6주 무이자 할부’ 기능 추가되나]]></title>
-        <id>https://v.daum.net/v/20230209200300550</id>
-        <link href="https://v.daum.net/v/20230209200300550"/>
-        <updated>2023-02-09T12:40:03.236Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
