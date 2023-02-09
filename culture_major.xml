@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-02-09T03:25:14.564Z</updated>
+    <updated>2023-02-09T04:25:15.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“내가 번역상 받은게 AI문제와 연결돼 화제된 것 놀라워”]]></title>
+        <id>https://v.daum.net/v/20230209114817155</id>
+        <link href="https://v.daum.net/v/20230209114817155"/>
+        <updated>2023-02-09T04:24:22.742Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[간호조무사가 모발이식?...보건 당국은 "나 몰라라"]]></title>
         <id>https://v.daum.net/v/20230209111733692</id>
@@ -17,27 +24,6 @@
         <id>https://v.daum.net/v/20230209100007865</id>
         <link href="https://v.daum.net/v/20230209100007865"/>
         <updated>2023-02-09T03:24:21.338Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반려견과 같이 잔다면? 좋은 점 vs 나쁜 점]]></title>
-        <id>https://v.daum.net/v/20230209085811533</id>
-        <link href="https://v.daum.net/v/20230209085811533"/>
-        <updated>2023-02-09T03:24:21.345Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가벼운 음주, ‘금주’ 보다 치매 위험 낮다]]></title>
-        <id>https://v.daum.net/v/20230209113520594</id>
-        <link href="https://v.daum.net/v/20230209113520594"/>
-        <updated>2023-02-09T03:24:21.345Z</updated>
-        <content type="html"><![CDATA[농민신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이어트부터 당뇨 예방까지... 주목받는 슈퍼푸드는?]]></title>
-        <id>https://v.daum.net/v/20230209100041940</id>
-        <link href="https://v.daum.net/v/20230209100041940"/>
-        <updated>2023-02-09T03:24:21.345Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
     <entry>
@@ -55,24 +41,38 @@
         <content type="html"><![CDATA[머니S]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[딸기코는 술 마셔서 앓는 피부질환? 자외선 노출·유전 때문에 생기기도]]></title>
-        <id>https://v.daum.net/v/20230209030359097</id>
-        <link href="https://v.daum.net/v/20230209030359097"/>
-        <updated>2023-02-09T02:53:49.921Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루 20분만 운동해도 무릎 관절염 통증 줄어]]></title>
-        <id>https://v.daum.net/v/20230209030317053</id>
-        <link href="https://v.daum.net/v/20230209030317053"/>
-        <updated>2023-02-09T02:53:49.922Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[스프] 챗GPT에게 물었다 "기술은 빠르게 발전하고 있나?"]]></title>
         <id>https://v.daum.net/v/20230209112717127</id>
         <link href="https://v.daum.net/v/20230209112717127"/>
         <updated>2023-02-09T02:53:49.923Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘지진파 소통’ 대왕고래, 지진엔 개의치 않고 음향탐지기엔 민감]]></title>
+        <id>https://v.daum.net/v/20230209112508012</id>
+        <link href="https://v.daum.net/v/20230209112508012"/>
+        <updated>2023-02-09T04:24:22.745Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고기 알레르기 우리 댕댕이는 곤충 단백질 먹어요]]></title>
+        <id>https://v.daum.net/v/20230209112030827</id>
+        <link href="https://v.daum.net/v/20230209112030827"/>
+        <updated>2023-02-09T04:24:22.745Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["중대뇌동맥 뇌경색, 막힌 혈관 위치따라 발생기전 달라"]]></title>
+        <id>https://v.daum.net/v/20230209105906650</id>
+        <link href="https://v.daum.net/v/20230209105906650"/>
+        <updated>2023-02-09T04:24:22.746Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주역세상](54) 본분, 선 넘기]]></title>
+        <id>https://v.daum.net/v/20230209105619509</id>
+        <link href="https://v.daum.net/v/20230209105619509"/>
+        <updated>2023-02-09T04:24:22.747Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
