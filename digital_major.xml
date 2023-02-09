@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-02-09T11:18:59.904Z</updated>
+    <updated>2023-02-09T12:40:48.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20230209183607050"/>
         <updated>2023-02-09T10:23:49.897Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼마나 급했으면… 구글 `바드`, AI검색대전 오답에 쓴맛]]></title>
+        <id>https://v.daum.net/v/20230209182517796</id>
+        <link href="https://v.daum.net/v/20230209182517796"/>
+        <updated>2023-02-09T12:40:12.861Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[통신 3사, 글로벌 ESG 평가 지표서 우수 평가(종합)]]></title>
+        <id>https://v.daum.net/v/20230209180200163</id>
+        <link href="https://v.daum.net/v/20230209180200163"/>
+        <updated>2023-02-09T12:40:12.861Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[생성 AI시대, 우리는]〈3〉글로벌 빅테크 AI 대전 막올라]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230209173914465"/>
         <updated>2023-02-09T09:21:35.744Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지진구조 앱·포털 등장… SOS 하루만에 개발자 1만5000명 모였다]]></title>
-        <id>https://v.daum.net/v/20230209173241239</id>
-        <link href="https://v.daum.net/v/20230209173241239"/>
-        <updated>2023-02-09T09:21:35.745Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연임 도전 94일째 KT 구현모, 경선만 세 번째…투명성 확보 관건]]></title>
-        <id>https://v.daum.net/v/20230209172702028</id>
-        <link href="https://v.daum.net/v/20230209172702028"/>
-        <updated>2023-02-09T09:21:35.746Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
