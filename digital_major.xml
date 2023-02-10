@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-02-10T17:21:06.289Z</updated>
+    <updated>2023-02-10T18:27:17.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA['어려운 시기' 보낸 카카오, '국민앱' 카카오톡에 집중... AI도 싣는다]]></title>
-        <id>https://v.daum.net/v/20230210200101460</id>
-        <link href="https://v.daum.net/v/20230210200101460"/>
-        <updated>2023-02-10T17:20:26.294Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[“나쁜 줄만 알았는데” ‘믹스 커피’ 아무도 몰랐던 사실 [지구, 뭐래?]]]></title>
         <id>https://v.daum.net/v/20230210185059326</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230210161046027"/>
         <updated>2023-02-10T08:26:53.752Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해왕성 밖 천체 콰오아서 존재할 수 없는 '괴짜 고리' 발견]]></title>
+        <id>https://v.daum.net/v/20230210154013107</id>
+        <link href="https://v.daum.net/v/20230210154013107"/>
+        <updated>2023-02-10T18:26:27.804Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

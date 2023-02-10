@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-02-10T17:21:06.306Z</updated>
+    <updated>2023-02-10T18:27:17.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스승 이어 제자들도 ‘모차르트 콩쿠르’ 우승]]></title>
+        <id>https://v.daum.net/v/20230211030419701</id>
+        <link href="https://v.daum.net/v/20230211030419701"/>
+        <updated>2023-02-10T18:25:50.160Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[튀르키예 비극 남의 일?⋯지진, 미리 알고 미리 대비하자]]></title>
         <id>https://v.daum.net/v/20230211020106424</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230210175606288"/>
         <updated>2023-02-10T16:28:14.948Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숙제·시험에 챗GPT 활용 늘어, 대학들 대응책 마련 부심]]></title>
-        <id>https://v.daum.net/v/20230211002225030</id>
-        <link href="https://v.daum.net/v/20230211002225030"/>
-        <updated>2023-02-10T16:28:14.949Z</updated>
-        <content type="html"><![CDATA[중앙SUNDAY]]></content>
     </entry>
 </feed>
