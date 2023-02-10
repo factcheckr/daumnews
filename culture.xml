@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-02-10T10:24:04.434Z</updated>
+    <updated>2023-02-10T11:19:51.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[당뇨 환자에게 운동이 필수인 이유]]></title>
+        <id>https://v.daum.net/v/20230210200014444</id>
+        <link href="https://v.daum.net/v/20230210200014444"/>
+        <updated>2023-02-10T11:18:31.945Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<뉴스브릿지> 영화 영웅 '뒷심' 300만…콘텐츠 '영웅' 장기 흥행 이유는?]]></title>
+        <id>https://v.daum.net/v/20230210194232129</id>
+        <link href="https://v.daum.net/v/20230210194232129"/>
+        <updated>2023-02-10T11:18:31.947Z</updated>
+        <content type="html"><![CDATA[EBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어느새 계절의 변화 느끼며 무거운 마음 덜어주는 ‘산책’]]></title>
         <id>https://v.daum.net/v/20230210190506552</id>
         <link href="https://v.daum.net/v/20230210190506552"/>
         <updated>2023-02-10T10:23:01.280Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“일단 배 불러야 덜 먹어”…비만예방 식품 12]]></title>
-        <id>https://v.daum.net/v/20230210071009072</id>
-        <link href="https://v.daum.net/v/20230210071009072"/>
-        <updated>2023-02-10T10:23:01.281Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나 백신, 독감처럼 정기접종?...확진자는 감소세]]></title>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[하이닥]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[병역비리 스캔들 중심에 있던 '뇌전증'…무슨 병이길래 [김정은 기자의 생생헬스]]]></title>
+        <title type="html"><![CDATA[하루 평균 400명…병역비리에 등장한 '뇌전증'의 진실 [김정은 기자의 생생헬스]]]></title>
         <id>https://v.daum.net/v/20230210174108876</id>
         <link href="https://v.daum.net/v/20230210174108876"/>
         <updated>2023-02-10T10:23:01.283Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230210174432960"/>
         <updated>2023-02-10T10:23:01.284Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이브 '동맹 아닌 인수' 강조 …"이수만 경영참여 절대 없다"]]></title>
-        <id>https://v.daum.net/v/20230210173610692</id>
-        <link href="https://v.daum.net/v/20230210173610692"/>
-        <updated>2023-02-10T10:23:01.284Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
