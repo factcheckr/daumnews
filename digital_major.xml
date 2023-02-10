@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-02-10T14:21:31.447Z</updated>
+    <updated>2023-02-10T15:23:04.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["양자컴퓨터, 10년 뒤 애플 주가 정확히 예측해 낼 것"]]></title>
+        <id>https://v.daum.net/v/20230210182810987</id>
+        <link href="https://v.daum.net/v/20230210182810987"/>
+        <updated>2023-02-10T15:22:24.799Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[IT 잡학다식] 웹 주소에 사용되는 ‘WWW’, 무슨 의미일까]]></title>
         <id>https://v.daum.net/v/20230210180102453</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230210153832041"/>
         <updated>2023-02-10T12:38:01.145Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헤븐 번즈 레드 찍먹 리뷰 "스위치 버전으로 나왔더라면…"]]></title>
-        <id>https://v.daum.net/v/20230210153400894</id>
-        <link href="https://v.daum.net/v/20230210153400894"/>
-        <updated>2023-02-10T14:20:44.647Z</updated>
-        <content type="html"><![CDATA[게임톡]]></content>
     </entry>
 </feed>
