@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-02-10T16:29:24.107Z</updated>
+    <updated>2023-02-10T17:21:06.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://v.daum.net/v/20230210220727090"/>
         <updated>2023-02-10T15:21:05.698Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이제는 전당대회 본선"..호남 정치인 약진]]></title>
-        <id>https://v.daum.net/v/20230210211703509</id>
-        <link href="https://v.daum.net/v/20230210211703509"/>
-        <updated>2023-02-10T14:19:09.512Z</updated>
-        <content type="html"><![CDATA[kbc광주방송]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['11시간 조사' 이재명 "검찰, 왜 다시 불렀나…사적 보복"]]></title>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230211000001854"/>
         <updated>2023-02-10T16:27:17.802Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[與 전당대회 본선…이준석계 전원 생존, 친윤계 상당수 탈락]]></title>
+        <id>https://v.daum.net/v/20230210235712846</id>
+        <link href="https://v.daum.net/v/20230210235712846"/>
+        <updated>2023-02-10T17:19:11.148Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
