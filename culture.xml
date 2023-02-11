@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-02-11T14:19:21.063Z</updated>
+    <updated>2023-02-11T15:20:59.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인플루언서 프리즘] '펫팸족' 시대의 그늘…유기동물 관련 유튜브 '눈길']]></title>
+        <id>https://v.daum.net/v/20230212000034941</id>
+        <link href="https://v.daum.net/v/20230212000034941"/>
+        <updated>2023-02-11T15:19:56.801Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나 자야 해… 약국 수면제 vs. 병원 수면제]]></title>
         <id>https://v.daum.net/v/20230211230015733</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230211203336869"/>
         <updated>2023-02-11T12:34:56.539Z</updated>
         <content type="html"><![CDATA[대구MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공복 커피, 아침 담배… 쾌변 본다고 알려진 습관들의 진실]]></title>
-        <id>https://v.daum.net/v/20230211200019626</id>
-        <link href="https://v.daum.net/v/20230211200019626"/>
-        <updated>2023-02-11T11:16:17.795Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
