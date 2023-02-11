@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-02-11T22:20:55.017Z</updated>
+    <updated>2023-02-11T23:21:19.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[캐나다, 영공 침범한 미확인 물체 격추]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5033116/8pUPpWI9pe</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5033116/8pUPpWI9pe"/>
+        <updated>2023-02-11T23:20:50.445Z</updated>
+        <content type="html"><![CDATA[캐나다 트뤼도 총리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 '맏형' 정치의 변화…대비가 필요하다]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5620554/1la4CHlfav</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/31583/5aXfQ9UNcT"/>
         <updated>2023-02-11T01:28:01.197Z</updated>
         <content type="html"><![CDATA[인천공항 풍경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평년보다 기온 높지만 일교차 커...최저 -6·최고 13도]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1783949/fdJRlwatLh</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1783949/fdJRlwatLh"/>
-        <updated>2023-02-11T01:28:01.209Z</updated>
-        <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
     </entry>
 </feed>
