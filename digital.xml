@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-02-11T07:19:00.762Z</updated>
+    <updated>2023-02-11T08:25:32.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고물가에 스러지는 착한가격업소…“착한가격 포기할래요”]]></title>
+        <id>https://v.daum.net/v/20230211170110842</id>
+        <link href="https://v.daum.net/v/20230211170110842"/>
+        <updated>2023-02-11T08:24:46.508Z</updated>
+        <content type="html"><![CDATA[경기일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[딥페이크보다 무서운 딥보이스…국내 대책 논의 첫발도 못떼]]></title>
         <id>https://v.daum.net/v/20230211153003083</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230211143507599"/>
         <updated>2023-02-11T06:24:59.283Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 네이버, 7년치 스포츠 기사 댓글 일괄 삭제한다]]></title>
-        <id>https://v.daum.net/v/20230211112106309</id>
-        <link href="https://v.daum.net/v/20230211112106309"/>
-        <updated>2023-02-11T02:44:48.516Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
