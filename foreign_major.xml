@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-02-11T17:21:18.484Z</updated>
+    <updated>2023-02-11T18:24:45.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[튀르키예 참사의 기록]“세씨스!(조용!)”와 함께 시작되는 ‘침묵의 구조’…기적을 찾는 대한민국 구호대]]></title>
+        <id>https://v.daum.net/v/20230212003102060</id>
+        <link href="https://v.daum.net/v/20230212003102060"/>
+        <updated>2023-02-11T18:23:33.682Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아르헨티나, 시민권 노린 '출산 관광' 러시아인 임산부 단속]]></title>
         <id>https://v.daum.net/v/20230212002515051</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230211224200654"/>
         <updated>2023-02-11T15:19:46.943Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오스트리아군 "안보 위험 때문에 튀르키예 구조작전 중단"]]></title>
-        <id>https://v.daum.net/v/20230211221103458</id>
-        <link href="https://v.daum.net/v/20230211221103458"/>
-        <updated>2023-02-11T15:19:46.944Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
