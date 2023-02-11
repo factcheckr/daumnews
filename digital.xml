@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-02-11T05:19:19.174Z</updated>
+    <updated>2023-02-11T06:25:52.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['더 빠른 대답을 원하시나요?'… 챗GPT플러스 한국 상륙]]></title>
+        <id>https://v.daum.net/v/20230211145733782</id>
+        <link href="https://v.daum.net/v/20230211145733782"/>
+        <updated>2023-02-11T06:24:59.282Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빌 게이츠 "챗GPT, 인터넷에 버금갈 발명…세상 바꿀 것"]]></title>
+        <id>https://v.daum.net/v/20230211143507599</id>
+        <link href="https://v.daum.net/v/20230211143507599"/>
+        <updated>2023-02-11T06:24:59.283Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 네이버, 7년치 스포츠 기사 댓글 일괄 삭제한다]]></title>
         <id>https://v.daum.net/v/20230211112106309</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230211100111495"/>
         <updated>2023-02-11T01:27:46.098Z</updated>
         <content type="html"><![CDATA[주간동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통신비 '호갱'탈출···요금 74% 줄인 썰 풉니다 [코주부]]]></title>
-        <id>https://v.daum.net/v/20230211094448263</id>
-        <link href="https://v.daum.net/v/20230211094448263"/>
-        <updated>2023-02-11T01:27:46.102Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[애니멀리포트] ‘우리는 네 발로 뛰는 구조대원입니다’...튀르키예 지진현장에서 활약하는 ‘숨은 히어로’]]></title>
-        <id>https://v.daum.net/v/20230211093749199</id>
-        <link href="https://v.daum.net/v/20230211093749199"/>
-        <updated>2023-02-11T04:25:19.414Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
