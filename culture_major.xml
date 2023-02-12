@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-02-12T08:25:52.155Z</updated>
+    <updated>2023-02-12T09:20:33.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뇌로 가는 ‘이것’ 좁아지면…치명적인 뇌졸중 위험]]></title>
+        <id>https://v.daum.net/v/20230212164005399</id>
+        <link href="https://v.daum.net/v/20230212164005399"/>
+        <updated>2023-02-12T09:19:40.044Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[멀쩡한 새 옷, 1초에 2.6톤씩 버려지는 이유[지구용]]]></title>
+        <id>https://v.daum.net/v/20230212163715358</id>
+        <link href="https://v.daum.net/v/20230212163715358"/>
+        <updated>2023-02-12T09:19:40.046Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남북 흐르는 임진강처럼 경계없는 자연]]></title>
         <id>https://v.daum.net/v/20230212163603330</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230212160309876"/>
         <updated>2023-02-12T08:24:41.935Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['눈의 숲'에서 만난 가장 겨울다운 겨울]]></title>
-        <id>https://v.daum.net/v/20230212160300866</id>
-        <link href="https://v.daum.net/v/20230212160300866"/>
-        <updated>2023-02-12T08:24:41.936Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["독점 노린 인수"? SM 품으려는 하이브에 대한 기대와 우려]]></title>
-        <id>https://v.daum.net/v/20230212155453723</id>
-        <link href="https://v.daum.net/v/20230212155453723"/>
-        <updated>2023-02-12T08:24:41.936Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
