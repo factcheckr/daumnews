@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-02-13T19:20:52.259Z</updated>
+    <updated>2023-02-13T20:24:13.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가정 내 산소치료 건보 혜택 받는다[알아두면 쓸데 있는 건강 정보]]]></title>
+        <id>https://v.daum.net/v/20230214050310715</id>
+        <link href="https://v.daum.net/v/20230214050310715"/>
+        <updated>2023-02-13T20:23:06.454Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘소리 없는 뼈도둑’ 국내 골다공증 환자, 4년 만에 24% 증가]]></title>
         <id>https://v.daum.net/v/20230214030300956</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230213205813746"/>
         <updated>2023-02-13T13:29:12.742Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다누리가 보내온 '달의 바다'…착륙 후보지도 '찰칵']]></title>
-        <id>https://v.daum.net/v/20230213204803595</id>
-        <link href="https://v.daum.net/v/20230213204803595"/>
-        <updated>2023-02-13T13:29:12.749Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
