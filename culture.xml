@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-02-13T13:29:57.397Z</updated>
+    <updated>2023-02-13T14:21:08.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[짜장면 0.5인분 시대.. 중년에 ‘소식’ 중요한 이유?]]></title>
+        <id>https://v.daum.net/v/20230213140045446</id>
+        <link href="https://v.daum.net/v/20230213140045446"/>
+        <updated>2023-02-13T14:19:56.406Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['영츠하이머'라 쓰고 '디지털 치매'라 읽는 그 증상…]]></title>
         <id>https://v.daum.net/v/20230213220028534</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230213213002190"/>
         <updated>2023-02-13T13:29:02.074Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[참기름 담아둔 병이 기와집 수십채 값이었다니]]></title>
-        <id>https://v.daum.net/v/20230213154811535</id>
-        <link href="https://v.daum.net/v/20230213154811535"/>
-        <updated>2023-02-13T12:38:57.741Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

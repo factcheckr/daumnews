@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-02-13T13:29:57.364Z</updated>
+    <updated>2023-02-13T14:21:08.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230213215629484"/>
         <updated>2023-02-13T13:28:33.133Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생보협회 “초고령화 대비 위해 사적연금 활성화 필요”]]></title>
+        <id>https://v.daum.net/v/20230213210509866</id>
+        <link href="https://v.daum.net/v/20230213210509866"/>
+        <updated>2023-02-13T14:19:23.253Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[충북 택시요금 또 오르나...업계 '기본요금 인상' 요구]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230213202245248"/>
         <updated>2023-02-13T12:38:30.727Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘한국 달 궤도선’ 다누리가 처음 찍은 달의 바다]]></title>
-        <id>https://v.daum.net/v/20230213202153234</id>
-        <link href="https://v.daum.net/v/20230213202153234"/>
-        <updated>2023-02-13T12:38:30.727Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
     </entry>
 </feed>
