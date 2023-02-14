@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-02-14T12:42:14.363Z</updated>
+    <updated>2023-02-14T13:33:47.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성전자, ‘갤럭시 S23’ 체험 스튜디오 운영[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/QUsMK5T6u2</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/QUsMK5T6u2"/>
+        <updated>2023-02-14T13:33:18.240Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기차에서 생활하는 튀르키예 지진 피해 주민들]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5735752/WxioQ71iAh</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1518/G3PYPd8CSS"/>
         <updated>2023-02-14T01:43:35.172Z</updated>
         <content type="html"><![CDATA[전국 화재사고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한미일 외교차관 "북핵 맞서 삼각공조 강화…북, 핵 포기해야"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5035100/VrMQ8RfOMq</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5035100/VrMQ8RfOMq"/>
-        <updated>2023-02-14T01:43:35.173Z</updated>
-        <content type="html"><![CDATA[남중국해 군사긴장]]></content>
     </entry>
 </feed>
