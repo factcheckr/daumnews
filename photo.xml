@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-02-14T18:26:48.619Z</updated>
+    <updated>2023-02-14T19:18:30.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김포골드라인 관제실서 화재…열차 10여 대 1시간 넘게 운행 중단]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1518/FlvMhUZdMU</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1518/FlvMhUZdMU"/>
+        <updated>2023-02-14T19:17:58.715Z</updated>
+        <content type="html"><![CDATA[전국 화재사고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[졸업 축하곰]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/HotvPEo52e</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5620562/4n7w2x2mcC"/>
         <updated>2023-02-14T06:27:02.307Z</updated>
         <content type="html"><![CDATA[피플in포커스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[튀르키예를 위한 기도]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1127178/x6tiECEues</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1127178/x6tiECEues"/>
-        <updated>2023-02-14T05:20:41.445Z</updated>
-        <content type="html"><![CDATA[기자의 일상]]></content>
     </entry>
 </feed>
