@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-02-14T13:33:47.146Z</updated>
+    <updated>2023-02-14T14:21:48.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새치 보기 싫어 뽑다간 탈모… 대신 ‘이것’ 드셔보세요]]></title>
+        <id>https://v.daum.net/v/20230214223014836</id>
+        <link href="https://v.daum.net/v/20230214223014836"/>
+        <updated>2023-02-14T14:20:31.002Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문화분권을 위한 동행…메세나가 키우는 지역 문화자원]]></title>
         <id>https://v.daum.net/v/20230214220135538</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230214205815629"/>
         <updated>2023-02-14T12:40:53.474Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공식석상 나타난 이수만...쏟아지는 질문에 묵묵부답]]></title>
-        <id>https://v.daum.net/v/20230214203601287</id>
-        <link href="https://v.daum.net/v/20230214203601287"/>
-        <updated>2023-02-14T12:40:53.478Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
