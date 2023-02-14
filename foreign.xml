@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-02-14T14:21:48.144Z</updated>
+    <updated>2023-02-14T15:23:40.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이상렬의 세계경제전망] '집행관'은 가지만, 아베노믹스 일단은 유지할 듯]]></title>
+        <id>https://v.daum.net/v/20230215001023540</id>
+        <link href="https://v.daum.net/v/20230215001023540"/>
+        <updated>2023-02-14T15:22:12.047Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日 코로나19 신규감염 3만1703명...누적 3299만1556명]]></title>
+        <id>https://v.daum.net/v/20230214235353338</id>
+        <link href="https://v.daum.net/v/20230214235353338"/>
+        <updated>2023-02-14T15:22:12.051Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[호주, 이라크 난민 등 1만9000여명에 영구 비자...인권단체 “기념비적 사건”]]></title>
         <id>https://v.daum.net/v/20230214231444115</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230214230043049"/>
         <updated>2023-02-14T14:20:08.305Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 1월 CPI 전월비 0.5%, 전년비 6.4% 상승(상보)]]></title>
-        <id>https://v.daum.net/v/20230214225124985</id>
-        <link href="https://v.daum.net/v/20230214225124985"/>
-        <updated>2023-02-14T14:20:08.306Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['러시아 막아라'…몰도바 보안 우려에 영공 일시 폐쇄]]></title>
-        <id>https://v.daum.net/v/20230214222551809</id>
-        <link href="https://v.daum.net/v/20230214222551809"/>
-        <updated>2023-02-14T13:32:24.030Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

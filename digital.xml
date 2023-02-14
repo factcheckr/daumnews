@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-02-14T14:21:48.152Z</updated>
+    <updated>2023-02-14T15:23:40.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“노트북 60만원 ‘헐값’돼도 안 사?” 찬밥 된 PC 재고 넘쳐난다]]></title>
+        <id>https://v.daum.net/v/20230214185119381</id>
+        <link href="https://v.daum.net/v/20230214185119381"/>
+        <updated>2023-02-14T15:22:54.411Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2심서도 '유죄' 받은 KT, 구현모 대표 연임 여전히 '안갯속']]></title>
+        <id>https://v.daum.net/v/20230215000040383</id>
+        <link href="https://v.daum.net/v/20230215000040383"/>
+        <updated>2023-02-14T15:22:54.411Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“대만에 밀릴 판국”…외로운 싸움하는 한국기업들]]></title>
         <id>https://v.daum.net/v/20230214223000824</id>
         <link href="https://v.daum.net/v/20230214223000824"/>
         <updated>2023-02-14T13:33:01.638Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“방시혁 12만원은 약해” 허찔린 김범수, 이수만 보란듯 15만원 베팅하나?]]></title>
-        <id>https://v.daum.net/v/20230214214410288</id>
-        <link href="https://v.daum.net/v/20230214214410288"/>
-        <updated>2023-02-14T13:33:01.640Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[튀르키예 지진 충격, 7천km 밖 한국 지하수 수위 높였다]]></title>
@@ -34,17 +41,10 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["콘텐츠 강국 되려면 M&A 필수"]]></title>
-        <id>https://v.daum.net/v/20230214183902058</id>
-        <link href="https://v.daum.net/v/20230214183902058"/>
-        <updated>2023-02-14T11:20:54.300Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“배터리 교체비 3월 인상”…마음 급해진 아이폰 이용자들]]></title>
-        <id>https://v.daum.net/v/20230214192100023</id>
-        <link href="https://v.daum.net/v/20230214192100023"/>
-        <updated>2023-02-14T11:20:54.301Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
+        <title type="html"><![CDATA[기업 생존, ABC 역량이 좌우… 삼성·현대차도 AIaaS 고객사 [초거대 AI 시대가 온다]]]></title>
+        <id>https://v.daum.net/v/20230214183617981</id>
+        <link href="https://v.daum.net/v/20230214183617981"/>
+        <updated>2023-02-14T15:22:54.418Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
