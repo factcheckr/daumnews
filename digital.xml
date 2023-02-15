@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-02-15T14:20:59.767Z</updated>
+    <updated>2023-02-15T15:23:19.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[5G 중간요금제 추가 출시…서울 대중교통 요금 인상 연기]]></title>
+        <id>https://v.daum.net/v/20230216001800097</id>
+        <link href="https://v.daum.net/v/20230216001800097"/>
+        <updated>2023-02-15T15:22:34.249Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[퀀텀혁명이 온다]국내 양자 인력 풀 좁아···키워도 해외유출 우려]]></title>
+        <id>https://v.daum.net/v/20230215175218454</id>
+        <link href="https://v.daum.net/v/20230215175218454"/>
+        <updated>2023-02-15T15:22:34.250Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['챗GPT' 우려 속 개인정보 규제완화 '치트키'로 띄우는 보도]]></title>
         <id>https://v.daum.net/v/20230215220504062</id>
@@ -20,13 +34,6 @@
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[농업+IT=스마트팜] 3. 스마트팜 구현 솔루션 이해하기]]></title>
-        <id>https://v.daum.net/v/20230215164804052</id>
-        <link href="https://v.daum.net/v/20230215164804052"/>
-        <updated>2023-02-15T11:18:59.312Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[3월 무료 데이터 30GB 제공..."보여주기식 정책"]]></title>
         <id>https://v.daum.net/v/20230215195307077</id>
         <link href="https://v.daum.net/v/20230215195307077"/>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230215193044716"/>
         <updated>2023-02-15T11:18:59.318Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“신규 통신사” 꺼내자…통신 3사 “3월 한 달간 공짜 데이터”]]></title>
-        <id>https://v.daum.net/v/20230215191555399</id>
-        <link href="https://v.daum.net/v/20230215191555399"/>
-        <updated>2023-02-15T10:23:13.302Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
     </entry>
 </feed>
