@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-02-15T18:26:41.365Z</updated>
+    <updated>2023-02-15T19:22:11.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[길이 470㎞ 단층 파열… 올리브 농장이 깊은 협곡으로 ‘쩍’]]></title>
+        <id>https://v.daum.net/v/20230216030526881</id>
+        <link href="https://v.daum.net/v/20230216030526881"/>
+        <updated>2023-02-15T19:20:59.956Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日 “中 정찰풍선 과거 3차례 침범”… 韓정부 “국내 침범 없어”]]></title>
+        <id>https://v.daum.net/v/20230216030304769</id>
+        <link href="https://v.daum.net/v/20230216030304769"/>
+        <updated>2023-02-15T19:20:59.958Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우크라전 357일…동부 루한스크 지역서 기싸움]]></title>
         <id>https://v.daum.net/v/20230216024800636</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230216000412966"/>
         <updated>2023-02-15T16:30:15.446Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백악관 국가경제위원장에 브레이너드 연준 부의장 임명]]></title>
-        <id>https://v.daum.net/v/20230216000341958</id>
-        <link href="https://v.daum.net/v/20230216000341958"/>
-        <updated>2023-02-15T16:30:15.448Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘서브웨이’ 매각 추진⋯12조원 규모 ‘빅딜’ 전망]]></title>
-        <id>https://v.daum.net/v/20230216000220914</id>
-        <link href="https://v.daum.net/v/20230216000220914"/>
-        <updated>2023-02-15T16:30:15.449Z</updated>
-        <content type="html"><![CDATA[농민신문]]></content>
     </entry>
 </feed>
