@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-02-15T11:19:47.655Z</updated>
+    <updated>2023-02-15T12:41:17.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[챗GPT가 쓰는 '로코물'은 어떤 모습일까... 美 버즈피드의 실험]]></title>
+        <id>https://v.daum.net/v/20230215190042138</id>
+        <link href="https://v.daum.net/v/20230215190042138"/>
+        <updated>2023-02-15T12:40:48.141Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中해커 'CU 홈피'도 공격 정황…"경찰·인터넷진흥원과 조사"]]></title>
         <id>https://v.daum.net/v/20230215185734075</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230215175813646"/>
         <updated>2023-02-15T10:23:21.631Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[中 해커 놀이터 된 한국] "10% 뚫려도 서버 100만대 노출···보안 투자 급선무"]]></title>
-        <id>https://v.daum.net/v/20230215175621585</id>
-        <link href="https://v.daum.net/v/20230215175621585"/>
-        <updated>2023-02-15T10:23:21.633Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
