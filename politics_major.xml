@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-02-15T15:23:19.527Z</updated>
+    <updated>2023-02-15T16:31:34.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대통령까지 나서자 백기 든 광역단체, 지하철 요금 인상 하반기로]]></title>
+        <id>https://v.daum.net/v/20230215231502600</id>
+        <link href="https://v.daum.net/v/20230215231502600"/>
+        <updated>2023-02-15T16:29:38.000Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[나이트포커스] 민주당 의원들, 윤미향에 사과 릴레이]]></title>
         <id>https://v.daum.net/v/20230215231736619</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230215222620266"/>
         <updated>2023-02-15T15:21:39.287Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김대중 4.3 발언 소환한 태영호, 진짜 의미를 빼버리다]]></title>
-        <id>https://v.daum.net/v/20230215220000983</id>
-        <link href="https://v.daum.net/v/20230215220000983"/>
-        <updated>2023-02-15T14:19:15.023Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
