@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-02-16T13:36:24.893Z</updated>
+    <updated>2023-02-16T15:23:38.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원하는 DNA ‘싹둑’ 유전자 가위 ‘크리스퍼’…바이오 기술에 날개를 달다[전문가의 세계 - 김응빈의 미생물 ‘수다’]]]></title>
+        <id>https://v.daum.net/v/20230216223504076</id>
+        <link href="https://v.daum.net/v/20230216223504076"/>
+        <updated>2023-02-16T15:22:46.875Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴스 더하기] SNS ‘본디’ 열풍…개인정보 누가 본디?]]></title>
+        <id>https://v.daum.net/v/20230216195942932</id>
+        <link href="https://v.daum.net/v/20230216195942932"/>
+        <updated>2023-02-16T15:22:46.876Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이제 아이폰도 접나…애플, ‘폴더블 기기’ 특허 취득]]></title>
         <id>https://v.daum.net/v/20230216200107979</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230216195101720"/>
         <updated>2023-02-16T11:19:39.496Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[은행·통신 `찔끔 대책` 논란] `과점` 깨려는 정부… `제4이통사` 밀어붙인다]]></title>
-        <id>https://v.daum.net/v/20230216194854663</id>
-        <link href="https://v.daum.net/v/20230216194854663"/>
-        <updated>2023-02-16T11:19:39.497Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[`직장인도 대체`...미리보는 한국판 챗GPT]]></title>
-        <id>https://v.daum.net/v/20230216191952131</id>
-        <link href="https://v.daum.net/v/20230216191952131"/>
-        <updated>2023-02-16T11:19:39.498Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>
