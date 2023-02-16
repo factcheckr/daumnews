@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-02-16T11:20:25.039Z</updated>
+    <updated>2023-02-16T12:40:16.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정부, 통신사업자 기기제조 사전승인 규제 폐지 검토]]></title>
+        <id>https://v.daum.net/v/20230216184209501</id>
+        <link href="https://v.daum.net/v/20230216184209501"/>
+        <updated>2023-02-16T12:39:35.148Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] '연봉 10억' 공무원 나오나…'한국판 NASA' 파격 대우]]></title>
         <id>https://v.daum.net/v/20230216182203087</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230216173903918"/>
         <updated>2023-02-16T09:21:40.900Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 해커조직의 황당한 韓 해킹 이유… "기분이 좋지 않아서" "신입멤버 실력과시?"]]></title>
-        <id>https://v.daum.net/v/20230216173000603</id>
-        <link href="https://v.daum.net/v/20230216173000603"/>
-        <updated>2023-02-16T09:21:40.901Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>

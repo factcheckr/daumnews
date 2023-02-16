@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-02-16T11:20:25.046Z</updated>
+    <updated>2023-02-16T12:40:16.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“누군가 샀다, 발칵” 이수만·방시혁에 허찔린 김범수 몰래 샀나?]]></title>
+        <id>https://v.daum.net/v/20230216211252129</id>
+        <link href="https://v.daum.net/v/20230216211252129"/>
+        <updated>2023-02-16T12:39:24.179Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대세 될 수 있을까? 비접촉 결제 사용해보니]]></title>
         <id>https://v.daum.net/v/20230216200601085</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230216185119625"/>
         <updated>2023-02-16T10:23:05.940Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부, 통신사업자 기기제조 사전승인 규제 폐지 검토]]></title>
-        <id>https://v.daum.net/v/20230216184209501</id>
-        <link href="https://v.daum.net/v/20230216184209501"/>
-        <updated>2023-02-16T10:23:05.942Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
