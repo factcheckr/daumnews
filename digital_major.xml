@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-02-17T14:20:21.968Z</updated>
+    <updated>2023-02-17T15:23:39.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고작 한 달 데이터 무료?…"알뜰폰으로 옮겨갑니다"]]></title>
+        <id>https://v.daum.net/v/20230217185119454</id>
+        <link href="https://v.daum.net/v/20230217185119454"/>
+        <updated>2023-02-17T15:23:01.063Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘AI만 10년’…구글이 이제서야 AI 챗봇을 공개한 이유]]></title>
+        <id>https://v.daum.net/v/20230217180112570</id>
+        <link href="https://v.daum.net/v/20230217180112570"/>
+        <updated>2023-02-17T15:23:01.063Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[IT 잡학다식] 컴퓨터는 CPU 스마트폰은 AP...무슨 차이지?]]></title>
         <id>https://v.daum.net/v/20230217180100563</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230217170600214"/>
         <updated>2023-02-17T12:41:59.419Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 가스레인지 유해성 논란에 인덕션 업계 '기지개']]></title>
-        <id>https://v.daum.net/v/20230217165502897</id>
-        <link href="https://v.daum.net/v/20230217165502897"/>
-        <updated>2023-02-17T14:19:46.411Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["AI 반도체 팜 사업, 국산 AI 반도체에 기회 줘 레퍼런스 확보"]]></title>
-        <id>https://v.daum.net/v/20230217164428657</id>
-        <link href="https://v.daum.net/v/20230217164428657"/>
-        <updated>2023-02-17T14:19:46.412Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
