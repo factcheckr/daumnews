@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-02-17T16:30:53.582Z</updated>
+    <updated>2023-02-17T18:26:32.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카뱅과 토스, 소비자 울리는 피싱범죄 어떻게 대응하나?]]></title>
+        <id>https://v.daum.net/v/20230217190601644</id>
+        <link href="https://v.daum.net/v/20230217190601644"/>
+        <updated>2023-02-17T18:25:55.852Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고작 한 달 데이터 무료?…"알뜰폰으로 옮겨갑니다"]]></title>
         <id>https://v.daum.net/v/20230217185119454</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230217172128643"/>
         <updated>2023-02-17T09:21:20.612Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과학 유튜브 채널 표절 논란 일파만파 "무슨 자신감으로… 뻔뻔하다"]]></title>
-        <id>https://v.daum.net/v/20230217170600214</id>
-        <link href="https://v.daum.net/v/20230217170600214"/>
-        <updated>2023-02-17T12:41:59.419Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
 </feed>
