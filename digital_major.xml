@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-02-17T10:24:06.557Z</updated>
+    <updated>2023-02-17T11:19:09.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘AI만 10년’…구글이 이제서야 AI 챗봇을 공개한 이유]]></title>
+        <id>https://v.daum.net/v/20230217180112570</id>
+        <link href="https://v.daum.net/v/20230217180112570"/>
+        <updated>2023-02-17T11:18:29.813Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[IT 잡학다식] 컴퓨터는 CPU 스마트폰은 AP...무슨 차이지?]]></title>
         <id>https://v.daum.net/v/20230217180100563</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230217172128643"/>
         <updated>2023-02-17T09:21:20.612Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과학 유튜브 채널 표절 논란 일파만파 "무슨 자신감으로… 뻔뻔하다"]]></title>
-        <id>https://v.daum.net/v/20230217170600214</id>
-        <link href="https://v.daum.net/v/20230217170600214"/>
-        <updated>2023-02-17T09:21:20.614Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
 </feed>
