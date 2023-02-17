@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-02-17T11:19:09.265Z</updated>
+    <updated>2023-02-17T12:42:36.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 中 해커, 국민체육진흥공단 산하 연구기관도 해킹…879건 개인정보 유출]]></title>
+        <id>https://v.daum.net/v/20230217181119793</id>
+        <link href="https://v.daum.net/v/20230217181119793"/>
+        <updated>2023-02-17T12:41:59.414Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘AI만 10년’…구글이 이제서야 AI 챗봇을 공개한 이유]]></title>
         <id>https://v.daum.net/v/20230217180112570</id>
@@ -48,20 +55,6 @@
         <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박진 “군사분야 인공지능 빠르게 발전... 늦기 전에 행동해야”]]></title>
-        <id>https://v.daum.net/v/20230217154241111</id>
-        <link href="https://v.daum.net/v/20230217154241111"/>
-        <updated>2023-02-17T09:21:20.607Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국판 NASA 윤곽 … 연봉상한 폐지·외국인도 채용]]></title>
-        <id>https://v.daum.net/v/20230217172709770</id>
-        <link href="https://v.daum.net/v/20230217172709770"/>
-        <updated>2023-02-17T09:21:20.609Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['200원까지 곤두박질' 위믹스, 두달만에 재상장하니 2000원대 껑충]]></title>
         <id>https://v.daum.net/v/20230217172532720</id>
         <link href="https://v.daum.net/v/20230217172532720"/>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230217172128643"/>
         <updated>2023-02-17T09:21:20.612Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[과학 유튜브 채널 표절 논란 일파만파 "무슨 자신감으로… 뻔뻔하다"]]></title>
+        <id>https://v.daum.net/v/20230217170600214</id>
+        <link href="https://v.daum.net/v/20230217170600214"/>
+        <updated>2023-02-17T12:41:59.419Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
 </feed>
