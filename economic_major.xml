@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-02-17T15:23:39.639Z</updated>
+    <updated>2023-02-17T16:30:53.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네덜란드 간 박진, ASML CEO 만나 '반도체 외교‘]]></title>
+        <id>https://v.daum.net/v/20230217224500307</id>
+        <link href="https://v.daum.net/v/20230217224500307"/>
+        <updated>2023-02-17T16:28:57.201Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부-여당, 마일리지 개편에 맹공…“대한항공 시정 안하면 정부 개입”]]></title>
         <id>https://v.daum.net/v/20230217222541218</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230217215923967"/>
         <updated>2023-02-17T13:27:08.611Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘주차 전쟁’ 광주송정역…4월부터 1580대 주차 가능]]></title>
-        <id>https://v.daum.net/v/20230217215332874</id>
-        <link href="https://v.daum.net/v/20230217215332874"/>
-        <updated>2023-02-17T13:27:08.618Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
