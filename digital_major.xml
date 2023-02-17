@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-02-17T03:30:50.357Z</updated>
+    <updated>2023-02-17T04:26:24.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이제 그런 방식으론 짝짓기 못 해...수컷 고래가 노래하지 않는 이유]]></title>
+        <id>https://v.daum.net/v/20230217112246981</id>
+        <link href="https://v.daum.net/v/20230217112246981"/>
+        <updated>2023-02-17T04:25:49.379Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“물리버튼은 안녕” 새 아이폰 렌더링 이미지 나왔다]]></title>
+        <id>https://v.daum.net/v/20230217110900369</id>
+        <link href="https://v.daum.net/v/20230217110900369"/>
+        <updated>2023-02-17T04:25:49.380Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'전분야 마이데이터'法 9부능선 통과"… 당국, 플랫폼 마련 착수]]></title>
         <id>https://v.daum.net/v/20230217111206541</id>
@@ -34,13 +48,6 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네이버 뉴스 '언론사 홈페이지'서 본다…4월부터 아웃링크 시범 도입]]></title>
-        <id>https://v.daum.net/v/20230217105232696</id>
-        <link href="https://v.daum.net/v/20230217105232696"/>
-        <updated>2023-02-17T03:30:07.783Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[네이버 언론사 아웃링크 '깐깐한 조건' 공개됐다]]></title>
         <id>https://v.daum.net/v/20230217104223329</id>
         <link href="https://v.daum.net/v/20230217104223329"/>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230217102652762"/>
         <updated>2023-02-17T03:30:07.794Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[둥근 모서리 아이폰15 프로…디자인 렌더링 등장]]></title>
-        <id>https://v.daum.net/v/20230217093027563</id>
-        <link href="https://v.daum.net/v/20230217093027563"/>
-        <updated>2023-02-17T03:30:07.795Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
