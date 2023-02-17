@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-02-17T13:28:53.094Z</updated>
+    <updated>2023-02-17T14:20:21.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이 암' 미래에 가장 빠르게 늘어날 것으로 예상]]></title>
+        <id>https://v.daum.net/v/20230217230016374</id>
+        <link href="https://v.daum.net/v/20230217230016374"/>
+        <updated>2023-02-17T14:19:20.906Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[식사 때마다 시린 이… 충치 아닌 ‘이것’ 탓일 수도]]></title>
         <id>https://v.daum.net/v/20230217220017991</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230217163040397"/>
         <updated>2023-02-17T13:27:41.891Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비소세포폐암 초기 땐 수술로 완치…치료제로 종양 줄이고 재발도 늦춰]]></title>
-        <id>https://v.daum.net/v/20230217215938970</id>
-        <link href="https://v.daum.net/v/20230217215938970"/>
-        <updated>2023-02-17T13:27:41.892Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
