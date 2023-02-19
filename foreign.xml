@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-02-19T13:27:32.859Z</updated>
+    <updated>2023-02-19T14:19:19.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[튀르키예 강진] 시리아 반군 지역 구호 태부족…"지진 전보다 지원 적어"]]></title>
-        <id>https://v.daum.net/v/20230219222128661</id>
-        <link href="https://v.daum.net/v/20230219222128661"/>
-        <updated>2023-02-19T13:26:02.908Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[미 "러군, 우크라서 4세 소녀 성폭행"...러 "악마화 하려는 주장"]]></title>
         <id>https://v.daum.net/v/20230219221817640</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20230219211549126"/>
         <updated>2023-02-19T12:39:19.500Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“핵 암호 훔치게” “죽을때까지 싸우게” MS, 챗봇 논란에 횟수 제한]]></title>
+        <id>https://v.daum.net/v/20230219210601060</id>
+        <link href="https://v.daum.net/v/20230219210601060"/>
+        <updated>2023-02-19T14:17:52.353Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
