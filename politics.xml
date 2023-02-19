@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-02-19T12:40:49.953Z</updated>
+    <updated>2023-02-19T13:27:32.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대북제재는 공염불?…김정은과 경호원들 탄 차량 보니]]></title>
+        <id>https://v.daum.net/v/20230219215101412</id>
+        <link href="https://v.daum.net/v/20230219215101412"/>
+        <updated>2023-02-19T13:25:21.133Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한·콜롬비아 외교장관… "경제·통상 등 협력 논의"]]></title>
         <id>https://v.daum.net/v/20230219211113094</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘화성 15형’ 꺼낸 북..미국 겨냥 ‘다종’ ICBM 과시]]></title>
+        <title type="html"><![CDATA[‘화성 15형’ 꺼낸 북..美 본토 겨냥 다양한 ICBM 과시]]></title>
         <id>https://v.daum.net/v/20230219210902076</id>
         <link href="https://v.daum.net/v/20230219210902076"/>
         <updated>2023-02-19T12:38:40.819Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230219204804917"/>
         <updated>2023-02-19T12:38:40.819Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북 ‘쏘고’ 한·미 ‘날고’…한반도 정세 급속냉각]]></title>
-        <id>https://v.daum.net/v/20230219205402948</id>
-        <link href="https://v.daum.net/v/20230219205402948"/>
-        <updated>2023-02-19T12:38:40.821Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
