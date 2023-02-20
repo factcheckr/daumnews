@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-02-20T14:22:17.516Z</updated>
+    <updated>2023-02-20T15:23:08.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[여기는 안동] 의성의 새로운 명소 ‘작은영화관’]]></title>
+        <id>https://v.daum.net/v/20230220193850639</id>
+        <link href="https://v.daum.net/v/20230220193850639"/>
+        <updated>2023-02-20T15:22:08.244Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[월호스님이 권하는 고통에서 해탈하는 세 가지 처방]]></title>
         <id>https://v.daum.net/v/20230220181725943</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230220165701257"/>
         <updated>2023-02-20T11:18:35.822Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산의 작가, 하늘에 빠졌다]]></title>
-        <id>https://v.daum.net/v/20230220165701256</id>
-        <link href="https://v.daum.net/v/20230220165701256"/>
-        <updated>2023-02-20T13:32:42.110Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
