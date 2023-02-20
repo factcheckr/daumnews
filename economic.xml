@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-02-20T15:23:08.933Z</updated>
+    <updated>2023-02-20T17:20:14.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모바일 올림픽' 개막 일주일 앞으로…재계 총수 참석 가능성은]]></title>
+        <id>https://v.daum.net/v/20230221000009229</id>
+        <link href="https://v.daum.net/v/20230221000009229"/>
+        <updated>2023-02-20T17:18:43.290Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국형 챗GPT 개발…3년 뒤엔 ‘로봇 택배’ 일상 파고든다]]></title>
         <id>https://v.daum.net/v/20230221001020332</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230221000407295"/>
         <updated>2023-02-20T15:21:13.446Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[챗 GPT에 '정치권의 금융 개입' 물어보니]]></title>
-        <id>https://v.daum.net/v/20230221000101266</id>
-        <link href="https://v.daum.net/v/20230221000101266"/>
-        <updated>2023-02-20T15:21:13.449Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
