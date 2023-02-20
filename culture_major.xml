@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-02-20T02:56:45.231Z</updated>
+    <updated>2023-02-20T03:29:23.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[음악도 ‘소유의 시대’…MZ세대가 LP 시장 이끈다]]></title>
+        <id>https://v.daum.net/v/20230220113128209</id>
+        <link href="https://v.daum.net/v/20230220113128209"/>
+        <updated>2023-02-20T03:28:26.347Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K팝 팬덤 기후행동에 하이브·멜론이 답했다]]></title>
         <id>https://v.daum.net/v/20230220112815055</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230220110511923"/>
         <updated>2023-02-20T02:55:56.928Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봄으로 가는 환절기...신진대사 올리는 법 6]]></title>
-        <id>https://v.daum.net/v/20230220090510008</id>
-        <link href="https://v.daum.net/v/20230220090510008"/>
-        <updated>2023-02-20T02:55:56.929Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
