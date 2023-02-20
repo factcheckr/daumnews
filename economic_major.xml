@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-02-20T13:33:35.325Z</updated>
+    <updated>2023-02-20T14:22:17.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230220213800202"/>
         <updated>2023-02-20T13:32:06.780Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[은행 돈 잔치속 허리 휘는 중소기업…"고통 분담을"]]></title>
+        <id>https://v.daum.net/v/20230220211734981</id>
+        <link href="https://v.daum.net/v/20230220211734981"/>
+        <updated>2023-02-20T14:20:57.432Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답 없는 택배 추가배송비..심사 1년 연장]]></title>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20230220204503580</id>
         <link href="https://v.daum.net/v/20230220204503580"/>
         <updated>2023-02-20T12:40:38.714Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["개발자 전원 외국인"…'유망'이라는 IT업계에 무슨 일?]]></title>
-        <id>https://v.daum.net/v/20230220204209553</id>
-        <link href="https://v.daum.net/v/20230220204209553"/>
-        <updated>2023-02-20T12:40:38.716Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
