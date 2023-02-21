@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-02-21T17:20:16.346Z</updated>
+    <updated>2023-02-21T18:30:16.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[야외 공연]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/Qe35eGeWfb</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/Qe35eGeWfb"/>
+        <updated>2023-02-21T18:29:46.288Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[깨어난 봄의 향기]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/7156/bLBua3atfQ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/7156/bLBua3atfQ"/>
+        <updated>2023-02-21T18:29:46.290Z</updated>
+        <content type="html"><![CDATA[포토 에세이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김건희 여사, ‘외규장각 의궤, 그 고귀함의 의미’ 특별전 관람]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5030433/tZL42ucpY8</id>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/382/uZaPeWMTay"/>
         <updated>2023-02-21T08:28:33.342Z</updated>
         <content type="html"><![CDATA[중국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘노란봉투법’ 환노위 통과…정의당 “이제 시작” [만리재사진첩]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1629566/pPLzato5ic</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1629566/pPLzato5ic"/>
-        <updated>2023-02-21T08:28:33.344Z</updated>
-        <content type="html"><![CDATA[만리재사진첩]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대전 휩쓴 붉은 물결…與 합동연설회 ‘구름인파’ [쿡정치 포토]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5611584/7S43bDqkGc</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5611584/7S43bDqkGc"/>
-        <updated>2023-02-21T08:28:33.345Z</updated>
-        <content type="html"><![CDATA[쿡 정치포토]]></content>
     </entry>
 </feed>
