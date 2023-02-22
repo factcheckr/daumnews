@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-02-22T17:20:43.261Z</updated>
+    <updated>2023-02-22T18:30:52.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[실적 악화 ‘K엔터 대표’ CJ ENM… 연초부터 칼바람]]></title>
+        <id>https://v.daum.net/v/20230223030600958</id>
+        <link href="https://v.daum.net/v/20230223030600958"/>
+        <updated>2023-02-22T18:30:04.237Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마이크로RNA 만드는 '다이서' 원리 밝혔다…RNA치료제 새 가능성]]></title>
         <id>https://v.daum.net/v/20230223010006413</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230222223620305"/>
         <updated>2023-02-22T14:24:27.032Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[챗GPT보다 똑똑하다는 AI 검색 '빙' 써보니]]></title>
-        <id>https://v.daum.net/v/20230222203001598</id>
-        <link href="https://v.daum.net/v/20230222203001598"/>
-        <updated>2023-02-22T16:28:59.168Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>

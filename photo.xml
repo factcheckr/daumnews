@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-02-22T17:20:43.242Z</updated>
+    <updated>2023-02-22T18:30:52.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[간편한 방한 텐트]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/fLvMI5nX9S</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/fLvMI5nX9S"/>
+        <updated>2023-02-22T18:30:21.673Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얼마나 반가웠으면 … 두 팔 벌린 푸틴]]></title>
         <id>https://gallery.v.daum.net/p/viewer/2322/paJ7motn77</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5735752/xdVHurbDAU"/>
         <updated>2023-02-22T07:24:55.610Z</updated>
         <content type="html"><![CDATA[튀르키예 대지진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신난 동심]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5030433/0zHB2S6hA2</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5030433/0zHB2S6hA2"/>
-        <updated>2023-02-22T07:24:55.614Z</updated>
-        <content type="html"><![CDATA[국립중앙박물관]]></content>
     </entry>
 </feed>
