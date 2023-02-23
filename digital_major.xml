@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-02-23T14:21:58.501Z</updated>
+    <updated>2023-02-23T15:26:09.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모바일 학급 알림장 서비스, 보안 취약점 드러나... “2시간 만에 조치”]]></title>
+        <title type="html"><![CDATA[160만 가입 모바일 학급 알림장, 보안 취약점 드러나]]></title>
         <id>https://v.daum.net/v/20230223223118293</id>
         <link href="https://v.daum.net/v/20230223223118293"/>
         <updated>2023-02-23T13:37:47.555Z</updated>
@@ -25,6 +25,20 @@
         <link href="https://v.daum.net/v/20230223212541580"/>
         <updated>2023-02-23T13:37:47.564Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오톡 단체 대화방 '조용히 나가기' 도입된다]]></title>
+        <id>https://v.daum.net/v/20230223211309439</id>
+        <link href="https://v.daum.net/v/20230223211309439"/>
+        <updated>2023-02-23T15:25:29.898Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["하루에 5만원"…신상 갤S23 울트라가 '대여폰' 된 속사정]]></title>
+        <id>https://v.daum.net/v/20230223210102225</id>
+        <link href="https://v.daum.net/v/20230223210102225"/>
+        <updated>2023-02-23T15:25:29.900Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“회사 단톡방 나가려면 퇴사해야 한다?” 이제 ‘카톡 감옥’ 없어진다]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230223195125913"/>
         <updated>2023-02-23T13:37:47.580Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["한국 초거대 AI, 세계 2~3위권…기업 중심으로 맡겨달라"]]></title>
-        <id>https://v.daum.net/v/20230223192655487</id>
-        <link href="https://v.daum.net/v/20230223192655487"/>
-        <updated>2023-02-23T13:37:47.582Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보안업계 "올해 내로 정보보호 펀드 조성 기대"]]></title>
-        <id>https://v.daum.net/v/20230223183133475</id>
-        <link href="https://v.daum.net/v/20230223183133475"/>
-        <updated>2023-02-23T14:21:22.578Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
