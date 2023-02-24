@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-02-24T17:21:29.846Z</updated>
+    <updated>2023-02-24T18:29:12.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성 낸드 40%, SK D램 40%를 中서 생산… 美 규제땐 직격탄]]></title>
+        <id>https://v.daum.net/v/20230225030113936</id>
+        <link href="https://v.daum.net/v/20230225030113936"/>
+        <updated>2023-02-24T18:28:24.446Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8800억 오일머니 충전한 카카오···하이브에 반격 나서나]]></title>
         <id>https://v.daum.net/v/20230224175856060</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230224175702025"/>
         <updated>2023-02-24T13:29:12.331Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유튜브, 유료화 다시 시도하나…"일부 이용자들 1080p 프리미엄 발견"]]></title>
-        <id>https://v.daum.net/v/20230224172710321</id>
-        <link href="https://v.daum.net/v/20230224172710321"/>
-        <updated>2023-02-24T17:20:33.125Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
