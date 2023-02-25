@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-02-25T14:20:48.094Z</updated>
+    <updated>2023-02-25T15:20:56.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시민기자 북클럽] 딱 9페이지 만에 저자가 좋아졌다]]></title>
+        <id>https://v.daum.net/v/20230225200317478</id>
+        <link href="https://v.daum.net/v/20230225200317478"/>
+        <updated>2023-02-25T15:19:59.869Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이곳'까지 좋게 한다… 비타민D 효능 어디까지?]]></title>
         <id>https://v.daum.net/v/20230225200016427</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230225180504244"/>
         <updated>2023-02-25T11:17:12.452Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["잠만 잘 자도 최대 5년 더 산다"]]></title>
-        <id>https://v.daum.net/v/20230225180103216</id>
-        <link href="https://v.daum.net/v/20230225180103216"/>
-        <updated>2023-02-25T10:23:58.136Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
