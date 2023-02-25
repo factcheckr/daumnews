@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-02-25T12:36:07.423Z</updated>
+    <updated>2023-02-25T13:25:10.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국 중앙은행 고문 "中 올해 경제성장률 5%이상 달성 가능"]]></title>
+        <id>https://v.daum.net/v/20230225203721713</id>
+        <link href="https://v.daum.net/v/20230225203721713"/>
+        <updated>2023-02-25T13:24:02.161Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바이든은 ‘친절한 남자’ 트럼프는 ‘죄송’…챗GPT 편향성 논란]]></title>
         <id>https://v.daum.net/v/20230225203445700</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230225190510879"/>
         <updated>2023-02-25T12:35:03.783Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['4개월째 단식 투쟁' 伊 무정부주의자…법원, 정부 손 들어줘]]></title>
-        <id>https://v.daum.net/v/20230225183022521</id>
-        <link href="https://v.daum.net/v/20230225183022521"/>
-        <updated>2023-02-25T12:35:03.785Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
