@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-02-25T06:26:18.034Z</updated>
+    <updated>2023-02-25T07:19:12.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['디지코 적임자' 누구···‘구현모 사퇴’에 복잡해진 셈법]]></title>
+        <id>https://v.daum.net/v/20230225114226730</id>
+        <link href="https://v.daum.net/v/20230225114226730"/>
+        <updated>2023-02-25T07:18:38.020Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[과학을읽다]전쟁·난민·전염병에 산모들이 위험하다]]></title>
         <id>https://v.daum.net/v/20230225113014637</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230225100016611"/>
         <updated>2023-02-25T02:54:05.790Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘3D프린팅 주택’ 대단지, 케냐에 생긴다…한 주에 한 채씩 ‘뚝딱’]]></title>
-        <id>https://v.daum.net/v/20230225091002055</id>
-        <link href="https://v.daum.net/v/20230225091002055"/>
-        <updated>2023-02-25T02:54:05.792Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
