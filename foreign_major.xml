@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-02-25T13:25:10.659Z</updated>
+    <updated>2023-02-25T14:20:48.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['레오파르트2' 탱크 우크라이나 도착...폴란드 4대 인도]]></title>
+        <id>https://v.daum.net/v/20230225212015985</id>
+        <link href="https://v.daum.net/v/20230225212015985"/>
+        <updated>2023-02-25T14:19:37.063Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국 중앙은행 고문 "中 올해 경제성장률 5%이상 달성 가능"]]></title>
         <id>https://v.daum.net/v/20230225203721713</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230225192332086"/>
         <updated>2023-02-25T12:35:03.783Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["차이잉원 대만 총통, 올해 8월까지 방미…美와 조율" 산케이]]></title>
-        <id>https://v.daum.net/v/20230225190510879</id>
-        <link href="https://v.daum.net/v/20230225190510879"/>
-        <updated>2023-02-25T12:35:03.783Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
