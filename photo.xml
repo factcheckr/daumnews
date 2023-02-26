@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-02-26T16:27:19.136Z</updated>
+    <updated>2023-02-26T17:21:41.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/344179/QpxjP6S42w"/>
         <updated>2023-02-26T11:18:50.697Z</updated>
         <content type="html"><![CDATA[청계천 옆 사진관]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[참 예쁜 해]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/fwgZJdHRdU</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/fwgZJdHRdU"/>
+        <updated>2023-02-26T17:21:07.771Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['생일' 맞은 안철수, 토크쇼 내내 '싱글벙글' [TF사진관]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1476/HAFjRTQSjt"/>
         <updated>2023-02-26T01:49:18.239Z</updated>
         <content type="html"><![CDATA[미국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["먼저 떠나보낸 아들 생각에 더 열심" 15년째 무료봉사 이성순씨]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1504/UhOojFg1gR</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1504/UhOojFg1gR"/>
-        <updated>2023-02-26T01:49:18.240Z</updated>
-        <content type="html"><![CDATA[훈훈한 미담]]></content>
     </entry>
 </feed>

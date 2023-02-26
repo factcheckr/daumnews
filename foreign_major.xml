@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-02-26T16:27:19.123Z</updated>
+    <updated>2023-02-26T17:21:41.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20230227000137777"/>
         <updated>2023-02-26T15:19:59.812Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보복이 보복 부르는 팔레스타인…무장괴한, 이스라엘인 2명 사살]]></title>
+        <id>https://v.daum.net/v/20230226232529585</id>
+        <link href="https://v.daum.net/v/20230226232529585"/>
+        <updated>2023-02-26T17:20:19.878Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김정은 민생 일정도 수행하는 김주애… 7번째 공개 행보]]></title>
+        <id>https://v.daum.net/v/20230226231026529</id>
+        <link href="https://v.daum.net/v/20230226231026529"/>
+        <updated>2023-02-26T17:20:19.881Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[질 바이든 “몇번 말해야… 남편, 재선 도전한다”]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230226193826022"/>
         <updated>2023-02-26T16:26:03.673Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[운동화 리셀도 이제 끝물?…“40만원 하던게 반토막”]]></title>
-        <id>https://v.daum.net/v/20230226215400049</id>
-        <link href="https://v.daum.net/v/20230226215400049"/>
-        <updated>2023-02-26T16:26:03.674Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우크라 전쟁 끝내라' 전 세계 연대 물결…G20 '러시아 규탄' 성명 불발]]></title>
-        <id>https://v.daum.net/v/20230226200847309</id>
-        <link href="https://v.daum.net/v/20230226200847309"/>
-        <updated>2023-02-26T16:26:03.675Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
