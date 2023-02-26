@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-02-26T14:19:06.306Z</updated>
+    <updated>2023-02-26T15:21:16.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영광의 정성일]]></title>
+        <id>https://v.daum.net/v/20230227000006740</id>
+        <link href="https://v.daum.net/v/20230227000006740"/>
+        <updated>2023-02-26T15:20:09.589Z</updated>
+        <content type="html"><![CDATA[아레나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화장실 변기 표면 '분홍색 얼룩'… 왜 자꾸 생길까?]]></title>
         <id>https://v.daum.net/v/20230226230016499</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230226210305686"/>
         <updated>2023-02-26T12:36:46.160Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낮에도 활발하게 활동···도원지에 나타난 새끼 수달들]]></title>
-        <id>https://v.daum.net/v/20230226203820503</id>
-        <link href="https://v.daum.net/v/20230226203820503"/>
-        <updated>2023-02-26T12:36:46.161Z</updated>
-        <content type="html"><![CDATA[대구MBC]]></content>
     </entry>
 </feed>
