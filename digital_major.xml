@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-02-27T17:21:07.163Z</updated>
+    <updated>2023-02-27T18:30:16.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日 ‘후공정’ 앞세워 반도체왕국 부활 노린다]]></title>
+        <id>https://v.daum.net/v/20230228030549109</id>
+        <link href="https://v.daum.net/v/20230228030549109"/>
+        <updated>2023-02-27T18:29:38.867Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“일상이 AI”…초거대 AI 생태계 구축 경쟁 가속화]]></title>
         <id>https://v.daum.net/v/20230227215340278</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230227173328689"/>
         <updated>2023-02-27T10:26:14.876Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 클로바노트 "'뇌출혈', '내추럴' 구분 음성인식모델 만들었다"]]></title>
-        <id>https://v.daum.net/v/20230227171729049</id>
-        <link href="https://v.daum.net/v/20230227171729049"/>
-        <updated>2023-02-27T10:26:14.876Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
