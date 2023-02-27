@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-02-27T16:30:17.793Z</updated>
+    <updated>2023-02-27T17:21:07.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장] 입으로 먼저 만나는 ‘봄맛’⋯제철 맞은 경북 청도 ‘한재미나리’]]></title>
+        <id>https://v.daum.net/v/20230228020125813</id>
+        <link href="https://v.daum.net/v/20230228020125813"/>
+        <updated>2023-02-27T17:20:09.700Z</updated>
+        <content type="html"><![CDATA[농민신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이렇게 자면 오래 산다… 수명 5년 늘리는 습관 ‘다섯 가지’]]></title>
         <id>https://v.daum.net/v/20230227234744092</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230227223015658"/>
         <updated>2023-02-27T14:20:15.315Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동해시 5대 권역별 관광지 2단계 개발 본격 착수]]></title>
-        <id>https://v.daum.net/v/20230227164227674</id>
-        <link href="https://v.daum.net/v/20230227164227674"/>
-        <updated>2023-02-27T13:34:20.728Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
