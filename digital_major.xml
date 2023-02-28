@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-02-28T14:21:53.269Z</updated>
+    <updated>2023-02-28T15:23:03.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MWC2023]KT 대표 후보 4명 압축…구현모 "제가 관여할 수 없다"]]></title>
+        <id>https://v.daum.net/v/20230228210138225</id>
+        <link href="https://v.daum.net/v/20230228210138225"/>
+        <updated>2023-02-28T15:22:31.282Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["접는 기술 완벽구현"...삼성 겨냥한 中 폴더블폰 MWC 총공세]]></title>
         <id>https://v.daum.net/v/20230228194228991</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230228185231184"/>
         <updated>2023-02-28T11:19:09.023Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람 감정 읽고 옛추억 꺼내놓고…챗GPT가 기름 부은 'AI 진화']]></title>
-        <id>https://v.daum.net/v/20230228183105848</id>
-        <link href="https://v.daum.net/v/20230228183105848"/>
-        <updated>2023-02-28T11:19:09.024Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
