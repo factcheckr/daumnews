@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-03-01T15:24:03.021Z</updated>
+    <updated>2023-03-01T16:30:19.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴욕개장] 하락 출발 후 혼조세…국채 금리 움직임 주시]]></title>
+        <id>https://v.daum.net/v/20230302004952474</id>
+        <link href="https://v.daum.net/v/20230302004952474"/>
+        <updated>2023-03-01T16:29:07.066Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[핀란드의회 '나토조약' 가결…스웨덴에 앞서 가입할 가능성 커져]]></title>
         <id>https://v.daum.net/v/20230302000927328</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230301215201301"/>
         <updated>2023-03-01T14:19:51.555Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘못된 선로변경에 신호기도 고장…그리스 열차참사는 '겹 인재']]></title>
-        <id>https://v.daum.net/v/20230301230230878</id>
-        <link href="https://v.daum.net/v/20230301230230878"/>
-        <updated>2023-03-01T14:19:51.556Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
