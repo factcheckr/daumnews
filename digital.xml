@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-03-01T20:23:32.792Z</updated>
+    <updated>2023-03-01T21:21:31.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["사이버 스파이는 中공산당 핵심 도구, 올해도 지속"]]></title>
+        <id>https://v.daum.net/v/20230302055803061</id>
+        <link href="https://v.daum.net/v/20230302055803061"/>
+        <updated>2023-03-01T21:20:53.158Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대화 속 감정 흡수하는 자녀…‘부모는 아이 거울’ 옛말 맞네[유용하 기자의 사이언스 톡]]]></title>
         <id>https://v.daum.net/v/20230302050333546</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230302000217208"/>
         <updated>2023-03-01T15:23:15.702Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘한국판 NASA’ 우주항공청 입법예고…주식백지신탁 예외·기술료 수익 인센티브]]></title>
-        <id>https://v.daum.net/v/20230302000116167</id>
-        <link href="https://v.daum.net/v/20230302000116167"/>
-        <updated>2023-03-01T15:23:15.703Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
