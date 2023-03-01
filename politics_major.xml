@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-03-01T12:41:08.029Z</updated>
+    <updated>2023-03-01T13:34:05.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘강제동원’ 등 민감한 현안, 빠진 이유는?]]></title>
+        <id>https://v.daum.net/v/20230301211516020</id>
+        <link href="https://v.daum.net/v/20230301211516020"/>
+        <updated>2023-03-01T13:32:07.078Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수요집회와 전광훈집회…3·1절 도심의 '두 얼굴']]></title>
         <id>https://v.daum.net/v/20230301201207387</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[세계일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[박성태의 다시보기] '폭탄'은 양념이 될 수 없습니다]]></title>
+        <title type="html"><![CDATA[[박성태의 다시보기] '선'을 넘은 폭탄은…]]></title>
         <id>https://v.daum.net/v/20230301205620834</id>
         <link href="https://v.daum.net/v/20230301205620834"/>
         <updated>2023-03-01T12:39:07.310Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230301201007368"/>
         <updated>2023-03-01T12:39:07.332Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['노무현 대통령 기록물' 대리인 요청에…정부, 보류 판단]]></title>
-        <id>https://v.daum.net/v/20230301203707643</id>
-        <link href="https://v.daum.net/v/20230301203707643"/>
-        <updated>2023-03-01T12:39:07.338Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
