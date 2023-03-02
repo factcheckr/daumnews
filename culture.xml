@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-03-02T18:30:40.729Z</updated>
+    <updated>2023-03-02T19:18:35.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정명훈 지휘, 조성진 연주… 드레스덴 슈타츠카펠레 내한 공연]]></title>
+        <id>https://v.daum.net/v/20230303040436640</id>
+        <link href="https://v.daum.net/v/20230303040436640"/>
+        <updated>2023-03-02T19:17:36.257Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[레트로 조선일보 上]  돌아온 모던보이·두꺼비·포니…本紙에서 찾은 ‘옛 추억’]]></title>
         <id>https://v.daum.net/v/20230303030833546</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230303030126276"/>
         <updated>2023-03-02T18:29:41.932Z</updated>
         <content type="html"><![CDATA[경기일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘AI 전쟁’ 챗GPT와 구글 바드…차이 좀 더 깊이 설명했으면]]></title>
-        <id>https://v.daum.net/v/20230303000516751</id>
-        <link href="https://v.daum.net/v/20230303000516751"/>
-        <updated>2023-03-02T16:31:14.734Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-03-02T18:30:40.735Z</updated>
+    <updated>2023-03-02T19:18:35.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘AI 전쟁’ 챗GPT와 구글 바드…차이 좀 더 깊이 설명했으면]]></title>
+        <id>https://v.daum.net/v/20230303000516751</id>
+        <link href="https://v.daum.net/v/20230303000516751"/>
+        <updated>2023-03-02T19:17:43.921Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[독일, 총인구 17.3%가 다른나라서 출생한 거주자…자녀 합하면 23%]]></title>
         <id>https://v.daum.net/v/20230302212359361</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230302215301690"/>
         <updated>2023-03-02T15:22:48.096Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봤던 영화 또 보기 VS 새로운 것 보기, 당신의 선택은? [별별심리]]]></title>
-        <id>https://v.daum.net/v/20230302170927949</id>
-        <link href="https://v.daum.net/v/20230302170927949"/>
-        <updated>2023-03-02T15:22:48.096Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
