@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-03-02T19:18:35.005Z</updated>
+    <updated>2023-03-02T20:24:01.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['챗GPT'로 돈 버는 오픈AI·MS…'머스크' 다시 AI연구소 만드나]]></title>
+        <id>https://v.daum.net/v/20230303050015042</id>
+        <link href="https://v.daum.net/v/20230303050015042"/>
+        <updated>2023-03-02T20:23:24.148Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[후보 4명 놓고 이번엔 與 반발… 갈수록 꼬이는 KT대표 선임]]></title>
         <id>https://v.daum.net/v/20230303030818531</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230303000449702"/>
         <updated>2023-03-02T15:22:58.431Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이코인 "7억개 코인 사라진 것 아냐...백서대로 관리중"]]></title>
-        <id>https://v.daum.net/v/20230302233117400</id>
-        <link href="https://v.daum.net/v/20230302233117400"/>
-        <updated>2023-03-02T19:17:51.459Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
