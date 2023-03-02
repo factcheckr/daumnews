@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-03-02T15:23:45.725Z</updated>
+    <updated>2023-03-02T16:32:16.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘경기 하강 신호’ 제조업 재고율 외환위기 이후 최고]]></title>
+        <id>https://v.daum.net/v/20230303000656806</id>
+        <link href="https://v.daum.net/v/20230303000656806"/>
+        <updated>2023-03-02T16:30:38.895Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외국인 매수세 줄어드는데…6만전자 지킬 수 있을까]]></title>
         <id>https://v.daum.net/v/20230303000511746</id>
@@ -38,13 +45,6 @@
         <id>https://v.daum.net/v/20230303000437688</id>
         <link href="https://v.daum.net/v/20230303000437688"/>
         <updated>2023-03-02T15:21:59.647Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“극비 정보 새어나갈라”… 美반도체법 독소조항 ‘빨간불’]]></title>
-        <id>https://v.daum.net/v/20230303000426673</id>
-        <link href="https://v.daum.net/v/20230303000426673"/>
-        <updated>2023-03-02T15:21:59.648Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
