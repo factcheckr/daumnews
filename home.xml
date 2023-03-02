@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-03-02T16:32:16.383Z</updated>
+    <updated>2023-03-02T17:21:03.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플, 챗GPT 활용한 이메일 앱 거부…"17세 이상만 쓰게 하라"]]></title>
+        <id>https://v.daum.net/v/20230303020929213</id>
+        <link href="https://v.daum.net/v/20230303020929213"/>
+        <updated>2023-03-02T17:18:29.461Z</updated>
+        <content type="html"><![CDATA[IT]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[`선거법 위반` 첫 재판 앞둔 이재명, "이자폭탄 조만간 심각한 사회문제"]]></title>
+        <id>https://v.daum.net/v/20230302204127871</id>
+        <link href="https://v.daum.net/v/20230302204127871"/>
+        <updated>2023-03-02T17:18:29.463Z</updated>
+        <content type="html"><![CDATA[정치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英 전 보건장관 메시지 10만건 유출 발칵…코로나 봉쇄 또 논란]]></title>
+        <id>https://v.daum.net/v/20230303015428183</id>
+        <link href="https://v.daum.net/v/20230303015428183"/>
+        <updated>2023-03-02T17:18:29.464Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[교황 “바티칸 재정 악화”… 성직자 ‘공짜 주택’ 폐지]]></title>
         <id>https://v.daum.net/v/20230302200327448</id>
         <link href="https://v.daum.net/v/20230302200327448"/>
         <updated>2023-03-02T16:29:54.724Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴욕증시, 국채금리 주시 속에 혼조세로 출발]]></title>
-        <id>https://v.daum.net/v/20230303004228974</id>
-        <link href="https://v.daum.net/v/20230303004228974"/>
-        <updated>2023-03-02T16:29:54.729Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마타렐라 伊대통령, '난민선 참사' 시신 안치소 찾아 애도]]></title>
-        <id>https://v.daum.net/v/20230303001427865</id>
-        <link href="https://v.daum.net/v/20230303001427865"/>
-        <updated>2023-03-02T16:29:54.731Z</updated>
         <content type="html"><![CDATA[국제]]></content>
     </entry>
     <entry>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20230303000415629"/>
         <updated>2023-03-02T15:21:10.516Z</updated>
         <content type="html"><![CDATA[문화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연소탑에서 분진 쏟아져..세아베스틸 노동자 2명 중상]]></title>
-        <id>https://v.daum.net/v/20230302193231886</id>
-        <link href="https://v.daum.net/v/20230302193231886"/>
-        <updated>2023-03-02T15:21:10.516Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
     </entry>
 </feed>
