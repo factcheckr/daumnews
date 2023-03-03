@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-03-03T19:18:40.981Z</updated>
+    <updated>2023-03-03T20:23:05.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MWC23]평행선 달린 망 이용대가 논의]]></title>
+        <id>https://v.daum.net/v/20230303195703719</id>
+        <link href="https://v.daum.net/v/20230303195703719"/>
+        <updated>2023-03-03T20:22:30.692Z</updated>
+        <content type="html"><![CDATA[비즈워치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아리송한 도로 위 차선 의미 알아보기]]></title>
         <id>https://v.daum.net/v/20230303192702254</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230303175931983"/>
         <updated>2023-03-03T10:25:43.920Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령실까지 비판 나서자 KT '당혹'…새 대표 뽑기 다시 안갯속으로 가나]]></title>
-        <id>https://v.daum.net/v/20230303174843631</id>
-        <link href="https://v.daum.net/v/20230303174843631"/>
-        <updated>2023-03-03T17:23:33.437Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
