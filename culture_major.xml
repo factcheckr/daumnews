@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-03-03T10:26:22.580Z</updated>
+    <updated>2023-03-03T11:21:14.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나 전으로 돌아간 술자리...'술 마신 후 속쓰림' 위험한 이유]]></title>
+        <id>https://v.daum.net/v/20230303175830947</id>
+        <link href="https://v.daum.net/v/20230303175830947"/>
+        <updated>2023-03-03T11:20:13.300Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외과 등 필수 7과목 ‘30대 이하 전문의’ 비율 18.5% 뿐]]></title>
         <id>https://v.daum.net/v/20230303115128478</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230303164620729"/>
         <updated>2023-03-03T10:25:24.330Z</updated>
         <content type="html"><![CDATA[농민신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['북촌·남산길 따라 도서관 찾는 여행']]></title>
-        <id>https://v.daum.net/v/20230303115742721</id>
-        <link href="https://v.daum.net/v/20230303115742721"/>
-        <updated>2023-03-03T08:26:33.810Z</updated>
-        <content type="html"><![CDATA[투어코리아]]></content>
     </entry>
 </feed>
