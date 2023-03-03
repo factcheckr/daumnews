@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-03-03T13:31:30.607Z</updated>
+    <updated>2023-03-03T14:20:55.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하루에 ‘이 만큼’ 더 걸으면 심장병 위험 ‘뚝’]]></title>
+        <id>https://v.daum.net/v/20230303200016793</id>
+        <link href="https://v.daum.net/v/20230303200016793"/>
+        <updated>2023-03-03T14:20:01.794Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[165m 한강 대관람차 '서울링' 상암동에 생긴다]]></title>
         <id>https://v.daum.net/v/20230303194219499</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230303154003871"/>
         <updated>2023-03-03T13:30:37.923Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천주평화연합 일본여성들 3·1절 맞아 유관순 기념관서 “대한통일만세”]]></title>
-        <id>https://v.daum.net/v/20230303160628603</id>
-        <link href="https://v.daum.net/v/20230303160628603"/>
-        <updated>2023-03-03T13:30:37.925Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-03-03T13:31:30.592Z</updated>
+    <updated>2023-03-03T14:20:55.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘 과학] 이모티콘으로 하는 감정표현이 행복감 키워]]></title>
+        <id>https://v.daum.net/v/20230303170015149</id>
+        <link href="https://v.daum.net/v/20230303170015149"/>
+        <updated>2023-03-03T14:20:10.505Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양자컴은 먼미래? "앞으로 3년 본다"]]></title>
         <id>https://v.daum.net/v/20230303173600246</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230303192702254"/>
         <updated>2023-03-03T11:20:24.063Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“3년동안 번 돈이 0원” 신사업 각광받던 ‘약배달’ 어쩌나]]></title>
-        <id>https://v.daum.net/v/20230303195113634</id>
-        <link href="https://v.daum.net/v/20230303195113634"/>
-        <updated>2023-03-03T11:20:24.065Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
