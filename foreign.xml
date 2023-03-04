@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-03-04T13:25:24.832Z</updated>
+    <updated>2023-03-04T14:19:26.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국 "2월 24일부터 1주간 코로나 병원내 사망자 0명"]]></title>
+        <id>https://v.daum.net/v/20230304221727467</id>
+        <link href="https://v.daum.net/v/20230304221727467"/>
+        <updated>2023-03-04T14:17:58.207Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이란 찾은 IAEA 총장 "중요한 합의 위한 건설적 논의"]]></title>
         <id>https://v.daum.net/v/20230304215528320</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230304212228138"/>
         <updated>2023-03-04T12:35:13.282Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“한국 해법 내면 일 총리가 식민지배 반성 담화 계승 표명”]]></title>
-        <id>https://v.daum.net/v/20230304210911066</id>
-        <link href="https://v.daum.net/v/20230304210911066"/>
-        <updated>2023-03-04T12:35:13.284Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
