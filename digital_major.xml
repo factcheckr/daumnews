@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-03-04T07:20:29.605Z</updated>
+    <updated>2023-03-04T08:26:01.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10대 정신건강 망쳐서? 中 틱톡은 왜 전 세계서 퇴출되나]]></title>
+        <id>https://v.daum.net/v/20230304000712479</id>
+        <link href="https://v.daum.net/v/20230304000712479"/>
+        <updated>2023-03-04T08:25:21.708Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국에서 지원금 받는 한국기업들...삼성전자·하이닉스의 외로운 싸움 [MK위클리반도체]]]></title>
         <id>https://v.daum.net/v/20230304110300863</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230304100138198"/>
         <updated>2023-03-04T01:39:43.997Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MWC가 남긴 것 ③]韓이 쏘아올린 '망값' 논쟁…글로벌 공론화]]></title>
-        <id>https://v.daum.net/v/20230304100022143</id>
-        <link href="https://v.daum.net/v/20230304100022143"/>
-        <updated>2023-03-04T01:39:44.005Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
