@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-03-05T15:21:14.940Z</updated>
+    <updated>2023-03-05T16:27:08.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://v.daum.net/v/20230305215338092"/>
         <updated>2023-03-05T15:19:43.073Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[울산 주택 평균매매가 3억 원 붕괴…월세는 강세]]></title>
+        <id>https://v.daum.net/v/20230305214025001</id>
+        <link href="https://v.daum.net/v/20230305214025001"/>
+        <updated>2023-03-05T16:25:49.393Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8년째 방치된 ‘대전선’ 철로…폐선 검토로 생활권 단절 개선되나]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230305205139673"/>
         <updated>2023-03-05T13:23:49.904Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국산차 제로백 1위… 야심찼던 ‘스팅어’의 마지막 여정]]></title>
-        <id>https://v.daum.net/v/20230305204828652</id>
-        <link href="https://v.daum.net/v/20230305204828652"/>
-        <updated>2023-03-05T13:23:49.906Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-03-05T15:21:14.955Z</updated>
+    <updated>2023-03-05T16:27:08.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[취재석] '대립'을 부르는 '개딸'과 이재명의 '실용 정치']]></title>
+        <id>https://v.daum.net/v/20230306000004592</id>
+        <link href="https://v.daum.net/v/20230306000004592"/>
+        <updated>2023-03-05T16:25:25.452Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부, 오늘 '강제징용' 해법 발표...'제3자 변제' 방식]]></title>
         <id>https://v.daum.net/v/20230306000602724</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230305215814136"/>
         <updated>2023-03-05T15:19:14.895Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北, 韓·美 훈련 겨냥 “얼마든지 대응” 위협]]></title>
-        <id>https://v.daum.net/v/20230305191731877</id>
-        <link href="https://v.daum.net/v/20230305191731877"/>
-        <updated>2023-03-05T13:23:26.671Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
