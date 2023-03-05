@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-03-05T17:18:47.511Z</updated>
+    <updated>2023-03-05T18:27:32.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -32,13 +32,6 @@
         <link href="https://v.daum.net/v/20230305185827739"/>
         <updated>2023-03-05T13:24:36.693Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그저 그런 기술론 생존 못해…삼성·SK '초격차 기술 방패' 준비중]]></title>
-        <id>https://v.daum.net/v/20230305181004117</id>
-        <link href="https://v.daum.net/v/20230305181004117"/>
-        <updated>2023-03-05T13:24:36.695Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“AI에 죄 고백하고 기도”···가톨릭성인 챗봇 등장]]></title>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230305214626043"/>
         <updated>2023-03-05T16:26:36.076Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메타, ‘라마(LLaMA)’로 AI 개발 경쟁 가세]]></title>
+        <id>https://v.daum.net/v/20230305100121884</id>
+        <link href="https://v.daum.net/v/20230305100121884"/>
+        <updated>2023-03-05T18:26:59.309Z</updated>
+        <content type="html"><![CDATA[주간동아]]></content>
     </entry>
 </feed>
