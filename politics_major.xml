@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-03-05T18:27:32.803Z</updated>
+    <updated>2023-03-05T19:17:42.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://v.daum.net/v/20230306030052038"/>
         <updated>2023-03-05T18:25:47.642Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 간 김성한, 한일관계 정상화 尹의지 설명할 듯]]></title>
+        <id>https://v.daum.net/v/20230306030347184</id>
+        <link href="https://v.daum.net/v/20230306030347184"/>
+        <updated>2023-03-05T19:15:56.043Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['방미' 김성한 안보실장 "한미정상회담 시기·수준·단계 등 협의"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230306000004592"/>
         <updated>2023-03-05T18:25:47.647Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부, 오늘 '강제징용' 해법 발표...'제3자 변제' 방식]]></title>
-        <id>https://v.daum.net/v/20230306000602724</id>
-        <link href="https://v.daum.net/v/20230306000602724"/>
-        <updated>2023-03-05T18:25:47.649Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>

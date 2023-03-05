@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-03-05T18:27:32.816Z</updated>
+    <updated>2023-03-05T19:17:42.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://v.daum.net/v/20230306030128061"/>
         <updated>2023-03-05T18:26:23.641Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['한국 사위' 호건 전 주지사 "대선 도전 안 할 것"]]></title>
+        <id>https://v.daum.net/v/20230306003949853</id>
+        <link href="https://v.daum.net/v/20230306003949853"/>
+        <updated>2023-03-05T19:16:30.064Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“美, 우크라 파일럿 F-16 훈련 소요기간 테스트”…전투기 지원 본격 검토?]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230305223827322"/>
         <updated>2023-03-05T16:26:04.876Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['먹튀 의혹' 스티븐 리 전 론스타코리아 지사장, 미국 뉴저지서 체포]]></title>
-        <id>https://v.daum.net/v/20230305230108417</id>
-        <link href="https://v.daum.net/v/20230305230108417"/>
-        <updated>2023-03-05T16:26:04.877Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
