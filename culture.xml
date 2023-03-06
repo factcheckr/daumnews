@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-03-06T14:21:35.351Z</updated>
+    <updated>2023-03-06T16:29:49.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비슷한데 무엇이 다를까… 청자 제작 비밀 공개]]></title>
+        <id>https://v.daum.net/v/20230307001231088</id>
+        <link href="https://v.daum.net/v/20230307001231088"/>
+        <updated>2023-03-06T16:28:39.937Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뒤숭숭한 꿈자리… 건강 ‘적신호’일 수 있어요]]></title>
+        <id>https://v.daum.net/v/20230307000115962</id>
+        <link href="https://v.daum.net/v/20230307000115962"/>
+        <updated>2023-03-06T16:28:39.938Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한 그릇 만원 넘는 냉면, 건강에는…]]></title>
         <id>https://v.daum.net/v/20230306230016628</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230306210726737"/>
         <updated>2023-03-06T12:40:47.462Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20~40대 간경변, '이 백신' 꼭!... 입원 위험 '뚝']]></title>
-        <id>https://v.daum.net/v/20230306160532967</id>
-        <link href="https://v.daum.net/v/20230306160532967"/>
-        <updated>2023-03-06T13:30:08.916Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[간염과 간암, 전염-유전될까? 간 지키는 법은?]]></title>
-        <id>https://v.daum.net/v/20230306140014334</id>
-        <link href="https://v.daum.net/v/20230306140014334"/>
-        <updated>2023-03-06T13:30:08.918Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
