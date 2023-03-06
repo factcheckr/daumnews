@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-03-06T16:29:49.128Z</updated>
+    <updated>2023-03-06T17:21:03.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이란 "세계 두 번째 리튬 매장지 발견"]]></title>
+        <id>https://v.daum.net/v/20230307014145458</id>
+        <link href="https://v.daum.net/v/20230307014145458"/>
+        <updated>2023-03-06T17:19:36.770Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[화요 명차]5000만원대 ‘라브4’… 작정하고 연비주행 해보니]]></title>
         <id>https://v.daum.net/v/20230307010008264</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230307000128967"/>
         <updated>2023-03-06T16:28:01.044Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융권 주총 시즌 다가온다…관전 포인트는]]></title>
-        <id>https://v.daum.net/v/20230307000004915</id>
-        <link href="https://v.daum.net/v/20230307000004915"/>
-        <updated>2023-03-06T16:28:01.045Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
