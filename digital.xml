@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-03-06T13:31:11.231Z</updated>
+    <updated>2023-03-06T14:21:35.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“의자 값만 3백만원” 집에 차린 초호화 PC방, 이 정도야?]]></title>
-        <id>https://v.daum.net/v/20230306185116699</id>
-        <link href="https://v.daum.net/v/20230306185116699"/>
-        <updated>2023-03-06T12:41:05.440Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[클레이튼 “디플레이션 목표”…방향성은 명확하나 전술은 글쎄]]></title>
         <id>https://v.daum.net/v/20230306151103526</id>
         <link href="https://v.daum.net/v/20230306151103526"/>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20230306200300905"/>
         <updated>2023-03-06T11:20:30.324Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中 “과학기술, 경제 성장에 기여”...올해도 R&D 예산 증액]]></title>
+        <id>https://v.daum.net/v/20230306193956560</id>
+        <link href="https://v.daum.net/v/20230306193956560"/>
+        <updated>2023-03-06T14:20:48.706Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
