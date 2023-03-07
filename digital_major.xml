@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-03-07T13:33:07.102Z</updated>
+    <updated>2023-03-07T15:25:09.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KT, 대표인선 논란속 '디지코 계승자' 윤경림 카드 강행]]></title>
+        <id>https://v.daum.net/v/20230307200827272</id>
+        <link href="https://v.daum.net/v/20230307200827272"/>
+        <updated>2023-03-07T15:24:34.214Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[거래소 바이오 공시 개정안… '애매한' 공시 사라질까]]></title>
         <id>https://v.daum.net/v/20230307193017572</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230307180226774"/>
         <updated>2023-03-07T10:24:01.718Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화성에서 보는 해질녘…큐리오시티, 화성에서 첫 햇빛 관측]]></title>
-        <id>https://v.daum.net/v/20230307180019709</id>
-        <link href="https://v.daum.net/v/20230307180019709"/>
-        <updated>2023-03-07T10:24:01.720Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
