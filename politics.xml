@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-03-07T16:31:11.819Z</updated>
+    <updated>2023-03-07T17:21:10.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[尹대통령, 4월26일 미국간다...MB 이후 12년만에 국빈방문]]></title>
+        <id>https://v.daum.net/v/20230307235059446</id>
+        <link href="https://v.daum.net/v/20230307235059446"/>
+        <updated>2023-03-07T17:19:07.986Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹대통령 4월 말 미국 간다…MB 이후 12년 만 국빈방문]]></title>
         <id>https://v.daum.net/v/20230307234426393</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230308000031536"/>
         <updated>2023-03-07T15:23:03.384Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백악관 “尹대통령, 4월 26일 미국 국빈방문”]]></title>
-        <id>https://v.daum.net/v/20230307232927275</id>
-        <link href="https://v.daum.net/v/20230307232927275"/>
-        <updated>2023-03-07T15:23:03.384Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
