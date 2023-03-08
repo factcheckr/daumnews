@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-03-08T11:23:02.132Z</updated>
+    <updated>2023-03-08T12:40:37.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[페이코인, 은행 실명계좌 받을 수 있을까…FIU 입이 '변수']]></title>
+        <id>https://v.daum.net/v/20230308185526383</id>
+        <link href="https://v.daum.net/v/20230308185526383"/>
+        <updated>2023-03-08T12:40:01.854Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기획] KT 대표 뽑는데 `메신저`가 사라졌다]]></title>
         <id>https://v.daum.net/v/20230308184515153</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230308160332795"/>
         <updated>2023-03-08T10:25:26.493Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['천만 갤럭시Z' 달성한 삼성… 中 폴더블폰 참전에도 여유]]></title>
-        <id>https://v.daum.net/v/20230308175707368</id>
-        <link href="https://v.daum.net/v/20230308175707368"/>
-        <updated>2023-03-08T10:25:26.494Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
