@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-03-08T04:28:45.237Z</updated>
+    <updated>2023-03-08T05:24:40.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“정말 수고했어” 튀르키예 구조견 안아준 김건희 여사]]></title>
+        <id>https://v.daum.net/v/20230308092230411</id>
+        <link href="https://v.daum.net/v/20230308092230411"/>
+        <updated>2023-03-08T05:23:43.473Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신카이 마코토 “문은 일상의 회복을 의미, ‘도깨비’에서 따와”]]></title>
         <id>https://v.daum.net/v/20230308125227814</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230308112510314"/>
         <updated>2023-03-08T02:58:46.194Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“중요한 건 배울 용기...레벨 깨며 한글에 한걸음 한걸음” [헬로 한글]]]></title>
-        <id>https://v.daum.net/v/20230308112426278</id>
-        <link href="https://v.daum.net/v/20230308112426278"/>
-        <updated>2023-03-08T02:58:46.195Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
