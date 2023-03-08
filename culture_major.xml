@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-03-08T10:26:02.367Z</updated>
+    <updated>2023-03-08T11:23:02.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘더 글로리’ 하도영이 만든 바둑공원 어디? 다음달부터 시민 공개]]></title>
+        <id>https://v.daum.net/v/20230308180805937</id>
+        <link href="https://v.daum.net/v/20230308180805937"/>
+        <updated>2023-03-08T11:22:00.502Z</updated>
+        <content type="html"><![CDATA[농민신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어서 와~! 오랜만이라 더 반가운 '구례산수유꽃축제'로!]]></title>
         <id>https://v.daum.net/v/20230308120654098</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230308162413769"/>
         <updated>2023-03-08T10:25:07.549Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘스즈메의 문단속’ 신카이 감독 “드라마 도깨비에서 힌트 얻었다”]]></title>
-        <id>https://v.daum.net/v/20230308162003574</id>
-        <link href="https://v.daum.net/v/20230308162003574"/>
-        <updated>2023-03-08T10:25:07.554Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
