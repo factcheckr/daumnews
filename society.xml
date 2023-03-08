@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메인뉴스</title>
-    <updated>2023-03-08T18:27:27.496Z</updated>
+    <updated>2023-03-08T19:18:45.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“헬스트레이너도 근로자, 퇴직금 지급해야”… 대법, 첫 판결]]></title>
+        <id>https://v.daum.net/v/20230309040730117</id>
+        <link href="https://v.daum.net/v/20230309040730117"/>
+        <updated>2023-03-08T19:16:21.973Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 법무부 '인권보호 사각지대' 교정기관 특사경 손본다]]></title>
+        <id>https://v.daum.net/v/20230309040009064</id>
+        <link href="https://v.daum.net/v/20230309040009064"/>
+        <updated>2023-03-08T19:16:21.973Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[충남 보부상 ‘공문제’ 음악 복원의 길 열렸다]]></title>
         <id>https://v.daum.net/v/20230309030620992</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230309030218823"/>
         <updated>2023-03-08T18:25:13.659Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘 쓰면 득, 잘못 쓰면 독… AI 윤리기준-한계 함께 가르쳐주세요]]></title>
-        <id>https://v.daum.net/v/20230309030211820</id>
-        <link href="https://v.daum.net/v/20230309030211820"/>
-        <updated>2023-03-08T18:25:13.659Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[울진 산불 1년… 아직도 탄 나무 벌채중]]></title>
-        <id>https://v.daum.net/v/20230309030044746</id>
-        <link href="https://v.daum.net/v/20230309030044746"/>
-        <updated>2023-03-08T18:25:13.660Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>

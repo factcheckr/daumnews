@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-03-08T18:27:27.420Z</updated>
+    <updated>2023-03-08T19:18:45.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“짐이 곧 환자다”… 72년간 재위한 임금을 괴롭힌 통풍]]></title>
-        <id>https://v.daum.net/v/20230309030215821</id>
-        <link href="https://v.daum.net/v/20230309030215821"/>
-        <updated>2023-03-08T18:26:27.063Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['최하영 배출' 퀸엘리자베스콩쿠르 본선 韓 18명…단일국가 최다]]></title>
         <id>https://v.daum.net/v/20230309022354711</id>
         <link href="https://v.daum.net/v/20230309022354711"/>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20230309000116927"/>
         <updated>2023-03-08T15:22:45.744Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘기억의 수호자’ 건축계 노벨상 받다]]></title>
+        <id>https://v.daum.net/v/20230309000240982</id>
+        <link href="https://v.daum.net/v/20230309000240982"/>
+        <updated>2023-03-08T19:17:41.530Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>

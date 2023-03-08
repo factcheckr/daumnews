@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-03-08T18:27:27.515Z</updated>
+    <updated>2023-03-08T19:18:45.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[‘기억의 수호자’ 건축계 노벨상 받다]]></title>
-        <id>https://v.daum.net/v/20230309000240982</id>
-        <link href="https://v.daum.net/v/20230309000240982"/>
-        <updated>2023-03-08T18:26:36.459Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[조루, 일주일에 ‘이 만큼’ 운동하면 약 먹은 것만큼 효과]]></title>
         <id>https://v.daum.net/v/20230308230015395</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230308190055510"/>
         <updated>2023-03-08T12:39:44.518Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["아르바이트 하느라 시간 없다"…꿈 포기하는 유망주들]]></title>
+        <id>https://v.daum.net/v/20230308185301329</id>
+        <link href="https://v.daum.net/v/20230308185301329"/>
+        <updated>2023-03-08T19:17:51.157Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
