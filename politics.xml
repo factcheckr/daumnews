@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-03-09T15:24:35.377Z</updated>
+    <updated>2023-03-09T16:30:44.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[與 전대 전문가 리뷰...안철수의 '자충수'와 천하람의 '승부수']]></title>
+        <id>https://v.daum.net/v/20230310000028275</id>
+        <link href="https://v.daum.net/v/20230310000028275"/>
+        <updated>2023-03-09T16:28:37.844Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘尹 당선’ 1주년… ‘3대 개혁’엔 성과, 인사문제는 부담]]></title>
         <id>https://v.daum.net/v/20230310000613392</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230309230326865"/>
         <updated>2023-03-09T15:22:30.252Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대선 1주년' 尹 vs 李, '0.73%' 차이가 만든 천양지차]]></title>
-        <id>https://v.daum.net/v/20230310000023271</id>
-        <link href="https://v.daum.net/v/20230310000023271"/>
-        <updated>2023-03-09T15:22:30.254Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
