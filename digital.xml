@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-03-09T19:22:33.537Z</updated>
+    <updated>2023-03-09T20:27:15.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KT 소액주주 대표 "500만 주 모아 정치권 외압 막을 것"...새 대표 선임 논란에 개미들 나선다]]></title>
+        <id>https://v.daum.net/v/20230310043022370</id>
+        <link href="https://v.daum.net/v/20230310043022370"/>
+        <updated>2023-03-09T20:26:20.744Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[르포]화면 바뀔 때마다 '탄성'…삼성 OLED 10년 만의 귀환]]></title>
         <id>https://v.daum.net/v/20230310040726288</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230310030138935"/>
         <updated>2023-03-09T19:21:49.795Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“155만→80만원, ‘떨이’도 안 팔렸다?” 삼성 최고폰, 어쩌다]]></title>
-        <id>https://v.daum.net/v/20230309185122613</id>
-        <link href="https://v.daum.net/v/20230309185122613"/>
-        <updated>2023-03-09T15:23:47.607Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
