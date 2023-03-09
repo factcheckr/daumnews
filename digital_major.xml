@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-03-09T03:33:36.140Z</updated>
+    <updated>2023-03-09T04:28:37.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["20.5℃ 상온 초전도 물질 개발…초전도시대 현실화"]]></title>
+        <id>https://v.daum.net/v/20230309111439317</id>
+        <link href="https://v.daum.net/v/20230309111439317"/>
+        <updated>2023-03-09T04:28:01.551Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이필수 의협회장 “의대쏠림, 의사과학자 처우 개선이 답”]]></title>
         <id>https://v.daum.net/v/20230309110715947</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230309083004847"/>
         <updated>2023-03-09T01:51:11.032Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허블의 100배…제임스웹 이을 '차세대 망원경' 10억개 은하가 보인다[우주다방]]]></title>
-        <id>https://v.daum.net/v/20230309082826801</id>
-        <link href="https://v.daum.net/v/20230309082826801"/>
-        <updated>2023-03-09T01:51:11.033Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
