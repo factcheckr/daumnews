@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-03-09T16:30:44.443Z</updated>
+    <updated>2023-03-09T17:21:33.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[버시바우 "韓 자체 핵무장은 판도라의 상자…핵기획 협력 제도화 진전 기대"]]></title>
+        <id>https://v.daum.net/v/20230310020027846</id>
+        <link href="https://v.daum.net/v/20230310020027846"/>
+        <updated>2023-03-09T17:19:25.070Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與 전대 전문가 리뷰...안철수의 '자충수'와 천하람의 '승부수']]></title>
         <id>https://v.daum.net/v/20230310000028275</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230310000947423"/>
         <updated>2023-03-09T15:22:30.251Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 전 비서실장 숨진 채 발견…주변인 5번째 죽음]]></title>
-        <id>https://v.daum.net/v/20230309230326865</id>
-        <link href="https://v.daum.net/v/20230309230326865"/>
-        <updated>2023-03-09T15:22:30.252Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
