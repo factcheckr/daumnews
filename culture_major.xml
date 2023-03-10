@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-03-10T18:26:24.409Z</updated>
+    <updated>2023-03-10T19:22:01.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘작가의 일상을 공유하세요’...청주시립미술관, 오픈스튜디오 전시]]></title>
+        <id>https://v.daum.net/v/20230311002613559</id>
+        <link href="https://v.daum.net/v/20230311002613559"/>
+        <updated>2023-03-10T19:21:06.817Z</updated>
+        <content type="html"><![CDATA[CJB청주방송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“날 잊지마오” 가시덤불 ‘감옥’ 8년 갇혔다…그림에 펑펑 울었다[이원율의 후암동 미술관-추사 김정희 편]]]></title>
         <id>https://v.daum.net/v/20230311002618560</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230310220017131"/>
         <updated>2023-03-10T15:25:10.341Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봄 향기 물씬…4년 만에 봄꽃축제 ‘설렘’]]></title>
-        <id>https://v.daum.net/v/20230310220123143</id>
-        <link href="https://v.daum.net/v/20230310220123143"/>
-        <updated>2023-03-10T15:25:10.343Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
