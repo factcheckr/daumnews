@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-03-10T12:40:15.927Z</updated>
+    <updated>2023-03-10T13:31:25.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[후쿠시마 원전사고 12주년…부산의 방사선 감시 체계는?]]></title>
+        <id>https://v.daum.net/v/20230310214822974</id>
+        <link href="https://v.daum.net/v/20230310214822974"/>
+        <updated>2023-03-10T13:30:45.754Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플, 500만 트랙 담은 ‘뮤직 클래식’ 공개···한국은 제외]]></title>
         <id>https://v.daum.net/v/20230310200001056</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230310181527072"/>
         <updated>2023-03-10T10:24:57.180Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[격랑 속 KT, 이사회 구성 차질]]></title>
-        <id>https://v.daum.net/v/20230310175003461</id>
-        <link href="https://v.daum.net/v/20230310175003461"/>
-        <updated>2023-03-10T12:39:31.439Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>
