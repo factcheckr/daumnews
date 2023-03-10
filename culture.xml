@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-03-10T10:25:47.219Z</updated>
+    <updated>2023-03-10T11:23:28.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[출산율의 저주, 55년생 엄마들은 이렇게 생각한다]]></title>
+        <id>https://v.daum.net/v/20230310155704431</id>
+        <link href="https://v.daum.net/v/20230310155704431"/>
+        <updated>2023-03-10T11:22:25.860Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산 삼광사 대조사전 낙성... 구인사 이어 국내 두 번째]]></title>
         <id>https://v.daum.net/v/20230310181822134</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230310181208006"/>
         <updated>2023-03-10T10:24:36.646Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이사장 "이젠 세계 어디서나 아바타로 한국어 배울 수 있죠"]]></title>
-        <id>https://v.daum.net/v/20230310175702631</id>
-        <link href="https://v.daum.net/v/20230310175702631"/>
-        <updated>2023-03-10T10:24:36.647Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
