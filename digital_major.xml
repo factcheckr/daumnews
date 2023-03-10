@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-03-10T11:23:28.849Z</updated>
+    <updated>2023-03-10T12:40:15.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[격랑 속 KT, 이사회 구성 차질]]></title>
-        <id>https://v.daum.net/v/20230310175003461</id>
-        <link href="https://v.daum.net/v/20230310175003461"/>
-        <updated>2023-03-10T11:22:54.384Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[LG "이미 권리행사 기간 지나…경영권 흔들기 용인 안돼"]]></title>
         <id>https://v.daum.net/v/20230310173307999</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230310152653349"/>
         <updated>2023-03-10T10:25:07.026Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[은행도 게임사도 '러브콜'…'쿠버네티스'가 대체 뭐길래]]></title>
+        <id>https://v.daum.net/v/20230310152102139</id>
+        <link href="https://v.daum.net/v/20230310152102139"/>
+        <updated>2023-03-10T12:39:40.947Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
