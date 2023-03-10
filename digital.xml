@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-03-10T17:20:34.673Z</updated>
+    <updated>2023-03-10T18:26:24.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주총 열리기 전부터 꼬이는 ‘KT 윤경림호’]]></title>
+        <id>https://v.daum.net/v/20230311030209013</id>
+        <link href="https://v.daum.net/v/20230311030209013"/>
+        <updated>2023-03-10T18:25:46.253Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[후쿠시마 원전사고 12주년…부산의 방사선 감시 체계는?]]></title>
         <id>https://v.daum.net/v/20230310214822974</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230310175003461"/>
         <updated>2023-03-10T14:22:37.458Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["비디오 만들어주는 챗GPT? 다음주 더 강력한 GPT-4 나온다"]]></title>
-        <id>https://v.daum.net/v/20230310173227977</id>
-        <link href="https://v.daum.net/v/20230310173227977"/>
-        <updated>2023-03-10T14:22:37.458Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>

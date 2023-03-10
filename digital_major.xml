@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-03-10T17:20:34.674Z</updated>
+    <updated>2023-03-10T18:26:24.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230310173307999"/>
         <updated>2023-03-10T10:25:07.007Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["비디오 만들어주는 챗GPT? 다음주 더 강력한 GPT-4 나온다"]]></title>
+        <id>https://v.daum.net/v/20230310173227977</id>
+        <link href="https://v.daum.net/v/20230310173227977"/>
+        <updated>2023-03-10T18:25:54.493Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[멀티플랫폼 시대, AAA급 게임의 기본 요건은 최적화]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230310152102139"/>
         <updated>2023-03-10T14:22:45.943Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지배구조 지적받은 KT…개선 의지 보이려 안간힘]]></title>
-        <id>https://v.daum.net/v/20230310151258906</id>
-        <link href="https://v.daum.net/v/20230310151258906"/>
-        <updated>2023-03-10T14:22:45.944Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
