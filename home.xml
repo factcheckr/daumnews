@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-03-11T19:16:38.777Z</updated>
+    <updated>2023-03-11T20:21:09.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[프랑스 연금개혁 반대 7차 시위…파리 길거리는 쓰레기 '무덤']]></title>
-        <id>https://v.daum.net/v/20230312040330928</id>
-        <link href="https://v.daum.net/v/20230312040330928"/>
-        <updated>2023-03-11T19:14:31.260Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[스테이블 코인 USDC, SVB에 돈 묶여…장중 0.9달러 하회]]></title>
         <id>https://v.daum.net/v/20230312031604886</id>
@@ -144,5 +137,12 @@
         <link href="https://v.daum.net/v/20230311221126788"/>
         <updated>2023-03-11T14:15:51.727Z</updated>
         <content type="html"><![CDATA[정치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이란-사우디 관계복원에 중동 아랍국 환영…이스라엘은 '떨떠름']]></title>
+        <id>https://v.daum.net/v/20230311225731065</id>
+        <link href="https://v.daum.net/v/20230311225731065"/>
+        <updated>2023-03-11T20:18:56.058Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
     </entry>
 </feed>
