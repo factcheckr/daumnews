@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-03-11T05:19:06.977Z</updated>
+    <updated>2023-03-11T06:25:01.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[외풍에 흔들리는 KT…“취임 1년차는 매수 피하라?”]]></title>
+        <id>https://v.daum.net/v/20230311150326520</id>
+        <link href="https://v.daum.net/v/20230311150326520"/>
+        <updated>2023-03-11T06:24:18.376Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스에 맞선 프랑스 방송3사 OTT는 왜 실패했나]]></title>
         <id>https://v.daum.net/v/20230311133504671</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230311110148493"/>
         <updated>2023-03-11T02:39:31.290Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[애플 쇼크웨이브]⑤이스라엘 보면 애플의 현재 보인다]]></title>
-        <id>https://v.daum.net/v/20230311105027345</id>
-        <link href="https://v.daum.net/v/20230311105027345"/>
-        <updated>2023-03-11T02:39:31.291Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
