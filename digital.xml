@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-03-11T03:25:37.715Z</updated>
+    <updated>2023-03-11T04:25:45.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사이드 스토리]인공지능 장착한 '빙', 챗GPT와 다른 것]]></title>
+        <id>https://v.daum.net/v/20230311130003473</id>
+        <link href="https://v.daum.net/v/20230311130003473"/>
+        <updated>2023-03-11T04:24:53.698Z</updated>
+        <content type="html"><![CDATA[비즈워치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“벌레 묻었나" “징그럽다”···삼성 ‘민트초코’ 놓고 설왕설래]]></title>
         <id>https://v.daum.net/v/20230311094027564</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230311102710130"/>
         <updated>2023-03-11T02:39:31.292Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미세먼지, 화학기술로 없앤다! [우리가 몰랐던 과학 이야기] (285)]]></title>
-        <id>https://v.daum.net/v/20230311100335897</id>
-        <link href="https://v.daum.net/v/20230311100335897"/>
-        <updated>2023-03-11T02:39:31.292Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
