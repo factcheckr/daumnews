@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-03-11T12:35:25.564Z</updated>
+    <updated>2023-03-11T13:27:25.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노랗게 물든 남도의 봄…구례 산수유꽃축제 11일 개막[정동길 옆 사진관]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/661278/fIVuaHJGhv</id>
+        <link href="https://gallery.v.daum.net/p/viewer/661278/fIVuaHJGhv"/>
+        <updated>2023-03-11T13:27:00.712Z</updated>
+        <content type="html"><![CDATA[정동길 옆 사진관]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[물 채우는 소방 헬기]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1518/Ga8ooYeWue</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5032452/fHrpQfhV1a"/>
         <updated>2023-03-10T20:22:54.479Z</updated>
         <content type="html"><![CDATA[오늘의 1면 사진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[붕세권]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/212305/GjzZYSPliX</id>
-        <link href="https://gallery.v.daum.net/p/viewer/212305/GjzZYSPliX"/>
-        <updated>2023-03-10T19:21:34.849Z</updated>
-        <content type="html"><![CDATA[포토 카페]]></content>
     </entry>
 </feed>
