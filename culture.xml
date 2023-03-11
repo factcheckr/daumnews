@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-03-11T15:20:33.817Z</updated>
+    <updated>2023-03-11T16:25:56.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아름답고 유쾌하게 재탄생한 성경 속 사랑 뮤지컬 ‘루쓰’]]></title>
+        <id>https://v.daum.net/v/20230311235701361</id>
+        <link href="https://v.daum.net/v/20230311235701361"/>
+        <updated>2023-03-11T16:24:48.054Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SNS, 15분만 줄이자 결심했을 뿐인데… 몸에 이런 변화가?]]></title>
         <id>https://v.daum.net/v/20230311230016078</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230311215547716"/>
         <updated>2023-03-11T13:26:29.124Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포장된 길만 걷는다고?…50살 이후 몸 망치는 운동습관 5]]></title>
-        <id>https://v.daum.net/v/20230311215104694</id>
-        <link href="https://v.daum.net/v/20230311215104694"/>
-        <updated>2023-03-11T13:26:29.126Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
