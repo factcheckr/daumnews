@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-03-12T02:54:59.873Z</updated>
+    <updated>2023-03-12T03:22:53.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[급성심장정지 연간 3만3천여명…심폐소생술 시행률 28.8% 그쳐]]></title>
+        <id>https://v.daum.net/v/20230312120045775</id>
+        <link href="https://v.daum.net/v/20230312120045775"/>
+        <updated>2023-03-12T03:21:55.170Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[곤돌라 타고 수상 산책하고…오세훈표 '한강 르네상스' 부활]]></title>
         <id>https://v.daum.net/v/20230312110028765</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230312103907411"/>
         <updated>2023-03-12T02:53:51.457Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박진영의 사회심리학] 타인의 시선에서 생각하기 능력의 중요성]]></title>
-        <id>https://v.daum.net/v/20230312103715385</id>
-        <link href="https://v.daum.net/v/20230312103715385"/>
-        <updated>2023-03-12T01:43:09.130Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>

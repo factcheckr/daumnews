@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-03-12T02:54:59.893Z</updated>
+    <updated>2023-03-12T03:22:53.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봄비 산책]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1783949/6SNdsxWQzR</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1783949/6SNdsxWQzR"/>
+        <updated>2023-03-12T03:22:28.658Z</updated>
+        <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손승현 본부장, 튀르키예 지진 구호품 운송 지원 협의]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5735752/XG7R7C4IUF</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5735752/XG7R7C4IUF"/>
+        <updated>2023-03-12T03:22:28.658Z</updated>
+        <content type="html"><![CDATA[튀르키예 대지진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바이든, 'SVB 붕괴'에 캘리포니아 주지사와 대응 논의]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1476/ft96OMYxmW</id>
         <link href="https://gallery.v.daum.net/p/viewer/1476/ft96OMYxmW"/>
         <updated>2023-03-12T02:54:29.565Z</updated>
         <content type="html"><![CDATA[미국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개나리 위로 내린 봄비]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1783949/x5oruIfOKo</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1783949/x5oruIfOKo"/>
-        <updated>2023-03-12T02:54:29.567Z</updated>
-        <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[물뿌리는 산불진화헬기]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/344179/2gQBwWRysP"/>
         <updated>2023-03-11T05:18:41.114Z</updated>
         <content type="html"><![CDATA[청계천 옆 사진관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['호텔 티어'가 뭐라고…'공기 숙박'에 '해외 원정 숙박'까지]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/144832/f9FhuXiH3H</id>
-        <link href="https://gallery.v.daum.net/p/viewer/144832/f9FhuXiH3H"/>
-        <updated>2023-03-11T02:39:48.937Z</updated>
-        <content type="html"><![CDATA[길따라 멋따라]]></content>
     </entry>
 </feed>
