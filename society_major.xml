@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2023-03-12T15:21:44.756Z</updated>
+    <updated>2023-03-12T16:25:43.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20230313001437217"/>
         <updated>2023-03-12T15:19:34.354Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쭉 일하고 쭉 쉰다? 10명 중 3명 “지금도 연차 맘대로 못써”]]></title>
+        <id>https://v.daum.net/v/20230313000333131</id>
+        <link href="https://v.daum.net/v/20230313000333131"/>
+        <updated>2023-03-12T16:23:35.759Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[광주 운암산 산불 "쓰레기 소각 부주의 원인 추정"]]></title>
+        <id>https://v.daum.net/v/20230312212828095</id>
+        <link href="https://v.daum.net/v/20230312212828095"/>
+        <updated>2023-03-12T16:23:35.759Z</updated>
+        <content type="html"><![CDATA[kbc광주방송]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가마우지떼 여수산단 습격.."퇴치에도 어려움 겪어"]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230312223406596"/>
         <updated>2023-03-12T15:19:34.370Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부모보다 더 빨리 늙는 3040..."가속노화 시계 늦춰야"]]></title>
-        <id>https://v.daum.net/v/20230312222826551</id>
-        <link href="https://v.daum.net/v/20230312222826551"/>
-        <updated>2023-03-12T15:19:34.373Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제주 공사현장서 방화 추정 차량  화재]]></title>
-        <id>https://v.daum.net/v/20230312221137447</id>
-        <link href="https://v.daum.net/v/20230312221137447"/>
-        <updated>2023-03-12T15:19:34.376Z</updated>
-        <content type="html"><![CDATA[JIBS]]></content>
     </entry>
 </feed>
