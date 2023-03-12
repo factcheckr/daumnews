@@ -2,20 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메인뉴스</title>
-    <updated>2023-03-12T16:25:43.562Z</updated>
+    <updated>2023-03-12T17:18:11.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국타이어 대형화재에 정부 ‘비상’…韓 총리 “교통 통제” 지시]]></title>
+        <id>https://v.daum.net/v/20230313014910568</id>
+        <link href="https://v.daum.net/v/20230313014910568"/>
+        <updated>2023-03-12T17:15:48.865Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국타이어 대전공장 큰 불…고속도로 통제, KTX 일부 운행중단]]></title>
+        <id>https://v.daum.net/v/20230313011710502</id>
+        <link href="https://v.daum.net/v/20230313011710502"/>
+        <updated>2023-03-12T17:15:48.866Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코레일 일부 고속선 운행 중단…한국타이어 대전공장 화재 원인]]></title>
         <id>https://v.daum.net/v/20230313002935299</id>
         <link href="https://v.daum.net/v/20230313002935299"/>
-        <updated>2023-03-12T16:23:26.718Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국타이어 대전공장 대형 화재…직원 5명 연기 흡입·경상 1명(상보)]]></title>
-        <id>https://v.daum.net/v/20230313003810329</id>
-        <link href="https://v.daum.net/v/20230313003810329"/>
         <updated>2023-03-12T16:23:26.718Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230313000431142"/>
         <updated>2023-03-12T15:19:26.618Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검사, 국정원 직원, 육사 장교도… JMS 도운 엘리트들]]></title>
-        <id>https://v.daum.net/v/20230313000407137</id>
-        <link href="https://v.daum.net/v/20230313000407137"/>
-        <updated>2023-03-12T15:19:26.620Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>

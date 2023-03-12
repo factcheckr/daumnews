@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-03-12T16:25:43.479Z</updated>
+    <updated>2023-03-12T17:18:11.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA['난민 아기 수유' 사진으로 찬사받은 그리스 캄비시 할머니 별세]]></title>
-        <id>https://v.daum.net/v/20230313011228484</id>
-        <link href="https://v.daum.net/v/20230313011228484"/>
-        <updated>2023-03-12T16:24:23.273Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[이란 "미국과 죄수 교환 합의" 주장에... 미국 "잔인한 거짓말" 일축]]></title>
         <id>https://v.daum.net/v/20230313010031420</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20230313000835173"/>
         <updated>2023-03-12T15:20:16.180Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“韓, 데이트 음식값은 남자가…오마카세, SNS 허세용”]]></title>
+        <id>https://v.daum.net/v/20230313000602148</id>
+        <link href="https://v.daum.net/v/20230313000602148"/>
+        <updated>2023-03-12T17:16:45.409Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
