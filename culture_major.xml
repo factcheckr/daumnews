@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-03-12T12:35:26.633Z</updated>
+    <updated>2023-03-12T13:24:15.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["선생의 정신 잇자" 고하 최승범문학 기념사업 본격 시동]]></title>
+        <id>https://v.daum.net/v/20230312201204608</id>
+        <link href="https://v.daum.net/v/20230312201204608"/>
+        <updated>2023-03-12T13:23:18.121Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[껍질에 영양소 가득한데… '농약 걱정 없는' 과일·채소 세척법은?]]></title>
         <id>https://v.daum.net/v/20230312200016513</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230312182151179"/>
         <updated>2023-03-12T11:16:17.291Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밤마다 ‘뒤척뒤척’이고 낮에도 졸음이 쏟아지는데…]]></title>
-        <id>https://v.daum.net/v/20230312182003153</id>
-        <link href="https://v.daum.net/v/20230312182003153"/>
-        <updated>2023-03-12T11:16:17.291Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-03-12T12:35:26.635Z</updated>
+    <updated>2023-03-12T13:24:15.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘탄소중립’ 위해 발전 때 탄소배출을 줄여야 하는데…전기 사용량은 급증하는 ‘딜레마’[찌릿찌릿(知it智it) 전기 교실]]]></title>
+        <id>https://v.daum.net/v/20230312215550305</id>
+        <link href="https://v.daum.net/v/20230312215550305"/>
+        <updated>2023-03-12T13:23:28.971Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[스트레이트] "일본은 협력 파트너"라는 윤 대통령‥후쿠시마 오염수 방류에도 침묵하나]]></title>
         <id>https://v.daum.net/v/20230312212806088</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230312181227059"/>
         <updated>2023-03-12T09:18:53.898Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“삼성이 제품은 튼튼하게 만드네” 아이폰 최고폰 대결 충격 결과]]></title>
-        <id>https://v.daum.net/v/20230312172126276</id>
-        <link href="https://v.daum.net/v/20230312172126276"/>
-        <updated>2023-03-12T09:18:53.898Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
