@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-03-13T16:29:18.682Z</updated>
+    <updated>2023-03-13T17:19:53.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리나라엔 ‘서울링’⋯전 세계 ‘랜드마크’  속으로]]></title>
+        <id>https://v.daum.net/v/20230314020120454</id>
+        <link href="https://v.daum.net/v/20230314020120454"/>
+        <updated>2023-03-13T17:18:47.207Z</updated>
+        <content type="html"><![CDATA[농민신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[못생긴 남자와 무식한 여자…이들은 어떻게 사랑에 빠졌나]]></title>
         <id>https://v.daum.net/v/20230313181606856</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230313225207316"/>
         <updated>2023-03-13T14:26:44.085Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경북 봉화 소천면 야산서 산불…화선 1부능선→4부능선 100m 확대]]></title>
-        <id>https://v.daum.net/v/20230313215005530</id>
-        <link href="https://v.daum.net/v/20230313215005530"/>
-        <updated>2023-03-13T13:30:54.217Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

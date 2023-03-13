@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-03-13T16:29:18.686Z</updated>
+    <updated>2023-03-13T17:19:53.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5035362/7qcXQg3oUz"/>
         <updated>2023-03-13T11:18:04.144Z</updated>
         <content type="html"><![CDATA[쿠바는 지금]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[복수초 예쁘게 피다]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/pQb3bxWQQ1</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/pQb3bxWQQ1"/>
+        <updated>2023-03-13T17:19:22.784Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[9년 만에 다시 큰불 난 한국타이어 대전공장]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5024184/HhtCGGdY08"/>
         <updated>2023-03-13T07:19:07.181Z</updated>
         <content type="html"><![CDATA[TF사진관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태양광 이격거리 폐지법안 발의 철회하라' [쿠키포토]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5620091/1Q4n00j3F5</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5620091/1Q4n00j3F5"/>
-        <updated>2023-03-13T07:19:07.184Z</updated>
-        <content type="html"><![CDATA[쿠키포토]]></content>
     </entry>
 </feed>

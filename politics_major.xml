@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-03-13T16:29:18.662Z</updated>
+    <updated>2023-03-13T17:19:53.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민주당, '인적 쇄신' 목소리에 이재명은 "반일"]]></title>
+        <id>https://v.daum.net/v/20230314000032799</id>
+        <link href="https://v.daum.net/v/20230314000032799"/>
+        <updated>2023-03-13T17:17:58.972Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹, 김기현 지도부와 만찬..."월 2차례 정기회동"]]></title>
         <id>https://v.daum.net/v/20230313235817772</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230313225027284"/>
         <updated>2023-03-13T15:21:14.830Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["재단 돈 안 받겠다"…배상안 '거부' 공식 통보]]></title>
-        <id>https://v.daum.net/v/20230313223904175</id>
-        <link href="https://v.daum.net/v/20230313223904175"/>
-        <updated>2023-03-13T15:21:14.830Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
