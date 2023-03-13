@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-03-13T15:23:02.273Z</updated>
+    <updated>2023-03-13T16:29:18.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[못생긴 남자와 무식한 여자…이들은 어떻게 사랑에 빠졌나]]></title>
+        <id>https://v.daum.net/v/20230313181606856</id>
+        <link href="https://v.daum.net/v/20230313181606856"/>
+        <updated>2023-03-13T16:28:12.441Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임신성 당뇨 걱정되세요? 자기 전 ‘이것’ 꼭 하세요]]></title>
         <id>https://v.daum.net/v/20230314000115824</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230313215005530"/>
         <updated>2023-03-13T13:30:54.217Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM 안은 카카오…K팝 전환점 될까?]]></title>
-        <id>https://v.daum.net/v/20230313214032354</id>
-        <link href="https://v.daum.net/v/20230313214032354"/>
-        <updated>2023-03-13T12:41:45.076Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
