@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-03-13T14:27:51.375Z</updated>
+    <updated>2023-03-13T15:23:02.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임신성 당뇨 걱정되세요? 자기 전 ‘이것’ 꼭 하세요]]></title>
+        <id>https://v.daum.net/v/20230314000115824</id>
+        <link href="https://v.daum.net/v/20230314000115824"/>
+        <updated>2023-03-13T15:21:59.438Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[감기에 대한 당신의 ‘상식’은 거의 다 틀렸다]]></title>
         <id>https://v.daum.net/v/20230313230016376</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230313214032354"/>
         <updated>2023-03-13T12:41:45.076Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기가든 인근 의문의 습격... 주민, 잇단 고라니 사체 공포]]></title>
-        <id>https://v.daum.net/v/20230313103105937</id>
-        <link href="https://v.daum.net/v/20230313103105937"/>
-        <updated>2023-03-13T12:41:45.079Z</updated>
-        <content type="html"><![CDATA[경기일보]]></content>
     </entry>
 </feed>
