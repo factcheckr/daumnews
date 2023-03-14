@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-03-14T19:22:30.763Z</updated>
+    <updated>2023-03-14T20:28:09.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230314180301741"/>
         <updated>2023-03-14T14:26:39.287Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당근마켓, 비대면 중고사기 주의보 …이것만큼은 주의해야]]></title>
+        <id>https://v.daum.net/v/20230314224800754</id>
+        <link href="https://v.daum.net/v/20230314224800754"/>
+        <updated>2023-03-14T20:27:34.027Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“음악 듣고, 영상 보려면 돈 더 내야?” 유튜브 천하에 제동 걸리나]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230314181756412"/>
         <updated>2023-03-14T10:29:26.196Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["디지털 다크패턴 위험성 제고해야"…"고시·시행령 통해 보완할 것"]]></title>
-        <id>https://v.daum.net/v/20230314181650365</id>
-        <link href="https://v.daum.net/v/20230314181650365"/>
-        <updated>2023-03-14T10:29:26.208Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>

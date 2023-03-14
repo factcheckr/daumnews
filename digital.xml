@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-03-14T19:22:30.743Z</updated>
+    <updated>2023-03-14T20:28:09.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주가 '뚝' 꺾이자 상여금 0원…네이버CEO 급여 11억 반토막]]></title>
+        <id>https://v.daum.net/v/20230315050031481</id>
+        <link href="https://v.daum.net/v/20230315050031481"/>
+        <updated>2023-03-14T20:27:24.390Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화장하고 명품사는 초등생 유튜버, 괜찮나요?]]></title>
         <id>https://v.daum.net/v/20230315034552094</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230314174809099"/>
         <updated>2023-03-14T14:26:28.848Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당근마켓, 비대면 중고사기 주의보 …이것만큼은 주의해야]]></title>
-        <id>https://v.daum.net/v/20230314224800754</id>
-        <link href="https://v.daum.net/v/20230314224800754"/>
-        <updated>2023-03-14T14:26:28.849Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
