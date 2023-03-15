@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-03-15T15:24:57.016Z</updated>
+    <updated>2023-03-15T16:31:17.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방시혁 "치열한 인수전 예상 못해"…이수만이 남긴 말]]></title>
+        <id>https://v.daum.net/v/20230315205716397</id>
+        <link href="https://v.daum.net/v/20230315205716397"/>
+        <updated>2023-03-15T16:30:33.871Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방시혁 “K팝 성장 둔화, 위기 시작...BTS 돌아와도 해결 안돼”]]></title>
         <id>https://v.daum.net/v/20230315205452344</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230315183508583"/>
         <updated>2023-03-15T15:24:02.587Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[르포]"멋쟁이 다 모여라"…서울패션위크 화려한 개막]]></title>
-        <id>https://v.daum.net/v/20230315182926436</id>
-        <link href="https://v.daum.net/v/20230315182926436"/>
-        <updated>2023-03-15T15:24:02.587Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
