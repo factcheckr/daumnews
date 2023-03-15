@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-03-15T18:26:37.223Z</updated>
+    <updated>2023-03-15T19:19:44.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국제유가 폭락...SVB 충격파에 반년 만에 최대 낙폭]]></title>
+        <id>https://v.daum.net/v/20230316034829429</id>
+        <link href="https://v.daum.net/v/20230316034829429"/>
+        <updated>2023-03-15T19:17:07.010Z</updated>
+        <content type="html"><![CDATA[경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美재무부 '크레디트스위스 주가 폭락'에 "상황 모니터링 중"]]></title>
+        <id>https://v.daum.net/v/20230316033127401</id>
+        <link href="https://v.daum.net/v/20230316033127401"/>
+        <updated>2023-03-15T19:17:07.012Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연준, 금리 동결하나...미 국채 수익률 급락]]></title>
         <id>https://v.daum.net/v/20230316032127383</id>
@@ -41,7 +55,7 @@
         <content type="html"><![CDATA[사회]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유럽으로 튄 SVB 불똥…크레디트스위스 한때 30%이상 폭락]]></title>
+        <title type="html"><![CDATA[유럽으로 튄 SVB 불똥…크레디트스위스 주가 한때 30%이상 폭락]]></title>
         <id>https://v.daum.net/v/20230316030630323</id>
         <link href="https://v.daum.net/v/20230316030630323"/>
         <updated>2023-03-15T18:24:06.850Z</updated>
@@ -118,13 +132,6 @@
         <content type="html"><![CDATA[국제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이탈리아, SVB 우려에 선긋기 "우리 금융 시스템 견고"]]></title>
-        <id>https://v.daum.net/v/20230316004632751</id>
-        <link href="https://v.daum.net/v/20230316004632751"/>
-        <updated>2023-03-15T16:29:17.343Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[가나 국적 40대 미등록 외국인, 경찰 때리고 도주]]></title>
         <id>https://v.daum.net/v/20230316003900714</id>
         <link href="https://v.daum.net/v/20230316003900714"/>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20230316001728577"/>
         <updated>2023-03-15T15:22:38.505Z</updated>
         <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 소각장 건립 '거북이 걸음'... 부천 광역 소각장도 물 건너가]]></title>
-        <id>https://v.daum.net/v/20230316001007519</id>
-        <link href="https://v.daum.net/v/20230316001007519"/>
-        <updated>2023-03-15T15:22:38.505Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
     </entry>
 </feed>
