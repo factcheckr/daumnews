@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-03-16T03:22:27.886Z</updated>
+    <updated>2023-03-16T04:25:46.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA["이순신 장군 설계대로"…18세기 거북선 모습 찾았다]]></title>
-        <id>https://v.daum.net/v/20230316120108853</id>
-        <link href="https://v.daum.net/v/20230316120108853"/>
-        <updated>2023-03-16T03:21:37.597Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[기후위기와 산림] 더 많은 탄소 흡수하는 나무 만들기]]></title>
         <id>https://v.daum.net/v/20230316120014758</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20230316112654428"/>
         <updated>2023-03-16T02:44:44.492Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[40년 만에 바뀌는 우주복…2025년 달 남극 누빈다]]></title>
+        <id>https://v.daum.net/v/20230316093002980</id>
+        <link href="https://v.daum.net/v/20230316093002980"/>
+        <updated>2023-03-16T04:24:56.480Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
