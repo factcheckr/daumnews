@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-03-16T09:22:33.341Z</updated>
+    <updated>2023-03-16T10:24:22.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[왕가 별궁이 학교로, 다시 박물관으로…켜켜이 쌓인 역사를 거닐다]]></title>
+        <id>https://v.daum.net/v/20230316180301281</id>
+        <link href="https://v.daum.net/v/20230316180301281"/>
+        <updated>2023-03-16T10:23:17.256Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘과학] "수면 부족, 말초동맥질환 위험 두배 높인다"]]></title>
         <id>https://v.daum.net/v/20230316165012292</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230316160729311"/>
         <updated>2023-03-16T08:26:06.386Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소설 '혼불' 속 아름다운 우리말 참뜻 알아보는 전시회]]></title>
-        <id>https://v.daum.net/v/20230316163412583</id>
-        <link href="https://v.daum.net/v/20230316163412583"/>
-        <updated>2023-03-16T08:26:06.386Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
