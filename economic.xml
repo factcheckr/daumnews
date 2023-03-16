@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-03-16T13:33:36.255Z</updated>
+    <updated>2023-03-16T14:21:03.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오토바이 번호판도 '자동차처럼'…더 크고 잘 보이게 바뀐다]]></title>
+        <id>https://v.daum.net/v/20230316210218297</id>
+        <link href="https://v.daum.net/v/20230316210218297"/>
+        <updated>2023-03-16T14:19:19.270Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[은행권 불안 유럽 확산에도…ECB기준금리 0.5% 인상 유지]]></title>
+        <id>https://v.daum.net/v/20230316224006624</id>
+        <link href="https://v.daum.net/v/20230316224006624"/>
+        <updated>2023-03-16T14:19:19.271Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SVB 파장, 은행권서 국제유가로 번져…배럴당 70달러 아래로 ‘뚝’]]></title>
         <id>https://v.daum.net/v/20230316221221370</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230316215015039"/>
         <updated>2023-03-16T13:32:10.038Z</updated>
         <content type="html"><![CDATA[농민신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈체크] 재벌가 상속분쟁…LG와 BYC는 다르다]]></title>
-        <id>https://v.daum.net/v/20230316184916530</id>
-        <link href="https://v.daum.net/v/20230316184916530"/>
-        <updated>2023-03-16T13:32:10.039Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 한국타이어 화재 당시 열차 18대 불길 뚫고 운행]]></title>
-        <id>https://v.daum.net/v/20230316213632859</id>
-        <link href="https://v.daum.net/v/20230316213632859"/>
-        <updated>2023-03-16T13:32:10.041Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
