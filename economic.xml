@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-03-16T16:32:36.566Z</updated>
+    <updated>2023-03-16T17:20:29.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JP모간·모건스탠리 퍼스트리퍼블릭 인수나섰다…3대지수 상승반전]]></title>
+        <id>https://v.daum.net/v/20230317014406935</id>
+        <link href="https://v.daum.net/v/20230317014406935"/>
+        <updated>2023-03-16T17:18:48.291Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7년만에 또 "광주에 프리미엄 가전".."의미있는 투자 없을 것"]]></title>
         <id>https://v.daum.net/v/20230316233134076</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230317000505413"/>
         <updated>2023-03-16T15:21:49.213Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추락하는 기름값 뒤엔 불길한 그림자]]></title>
-        <id>https://v.daum.net/v/20230317000348388</id>
-        <link href="https://v.daum.net/v/20230317000348388"/>
-        <updated>2023-03-16T15:21:49.214Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
