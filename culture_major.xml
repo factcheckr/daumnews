@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-03-17T14:20:42.929Z</updated>
+    <updated>2023-03-17T15:28:23.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20230317220232559"/>
         <updated>2023-03-17T13:26:25.630Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[의사 1명당 환자 60명…‘마음 치료’가 될까[건강한 정신, 행복한 마음]]]></title>
+        <id>https://v.daum.net/v/20230317220228558</id>
+        <link href="https://v.daum.net/v/20230317220228558"/>
+        <updated>2023-03-17T15:27:19.413Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“삼국유사에 독도”·“딩크족 커피 즐겨”…GPT 오류 줄일 활용지침 필요]]></title>
+        <id>https://v.daum.net/v/20230317214909375</id>
+        <link href="https://v.daum.net/v/20230317214909375"/>
+        <updated>2023-03-17T15:27:19.413Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자기 전에 유튜브 한 편, '이렇게' 위험하다]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230317182201438"/>
         <updated>2023-03-17T12:37:11.008Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사라진 오스트리아 맥주, 지구 반대편 멕시코에 살아있다 [윤한샘의 맥주실록]]]></title>
-        <id>https://v.daum.net/v/20230317180302103</id>
-        <link href="https://v.daum.net/v/20230317180302103"/>
-        <updated>2023-03-17T12:37:11.010Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[굿, 반추해보길 권함.."다시보기가 위로가 될 수  있다면"]]></title>
-        <id>https://v.daum.net/v/20230317173735608</id>
-        <link href="https://v.daum.net/v/20230317173735608"/>
-        <updated>2023-03-17T09:21:07.394Z</updated>
-        <content type="html"><![CDATA[JIBS]]></content>
     </entry>
 </feed>
