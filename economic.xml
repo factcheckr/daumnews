@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-03-17T13:27:16.596Z</updated>
+    <updated>2023-03-17T14:20:42.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세계 은행위기 이어진다…SVB 모기업 파산보호, CS 주가 급락]]></title>
+        <id>https://v.daum.net/v/20230317223302861</id>
+        <link href="https://v.daum.net/v/20230317223302861"/>
+        <updated>2023-03-17T14:18:54.353Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[치료제 없는 과수화상병…확산 우려에 방제 비상]]></title>
         <id>https://v.daum.net/v/20230317220414581</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230317220025531"/>
         <updated>2023-03-17T13:25:40.158Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[규제완화에도 미분양 최대…만2천 가구 착공 연기]]></title>
-        <id>https://v.daum.net/v/20230317215729496</id>
-        <link href="https://v.daum.net/v/20230317215729496"/>
-        <updated>2023-03-17T13:25:40.160Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

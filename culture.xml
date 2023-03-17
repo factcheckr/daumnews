@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-03-17T13:27:16.601Z</updated>
+    <updated>2023-03-17T14:20:42.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[무려 40% 유병률 '이 질환'… 콩·두부 많이 먹었더니 위험 '뚝']]></title>
+        <id>https://v.daum.net/v/20230317230017007</id>
+        <link href="https://v.daum.net/v/20230317230017007"/>
+        <updated>2023-03-17T14:19:35.704Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["내 아빠라고?" 코로나 감염 후, 얼굴 인식 불가]]></title>
         <id>https://v.daum.net/v/20230317175616992</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230317214909375"/>
         <updated>2023-03-17T13:26:16.127Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종이책 아닌 전자책 볼 때… '독해력' 떨어지는 까닭]]></title>
-        <id>https://v.daum.net/v/20230317151016501</id>
-        <link href="https://v.daum.net/v/20230317151016501"/>
-        <updated>2023-03-17T13:26:16.128Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
