@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-03-18T17:19:11.170Z</updated>
+    <updated>2023-03-18T18:24:57.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이라크戰 20년…미국인 10명 중 6명 "잘못된 전쟁"]]></title>
+        <id>https://v.daum.net/v/20230318234011430</id>
+        <link href="https://v.daum.net/v/20230318234011430"/>
+        <updated>2023-03-18T18:23:30.813Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“시진핑의 대만 침공은 우크라전의 승패와 상관없다”]]></title>
         <id>https://v.daum.net/v/20230318230137287</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230318195945095"/>
         <updated>2023-03-18T14:21:24.791Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미 “한일 넘어 한미일 협력”…대중 전선 강화 모색]]></title>
-        <id>https://v.daum.net/v/20230318211420605</id>
-        <link href="https://v.daum.net/v/20230318211420605"/>
-        <updated>2023-03-18T13:22:28.950Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
