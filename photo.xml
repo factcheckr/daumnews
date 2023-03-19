@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-03-19T12:36:16.083Z</updated>
+    <updated>2023-03-19T13:24:20.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현대자동차, 탄소중립 시대 미래 도시 비전 제시…‘해비타트 원’ 전시[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/9EuA5ZnXyZ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/9EuA5ZnXyZ"/>
+        <updated>2023-03-19T13:23:56.805Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이란의 설 명절 '노루즈'…북적이는 바자르]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5031013/7dLPjyMTpy</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/29057/3Ex6fZnXF5"/>
         <updated>2023-03-18T05:18:40.026Z</updated>
         <content type="html"><![CDATA[제주는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북적이는 튀르키예 지진 피해자 돕기 바자회장]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5735752/xSk2ByMT7N</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5735752/xSk2ByMT7N"/>
-        <updated>2023-03-18T05:18:40.026Z</updated>
-        <content type="html"><![CDATA[튀르키예 대지진]]></content>
     </entry>
 </feed>

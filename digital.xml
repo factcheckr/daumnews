@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-03-19T12:36:16.079Z</updated>
+    <updated>2023-03-19T13:24:20.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“거북선 3층 지붕 더 좁았다”…새 주장 나와]]></title>
+        <id>https://v.daum.net/v/20230319213948927</id>
+        <link href="https://v.daum.net/v/20230319213948927"/>
+        <updated>2023-03-19T13:23:42.971Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[약재 이름 ‘포공영’ 대신 ‘민들레’로 부른다면, 자연과 성큼 가까워질 텐데[알아두면 쓸모 있는 한의과학]]]></title>
         <id>https://v.daum.net/v/20230319205805628</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230319182701321"/>
         <updated>2023-03-19T10:24:12.146Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보안 사고 폭증에 민간기업 정보보호 의무 강화 검토...등급제·간편인증 도입 방안 수립]]></title>
-        <id>https://v.daum.net/v/20230319170106916</id>
-        <link href="https://v.daum.net/v/20230319170106916"/>
-        <updated>2023-03-19T09:23:52.843Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
