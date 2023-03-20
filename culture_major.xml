@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-03-20T11:20:28.655Z</updated>
+    <updated>2023-03-20T12:39:51.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<뉴스브릿지> '뉴트로'에 빠진 MZ…세대 소통의 통로 될까]]></title>
+        <id>https://v.daum.net/v/20230320193813491</id>
+        <link href="https://v.daum.net/v/20230320193813491"/>
+        <updated>2023-03-20T12:38:59.485Z</updated>
+        <content type="html"><![CDATA[EBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수달 발자국, 새들 날갯질... 새만금 방조제 속 살아있는 갯벌]]></title>
+        <id>https://v.daum.net/v/20230320183901458</id>
+        <link href="https://v.daum.net/v/20230320183901458"/>
+        <updated>2023-03-20T12:38:59.487Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["사회적 문제 해결을 위해 나이·세대·시대를 말하다"]]></title>
         <id>https://v.daum.net/v/20230320185519717</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230320173832806"/>
         <updated>2023-03-20T09:24:13.668Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여의도공원 '제2세종문화회관' 한강 전망대 만들어 무료 개방]]></title>
-        <id>https://v.daum.net/v/20230320172709335</id>
-        <link href="https://v.daum.net/v/20230320172709335"/>
-        <updated>2023-03-20T09:24:13.670Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“11개 프랑스 뮤지컬을 가득 담은 혜자 공연” 디 오리지널:프렌치뮤지컬 갈라콘서트 [양형모의 일일공프로젝트 11]]]></title>
-        <id>https://v.daum.net/v/20230320172201107</id>
-        <link href="https://v.daum.net/v/20230320172201107"/>
-        <updated>2023-03-20T09:24:13.670Z</updated>
-        <content type="html"><![CDATA[스포츠동아]]></content>
     </entry>
 </feed>

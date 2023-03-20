@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-03-20T11:20:28.665Z</updated>
+    <updated>2023-03-20T12:39:51.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[실패작도 '비싼 몸'…경매로 나온 애플 초기 제품들 얼마길래]]></title>
+        <id>https://v.daum.net/v/20230320210103855</id>
+        <link href="https://v.daum.net/v/20230320210103855"/>
+        <updated>2023-03-20T12:39:10.722Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['AI 반도체 팜' 사업에 국내 클라우드 빅3 등 참여 신청]]></title>
         <id>https://v.daum.net/v/20230320200742944</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230320185817767"/>
         <updated>2023-03-20T10:24:42.916Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주름 없는 폴더블폰 속속 등장, 삼성 폴드∙플립5는 방수∙방진까지?]]></title>
-        <id>https://v.daum.net/v/20230320184508572</id>
-        <link href="https://v.daum.net/v/20230320184508572"/>
-        <updated>2023-03-20T10:24:42.922Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
