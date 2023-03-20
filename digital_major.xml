@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-03-20T19:22:26.789Z</updated>
+    <updated>2023-03-20T20:23:09.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230321030206306"/>
         <updated>2023-03-20T18:26:17.976Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPCC는 가속화해야 한다는데, 주춤거리는 한국 기후 위기 대응]]></title>
+        <id>https://v.daum.net/v/20230320220104663</id>
+        <link href="https://v.daum.net/v/20230320220104663"/>
+        <updated>2023-03-20T20:22:33.361Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['AI 반도체 팜' 사업에 국내 클라우드 빅3 등 참여 신청]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230320180438615"/>
         <updated>2023-03-20T10:24:50.984Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내일부터 애플페이"…스벅에선 못 쓴다고? 그럼 사용처는 어디]]></title>
-        <id>https://v.daum.net/v/20230320180003442</id>
-        <link href="https://v.daum.net/v/20230320180003442"/>
-        <updated>2023-03-20T10:24:50.985Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
