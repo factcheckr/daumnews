@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-03-20T16:31:14.308Z</updated>
+    <updated>2023-03-20T17:21:50.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['AI 반도체 팜' 사업에 국내 클라우드 빅3 등 참여 신청]]></title>
+        <id>https://v.daum.net/v/20230320200742944</id>
+        <link href="https://v.daum.net/v/20230320200742944"/>
+        <updated>2023-03-20T17:21:14.087Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["웹툰 플랫폼·작가 `제로섬` 아니라 `윈윈` 구조 만들어야"]]></title>
         <id>https://v.daum.net/v/20230320193622466</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230320175137218"/>
         <updated>2023-03-20T14:24:31.441Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI반도체부터 SaaS까지… `K-클라우드` 통해 ICT 독립 꾀한다]]></title>
-        <id>https://v.daum.net/v/20230320173913846</id>
-        <link href="https://v.daum.net/v/20230320173913846"/>
-        <updated>2023-03-20T14:24:31.441Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
