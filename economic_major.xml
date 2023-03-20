@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-03-20T13:29:27.735Z</updated>
+    <updated>2023-03-20T14:25:11.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“석유 찾아 삼만리”…한국 영토에도 ‘유전’ 있을까]]></title>
+        <id>https://v.daum.net/v/20230320212403170</id>
+        <link href="https://v.daum.net/v/20230320212403170"/>
+        <updated>2023-03-20T14:23:35.993Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노현정, 올해도 옥빛 한복...고 정주영 22주기, 현대가 모여]]></title>
         <id>https://v.daum.net/v/20230320210656987</id>
@@ -55,7 +62,7 @@
         <content type="html"><![CDATA[SBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주주제안 2배 급증·행동주의 펀드 공세… 주주 ‘목청’ 커진다]]></title>
+        <title type="html"><![CDATA[주주 제안 2배 급증·행동주의 펀드 공세… 주주 ‘목청’ 커진다]]></title>
         <id>https://v.daum.net/v/20230320204308528</id>
         <link href="https://v.daum.net/v/20230320204308528"/>
         <updated>2023-03-20T12:38:23.473Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230320204240523"/>
         <updated>2023-03-20T12:38:23.473Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부동산 PF '경고등'…부실 커지면 저축은행 '뱅크런' 배제 못해]]></title>
-        <id>https://v.daum.net/v/20230320202507225</id>
-        <link href="https://v.daum.net/v/20230320202507225"/>
-        <updated>2023-03-20T12:38:23.474Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>

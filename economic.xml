@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-03-20T13:29:27.730Z</updated>
+    <updated>2023-03-20T14:25:11.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[올댓차이나] 2월 대만 수출수주 18.3%↓...“對中 부진 예상 넘게 감소”]]></title>
+        <id>https://v.daum.net/v/20230320224143105</id>
+        <link href="https://v.daum.net/v/20230320224143105"/>
+        <updated>2023-03-20T14:23:25.336Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자동차, 안팎으로 잘나간다]]></title>
         <id>https://v.daum.net/v/20230320215237513</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230320204808616"/>
         <updated>2023-03-20T13:27:40.972Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“석유 찾아 삼만리”…한국 영토에도 ‘유전’ 있을까]]></title>
-        <id>https://v.daum.net/v/20230320212403170</id>
-        <link href="https://v.daum.net/v/20230320212403170"/>
-        <updated>2023-03-20T12:38:12.055Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
