@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-03-21T03:23:57.955Z</updated>
+    <updated>2023-03-21T04:24:23.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[언론노조 “YTN 인수 복마전 돼가…끝까지 책임 묻겠다”]]></title>
+        <id>https://v.daum.net/v/20230321122336277</id>
+        <link href="https://v.daum.net/v/20230321122336277"/>
+        <updated>2023-03-21T04:23:11.157Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박범훈·김대성·황호준, 시대를 관통해 이정표를 세운 ‘오늘의 음악’ [인터뷰]]]></title>
         <id>https://v.daum.net/v/20230321121602148</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무당개구리는 경고색 진화의 징검다리]]></title>
+        <title type="html"><![CDATA[보호색·경고색 둘 다 가진 무당개구리가 진화의 비밀 알려줬다]]></title>
         <id>https://v.daum.net/v/20230321115016184</id>
         <link href="https://v.daum.net/v/20230321115016184"/>
         <updated>2023-03-21T03:22:41.026Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230321113341123"/>
         <updated>2023-03-21T03:22:41.029Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐스팅에 ‘남녀의 벽’은 없다]]></title>
-        <id>https://v.daum.net/v/20230321113453214</id>
-        <link href="https://v.daum.net/v/20230321113453214"/>
-        <updated>2023-03-21T03:22:41.031Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
