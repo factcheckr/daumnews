@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-03-22T15:23:06.094Z</updated>
+    <updated>2023-03-22T16:27:37.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[못 온 사람 더 많은 당무위에서…'이재명 당직정지 안한다, 땅땅땅']]></title>
+        <id>https://v.daum.net/v/20230323004507167</id>
+        <link href="https://v.daum.net/v/20230323004507167"/>
+        <updated>2023-03-22T16:25:06.454Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MB, 천안함 묘역 참배…전사자 이름 하나하나 읊어]]></title>
         <id>https://v.daum.net/v/20230323000140786</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230322230502376"/>
         <updated>2023-03-22T14:17:33.044Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박범계 “제3자 변제 징용배상 발표, 위헌적인 대통령 됐다”]]></title>
-        <id>https://v.daum.net/v/20230322222146100</id>
-        <link href="https://v.daum.net/v/20230322222146100"/>
-        <updated>2023-03-22T14:17:33.045Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

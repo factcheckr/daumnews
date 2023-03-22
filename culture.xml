@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-03-22T15:23:06.095Z</updated>
+    <updated>2023-03-22T16:27:37.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“비만 대사 수술, 건강보험 적용 확대 필요”]]></title>
+        <id>https://v.daum.net/v/20230322205828955</id>
+        <link href="https://v.daum.net/v/20230322205828955"/>
+        <updated>2023-03-22T16:26:19.590Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[냉에서 나는 냄새, ‘이것’ 신호]]></title>
         <id>https://v.daum.net/v/20230323000116776</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230322140040077"/>
         <updated>2023-03-22T13:27:15.402Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발레부터 비보이 공연까지...노들섬은 일년 내내 공연장]]></title>
-        <id>https://v.daum.net/v/20230322161802616</id>
-        <link href="https://v.daum.net/v/20230322161802616"/>
-        <updated>2023-03-22T13:27:15.404Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
