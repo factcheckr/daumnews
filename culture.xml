@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-03-22T16:27:37.374Z</updated>
+    <updated>2023-03-22T17:21:51.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[너도 할 수 있어, 반려동물 전문가] (3) 돌봄·미용·훈련 ‘만능 전문가’⋯반려동물종합관리사]]></title>
+        <id>https://v.daum.net/v/20230323020115504</id>
+        <link href="https://v.daum.net/v/20230323020115504"/>
+        <updated>2023-03-22T17:20:57.720Z</updated>
+        <content type="html"><![CDATA[농민신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“비만 대사 수술, 건강보험 적용 확대 필요”]]></title>
         <id>https://v.daum.net/v/20230322205828955</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230322213300462"/>
         <updated>2023-03-22T13:27:15.401Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뇌졸중 위험 높이는 ‘이 기분’은?]]></title>
-        <id>https://v.daum.net/v/20230322140040077</id>
-        <link href="https://v.daum.net/v/20230322140040077"/>
-        <updated>2023-03-22T13:27:15.402Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
