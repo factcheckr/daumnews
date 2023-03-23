@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-03-23T16:27:57.224Z</updated>
+    <updated>2023-03-23T18:24:31.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["삼성·네이버보다 높다"…'갓카오' 연봉, 도대체 얼마길래]]></title>
+        <id>https://v.daum.net/v/20230323210102322</id>
+        <link href="https://v.daum.net/v/20230323210102322"/>
+        <updated>2023-03-23T18:23:57.468Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한화생명e스포츠, 디플러스 기아 꺾고 2라운드 진출]]></title>
         <id>https://v.daum.net/v/20230323203217804</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230323175932551"/>
         <updated>2023-03-23T16:27:21.044Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“송혜교 복수, 도둑시청 할 땐 좋았지?” 도둑시청족 ‘날벼락’ 무슨일?]]></title>
-        <id>https://v.daum.net/v/20230323175136321</id>
-        <link href="https://v.daum.net/v/20230323175136321"/>
-        <updated>2023-03-23T16:27:21.046Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
