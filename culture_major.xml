@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-03-23T12:38:45.974Z</updated>
+    <updated>2023-03-23T13:30:35.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봄비 와도 산불 난다]]></title>
+        <id>https://v.daum.net/v/20230323221024625</id>
+        <link href="https://v.daum.net/v/20230323221024625"/>
+        <updated>2023-03-23T13:29:41.320Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['땡땡이 호박' 없어서 못 산다…홍콩서 45억, 77억에 불티]]></title>
+        <id>https://v.daum.net/v/20230323200647266</id>
+        <link href="https://v.daum.net/v/20230323200647266"/>
+        <updated>2023-03-23T13:29:41.320Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[형식·경계·관습 벗어나… 캔버스 위 해방을 외치다]]></title>
+        <id>https://v.daum.net/v/20230323201019339</id>
+        <link href="https://v.daum.net/v/20230323201019339"/>
+        <updated>2023-03-23T13:29:41.323Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[젊은 학자의 다정다감한 '한자 줍기' 여정]]></title>
         <id>https://v.daum.net/v/20230323191458288</id>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20230323171702073"/>
         <updated>2023-03-23T09:20:08.548Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나홀로 집에 공포의 초인종... 외판원 가장 ‘그놈’이 왔다]]></title>
-        <id>https://v.daum.net/v/20230323164511878</id>
-        <link href="https://v.daum.net/v/20230323164511878"/>
-        <updated>2023-03-23T08:25:00.034Z</updated>
-        <content type="html"><![CDATA[경기일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음악치료 핵심 ‘마음 파악’]]></title>
-        <id>https://v.daum.net/v/20230323162302949</id>
-        <link href="https://v.daum.net/v/20230323162302949"/>
-        <updated>2023-03-23T08:25:00.043Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['15분 문화슬세권' 1만곳 조성..박물관·미술관·도서관도 지방이전]]></title>
-        <id>https://v.daum.net/v/20230323161739714</id>
-        <link href="https://v.daum.net/v/20230323161739714"/>
-        <updated>2023-03-23T08:25:00.046Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>

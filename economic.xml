@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-03-23T12:38:45.962Z</updated>
+    <updated>2023-03-23T13:30:35.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“원전 폭발방지 장치 결함”…‘불꽃 날림’도 확인]]></title>
+        <id>https://v.daum.net/v/20230323214752167</id>
+        <link href="https://v.daum.net/v/20230323214752167"/>
+        <updated>2023-03-23T13:28:50.837Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국, 전 세계 최초 3D 프린팅 로켓 발사…"가능성 봤다"]]></title>
         <id>https://v.daum.net/v/20230323212113691</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230323210102322"/>
         <updated>2023-03-23T12:37:01.993Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[라이브] 은행 파산 여파, 이게 끝이 아닐 듯…리세션 빨라진다! (ft. 김석환 선임연구위원)]]></title>
-        <id>https://v.daum.net/v/20230323210601425</id>
-        <link href="https://v.daum.net/v/20230323210601425"/>
-        <updated>2023-03-23T12:37:01.995Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
