@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-03-24T15:25:15.291Z</updated>
+    <updated>2023-03-24T16:29:13.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민주, 방통위원장 구속영장에 “언론자유 짓밟는 폭거”]]></title>
+        <id>https://v.daum.net/v/20230324225417272</id>
+        <link href="https://v.daum.net/v/20230324225417272"/>
+        <updated>2023-03-24T16:27:17.268Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["존경하는 김일성 주석과~"...문익환 목사 방북[그해 오늘]]]></title>
         <id>https://v.daum.net/v/20230325000306144</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230324231419630"/>
         <updated>2023-03-24T15:22:55.281Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 울산에…“울산 현안 적극 해결하겠다”]]></title>
-        <id>https://v.daum.net/v/20230324232158710</id>
-        <link href="https://v.daum.net/v/20230324232158710"/>
-        <updated>2023-03-24T15:22:55.283Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
