@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-03-25T05:18:42.932Z</updated>
+    <updated>2023-03-25T06:24:07.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[농민생존권 쟁취, 전국농민대회]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1461/2A5DWABE2g</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1461/2A5DWABE2g"/>
+        <updated>2023-03-25T06:23:40.746Z</updated>
+        <content type="html"><![CDATA[서울의 풍경]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유소년 축구선수 죽음 10개월 지나서야… 김포FC, 고인·유족에 뒤늦은 사죄 [김동환의 김기자와 만납시다]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5620478/fhCMOJFLFf</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/212305/qpPMxMZddr"/>
         <updated>2023-03-24T19:17:22.784Z</updated>
         <content type="html"><![CDATA[포토 카페]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진해 군항제 오늘 개막]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5014013/GIH1pUwzw7</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5014013/GIH1pUwzw7"/>
-        <updated>2023-03-24T18:25:40.426Z</updated>
-        <content type="html"><![CDATA['코로나19' 바이러스]]></content>
     </entry>
 </feed>
