@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-03-25T02:36:29.460Z</updated>
+    <updated>2023-03-25T03:21:04.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SEC "테라 가치 유지는 시세조작 때문"...권도형 "특수한 알고리즘" 사기 드러나]]></title>
+        <id>https://v.daum.net/v/20230325102149994</id>
+        <link href="https://v.daum.net/v/20230325102149994"/>
+        <updated>2023-03-25T03:19:55.665Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“연금 개혁 인터뷰하며 1억짜리 시계 착용?”...마크롱 대통령 명품 시계 논란]]></title>
+        <id>https://v.daum.net/v/20230325095343635</id>
+        <link href="https://v.daum.net/v/20230325095343635"/>
+        <updated>2023-03-25T03:19:55.665Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[댕댕이 키우다 호구될라?…'펫택스' 이렇게 피하세요!]]></title>
         <id>https://v.daum.net/v/20230325072105290</id>
@@ -34,7 +48,7 @@
         <content type="html"><![CDATA[JTBC]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중국서 `원격 키스 장치` 별게 다 나왔네…개발자 "봉쇄로 아이디어 얻어"]]></title>
+        <title type="html"><![CDATA[`원격 키스 장치` 별게 다 나왔네…中개발자 "봉쇄로 아이디어 얻어"]]></title>
         <id>https://v.daum.net/v/20230325090016073</id>
         <link href="https://v.daum.net/v/20230325090016073"/>
         <updated>2023-03-25T02:35:15.680Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230325091702300"/>
         <updated>2023-03-25T01:24:26.861Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한 "조중친선, 불멸할 것"…김정은·시진핑 정상회담 5주년]]></title>
-        <id>https://v.daum.net/v/20230325084311944</id>
-        <link href="https://v.daum.net/v/20230325084311944"/>
-        <updated>2023-03-25T01:24:26.861Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동남아, K-방산에 '돈남아' 됐다…"러시아 위축, 韓 최대수혜"]]></title>
-        <id>https://v.daum.net/v/20230325090007059</id>
-        <link href="https://v.daum.net/v/20230325090007059"/>
-        <updated>2023-03-25T01:24:26.861Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
