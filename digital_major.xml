@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-03-25T10:20:44.444Z</updated>
+    <updated>2023-03-25T11:16:23.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘챗GPT 충격’에 승부수 던진 네이버·카카오]]></title>
+        <id>https://v.daum.net/v/20230325160803394</id>
+        <link href="https://v.daum.net/v/20230325160803394"/>
+        <updated>2023-03-25T11:15:45.975Z</updated>
+        <content type="html"><![CDATA[시사저널]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤경림 후보자 사퇴를 말리는 이유[김현아의 IT세상읽기]]]></title>
         <id>https://v.daum.net/v/20230325150434573</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230325153112933"/>
         <updated>2023-03-25T10:20:07.882Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“청소년 10명 중 4명 사이버폭력 가해 또는 피해 경험”]]></title>
-        <id>https://v.daum.net/v/20230325111617497</id>
-        <link href="https://v.daum.net/v/20230325111617497"/>
-        <updated>2023-03-25T10:20:07.885Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
