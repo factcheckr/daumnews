@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-03-26T16:26:26.773Z</updated>
+    <updated>2023-03-26T17:17:17.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘투잡’ 제안하는 함정 취재에 넘어간 英의원들]]></title>
+        <id>https://v.daum.net/v/20230326210136539</id>
+        <link href="https://v.daum.net/v/20230326210136539"/>
+        <updated>2023-03-26T17:14:39.047Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나토 "러 핵위협 위험·무책임…핵태세 변화없어 대응 불필요"]]></title>
+        <id>https://v.daum.net/v/20230327014714100</id>
+        <link href="https://v.daum.net/v/20230327014714100"/>
+        <updated>2023-03-26T17:14:39.048Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그레이트 한강' 프로젝트 전담 기구 만든다!]]></title>
         <id>https://v.daum.net/v/20230327002514845</id>
         <link href="https://v.daum.net/v/20230327002514845"/>
         <updated>2023-03-26T16:23:59.437Z</updated>
         <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러 매체 "우크라 드론이 러 마을 민간시설 공격…3명 부상"]]></title>
-        <id>https://v.daum.net/v/20230327005309934</id>
-        <link href="https://v.daum.net/v/20230327005309934"/>
-        <updated>2023-03-26T16:23:59.446Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2금융권 부동산 PF 경고등 ‘깜박깜박’… 연체율도 급등]]></title>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20230326173605961"/>
         <updated>2023-03-26T15:18:35.968Z</updated>
         <content type="html"><![CDATA[정치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[떨어뜨리고 들이받아도 ‘배터리 안전 OK’…그래도 갈 길은 멀다]]></title>
-        <id>https://v.daum.net/v/20230326220827131</id>
-        <link href="https://v.daum.net/v/20230326220827131"/>
-        <updated>2023-03-26T14:16:27.186Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
     </entry>
 </feed>
