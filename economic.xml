@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-03-26T15:20:59.787Z</updated>
+    <updated>2023-03-26T16:26:26.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조선 후판값 협상 '온도차' 여전…철강업계 "더 이상 인하 어렵다"]]></title>
+        <id>https://v.daum.net/v/20230327000020652</id>
+        <link href="https://v.daum.net/v/20230327000020652"/>
+        <updated>2023-03-26T16:24:45.706Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“서울서 살기 X같은 곳” AI챗봇이 뜬금없이 욕설을 했다]]></title>
         <id>https://v.daum.net/v/20230327000514744</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230327000034663"/>
         <updated>2023-03-26T15:19:21.331Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이대로면 나라 망한다”…세금 217조원 써야할 판이라는데]]></title>
-        <id>https://v.daum.net/v/20230326232100530</id>
-        <link href="https://v.daum.net/v/20230326232100530"/>
-        <updated>2023-03-26T15:19:21.335Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
