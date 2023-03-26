@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-03-26T10:24:38.029Z</updated>
+    <updated>2023-03-26T11:16:31.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“삼성 긴장했다?” 애플 작정하고 만든 ‘아이폰’ 이렇게 나온다]]></title>
+        <id>https://v.daum.net/v/20230326185034967</id>
+        <link href="https://v.daum.net/v/20230326185034967"/>
+        <updated>2023-03-26T11:15:47.159Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내년 SW구매 경쟁입찰 시행에… "제값받기 안전장치 필요"]]></title>
+        <id>https://v.daum.net/v/20230326183040772</id>
+        <link href="https://v.daum.net/v/20230326183040772"/>
+        <updated>2023-03-26T11:15:47.164Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘백기’ 든 누누티비…한국 OTT 콘텐츠 삭제했다]]></title>
         <id>https://v.daum.net/v/20230326190300160</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230326170112384"/>
         <updated>2023-03-26T09:19:48.421Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['술도녀' '환승연애' 싹지운 누누티비...아직 '카지노'는 안내렸다]]></title>
-        <id>https://v.daum.net/v/20230326175754264</id>
-        <link href="https://v.daum.net/v/20230326175754264"/>
-        <updated>2023-03-26T09:19:48.423Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한국형 챗GPT' 호들갑 떨지만… 기초실력은 '부실']]></title>
-        <id>https://v.daum.net/v/20230326174808122</id>
-        <link href="https://v.daum.net/v/20230326174808122"/>
-        <updated>2023-03-26T09:19:48.425Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
