@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-03-26T18:23:13.618Z</updated>
+    <updated>2023-03-26T19:18:17.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예식장 대란] 시청사·한강공원·북서울꿈의숲서 결혼하세요]]></title>
+        <id>https://v.daum.net/v/20230327040130451</id>
+        <link href="https://v.daum.net/v/20230327040130451"/>
+        <updated>2023-03-26T19:17:09.268Z</updated>
+        <content type="html"><![CDATA[농민신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마오쩌둥 초상화로 날아간 달걀을 잊지 말라]]></title>
         <id>https://v.daum.net/v/20230327030425331</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230327000026656"/>
         <updated>2023-03-26T16:25:21.904Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만성 B형 간염, 엔테카비르 제제라면 공복일 때 복용[약통팔달]]]></title>
-        <id>https://v.daum.net/v/20230327001752812</id>
-        <link href="https://v.daum.net/v/20230327001752812"/>
-        <updated>2023-03-26T16:25:21.908Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
