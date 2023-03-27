@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-03-27T15:23:04.288Z</updated>
+    <updated>2023-03-27T16:27:26.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[벨라루스, 폴란드 국경통제 반발…"검문소에 트럭 1천대 서있다"]]></title>
+        <id>https://v.daum.net/v/20230328000020314</id>
+        <link href="https://v.daum.net/v/20230328000020314"/>
+        <updated>2023-03-27T16:25:57.886Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부르키나파소 군정, 프랑스24 방송 송출 금지]]></title>
         <id>https://v.daum.net/v/20230327233302161</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230327203906128"/>
         <updated>2023-03-27T14:29:48.240Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외교관들도 총파업 동참 저항 확산…이스라엘 위기 가중(종합)]]></title>
-        <id>https://v.daum.net/v/20230327215403327</id>
-        <link href="https://v.daum.net/v/20230327215403327"/>
-        <updated>2023-03-27T14:29:48.252Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
