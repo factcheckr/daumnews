@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-03-27T22:21:02.173Z</updated>
+    <updated>2023-03-27T23:23:02.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고혈압이 망가뜨리는 뇌 부위 찾았다…3만명 MRI 영상 분석]]></title>
+        <id>https://v.daum.net/v/20230328080613798</id>
+        <link href="https://v.daum.net/v/20230328080613798"/>
+        <updated>2023-03-27T23:22:09.116Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사이언스샷] “욕실 타일, 반복 구조가 없다!” 50년만에 수학의 난제 해결]]></title>
         <id>https://v.daum.net/v/20230328071356816</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230328063013222"/>
         <updated>2023-03-27T22:20:04.587Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT, 차기 CEO 인선 '복마전'…상반기 경영공백 불가피]]></title>
-        <id>https://v.daum.net/v/20230328060115861</id>
-        <link href="https://v.daum.net/v/20230328060115861"/>
-        <updated>2023-03-27T21:18:13.140Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
