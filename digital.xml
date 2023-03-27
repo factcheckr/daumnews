@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-03-27T19:19:43.852Z</updated>
+    <updated>2023-03-27T20:23:45.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['6월 공개' 애플 혼합현실 헤드셋, 가격이 무려 400만원?]]></title>
+        <id>https://v.daum.net/v/20230328043145603</id>
+        <link href="https://v.daum.net/v/20230328043145603"/>
+        <updated>2023-03-27T20:22:57.344Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[규제샌드박스 양적성장만…승인 받아도 37%는 정식서비스 못가]]></title>
         <id>https://v.daum.net/v/20230328031035276</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230327185122642"/>
         <updated>2023-03-27T13:47:22.779Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한국 과학기술 1번지] "에너지 빈국 탈출 사명" 韓 최초 연구기관 '원자력연']]></title>
-        <id>https://v.daum.net/v/20230327195850555</id>
-        <link href="https://v.daum.net/v/20230327195850555"/>
-        <updated>2023-03-27T11:18:17.109Z</updated>
-        <content type="html"><![CDATA[대전일보]]></content>
     </entry>
 </feed>
