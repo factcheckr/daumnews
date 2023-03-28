@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-03-28T16:36:24.323Z</updated>
+    <updated>2023-03-28T17:22:18.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5580452/q29sqVv8z4"/>
         <updated>2023-03-28T11:22:38.271Z</updated>
         <content type="html"><![CDATA[한국형전투기 KF-21 첫 비행]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오랜만의 데이트]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/xJHDvHo5xJ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/xJHDvHo5xJ"/>
+        <updated>2023-03-28T17:21:53.891Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['떠다니는 군사기지' 미 핵항모 니미츠함 부산 입항 外]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5620562/7QCertA00n"/>
         <updated>2023-03-28T07:21:22.611Z</updated>
         <content type="html"><![CDATA[피플in포커스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["주 40시간 근무를 원합니다"[정동길 옆 사진관]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/661278/06ZXhurqvg</id>
-        <link href="https://gallery.v.daum.net/p/viewer/661278/06ZXhurqvg"/>
-        <updated>2023-03-28T07:21:22.612Z</updated>
-        <content type="html"><![CDATA[정동길 옆 사진관]]></content>
     </entry>
 </feed>
