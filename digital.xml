@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-03-29T18:29:27.508Z</updated>
+    <updated>2023-03-29T19:17:47.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플, 개발자콘퍼런스 6월 5∼9일…혼합현실 헤드셋 공개 관심]]></title>
+        <id>https://v.daum.net/v/20230330034857022</id>
+        <link href="https://v.daum.net/v/20230330034857022"/>
+        <updated>2023-03-29T19:17:02.658Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수초 만에 스마트폰과 연결… 노트북으로 통화·답장까지 ‘편리’]]></title>
         <id>https://v.daum.net/v/20230330030612975</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230329194834769"/>
         <updated>2023-03-29T11:17:19.658Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SKB-넷플 새해 첫 법정戰…"망값 감정해보자" vs "무정산인데 왜?"]]></title>
-        <id>https://v.daum.net/v/20230329182945404</id>
-        <link href="https://v.daum.net/v/20230329182945404"/>
-        <updated>2023-03-29T11:17:19.664Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
