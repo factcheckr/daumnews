@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-03-30T15:22:02.861Z</updated>
+    <updated>2023-03-30T16:31:30.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["디지털치료제·의료AI 허가받으면 뭐하나...보험 적용이 관건”]]></title>
+        <id>https://v.daum.net/v/20230330174154268</id>
+        <link href="https://v.daum.net/v/20230330174154268"/>
+        <updated>2023-03-30T16:30:41.523Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“챗GPT, 멀웨어 짜줘” 5분만에 노트북 캠 영상이 ‘착!’]]></title>
         <id>https://v.daum.net/v/20230330184109087</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230330213010825"/>
         <updated>2023-03-30T13:32:41.559Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["다시는 먹통 없다"…정부, 데이터센터 물리적·공간적 '쌍둥이 작전' 강화]]></title>
-        <id>https://v.daum.net/v/20230330200009453</id>
-        <link href="https://v.daum.net/v/20230330200009453"/>
-        <updated>2023-03-30T11:17:09.173Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
