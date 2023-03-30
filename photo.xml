@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-03-30T21:17:14.029Z</updated>
+    <updated>2023-03-30T22:20:01.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[절약 독려하는 노동신문…"애국의 마음으로"]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1489/P9Rgc9MT0v</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1489/P9Rgc9MT0v"/>
+        <updated>2023-03-30T22:19:23.791Z</updated>
+        <content type="html"><![CDATA[북한은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가장 '상세'한 대동여지도 돌아오다]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5032452/FLkIAKxvZu</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033573/W9L3dGLZ07"/>
         <updated>2023-03-30T08:26:45.920Z</updated>
         <content type="html"><![CDATA[전통시장 모습]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달리던 트레일러서 10톤 롤러 떨어져 4명 사상]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1473/YHBypNzc65</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1473/YHBypNzc65"/>
-        <updated>2023-03-30T07:19:08.876Z</updated>
-        <content type="html"><![CDATA[교통사고]]></content>
     </entry>
 </feed>
