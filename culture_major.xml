@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-03-30T18:23:51.960Z</updated>
+    <updated>2023-03-30T19:17:49.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국인 70% “日 비호감” 미국인 77% “日 호감”]]></title>
+        <id>https://v.daum.net/v/20230331030119440</id>
+        <link href="https://v.daum.net/v/20230331030119440"/>
+        <updated>2023-03-30T19:16:51.788Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[우리 아이 튼튼하게] 생후 1개월, 물체 보이기 시작… 대조 선명한 흑백 모빌 써야]]></title>
         <id>https://v.daum.net/v/20230331030300556</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230330215409203"/>
         <updated>2023-03-30T15:21:12.246Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고산자 숨결 담은 대동여지도, '완전판' 일본서 돌아왔다]]></title>
-        <id>https://v.daum.net/v/20230330213010825</id>
-        <link href="https://v.daum.net/v/20230330213010825"/>
-        <updated>2023-03-30T15:21:12.248Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
