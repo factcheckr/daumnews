@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-03-31T10:21:55.164Z</updated>
+    <updated>2023-03-31T11:18:09.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[와해된 KT 이사회…주주총회에선 고성 난무]]></title>
+        <id>https://v.daum.net/v/20230331183512187</id>
+        <link href="https://v.daum.net/v/20230331183512187"/>
+        <updated>2023-03-31T11:17:10.879Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종이책 읽는 사람 너무 없어…교보문고마저 '눈물의 감원']]></title>
         <id>https://v.daum.net/v/20230331180702713</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230331164057464"/>
         <updated>2023-03-31T08:24:48.655Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[동해안 역사문화 리포트] 5.반란을 일으키다]]></title>
-        <id>https://v.daum.net/v/20230331163500280</id>
-        <link href="https://v.daum.net/v/20230331163500280"/>
-        <updated>2023-03-31T08:24:48.666Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
