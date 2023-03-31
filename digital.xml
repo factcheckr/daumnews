@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-03-31T19:16:44.279Z</updated>
+    <updated>2023-03-31T20:20:23.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[핵심 벗어난 통신요금 인하대책 [최연진의 IT 프리즘]]]></title>
+        <id>https://v.daum.net/v/20230401043045210</id>
+        <link href="https://v.daum.net/v/20230401043045210"/>
+        <updated>2023-03-31T20:19:33.698Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“아이패드용 OLED 패널 선점하자” 삼성·LG 불꽃 경쟁]]></title>
         <id>https://v.daum.net/v/20230401000122191</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230331185116439"/>
         <updated>2023-03-31T10:21:11.423Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[IT애정남] 이어폰, 한쪽만 들어도 되나요?]]></title>
-        <id>https://v.daum.net/v/20230331185102435</id>
-        <link href="https://v.daum.net/v/20230331185102435"/>
-        <updated>2023-03-31T10:21:11.423Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
