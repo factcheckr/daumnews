@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-03-31T18:28:01.500Z</updated>
+    <updated>2023-03-31T19:16:44.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[너의 이름은]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/3qdUSIGMe0</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/3qdUSIGMe0"/>
+        <updated>2023-03-31T19:16:16.064Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초록빛 산책]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/81Vp709rDy</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033115/bEOPgbQSpk"/>
         <updated>2023-03-31T06:25:36.542Z</updated>
         <content type="html"><![CDATA[대만 차이잉원 총통]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름같은 봄]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1461/FtRkFrT6Bb</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1461/FtRkFrT6Bb"/>
-        <updated>2023-03-31T06:25:36.543Z</updated>
-        <content type="html"><![CDATA[서울의 풍경]]></content>
     </entry>
 </feed>

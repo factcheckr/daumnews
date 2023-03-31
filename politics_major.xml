@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-03-31T18:28:01.501Z</updated>
+    <updated>2023-03-31T19:16:44.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[응급의료 ‘표류’ 실태에… 정치권 “대책 시급”]]></title>
+        <id>https://v.daum.net/v/20230401030100959</id>
+        <link href="https://v.daum.net/v/20230401030100959"/>
+        <updated>2023-03-31T19:14:57.949Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[野 “국회가 예산총액도 심사” 與 “또 예산완박”]]></title>
         <id>https://v.daum.net/v/20230401030137979</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230331233110011"/>
         <updated>2023-03-31T17:16:46.515Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북, 중국 범죄조직에 보이스피싱 앱 판매…7800억 원 피해, 대부분 한국서 발생]]></title>
-        <id>https://v.daum.net/v/20230331223309586</id>
-        <link href="https://v.daum.net/v/20230331223309586"/>
-        <updated>2023-03-31T16:22:15.066Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
 </feed>
