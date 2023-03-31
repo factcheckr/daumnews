@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-03-31T12:36:27.289Z</updated>
+    <updated>2023-03-31T13:25:11.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[애플 부사장 "강남에서 놀라운 열정과 창의성 느껴"]]></title>
-        <id>https://v.daum.net/v/20230331175353415</id>
-        <link href="https://v.daum.net/v/20230331175353415"/>
-        <updated>2023-03-31T10:21:19.737Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA['그들만의 리그' 해소…KT 이사회 새판짜기]]></title>
         <id>https://v.daum.net/v/20230331173912072</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230331084839921"/>
         <updated>2023-03-31T12:35:53.427Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[버진오빗, 675명 해고 통지…공중 발사 우주로켓 개발 악재되나]]></title>
+        <id>https://v.daum.net/v/20230331154638740</id>
+        <link href="https://v.daum.net/v/20230331154638740"/>
+        <updated>2023-03-31T13:24:32.773Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
