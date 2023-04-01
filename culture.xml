@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-04-01T19:15:30.363Z</updated>
+    <updated>2023-04-01T20:20:00.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주말에 몰아자면 피로 풀린다? 건강엔 ‘악영향’]]></title>
+        <id>https://v.daum.net/v/20230402050016758</id>
+        <link href="https://v.daum.net/v/20230402050016758"/>
+        <updated>2023-04-01T20:19:03.581Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[만우절에 잊힌 이날…‘282’를 기억하라]]></title>
         <id>https://v.daum.net/v/20230402030120672</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230402000201436"/>
         <updated>2023-04-01T15:17:47.537Z</updated>
         <content type="html"><![CDATA[bnt뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로필을 갈아엎었을 뿐인데 [별별인턴]]]></title>
-        <id>https://v.daum.net/v/20230402000411458</id>
-        <link href="https://v.daum.net/v/20230402000411458"/>
-        <updated>2023-04-01T15:17:47.538Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
