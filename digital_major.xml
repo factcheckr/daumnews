@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-01T02:35:20.884Z</updated>
+    <updated>2023-04-01T03:21:03.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[태양 질량의 300억배? 자이언트 블랙홀 [사이언스 PICK]]]></title>
+        <id>https://v.daum.net/v/20230401103012470</id>
+        <link href="https://v.daum.net/v/20230401103012470"/>
+        <updated>2023-04-01T03:20:28.448Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이탈리아서 차단?…챗GPT는 데이터를 어디서 얻었나[궁금한AI]]]></title>
         <id>https://v.daum.net/v/20230401101203273</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230401071517467"/>
         <updated>2023-04-01T01:31:14.123Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생성형 AI에 울고 웃고…글로벌 빅테크, 희비 쌍곡선]]></title>
-        <id>https://v.daum.net/v/20230401070003270</id>
-        <link href="https://v.daum.net/v/20230401070003270"/>
-        <updated>2023-04-01T01:31:14.123Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
