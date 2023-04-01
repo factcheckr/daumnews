@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-04-01T05:18:54.997Z</updated>
+    <updated>2023-04-01T06:23:58.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[애플 쇼크웨이브]⑧'무어 시대' 끝났다…'반도체 법칙' 춘추전국시대]]></title>
+        <id>https://v.daum.net/v/20230401141830020</id>
+        <link href="https://v.daum.net/v/20230401141830020"/>
+        <updated>2023-04-01T06:23:09.896Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["챗GPT, 개인정보 불법 수집"…이탈리아, 접속 끊었다]]></title>
         <id>https://v.daum.net/v/20230401133907503</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230401110307841"/>
         <updated>2023-04-01T02:34:33.207Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두통은 왜 항상 같은 때 생기는걸까[달콤한 사이언스]]]></title>
-        <id>https://v.daum.net/v/20230401110101814</id>
-        <link href="https://v.daum.net/v/20230401110101814"/>
-        <updated>2023-04-01T02:34:33.207Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>

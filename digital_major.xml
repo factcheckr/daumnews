@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-01T05:18:55.023Z</updated>
+    <updated>2023-04-01T06:23:58.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[두통은 왜 항상 같은 때 생기는걸까[달콤한 사이언스]]]></title>
+        <id>https://v.daum.net/v/20230401110101814</id>
+        <link href="https://v.daum.net/v/20230401110101814"/>
+        <updated>2023-04-01T06:23:19.791Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화성 삼각주 정상 첫 시료 수집…35억년 전 강물 흔적 찾을까]]></title>
         <id>https://v.daum.net/v/20230401093004737</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230401080053822"/>
         <updated>2023-04-01T01:31:14.115Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[잠깐과학] 1896년 4월 나일론의 아버지 월리스 흄 캐러더스 탄생]]></title>
-        <id>https://v.daum.net/v/20230401080013777</id>
-        <link href="https://v.daum.net/v/20230401080013777"/>
-        <updated>2023-04-01T01:31:14.122Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
