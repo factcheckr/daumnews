@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-04-01T17:19:59.342Z</updated>
+    <updated>2023-04-01T18:22:20.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비트코인 1분기 72% 급등…2년 만에 최대 상승폭]]></title>
+        <id>https://v.daum.net/v/20230402022309667</id>
+        <link href="https://v.daum.net/v/20230402022309667"/>
+        <updated>2023-04-01T18:19:34.161Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혹시 우리 아이도? '자폐증' 알리는 신호]]></title>
+        <id>https://v.daum.net/v/20230402020009648</id>
+        <link href="https://v.daum.net/v/20230402020009648"/>
+        <updated>2023-04-01T18:19:34.180Z</updated>
+        <content type="html"><![CDATA[문화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['엡스타인 피해자 vs JP모건' 재판에 구글 창업자도 증거 제출]]></title>
         <id>https://v.daum.net/v/20230402020819659</id>
@@ -130,19 +144,5 @@
         <link href="https://v.daum.net/v/20230401205127352"/>
         <updated>2023-04-01T14:14:26.423Z</updated>
         <content type="html"><![CDATA[IT]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미 역대 대통령 첫 기소' 트럼프 4일 출석…법원 앞은 벌써부터 장사진]]></title>
-        <id>https://v.daum.net/v/20230401200344033</id>
-        <link href="https://v.daum.net/v/20230401200344033"/>
-        <updated>2023-04-01T14:14:26.424Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[OPEN 인터뷰]홍성흔 “던지고 싶었다”…김정임 “하고 싶은 대로 해”]]></title>
-        <id>https://v.daum.net/v/20230401202258126</id>
-        <link href="https://v.daum.net/v/20230401202258126"/>
-        <updated>2023-04-01T14:14:26.426Z</updated>
-        <content type="html"><![CDATA[문화]]></content>
     </entry>
 </feed>
