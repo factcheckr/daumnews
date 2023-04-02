@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-02T15:19:22.134Z</updated>
+    <updated>2023-04-02T16:23:29.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230402213425266"/>
         <updated>2023-04-02T13:20:43.079Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[벤처기업 '인력 확보' 전쟁 중…“정부 차원 적극적 규제 완화 절실” [진화하는 AI, 내 곁에 ON 미래]]]></title>
+        <id>https://v.daum.net/v/20230402204010639</id>
+        <link href="https://v.daum.net/v/20230402204010639"/>
+        <updated>2023-04-02T16:22:51.524Z</updated>
+        <content type="html"><![CDATA[경기일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“160만원→80만원” 삼성 최고 제품 ‘반값폰’ 깜짝 발표 예고]]></title>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20230402090117635</id>
         <link href="https://v.daum.net/v/20230402090117635"/>
         <updated>2023-04-02T11:18:20.843Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스페셜리포트]음악스트리밍 저작권료 상생안 놓고 의견 '팽팽']]></title>
-        <id>https://v.daum.net/v/20230402090108626</id>
-        <link href="https://v.daum.net/v/20230402090108626"/>
-        <updated>2023-04-02T11:18:20.845Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>

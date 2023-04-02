@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-04-02T15:19:22.124Z</updated>
+    <updated>2023-04-02T16:23:28.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[챗GPT의 명암…기술의 질주와 폭주 사이]]></title>
+        <id>https://v.daum.net/v/20230403010005490</id>
+        <link href="https://v.daum.net/v/20230403010005490"/>
+        <updated>2023-04-02T16:22:41.703Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[View & Review] 팬데믹 3년…배민은 질주하고, 두나무는 주춤했다]]></title>
         <id>https://v.daum.net/v/20230403000331313</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230402204548716"/>
         <updated>2023-04-02T12:33:00.431Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벤처기업 '인력 확보' 전쟁 중…“정부 차원 적극적 규제 완화 절실” [진화하는 AI, 내 곁에 ON 미래]]]></title>
-        <id>https://v.daum.net/v/20230402204010639</id>
-        <link href="https://v.daum.net/v/20230402204010639"/>
-        <updated>2023-04-02T12:33:00.432Z</updated>
-        <content type="html"><![CDATA[경기일보]]></content>
     </entry>
 </feed>
