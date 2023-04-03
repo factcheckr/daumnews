@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-04-03T17:18:12.506Z</updated>
+    <updated>2023-04-03T18:23:47.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘편견쟁이’ AI]]></title>
+        <id>https://v.daum.net/v/20230404030820679</id>
+        <link href="https://v.daum.net/v/20230404030820679"/>
+        <updated>2023-04-03T18:23:02.341Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기업이 “AI가 해고했소” 책임 못 돌리게… 개인정보법 손질]]></title>
+        <id>https://v.daum.net/v/20230404030520543</id>
+        <link href="https://v.daum.net/v/20230404030520543"/>
+        <updated>2023-04-03T18:23:02.344Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[100명이 하던 일 혼자서…'챗GPT', 인간 일자리 위협한다]]></title>
         <id>https://v.daum.net/v/20230403180707421</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230403204048596"/>
         <updated>2023-04-03T14:18:21.142Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["통신비 고지서, 단말기값·소액결제는 빼고 봐주세요"]]></title>
-        <id>https://v.daum.net/v/20230403195037515</id>
-        <link href="https://v.daum.net/v/20230403195037515"/>
-        <updated>2023-04-03T11:17:42.812Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“비싼 배달비·수수료, 배달앱 못 쓰겠다” 불만 터진 이용자들]]></title>
-        <id>https://v.daum.net/v/20230403192703950</id>
-        <link href="https://v.daum.net/v/20230403192703950"/>
-        <updated>2023-04-03T11:17:42.817Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
