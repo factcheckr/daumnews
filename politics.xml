@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-04-03T15:20:58.492Z</updated>
+    <updated>2023-04-03T16:27:34.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[尹, 오늘 양곡법 개정안 거부권 행사할 듯…野 ‘반발’]]></title>
+        <id>https://v.daum.net/v/20230404003741940</id>
+        <link href="https://v.daum.net/v/20230404003741940"/>
+        <updated>2023-04-03T16:25:36.759Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[체포안 통과된 與 하영제, 구속영장 기각]]></title>
         <id>https://v.daum.net/v/20230403213948690</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230403230911181"/>
         <updated>2023-04-03T15:18:55.787Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑스포 유치 팔 걷은 尹 "BUSAN IS READY"]]></title>
-        <id>https://v.daum.net/v/20230403225700067</id>
-        <link href="https://v.daum.net/v/20230403225700067"/>
-        <updated>2023-04-03T15:18:55.788Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
