@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-03T03:20:49.133Z</updated>
+    <updated>2023-04-03T04:24:05.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] "암호화폐로 수백억"…가짜 광고에 유명 언론인 도용]]></title>
+        <id>https://v.daum.net/v/20230403113101895</id>
+        <link href="https://v.daum.net/v/20230403113101895"/>
+        <updated>2023-04-03T04:23:21.109Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 아이폰에 USB-C 어떻게 도입할까]]></title>
+        <id>https://v.daum.net/v/20230403112405617</id>
+        <link href="https://v.daum.net/v/20230403112405617"/>
+        <updated>2023-04-03T04:23:21.110Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반도체 전쟁 심화...中, 美 마이크론 제품 보안 조사]]></title>
         <id>https://v.daum.net/v/20230403112144515</id>
@@ -41,13 +55,6 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KAIST, 친환경 분리공정 기술로 나노여과막 개발]]></title>
-        <id>https://v.daum.net/v/20230403100331698</id>
-        <link href="https://v.daum.net/v/20230403100331698"/>
-        <updated>2023-04-03T02:33:13.660Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[KT 지배구조 바뀔 수 있을까…'사외이사 주식회사' 탈피 관건]]></title>
         <id>https://v.daum.net/v/20230403100152618</id>
         <link href="https://v.daum.net/v/20230403100152618"/>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230403095253174"/>
         <updated>2023-04-03T01:25:57.185Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화웨이 헬스 앱, 플레이스토어서 구매 중단]]></title>
-        <id>https://v.daum.net/v/20230403094041658</id>
-        <link href="https://v.daum.net/v/20230403094041658"/>
-        <updated>2023-04-03T01:25:57.185Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
