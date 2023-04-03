@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-04-03T16:27:34.173Z</updated>
+    <updated>2023-04-03T17:18:12.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[EU고위대표-美국무 4일 회동…LNG·청정기술 등 에너지안보 논의]]></title>
+        <id>https://v.daum.net/v/20230404002544845</id>
+        <link href="https://v.daum.net/v/20230404002544845"/>
+        <updated>2023-04-03T17:17:00.351Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“일본, 중국과 한·중·일 정상회의 합의”…연내 개최 물꼬]]></title>
         <id>https://v.daum.net/v/20230404001239774</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230403231832262"/>
         <updated>2023-04-03T15:19:45.190Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사우디 또 미국 뒤통수… 러와 함께 116만 배럴 기습 감산]]></title>
-        <id>https://v.daum.net/v/20230403231313202</id>
-        <link href="https://v.daum.net/v/20230403231313202"/>
-        <updated>2023-04-03T15:19:45.190Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>

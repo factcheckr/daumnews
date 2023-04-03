@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-03T16:27:34.180Z</updated>
+    <updated>2023-04-03T17:18:12.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[점유율 뚝뚝 '위기의 갤워치'..."삼페 넣어 말아" 장고 빠진 삼성]]></title>
+        <id>https://v.daum.net/v/20230403190402586</id>
+        <link href="https://v.daum.net/v/20230403190402586"/>
+        <updated>2023-04-03T17:17:37.817Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이영완의 사이언스카페 | 동물실험 성차별의 진위] 100년간 이어진 실험실의 성차별 관행, 과학적 근거 없다]]></title>
         <id>https://v.daum.net/v/20230403184542287</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230403164542552"/>
         <updated>2023-04-03T09:23:28.874Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["페이코인 상폐, 석연치 않아"…왜?]]></title>
-        <id>https://v.daum.net/v/20230403164304460</id>
-        <link href="https://v.daum.net/v/20230403164304460"/>
-        <updated>2023-04-03T09:23:28.887Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
