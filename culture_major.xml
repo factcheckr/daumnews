@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-04-04T18:21:44.939Z</updated>
+    <updated>2023-04-04T19:16:06.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소설가와 에디터의 글로 만나는 4월의 벚꽃]]></title>
+        <id>https://v.daum.net/v/20230405000042049</id>
+        <link href="https://v.daum.net/v/20230405000042049"/>
+        <updated>2023-04-04T19:15:13.754Z</updated>
+        <content type="html"><![CDATA[코스모폴리탄]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나랑 안맞는 친구, 손절해야 한다는 신호 8]]></title>
         <id>https://v.daum.net/v/20230404200103455</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230404210104781"/>
         <updated>2023-04-04T14:19:21.421Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["알박기 우려" 주민 반발에…구청, 사랑제일교회 거래 '불허']]></title>
-        <id>https://v.daum.net/v/20230404205305613</id>
-        <link href="https://v.daum.net/v/20230404205305613"/>
-        <updated>2023-04-04T13:22:32.409Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>

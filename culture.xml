@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-04-04T18:21:44.973Z</updated>
+    <updated>2023-04-04T19:16:06.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독서 욕구 높지만 독서율 떨어지는 이유는?]]></title>
+        <id>https://v.daum.net/v/20230405035101925</id>
+        <link href="https://v.daum.net/v/20230405035101925"/>
+        <updated>2023-04-04T19:15:03.490Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 며느리의 60년 한국 사랑… 조선 회화 13점 돌아왔다]]></title>
         <id>https://v.daum.net/v/20230405030512845</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230405030150674"/>
         <updated>2023-04-04T18:20:49.055Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소설가와 에디터의 글로 만나는 4월의 벚꽃]]></title>
-        <id>https://v.daum.net/v/20230405000042049</id>
-        <link href="https://v.daum.net/v/20230405000042049"/>
-        <updated>2023-04-04T15:19:56.794Z</updated>
-        <content type="html"><![CDATA[코스모폴리탄]]></content>
     </entry>
 </feed>

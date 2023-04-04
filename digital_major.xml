@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-04T18:21:44.940Z</updated>
+    <updated>2023-04-04T19:16:06.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문어발 확장, 내부거래 과다, 직장 괴롭힘… “네이버, 개선 약속 안지켜 국감 반복 소환”]]></title>
+        <id>https://v.daum.net/v/20230405030108630</id>
+        <link href="https://v.daum.net/v/20230405030108630"/>
+        <updated>2023-04-04T19:15:31.903Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[복지천국이라던 구글 ‘무료 식사’까지 줄인다]]></title>
         <id>https://v.daum.net/v/20230405030313757</id>
@@ -18,6 +25,13 @@
         <link href="https://v.daum.net/v/20230405030231709"/>
         <updated>2023-04-04T18:21:14.516Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트위터 로고 교체?...도지코인 시바견, ‘파랑새’ 신분증에 “내 옛날사진”]]></title>
+        <id>https://v.daum.net/v/20230404210605909</id>
+        <link href="https://v.daum.net/v/20230404210605909"/>
+        <updated>2023-04-04T19:15:31.910Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유럽서는 ‘챗GPT 규제’ 속도…국내서도 신중론 고개]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230404174632060"/>
         <updated>2023-04-04T12:38:25.273Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 IRA 세부지침 뚜껑 열어보니...韓日 배터리 경쟁 심화되나]]></title>
-        <id>https://v.daum.net/v/20230404174454015</id>
-        <link href="https://v.daum.net/v/20230404174454015"/>
-        <updated>2023-04-04T11:16:45.604Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["암호화폐 훔쳐서 자력갱생"… 5년간 北해커집단 추적, 보고서 나왔다]]></title>
-        <id>https://v.daum.net/v/20230404172353249</id>
-        <link href="https://v.daum.net/v/20230404172353249"/>
-        <updated>2023-04-04T10:26:14.565Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
