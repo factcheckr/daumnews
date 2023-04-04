@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-04-04T14:20:13.382Z</updated>
+    <updated>2023-04-04T15:21:07.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KT, '머리 끝부터 발끝까지 바꾼다'...지배구조 개선 방향은?]]></title>
+        <id>https://v.daum.net/v/20230405000049053</id>
+        <link href="https://v.daum.net/v/20230405000049053"/>
+        <updated>2023-04-04T15:20:20.058Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50년 전 ‘첫 휴대폰 통화’ 주인공 “그때 경쟁사는 카폰 개발에 집중했지”]]></title>
+        <id>https://v.daum.net/v/20230404235105978</id>
+        <link href="https://v.daum.net/v/20230404235105978"/>
+        <updated>2023-04-04T15:20:20.060Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[제보K] “공동사업 하자더니 아이디어 베껴”…카카오 “사실무근”]]></title>
         <id>https://v.daum.net/v/20230404214833832</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230404210605909"/>
         <updated>2023-04-04T12:38:16.449Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[집중취재M] 챗GPT 이용자 결제 정보 유출‥국내도 이용자 피해 조사]]></title>
-        <id>https://v.daum.net/v/20230404201914969</id>
-        <link href="https://v.daum.net/v/20230404201914969"/>
-        <updated>2023-04-04T12:38:16.452Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제작 원가 늘어 적자 커지자… 국내 OTT 해외서 활로 찾는다]]></title>
-        <id>https://v.daum.net/v/20230404193425735</id>
-        <link href="https://v.daum.net/v/20230404193425735"/>
-        <updated>2023-04-04T11:16:36.979Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
