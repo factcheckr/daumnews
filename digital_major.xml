@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-04T03:20:50.103Z</updated>
+    <updated>2023-04-04T04:23:28.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230404114522688"/>
         <updated>2023-04-04T03:20:08.162Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[특허청에 '반도체 전담 심사국' 생긴다…주요국 중 처음]]></title>
+        <id>https://v.daum.net/v/20230404112210588</id>
+        <link href="https://v.daum.net/v/20230404112210588"/>
+        <updated>2023-04-04T04:22:58.311Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["우수인재 의대 쏠림?...이공계 박사 갈 곳이 줄었다"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230404101154131"/>
         <updated>2023-04-04T02:36:02.746Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최대 지름 수백km…8만5천개 금성 화산지도 나왔다]]></title>
-        <id>https://v.daum.net/v/20230404100508869</id>
-        <link href="https://v.daum.net/v/20230404100508869"/>
-        <updated>2023-04-04T02:36:02.746Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
