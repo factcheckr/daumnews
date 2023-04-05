@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-04-05T16:34:20.030Z</updated>
+    <updated>2023-04-05T17:20:25.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오마이걸·비·조수미…‘K-컬처의 밤’ 실사단 홀렸다]]></title>
+        <id>https://v.daum.net/v/20230405195100052</id>
+        <link href="https://v.daum.net/v/20230405195100052"/>
+        <updated>2023-04-05T17:19:17.079Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미세먼지 노출되면 정상세포가 유전자 변이… 폐암 확률 높아진다]]></title>
         <id>https://v.daum.net/v/20230406000042257</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230405205906267"/>
         <updated>2023-04-05T15:25:12.881Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['노 개런티' 기획공연···연주자에 "공연 표까지 팔아 와라"]]></title>
-        <id>https://v.daum.net/v/20230405210515381</id>
-        <link href="https://v.daum.net/v/20230405210515381"/>
-        <updated>2023-04-05T13:31:40.271Z</updated>
-        <content type="html"><![CDATA[대구MBC]]></content>
     </entry>
 </feed>
