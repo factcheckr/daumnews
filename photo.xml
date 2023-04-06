@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-04-06T12:35:23.368Z</updated>
+    <updated>2023-04-06T13:24:23.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[역대급 불꽃쇼, 보여줄 건 다 보여 줬다 [청계천 옆 사진관]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/344179/4JtKhS5JrZ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/344179/4JtKhS5JrZ"/>
+        <updated>2023-04-06T13:23:57.218Z</updated>
+        <content type="html"><![CDATA[청계천 옆 사진관]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베이징서 회동하는 마크롱·시진핑·폰데어라이엔]]></title>
         <id>https://gallery.v.daum.net/p/viewer/2904/WsLvdikU7M</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1476/bNPLQRNF0A"/>
         <updated>2023-04-06T08:24:21.871Z</updated>
         <content type="html"><![CDATA[미국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["수학여행 정말 가나요?"…설레는 아이들에 학부모는 '쓴웃음', 왜?]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5014013/5goUCS5Jxr</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5014013/5goUCS5Jxr"/>
-        <updated>2023-04-06T12:34:53.825Z</updated>
-        <content type="html"><![CDATA['코로나19' 바이러스]]></content>
     </entry>
 </feed>
