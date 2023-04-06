@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-06T14:18:42.654Z</updated>
+    <updated>2023-04-06T15:18:57.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230406222338862"/>
         <updated>2023-04-06T14:18:07.147Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[월간 자동차] 23년 3월…신차·중고차 등록 모두 상승세 기록]]></title>
+        <id>https://v.daum.net/v/20230406193902529</id>
+        <link href="https://v.daum.net/v/20230406193902529"/>
+        <updated>2023-04-06T15:18:23.574Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 원자력硏 직원, 납품사와 짜고 15억 횡령]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230406174058520"/>
         <updated>2023-04-06T10:21:07.224Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리튬 가격 3분의 1 토막으로…배터리 핵심광물 안정세]]></title>
-        <id>https://v.daum.net/v/20230406170117180</id>
-        <link href="https://v.daum.net/v/20230406170117180"/>
-        <updated>2023-04-06T14:18:07.159Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
