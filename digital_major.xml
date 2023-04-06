@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-06T03:20:38.276Z</updated>
+    <updated>2023-04-06T04:24:02.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빅뱅 30억년 초기 우주서 합체 중인 은하 안 쌍(雙) 퀘이사 포착]]></title>
+        <id>https://v.daum.net/v/20230406110709970</id>
+        <link href="https://v.daum.net/v/20230406110709970"/>
+        <updated>2023-04-06T04:23:24.850Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“알람 OFF” “실수 OK”…영국 디지털정부청, 스타트업처럼 일한다]]></title>
         <id>https://v.daum.net/v/20230406110522880</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230406100106553"/>
         <updated>2023-04-06T02:34:00.301Z</updated>
         <content type="html"><![CDATA[신동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낮도 밤도 아닌, 늘 황혼…그 행성 ‘터미네이터 존’의 비밀]]></title>
-        <id>https://v.daum.net/v/20230406100508758</id>
-        <link href="https://v.daum.net/v/20230406100508758"/>
-        <updated>2023-04-06T02:34:00.307Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
