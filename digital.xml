@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-04-08T01:20:33.965Z</updated>
+    <updated>2023-04-08T02:30:49.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[과학을읽다]리튬전쟁 생존법, 배터리를 갈고 끓여라]]></title>
+        <id>https://v.daum.net/v/20230408104023282</id>
+        <link href="https://v.daum.net/v/20230408104023282"/>
+        <updated>2023-04-08T02:30:07.372Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“내가 찜한 물건, 어떻게 알았지?”…사이버 미행꾼 ‘인터넷 쿠키’]]></title>
         <id>https://v.daum.net/v/20230408100545949</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230408082100761"/>
         <updated>2023-04-08T01:19:48.379Z</updated>
         <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주말엔] 경영 공백 탓?…KT, 1분기 나홀로 역성장]]></title>
-        <id>https://v.daum.net/v/20230408090612236</id>
-        <link href="https://v.daum.net/v/20230408090612236"/>
-        <updated>2023-04-08T01:19:48.380Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
