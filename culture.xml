@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-04-08T15:18:57.916Z</updated>
+    <updated>2023-04-08T16:23:05.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[치사율 18.7% ‘살인 진드기’…88세 여성농민 사망]]></title>
+        <id>https://v.daum.net/v/20230408154946838</id>
+        <link href="https://v.daum.net/v/20230408154946838"/>
+        <updated>2023-04-08T16:22:14.933Z</updated>
+        <content type="html"><![CDATA[농민신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꿀잠 방해하는 수면무호흡증, 뇌까지 망가뜨린다?]]></title>
+        <id>https://v.daum.net/v/20230409010058085</id>
+        <link href="https://v.daum.net/v/20230409010058085"/>
+        <updated>2023-04-08T16:22:14.937Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[숏팩트] 반가운 '단비'에 이른 '벚꽃엔딩'…벚꽃 없는 벚꽃축제 (영상)]]></title>
         <id>https://v.daum.net/v/20230409000043813</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230408211819675"/>
         <updated>2023-04-08T13:20:54.887Z</updated>
         <content type="html"><![CDATA[kbc광주방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] '미생 시즌2' 윤태호 작가 "꼰대? 이것 막고 이것 열려있는 사람"]]></title>
-        <id>https://v.daum.net/v/20230408185504275</id>
-        <link href="https://v.daum.net/v/20230408185504275"/>
-        <updated>2023-04-08T12:32:08.027Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 일요일 아침엔 '쌀쌀'…큰 일교차 유의하세요]]></title>
-        <id>https://v.daum.net/v/20230408205704476</id>
-        <link href="https://v.daum.net/v/20230408205704476"/>
-        <updated>2023-04-08T12:32:08.027Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
