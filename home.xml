@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-04-08T17:16:31.056Z</updated>
+    <updated>2023-04-08T18:22:12.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['종교인 박해' 니카라과 정부, 부활주간 행사도 탄압]]></title>
+        <id>https://v.daum.net/v/20230409021525226</id>
+        <link href="https://v.daum.net/v/20230409021525226"/>
+        <updated>2023-04-08T18:19:47.109Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뛰는 생닭 가격…치킨값 더 오를까?]]></title>
         <id>https://v.daum.net/v/20230408213448815</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20230408172455955"/>
         <updated>2023-04-08T13:19:28.857Z</updated>
         <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다래끼 같지만… 암 의심해야 할 때는?]]></title>
-        <id>https://v.daum.net/v/20230408220015012</id>
-        <link href="https://v.daum.net/v/20230408220015012"/>
-        <updated>2023-04-08T13:19:28.859Z</updated>
-        <content type="html"><![CDATA[문화]]></content>
     </entry>
 </feed>
