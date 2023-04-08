@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-04-08T16:23:05.414Z</updated>
+    <updated>2023-04-08T17:16:31.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뛰는 생닭 가격…치킨값 더 오를까?]]></title>
+        <id>https://v.daum.net/v/20230408213448815</id>
+        <link href="https://v.daum.net/v/20230408213448815"/>
+        <updated>2023-04-08T17:14:05.740Z</updated>
+        <content type="html"><![CDATA[경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["海·空·정보 장악력 검증"…中 '대만포위' 훈련은 실전리허설]]></title>
+        <id>https://v.daum.net/v/20230409014035185</id>
+        <link href="https://v.daum.net/v/20230409014035185"/>
+        <updated>2023-04-08T17:14:05.748Z</updated>
+        <content type="html"><![CDATA[정치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9일 광화문 일대서 부활절 퍼레이드…도로 단계별 교통통제]]></title>
         <id>https://v.daum.net/v/20230409005704048</id>
@@ -130,19 +144,5 @@
         <link href="https://v.daum.net/v/20230408220015012"/>
         <updated>2023-04-08T13:19:28.859Z</updated>
         <content type="html"><![CDATA[문화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“깨끗한 선진국, 일본”…기득권의 들켜버린 ‘식민적 사고’]]></title>
-        <id>https://v.daum.net/v/20230408180507665</id>
-        <link href="https://v.daum.net/v/20230408180507665"/>
-        <updated>2023-04-08T13:19:28.860Z</updated>
-        <content type="html"><![CDATA[정치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“돈 없어서 벌금 못 내”…2023년판 ‘장발장’ 급증]]></title>
-        <id>https://v.daum.net/v/20230408214308888</id>
-        <link href="https://v.daum.net/v/20230408214308888"/>
-        <updated>2023-04-08T13:19:28.862Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
     </entry>
 </feed>
