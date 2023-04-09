@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-04-09T10:21:17.442Z</updated>
+    <updated>2023-04-09T11:19:01.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대형 LED스크린의 압도적 비주얼…고전 '파우스트' 파격 변신]]></title>
+        <id>https://v.daum.net/v/20230409200009039</id>
+        <link href="https://v.daum.net/v/20230409200009039"/>
+        <updated>2023-04-09T11:17:54.555Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머리숱 고민?....탈모 부르는 습관들]]></title>
         <id>https://v.daum.net/v/20230409180059674</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230409180014658"/>
         <updated>2023-04-09T09:16:58.001Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[클래식 리뷰] '바이올린 우영우' 토닥인 츠베덴…"아버지 마음으로 지휘"]]></title>
-        <id>https://v.daum.net/v/20230409173007014</id>
-        <link href="https://v.daum.net/v/20230409173007014"/>
-        <updated>2023-04-09T09:16:58.004Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>

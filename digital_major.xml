@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-09T10:21:17.427Z</updated>
+    <updated>2023-04-09T11:19:01.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA["당신이 먹는 미세플라스틱…신용카드 2500장"]]></title>
-        <id>https://v.daum.net/v/20230409173602160</id>
-        <link href="https://v.daum.net/v/20230409173602160"/>
-        <updated>2023-04-09T10:20:43.967Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[T1 100% 승률 자랑하던 케넨·케이틀린…젠지에게 꺾였다]]></title>
         <id>https://v.daum.net/v/20230409172655948</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230409140013580"/>
         <updated>2023-04-09T07:21:18.832Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["어차피 우승은 T1 vs 젠지"…LCK 스프링 결승 현장 가보니]]></title>
+        <id>https://v.daum.net/v/20230409133211224</id>
+        <link href="https://v.daum.net/v/20230409133211224"/>
+        <updated>2023-04-09T11:18:24.164Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
