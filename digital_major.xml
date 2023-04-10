@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-10T19:16:41.589Z</updated>
+    <updated>2023-04-10T20:21:02.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20230411030053294"/>
         <updated>2023-04-10T19:16:04.416Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[한국 과학기술 1번지] "KINS 방사능 감시·분석 기술, 국제사회 입증"]]></title>
+        <id>https://v.daum.net/v/20230410200248561</id>
+        <link href="https://v.daum.net/v/20230410200248561"/>
+        <updated>2023-04-10T20:20:25.126Z</updated>
+        <content type="html"><![CDATA[대전일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 돈 못버는 제약바이오사, 감사의견 거절·부실 속출]]></title>
+        <id>https://v.daum.net/v/20230410162109721</id>
+        <link href="https://v.daum.net/v/20230410162109721"/>
+        <updated>2023-04-10T20:20:25.129Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“8만원짜리 사자마자, 15만원에 팔려고 했다가” 결국 혼쭐난 ‘되팔이’]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230410181510705"/>
         <updated>2023-04-10T10:20:21.484Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[목적지 모르는 택시···"손님 골라 태우기 감소" vs "길거리 호객행위 부추길 것"]]></title>
-        <id>https://v.daum.net/v/20230410180516426</id>
-        <link href="https://v.daum.net/v/20230410180516426"/>
-        <updated>2023-04-10T13:23:44.770Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“갤탭 370대 팔았다”…알고보니 가개통, 줄줄 새는 보조금]]></title>
-        <id>https://v.daum.net/v/20230410174800772</id>
-        <link href="https://v.daum.net/v/20230410174800772"/>
-        <updated>2023-04-10T14:17:42.817Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
