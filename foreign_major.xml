@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-04-10T15:19:23.282Z</updated>
+    <updated>2023-04-10T16:24:45.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바이든, NBC 인터뷰서 “2024년 대통령 선거 출마”]]></title>
+        <id>https://v.daum.net/v/20230410231421523</id>
+        <link href="https://v.daum.net/v/20230410231421523"/>
+        <updated>2023-04-10T16:23:27.497Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본 자민당 지방선거 과반 승리…기시다 힘받을 듯]]></title>
         <id>https://v.daum.net/v/20230411000122783</id>
         <link href="https://v.daum.net/v/20230411000122783"/>
         <updated>2023-04-10T15:18:04.905Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사이테크+] 탈원전 걸림돌 '대기질'…"화석연료 사용 늘어 사망자↑"]]></title>
+        <id>https://v.daum.net/v/20230411000012735</id>
+        <link href="https://v.daum.net/v/20230411000012735"/>
+        <updated>2023-04-10T16:23:27.497Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일본 코로나 신규감염 3260명...누적 3352만7929명]]></title>
+        <id>https://v.daum.net/v/20230410235311689</id>
+        <link href="https://v.daum.net/v/20230410235311689"/>
+        <updated>2023-04-10T16:23:27.497Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바이든 “2024년 대선 출마할 생각”... 발표 시기는 아직]]></title>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20230410223001307"/>
         <updated>2023-04-10T15:18:04.912Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스라엘, 그리스에 5천300억원 규모 스파이크 미사일 판매]]></title>
-        <id>https://v.daum.net/v/20230410224723412</id>
-        <link href="https://v.daum.net/v/20230410224723412"/>
-        <updated>2023-04-10T15:18:04.912Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신임 BOJ총재 "YCC 당분간 지속"…정책 변경 가능성도 시사(종합)]]></title>
-        <id>https://v.daum.net/v/20230410225205431</id>
-        <link href="https://v.daum.net/v/20230410225205431"/>
-        <updated>2023-04-10T15:18:04.913Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수시로 숨 안 쉬는 6살 아이… ‘이 질환’ 때문]]></title>
-        <id>https://v.daum.net/v/20230410223015314</id>
-        <link href="https://v.daum.net/v/20230410223015314"/>
-        <updated>2023-04-10T14:17:05.696Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
