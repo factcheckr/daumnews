@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-10T14:18:16.784Z</updated>
+    <updated>2023-04-10T15:19:23.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[“8만원짜리 사자마자, 15만원에 팔려고 했다가” 결국 혼쭐난 ‘되팔이’]]></title>
-        <id>https://v.daum.net/v/20230410185043524</id>
-        <link href="https://v.daum.net/v/20230410185043524"/>
-        <updated>2023-04-10T12:34:13.418Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[위믹스 1000만개 털렸다…특금법 규제에도 보안 뚫린 '지닥' (종합)]]></title>
         <id>https://v.daum.net/v/20230410192733080</id>
@@ -62,17 +55,24 @@
         <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[팩플] ‘중개’로 큰 네이버, 뉴스·쇼핑 양뺨 맞나…여당발(發) 규제 급물살]]></title>
-        <id>https://v.daum.net/v/20230410175956194</id>
-        <link href="https://v.daum.net/v/20230410175956194"/>
-        <updated>2023-04-10T14:17:42.816Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“갤탭 370대 팔았다”…알고보니 가개통, 줄줄 새는 보조금]]></title>
         <id>https://v.daum.net/v/20230410174800772</id>
         <link href="https://v.daum.net/v/20230410174800772"/>
         <updated>2023-04-10T14:17:42.817Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“꾀병 딱 걸렸어”…AI, 목소리만 듣고 감기환자 찾아낸다]]></title>
+        <id>https://v.daum.net/v/20230410174735763</id>
+        <link href="https://v.daum.net/v/20230410174735763"/>
+        <updated>2023-04-10T15:18:45.293Z</updated>
+        <content type="html"><![CDATA[농민신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美빅테크 뛰는데 … 벤처정신 사라진 판교, 노조 깃발 펄럭]]></title>
+        <id>https://v.daum.net/v/20230410173902512</id>
+        <link href="https://v.daum.net/v/20230410173902512"/>
+        <updated>2023-04-10T15:18:45.293Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
