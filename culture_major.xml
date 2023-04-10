@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-04-10T18:26:28.027Z</updated>
+    <updated>2023-04-10T19:16:41.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20230411030331451"/>
         <updated>2023-04-10T18:25:35.072Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[38도 이상 열나면 보통 감기 아니죠…폐렴, 암만큼 위험]]></title>
+        <id>https://v.daum.net/v/20230411030319441</id>
+        <link href="https://v.daum.net/v/20230411030319441"/>
+        <updated>2023-04-10T19:15:44.951Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“여행해야 피 돌고 숨 트여… 영감 떠오르면 냅킨에도 쓴다”]]></title>
+        <id>https://v.daum.net/v/20230411030150352</id>
+        <link href="https://v.daum.net/v/20230411030150352"/>
+        <updated>2023-04-10T19:15:44.953Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엠폭스 지역감염 “확산 우려 적지만…1~2명씩 꾸준히 나올 수도”]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230410174726755"/>
         <updated>2023-04-10T09:20:03.465Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서구적·근대적 가치체계에 의문 제기, 예술적 대안을 모색하다]]></title>
-        <id>https://v.daum.net/v/20230410173513400</id>
-        <link href="https://v.daum.net/v/20230410173513400"/>
-        <updated>2023-04-10T09:20:03.465Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['44년 판소리 찰떡 호흡' 인간문화재 부부]]></title>
-        <id>https://v.daum.net/v/20230410172700045</id>
-        <link href="https://v.daum.net/v/20230410172700045"/>
-        <updated>2023-04-10T09:20:03.469Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
