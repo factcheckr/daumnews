@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-12T10:26:10.241Z</updated>
+    <updated>2023-04-12T11:19:38.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“요금 절감 대신 불평등”… 중간요금제의 배신]]></title>
+        <id>https://v.daum.net/v/20230412182302815</id>
+        <link href="https://v.daum.net/v/20230412182302815"/>
+        <updated>2023-04-12T11:18:56.829Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KB리브엠 시장진입에 '0원' 요금까지…"생태계 무너질까 우려"]]></title>
         <id>https://v.daum.net/v/20230412182951013</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230412172900931"/>
         <updated>2023-04-12T09:20:55.780Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[목성의 위성에서 생명체 서식 가능성 찾는다...탐사선 13일 발사]]></title>
-        <id>https://v.daum.net/v/20230412174742651</id>
-        <link href="https://v.daum.net/v/20230412174742651"/>
-        <updated>2023-04-12T09:20:55.780Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
