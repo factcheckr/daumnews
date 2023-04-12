@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-04-12T16:25:49.114Z</updated>
+    <updated>2023-04-12T18:23:56.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강원도 산불 피해 이재민 위로하는 李대표]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5796030/fhmu2L8Cuv</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5796030/fhmu2L8Cuv"/>
+        <updated>2023-04-12T18:23:24.195Z</updated>
+        <content type="html"><![CDATA[강원도 강릉 산불]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로봇 태권브이[고양이 눈]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/XvdNDGsbII</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/XvdNDGsbII"/>
+        <updated>2023-04-12T18:23:24.196Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘다누리’가 찍은 달의 뒷모습]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5589085/xdrHvUYxWI</id>
         <link href="https://gallery.v.daum.net/p/viewer/5589085/xdrHvUYxWI"/>
         <updated>2023-04-12T15:22:35.114Z</updated>
         <content type="html"><![CDATA[달 탐사선 다누리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강원도의회, 강릉 산불현장 방문…주민 애로사항 청취]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5796030/1dasjvEu3H</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5796030/1dasjvEu3H"/>
-        <updated>2023-04-12T15:22:35.115Z</updated>
-        <content type="html"><![CDATA[강원도 강릉 산불]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[황사 덮친 전국…미세먼지 올 들어 ‘최악’[포토뉴스]]]></title>
@@ -32,6 +39,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5031175/YVJHUxBEJV"/>
         <updated>2023-04-12T15:22:35.119Z</updated>
         <content type="html"><![CDATA[브라질은 지금]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동굴 안 박쥐]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/FFLk9L8C4M</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/FFLk9L8C4M"/>
+        <updated>2023-04-12T18:23:24.199Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주차된 캠핑카에서 불…배터리 발화 추정]]></title>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1497/BnlOfDiHlT"/>
         <updated>2023-04-12T09:21:03.306Z</updated>
         <content type="html"><![CDATA[우주의 신비]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10㎝ 화산재가 뒤덮은 러시아 마을…“한낮에도 칠흑”(영상)]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/2532/FWcs5xBEhl</id>
-        <link href="https://gallery.v.daum.net/p/viewer/2532/FWcs5xBEhl"/>
-        <updated>2023-04-12T09:21:03.308Z</updated>
-        <content type="html"><![CDATA[[서울신문 나우뉴스] 지구를 보다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 도서관의 날]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/674200/GhIy7o6hWG</id>
-        <link href="https://gallery.v.daum.net/p/viewer/674200/GhIy7o6hWG"/>
-        <updated>2023-04-12T09:21:03.308Z</updated>
-        <content type="html"><![CDATA[서울포토]]></content>
     </entry>
 </feed>
