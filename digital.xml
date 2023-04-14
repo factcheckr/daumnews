@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-04-14T14:19:42.589Z</updated>
+    <updated>2023-04-14T15:20:23.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[8년 만에 돌아온 '삼성'…'갤럭시S23' 日시장 정면돌파]]></title>
+        <id>https://v.daum.net/v/20230415000048720</id>
+        <link href="https://v.daum.net/v/20230415000048720"/>
+        <updated>2023-04-14T15:19:37.255Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“한번 깨지면 30만원 날리는데” 신형 아이폰, 카메라 너무 튀어나온다]]></title>
         <id>https://v.daum.net/v/20230414195758408</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230414194333175"/>
         <updated>2023-04-14T12:34:25.677Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[따로따로 온라인 공공서비스 1500종, 한 곳으로 통합한다]]></title>
-        <id>https://v.daum.net/v/20230414182002636</id>
-        <link href="https://v.daum.net/v/20230414182002636"/>
-        <updated>2023-04-14T12:34:25.681Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
