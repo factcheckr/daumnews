@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-04-15T04:27:23.953Z</updated>
+    <updated>2023-04-15T05:18:10.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다양한 원료를 미생물로 만드는 '합성생물학' [알송달송 과학]]]></title>
+        <id>https://v.daum.net/v/20230415134526395</id>
+        <link href="https://v.daum.net/v/20230415134526395"/>
+        <updated>2023-04-15T05:17:29.652Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['갤23' 제값 주고 사면 호갱… 출시 두 달 만에 공시지원금 3배 올려]]></title>
         <id>https://v.daum.net/v/20230415111747279</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230415120019592"/>
         <updated>2023-04-15T04:26:39.294Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하품에 관한 흥미로운 연구]]></title>
-        <id>https://v.daum.net/v/20230415114358480</id>
-        <link href="https://v.daum.net/v/20230415114358480"/>
-        <updated>2023-04-15T04:26:39.296Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
