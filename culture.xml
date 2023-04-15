@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-04-15T12:38:49.059Z</updated>
+    <updated>2023-04-15T13:21:47.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[냉장 보관하면 맛과 품질 떨어지는 식품들]]></title>
+        <id>https://v.daum.net/v/20230415220016999</id>
+        <link href="https://v.daum.net/v/20230415220016999"/>
+        <updated>2023-04-15T13:20:49.197Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[참사를 위로하는 작가, 이세 히데코 부산에서 원화전]]></title>
         <id>https://v.daum.net/v/20230415213438786</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230415193354731"/>
         <updated>2023-04-15T12:37:40.719Z</updated>
         <content type="html"><![CDATA[더스쿠프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진 속 어제와 오늘] 벚꽃놀이②]]></title>
-        <id>https://v.daum.net/v/20230415080106257</id>
-        <link href="https://v.daum.net/v/20230415080106257"/>
-        <updated>2023-04-15T12:37:40.720Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
