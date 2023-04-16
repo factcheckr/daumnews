@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-04-16T16:24:41.992Z</updated>
+    <updated>2023-04-16T17:23:18.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1518/VvfQ9MbDuG"/>
         <updated>2023-04-16T11:16:57.326Z</updated>
         <content type="html"><![CDATA[전국 화재사고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[벚꽃]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/9yeyPL8C6V</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/9yeyPL8C6V"/>
+        <updated>2023-04-16T17:22:43.407Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[휘발유·경유 가격 오름세]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1489/Gq5YZgPl3m"/>
         <updated>2023-04-15T22:17:55.402Z</updated>
         <content type="html"><![CDATA[북한은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핵무력과 함께하는 '김주애'…고체연료 ICBM 발사도 참관]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5611950/WJLLRZC20M</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5611950/WJLLRZC20M"/>
-        <updated>2023-04-15T22:17:55.403Z</updated>
-        <content type="html"><![CDATA[노동신문 사진]]></content>
     </entry>
 </feed>

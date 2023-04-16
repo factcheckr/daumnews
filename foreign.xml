@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-04-16T16:24:41.983Z</updated>
+    <updated>2023-04-16T17:23:18.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이란서 히잡 미착용 여성 손님 받은 155개 업소 '영업 정지']]></title>
+        <id>https://v.daum.net/v/20230417015542558</id>
+        <link href="https://v.daum.net/v/20230417015542558"/>
+        <updated>2023-04-16T17:21:45.580Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["칵테일에 내 피 섞어 팔아…고객 요청이었다" 혈액테러에 발칵]]></title>
         <id>https://v.daum.net/v/20230417000107187</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230417000115190"/>
         <updated>2023-04-16T15:18:05.199Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쓰레기통 뒤져 돈 버는 美부부…“찾은 것 중 최고는 내 남편”]]></title>
-        <id>https://v.daum.net/v/20230416235849139</id>
-        <link href="https://v.daum.net/v/20230416235849139"/>
-        <updated>2023-04-16T15:18:05.201Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
