@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-16T03:20:05.802Z</updated>
+    <updated>2023-04-16T05:20:00.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“노출되면 못 쓰는데” 1조 예산 들어간 백신, 관리 엉망에 다수 폐기]]></title>
+        <id>https://v.daum.net/v/20230416115734453</id>
+        <link href="https://v.daum.net/v/20230416115734453"/>
+        <updated>2023-04-16T05:19:18.529Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스포티파이, 음악 퀴즈 앱 '허들' 서비스 종료]]></title>
+        <id>https://v.daum.net/v/20230416115629437</id>
+        <link href="https://v.daum.net/v/20230416115629437"/>
+        <updated>2023-04-16T05:19:18.534Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 FAA, 스페이스X 스타십 발사 승인]]></title>
         <id>https://v.daum.net/v/20230416115558426</id>
@@ -41,13 +55,6 @@
         <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“TSMC를 왜 급히 팔았냐면...”워런버핏 마침내 입 열었다 [오찬종의 위클리반도체]]]></title>
-        <id>https://v.daum.net/v/20230416102400984</id>
-        <link href="https://v.daum.net/v/20230416102400984"/>
-        <updated>2023-04-16T03:19:29.117Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[생성형AI와 경쟁하는 소프트웨어 개발자들...살아남기 위해 눈물겨운 사투]]></title>
         <id>https://v.daum.net/v/20230416100938771</id>
         <link href="https://v.daum.net/v/20230416100938771"/>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230416092248086"/>
         <updated>2023-04-16T02:42:49.966Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["금속 탐지기는 가라"…지뢰 찾는 특효 기술 등장]]></title>
-        <id>https://v.daum.net/v/20230416090006785</id>
-        <link href="https://v.daum.net/v/20230416090006785"/>
-        <updated>2023-04-16T02:42:49.967Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
