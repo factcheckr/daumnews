@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-04-17T13:25:17.319Z</updated>
+    <updated>2023-04-17T14:19:34.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 반려인 1인 평균 35만원 카드 지출]]></title>
+        <id>https://v.daum.net/v/20230417193120259</id>
+        <link href="https://v.daum.net/v/20230417193120259"/>
+        <updated>2023-04-17T14:17:57.578Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈] 머스크의 스페이스X '스타십' 발사 임박…국내 우주항공 모멘텀은?]]></title>
         <id>https://v.daum.net/v/20230417221722384</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230417220136245"/>
         <updated>2023-04-17T13:23:38.780Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퇴근 후 카톡, 금지될까? ‘연결되지 않을 권리’ 논의 착수]]></title>
-        <id>https://v.daum.net/v/20230417214547041</id>
-        <link href="https://v.daum.net/v/20230417214547041"/>
-        <updated>2023-04-17T13:23:38.781Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

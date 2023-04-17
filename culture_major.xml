@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-04-17T13:25:17.327Z</updated>
+    <updated>2023-04-17T14:19:34.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼 남매 엄마가 '국민템'의 유혹에 빠지지 않는 이유]]></title>
+        <id>https://v.daum.net/v/20230417211208653</id>
+        <link href="https://v.daum.net/v/20230417211208653"/>
+        <updated>2023-04-17T14:18:38.847Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프랑스국립도서관 소장 '직지 원본' 고향 청주 전시 추진]]></title>
         <id>https://v.daum.net/v/20230417210056514</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230417193123261"/>
         <updated>2023-04-17T12:38:32.804Z</updated>
         <content type="html"><![CDATA[이코노미조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“혈당·심혈관질환 한번에 잡는다”]]></title>
-        <id>https://v.daum.net/v/20230417192618148</id>
-        <link href="https://v.daum.net/v/20230417192618148"/>
-        <updated>2023-04-17T12:38:32.805Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

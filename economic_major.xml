@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-04-17T13:25:17.333Z</updated>
+    <updated>2023-04-17T14:19:34.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20230417215724186"/>
         <updated>2023-04-17T13:23:48.131Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퇴근 후 카톡, 금지될까? ‘연결되지 않을 권리’ 논의 착수]]></title>
+        <id>https://v.daum.net/v/20230417214547041</id>
+        <link href="https://v.daum.net/v/20230417214547041"/>
+        <updated>2023-04-17T14:18:06.832Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[반려동물 미용실·병원서 카드로 年35만원씩 쓴다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230417210132522"/>
         <updated>2023-04-17T13:23:48.140Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 벤츠 "엔트리 전기차엔 LFP 배터리…韓과 협력 열려 있어"]]></title>
-        <id>https://v.daum.net/v/20230417210016495</id>
-        <link href="https://v.daum.net/v/20230417210016495"/>
-        <updated>2023-04-17T12:37:55.141Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
