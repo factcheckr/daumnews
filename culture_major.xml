@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-04-17T18:24:29.356Z</updated>
+    <updated>2023-04-17T19:16:06.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230418030304755"/>
         <updated>2023-04-17T18:23:27.249Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[치과치료 시 복용한 약이 중요한 이유[지정현의 치아 건강이 100세 건강]]]></title>
+        <id>https://v.daum.net/v/20230417235418970</id>
+        <link href="https://v.daum.net/v/20230417235418970"/>
+        <updated>2023-04-17T19:15:09.344Z</updated>
+        <content type="html"><![CDATA[스포츠경향]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“누가 이런 짓을?” KAIST 상징 ‘거위’ 실종 사건, 학교 발칵]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230417205816450"/>
         <updated>2023-04-17T13:24:24.978Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“몸 달라붙는 옷 입었다”…‘처벌위기’ 北여성, 뇌물 건넨 액수]]></title>
-        <id>https://v.daum.net/v/20230417194902472</id>
-        <link href="https://v.daum.net/v/20230417194902472"/>
-        <updated>2023-04-17T13:24:24.983Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
