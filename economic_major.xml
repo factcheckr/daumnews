@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-04-18T15:23:19.319Z</updated>
+    <updated>2023-04-18T16:22:40.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20230419000227069"/>
         <updated>2023-04-18T15:21:33.761Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전세사기 피해자의 절규 "세상 떠나지 말고 견디자"]]></title>
+        <id>https://v.daum.net/v/20230418223301352</id>
+        <link href="https://v.daum.net/v/20230418223301352"/>
+        <updated>2023-04-18T16:20:59.395Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전국 ‘깡통전세’ 속출… 尹, 사기매물 경매중단 지시]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230418215058678"/>
         <updated>2023-04-18T15:21:33.772Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘전세사기’에 깊어진 불신…중개사들 “계약은 없고 싸움 말리는 게 일”]]></title>
-        <id>https://v.daum.net/v/20230418214941660</id>
-        <link href="https://v.daum.net/v/20230418214941660"/>
-        <updated>2023-04-18T13:25:25.114Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
