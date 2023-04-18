@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-18T17:18:28.487Z</updated>
+    <updated>2023-04-18T19:20:36.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["플랫폼 경제 시대…네이버·카카오, 사회적 책임 강화할 때"]]></title>
+        <id>https://v.daum.net/v/20230418192929842</id>
+        <link href="https://v.daum.net/v/20230418192929842"/>
+        <updated>2023-04-18T19:19:54.151Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“주 4일 근무, 연봉 400만원 깎아도 좋다” 대학병원 간호사, 이렇게까지 하는 이유?]]></title>
+        <id>https://v.daum.net/v/20230418185113902</id>
+        <link href="https://v.daum.net/v/20230418185113902"/>
+        <updated>2023-04-18T19:19:54.170Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美는 빅테크 규제 힘 빼는데…팔 걷어붙인 韓 국회]]></title>
         <id>https://v.daum.net/v/20230418184851841</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230418165109244"/>
         <updated>2023-04-18T15:22:34.038Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“뉴스생태계 대안 필요…언론사 공동포털 추진해야”]]></title>
-        <id>https://v.daum.net/v/20230418162222256</id>
-        <link href="https://v.daum.net/v/20230418162222256"/>
-        <updated>2023-04-18T15:22:34.040Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래를 만드는 DX개척자 KT "실내·배송 등 로봇존 놓치지 마세요"]]></title>
-        <id>https://v.daum.net/v/20230418160901711</id>
-        <link href="https://v.daum.net/v/20230418160901711"/>
-        <updated>2023-04-18T16:22:01.621Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
