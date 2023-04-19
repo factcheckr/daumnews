@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-04-19T12:37:30.366Z</updated>
+    <updated>2023-04-19T13:23:41.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북·중·러 위성 이동 한눈에···우주 작전 컨트롤타워 역할]]></title>
+        <id>https://v.daum.net/v/20230419220054887</id>
+        <link href="https://v.daum.net/v/20230419220054887"/>
+        <updated>2023-04-19T13:22:55.399Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[WIS 2023] 혁신 제품 총집합…월드 IT쇼 개막 첫날부터 '북적']]></title>
         <id>https://v.daum.net/v/20230419183024282</id>
@@ -13,25 +20,11 @@
         <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[日 원전 전문가 “노후 원전 수명연장 위험”]]></title>
-        <id>https://v.daum.net/v/20230419192942612</id>
-        <link href="https://v.daum.net/v/20230419192942612"/>
-        <updated>2023-04-19T11:16:47.779Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“스마트폰 공용 충전기 사용하지 마세요”…美 FBI의 경고]]></title>
         <id>https://v.daum.net/v/20230419141950948</id>
         <link href="https://v.daum.net/v/20230419141950948"/>
         <updated>2023-04-19T11:16:47.787Z</updated>
         <content type="html"><![CDATA[농민신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘메타버스 수도’ 내건 경북…정작 산업은 ‘시들’]]></title>
-        <id>https://v.daum.net/v/20230419191244229</id>
-        <link href="https://v.daum.net/v/20230419191244229"/>
-        <updated>2023-04-19T10:20:55.316Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[이슈체크] 삼성 스마트폰, 구글 버리고 MS로 환승한다?]]></title>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20230419182204065"/>
         <updated>2023-04-19T10:20:55.316Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["1분기 메모리 바닥 이유 있었네"...PC 출하량 최근 10년새 최저]]></title>
+        <id>https://v.daum.net/v/20230419182447125</id>
+        <link href="https://v.daum.net/v/20230419182447125"/>
+        <updated>2023-04-19T13:22:55.404Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
