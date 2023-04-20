@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-04-20T12:36:05.650Z</updated>
+    <updated>2023-04-20T13:25:03.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["밑그림도 안 나왔는데".. 공공기관 2차 이전 '후끈']]></title>
+        <id>https://v.daum.net/v/20230420205442444</id>
+        <link href="https://v.daum.net/v/20230420205442444"/>
+        <updated>2023-04-20T13:23:46.395Z</updated>
+        <content type="html"><![CDATA[전주MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 소득 수십억? 건축왕 딸, 지난달 건강보험료만 '4천만원']]></title>
+        <id>https://v.daum.net/v/20230420203802165</id>
+        <link href="https://v.daum.net/v/20230420203802165"/>
+        <updated>2023-04-20T13:23:46.395Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민·관, 이차전지 초격차 맞손 … ‘꿈의 배터리’ 세계 첫 개발 나서]]></title>
         <id>https://v.daum.net/v/20230420203714159</id>
@@ -48,13 +62,6 @@
         <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대여·반납 편리해진 ‘타슈’…이용자 6배 늘었다]]></title>
-        <id>https://v.daum.net/v/20230420201900795</id>
-        <link href="https://v.daum.net/v/20230420201900795"/>
-        <updated>2023-04-20T12:34:29.204Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“규제 풀렸을 때 서두르자” 단지별 속도전…서부권 대표 학군지 목동신시가지 [재건축 임장노트] (14)]]></title>
         <id>https://v.daum.net/v/20230420201810786</id>
         <link href="https://v.daum.net/v/20230420201810786"/>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230420201508747"/>
         <updated>2023-04-20T12:34:29.211Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은행 등기이사 보수 주총서 심의…투명성 강화 추진]]></title>
-        <id>https://v.daum.net/v/20230420201200692</id>
-        <link href="https://v.daum.net/v/20230420201200692"/>
-        <updated>2023-04-20T12:34:29.213Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
