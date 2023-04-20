@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-20T18:23:47.754Z</updated>
+    <updated>2023-04-20T19:17:46.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[통신 3사, BMW 손잡고 B2C 기반 ‘커넥티드카’ 요금제 선봬]]></title>
+        <id>https://v.daum.net/v/20230420201154691</id>
+        <link href="https://v.daum.net/v/20230420201154691"/>
+        <updated>2023-04-20T19:17:05.304Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[챗GPT, 기자와 저널리즘의 미래에 대해 묻다]]></title>
         <id>https://v.daum.net/v/20230420170319161</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230420184038648"/>
         <updated>2023-04-20T12:35:27.490Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자동차 번호판에 담긴 의미 살펴보니]]></title>
-        <id>https://v.daum.net/v/20230420182711241</id>
-        <link href="https://v.daum.net/v/20230420182711241"/>
-        <updated>2023-04-20T11:17:50.278Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-04-20T18:23:47.753Z</updated>
+    <updated>2023-04-20T19:17:46.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유튜브, '먹토' 등 섭식장애 유발 영상에 철퇴]]></title>
+        <id>https://v.daum.net/v/20230421041236568</id>
+        <link href="https://v.daum.net/v/20230421041236568"/>
+        <updated>2023-04-20T19:16:53.035Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머스크·MS 한판 붙는다]]></title>
         <id>https://v.daum.net/v/20230421030250116</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230421022353010"/>
         <updated>2023-04-20T18:22:55.248Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통신 3사, BMW 손잡고 B2C 기반 ‘커넥티드카’ 요금제 선봬]]></title>
-        <id>https://v.daum.net/v/20230420201154691</id>
-        <link href="https://v.daum.net/v/20230420201154691"/>
-        <updated>2023-04-20T14:18:01.106Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
