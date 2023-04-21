@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-04-21T20:20:25.532Z</updated>
+    <updated>2023-04-21T21:17:33.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오세훈, 지구의날 행사·서울연극제 개막식 참석]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032906/qhpjeQj3Fu</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032906/qhpjeQj3Fu"/>
+        <updated>2023-04-21T21:17:00.638Z</updated>
+        <content type="html"><![CDATA['웰컴투비디오' 손정우 사건]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황사에 꽃가루까지... 마스크 챙기세요]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5032452/Vk6wCxA01K</id>
@@ -21,17 +28,17 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[물에 비친 나무, 물에 떠 있는 꽃잎]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5030433/YzLU2v0gdA</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5030433/YzLU2v0gdA"/>
-        <updated>2023-04-21T19:15:36.680Z</updated>
-        <content type="html"><![CDATA[국립중앙박물관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물에 비친 나무, 물에 떠 있는 꽃잎]]></title>
         <id>https://gallery.v.daum.net/p/viewer/212305/YzLU2v0gdA</id>
         <link href="https://gallery.v.daum.net/p/viewer/212305/YzLU2v0gdA"/>
         <updated>2023-04-21T19:15:36.682Z</updated>
         <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[물에 비친 나무, 물에 떠 있는 꽃잎]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5030433/YzLU2v0gdA</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5030433/YzLU2v0gdA"/>
+        <updated>2023-04-21T19:15:36.680Z</updated>
+        <content type="html"><![CDATA[국립중앙박물관]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세계문화유산 1호는 아직도 공사중]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1509/2jk96BRylu"/>
         <updated>2023-04-21T07:19:54.392Z</updated>
         <content type="html"><![CDATA[포토다큐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사원서 이드 알 피트르 기도하는 레바논 무슬림]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5029621/ZCOhFWuj2l</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5029621/ZCOhFWuj2l"/>
-        <updated>2023-04-21T07:19:54.392Z</updated>
-        <content type="html"><![CDATA[레바논은 지금]]></content>
     </entry>
 </feed>
