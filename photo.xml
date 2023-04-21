@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-04-21T19:16:05.124Z</updated>
+    <updated>2023-04-21T20:20:25.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황사에 꽃가루까지... 마스크 챙기세요]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/Vk6wCxA01K</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/Vk6wCxA01K"/>
+        <updated>2023-04-21T20:19:57.477Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[독거노인 유일한 가족 ‘몽실이’ 안락사 위기에서 구한 사람들 [개st하우스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5620471/uBKY8Y7AiC</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5029621/ZCOhFWuj2l"/>
         <updated>2023-04-21T07:19:54.392Z</updated>
         <content type="html"><![CDATA[레바논은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이드 알 피트르' 기도하는 케냐 무슬림들]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033379/6UdAvrGMKZ</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033379/6UdAvrGMKZ"/>
-        <updated>2023-04-21T07:19:54.394Z</updated>
-        <content type="html"><![CDATA[케냐는 지금]]></content>
     </entry>
 </feed>
