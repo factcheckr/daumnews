@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-21T02:37:45.959Z</updated>
+    <updated>2023-04-21T03:21:29.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1Q 랜섬웨어 공격 933건, 3월에만 전월比 78% ↑]]></title>
+        <id>https://v.daum.net/v/20230421103500162</id>
+        <link href="https://v.daum.net/v/20230421103500162"/>
+        <updated>2023-04-21T03:20:49.963Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘이코노미 증후군’ 예방법 곰에게 물어봐 [달콤한 사이언스]]]></title>
+        <id>https://v.daum.net/v/20230421103106052</id>
+        <link href="https://v.daum.net/v/20230421103106052"/>
+        <updated>2023-04-21T03:20:49.963Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마이크로소프트 업무 지원 플랫폼 '비바'에 인공지능 비서 탑재]]></title>
         <id>https://v.daum.net/v/20230421102036610</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230421094949340"/>
         <updated>2023-04-21T01:23:48.169Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["머스크도 어렵다"…'첫 비행 폭발' 스페이스X 스타십, 다음 계획은?]]></title>
-        <id>https://v.daum.net/v/20230421094811295</id>
-        <link href="https://v.daum.net/v/20230421094811295"/>
-        <updated>2023-04-21T01:23:48.170Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성이 찍기만 하면 조회수 터졌다…MZ 사로잡은 30초의 비밀]]></title>
-        <id>https://v.daum.net/v/20230421091933236</id>
-        <link href="https://v.daum.net/v/20230421091933236"/>
-        <updated>2023-04-21T01:23:48.172Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
