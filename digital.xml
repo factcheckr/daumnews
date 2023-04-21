@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-04-21T12:36:58.156Z</updated>
+    <updated>2023-04-21T13:23:56.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독과점 이슈 의식했나…대비 나선 두나무]]></title>
+        <id>https://v.daum.net/v/20230421213504766</id>
+        <link href="https://v.daum.net/v/20230421213504766"/>
+        <updated>2023-04-21T13:23:04.727Z</updated>
+        <content type="html"><![CDATA[비즈워치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“게임기인줄 알았는데” 40대 남자가 줄 서서 산다는 80만원짜리 기계]]></title>
         <id>https://v.daum.net/v/20230421195101244</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230421184114016"/>
         <updated>2023-04-21T10:20:25.591Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SKT도 28㎓ 주파수 취소 수순…이종호 장관 "절차에 따라 하겠다"]]></title>
-        <id>https://v.daum.net/v/20230421181207465</id>
-        <link href="https://v.daum.net/v/20230421181207465"/>
-        <updated>2023-04-21T09:19:31.146Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
