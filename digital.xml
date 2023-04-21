@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-04-21T17:18:31.038Z</updated>
+    <updated>2023-04-21T19:16:05.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글 등 빅테크, 내주에 1분기 실적 발표…애플은 내달 4일]]></title>
+        <id>https://v.daum.net/v/20230422033250053</id>
+        <link href="https://v.daum.net/v/20230422033250053"/>
+        <updated>2023-04-21T19:15:18.814Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[극과 극 공존 마법, 깃털보다 가볍고 강철보다 강한 그래핀]]></title>
         <id>https://v.daum.net/v/20230422002938357</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230421185144186"/>
         <updated>2023-04-21T10:20:25.590Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["허락없이 쓰지마" 생성AI 경쟁이 불러온 데이터 소유권 갈등]]></title>
-        <id>https://v.daum.net/v/20230421184114016</id>
-        <link href="https://v.daum.net/v/20230421184114016"/>
-        <updated>2023-04-21T10:20:25.591Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
