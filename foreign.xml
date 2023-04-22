@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-04-22T11:18:18.634Z</updated>
+    <updated>2023-04-22T12:33:22.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘수단 교민 이송’ 공군 수송기 현지 도착…29명 이송 예정]]></title>
+        <id>https://v.daum.net/v/20230422205001050</id>
+        <link href="https://v.daum.net/v/20230422205001050"/>
+        <updated>2023-04-22T12:32:02.851Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송영길 전 대표 곧 입장 발표‥파리 현지 분위기는?]]></title>
         <id>https://v.daum.net/v/20230422201018789</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['카라바조 천장화 저택'서 쫓겨난 美 출신 伊 왕자비]]></title>
+        <title type="html"><![CDATA['카라바조 천장화 저택'서 쫓겨난 미국 출신 伊 왕자비]]></title>
         <id>https://v.daum.net/v/20230422194327533</id>
         <link href="https://v.daum.net/v/20230422194327533"/>
         <updated>2023-04-22T11:16:59.060Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230422192400357"/>
         <updated>2023-04-22T11:16:59.064Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외신 “바이든, 북핵 억제 실질적 조치 약속”]]></title>
-        <id>https://v.daum.net/v/20230422191153279</id>
-        <link href="https://v.daum.net/v/20230422191153279"/>
-        <updated>2023-04-22T10:20:01.492Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
     </entry>
 </feed>
