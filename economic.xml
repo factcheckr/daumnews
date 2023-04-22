@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-04-22T03:24:29.789Z</updated>
+    <updated>2023-04-22T04:25:18.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]정부, 30억弗 외환스와프 SOS쳤지만···가스公은 ‘NO’]]></title>
+        <id>https://v.daum.net/v/20230422130035457</id>
+        <link href="https://v.daum.net/v/20230422130035457"/>
+        <updated>2023-04-22T04:23:32.111Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[길어지는 반도체 혹한기…'세수 부족' 경고음 더 커질까]]></title>
         <id>https://v.daum.net/v/20230422121726175</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230422110502533"/>
         <updated>2023-04-22T03:23:02.679Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마스크업체들 줄도산 위기…"업종 바꾸거나 폐업 검토"[노마스크 한달②]]]></title>
-        <id>https://v.daum.net/v/20230422110107480</id>
-        <link href="https://v.daum.net/v/20230422110107480"/>
-        <updated>2023-04-22T03:23:02.681Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
