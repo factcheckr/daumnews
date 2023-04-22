@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-22T04:25:18.192Z</updated>
+    <updated>2023-04-22T05:18:19.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노화 시간 되돌리는 ‘젊음의 묘약’ 찾았다 [달콤한 사이언스]]]></title>
+        <id>https://v.daum.net/v/20230422113102773</id>
+        <link href="https://v.daum.net/v/20230422113102773"/>
+        <updated>2023-04-22T05:17:44.448Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["트위터 데이터 쓰지마"…법은 머스크 편에 설까[궁금한AI]]]></title>
         <id>https://v.daum.net/v/20230422103719187</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230422093002435"/>
         <updated>2023-04-22T03:23:59.631Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대차도 가세···민간주도 달 개척시대 온다]]></title>
-        <id>https://v.daum.net/v/20230422090037134</id>
-        <link href="https://v.daum.net/v/20230422090037134"/>
-        <updated>2023-04-22T01:26:30.776Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
