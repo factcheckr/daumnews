@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-22T06:23:39.629Z</updated>
+    <updated>2023-04-22T07:17:28.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[태양계 행성 이름은 어떻게 지어졌을까? [김정욱의 별별이야기](14)]]></title>
+        <id>https://v.daum.net/v/20230422130027454</id>
+        <link href="https://v.daum.net/v/20230422130027454"/>
+        <updated>2023-04-22T07:16:55.480Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UAM의 '짝꿍'될 통신망은?]]></title>
         <id>https://v.daum.net/v/20230422123003272</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230422100017788"/>
         <updated>2023-04-22T03:23:59.621Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역대 최대 영업손실 웨이브·티빙·왓챠…투자 전략 수정 불가피]]></title>
-        <id>https://v.daum.net/v/20230422093504513</id>
-        <link href="https://v.daum.net/v/20230422093504513"/>
-        <updated>2023-04-22T03:23:59.629Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
 </feed>
