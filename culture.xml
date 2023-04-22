@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-04-22T12:33:22.813Z</updated>
+    <updated>2023-04-22T13:21:05.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['맥주' 안 마시면 잠 안 오는 사람들 보세요]]></title>
+        <id>https://v.daum.net/v/20230422220015544</id>
+        <link href="https://v.daum.net/v/20230422220015544"/>
+        <updated>2023-04-22T13:20:08.757Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피아니스트 박경선, 호로비츠 콩쿠르 3위·특별상]]></title>
         <id>https://v.daum.net/v/20230422203026919</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230422180015594"/>
         <updated>2023-04-22T09:18:17.425Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘촬영장 오발’ 볼드윈, 숨진 촬영감독의 친정 식구들에게 피소]]></title>
-        <id>https://v.daum.net/v/20230422150301604</id>
-        <link href="https://v.daum.net/v/20230422150301604"/>
-        <updated>2023-04-22T09:18:17.425Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
