@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-22T07:17:28.471Z</updated>
+    <updated>2023-04-22T08:22:42.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['계정 공유 금지'로 넷플릭스 실적 주춤…투자해도 될까]]></title>
+        <id>https://v.daum.net/v/20230422120039025</id>
+        <link href="https://v.daum.net/v/20230422120039025"/>
+        <updated>2023-04-22T08:22:11.855Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태양계 행성 이름은 어떻게 지어졌을까? [김정욱의 별별이야기](14)]]></title>
         <id>https://v.daum.net/v/20230422130027454</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230422100517883"/>
         <updated>2023-04-22T03:23:59.620Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[위클리 스마트] 엘리베이터TV 광고 효과 있을까?…시청률 보니]]></title>
-        <id>https://v.daum.net/v/20230422100017788</id>
-        <link href="https://v.daum.net/v/20230422100017788"/>
-        <updated>2023-04-22T03:23:59.621Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
