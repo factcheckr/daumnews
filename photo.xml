@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-04-23T19:15:48.136Z</updated>
+    <updated>2023-04-23T20:21:06.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령 오늘 출국, 국빈맞이 준비 바쁜 미국]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/95q5r2iHYP</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/95q5r2iHYP"/>
+        <updated>2023-04-23T20:20:31.350Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성전자, 伊밀라노서 비스포크 가전 전시]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029579/XsYYSxA0sb</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2323/3JMAsuPlVd"/>
         <updated>2023-04-23T01:40:49.235Z</updated>
         <content type="html"><![CDATA[보도사진상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉사하며 배운 기술로 '인생 2막'…마술 소방관의 퇴직]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1504/uhbeD3fOFj</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1504/uhbeD3fOFj"/>
-        <updated>2023-04-23T01:40:49.236Z</updated>
-        <content type="html"><![CDATA[훈훈한 미담]]></content>
     </entry>
 </feed>
