@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-04-23T15:19:20.106Z</updated>
+    <updated>2023-04-23T16:24:26.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[요절한 화가와 천재 미술복원가…연극 '바니타스' 5월 초연]]></title>
+        <id>https://v.daum.net/v/20230424002928619</id>
+        <link href="https://v.daum.net/v/20230424002928619"/>
+        <updated>2023-04-23T16:23:18.347Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['간단하게' 날개뼈 통증 완화하는 스트레칭]]></title>
         <id>https://v.daum.net/v/20230423230015029</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230423221201639"/>
         <updated>2023-04-23T13:20:29.220Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘고된 근무’·‘출퇴근 걷기’가 운동 대체?…근력 운동만이라도]]></title>
-        <id>https://v.daum.net/v/20230423214036352</id>
-        <link href="https://v.daum.net/v/20230423214036352"/>
-        <updated>2023-04-23T13:20:29.221Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

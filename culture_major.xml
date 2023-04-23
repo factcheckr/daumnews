@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-04-23T15:19:20.098Z</updated>
+    <updated>2023-04-23T16:24:26.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘고된 근무’·‘출퇴근 걷기’가 운동 대체?…근력 운동만이라도]]></title>
+        <id>https://v.daum.net/v/20230423214036352</id>
+        <link href="https://v.daum.net/v/20230423214036352"/>
+        <updated>2023-04-23T16:23:27.629Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이른 더위의 한반도, 국내 발생 늘어난 ‘말라리아’ 주의해야]]></title>
         <id>https://v.daum.net/v/20230423211209142</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230423185003975"/>
         <updated>2023-04-23T12:35:43.208Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[60대 남자가 필라테스를 할 때 '조금' 필요한 것]]></title>
-        <id>https://v.daum.net/v/20230423182414689</id>
-        <link href="https://v.daum.net/v/20230423182414689"/>
-        <updated>2023-04-23T12:35:43.210Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
