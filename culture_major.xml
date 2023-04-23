@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-04-23T10:20:03.791Z</updated>
+    <updated>2023-04-23T11:18:30.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종이같고…자수같고…상식을 깨뜨린 도예들]]></title>
+        <id>https://v.daum.net/v/20230423174602175</id>
+        <link href="https://v.daum.net/v/20230423174602175"/>
+        <updated>2023-04-23T11:17:31.569Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[제주Zoom] '차르르~' 알작지 해변 몽돌소리 다시 들을 수 없을까]]></title>
         <id>https://v.daum.net/v/20230423090002661</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230423155752368"/>
         <updated>2023-04-23T08:22:17.225Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이 견과류' 산패되면 발암 물질 생성… 올바른 보관법은?]]></title>
-        <id>https://v.daum.net/v/20230423160015422</id>
-        <link href="https://v.daum.net/v/20230423160015422"/>
-        <updated>2023-04-23T08:22:17.225Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
