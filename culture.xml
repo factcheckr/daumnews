@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-04-23T14:17:10.440Z</updated>
+    <updated>2023-04-23T15:19:20.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['간단하게' 날개뼈 통증 완화하는 스트레칭]]></title>
+        <id>https://v.daum.net/v/20230423230015029</id>
+        <link href="https://v.daum.net/v/20230423230015029"/>
+        <updated>2023-04-23T15:18:14.187Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동생 잃고 혼자 산 죄책감…불행 딛고 우뚝 선 풍경화의 대가]]></title>
         <id>https://v.daum.net/v/20230423174502163</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230423214036352"/>
         <updated>2023-04-23T13:20:29.221Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이른 더위의 한반도, 국내 발생 늘어난 ‘말라리아’ 주의해야]]></title>
-        <id>https://v.daum.net/v/20230423211209142</id>
-        <link href="https://v.daum.net/v/20230423211209142"/>
-        <updated>2023-04-23T12:35:33.116Z</updated>
-        <content type="html"><![CDATA[스포츠경향]]></content>
     </entry>
 </feed>
