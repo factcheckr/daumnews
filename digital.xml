@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-04-25T20:21:45.200Z</updated>
+    <updated>2023-04-25T21:20:41.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SKT, 데터링·공유 데이터 구분 없앤다…"필요 따라 최대 120GB 사용 가능"]]></title>
+        <id>https://v.daum.net/v/20230426060107720</id>
+        <link href="https://v.daum.net/v/20230426060107720"/>
+        <updated>2023-04-25T21:19:42.199Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[통신 3사 5G 요금제 우후죽순… “지나치게 복잡해 소비자 선택 방해”]]></title>
+        <id>https://v.daum.net/v/20230426060143748</id>
+        <link href="https://v.daum.net/v/20230426060143748"/>
+        <updated>2023-04-25T21:19:42.199Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메마른 반도체 인력, 한해 수십만명이 모자란다]]></title>
         <id>https://v.daum.net/v/20230426030516201</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230425230958667"/>
         <updated>2023-04-25T15:20:14.366Z</updated>
         <content type="html"><![CDATA[기자협회보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영국도 빅테크 때리기…'美 IT공룡' 규제안 마련]]></title>
-        <id>https://v.daum.net/v/20230425170021591</id>
-        <link href="https://v.daum.net/v/20230425170021591"/>
-        <updated>2023-04-25T13:24:56.389Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[尹대통령 국빈 방미] "너네만 플렉스냐"… 심기 불편한 국내 OTT]]></title>
-        <id>https://v.daum.net/v/20230425165624355</id>
-        <link href="https://v.daum.net/v/20230425165624355"/>
-        <updated>2023-04-25T20:20:47.991Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
