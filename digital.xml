@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-04-25T17:22:20.196Z</updated>
+    <updated>2023-04-25T18:23:58.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본기업 개발한 민간 달 착륙선, 통신 두절…월면 착지 실패한 듯]]></title>
+        <id>https://v.daum.net/v/20230426030743249</id>
+        <link href="https://v.daum.net/v/20230426030743249"/>
+        <updated>2023-04-25T18:23:11.057Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메마른 반도체 인력, 한해 수십만명이 모자란다]]></title>
+        <id>https://v.daum.net/v/20230426030516201</id>
+        <link href="https://v.daum.net/v/20230426030516201"/>
+        <updated>2023-04-25T18:23:11.061Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플, 美서 '인앱결제' 소송 90% 이겼지만…"결제 개방해라"]]></title>
         <id>https://v.daum.net/v/20230425160434033</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230425170021591"/>
         <updated>2023-04-25T13:24:56.389Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[尹대통령 국빈 방미] "너네만 플렉스냐"… 심기 불편한 국내 OTT]]></title>
-        <id>https://v.daum.net/v/20230425165624355</id>
-        <link href="https://v.daum.net/v/20230425165624355"/>
-        <updated>2023-04-25T11:16:29.798Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이 사진 실화야?” 30개월 매일 쓰레기 줍던 청년이 찍었다 [지구, 뭐래?]]]></title>
-        <id>https://v.daum.net/v/20230425184101949</id>
-        <link href="https://v.daum.net/v/20230425184101949"/>
-        <updated>2023-04-25T10:21:27.398Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
