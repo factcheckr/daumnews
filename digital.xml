@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-04-25T19:19:15.480Z</updated>
+    <updated>2023-04-25T20:21:45.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[일본기업 개발한 민간 달 착륙선, 통신 두절…월면 착지 실패한 듯]]></title>
-        <id>https://v.daum.net/v/20230426030743249</id>
-        <link href="https://v.daum.net/v/20230426030743249"/>
-        <updated>2023-04-25T18:23:11.057Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[메마른 반도체 인력, 한해 수십만명이 모자란다]]></title>
         <id>https://v.daum.net/v/20230426030516201</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20230425170021591"/>
         <updated>2023-04-25T13:24:56.389Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[尹대통령 국빈 방미] "너네만 플렉스냐"… 심기 불편한 국내 OTT]]></title>
+        <id>https://v.daum.net/v/20230425165624355</id>
+        <link href="https://v.daum.net/v/20230425165624355"/>
+        <updated>2023-04-25T20:20:47.991Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
