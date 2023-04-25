@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-25T15:21:01.363Z</updated>
+    <updated>2023-04-25T16:25:15.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ET] KB국민은행 알뜰폰 공식 진출…알뜰폰 시장의 ‘메기’ 될까?]]></title>
+        <id>https://v.daum.net/v/20230425181631272</id>
+        <link href="https://v.daum.net/v/20230425181631272"/>
+        <updated>2023-04-25T16:24:39.578Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중고폰 시장 절대강자는 애플... 판매량 절반이 아이폰]]></title>
         <id>https://v.daum.net/v/20230425180012689</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230425165613346"/>
         <updated>2023-04-25T09:19:54.785Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["당국 가이드 상 가상자산 '증권' 영역 구획 불명확"]]></title>
-        <id>https://v.daum.net/v/20230425165210159</id>
-        <link href="https://v.daum.net/v/20230425165210159"/>
-        <updated>2023-04-25T09:19:54.785Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-04-25T15:21:01.358Z</updated>
+    <updated>2023-04-25T16:25:15.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[입이 심심? 이렇게 달래라...다이어트 적 '가짜 배고픔'과 전쟁 [건강한 가족]]]></title>
+        <id>https://v.daum.net/v/20230426000601258</id>
+        <link href="https://v.daum.net/v/20230426000601258"/>
+        <updated>2023-04-25T16:24:09.420Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[작은 고요가 된 일상의 조각들]]></title>
         <id>https://v.daum.net/v/20230426000108084</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230425220501926"/>
         <updated>2023-04-25T13:24:35.296Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수영장 할머니들의 걱정 "나도 잘리면 어떡해"]]></title>
-        <id>https://v.daum.net/v/20230425214801651</id>
-        <link href="https://v.daum.net/v/20230425214801651"/>
-        <updated>2023-04-25T13:24:35.297Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>

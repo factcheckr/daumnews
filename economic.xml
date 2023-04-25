@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-04-25T15:21:01.363Z</updated>
+    <updated>2023-04-25T16:25:15.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美, 그린에너지 정책 드라이브…‘친환경株’ 대세되나]]></title>
+        <id>https://v.daum.net/v/20230426010108532</id>
+        <link href="https://v.daum.net/v/20230426010108532"/>
+        <updated>2023-04-25T16:23:29.324Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[심층인터뷰] 무더기 폭락…이유는?]]></title>
         <id>https://v.daum.net/v/20230426001039310</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230426000504224"/>
         <updated>2023-04-25T15:19:18.065Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우에다 BOJ 총재에 쏠린 눈…27~28일 첫 통화정책 회의]]></title>
-        <id>https://v.daum.net/v/20230426000504226</id>
-        <link href="https://v.daum.net/v/20230426000504226"/>
-        <updated>2023-04-25T15:19:18.065Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
