@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-26T18:24:39.214Z</updated>
+    <updated>2023-04-26T19:19:18.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230427000308418"/>
         <updated>2023-04-26T15:20:23.820Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[휴대전화 중간요금제 있으나마나…데이터당 단가 오히려 비싸]]></title>
+        <id>https://v.daum.net/v/20230426191457458</id>
+        <link href="https://v.daum.net/v/20230426191457458"/>
+        <updated>2023-04-26T19:18:45.535Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[韓美 우주동맹…"달·화성 전초기지" 게이트웨이에 쏠리는 시선]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230426173303253"/>
         <updated>2023-04-26T10:20:39.622Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해양 플라스틱 쓰레기 청소 기대주…'해파리 로봇' 등장]]></title>
-        <id>https://v.daum.net/v/20230426173213234</id>
-        <link href="https://v.daum.net/v/20230426173213234"/>
-        <updated>2023-04-26T09:23:04.502Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
