@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-04-26T14:19:05.656Z</updated>
+    <updated>2023-04-26T15:21:01.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘블랙홀’ 그림자·제트 동시 포착 성공…우주 진화 비밀 벗긴다]]></title>
+        <id>https://v.daum.net/v/20230427001054551</id>
+        <link href="https://v.daum.net/v/20230427001054551"/>
+        <updated>2023-04-26T15:20:14.300Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[교과서로만 알던 '블랙홀 회오리'…韓 과학자들 역사상 첫 포착]]></title>
+        <id>https://v.daum.net/v/20230427000058341</id>
+        <link href="https://v.daum.net/v/20230427000058341"/>
+        <updated>2023-04-26T15:20:14.300Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“이게 10만원” 아무도 몰랐던 애플 ‘투명 이어폰’ 실체 등장]]></title>
         <id>https://v.daum.net/v/20230426194639189</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230426191457458"/>
         <updated>2023-04-26T10:20:31.261Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓美 우주동맹…"달·화성 전초기지" 게이트웨이에 쏠리는 시선]]></title>
-        <id>https://v.daum.net/v/20230426183525247</id>
-        <link href="https://v.daum.net/v/20230426183525247"/>
-        <updated>2023-04-26T10:20:31.263Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["기밀 유출 걱정 마세요"···기업용 챗GPT 나온다]]></title>
-        <id>https://v.daum.net/v/20230426141253761</id>
-        <link href="https://v.daum.net/v/20230426141253761"/>
-        <updated>2023-04-26T13:23:24.413Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
