@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-04-26T22:19:41.120Z</updated>
+    <updated>2023-04-26T23:20:52.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대한민국 공군, 한미동맹 70주년 기념 한미 공군 우정비행 실시]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1173214/Z63cHoOKUf</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1173214/Z63cHoOKUf"/>
+        <updated>2023-04-26T23:20:22.959Z</updated>
+        <content type="html"><![CDATA[헤럴드포토]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백악관 발코니에서 대화하는 한미 정상]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1476/KR9s2S3o70</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5620091/0ijJvPNF3U"/>
         <updated>2023-04-26T08:25:41.651Z</updated>
         <content type="html"><![CDATA[쿠키포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검은비 기증 협약식 맺은 정영창 작가와 5·18 기록관]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/2603/1bzOPv0gVq</id>
-        <link href="https://gallery.v.daum.net/p/viewer/2603/1bzOPv0gVq"/>
-        <updated>2023-04-26T08:25:41.654Z</updated>
-        <content type="html"><![CDATA[광주 민주화항쟁]]></content>
     </entry>
 </feed>
