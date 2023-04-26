@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-26T11:24:08.241Z</updated>
+    <updated>2023-04-26T12:35:46.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["기밀 유출 걱정 마세요"···기업용 챗GPT 나온다]]></title>
+        <id>https://v.daum.net/v/20230426141253761</id>
+        <link href="https://v.daum.net/v/20230426141253761"/>
+        <updated>2023-04-26T12:35:11.986Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 국내 첫 권역통합 드론 관제 ‘첫발’…KT가 맡는다]]></title>
         <id>https://v.daum.net/v/20230426170600180</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230426173213234"/>
         <updated>2023-04-26T09:23:04.502Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가상자산법 첫 관문 통과]①의결 서두른 국회…다음 단계는?]]></title>
-        <id>https://v.daum.net/v/20230426173203229</id>
-        <link href="https://v.daum.net/v/20230426173203229"/>
-        <updated>2023-04-26T09:23:04.502Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>
