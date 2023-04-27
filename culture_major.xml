@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-04-27T04:22:44.836Z</updated>
+    <updated>2023-04-27T05:20:29.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부흐빈더의 손끝, 베토벤 7일 대장정]]></title>
+        <id>https://v.daum.net/v/20230427113405661</id>
+        <link href="https://v.daum.net/v/20230427113405661"/>
+        <updated>2023-04-27T05:19:31.693Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블루칩 작가, 가족이 생기고 그림이 달라졌다…임만혁 개인전]]></title>
         <id>https://v.daum.net/v/20230427113334646</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230427101639443"/>
         <updated>2023-04-27T04:21:58.824Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 비만치료제 '삭센다', 다음달 15% '기습 인상']]></title>
-        <id>https://v.daum.net/v/20230427100918109</id>
-        <link href="https://v.daum.net/v/20230427100918109"/>
-        <updated>2023-04-27T04:21:58.827Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
