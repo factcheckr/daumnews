@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-04-27T16:23:45.555Z</updated>
+    <updated>2023-04-27T17:18:57.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1518/zlnmCS3o4J"/>
         <updated>2023-04-27T13:25:16.164Z</updated>
         <content type="html"><![CDATA[전국 화재사고]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제비꽃]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/tAOF7Qj38E</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/tAOF7Qj38E"/>
+        <updated>2023-04-27T17:18:27.936Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이란 외무장관 만나는 레바논 임시 총리]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2603/x9oIOY7AKf"/>
         <updated>2023-04-27T04:22:21.584Z</updated>
         <content type="html"><![CDATA[광주 민주화항쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아르헨티나 "중국산 수입품, 위안화로 결제"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5031018/yBaljOZdbQ</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5031018/yBaljOZdbQ"/>
-        <updated>2023-04-27T03:20:43.220Z</updated>
-        <content type="html"><![CDATA[아르헨티나는 지금]]></content>
     </entry>
 </feed>

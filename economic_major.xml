@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-04-27T16:23:45.556Z</updated>
+    <updated>2023-04-27T17:18:57.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] '착한 숙박앱' 외치더니…꿀스테이, '숙경연'과 짬짜미 의혹]]></title>
+        <id>https://v.daum.net/v/20230428000020614</id>
+        <link href="https://v.daum.net/v/20230428000020614"/>
+        <updated>2023-04-27T17:17:19.579Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 1분기 경제성장률 1.1% '쇼크'…경기 침체 공포 커졌다]]></title>
         <id>https://v.daum.net/v/20230427213206720</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230427222546706"/>
         <updated>2023-04-27T14:17:17.989Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반도체 부진에 제조업 체감 경기 ‘제자리걸음’…4월 제조업 업황 BSI 70]]></title>
-        <id>https://v.daum.net/v/20230427222315676</id>
-        <link href="https://v.daum.net/v/20230427222315676"/>
-        <updated>2023-04-27T14:17:17.991Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
