@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-04-28T19:16:50.123Z</updated>
+    <updated>2023-04-28T20:19:50.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["직장인 점심, 친분 시간 NO…혼밥하고 운동할래요"]]></title>
+        <id>https://v.daum.net/v/20230429050025197</id>
+        <link href="https://v.daum.net/v/20230429050025197"/>
+        <updated>2023-04-28T20:18:22.079Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['SG증권發 급락' 배경 지목된 CFD 거래는?]]></title>
         <id>https://v.daum.net/v/20230429040301014</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230429030155778"/>
         <updated>2023-04-28T18:21:32.542Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[석달간 24조 세수 감소… 公기관 빚 670조 ‘최악’]]></title>
-        <id>https://v.daum.net/v/20230429030037728</id>
-        <link href="https://v.daum.net/v/20230429030037728"/>
-        <updated>2023-04-28T18:21:32.545Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
