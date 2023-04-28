@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-04-28T13:27:20.628Z</updated>
+    <updated>2023-04-28T14:18:18.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미 PCE 근원물가 4.6% 급등…인플레 압력 안 꺾인다]]></title>
+        <id>https://v.daum.net/v/20230428223019022</id>
+        <link href="https://v.daum.net/v/20230428223019022"/>
+        <updated>2023-04-28T14:16:21.857Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요금 인상 3개월...승객 외면에 택시회사 줄폐업 위기[스페셜리포트]]]></title>
         <id>https://v.daum.net/v/20230428220712747</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230428215050431"/>
         <updated>2023-04-28T13:25:38.838Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[D:이슈] 스펀지처럼 물에만 띄우면 끝난다…'그린 수소' 뿜뿜]]></title>
-        <id>https://v.daum.net/v/20230428214906399</id>
-        <link href="https://v.daum.net/v/20230428214906399"/>
-        <updated>2023-04-28T13:25:38.839Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
