@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-04-28T11:24:10.057Z</updated>
+    <updated>2023-04-28T12:34:01.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경기 양주시 비닐하우스 화재…1시간 만에 큰 불길 잡혀]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1518/0ZIplWujsk</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1518/0ZIplWujsk"/>
+        <updated>2023-04-28T12:33:34.965Z</updated>
+        <content type="html"><![CDATA[전국 화재사고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안개 내린 동섬]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1783949/1Y5xRnmBQL</id>
@@ -18,20 +25,6 @@
         <link href="https://gallery.v.daum.net/p/viewer/5032954/5G97kmHRbT"/>
         <updated>2023-04-28T11:23:40.757Z</updated>
         <content type="html"><![CDATA[TK 통합신공항 갈등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[완주에서 4중 추돌 사고..1명 심정지·3명 부상]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1473/0TcQY5KwTm</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1473/0TcQY5KwTm"/>
-        <updated>2023-04-28T10:20:49.681Z</updated>
-        <content type="html"><![CDATA[교통사고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전북 정읍서 화물차 전소…천3백만 원 피해]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1518/Ho3xY5Kwhy</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1518/Ho3xY5Kwhy"/>
-        <updated>2023-04-28T10:20:49.682Z</updated>
-        <content type="html"><![CDATA[전국 화재사고]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[환영나온 어린이들 축복하는 프란치스코 교황]]></title>
@@ -144,5 +137,12 @@
         <link href="https://gallery.v.daum.net/p/viewer/171596/KGZPyfLZ3o"/>
         <updated>2023-04-28T05:19:37.044Z</updated>
         <content type="html"><![CDATA[태국은 지금]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[섬 지역 생물 조사 친환경 선박 '섬누리호' 취항]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5204870/f41q0irquM</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5204870/f41q0irquM"/>
+        <updated>2023-04-28T12:33:34.993Z</updated>
+        <content type="html"><![CDATA[누리호 발사]]></content>
     </entry>
 </feed>
