@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-04-29T08:26:30.221Z</updated>
+    <updated>2023-04-29T09:18:42.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]VIP 투자자 모으려고?…'주가조작 의혹' 골퍼, 승마 사업도 준비]]></title>
+        <id>https://v.daum.net/v/20230429155706245</id>
+        <link href="https://v.daum.net/v/20230429155706245"/>
+        <updated>2023-04-29T09:17:06.958Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[챗GPT 창작 시대? "작가들에겐 '저주'가 될 수 있어"]]></title>
         <id>https://v.daum.net/v/20230429150505750</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230429140001155"/>
         <updated>2023-04-29T06:21:37.024Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["2~3년뒤 집값 또 뛴다"...공급한파 얼마나 심각하나 [부동산아토즈]]]></title>
-        <id>https://v.daum.net/v/20230429140006163</id>
-        <link href="https://v.daum.net/v/20230429140006163"/>
-        <updated>2023-04-29T06:21:37.026Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
