@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-04-29T06:23:15.815Z</updated>
+    <updated>2023-04-29T07:19:33.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['삼성뉴스' 앱 출시를 보다 이어진 생각]]></title>
+        <id>https://v.daum.net/v/20230429161504412</id>
+        <link href="https://v.daum.net/v/20230429161504412"/>
+        <updated>2023-04-29T07:18:48.629Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[챗GPT 창작 시대? "작가들에겐 '저주'가 될 수 있어"]]></title>
         <id>https://v.daum.net/v/20230429150505750</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“당장 짤라라” 국민 사랑 받던 ‘천재소녀’ 어쩌다 밉상 됐나]]></title>
+        <title type="html"><![CDATA[“당장 잘라라” 국민 사랑 받던 ‘천재소녀’ 어쩌다 이런일이]]></title>
         <id>https://v.daum.net/v/20230429145040601</id>
         <link href="https://v.daum.net/v/20230429145040601"/>
         <updated>2023-04-29T06:22:26.335Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230429125426612"/>
         <updated>2023-04-29T04:21:30.041Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“받자마자 쓰레기” 몸까지 해치는 종이 영수증 꼭 써야 해? [지구, 뭐래?]]]></title>
-        <id>https://v.daum.net/v/20230429125039595</id>
-        <link href="https://v.daum.net/v/20230429125039595"/>
-        <updated>2023-04-29T04:21:30.041Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
