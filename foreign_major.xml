@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-04-29T13:20:54.821Z</updated>
+    <updated>2023-04-29T14:16:19.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주일 중국대사, 대만 문제 간섭 경고 "日민중, 불 속으로 끌려가"]]></title>
+        <id>https://v.daum.net/v/20230429212453618</id>
+        <link href="https://v.daum.net/v/20230429212453618"/>
+        <updated>2023-04-29T14:15:17.118Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베트남전 이어 우크라전도 남북 대리전? “北, 바그너에 포탄 준다” [월드뷰]]]></title>
         <id>https://v.daum.net/v/20230429212042563</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230429194200381"/>
         <updated>2023-04-29T12:31:29.101Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젤렌스키, 시진핑에 '러 납치 우크라 어린이' 송환 도움 요청]]></title>
-        <id>https://v.daum.net/v/20230429195508448</id>
-        <link href="https://v.daum.net/v/20230429195508448"/>
-        <updated>2023-04-29T12:31:29.103Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
