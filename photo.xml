@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-04-29T09:18:42.045Z</updated>
+    <updated>2023-04-29T10:20:40.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['해병대 보니 든든하네']]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5076625/XmYWsTpa0w</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5076625/XmYWsTpa0w"/>
+        <updated>2023-04-29T10:20:12.233Z</updated>
+        <content type="html"><![CDATA[대한민국 해병대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비 내리는 정원에서]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1783949/qPqkz2iHux</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/31583/5euu4gI9zE"/>
         <updated>2023-04-28T18:22:40.178Z</updated>
         <content type="html"><![CDATA[인천공항 풍경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[길고양이와 공존하는 법]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1573204/PEu008g1uc</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1573204/PEu008g1uc"/>
-        <updated>2023-04-28T18:22:40.178Z</updated>
-        <content type="html"><![CDATA[[아무튼, 주말] 오종찬 기자의 Oh!컷]]></content>
     </entry>
 </feed>
