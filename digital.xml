@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-04-30T05:17:48.450Z</updated>
+    <updated>2023-04-30T06:23:13.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["10분이 30초 같았어요"…1억4000만원 들인 공연 뭐길래]]></title>
+        <id>https://v.daum.net/v/20230430142802944</id>
+        <link href="https://v.daum.net/v/20230430142802944"/>
+        <updated>2023-04-30T06:22:32.444Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[G7, AI 이용 원칙 합의…'법의 지배·민주주의·인권']]></title>
+        <id>https://v.daum.net/v/20230430142543864</id>
+        <link href="https://v.daum.net/v/20230430142543864"/>
+        <updated>2023-04-30T06:22:32.447Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[썩지 않지만 친환경! 바이오 베이스 플라스틱 아시나요? [우리가 몰랐던 과학 이야기] (294)]]></title>
         <id>https://v.daum.net/v/20230430130251523</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230430120036651"/>
         <updated>2023-04-30T03:19:06.766Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마의 27%' 넘어 상용화? 태양빛 받아 건물서 전기 만들까]]></title>
-        <id>https://v.daum.net/v/20230430120041657</id>
-        <link href="https://v.daum.net/v/20230430120041657"/>
-        <updated>2023-04-30T03:19:06.770Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람이 원격조종하는 아바타 로봇, 세계 6위 성능···UNIST, R&D 박차]]></title>
-        <id>https://v.daum.net/v/20230430120043660</id>
-        <link href="https://v.daum.net/v/20230430120043660"/>
-        <updated>2023-04-30T03:19:06.770Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
