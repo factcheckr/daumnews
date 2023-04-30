@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-04-30T12:32:50.670Z</updated>
+    <updated>2023-04-30T13:20:49.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일교차 큰 봄철 산행, ‘심장 돌연사’ 주의!]]></title>
+        <id>https://v.daum.net/v/20230430214145301</id>
+        <link href="https://v.daum.net/v/20230430214145301"/>
+        <updated>2023-04-30T13:19:41.697Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지역 원로예술인 활동 아카이빙 전시회 열려]]></title>
         <id>https://v.daum.net/v/20230430203533700</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230430201045536"/>
         <updated>2023-04-30T12:31:47.364Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전주 와서 이거 안 해보면 눈물 날 듯... 황홀한 이색 투어]]></title>
-        <id>https://v.daum.net/v/20230430113922259</id>
-        <link href="https://v.daum.net/v/20230430113922259"/>
-        <updated>2023-04-30T11:14:57.053Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>

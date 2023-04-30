@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-04-30T12:32:50.666Z</updated>
+    <updated>2023-04-30T13:20:49.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전주 와서 이거 안 해보면 눈물 날 듯... 황홀한 이색 투어]]></title>
+        <id>https://v.daum.net/v/20230430113922259</id>
+        <link href="https://v.daum.net/v/20230430113922259"/>
+        <updated>2023-04-30T13:19:51.843Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산갈매기] 가장 하기 싫었던 체르니 연습이 준 의외의 수확]]></title>
         <id>https://v.daum.net/v/20230430195102376</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230430165544746"/>
         <updated>2023-04-30T08:21:16.378Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외여행 빗장 풀렸는데…항공권이 비싼 네 가지 이유]]></title>
-        <id>https://v.daum.net/v/20230430163940460</id>
-        <link href="https://v.daum.net/v/20230430163940460"/>
-        <updated>2023-04-30T08:21:16.380Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
