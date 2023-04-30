@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-04-30T13:20:49.030Z</updated>
+    <updated>2023-04-30T14:16:46.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정부, 한미회담 비난 中 보도 반박… “다른 나라가 우려할 사안 아냐”]]></title>
+        <id>https://v.daum.net/v/20230430224313854</id>
+        <link href="https://v.daum.net/v/20230430224313854"/>
+        <updated>2023-04-30T14:14:59.648Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤상현, 한미 핵공유 용어 논란에 "나토 핵기획그룹도 핵공유 아냐"]]></title>
+        <id>https://v.daum.net/v/20230430223729812</id>
+        <link href="https://v.daum.net/v/20230430223729812"/>
+        <updated>2023-04-30T14:14:59.650Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[굳건해진 가치동맹...신냉전 리스크는 과제]]></title>
         <id>https://v.daum.net/v/20230430220707547</id>
         <link href="https://v.daum.net/v/20230430220707547"/>
         <updated>2023-04-30T13:18:38.373Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외교부, 한일중 정상회담 실무회의 내달 개최 "지속 협의중"]]></title>
-        <id>https://v.daum.net/v/20230430214617344</id>
-        <link href="https://v.daum.net/v/20230430214617344"/>
-        <updated>2023-04-30T13:18:38.375Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대통령실, 백악관 尹 5박7일 국빈 방문 내내 '최고 예우' 펼쳐]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230430210946000"/>
         <updated>2023-04-30T12:30:56.167Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘미국에 올인’ 후폭풍이 몰려온다]]></title>
-        <id>https://v.daum.net/v/20230430210552978</id>
-        <link href="https://v.daum.net/v/20230430210552978"/>
-        <updated>2023-04-30T12:30:56.168Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>

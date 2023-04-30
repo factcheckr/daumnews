@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-04-30T13:20:49.052Z</updated>
+    <updated>2023-04-30T14:16:46.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가천대·카카오, ‘클라우드공학과’ 신설... 졸업하면 우선 채용]]></title>
+        <id>https://v.daum.net/v/20230430220404520</id>
+        <link href="https://v.daum.net/v/20230430220404520"/>
+        <updated>2023-04-30T14:16:06.319Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청년층엔 데이터 제공량 늘리고, 고령층은 가격 부담 낮춰]]></title>
         <id>https://v.daum.net/v/20230430210148938</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230430185104717"/>
         <updated>2023-04-30T11:15:15.385Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETRI의 R&R, 디지털 대전환 선도]]></title>
-        <id>https://v.daum.net/v/20230430193020132</id>
-        <link href="https://v.daum.net/v/20230430193020132"/>
-        <updated>2023-04-30T11:15:15.386Z</updated>
-        <content type="html"><![CDATA[대전일보]]></content>
     </entry>
 </feed>
