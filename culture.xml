@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-04-30T14:16:46.841Z</updated>
+    <updated>2023-04-30T15:18:58.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[풍부한 성량에도 '비극의 임팩트'가 작았다 [맥베스 오페라 리뷰]]]></title>
+        <id>https://v.daum.net/v/20230430234004199</id>
+        <link href="https://v.daum.net/v/20230430234004199"/>
+        <updated>2023-04-30T15:17:57.553Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일교차 큰 봄철 산행, ‘심장 돌연사’ 주의!]]></title>
         <id>https://v.daum.net/v/20230430214145301</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230430204321770"/>
         <updated>2023-04-30T12:31:47.361Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몸의 시계 멜라토닌, 적절한 보충법은?]]></title>
-        <id>https://v.daum.net/v/20230430201045536</id>
-        <link href="https://v.daum.net/v/20230430201045536"/>
-        <updated>2023-04-30T12:31:47.364Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>

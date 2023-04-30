@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-04-30T14:16:46.918Z</updated>
+    <updated>2023-04-30T15:18:58.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몸의 시계 멜라토닌, 적절한 보충법은?]]></title>
+        <id>https://v.daum.net/v/20230430201045536</id>
+        <link href="https://v.daum.net/v/20230430201045536"/>
+        <updated>2023-04-30T15:18:05.456Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전주 와서 이거 안 해보면 눈물 날 듯... 황홀한 이색 투어]]></title>
         <id>https://v.daum.net/v/20230430113922259</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230430170115839"/>
         <updated>2023-04-30T09:16:50.508Z</updated>
         <content type="html"><![CDATA[하이닥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내일 대체로 ‘맑음’ 미세먼지 ‘보통’…낮 최고기온 18∼24도]]></title>
-        <id>https://v.daum.net/v/20230430165544746</id>
-        <link href="https://v.daum.net/v/20230430165544746"/>
-        <updated>2023-04-30T08:21:16.378Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
