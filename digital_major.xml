@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-04-30T01:28:59.310Z</updated>
+    <updated>2023-04-30T02:38:41.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[탐사선 100km 거리서 본 화성의 달…‘데이모스’ 뒷면 첫 포착]]></title>
+        <id>https://v.daum.net/v/20230430090510127</id>
+        <link href="https://v.daum.net/v/20230430090510127"/>
+        <updated>2023-04-30T02:38:09.172Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ET뷰]방송법 부의 의결…윤 정부, 방송개혁 정국으로]]></title>
         <id>https://v.daum.net/v/20230430090251097</id>
@@ -48,7 +55,7 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[산사태, 지구에서만 일어나는 게 아니었다]]></title>
+        <title type="html"><![CDATA[목성·토성이 주변의 위성을 주무른다고?]]></title>
         <id>https://v.daum.net/v/20230430090011973</id>
         <link href="https://v.daum.net/v/20230430090011973"/>
         <updated>2023-04-30T01:28:26.210Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230430080014453"/>
         <updated>2023-04-30T01:28:26.215Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘첩약’ 넘어 ‘제제’로…한약이 국민 건강에 기여하려면]]></title>
-        <id>https://v.daum.net/v/20230430080008436</id>
-        <link href="https://v.daum.net/v/20230430080008436"/>
-        <updated>2023-04-30T01:28:26.218Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
