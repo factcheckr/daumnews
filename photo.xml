@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-04-30T08:22:05.948Z</updated>
+    <updated>2023-04-30T09:17:47.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령 미국서 귀국…김기현·대통령실 마중 나와 [만리재사진첩]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1629566/YnkvGaC24p</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1629566/YnkvGaC24p"/>
+        <updated>2023-04-30T09:17:17.619Z</updated>
+        <content type="html"><![CDATA[만리재사진첩]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['강아지 방범대 출동']]></title>
         <id>https://gallery.v.daum.net/p/viewer/1461/7oX8Jp8CNn</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1518/bLKfzirqK4"/>
         <updated>2023-04-29T04:21:47.405Z</updated>
         <content type="html"><![CDATA[전국 화재사고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[창경궁 꽃 사진-신문 사진에 사람이 꼭 들어가는 이유 [청계천 옆 사진관]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/344179/91nU3xA0ri</id>
-        <link href="https://gallery.v.daum.net/p/viewer/344179/91nU3xA0ri"/>
-        <updated>2023-04-29T04:21:47.406Z</updated>
-        <content type="html"><![CDATA[청계천 옆 사진관]]></content>
     </entry>
 </feed>
