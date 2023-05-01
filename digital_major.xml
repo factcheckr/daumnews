@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-05-01T09:20:52.754Z</updated>
+    <updated>2023-05-01T10:23:13.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[美 "반도체법 핵심은 인재확보"…업계 비상]]></title>
-        <id>https://v.daum.net/v/20230501170002466</id>
-        <link href="https://v.daum.net/v/20230501170002466"/>
-        <updated>2023-05-01T09:20:14.062Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA["복학왕 속 캐릭터로 변신?"...AI기술 접목 웹툰 속 스토리에 참여]]></title>
         <id>https://v.daum.net/v/20230501162649664</id>
@@ -48,13 +41,6 @@
         <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플·구글 '폴더블폰' 도발에…삼성도 칼 빼들었다 [영상]]]></title>
-        <id>https://v.daum.net/v/20230501141603692</id>
-        <link href="https://v.daum.net/v/20230501141603692"/>
-        <updated>2023-05-01T09:20:14.072Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“타사와 비교 어렵게 해라” 5G 중간요금제, 시작부터 엉망인 이유]]></title>
         <id>https://v.daum.net/v/20230501141508682</id>
         <link href="https://v.daum.net/v/20230501141508682"/>
@@ -74,5 +60,19 @@
         <link href="https://v.daum.net/v/20230501124216004"/>
         <updated>2023-05-01T07:20:11.543Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잭 도시 전 트위터 CEO, 일론 머스크 리더십 비판]]></title>
+        <id>https://v.daum.net/v/20230501124323017</id>
+        <link href="https://v.daum.net/v/20230501124323017"/>
+        <updated>2023-05-01T10:22:34.457Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20배 빠르다고 홍보하던 5G...“언제쯤 써볼 수 있나요” [뉴스 쉽게보기]]]></title>
+        <id>https://v.daum.net/v/20230501122400735</id>
+        <link href="https://v.daum.net/v/20230501122400735"/>
+        <updated>2023-05-01T10:22:34.458Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
