@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-05-02T16:25:39.870Z</updated>
+    <updated>2023-05-02T17:21:31.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美전문가 "워싱턴선언, 핵무장론 없애진못하겠지만 적절한 타협"]]></title>
+        <id>https://v.daum.net/v/20230503003416839</id>
+        <link href="https://v.daum.net/v/20230503003416839"/>
+        <updated>2023-05-02T17:20:08.035Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北에 퍼진 ‘워싱턴 선언’…‘金정권 종말’ 언급에 “젊은층 큰 관심”]]></title>
         <id>https://v.daum.net/v/20230503000417665</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230502225546083"/>
         <updated>2023-05-02T15:22:00.414Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프랑스 정년 늦춰 연금개혁...그리스는 무상의료 사실상 철폐]]></title>
-        <id>https://v.daum.net/v/20230502224019992</id>
-        <link href="https://v.daum.net/v/20230502224019992"/>
-        <updated>2023-05-02T15:22:00.414Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>

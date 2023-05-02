@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-05-02T16:25:39.851Z</updated>
+    <updated>2023-05-02T17:21:31.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김한수의 오마이갓] “저 아픈 거 부모님껜 비밀입니다”...성직자와 어버이]]></title>
+        <id>https://v.daum.net/v/20230503000159603</id>
+        <link href="https://v.daum.net/v/20230503000159603"/>
+        <updated>2023-05-02T17:20:19.269Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백석 해금한 정한모, ‘빨간 마후라’ 각본 쓴 한운사…1923년생 문인 여섯]]></title>
         <id>https://v.daum.net/v/20230503000252625</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230502143212311"/>
         <updated>2023-05-02T13:22:47.638Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제 비즈니스석 필요 없다…이코노미석에 침대 놓는다는 항공사]]></title>
-        <id>https://v.daum.net/v/20230502214800263</id>
-        <link href="https://v.daum.net/v/20230502214800263"/>
-        <updated>2023-05-02T13:22:47.639Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
