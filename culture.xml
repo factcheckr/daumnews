@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-05-02T13:23:57.478Z</updated>
+    <updated>2023-05-02T14:18:37.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사흘동안 모인 1천만원...대학생·상인들이 길고양이 ‘줄냥이’ 살렸다]]></title>
+        <id>https://v.daum.net/v/20230502220601594</id>
+        <link href="https://v.daum.net/v/20230502220601594"/>
+        <updated>2023-05-02T14:17:41.062Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사고, 후원하고, 기증하고… 중국 현대미술 알린 슈퍼 컬렉터]]></title>
         <id>https://v.daum.net/v/20230502221804751</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230502214441198"/>
         <updated>2023-05-02T13:22:47.639Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명품 백자와 분청이 한자리에... 공동 기획전 ‘화이트 앤솔러지’ 개막]]></title>
-        <id>https://v.daum.net/v/20230502210329491</id>
-        <link href="https://v.daum.net/v/20230502210329491"/>
-        <updated>2023-05-02T12:35:43.446Z</updated>
-        <content type="html"><![CDATA[CJB청주방송]]></content>
     </entry>
 </feed>

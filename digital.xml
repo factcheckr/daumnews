@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-02T13:23:57.479Z</updated>
+    <updated>2023-05-02T14:18:37.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글 떠난 ‘딥러닝 아버지’의 경고… “인간 능가한 AI, 통제법 찾아야”]]></title>
+        <id>https://v.daum.net/v/20230502182243066</id>
+        <link href="https://v.daum.net/v/20230502182243066"/>
+        <updated>2023-05-02T14:17:58.002Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웹 지식·정보 무차별 흡수 ‘AI 학습 방식’…혁신·위법 ‘충돌’]]></title>
         <id>https://v.daum.net/v/20230502220436575</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230502203600005"/>
         <updated>2023-05-02T12:36:03.380Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<뉴스브릿지> 머스크 로켓 실패했지만…우주 시대 준비 '착착']]></title>
-        <id>https://v.daum.net/v/20230502201606648</id>
-        <link href="https://v.daum.net/v/20230502201606648"/>
-        <updated>2023-05-02T12:36:03.380Z</updated>
-        <content type="html"><![CDATA[EBS]]></content>
     </entry>
 </feed>
