@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-05-02T14:18:37.756Z</updated>
+    <updated>2023-05-02T15:23:21.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백석 해금한 정한모, ‘빨간 마후라’ 각본 쓴 한운사…1923년생 문인 여섯]]></title>
+        <id>https://v.daum.net/v/20230503000252625</id>
+        <link href="https://v.daum.net/v/20230503000252625"/>
+        <updated>2023-05-02T15:22:10.536Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사흘동안 모인 1천만원...대학생·상인들이 길고양이 ‘줄냥이’ 살렸다]]></title>
         <id>https://v.daum.net/v/20230502220601594</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230502214800263"/>
         <updated>2023-05-02T13:22:47.639Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기억과 치유를 위한 ‘비움의 설계’…다음 세대를 배려하다[공감의 건축-또 다른 건축을 향해]]]></title>
-        <id>https://v.daum.net/v/20230502214441198</id>
-        <link href="https://v.daum.net/v/20230502214441198"/>
-        <updated>2023-05-02T13:22:47.639Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>

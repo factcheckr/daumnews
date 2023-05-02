@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-05-02T14:18:37.715Z</updated>
+    <updated>2023-05-02T15:23:21.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기억과 치유를 위한 ‘비움의 설계’…다음 세대를 배려하다[공감의 건축-또 다른 건축을 향해]]]></title>
+        <id>https://v.daum.net/v/20230502214441198</id>
+        <link href="https://v.daum.net/v/20230502214441198"/>
+        <updated>2023-05-02T15:22:24.813Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[명품 백자와 분청이 한자리에... 공동 기획전 ‘화이트 앤솔러지’ 개막]]></title>
         <id>https://v.daum.net/v/20230502210329491</id>
@@ -41,20 +48,6 @@
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위트컴 장군 조형물 건립 시민 모금…1만명 힘 보탰다]]></title>
-        <id>https://v.daum.net/v/20230502193518712</id>
-        <link href="https://v.daum.net/v/20230502193518712"/>
-        <updated>2023-05-02T12:35:52.695Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매니아들은 즐겁다는 ‘달리기’…당신에겐 고통스러운 이유]]></title>
-        <id>https://v.daum.net/v/20230502190944129</id>
-        <link href="https://v.daum.net/v/20230502190944129"/>
-        <updated>2023-05-02T12:35:52.698Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[‘문재인입니다’ 시사할거냐 묻자 “개봉하면 내 돈 내고 볼 겁니다”]]></title>
         <id>https://v.daum.net/v/20230502185145728</id>
         <link href="https://v.daum.net/v/20230502185145728"/>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230502182203043"/>
         <updated>2023-05-02T11:16:18.189Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘정상가족’이란 무엇인가… 미술로 풀어본 사회학]]></title>
+        <id>https://v.daum.net/v/20230502181506866</id>
+        <link href="https://v.daum.net/v/20230502181506866"/>
+        <updated>2023-05-02T15:22:24.844Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
