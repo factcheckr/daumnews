@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-02T19:16:42.430Z</updated>
+    <updated>2023-05-02T20:22:27.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[애플·구글, '원치않는' 위치 추적 장치 차단 손잡았다]]></title>
-        <id>https://v.daum.net/v/20230503030617379</id>
-        <link href="https://v.daum.net/v/20230503030617379"/>
-        <updated>2023-05-02T18:22:39.864Z</updated>
+        <title type="html"><![CDATA[누리호 발사 3주 앞으로…첫 '실전발사' 관전포인트는?]]></title>
+        <id>https://v.daum.net/v/20230503050508208</id>
+        <link href="https://v.daum.net/v/20230503050508208"/>
+        <updated>2023-05-02T20:21:43.502Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[트랜D] AI로 누구나 나만의 음악을 만드는 시대]]></title>
+        <id>https://v.daum.net/v/20230503050104953</id>
+        <link href="https://v.daum.net/v/20230503050104953"/>
+        <updated>2023-05-02T20:21:43.507Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[트위터 “뉴스에 요금 지불”… 콘텐츠 유료화 바람 부나]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230502220436575"/>
         <updated>2023-05-02T13:23:08.871Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 규제안 충돌…유럽 "엄격히", 美·日 "자유롭게"]]></title>
-        <id>https://v.daum.net/v/20230502220012499</id>
-        <link href="https://v.daum.net/v/20230502220012499"/>
-        <updated>2023-05-02T13:23:08.874Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
