@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-05-03T22:19:08.095Z</updated>
+    <updated>2023-05-03T23:24:09.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[붉은광장 주변 걷는 연인들]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/6637/Xjn7Sp7ABT</id>
+        <link href="https://gallery.v.daum.net/p/viewer/6637/Xjn7Sp7ABT"/>
+        <updated>2023-05-03T23:23:39.872Z</updated>
+        <content type="html"><![CDATA[러시아는 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["부산 엑스포 유치 기원" 블핑 항공기 뜬다]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5032452/uBsXHKVs1C</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1629566/xNN8HzbDxa"/>
         <updated>2023-05-03T07:24:42.730Z</updated>
         <content type="html"><![CDATA[만리재사진첩]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5·18묘지 현장학습 나온 초등학생들]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/2603/0uJ2NCS4by</id>
-        <link href="https://gallery.v.daum.net/p/viewer/2603/0uJ2NCS4by"/>
-        <updated>2023-05-03T07:24:42.731Z</updated>
-        <content type="html"><![CDATA[광주 민주화항쟁]]></content>
     </entry>
 </feed>
