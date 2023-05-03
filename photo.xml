@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-05-03T19:18:01.580Z</updated>
+    <updated>2023-05-03T20:20:47.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["부산 엑스포 유치 기원" 블핑 항공기 뜬다]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/uBsXHKVs1C</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/uBsXHKVs1C"/>
+        <updated>2023-05-03T20:20:19.851Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주차금지]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/29PtSUzcmv</id>
@@ -105,17 +112,17 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[리허설로 미리보는 英 찰스 3세 대관식]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5021010/Qth21KVs0R</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5021010/Qth21KVs0R"/>
-        <updated>2023-05-03T07:24:42.722Z</updated>
-        <content type="html"><![CDATA[포토 in 월드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리허설로 미리보는 英 찰스 3세 대관식]]></title>
         <id>https://gallery.v.daum.net/p/viewer/2904/Qth21KVs0R</id>
         <link href="https://gallery.v.daum.net/p/viewer/2904/Qth21KVs0R"/>
         <updated>2023-05-03T07:24:42.727Z</updated>
         <content type="html"><![CDATA[프랑스 마크롱 대통령]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리허설로 미리보는 英 찰스 3세 대관식]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5021010/Qth21KVs0R</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5021010/Qth21KVs0R"/>
+        <updated>2023-05-03T07:24:42.722Z</updated>
+        <content type="html"><![CDATA[포토 in 월드]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탄소중립, 미래세대 아이들과 함께…]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2603/0uJ2NCS4by"/>
         <updated>2023-05-03T07:24:42.731Z</updated>
         <content type="html"><![CDATA[광주 민주화항쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘은 우리들 세상]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5610796/5NL5MAEuUF</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5610796/5NL5MAEuUF"/>
-        <updated>2023-05-03T06:24:07.359Z</updated>
-        <content type="html"><![CDATA[모멘트]]></content>
     </entry>
 </feed>
