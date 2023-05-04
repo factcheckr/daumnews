@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-05-04T15:22:12.585Z</updated>
+    <updated>2023-05-04T16:35:18.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[심층인터뷰] 한미 금리차 역대 최대]]></title>
+        <id>https://v.daum.net/v/20230505003546674</id>
+        <link href="https://v.daum.net/v/20230505003546674"/>
+        <updated>2023-05-04T16:33:50.424Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서정진 혼외자 친모' 소유한 '셀트리온 계열사' 가보니]]></title>
         <id>https://v.daum.net/v/20230505000025476</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230504233000301"/>
         <updated>2023-05-04T15:19:58.631Z</updated>
         <content type="html"><![CDATA[노컷뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4월 햄버거값 17% 껑충, 19년 만에 최대폭 상승…프랜차이즈 업계도 줄인상]]></title>
-        <id>https://v.daum.net/v/20230504220410740</id>
-        <link href="https://v.daum.net/v/20230504220410740"/>
-        <updated>2023-05-04T15:19:58.631Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
