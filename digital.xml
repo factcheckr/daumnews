@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-04T19:16:30.817Z</updated>
+    <updated>2023-05-04T20:25:10.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 인기 최고 메뉴 피자 물가 14년만에 최고]]></title>
+        <id>https://v.daum.net/v/20230505050056447</id>
+        <link href="https://v.daum.net/v/20230505050056447"/>
+        <updated>2023-05-04T20:24:04.035Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["가격 공세로 톱3 외산 PC업체 될 것…정부 조달 시장도 공략" 웨인 니엔 에이서 한국 지사장 인터뷰]]></title>
+        <id>https://v.daum.net/v/20230505043030337</id>
+        <link href="https://v.daum.net/v/20230505043030337"/>
+        <updated>2023-05-04T20:24:04.037Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“빨리 팔고 싶으면 3천원 내” 동네 사람 다하는 ‘당근마켓’ 500억 적자 내더니]]></title>
         <id>https://v.daum.net/v/20230504195316836</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230504173815402"/>
         <updated>2023-05-04T13:22:44.060Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["사람 자르고 복지 줄이면서, 왜 너만 더 받아?" 구글 직원들 뿔났다]]></title>
-        <id>https://v.daum.net/v/20230504173101178</id>
-        <link href="https://v.daum.net/v/20230504173101178"/>
-        <updated>2023-05-04T14:18:06.814Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국공장 지속할 시간 번 K반도체 … 美보조금 신청도 속도낼듯]]></title>
-        <id>https://v.daum.net/v/20230504172116911</id>
-        <link href="https://v.daum.net/v/20230504172116911"/>
-        <updated>2023-05-04T14:18:06.814Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
