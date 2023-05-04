@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-05-04T12:37:46.637Z</updated>
+    <updated>2023-05-04T13:23:29.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정진상 이어 김용도…잇따른 '이재명 측근 석방' 영향은?]]></title>
+        <id>https://v.daum.net/v/20230504192547300</id>
+        <link href="https://v.daum.net/v/20230504192547300"/>
+        <updated>2023-05-04T13:21:27.732Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“혼인·혈연 아니어도, 같이 살면 가족” 가능할까? 생활동반자법 첫 발의]]></title>
         <id>https://v.daum.net/v/20230504212947257</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230504210044907"/>
         <updated>2023-05-04T12:35:45.919Z</updated>
         <content type="html"><![CDATA[대구MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미 핵잠수함에 한미일 사령관…처음으로 함께 탄 이유]]></title>
-        <id>https://v.daum.net/v/20230504210310950</id>
-        <link href="https://v.daum.net/v/20230504210310950"/>
-        <updated>2023-05-04T12:35:45.919Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
