@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-05T07:24:14.250Z</updated>
+    <updated>2023-05-05T08:25:13.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“20만→0원, 이래도 삼성 사?” 샤오미 ‘가성비폰’ 유혹]]></title>
+        <id>https://v.daum.net/v/20230505165216399</id>
+        <link href="https://v.daum.net/v/20230505165216399"/>
+        <updated>2023-05-05T08:24:29.455Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방통위원 적격성 시비··IT업계는 최민희·윤두현 ‘과거 악연’에 주목 [아이티라떼]]]></title>
         <id>https://v.daum.net/v/20230505161207818</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230505110238805"/>
         <updated>2023-05-05T02:33:47.904Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과학자들 뇌에서 영혼의 흔적 발견했다[달콤한 사이언스]]]></title>
-        <id>https://v.daum.net/v/20230505110218802</id>
-        <link href="https://v.daum.net/v/20230505110218802"/>
-        <updated>2023-05-05T02:33:47.905Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
