@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-05-05T16:24:55.757Z</updated>
+    <updated>2023-05-05T17:20:52.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/377110/ut82YV8CWI"/>
         <updated>2023-05-05T13:24:27.730Z</updated>
         <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위양지, 하얀 봄]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/90d0ESyPPS</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/90d0ESyPPS"/>
+        <updated>2023-05-05T17:20:21.036Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['더팩트 사진전 보러 가자!'…인파로 가득한 전시장 [TF사진관]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1803057/FVn5TRJGQh"/>
         <updated>2023-05-04T10:20:31.838Z</updated>
         <content type="html"><![CDATA[탁기형의 비어 있는 풍경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용산 어린이정원 개방…120년 만에 일반 공개 外]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5611563/xrLW2hv83q</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5611563/xrLW2hv83q"/>
-        <updated>2023-05-04T10:20:31.839Z</updated>
-        <content type="html"><![CDATA[사진구성]]></content>
     </entry>
 </feed>
