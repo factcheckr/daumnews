@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-06T05:17:55.525Z</updated>
+    <updated>2023-05-06T06:22:53.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글, 검색엔진에 AI 챗봇·동영상 대폭 강화한다…다음주 ‘마기 프로젝트’ 공개 전망]]></title>
+        <id>https://v.daum.net/v/20230506143023619</id>
+        <link href="https://v.daum.net/v/20230506143023619"/>
+        <updated>2023-05-06T06:22:06.720Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI “변론을 시작하겠습니다”]]></title>
         <id>https://v.daum.net/v/20230506040321560</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230506131004025"/>
         <updated>2023-05-06T04:21:43.385Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샴페인 거품 속에 숨겨진 비밀, 알고 보니 [사이언스 브런치]]]></title>
-        <id>https://v.daum.net/v/20230506110243003</id>
-        <link href="https://v.daum.net/v/20230506110243003"/>
-        <updated>2023-05-06T02:35:51.214Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
