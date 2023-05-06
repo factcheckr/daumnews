@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-05-06T06:22:53.842Z</updated>
+    <updated>2023-05-06T07:18:17.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샤오미 '왕눈이'까지 참전…역대급 '폰 카메라' 전쟁 승자는?]]></title>
+        <id>https://v.daum.net/v/20230506134002260</id>
+        <link href="https://v.daum.net/v/20230506134002260"/>
+        <updated>2023-05-06T07:17:43.453Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["인터넷신문 '신뢰도' '사회적책임' 고려 광고배정 기준 필요"]]></title>
+        <id>https://v.daum.net/v/20230506131004025</id>
+        <link href="https://v.daum.net/v/20230506131004025"/>
+        <updated>2023-05-06T07:17:43.453Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샴페인 거품 속에 숨겨진 비밀, 알고 보니 [사이언스 브런치]]]></title>
         <id>https://v.daum.net/v/20230506110243003</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230506060134007"/>
         <updated>2023-05-06T02:36:01.190Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해커도 챗GPT 쓴다···양날의 칼 AI [AI토피아]]]></title>
-        <id>https://v.daum.net/v/20230506091216651</id>
-        <link href="https://v.daum.net/v/20230506091216651"/>
-        <updated>2023-05-06T02:36:01.191Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스타트업 노리는 해커②] "보안? 배부른 소리" 성장 우선주의의 함정]]></title>
-        <id>https://v.daum.net/v/20230506090020488</id>
-        <link href="https://v.daum.net/v/20230506090020488"/>
-        <updated>2023-05-06T02:36:01.194Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>

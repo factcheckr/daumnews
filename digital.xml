@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-06T06:22:53.837Z</updated>
+    <updated>2023-05-06T07:18:17.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이제 스마트폰 없어도 된다고?"…'손바닥 결제' 시대 온다 [조아라의 IT's fun]]]></title>
+        <id>https://v.daum.net/v/20230506161001452</id>
+        <link href="https://v.daum.net/v/20230506161001452"/>
+        <updated>2023-05-06T07:17:34.951Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글·MS·오픈AI 등 AI제품 알고리즘 대중에 공개된다]]></title>
+        <id>https://v.daum.net/v/20230506153738171</id>
+        <link href="https://v.daum.net/v/20230506153738171"/>
+        <updated>2023-05-06T07:17:34.953Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글, 검색엔진에 AI 챗봇·동영상 대폭 강화한다…다음주 ‘마기 프로젝트’ 공개 전망]]></title>
         <id>https://v.daum.net/v/20230506143023619</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230506134415283"/>
         <updated>2023-05-06T05:17:10.129Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤오미 '왕눈이'까지 참전…역대급 '폰 카메라' 전쟁 승자는?]]></title>
-        <id>https://v.daum.net/v/20230506134002260</id>
-        <link href="https://v.daum.net/v/20230506134002260"/>
-        <updated>2023-05-06T05:17:10.130Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["인터넷신문 '신뢰도' '사회적책임' 고려 광고배정 기준 필요"]]></title>
-        <id>https://v.daum.net/v/20230506131004025</id>
-        <link href="https://v.daum.net/v/20230506131004025"/>
-        <updated>2023-05-06T04:21:43.385Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
 </feed>
