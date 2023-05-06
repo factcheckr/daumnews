@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-05-06T03:20:14.635Z</updated>
+    <updated>2023-05-06T04:22:32.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[위클리 스마트] 인공지능 규제 어떻게 해야 할까…국내선 신중론이 우세]]></title>
+        <id>https://v.daum.net/v/20230506100125246</id>
+        <link href="https://v.daum.net/v/20230506100125246"/>
+        <updated>2023-05-06T04:21:53.281Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여전히 어색한 '님'문화…LGU+ 직원 38% "OO님 호칭 불편"]]></title>
         <id>https://v.daum.net/v/20230506050022632</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230506080124892"/>
         <updated>2023-05-06T01:19:08.262Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["마지막 기회"…'반도체 감산' 삼성, 연구개발 투자 늘리는 이유]]></title>
-        <id>https://v.daum.net/v/20230506080222919</id>
-        <link href="https://v.daum.net/v/20230506080222919"/>
-        <updated>2023-05-06T01:19:08.263Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
