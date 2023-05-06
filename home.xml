@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-05-06T18:24:38.599Z</updated>
+    <updated>2023-05-06T19:16:36.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['투자의 달인' 버핏 "AI, 세상 바꿔도 인간 지능 못 이길 것"]]></title>
+        <id>https://v.daum.net/v/20230507032841226</id>
+        <link href="https://v.daum.net/v/20230507032841226"/>
+        <updated>2023-05-06T19:13:52.465Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美소도시 "책가방 메고 등교 금지"…총기 반입 막기 위한 고육책]]></title>
         <id>https://v.daum.net/v/20230507024316209</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20230506180120373"/>
         <updated>2023-05-06T14:14:47.253Z</updated>
         <content type="html"><![CDATA[경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라덕연 고액 투자자 줄소환...정치권 인사, 적극 권유 정황]]></title>
-        <id>https://v.daum.net/v/20230506224123799</id>
-        <link href="https://v.daum.net/v/20230506224123799"/>
-        <updated>2023-05-06T14:14:47.257Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
     </entry>
 </feed>
