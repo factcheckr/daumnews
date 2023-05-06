@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-06T09:18:29.013Z</updated>
+    <updated>2023-05-06T10:19:33.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글 검색 바뀐다…"대화형 AI·짧은 영상으로 젊은층 공략"]]></title>
+        <id>https://v.daum.net/v/20230506181617492</id>
+        <link href="https://v.daum.net/v/20230506181617492"/>
+        <updated>2023-05-06T10:18:47.609Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“코로나 끝나니 중국발 황사, 기가 막혀” 지웠던 앱, 다시 깔았다]]></title>
         <id>https://v.daum.net/v/20230506175111295</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230506143023619"/>
         <updated>2023-05-06T06:22:06.720Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI “변론을 시작하겠습니다”]]></title>
-        <id>https://v.daum.net/v/20230506040321560</id>
-        <link href="https://v.daum.net/v/20230506040321560"/>
-        <updated>2023-05-06T05:17:10.124Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
