@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-05-06T19:16:36.802Z</updated>
+    <updated>2023-05-06T20:18:42.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[눈앞에 벌레·먼지 날아다니는 듯… ‘비문증’ 아세요?]]></title>
+        <id>https://v.daum.net/v/20230507050014331</id>
+        <link href="https://v.daum.net/v/20230507050014331"/>
+        <updated>2023-05-06T20:17:30.470Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[다양한 농촌가정] “내 이름은 이나영, 시어머니가 지어주셨어요”]]></title>
         <id>https://v.daum.net/v/20230507040144235</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230507000713564"/>
         <updated>2023-05-06T15:18:02.571Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발바닥에 생긴 ‘검은 점’, 암인지 구별하려면]]></title>
-        <id>https://v.daum.net/v/20230506230014000</id>
-        <link href="https://v.daum.net/v/20230506230014000"/>
-        <updated>2023-05-06T15:18:02.574Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
