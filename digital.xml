@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-07T07:20:46.521Z</updated>
+    <updated>2023-05-07T08:22:02.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천 아파트 건설현장 왜이러나…지하주차장 지붕 이어 이번엔 옹벽 ‘붕괴’]]></title>
+        <id>https://v.daum.net/v/20230507162706355</id>
+        <link href="https://v.daum.net/v/20230507162706355"/>
+        <updated>2023-05-07T08:21:15.632Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포스트 코로나 시대의 한류를 읽다]]></title>
+        <id>https://v.daum.net/v/20230507162524337</id>
+        <link href="https://v.daum.net/v/20230507162524337"/>
+        <updated>2023-05-07T08:21:15.634Z</updated>
+        <content type="html"><![CDATA[스포츠경향]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계 2곳뿐인 '식물판 노아의 방주'에 자율주행 기술 쓰인 사연]]></title>
         <id>https://v.daum.net/v/20230507155602783</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[과학이 3년 4개월 만에 팬데믹 극복…韓, 과학기술 한계 확인]]></title>
+        <title type="html"><![CDATA[과학이 3년 4개월 만에 팬데믹 극복…韓 기술력 한계 드러내]]></title>
         <id>https://v.daum.net/v/20230507152801282</id>
         <link href="https://v.daum.net/v/20230507152801282"/>
         <updated>2023-05-07T07:19:52.341Z</updated>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230507145251535"/>
         <updated>2023-05-07T06:25:22.981Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 시대, 당신은 안녕하십니까 [주말엔]]]></title>
-        <id>https://v.daum.net/v/20230507130243670</id>
-        <link href="https://v.daum.net/v/20230507130243670"/>
-        <updated>2023-05-07T04:26:36.956Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메타버스 열풍이라더니…100명 중 4명만 이용, 업무용보단 게임용]]></title>
-        <id>https://v.daum.net/v/20230507123300258</id>
-        <link href="https://v.daum.net/v/20230507123300258"/>
-        <updated>2023-05-07T04:26:36.959Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
