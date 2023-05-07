@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-05-07T12:32:28.210Z</updated>
+    <updated>2023-05-07T13:20:46.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘피식대학’, 웹 예능으로 백상을 거머쥐다 [뉴스를 만나다]]]></title>
+        <id>https://v.daum.net/v/20230507212914417</id>
+        <link href="https://v.daum.net/v/20230507212914417"/>
+        <updated>2023-05-07T13:19:45.386Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[광주에도 민간정원 '첫 선'..지역 정원 문화 선도할까]]></title>
         <id>https://v.daum.net/v/20230507212411358</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230507203107611"/>
         <updated>2023-05-07T12:31:20.732Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건강 생각해서 담배·전자담배 병행했더니…]]></title>
-        <id>https://v.daum.net/v/20230507200015193</id>
-        <link href="https://v.daum.net/v/20230507200015193"/>
-        <updated>2023-05-07T12:31:20.733Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
