@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-05-07T10:20:02.016Z</updated>
+    <updated>2023-05-07T11:15:36.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종이접기 알려주는 유튜브, 불법일지도 모릅니다]]></title>
+        <id>https://v.daum.net/v/20230507180002798</id>
+        <link href="https://v.daum.net/v/20230507180002798"/>
+        <updated>2023-05-07T11:14:46.127Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[직장살이] 돌리고 돌리는 전화... 도대체 담당자가 누구입니까?]]></title>
         <id>https://v.daum.net/v/20230507175402735</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230507160716020"/>
         <updated>2023-05-07T09:17:38.708Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVB 파산은 미국 정부 탓이다?…'불황의 역사']]></title>
-        <id>https://v.daum.net/v/20230507161423138</id>
-        <link href="https://v.daum.net/v/20230507161423138"/>
-        <updated>2023-05-07T09:17:38.709Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>

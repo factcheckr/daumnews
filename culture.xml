@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-05-07T10:20:02.017Z</updated>
+    <updated>2023-05-07T11:15:36.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강원 산골마을에 퍼지는  싱그러운 ‘클래식 향연’]]></title>
+        <id>https://v.daum.net/v/20230507192017486</id>
+        <link href="https://v.daum.net/v/20230507192017486"/>
+        <updated>2023-05-07T11:14:36.419Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“측정때마다 다른 혈압, 나 고혈압맞아?...혈압약은 평생 먹어야 하나?”[이용권 기자의 Health 이용권]]]></title>
         <id>https://v.daum.net/v/20230507184642939</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230507180014813"/>
         <updated>2023-05-07T09:17:29.810Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종이접기 알려주는 유튜브, 불법일지도 모릅니다]]></title>
-        <id>https://v.daum.net/v/20230507180002798</id>
-        <link href="https://v.daum.net/v/20230507180002798"/>
-        <updated>2023-05-07T09:17:29.810Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
