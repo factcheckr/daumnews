@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2023-05-07T14:21:25.841Z</updated>
+    <updated>2023-05-07T15:19:24.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20230507225117195"/>
         <updated>2023-05-07T14:18:53.306Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“우리 쑥쑥 크자” 새싹 돌보는 새싹들]]></title>
+        <id>https://v.daum.net/v/20230507215256734</id>
+        <link href="https://v.daum.net/v/20230507215256734"/>
+        <updated>2023-05-07T15:17:01.784Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사라져가는 무료급식소…노인들 “100m 줄서도 고맙지”]]></title>
+        <id>https://v.daum.net/v/20230507214426641</id>
+        <link href="https://v.daum.net/v/20230507214426641"/>
+        <updated>2023-05-07T15:17:01.786Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가사·육아 분담 없이 별거했다면…법원 “분할연금 지급 안 돼”]]></title>
@@ -41,7 +55,7 @@
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[외교전문가 “알맹이 없는 회담”…시민단체들 “일 사죄 없이 진행된 회담 규탄”]]></title>
+        <title type="html"><![CDATA[외교전문가 “기시다 발언, 본질 회피”…시민단체 “일 사죄 없이 진행된 회담 규탄”]]></title>
         <id>https://v.daum.net/v/20230507213518477</id>
         <link href="https://v.daum.net/v/20230507213518477"/>
         <updated>2023-05-07T13:18:44.934Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230507211924307"/>
         <updated>2023-05-07T12:30:11.116Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교육개혁, 유보통합 등 진통 불가피…섣부른 정책 ‘후퇴’도]]></title>
-        <id>https://v.daum.net/v/20230507211920306</id>
-        <link href="https://v.daum.net/v/20230507211920306"/>
-        <updated>2023-05-07T12:30:11.124Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 식량가격 약 1년만에 상승…곡물은 소폭 하락]]></title>
-        <id>https://v.daum.net/v/20230507211035164</id>
-        <link href="https://v.daum.net/v/20230507211035164"/>
-        <updated>2023-05-07T13:18:44.940Z</updated>
-        <content type="html"><![CDATA[농민신문]]></content>
     </entry>
 </feed>
