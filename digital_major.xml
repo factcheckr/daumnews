@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-05-09T09:19:18.950Z</updated>
+    <updated>2023-05-09T10:24:06.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[글쓰기·코딩에 한국어도 '척척'…AI 뛰어든 구글의 야심작]]></title>
+        <id>https://v.daum.net/v/20230509175002894</id>
+        <link href="https://v.daum.net/v/20230509175002894"/>
+        <updated>2023-05-09T10:23:32.263Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글, NYT에 전재료 1300억 낸다]]></title>
         <id>https://v.daum.net/v/20230509174220655</id>
@@ -18,6 +25,27 @@
         <link href="https://v.daum.net/v/20230509174226662"/>
         <updated>2023-05-09T09:18:41.935Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방심위, 심의 규정 5개 위반한 롯데홈쇼핑 '법정제재']]></title>
+        <id>https://v.daum.net/v/20230509173816482</id>
+        <link href="https://v.daum.net/v/20230509173816482"/>
+        <updated>2023-05-09T10:23:32.272Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘GPT 정보 유출’ 경고… 안전한 보안환경 필요해]]></title>
+        <id>https://v.daum.net/v/20230509173605393</id>
+        <link href="https://v.daum.net/v/20230509173605393"/>
+        <updated>2023-05-09T10:23:32.274Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북한발 'SW 공급망 공격' 부각…"SBOM 시범 사업 추진"]]></title>
+        <id>https://v.daum.net/v/20230509170552356</id>
+        <link href="https://v.daum.net/v/20230509170552356"/>
+        <updated>2023-05-09T10:23:32.276Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PC 업계 해킹 후폭풍..."펌웨어 변조 막는 인증서도 유출"]]></title>
@@ -34,13 +62,6 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[D램·낸드플래시 시대 뒤이을 차세대 메모리 소자 찾는다…3나노 이하 선점도 목표]]></title>
-        <id>https://v.daum.net/v/20230509171427638</id>
-        <link href="https://v.daum.net/v/20230509171427638"/>
-        <updated>2023-05-09T09:18:41.939Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[尹 정부 1년 보건의료] 코로나19 일상회복은 성과…간호법 파동에 개혁 ‘올스톱’]]></title>
         <id>https://v.daum.net/v/20230509171337613</id>
         <link href="https://v.daum.net/v/20230509171337613"/>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20230509134514436"/>
         <updated>2023-05-09T09:18:41.941Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스페셜리포트]해외 디지털교과서는 어떻게? 일본의 ‘애프터 기가’]]></title>
-        <id>https://v.daum.net/v/20230509170247214</id>
-        <link href="https://v.daum.net/v/20230509170247214"/>
-        <updated>2023-05-09T09:18:41.942Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종호 장관 "정부, 시스템반도체 점유율 높일 방법 고민해야"]]></title>
-        <id>https://v.daum.net/v/20230509165725876</id>
-        <link href="https://v.daum.net/v/20230509165725876"/>
-        <updated>2023-05-09T08:23:09.684Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“나이 먹으니 더 외로워…사람 만날 데 없나요?” 어르신들 난리났다]]></title>
-        <id>https://v.daum.net/v/20230509165314714</id>
-        <link href="https://v.daum.net/v/20230509165314714"/>
-        <updated>2023-05-09T08:23:09.694Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
