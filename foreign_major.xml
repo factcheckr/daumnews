@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-05-09T18:24:25.979Z</updated>
+    <updated>2023-05-09T19:16:01.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플 공동창업자의 우려…"인공지능, 사기 더 쉽게 만들 것"]]></title>
+        <id>https://v.daum.net/v/20230510030925794</id>
+        <link href="https://v.daum.net/v/20230510030925794"/>
+        <updated>2023-05-09T19:14:46.738Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]尹, 일론 머스크에 “만남 흥미로웠다”… 머스크 “한국 잠재력에 관심”]]></title>
+        <id>https://v.daum.net/v/20230510030722765</id>
+        <link href="https://v.daum.net/v/20230510030722765"/>
+        <updated>2023-05-09T19:14:46.738Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미중 통상갈등 이후…美반도체 시장 최대 수혜국은 대만-베트남]]></title>
         <id>https://v.daum.net/v/20230510030551748</id>
@@ -18,6 +32,20 @@
         <link href="https://v.daum.net/v/20230510030321630"/>
         <updated>2023-05-09T18:23:06.844Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["中 등 전략적 경쟁자 도전 차단"…美국방부, 과학기술전략 발표]]></title>
+        <id>https://v.daum.net/v/20230510030004546</id>
+        <link href="https://v.daum.net/v/20230510030004546"/>
+        <updated>2023-05-09T19:14:46.740Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['유엔, 우크라 곡물 수출 선박 검사 재개' -로이터]]></title>
+        <id>https://v.daum.net/v/20230510022616505</id>
+        <link href="https://v.daum.net/v/20230510022616505"/>
+        <updated>2023-05-09T19:14:46.740Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[UBS, 몇 주 내 CS 통합 운영 발표…CS CEO도 합류]]></title>
@@ -34,13 +62,6 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[바이든, 美대통령으로 파푸아뉴기니 첫 방문…남태평양서 中견제]]></title>
-        <id>https://v.daum.net/v/20230510015841438</id>
-        <link href="https://v.daum.net/v/20230510015841438"/>
-        <updated>2023-05-09T18:23:06.848Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['코로나 치명률 세계 2위 오명' 멕시코 비상사태 종료]]></title>
         <id>https://v.daum.net/v/20230510015233427</id>
         <link href="https://v.daum.net/v/20230510015233427"/>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20230510011345355"/>
         <updated>2023-05-09T18:23:06.852Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[굳어지는 바이든·트럼프 재대결의 '보이지 않는손'은 영부인들?]]></title>
-        <id>https://v.daum.net/v/20230510004427274</id>
-        <link href="https://v.daum.net/v/20230510004427274"/>
-        <updated>2023-05-09T18:23:06.853Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[룩셈부르크 장례식서 아리랑 연주…백마고지 전투 용사의 유언이었다]]></title>
-        <id>https://v.daum.net/v/20230510000201020</id>
-        <link href="https://v.daum.net/v/20230510000201020"/>
-        <updated>2023-05-09T16:23:42.464Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘튀르키예 간디’ 지지율 51%…에르도안 20년 끝낼까]]></title>
-        <id>https://v.daum.net/v/20230510000136006</id>
-        <link href="https://v.daum.net/v/20230510000136006"/>
-        <updated>2023-05-09T16:23:42.464Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>

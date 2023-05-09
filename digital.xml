@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-09T18:24:25.946Z</updated>
+    <updated>2023-05-09T19:16:01.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수사 중인 ‘위믹스 60억’ 외에 또다른 ‘28억 지갑’ 나와]]></title>
+        <id>https://v.daum.net/v/20230510034957877</id>
+        <link href="https://v.daum.net/v/20230510034957877"/>
+        <updated>2023-05-09T19:15:15.748Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이종호 장관 "정부, 시스템반도체 점유율 높일 방법 고민해야"]]></title>
+        <id>https://v.daum.net/v/20230509165725876</id>
+        <link href="https://v.daum.net/v/20230509165725876"/>
+        <updated>2023-05-09T19:15:15.749Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플 공동창업자의 우려…"인공지능, 사기 더 쉽게 만들 것"]]></title>
         <id>https://v.daum.net/v/20230510030925794</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230509213630565"/>
         <updated>2023-05-09T13:11:00.491Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['실검 2년 만에 부활' 보도에 네이버 "아예 다른 서비스"]]></title>
-        <id>https://v.daum.net/v/20230509195216261</id>
-        <link href="https://v.daum.net/v/20230509195216261"/>
-        <updated>2023-05-09T15:20:10.362Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난달 배달앱 이용자수 오름세…"서비스 다양화·할인 이벤트 영향"]]></title>
-        <id>https://v.daum.net/v/20230509191237195</id>
-        <link href="https://v.daum.net/v/20230509191237195"/>
-        <updated>2023-05-09T16:24:13.916Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
