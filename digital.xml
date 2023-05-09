@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-09T17:17:58.786Z</updated>
+    <updated>2023-05-09T18:24:25.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플 공동창업자의 우려…"인공지능, 사기 더 쉽게 만들 것"]]></title>
+        <id>https://v.daum.net/v/20230510030925794</id>
+        <link href="https://v.daum.net/v/20230510030925794"/>
+        <updated>2023-05-09T18:23:37.681Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[상용화 4년 맞은 5G…'킬러 콘텐츠'는 실종]]></title>
         <id>https://v.daum.net/v/20230510000058985</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230509191237195"/>
         <updated>2023-05-09T16:24:13.916Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우체국 금융시스템 개편 이틀째 일부 오류 이어져…“간편 인증은 정상화”]]></title>
-        <id>https://v.daum.net/v/20230509183445259</id>
-        <link href="https://v.daum.net/v/20230509183445259"/>
-        <updated>2023-05-09T17:17:16.219Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-05-09T17:17:58.772Z</updated>
+    <updated>2023-05-09T18:24:25.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230509215721928"/>
         <updated>2023-05-09T13:11:08.554Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우체국 금융시스템 개편 이틀째 일부 오류 이어져…“간편 인증은 정상화”]]></title>
+        <id>https://v.daum.net/v/20230509183445259</id>
+        <link href="https://v.daum.net/v/20230509183445259"/>
+        <updated>2023-05-09T18:23:47.476Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[위믹스 몰빵 투자로 수사?…"국산 코인 기피대상 되나" 우려 커져]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230509171808748"/>
         <updated>2023-05-09T16:24:23.474Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“나이 먹으니 더 외로워…사람 만날 데 없나요?” 어르신들 난리났다]]></title>
-        <id>https://v.daum.net/v/20230509165314714</id>
-        <link href="https://v.daum.net/v/20230509165314714"/>
-        <updated>2023-05-09T17:17:24.363Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
