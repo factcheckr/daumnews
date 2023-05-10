@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-05-10T09:23:22.726Z</updated>
+    <updated>2023-05-10T10:20:14.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민감정보 유출에… AI법 제정 속도내는 한·미·유럽]]></title>
+        <id>https://v.daum.net/v/20230510174315566</id>
+        <link href="https://v.daum.net/v/20230510174315566"/>
+        <updated>2023-05-10T10:19:46.162Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“5시간도 못 잔 운전자, 음주운전과 비슷” 연구]]></title>
         <id>https://v.daum.net/v/20230510173705361</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230510143515030"/>
         <updated>2023-05-10T08:23:34.886Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“화상회의 지각해도 괜찮아, AI 비서가 요약해주니까”]]></title>
-        <id>https://v.daum.net/v/20230510161502087</id>
-        <link href="https://v.daum.net/v/20230510161502087"/>
-        <updated>2023-05-10T08:23:34.893Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>

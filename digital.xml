@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-10T09:23:22.760Z</updated>
+    <updated>2023-05-10T10:20:14.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 네카쿠·구글·애플 등 ‘공룡들 타깃’… 플랫폼법 윤곽]]></title>
+        <id>https://v.daum.net/v/20230510184105284</id>
+        <link href="https://v.daum.net/v/20230510184105284"/>
+        <updated>2023-05-10T10:19:39.078Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[르포] 'A4용지 두께 ¼ 오차'…KF-21 생산현장을 가다]]></title>
         <id>https://v.daum.net/v/20230510180023085</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성전자, 60조원 규모 미국 지역통신망 전환 사업 ‘정조준’]]></title>
+        <title type="html"><![CDATA[삼성전자, 60조 규모 美 지역통신망 전환사업 공략]]></title>
         <id>https://v.daum.net/v/20230510150344122</id>
         <link href="https://v.daum.net/v/20230510150344122"/>
         <updated>2023-05-10T09:22:31.429Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230510174905720"/>
         <updated>2023-05-10T09:22:31.433Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커지는 AI 윤리·법제화 이슈...우리도 AI 제도 도입 속도낸다]]></title>
-        <id>https://v.daum.net/v/20230510174315566</id>
-        <link href="https://v.daum.net/v/20230510174315566"/>
-        <updated>2023-05-10T09:22:31.435Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
