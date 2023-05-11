@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-11T14:19:09.373Z</updated>
+    <updated>2023-05-11T15:23:10.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글, 검색·문서에 생성AI 도입…‘바드’는 한국말 배웠다]]></title>
+        <id>https://v.daum.net/v/20230512000337254</id>
+        <link href="https://v.daum.net/v/20230512000337254"/>
+        <updated>2023-05-11T15:22:25.803Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["왕눈이 플레이 전 야숨 정리하고 가실게요"]]></title>
         <id>https://v.daum.net/v/20230511151615380</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230511214605839"/>
         <updated>2023-05-11T14:18:30.208Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 챗봇 '바드' 한국어 먼저 지원‥속내는?]]></title>
-        <id>https://v.daum.net/v/20230511202812673</id>
-        <link href="https://v.daum.net/v/20230511202812673"/>
-        <updated>2023-05-11T12:36:13.187Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
