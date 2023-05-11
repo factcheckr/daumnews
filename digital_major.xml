@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-05-11T11:17:30.729Z</updated>
+    <updated>2023-05-11T12:36:59.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔데믹에도 `K-백신` 진화는 계속된다]]></title>
+        <id>https://v.daum.net/v/20230511171612901</id>
+        <link href="https://v.daum.net/v/20230511171612901"/>
+        <updated>2023-05-11T12:36:21.459Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“영화인 줄 았았는데, 실화냐” 현실은 더 끔찍했다 [지구, 뭐래?]]]></title>
         <id>https://v.daum.net/v/20230511165111960</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230511174134757"/>
         <updated>2023-05-11T10:19:56.792Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종호 과기장관, 일일 집배원 활약…위기 의심 가구에 등기 배달]]></title>
-        <id>https://v.daum.net/v/20230511173916673</id>
-        <link href="https://v.daum.net/v/20230511173916673"/>
-        <updated>2023-05-11T10:19:56.794Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
