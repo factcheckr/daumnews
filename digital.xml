@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-11T10:20:32.073Z</updated>
+    <updated>2023-05-11T11:17:30.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글 ‘접는 스마트폰’ 공개…삼성 아성에 도전]]></title>
+        <id>https://v.daum.net/v/20230511184310426</id>
+        <link href="https://v.daum.net/v/20230511184310426"/>
+        <updated>2023-05-11T11:16:51.452Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시승기] 화려한 치장 빼고 절제미로 승부…외유내강형 전기차 ‘폴스타2’]]></title>
+        <id>https://v.daum.net/v/20230511193309635</id>
+        <link href="https://v.daum.net/v/20230511193309635"/>
+        <updated>2023-05-11T11:16:51.456Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘한국어 바드’ 써보니···윤 대통령 누군지 알지만, 한국 경제는 모르네]]></title>
+        <id>https://v.daum.net/v/20230511185556720</id>
+        <link href="https://v.daum.net/v/20230511185556720"/>
+        <updated>2023-05-11T11:16:51.461Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['경영 공백' KT…외형 성장 이어갔다]]></title>
         <id>https://v.daum.net/v/20230511191203165</id>
         <link href="https://v.daum.net/v/20230511191203165"/>
         <updated>2023-05-11T10:19:46.892Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엇갈린 성적 받은 이통3사, 다음 격전지는 `AI·DX`]]></title>
-        <id>https://v.daum.net/v/20230511184536477</id>
-        <link href="https://v.daum.net/v/20230511184536477"/>
-        <updated>2023-05-11T10:19:46.894Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[피차이 "챗GPT보다 강력하고 다재다능"… 한국어 지원]]></title>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230511171612901"/>
         <updated>2023-05-11T10:19:46.897Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“영화인 줄 았았는데, 실화냐” 현실은 더 끔찍했다 [지구, 뭐래?]]]></title>
-        <id>https://v.daum.net/v/20230511165111960</id>
-        <link href="https://v.daum.net/v/20230511165111960"/>
-        <updated>2023-05-11T10:19:46.900Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘인도>중국’이라는 새로운 상식, 아십니까?[K비즈니스 가이드]]]></title>
-        <id>https://v.daum.net/v/20230511181505745</id>
-        <link href="https://v.daum.net/v/20230511181505745"/>
-        <updated>2023-05-11T10:19:46.902Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
