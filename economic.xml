@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-05-11T15:23:10.761Z</updated>
+    <updated>2023-05-11T17:22:40.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청주 구제역 발생 4곳으로…정부 “차단 총력”]]></title>
+        <id>https://v.daum.net/v/20230512003151445</id>
+        <link href="https://v.daum.net/v/20230512003151445"/>
+        <updated>2023-05-11T17:21:00.777Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세계로 뻗어가는 K-농업] 과수화상병의 확산 억제 위해 ‘방제 적기 예측 시스템’ 가동]]></title>
         <id>https://v.daum.net/v/20230512000417279</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230512000218200"/>
         <updated>2023-05-11T15:21:33.000Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전경련 미래기금 사업 순항할까…"4대 그룹 설득이 관건"]]></title>
-        <id>https://v.daum.net/v/20230512000046148</id>
-        <link href="https://v.daum.net/v/20230512000046148"/>
-        <updated>2023-05-11T15:21:33.001Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
