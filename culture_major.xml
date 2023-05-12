@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-05-12T10:20:40.226Z</updated>
+    <updated>2023-05-12T11:17:10.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전설의 광대 슬라바 폴루닌 ‘스노우쇼’, 동화 속 별천지로 초대]]></title>
+        <id>https://v.daum.net/v/20230512183000191</id>
+        <link href="https://v.daum.net/v/20230512183000191"/>
+        <updated>2023-05-12T11:16:13.098Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화관 대신 미술관…데이트 코스 바뀌었네]]></title>
         <id>https://v.daum.net/v/20230512182604112</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230512164241335"/>
         <updated>2023-05-12T08:21:59.931Z</updated>
         <content type="html"><![CDATA[CJB청주방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루쉰의 ‘숨겨졌던’ 아내, 주안[책과 책 사이]]]></title>
-        <id>https://v.daum.net/v/20230512161908558</id>
-        <link href="https://v.daum.net/v/20230512161908558"/>
-        <updated>2023-05-12T08:21:59.935Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
