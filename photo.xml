@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-05-12T18:29:46.646Z</updated>
+    <updated>2023-05-12T19:16:47.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아니 벌써?]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/QeCrR8PlLX</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/QeCrR8PlLX"/>
+        <updated>2023-05-12T19:16:08.672Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밤을 밝히는 연꽃]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1573204/qaQtfBKw7P</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2603/K28a5AkUBL"/>
         <updated>2023-05-12T07:17:31.521Z</updated>
         <content type="html"><![CDATA[광주 민주화항쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[악수하는 호주 통산장관과 中바오우철강 총경리]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/382/5yVB4YHRu6</id>
-        <link href="https://gallery.v.daum.net/p/viewer/382/5yVB4YHRu6"/>
-        <updated>2023-05-12T07:17:31.522Z</updated>
-        <content type="html"><![CDATA[중국은 지금]]></content>
     </entry>
 </feed>
