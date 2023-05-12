@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-12T13:22:29.348Z</updated>
+    <updated>2023-05-12T14:21:04.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]사임하는 백상엽 카카오엔터 대표 "자사주 전량 매각 안 한다"]]></title>
+        <id>https://v.daum.net/v/20230512223704865</id>
+        <link href="https://v.daum.net/v/20230512223704865"/>
+        <updated>2023-05-12T14:20:17.510Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“60만원 할인해도 안 사?” 박은빈까지 자랑하던 ‘제품’ 어쩌다]]></title>
         <id>https://v.daum.net/v/20230512211316586</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230512190001614"/>
         <updated>2023-05-12T10:19:42.386Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통신비 인하 '속 빈 강정'…할인 없고 종류만 많다]]></title>
-        <id>https://v.daum.net/v/20230512181802939</id>
-        <link href="https://v.daum.net/v/20230512181802939"/>
-        <updated>2023-05-12T10:19:42.386Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
