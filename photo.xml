@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-05-13T14:16:32.976Z</updated>
+    <updated>2023-05-13T15:18:06.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WATCHES & WONDERS 2023 REPORT(2)]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029622/Go7dVU7AmM</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029622/Go7dVU7AmM"/>
+        <updated>2023-05-13T15:17:36.799Z</updated>
+        <content type="html"><![CDATA[프랑스는 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[건물 화재…솟아오르는 불길]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1518/HwkdM8PluS</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5611563/ZEyvXlv8Uh"/>
         <updated>2023-05-12T11:16:38.750Z</updated>
         <content type="html"><![CDATA[사진구성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기념촬영하는 이복현 금융감독원장]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1106239/B1XmJ8PlB3</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1106239/B1XmJ8PlB3"/>
-        <updated>2023-05-12T10:20:02.674Z</updated>
-        <content type="html"><![CDATA[인도네시아는 지금]]></content>
     </entry>
 </feed>
