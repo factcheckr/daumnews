@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-05-13T13:21:31.075Z</updated>
+    <updated>2023-05-13T14:16:32.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[18세기 런던 뒤흔든 희대의 위작 사건… 그 진실은]]></title>
+        <id>https://v.daum.net/v/20230513221622621</id>
+        <link href="https://v.daum.net/v/20230513221622621"/>
+        <updated>2023-05-13T14:15:37.439Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[축제로 물든 울산…쇠부리 복원 ‘눈길’]]></title>
         <id>https://v.daum.net/v/20230513213606316</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230513204037775"/>
         <updated>2023-05-13T12:31:07.495Z</updated>
         <content type="html"><![CDATA[대구MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정신과 약은 늘어나지만... 나는 아직 유치원에 다닌다]]></title>
-        <id>https://v.daum.net/v/20230513202701669</id>
-        <link href="https://v.daum.net/v/20230513202701669"/>
-        <updated>2023-05-13T12:31:07.497Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
