@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-05-13T10:21:32.445Z</updated>
+    <updated>2023-05-13T11:15:47.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中 청년들도 “오프라인이 무서워”… ‘소셜포비아’ 확산]]></title>
+        <id>https://v.daum.net/v/20230513173215945</id>
+        <link href="https://v.daum.net/v/20230513173215945"/>
+        <updated>2023-05-13T11:14:39.046Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 영상]가야고분군, 세계유산 등재 눈앞]]></title>
         <id>https://v.daum.net/v/20230513175852320</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230513144810021"/>
         <updated>2023-05-13T10:20:17.445Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[월드리포트] 총 쏘고 총 맞고…비극 되풀이되는 이유]]></title>
-        <id>https://v.daum.net/v/20230513144527993</id>
-        <link href="https://v.daum.net/v/20230513144527993"/>
-        <updated>2023-05-13T07:16:13.034Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
