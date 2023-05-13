@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-13T04:23:16.408Z</updated>
+    <updated>2023-05-13T05:22:47.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김남국, 신생 코인에 간 큰 투자…매도 시점 놓쳐 피해도]]></title>
+        <id>https://v.daum.net/v/20230513140915648</id>
+        <link href="https://v.daum.net/v/20230513140915648"/>
+        <updated>2023-05-13T05:21:56.051Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["올해요" 구글 AI챗봇 '바드'에 "한국은 언제 일본 추월하냐" 물었더니]]></title>
         <id>https://v.daum.net/v/20230513120552543</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230513115431376"/>
         <updated>2023-05-13T03:20:35.448Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[애플 쇼크웨이브]⑬"IBM 대신 인텔을 택할 걸…" 잡스 끌어내린 애플CEO의 후회]]></title>
-        <id>https://v.daum.net/v/20230513110754024</id>
-        <link href="https://v.daum.net/v/20230513110754024"/>
-        <updated>2023-05-13T02:37:02.458Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
