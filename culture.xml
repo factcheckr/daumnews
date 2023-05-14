@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-05-14T03:21:34.388Z</updated>
+    <updated>2023-05-14T04:22:27.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 휴일 포근, 요란한 소나기…돌풍·벼락 동반]]></title>
+        <id>https://v.daum.net/v/20230514131418945</id>
+        <link href="https://v.daum.net/v/20230514131418945"/>
+        <updated>2023-05-14T04:21:24.466Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[숙취해소제, 내 숙취 어디까지 해소해줄까?]]></title>
+        <id>https://v.daum.net/v/20230514123015399</id>
+        <link href="https://v.daum.net/v/20230514123015399"/>
+        <updated>2023-05-14T04:21:24.468Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아, 뭐였지' 생각날듯 말듯 할 때, 넘어가면 뇌세포 죽는다… [이거레알?]]]></title>
         <id>https://v.daum.net/v/20230514120017854</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230514114605636"/>
         <updated>2023-05-14T03:20:27.615Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안 통한 ‘문재인입니다’, ‘노무현입니다’ 8분의1 수준]]></title>
-        <id>https://v.daum.net/v/20230514111015020</id>
-        <link href="https://v.daum.net/v/20230514111015020"/>
-        <updated>2023-05-14T02:36:29.434Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“바꾼다고 해도 바뀌는 게 없잖아?” 세상은 ‘요지부동’ 속이다]]></title>
-        <id>https://v.daum.net/v/20230514110303898</id>
-        <link href="https://v.daum.net/v/20230514110303898"/>
-        <updated>2023-05-14T02:36:29.435Z</updated>
-        <content type="html"><![CDATA[한겨레21]]></content>
     </entry>
 </feed>

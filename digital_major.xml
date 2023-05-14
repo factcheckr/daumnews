@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-05-14T03:21:34.388Z</updated>
+    <updated>2023-05-14T04:22:27.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[르포] ‘규모 7′ 지진나면 1초 만에 원자로 자동정지… 지진관측망 개선 나선 고리 원전]]></title>
+        <id>https://v.daum.net/v/20230514120134965</id>
+        <link href="https://v.daum.net/v/20230514120134965"/>
+        <updated>2023-05-14T04:21:52.198Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원전시설 지진 감시망 더 '촘촘히'..."1초만에 감지 후 3초 내 경보"]]></title>
+        <id>https://v.daum.net/v/20230514120013843</id>
+        <link href="https://v.daum.net/v/20230514120013843"/>
+        <updated>2023-05-14T04:21:52.199Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ZD브리핑] 코로나19 위기 하향 비대면 진료 갈등...첨단로봇산업 전략 발표 기대감]]></title>
         <id>https://v.daum.net/v/20230514114935671</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230514100025698"/>
         <updated>2023-05-14T03:20:56.566Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후쿠시마 오염수, 과학→정치 해법으로?]]></title>
-        <id>https://v.daum.net/v/20230514093144320</id>
-        <link href="https://v.daum.net/v/20230514093144320"/>
-        <updated>2023-05-14T03:20:56.567Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표지로 읽는 과학] 귀상어가 추운 바다에서 체온을 유지하는 방법]]></title>
-        <id>https://v.daum.net/v/20230514091013026</id>
-        <link href="https://v.daum.net/v/20230514091013026"/>
-        <updated>2023-05-14T03:20:56.569Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
