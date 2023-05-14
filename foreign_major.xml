@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-05-14T16:22:44.994Z</updated>
+    <updated>2023-05-14T17:16:37.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 국토안보장관 "즉각 추방 폐지 후 불법입국 시도 50% 줄어"]]></title>
+        <id>https://v.daum.net/v/20230515001544663</id>
+        <link href="https://v.daum.net/v/20230515001544663"/>
+        <updated>2023-05-14T17:15:31.060Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中 블로거 롼샤오환 국가전복죄로 징역 7년 중형 선고]]></title>
         <id>https://v.daum.net/v/20230514235926482</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230514231947351"/>
         <updated>2023-05-14T15:17:23.460Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미IRA 맞선 EU 유치전 본격화…독일·프랑스에 배터리 신규공장]]></title>
-        <id>https://v.daum.net/v/20230514224708164</id>
-        <link href="https://v.daum.net/v/20230514224708164"/>
-        <updated>2023-05-14T15:17:23.465Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
