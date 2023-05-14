@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-05-14T18:23:22.284Z</updated>
+    <updated>2023-05-14T19:17:23.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“올해 세계서 가장 중요한 선거”… 튀르키예 대선 2파전으로 실시]]></title>
+        <id>https://v.daum.net/v/20230515040721395</id>
+        <link href="https://v.daum.net/v/20230515040721395"/>
+        <updated>2023-05-14T19:15:43.583Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수단 정부군, 반란 일으킨 신속지원군 돈줄 죈다…계좌 동결]]></title>
+        <id>https://v.daum.net/v/20230515040316344</id>
+        <link href="https://v.daum.net/v/20230515040316344"/>
+        <updated>2023-05-14T19:15:43.585Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[끝없는 이민자 행렬에… 美 “수용소 과밀 위험”]]></title>
         <id>https://v.daum.net/v/20230515030523225</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230515030431176"/>
         <updated>2023-05-14T18:21:54.583Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘핑크 타이드’가 부른 중남미 대탈출]]></title>
-        <id>https://v.daum.net/v/20230515030424168</id>
-        <link href="https://v.daum.net/v/20230515030424168"/>
-        <updated>2023-05-14T18:21:54.583Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱가포르, ‘SNS 왕따’ 방지법 추진… 반대파 탄압 도구화 우려]]></title>
-        <id>https://v.daum.net/v/20230515030400145</id>
-        <link href="https://v.daum.net/v/20230515030400145"/>
-        <updated>2023-05-14T18:21:54.584Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
