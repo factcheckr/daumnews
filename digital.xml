@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-14T14:16:32.104Z</updated>
+    <updated>2023-05-14T15:18:39.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글까지 가세…'활짝 펼친' 폴더블폰 시장, 삼성전자 숨은 무기는?]]></title>
+        <id>https://v.daum.net/v/20230515000020489</id>
+        <link href="https://v.daum.net/v/20230515000020489"/>
+        <updated>2023-05-14T15:17:52.516Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바이오파운드리 구축에 미국과 협력...첨단바이오 미래 캔다]]></title>
         <id>https://v.daum.net/v/20230514143311449</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230514204430305"/>
         <updated>2023-05-14T12:32:38.286Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“AI를 발명가로 인정해달라”..탈러 박사가 던진 빅퀘스천 [아이티라떼]]]></title>
-        <id>https://v.daum.net/v/20230514142103071</id>
-        <link href="https://v.daum.net/v/20230514142103071"/>
-        <updated>2023-05-14T12:32:38.288Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-05-14T14:16:32.016Z</updated>
+    <updated>2023-05-14T15:18:39.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[귀농 10년 만에 2억 대 연봉…성공 비결은?]]></title>
+        <id>https://v.daum.net/v/20230514221044939</id>
+        <link href="https://v.daum.net/v/20230514221044939"/>
+        <updated>2023-05-14T15:17:04.161Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금융당국, 3400개 CFD계좌 전수조사… ‘이상 거래’ 살핀다]]></title>
+        <id>https://v.daum.net/v/20230514210329473</id>
+        <link href="https://v.daum.net/v/20230514210329473"/>
+        <updated>2023-05-14T15:17:04.165Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웅동지구 결국 소송…협치 실종]]></title>
         <id>https://v.daum.net/v/20230514215958868</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230514210326472"/>
         <updated>2023-05-14T13:18:56.230Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["어떤 맛?" 이색 조합 경쟁…아이스크림 값은 오를 듯]]></title>
-        <id>https://v.daum.net/v/20230514205107358</id>
-        <link href="https://v.daum.net/v/20230514205107358"/>
-        <updated>2023-05-14T13:18:56.233Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["소형 아파트도 어렵네"…평당 분양가 2천만 원 첫 돌파]]></title>
-        <id>https://v.daum.net/v/20230514204806332</id>
-        <link href="https://v.daum.net/v/20230514204806332"/>
-        <updated>2023-05-14T13:18:56.235Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
