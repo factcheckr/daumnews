@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-14T13:20:30.701Z</updated>
+    <updated>2023-05-14T14:16:32.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바이오파운드리 구축에 미국과 협력...첨단바이오 미래 캔다]]></title>
+        <id>https://v.daum.net/v/20230514143311449</id>
+        <link href="https://v.daum.net/v/20230514143311449"/>
+        <updated>2023-05-14T14:15:46.608Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누리호 발사 D-10, 민간 위성들의 우주 임무는?]]></title>
         <id>https://v.daum.net/v/20230514214039730</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230514142103071"/>
         <updated>2023-05-14T12:32:38.288Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“새 폰 사려고 헌 폰 팔았는데” 하루아침에 중고가 25만원 손해 ‘황당’]]></title>
-        <id>https://v.daum.net/v/20230514125053629</id>
-        <link href="https://v.daum.net/v/20230514125053629"/>
-        <updated>2023-05-14T11:15:19.797Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>

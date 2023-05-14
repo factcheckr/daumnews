@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-05-14T13:20:30.678Z</updated>
+    <updated>2023-05-14T14:16:32.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“새 폰 사려고 헌 폰 팔았는데” 하루아침에 중고가 25만원 손해 ‘황당’]]></title>
+        <id>https://v.daum.net/v/20230514125053629</id>
+        <link href="https://v.daum.net/v/20230514125053629"/>
+        <updated>2023-05-14T14:15:56.410Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[테크&포커스] "단말도 수익모델도 없어"… 이통3사, 28㎓ 대역 포기]]></title>
         <id>https://v.daum.net/v/20230514183040792</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230514070130622"/>
         <updated>2023-05-14T10:20:03.676Z</updated>
         <content type="html"><![CDATA[농민신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[암 정복서 기후예측까지 … 게임체인저 '양자컴퓨터']]></title>
-        <id>https://v.daum.net/v/20230514163602527</id>
-        <link href="https://v.daum.net/v/20230514163602527"/>
-        <updated>2023-05-14T09:17:23.920Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
