@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-05-15T17:17:49.485Z</updated>
+    <updated>2023-05-15T18:24:14.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[근무 중 이상무!]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/YDZFJNA0DX</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/YDZFJNA0DX"/>
+        <updated>2023-05-15T18:23:48.289Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태국 총선, 민심은 ‘MZ영웅’ 피타 택했다]]></title>
         <id>https://gallery.v.daum.net/p/viewer/171596/197rYt3oCF</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5610796/WdnrdLg10Q"/>
         <updated>2023-05-15T07:19:41.363Z</updated>
         <content type="html"><![CDATA[모멘트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[101년 역사의 전국소프트테니스대회서 선수들의 가지각색 표정 [청계천 옆 사진관]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/344179/W1y6pJnXwY</id>
-        <link href="https://gallery.v.daum.net/p/viewer/344179/W1y6pJnXwY"/>
-        <updated>2023-05-15T07:19:41.368Z</updated>
-        <content type="html"><![CDATA[청계천 옆 사진관]]></content>
     </entry>
 </feed>
