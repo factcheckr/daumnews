@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-05-15T20:20:29.297Z</updated>
+    <updated>2023-05-15T21:20:35.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20230516050025764"/>
         <updated>2023-05-15T20:19:25.953Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만화 TV 극장 오가며 40세 맞은 둘리... “내년 나올 만화선 고길동 맹활약”]]></title>
+        <id>https://v.daum.net/v/20230516043216639</id>
+        <link href="https://v.daum.net/v/20230516043216639"/>
+        <updated>2023-05-15T21:19:38.215Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“K관광의 매력 중 하나는 공연이랍니다”]]></title>
+        <id>https://v.daum.net/v/20230516040919518</id>
+        <link href="https://v.daum.net/v/20230516040919518"/>
+        <updated>2023-05-15T21:19:38.218Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이용관 ‘수습 뒤 사퇴’ 배수진…영화계 “퇴행적 결정 철회를”]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230516030329185"/>
         <updated>2023-05-15T18:23:23.561Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손발 붓고 늘 피곤하다면…신장 고장났다는 신호]]></title>
-        <id>https://v.daum.net/v/20230516030320174</id>
-        <link href="https://v.daum.net/v/20230516030320174"/>
-        <updated>2023-05-15T18:23:23.564Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“사랑과 자비 없이는 세상 고통 줄지 않아”]]></title>
-        <id>https://v.daum.net/v/20230516030306157</id>
-        <link href="https://v.daum.net/v/20230516030306157"/>
-        <updated>2023-05-15T18:23:23.565Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
