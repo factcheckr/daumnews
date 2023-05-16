@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-05-16T19:17:17.055Z</updated>
+    <updated>2023-05-16T20:21:15.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령 만나 젤렌스카 여사]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/ZwMFogNFYz</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/ZwMFogNFYz"/>
+        <updated>2023-05-16T20:20:35.022Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 주택가에 나타난 흑곰… 진정제 쏴 떨어뜨려 야생 돌려보내]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1476/zzxNhlv8EE</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1461/XAEz1X5JC3"/>
         <updated>2023-05-16T08:23:37.552Z</updated>
         <content type="html"><![CDATA[서울의 풍경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공개된 5·18민주화운동 암매장 추정 유골 수습 현장]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/2603/5Trx9BKwuU</id>
-        <link href="https://gallery.v.daum.net/p/viewer/2603/5Trx9BKwuU"/>
-        <updated>2023-05-16T08:23:37.554Z</updated>
-        <content type="html"><![CDATA[광주 민주화항쟁]]></content>
     </entry>
 </feed>
