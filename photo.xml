@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-05-17T17:18:40.274Z</updated>
+    <updated>2023-05-17T18:25:35.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신세계면세점, 한국 문화유산 디지털 영상 상영]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5030433/KWAC2lv8r4</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5030433/KWAC2lv8r4"/>
+        <updated>2023-05-17T18:25:06.156Z</updated>
+        <content type="html"><![CDATA[국립중앙박물관]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제철 맞은 가자미]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/VP0T4TWQst</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/VP0T4TWQst"/>
+        <updated>2023-05-17T18:25:06.157Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[43돌 5·18… 마르지 않는 눈물]]></title>
         <id>https://gallery.v.daum.net/p/viewer/2603/Kp5KPvyPLJ</id>
         <link href="https://gallery.v.daum.net/p/viewer/2603/Kp5KPvyPLJ"/>
         <updated>2023-05-17T16:24:32.718Z</updated>
         <content type="html"><![CDATA[광주 민주화항쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문화유산의 면세점 나들이]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5030433/pxrIXJnXCS</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5030433/pxrIXJnXCS"/>
-        <updated>2023-05-17T15:20:12.845Z</updated>
-        <content type="html"><![CDATA[국립중앙박물관]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김건희 여사와 악수하는 트뤼도 총리]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5032909/b6idOJnXCa"/>
         <updated>2023-05-17T08:25:34.436Z</updated>
         <content type="html"><![CDATA[전교조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더위 가르는 수상스키의 물결 [포토]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1783949/4VK2tsI9p9</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1783949/4VK2tsI9p9"/>
-        <updated>2023-05-17T08:25:34.437Z</updated>
-        <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
     </entry>
 </feed>
