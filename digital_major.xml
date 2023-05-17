@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-05-17T03:20:42.389Z</updated>
+    <updated>2023-05-17T04:22:56.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유튜브·넷플릭스 질렸나…이용률 꺾인 미·영, 경쟁 구도가?]]></title>
+        <id>https://v.daum.net/v/20230517105700840</id>
+        <link href="https://v.daum.net/v/20230517105700840"/>
+        <updated>2023-05-17T04:22:25.768Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[과학을읽다]유전자가위로 죽음의 독버섯 해독제 찾았다]]></title>
         <id>https://v.daum.net/v/20230517105349679</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230517100504434"/>
         <updated>2023-05-17T02:37:40.036Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, 12월부터 안 쓰는 계정 삭제한다]]></title>
-        <id>https://v.daum.net/v/20230517095807047</id>
-        <link href="https://v.daum.net/v/20230517095807047"/>
-        <updated>2023-05-17T02:37:40.037Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
