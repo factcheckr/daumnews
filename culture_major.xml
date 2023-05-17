@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-05-17T18:25:35.450Z</updated>
+    <updated>2023-05-17T19:15:52.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[클래식 비하인드] 佛 오르간 연주자가 블랙핑크 즉흥 연주를?]]></title>
-        <id>https://v.daum.net/v/20230518030314884</id>
-        <link href="https://v.daum.net/v/20230518030314884"/>
-        <updated>2023-05-17T18:24:37.702Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[한국 웹툰 '나 혼자만 레벨업' 세르비아 출판기념회]]></title>
         <id>https://v.daum.net/v/20230518002229380</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230517181508715"/>
         <updated>2023-05-17T14:17:17.223Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인공지능 똑똑하게 쓰는 법 [ESC]]]></title>
+        <id>https://v.daum.net/v/20230517181012549</id>
+        <link href="https://v.daum.net/v/20230517181012549"/>
+        <updated>2023-05-17T19:14:58.136Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>

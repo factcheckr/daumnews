@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-05-17T18:25:35.456Z</updated>
+    <updated>2023-05-17T19:15:52.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[與 “독소조항 넣어 거부권 유도”  野 “거부권 남발 삼권분립 위태”]]></title>
+        <id>https://v.daum.net/v/20230518040819201</id>
+        <link href="https://v.daum.net/v/20230518040819201"/>
+        <updated>2023-05-17T19:13:51.362Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[젤렌스카 “파괴된 헤르손이 기술·문화 선도하는 서울처럼 되기를”]]></title>
         <id>https://v.daum.net/v/20230518030527020</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230518030439965"/>
         <updated>2023-05-17T18:23:30.600Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]檢, 김용 재판서 ‘위증 의혹’ 불거진 전 경기도시장상권진흥원장 이모 씨 압색]]></title>
-        <id>https://v.daum.net/v/20230518030214841</id>
-        <link href="https://v.daum.net/v/20230518030214841"/>
-        <updated>2023-05-17T18:23:30.606Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>

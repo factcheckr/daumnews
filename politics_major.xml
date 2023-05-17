@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-05-17T18:25:35.453Z</updated>
+    <updated>2023-05-17T19:15:52.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://v.daum.net/v/20230518030439964"/>
         <updated>2023-05-17T18:23:38.804Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]檢, 김용 재판서 ‘위증 의혹’ 불거진 전 경기도시장상권진흥원장 이모 씨 압색]]></title>
+        <id>https://v.daum.net/v/20230518030214841</id>
+        <link href="https://v.daum.net/v/20230518030214841"/>
+        <updated>2023-05-17T19:14:00.030Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“전쟁 종식 위해 국제 협력… 한국도 중추적 역할해야”]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230518002603408"/>
         <updated>2023-05-17T18:23:38.815Z</updated>
         <content type="html"><![CDATA[시사저널]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김종인, 한동훈 총선 출마 여부에 “장관이면 정치인…정치 아니면 변호사 두가지 선택 뿐”]]></title>
-        <id>https://v.daum.net/v/20230517232815797</id>
-        <link href="https://v.daum.net/v/20230517232815797"/>
-        <updated>2023-05-17T18:23:38.816Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
 </feed>
