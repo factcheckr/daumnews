@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-05-17T12:35:27.088Z</updated>
+    <updated>2023-05-17T13:25:21.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고혈압 140/90 이하로 관리하면 심뇌혈관 질환 60%까지 감소]]></title>
+        <id>https://v.daum.net/v/20230517214716551</id>
+        <link href="https://v.daum.net/v/20230517214716551"/>
+        <updated>2023-05-17T13:24:20.192Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여성들 빈혈 상태로 10년 살면 '이런 위험']]></title>
         <id>https://v.daum.net/v/20230517213016169</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230517203844166"/>
         <updated>2023-05-17T12:34:33.734Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구슬 같이 맑고 깨끗한 호수 속 출렁이는 ‘꽃세상’]]></title>
-        <id>https://v.daum.net/v/20230517203114055</id>
-        <link href="https://v.daum.net/v/20230517203114055"/>
-        <updated>2023-05-17T12:34:33.736Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
