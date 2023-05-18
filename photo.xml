@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-05-18T15:23:39.984Z</updated>
+    <updated>2023-05-18T16:26:31.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백사장이 미술관]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5035065/btZQLsI9C0</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5035065/btZQLsI9C0"/>
+        <updated>2023-05-18T16:26:00.475Z</updated>
+        <content type="html"><![CDATA[부산은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘오월 어머니’ 함께 입장하는 윤 대통령]]></title>
         <id>https://gallery.v.daum.net/p/viewer/2603/GDCnEyYxWB</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1391716/XZKd2RdYFy"/>
         <updated>2023-05-18T07:17:31.884Z</updated>
         <content type="html"><![CDATA[중국 시진핑 주석]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인파 몰린 음성품바축제 나눔 실천]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1137876/1vc8W3pa9j</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1137876/1vc8W3pa9j"/>
-        <updated>2023-05-18T07:17:31.885Z</updated>
-        <content type="html"><![CDATA[뉴시스 앵글]]></content>
     </entry>
 </feed>

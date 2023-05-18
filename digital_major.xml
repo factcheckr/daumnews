@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-05-18T15:23:39.980Z</updated>
+    <updated>2023-05-18T16:26:31.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카카오T, 더 만족스럽게 이용하는 방법]]></title>
+        <id>https://v.daum.net/v/20230518182915525</id>
+        <link href="https://v.daum.net/v/20230518182915525"/>
+        <updated>2023-05-18T16:25:51.696Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[높아진 기업의 보안 사고 우려…가장 큰 취약점은 '사람']]></title>
         <id>https://v.daum.net/v/20230518175103423</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230518163757917"/>
         <updated>2023-05-18T09:18:45.860Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[입학정원 확 늘린 간호학과…18년째 ‘제자리 걸음’ 의대와 비교되네]]></title>
-        <id>https://v.daum.net/v/20230518161341032</id>
-        <link href="https://v.daum.net/v/20230518161341032"/>
-        <updated>2023-05-18T09:18:45.865Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
