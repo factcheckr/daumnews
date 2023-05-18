@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-05-18T19:20:06.406Z</updated>
+    <updated>2023-05-18T20:20:02.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230519030107111"/>
         <updated>2023-05-18T19:19:25.980Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2년간 안쓴 휴면 구글 계정 올해 12월부터 삭제…없어진 계정 유튜브 동영상도 사라져]]></title>
+        <id>https://v.daum.net/v/20230518223416813</id>
+        <link href="https://v.daum.net/v/20230518223416813"/>
+        <updated>2023-05-18T20:19:27.886Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 오리온 공격한 '블랙캣' 랜섬웨어…1TB 데이터 탈취 '주장']]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230518173615947"/>
         <updated>2023-05-18T12:37:09.804Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갤S23 울트라 '원신 한정판 액세서리 에디션' 상반기 출시]]></title>
-        <id>https://v.daum.net/v/20230518172303467</id>
-        <link href="https://v.daum.net/v/20230518172303467"/>
-        <updated>2023-05-18T12:37:09.806Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
