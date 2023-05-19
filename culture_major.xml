@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-05-19T18:24:27.342Z</updated>
+    <updated>2023-05-19T19:16:18.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김환기 그림의 보름달은 왜 푸른색일까? 거장에 관한 7가지 사실]]></title>
+        <id>https://v.daum.net/v/20230520002158479</id>
+        <link href="https://v.daum.net/v/20230520002158479"/>
+        <updated>2023-05-19T19:15:24.327Z</updated>
+        <content type="html"><![CDATA[중앙SUNDAY]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[류이치 사카모토 홀린 ‘가이타인’ 옛 동독 기술력 응축]]></title>
         <id>https://v.daum.net/v/20230520002135474</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230519205352264"/>
         <updated>2023-05-19T16:24:26.187Z</updated>
         <content type="html"><![CDATA[EBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 내일 나들이 무난‥아침 안개, 오후엔 쾌청]]></title>
-        <id>https://v.daum.net/v/20230519204912205</id>
-        <link href="https://v.daum.net/v/20230519204912205"/>
-        <updated>2023-05-19T13:21:07.704Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
