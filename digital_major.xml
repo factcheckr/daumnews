@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-05-19T02:37:01.505Z</updated>
+    <updated>2023-05-19T03:21:01.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[생명과 기계 경계 사라지나...감각도 느끼고 반응도 하는 인공피부 개발]]></title>
+        <id>https://v.daum.net/v/20230519100617584</id>
+        <link href="https://v.daum.net/v/20230519100617584"/>
+        <updated>2023-05-19T03:20:30.055Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["영등포시장역 도살 현장 직접 가봤습니다"]]></title>
         <id>https://v.daum.net/v/20230519100117326</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230519083130163"/>
         <updated>2023-05-19T01:25:35.647Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화웨이 5.5G 상용화 박차..."1천억개 사물 연결, 脫배터리 목표"]]></title>
-        <id>https://v.daum.net/v/20230519090008892</id>
-        <link href="https://v.daum.net/v/20230519090008892"/>
-        <updated>2023-05-19T01:25:35.648Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
