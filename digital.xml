@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-20T09:18:42.364Z</updated>
+    <updated>2023-05-20T10:19:47.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[“‘이 사진’ 실화?, 이러다 진짜 망한다“ 넷플릭스발 영화관 ‘문닫을 판’]]></title>
-        <id>https://v.daum.net/v/20230520175215876</id>
-        <link href="https://v.daum.net/v/20230520175215876"/>
-        <updated>2023-05-20T09:17:49.474Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[반도체까지 번진 빅테크 AI 경쟁···한국은 걸음마 [AI토피아]]]></title>
         <id>https://v.daum.net/v/20230520171027280</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20230520161815431"/>
         <updated>2023-05-20T08:21:34.963Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“핫도그가 낫다”…삼성 폴더블폰  조롱하더니, 구글 뛰어들자 태도 돌변]]></title>
+        <id>https://v.daum.net/v/20230520153301959</id>
+        <link href="https://v.daum.net/v/20230520153301959"/>
+        <updated>2023-05-20T10:19:09.958Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
