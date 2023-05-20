@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-05-20T05:20:46.228Z</updated>
+    <updated>2023-05-20T06:22:29.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[태국 총선 돌풍 일으킨 40대 ‘친한파’ 총리후보, SNS에 한국어로 “감사합니다”]]></title>
+        <id>https://v.daum.net/v/20230520124543548</id>
+        <link href="https://v.daum.net/v/20230520124543548"/>
+        <updated>2023-05-20T06:21:28.902Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[G7 히로시마 향하는 젤렌스키 목적은 ‘비동맹’ 지지 확보]]></title>
         <id>https://v.daum.net/v/20230520115515219</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230520124001522"/>
         <updated>2023-05-20T04:21:18.437Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[애플 쇼크웨이브]⑭신데렐라 된 '농장 소년'…美 반도체 희망되다]]></title>
-        <id>https://v.daum.net/v/20230520101510193</id>
-        <link href="https://v.daum.net/v/20230520101510193"/>
-        <updated>2023-05-20T04:21:18.440Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
