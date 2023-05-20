@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-05-20T07:18:32.904Z</updated>
+    <updated>2023-05-20T08:22:18.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[꺾이지 않는 독감 유행… 한달 새 26% 이례적 증가]]></title>
+        <id>https://v.daum.net/v/20230520163913757</id>
+        <link href="https://v.daum.net/v/20230520163913757"/>
+        <updated>2023-05-20T08:21:19.697Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[각설이·장미·꼴뚜기까지…전국 곳곳 축제, 나들이객 북적]]></title>
         <id>https://v.daum.net/v/20230520151823821</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230520143945379"/>
         <updated>2023-05-20T06:21:37.463Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7, 8월 두 달간 맑은 날이 5일뿐이라고? 기상청 답변은….]]></title>
-        <id>https://v.daum.net/v/20230520143115291</id>
-        <link href="https://v.daum.net/v/20230520143115291"/>
-        <updated>2023-05-20T06:21:37.463Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
