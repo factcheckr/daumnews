@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-05-20T06:22:29.219Z</updated>
+    <updated>2023-05-20T07:18:32.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[각설이·장미·꼴뚜기까지…전국 곳곳 축제, 나들이객 북적]]></title>
+        <id>https://v.daum.net/v/20230520151823821</id>
+        <link href="https://v.daum.net/v/20230520151823821"/>
+        <updated>2023-05-20T07:17:31.905Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[류마티스관절염 환자, 파킨슨병 위험 74% 더 높다?]]></title>
         <id>https://v.daum.net/v/20230520140115041</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230520143115291"/>
         <updated>2023-05-20T06:21:37.463Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뼈·관절 망치는 가장 나쁜 생활습관은?]]></title>
-        <id>https://v.daum.net/v/20230520142108218</id>
-        <link href="https://v.daum.net/v/20230520142108218"/>
-        <updated>2023-05-20T06:21:37.464Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
