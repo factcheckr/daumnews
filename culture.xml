@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-05-21T06:28:12.831Z</updated>
+    <updated>2023-05-21T07:17:04.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가정용 뷰티 기기 가격 천정부지...200만원 호가]]></title>
+        <id>https://v.daum.net/v/20230521160600541</id>
+        <link href="https://v.daum.net/v/20230521160600541"/>
+        <updated>2023-05-21T07:15:53.066Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기상 후 '졸음' 빨리 물리치는 4가지 방법]]></title>
+        <id>https://v.daum.net/v/20230521160017413</id>
+        <link href="https://v.daum.net/v/20230521160017413"/>
+        <updated>2023-05-21T07:15:53.067Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[씨네멘터리] 홍금보의 쿵푸와 백혜선의 피아노...영화 "칠중주:홍콩 이야기"]]></title>
         <id>https://v.daum.net/v/20230521100900235</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230521143715744"/>
         <updated>2023-05-21T06:27:09.774Z</updated>
         <content type="html"><![CDATA[경기일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오래 머물고 싶은 원주 여강길 2코스]]></title>
-        <id>https://v.daum.net/v/20230521143302662</id>
-        <link href="https://v.daum.net/v/20230521143302662"/>
-        <updated>2023-05-21T06:27:09.777Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“배점표도 없이 심사···출판진흥원 세종도서 사업 심각한 부실”]]></title>
-        <id>https://v.daum.net/v/20230521142115359</id>
-        <link href="https://v.daum.net/v/20230521142115359"/>
-        <updated>2023-05-21T06:27:09.779Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
