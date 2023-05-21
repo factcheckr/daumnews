@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-05-21T17:17:09.202Z</updated>
+    <updated>2023-05-21T18:22:33.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화음 냄비]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/QH8J9X5JDB</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/QH8J9X5JDB"/>
+        <updated>2023-05-21T18:22:01.742Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주말 물놀이, 오늘은 황사예보]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5035065/1c2L2Z1iye</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5021010/HOyAljcp33"/>
         <updated>2023-05-20T23:18:13.460Z</updated>
         <content type="html"><![CDATA[포토 in 월드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포항 주택 2층서 화재…2명 창밖으로 뛰어내려 대피]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1518/HNG0f3pamK</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1518/HNG0f3pamK"/>
-        <updated>2023-05-20T23:18:13.461Z</updated>
-        <content type="html"><![CDATA[전국 화재사고]]></content>
     </entry>
 </feed>
