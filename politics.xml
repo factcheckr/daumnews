@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-05-21T16:26:08.205Z</updated>
+    <updated>2023-05-21T17:17:09.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김연주 “尹의 ‘아메리칸 파이’…한미 대통령 밀착에 꽤 큰 영향 미쳐”]]></title>
+        <id>https://v.daum.net/v/20230522014609069</id>
+        <link href="https://v.daum.net/v/20230522014609069"/>
+        <updated>2023-05-21T17:15:14.711Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[G7서 ‘한·미·일 케미’ 과시…바이든 “워싱턴서 다시 보자”]]></title>
         <id>https://v.daum.net/v/20230522001658779</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230522000157630"/>
         <updated>2023-05-21T16:24:05.233Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤 대통령 "독일과 군사비밀정보보호협정 체결 추진"]]></title>
-        <id>https://v.daum.net/v/20230521220944872</id>
-        <link href="https://v.daum.net/v/20230521220944872"/>
-        <updated>2023-05-21T16:24:05.235Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
