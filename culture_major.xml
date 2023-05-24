@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-05-24T15:20:36.727Z</updated>
+    <updated>2023-05-24T17:17:37.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -13,18 +13,25 @@
         <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[음침한 지하벙커 속, 질투에 사로잡힌 인간 '오셀로']]></title>
+        <id>https://v.daum.net/v/20230524141047784</id>
+        <link href="https://v.daum.net/v/20230524141047784"/>
+        <updated>2023-05-24T17:16:39.120Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5분 안에 꽃·나무 볼 수 있도록…서울 곳곳 2000㎞ 초록길로 잇는다]]></title>
+        <id>https://v.daum.net/v/20230524152807846</id>
+        <link href="https://v.daum.net/v/20230524152807846"/>
+        <updated>2023-05-24T17:16:39.122Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[부커상 불발됐지만···K문학 반향 일으킨 '고래']]></title>
         <id>https://v.daum.net/v/20230524212608708</id>
         <link href="https://v.daum.net/v/20230524212608708"/>
         <updated>2023-05-24T15:19:34.794Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시계부터 치워! 불면증 당신에게 권하는 충고]]></title>
-        <id>https://v.daum.net/v/20230524205123017</id>
-        <link href="https://v.daum.net/v/20230524205123017"/>
-        <updated>2023-05-24T12:35:20.577Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 낮 동안 강한 햇볕‥그늘은 선선]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230524200006886"/>
         <updated>2023-05-24T12:35:20.582Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스 더하기] 대전시 “네가 ‘노담’이면 좋겠어”]]></title>
-        <id>https://v.daum.net/v/20230524195335732</id>
-        <link href="https://v.daum.net/v/20230524195335732"/>
-        <updated>2023-05-24T12:35:20.583Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
