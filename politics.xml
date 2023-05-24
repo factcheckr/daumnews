@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-05-24T18:23:19.171Z</updated>
+    <updated>2023-05-24T19:15:31.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박형덕 동두천시장 “70년 희생했는데 재정지원은커녕 미군기지 반환 기약도 없어"]]></title>
+        <id>https://v.daum.net/v/20230525040010634</id>
+        <link href="https://v.daum.net/v/20230525040010634"/>
+        <updated>2023-05-24T19:13:25.764Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선관위 ‘간부 자녀 채용’ 6건 중 4건 신고절차 안지켜]]></title>
         <id>https://v.daum.net/v/20230525030314399</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230525030122276"/>
         <updated>2023-05-24T18:21:21.489Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정은에 충성 맹세 한 진보당 前대표]]></title>
-        <id>https://v.daum.net/v/20230525030059263</id>
-        <link href="https://v.daum.net/v/20230525030059263"/>
-        <updated>2023-05-24T18:21:21.491Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
