@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-05-25T14:18:30.943Z</updated>
+    <updated>2023-05-25T15:20:39.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[후쿠시마 시찰단, 공식 일정 종료…26일 오후 귀국]]></title>
+        <id>https://v.daum.net/v/20230525220607922</id>
+        <link href="https://v.daum.net/v/20230525220607922"/>
+        <updated>2023-05-25T15:19:58.192Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20초 간격 분리 위성들 ‘여명·황혼 궤도’ 돌며 우주 관측]]></title>
+        <id>https://v.daum.net/v/20230525212459079</id>
+        <link href="https://v.daum.net/v/20230525212459079"/>
+        <updated>2023-05-25T15:19:58.194Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2027년까지 ‘세 번 더’…“성공 쌓아 성능 증명”]]></title>
         <id>https://v.daum.net/v/20230525212458078</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230525211245832"/>
         <updated>2023-05-25T12:37:40.222Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주 궤도 안착 성공…현재 상황은?]]></title>
-        <id>https://v.daum.net/v/20230525210922781</id>
-        <link href="https://v.daum.net/v/20230525210922781"/>
-        <updated>2023-05-25T12:37:40.224Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[누리호 발사성공]항우연 "데이터상 성공 확실…차소위성 정상교신"(종합)]]></title>
-        <id>https://v.daum.net/v/20230525210801743</id>
-        <link href="https://v.daum.net/v/20230525210801743"/>
-        <updated>2023-05-25T12:37:40.225Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
