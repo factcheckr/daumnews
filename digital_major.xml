@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-05-25T18:23:13.882Z</updated>
+    <updated>2023-05-25T19:15:49.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://v.daum.net/v/20230526030357790"/>
         <updated>2023-05-25T18:22:40.087Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 위성 우리 손으로 쏴올려 … 뉴스페이스 열었다]]></title>
-        <id>https://v.daum.net/v/20230525225100450</id>
-        <link href="https://v.daum.net/v/20230525225100450"/>
-        <updated>2023-05-25T18:22:40.089Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[일문일답]"누리호, 이코노미→퍼스트클래스 탄 느낌"]]></title>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230525211911963"/>
         <updated>2023-05-25T13:22:38.872Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[누리호 첫 실전발사] “날씨·시간 안 가린다” 위성 영상 레이더 독자 기술 확보했다]]></title>
+        <id>https://v.daum.net/v/20230525211859960</id>
+        <link href="https://v.daum.net/v/20230525211859960"/>
+        <updated>2023-05-25T19:15:15.462Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
