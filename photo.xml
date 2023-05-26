@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-05-26T02:36:37.567Z</updated>
+    <updated>2023-05-26T03:19:50.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누리호에 실려 궤도 오른 차세대소형위성 2호와 7차례 교신]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5204870/7p3svDat0B</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5204870/7p3svDat0B"/>
+        <updated>2023-05-26T03:19:24.828Z</updated>
+        <content type="html"><![CDATA[누리호 발사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디어,클레어스 ‘오늘을차지해’ [서울포토]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/674200/10Uj7Xv8vM</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/377110/VM0lEbpahm"/>
         <updated>2023-05-25T14:18:01.530Z</updated>
         <content type="html"><![CDATA[포토뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누리호 제작 참여 기업 및 역할]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5204870/UtEaKIEu0r</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5204870/UtEaKIEu0r"/>
-        <updated>2023-05-25T13:22:46.463Z</updated>
-        <content type="html"><![CDATA[누리호 발사]]></content>
     </entry>
 </feed>
