@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-26T11:17:09.482Z</updated>
+    <updated>2023-05-26T12:34:22.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“정상 궤도 이상무”]]></title>
+        <id>https://v.daum.net/v/20230526204900589</id>
+        <link href="https://v.daum.net/v/20230526204900589"/>
+        <updated>2023-05-26T12:33:38.475Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['걷고 싶다' 생각하자 마비환자 움직였다…'놀라운 결과']]></title>
         <id>https://v.daum.net/v/20230526200301903</id>
@@ -32,13 +39,6 @@
         <link href="https://v.daum.net/v/20230526181007960"/>
         <updated>2023-05-26T09:18:32.778Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누리호 발사 성공으로 우주강국 거듭나…美·中도 못한 기록까지]]></title>
-        <id>https://v.daum.net/v/20230526180505857</id>
-        <link href="https://v.daum.net/v/20230526180505857"/>
-        <updated>2023-05-26T09:18:32.780Z</updated>
-        <content type="html"><![CDATA[농민신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘네Ol버고객쎈터’ 이상한 이메일… 알고보니 北 해킹]]></title>
