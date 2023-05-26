@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-05-26T13:22:07.470Z</updated>
+    <updated>2023-05-26T14:22:47.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수산물 저온 저장시설…가공식품 기반 마련]]></title>
+        <id>https://v.daum.net/v/20230526215146393</id>
+        <link href="https://v.daum.net/v/20230526215146393"/>
+        <updated>2023-05-26T14:21:11.442Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다시 잡은 ‘맞손’…원포인트 추경 임시회 결정]]></title>
         <id>https://v.daum.net/v/20230526215007378</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230526183458389"/>
         <updated>2023-05-26T12:32:54.877Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠팡 덮친 민노총 택배노조 집회...어린이집 소음 피해 ‘하소연’]]></title>
-        <id>https://v.daum.net/v/20230526183658418</id>
-        <link href="https://v.daum.net/v/20230526183658418"/>
-        <updated>2023-05-26T13:20:33.929Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
