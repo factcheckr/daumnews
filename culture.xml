@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-05-27T08:24:44.524Z</updated>
+    <updated>2023-05-27T09:17:14.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[성인 6명중 1명은 당뇨병…혈당측정기 올바른 사용법은?]]></title>
+        <id>https://v.daum.net/v/20230527173159942</id>
+        <link href="https://v.daum.net/v/20230527173159942"/>
+        <updated>2023-05-27T09:16:17.555Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쉬운 우리말 쓰기] 몰카, 요린이 쓰지 마세요..."올바른 보도언어 사용 필요"]]></title>
         <id>https://v.daum.net/v/20230527170121592</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230527160018870"/>
         <updated>2023-05-27T07:15:38.702Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정책 인사이드] 10년간 약 60% 증가..늘어가는 소아청소년 비만율 대책은?]]></title>
-        <id>https://v.daum.net/v/20230527130258109</id>
-        <link href="https://v.daum.net/v/20230527130258109"/>
-        <updated>2023-05-27T07:15:38.703Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
