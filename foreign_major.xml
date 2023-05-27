@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-05-27T10:18:42.501Z</updated>
+    <updated>2023-05-27T11:15:52.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“내일, 모레 또는 일주일 안에”…우크라, 대반격 초읽기]]></title>
+        <id>https://v.daum.net/v/20230527183600533</id>
+        <link href="https://v.daum.net/v/20230527183600533"/>
+        <updated>2023-05-27T11:14:40.770Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中 '전쟁 특사', 마지막 일정 러 만났다…러 "외교 해결 용의"]]></title>
         <id>https://v.daum.net/v/20230527182923494</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230527155002764"/>
         <updated>2023-05-27T10:17:29.034Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["바이든 축하 연설 중에…" 백악관에서 기절한 농구 선수 [D리포트]]]></title>
-        <id>https://v.daum.net/v/20230527151203404</id>
-        <link href="https://v.daum.net/v/20230527151203404"/>
-        <updated>2023-05-27T08:23:40.190Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
