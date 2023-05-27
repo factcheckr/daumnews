@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-27T04:21:46.786Z</updated>
+    <updated>2023-05-27T05:17:41.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[애플 쇼크웨이브]⑮돌아온 농장 소년‥'실리콘 하트랜드'를 꿈꾸다]]></title>
+        <id>https://v.daum.net/v/20230527105107883</id>
+        <link href="https://v.daum.net/v/20230527105107883"/>
+        <updated>2023-05-27T05:16:59.861Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“시급 또 올라? 그럼 사람 안 뽑지” 2천만원짜리 기계에 알바 자리 뺏겼다]]></title>
         <id>https://v.daum.net/v/20230527125128016</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230527110010984"/>
         <updated>2023-05-27T02:35:50.200Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 민간 달 착륙선 추락 원인은 고도 추정 오류]]></title>
-        <id>https://v.daum.net/v/20230527104158790</id>
-        <link href="https://v.daum.net/v/20230527104158790"/>
-        <updated>2023-05-27T02:35:50.202Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
