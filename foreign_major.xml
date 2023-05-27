@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-05-27T15:24:34.378Z</updated>
+    <updated>2023-05-27T16:23:20.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나사 기지도 날렸다…마와르 휩쓸고 간 괌 위성사진 공개]]></title>
+        <id>https://v.daum.net/v/20230527232459510</id>
+        <link href="https://v.daum.net/v/20230527232459510"/>
+        <updated>2023-05-27T16:22:09.875Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[살짝 늦춰진 美 정부 디폴트 시한, 부채한도 합의 “점점 근접”]]></title>
+        <id>https://v.daum.net/v/20230527231558482</id>
+        <link href="https://v.daum.net/v/20230527231558482"/>
+        <updated>2023-05-27T16:22:09.877Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주북 러시아 대사 “북한, 윤석열 방미에 격분 중인데 접촉이 되겠나”]]></title>
         <id>https://v.daum.net/v/20230527222311178</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230527202409329"/>
         <updated>2023-05-27T13:19:27.073Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칸에 간 중국 영화 2편…정작 본토에선 '외면']]></title>
-        <id>https://v.daum.net/v/20230527203006374</id>
-        <link href="https://v.daum.net/v/20230527203006374"/>
-        <updated>2023-05-27T13:19:27.075Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쑥대밭 된 마을‥'나사 기지'도 파손]]></title>
-        <id>https://v.daum.net/v/20230527202514340</id>
-        <link href="https://v.daum.net/v/20230527202514340"/>
-        <updated>2023-05-27T13:19:27.076Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
