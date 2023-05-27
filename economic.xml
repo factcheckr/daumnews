@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-05-27T06:23:05.327Z</updated>
+    <updated>2023-05-27T07:16:42.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["2천원대 맥주에 5천원대 안주”…잘 나갔던 ‘스몰비어’, 왜 사라졌을까?]]></title>
+        <id>https://v.daum.net/v/20230527160110893</id>
+        <link href="https://v.daum.net/v/20230527160110893"/>
+        <updated>2023-05-27T07:15:02.586Z</updated>
+        <content type="html"><![CDATA[경기일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓총리 "수면 상승 등 기후변화 심각…韓, 국제사회 대응에 기여"]]></title>
         <id>https://v.daum.net/v/20230527151200403</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230527140704702"/>
         <updated>2023-05-27T06:21:35.579Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['누리호 손님' 위성 6기 정상작동…차세대2호 레이더 전개]]></title>
-        <id>https://v.daum.net/v/20230527141805802</id>
-        <link href="https://v.daum.net/v/20230527141805802"/>
-        <updated>2023-05-27T06:21:35.580Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
 </feed>
