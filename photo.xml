@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-05-28T21:17:07.505Z</updated>
+    <updated>2023-05-28T22:18:02.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["애국탄 증산 위해 연대적 혁신"… 북한 평남 탄전]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1489/7kTdTtYxUk</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1489/7kTdTtYxUk"/>
+        <updated>2023-05-28T22:17:31.356Z</updated>
+        <content type="html"><![CDATA[북한은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비 내려도 즐거운 황금연휴]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5032452/q9EfbQ2mYD</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5620491/ta4X8B0gVf"/>
         <updated>2023-05-28T02:45:59.620Z</updated>
         <content type="html"><![CDATA[베테랑]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전봇대 들이받은 SUV 차에서 불]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1473/2aVFEoRyFe</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1473/2aVFEoRyFe"/>
-        <updated>2023-05-27T23:21:34.118Z</updated>
-        <content type="html"><![CDATA[교통사고]]></content>
     </entry>
 </feed>
