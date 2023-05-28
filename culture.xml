@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-05-28T18:21:39.516Z</updated>
+    <updated>2023-05-28T19:16:22.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강원도 산골 한 초등학교에서 펼쳐진 클래식의 향연]]></title>
+        <id>https://v.daum.net/v/20230529040622256</id>
+        <link href="https://v.daum.net/v/20230529040622256"/>
+        <updated>2023-05-28T19:15:18.620Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 만화영화 가능성 열어… 관련 캐릭터 상품만 2000여종]]></title>
         <id>https://v.daum.net/v/20230529030318952</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230529000509214"/>
         <updated>2023-05-28T15:17:29.845Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘미녀죄수’ 6명의 끈적한 살인 후일담, 관객 홀렸다]]></title>
-        <id>https://v.daum.net/v/20230529000418201</id>
-        <link href="https://v.daum.net/v/20230529000418201"/>
-        <updated>2023-05-28T15:17:29.847Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>

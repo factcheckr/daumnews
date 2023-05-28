@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-05-28T18:21:39.515Z</updated>
+    <updated>2023-05-28T19:16:22.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘中엔 영웅, 대만엔 배신자’ 장쉐량 띄우기]]></title>
+        <id>https://v.daum.net/v/20230529030230899</id>
+        <link href="https://v.daum.net/v/20230529030230899"/>
+        <updated>2023-05-28T19:15:10.319Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美日 “반도체 생산 지역편중 해결 위해 협력”]]></title>
         <id>https://v.daum.net/v/20230529030242914</id>
         <link href="https://v.daum.net/v/20230529030242914"/>
         <updated>2023-05-28T18:20:24.765Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[튀르키예 국영방송 “에르도안 대통령 당선, 연임 성공”]]></title>
+        <id>https://v.daum.net/v/20230529023158768</id>
+        <link href="https://v.daum.net/v/20230529023158768"/>
+        <updated>2023-05-28T19:15:10.327Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MS 부회장 "美 대선 이전 정부차원 AI 규제 가능성"]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230529000306171"/>
         <updated>2023-05-28T18:20:24.772Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[튀르키예 결선투표 종료…예비결과 새벽에 나올 예정]]></title>
-        <id>https://v.daum.net/v/20230529000200151</id>
-        <link href="https://v.daum.net/v/20230529000200151"/>
-        <updated>2023-05-28T18:20:24.772Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매카시 "합의안 95% 지지 받아"…정작 공화당 강경파는 보이콧 예고]]></title>
-        <id>https://v.daum.net/v/20230528233408024</id>
-        <link href="https://v.daum.net/v/20230528233408024"/>
-        <updated>2023-05-28T16:21:42.062Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
