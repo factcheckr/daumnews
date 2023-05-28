@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-28T08:21:33.541Z</updated>
+    <updated>2023-05-28T09:19:27.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김남국 빠진 국회 출입기록, 포퓰리즘 안돼[김현아의 IT세상읽기]]]></title>
+        <id>https://v.daum.net/v/20230528172808658</id>
+        <link href="https://v.daum.net/v/20230528172808658"/>
+        <updated>2023-05-28T09:18:42.361Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스마트홈 표준 하나로 모든 가전 기기 연결]]></title>
+        <id>https://v.daum.net/v/20230528172101526</id>
+        <link href="https://v.daum.net/v/20230528172101526"/>
+        <updated>2023-05-28T09:18:42.363Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본 첫 민간 달 착륙선, 착륙 실패 이유 찾았다…‘고도 측정 센서 오작동’]]></title>
         <id>https://v.daum.net/v/20230528170435295</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230528155412366"/>
         <updated>2023-05-28T07:16:06.402Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중력파 최초로 관측한 라이고, 3년 만에 재가동…“더 깊은 우주 들여다 본다”]]></title>
-        <id>https://v.daum.net/v/20230528153957168</id>
-        <link href="https://v.daum.net/v/20230528153957168"/>
-        <updated>2023-05-28T07:16:06.407Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘무료’ 이미지·영상 AI 생성기 써봤더니…'구글'의 힘]]></title>
-        <id>https://v.daum.net/v/20230528150508716</id>
-        <link href="https://v.daum.net/v/20230528150508716"/>
-        <updated>2023-05-28T07:16:06.408Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
