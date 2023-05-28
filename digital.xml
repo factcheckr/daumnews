@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-28T11:15:12.377Z</updated>
+    <updated>2023-05-28T12:32:14.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[재미도 의미도 없는 공공 메타버스 만드는 지자체들]]></title>
+        <id>https://v.daum.net/v/20230528200506540</id>
+        <link href="https://v.daum.net/v/20230528200506540"/>
+        <updated>2023-05-28T12:31:31.536Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“정말? 이래도? 더 챙겨줄게” 멤버십 해지하려다 속 터지겠네]]></title>
         <id>https://v.daum.net/v/20230528185207733</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230528155908403"/>
         <updated>2023-05-28T07:16:06.400Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누리호는 해냈지만...우주발사체 `실패의 역사`]]></title>
-        <id>https://v.daum.net/v/20230528155412366</id>
-        <link href="https://v.daum.net/v/20230528155412366"/>
-        <updated>2023-05-28T07:16:06.402Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
