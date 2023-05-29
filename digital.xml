@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-29T11:16:36.536Z</updated>
+    <updated>2023-05-29T12:35:13.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI로 폭발한 GPU 수요 "美 코로나 때 화장지만큼 구하기 힘들어"]]></title>
+        <id>https://v.daum.net/v/20230529212009161</id>
+        <link href="https://v.daum.net/v/20230529212009161"/>
+        <updated>2023-05-29T12:34:31.331Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS코리아, 이달 권고사직 진행…"美본사 감원정책 여파"]]></title>
         <id>https://v.daum.net/v/20230529194207312</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230529180457173"/>
         <updated>2023-05-29T09:21:38.100Z</updated>
         <content type="html"><![CDATA[이코노미조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5~6월 아까시나무, 7~8월 쉬나무…밀원숲엔 매달 꽃이 핀다]]></title>
-        <id>https://v.daum.net/v/20230529083158359</id>
-        <link href="https://v.daum.net/v/20230529083158359"/>
-        <updated>2023-05-29T09:21:38.106Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
