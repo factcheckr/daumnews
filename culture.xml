@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-05-29T10:24:24.926Z</updated>
+    <updated>2023-05-29T11:16:36.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AR동물원·물놀이 시설까지…청주시, 볼거리·즐길거리 확충]]></title>
+        <id>https://v.daum.net/v/20230529192059133</id>
+        <link href="https://v.daum.net/v/20230529192059133"/>
+        <updated>2023-05-29T11:15:35.538Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3일 간 외박한 남편, 돌아와 장모에게 던진 말 [내 남편 목수 만들기]]]></title>
         <id>https://v.daum.net/v/20230529182400553</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230529174221750"/>
         <updated>2023-05-29T09:21:18.839Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골다공증 골절 겪으면 재골절 발생 확률 2~10배 증가]]></title>
-        <id>https://v.daum.net/v/20230529090259811</id>
-        <link href="https://v.daum.net/v/20230529090259811"/>
-        <updated>2023-05-29T08:22:50.475Z</updated>
-        <content type="html"><![CDATA[하이닥]]></content>
     </entry>
 </feed>
