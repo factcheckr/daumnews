@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-05-30T12:37:37.645Z</updated>
+    <updated>2023-05-30T13:22:47.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기아, 유럽 타깃 ‘EV9’ 최초 공개[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/51YHKJPlvB</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/51YHKJPlvB"/>
+        <updated>2023-05-30T13:22:22.911Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베이징서 만난 머스크와 친강 中 외교부장]]></title>
         <id>https://gallery.v.daum.net/p/viewer/382/q8hGjSmBUR</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/344179/KcgUVDatEJ"/>
         <updated>2023-05-30T02:40:51.488Z</updated>
         <content type="html"><![CDATA[청계천 옆 사진관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남국 의원 징계안 상정한 국회 윤리특별위원회]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1173214/0udwaXv83t</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1173214/0udwaXv83t"/>
-        <updated>2023-05-30T02:40:51.492Z</updated>
-        <content type="html"><![CDATA[헤럴드포토]]></content>
     </entry>
 </feed>
