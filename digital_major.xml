@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-05-30T17:17:07.083Z</updated>
+    <updated>2023-05-30T18:25:09.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GPT-4로 빅데이터 분석… 전문가 200명 고용하는 셈]]></title>
+        <id>https://v.daum.net/v/20230531030317169</id>
+        <link href="https://v.daum.net/v/20230531030317169"/>
+        <updated>2023-05-30T18:24:33.457Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파손·침수된 스마트폰 데이터 복원하려면 이렇게![이럴땐 이렇게!]]]></title>
         <id>https://v.daum.net/v/20230530192100454</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230530171811995"/>
         <updated>2023-05-30T10:19:37.827Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['챗GPT' 알트만, AI 규제에 '광폭 행보'…EU 이어 내달 방한]]></title>
-        <id>https://v.daum.net/v/20230530171817004</id>
-        <link href="https://v.daum.net/v/20230530171817004"/>
-        <updated>2023-05-30T10:19:37.835Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
