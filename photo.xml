@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-05-31T12:40:00.167Z</updated>
+    <updated>2023-05-31T13:27:21.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“수족관에 갇힌 돌고래를 바다로”[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/x2Vm8pZdlA</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/x2Vm8pZdlA"/>
+        <updated>2023-05-31T13:26:53.701Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[맨해튼 고층 건물 사이로 지는 해]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1476/fojcA4BEnY</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5610796/VNqUu27Au8"/>
         <updated>2023-05-31T06:26:32.732Z</updated>
         <content type="html"><![CDATA[모멘트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["모두의 안전 지키는 법, 생명안전기본법 제정하라"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/64392/FltLiAnXwz</id>
-        <link href="https://gallery.v.daum.net/p/viewer/64392/FltLiAnXwz"/>
-        <updated>2023-05-31T06:26:32.733Z</updated>
-        <content type="html"><![CDATA[가습기 살균제 사망사고]]></content>
     </entry>
 </feed>
