@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-31T02:56:58.058Z</updated>
+    <updated>2023-05-31T03:33:28.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[항우연, '아리랑 6호' 이르면 내년 말 발사…유럽社와 맞손]]></title>
+        <id>https://v.daum.net/v/20230531120329926</id>
+        <link href="https://v.daum.net/v/20230531120329926"/>
+        <updated>2023-05-31T03:32:39.595Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이래서 손목 위 의사"…갤럭시 워치5가 심장 살렸다]]></title>
         <id>https://v.daum.net/v/20230531112014793</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230531110508960"/>
         <updated>2023-05-31T02:56:19.299Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["네이버 먹통이라 더 무서웠어요"...경계경보 오발령 속 녹색창이 5분 멈췄더니]]></title>
-        <id>https://v.daum.net/v/20230531105157246</id>
-        <link href="https://v.daum.net/v/20230531105157246"/>
-        <updated>2023-05-31T02:56:19.300Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
