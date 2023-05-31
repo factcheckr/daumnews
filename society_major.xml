@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2023-05-31T15:26:54.536Z</updated>
+    <updated>2023-05-31T16:26:06.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230601000626051"/>
         <updated>2023-05-31T15:24:35.243Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대피 경보 진짜라면… 외우세요, 식량·식수·침구·지하]]></title>
+        <id>https://v.daum.net/v/20230601000407948</id>
+        <link href="https://v.daum.net/v/20230601000407948"/>
+        <updated>2023-05-31T16:23:46.836Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[문체부 고위 공무원 강원 출신 포진]]></title>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20230531231832570</id>
         <link href="https://v.daum.net/v/20230531231832570"/>
         <updated>2023-05-31T15:24:35.276Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日서 커지는 '암흑 알바'의 위협···3500만엔 귀금속 턴 30대男에 징역 4년]]></title>
-        <id>https://v.daum.net/v/20230531231719560</id>
-        <link href="https://v.daum.net/v/20230531231719560"/>
-        <updated>2023-05-31T15:24:35.277Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
