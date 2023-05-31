@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-05-31T10:21:40.624Z</updated>
+    <updated>2023-05-31T11:21:30.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[증오에 굴복하지 마세요]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/182540/FYJ8yNJGx3</id>
+        <link href="https://gallery.v.daum.net/p/viewer/182540/FYJ8yNJGx3"/>
+        <updated>2023-05-31T11:21:00.249Z</updated>
+        <content type="html"><![CDATA[옵스큐라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['캡사이신 강경 대응' 예고한 경찰...민주노총, 충돌 없이 해산 [TF사진관]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5024184/2wcYVXv80p</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5035065/FUNhW5yPfE"/>
         <updated>2023-05-31T04:21:55.860Z</updated>
         <content type="html"><![CDATA[부산은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“갇힌 돌고래를 바다로”[정동길 옆 사진관]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/661278/0kd0z27AS6</id>
-        <link href="https://gallery.v.daum.net/p/viewer/661278/0kd0z27AS6"/>
-        <updated>2023-05-31T03:33:00.393Z</updated>
-        <content type="html"><![CDATA[정동길 옆 사진관]]></content>
     </entry>
 </feed>
