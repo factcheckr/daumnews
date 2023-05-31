@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-05-31T13:27:21.346Z</updated>
+    <updated>2023-05-31T14:20:36.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메타버스 죽고, AI 빛나고, ESG는 여전…컴퓨텍스에서 확인한 트렌드]]></title>
+        <id>https://v.daum.net/v/20230531230601471</id>
+        <link href="https://v.daum.net/v/20230531230601471"/>
+        <updated>2023-05-31T14:19:51.078Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시찰단장 “자료 방대해 시일 걸려…계획한 건 100% 다 봤다”]]></title>
         <id>https://v.daum.net/v/20230531222058050</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['추억 소환템' 모토로라 레이저…폴더블폰으로 돌아온다 [영상]]]></title>
+        <title type="html"><![CDATA[추억의 '모토로라 레이저', 폴더블폰으로 돌아온다 [영상]]]></title>
         <id>https://v.daum.net/v/20230531220257803</id>
         <link href="https://v.daum.net/v/20230531220257803"/>
         <updated>2023-05-31T13:26:39.128Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230531215200612"/>
         <updated>2023-05-31T13:26:39.131Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스'까'페]삼성 '폴더블폰' 닮은꼴 줄줄이 나온다…불안한 왕좌]]></title>
-        <id>https://v.daum.net/v/20230531195405321</id>
-        <link href="https://v.daum.net/v/20230531195405321"/>
-        <updated>2023-05-31T12:39:18.513Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
