@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-06-01T22:18:44.076Z</updated>
+    <updated>2023-06-01T23:20:08.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정부가 2대 주주 된 넥슨… 여전히 경영권 위태한 이유는]]></title>
+        <id>https://v.daum.net/v/20230602060233566</id>
+        <link href="https://v.daum.net/v/20230602060233566"/>
+        <updated>2023-06-01T23:19:33.420Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["문 연 병원없다"…'야간·휴일' 소아 비대면진료 유명무실되나]]></title>
+        <id>https://v.daum.net/v/20230602052116130</id>
+        <link href="https://v.daum.net/v/20230602052116130"/>
+        <updated>2023-06-01T23:19:33.428Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“자꾸 이러면 페북서 뉴스 뺀다"... 테크 본진은 ‘뉴스 유료화’ 전쟁중]]></title>
         <id>https://v.daum.net/v/20230602043314713</id>
@@ -48,18 +62,11 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불나면 잘 안 꺼지는 전기차…전용 화재 진압 장비로 대처한다]]></title>
-        <id>https://v.daum.net/v/20230601200408888</id>
-        <link href="https://v.daum.net/v/20230601200408888"/>
-        <updated>2023-06-01T18:24:11.713Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대담] 제주 우주산업 현주소와 전망은?]]></title>
-        <id>https://v.daum.net/v/20230601193100236</id>
-        <link href="https://v.daum.net/v/20230601193100236"/>
-        <updated>2023-06-01T15:22:29.427Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
+        <title type="html"><![CDATA['비만치료제' 품귀에 소비자가 원료 직구까지…FDA는 안전성 경고]]></title>
+        <id>https://v.daum.net/v/20230602080301014</id>
+        <link href="https://v.daum.net/v/20230602080301014"/>
+        <updated>2023-06-01T23:19:33.435Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미·일·유럽, 北 정찰위성 발사에 유엔 안보리 회의 소집 요청(종합)]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230602070045195"/>
         <updated>2023-06-01T22:18:01.769Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한미, 北 해킹조직 '김수키' 보안권고문 발표...정부, '김수키' 제재]]></title>
-        <id>https://v.daum.net/v/20230602060901703</id>
-        <link href="https://v.daum.net/v/20230602060901703"/>
-        <updated>2023-06-01T22:18:01.771Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
