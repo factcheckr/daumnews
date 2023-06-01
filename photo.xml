@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-06-01T09:21:45.938Z</updated>
+    <updated>2023-06-01T10:24:03.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다름과 틀림]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1803057/t7UBZe8C8W</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1803057/t7UBZe8C8W"/>
+        <updated>2023-06-01T10:23:33.313Z</updated>
+        <content type="html"><![CDATA[탁기형의 비어 있는 풍경]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북, 실패한 위성 발사 장면 공개…김여정, 재발사 예고]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5611563/ZzfJMvsbFs</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5611563/ZzfJMvsbFs"/>
+        <updated>2023-06-01T10:23:33.322Z</updated>
+        <content type="html"><![CDATA[사진구성]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울에 온 명화]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5030433/bGYwdq3o7s</id>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1518/7lHuUscppL"/>
         <updated>2023-06-01T06:29:26.611Z</updated>
         <content type="html"><![CDATA[전국 화재사고]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[훈련도 실전처럼]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5035065/7ZMkXjiHu3</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5035065/7ZMkXjiHu3"/>
-        <updated>2023-06-01T06:29:26.611Z</updated>
-        <content type="html"><![CDATA[부산은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마크롱 "서방, 우크라 가시적 안전 보장 제공해야"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/2904/ZM8rKvsbFp</id>
-        <link href="https://gallery.v.daum.net/p/viewer/2904/ZM8rKvsbFp"/>
-        <updated>2023-06-01T06:29:26.611Z</updated>
-        <content type="html"><![CDATA[프랑스 마크롱 대통령]]></content>
     </entry>
 </feed>
