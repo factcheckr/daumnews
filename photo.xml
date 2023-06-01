@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-06-01T19:16:52.980Z</updated>
+    <updated>2023-06-01T20:20:41.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청와대 개방 1주년 특별전 '여기 대통령들이 있었다']]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/qYjKmrj3X3</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/qYjKmrj3X3"/>
+        <updated>2023-06-01T20:20:02.200Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잡았다!]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/BySt9KUNwh</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1461/QJhR3CD72z"/>
         <updated>2023-06-01T06:29:26.597Z</updated>
         <content type="html"><![CDATA[서울의 풍경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마스크 착용 안내문 제거하는 동네의원]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5014013/BqWdre8CFe</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5014013/BqWdre8CFe"/>
-        <updated>2023-06-01T06:29:26.597Z</updated>
-        <content type="html"><![CDATA['코로나19' 바이러스]]></content>
     </entry>
 </feed>
