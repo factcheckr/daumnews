@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-06-02T10:19:57.599Z</updated>
+    <updated>2023-06-02T11:17:08.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["전례 없는 제조 난이도" 애플 헤드셋, 얼마나 특별하길래]]></title>
+        <id>https://v.daum.net/v/20230602103800182</id>
+        <link href="https://v.daum.net/v/20230602103800182"/>
+        <updated>2023-06-02T11:16:30.086Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘꼼수 실검’ 논란에도… 구글 “계속 서비스”]]></title>
         <id>https://v.daum.net/v/20230602115717279</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230602155257285"/>
         <updated>2023-06-02T08:23:35.617Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민 58% 설악산케이블카 반대…93%는 “보호지역 개발은 재검토”]]></title>
-        <id>https://v.daum.net/v/20230602152057221</id>
-        <link href="https://v.daum.net/v/20230602152057221"/>
-        <updated>2023-06-02T08:23:35.623Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
