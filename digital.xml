@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-06-02T11:17:08.417Z</updated>
+    <updated>2023-06-02T12:37:03.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["전례 없는 제조 난이도" 애플 헤드셋, 얼마나 특별하길래]]></title>
+        <id>https://v.daum.net/v/20230602103800182</id>
+        <link href="https://v.daum.net/v/20230602103800182"/>
+        <updated>2023-06-02T12:36:16.225Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정말 '터지나' 봤습니다…지하철 28㎓ 와이파이]]></title>
         <id>https://v.daum.net/v/20230602181501112</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230602173158156"/>
         <updated>2023-06-02T09:18:22.743Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오후여담]가면 벗은 中 ‘치팅 바둑’]]></title>
-        <id>https://v.daum.net/v/20230602114809967</id>
-        <link href="https://v.daum.net/v/20230602114809967"/>
-        <updated>2023-06-02T09:18:22.747Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
 </feed>
