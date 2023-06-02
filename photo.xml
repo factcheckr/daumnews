@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-06-02T08:24:18.246Z</updated>
+    <updated>2023-06-02T09:19:07.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나는 엔데믹으로…간호법은 결국 폐기]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5615613/FjjXx3bDjT</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5615613/FjjXx3bDjT"/>
+        <updated>2023-06-02T09:18:39.967Z</updated>
+        <content type="html"><![CDATA[노컷한컷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소니코리아, 2024 소니 월드 포토그래피 어워드 개최]]></title>
         <id>https://gallery.v.daum.net/p/viewer/2329/zGjxlnkUPN</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2447/blHITcLZu5"/>
         <updated>2023-06-02T05:17:50.722Z</updated>
         <content type="html"><![CDATA[인도는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주중한국문화원·국립한글박물관, '근대한글연구소' 전시회 개최]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/382/BltYUTOKFw</id>
-        <link href="https://gallery.v.daum.net/p/viewer/382/BltYUTOKFw"/>
-        <updated>2023-06-02T05:17:50.724Z</updated>
-        <content type="html"><![CDATA[중국은 지금]]></content>
     </entry>
 </feed>
