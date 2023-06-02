@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-06-02T13:25:35.125Z</updated>
+    <updated>2023-06-02T14:17:52.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남아공 회의 중 포즈 취하는 브릭스 외무장관들]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5031017/BWkE2U2mzm</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5031017/BWkE2U2mzm"/>
+        <updated>2023-06-02T14:17:24.977Z</updated>
+        <content type="html"><![CDATA[남아공은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EPC 회의 참석하는 젤렌스키와 EU 집행위원장]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5034563/XtWEvJA0uM</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/171596/uhjdFmT6b7"/>
         <updated>2023-06-02T06:23:09.824Z</updated>
         <content type="html"><![CDATA[태국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['규탄!']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5610796/XaeaFhwzzZ</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5610796/XaeaFhwzzZ"/>
-        <updated>2023-06-02T06:23:09.827Z</updated>
-        <content type="html"><![CDATA[모멘트]]></content>
     </entry>
 </feed>
