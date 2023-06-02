@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-06-02T19:20:19.550Z</updated>
+    <updated>2023-06-02T20:20:30.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["어이쿠, 모래주머니가…" 또 넘어진 바이든]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/H5pUfHpaGP</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/H5pUfHpaGP"/>
+        <updated>2023-06-02T20:19:57.702Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“배 나온 우리 냥이… 비만 아닌 원시주머니일 수도 있어요” [개st하우스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5620471/4l0hP1zcnN</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5030433/qapC857AKp"/>
         <updated>2023-06-02T07:17:37.388Z</updated>
         <content type="html"><![CDATA[국립중앙박물관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시원하다']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1783949/zMpTLB6hfw</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1783949/zMpTLB6hfw"/>
-        <updated>2023-06-02T07:17:37.389Z</updated>
-        <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
     </entry>
 </feed>
