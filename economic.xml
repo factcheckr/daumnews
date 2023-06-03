@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-06-03T03:21:26.199Z</updated>
+    <updated>2023-06-03T04:22:00.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["잘 떨어지네" 두 달만에 휘발유 1,500원대.. 1,200원대 경유  잇따라]]></title>
+        <id>https://v.daum.net/v/20230603124501792</id>
+        <link href="https://v.daum.net/v/20230603124501792"/>
+        <updated>2023-06-03T04:20:25.762Z</updated>
+        <content type="html"><![CDATA[JIBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미-중 패권전쟁에 ‘새우 등’ 터진 K반도체]]></title>
         <id>https://v.daum.net/v/20230603121000551</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230603113107122"/>
         <updated>2023-06-03T02:54:26.947Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고물가 고착화'…부산 생강 가격, 지난달 85%나 폭등]]></title>
-        <id>https://v.daum.net/v/20230603094608917</id>
-        <link href="https://v.daum.net/v/20230603094608917"/>
-        <updated>2023-06-03T02:54:26.948Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
     </entry>
 </feed>
