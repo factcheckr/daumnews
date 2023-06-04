@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-06-04T15:24:38.554Z</updated>
+    <updated>2023-06-04T16:26:16.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세계를 홀린 한국인 목소리…30년간 정상 지켰다]]></title>
+        <id>https://v.daum.net/v/20230604182905113</id>
+        <link href="https://v.daum.net/v/20230604182905113"/>
+        <updated>2023-06-04T16:25:10.670Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[도민시론] 모두가 주인공이 되는 마법, 걸언(乞言)]]></title>
         <id>https://v.daum.net/v/20230605000740322</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230604230158907"/>
         <updated>2023-06-04T14:15:22.106Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘베이고 찔리는 듯한 통증’…백신으로 막는다]]></title>
-        <id>https://v.daum.net/v/20230604213838325</id>
-        <link href="https://v.daum.net/v/20230604213838325"/>
-        <updated>2023-06-04T13:21:49.470Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
