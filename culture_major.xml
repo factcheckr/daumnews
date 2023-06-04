@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-06-04T10:22:15.451Z</updated>
+    <updated>2023-06-04T11:16:39.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1973년처럼···그레이엄 목사 장남 '전도 50주년' 설교]]></title>
+        <id>https://v.daum.net/v/20230604174408301</id>
+        <link href="https://v.daum.net/v/20230604174408301"/>
+        <updated>2023-06-04T11:15:47.367Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무더위에도 콜록콜록 … 심상찮은 독감]]></title>
         <id>https://v.daum.net/v/20230604173020018</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230604161002788"/>
         <updated>2023-06-04T09:18:04.547Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 김규리 “그림도 저도, 아직은 잘 모르겠어요”]]></title>
-        <id>https://v.daum.net/v/20230604160911777</id>
-        <link href="https://v.daum.net/v/20230604160911777"/>
-        <updated>2023-06-04T09:18:04.548Z</updated>
-        <content type="html"><![CDATA[스타투데이]]></content>
     </entry>
 </feed>
