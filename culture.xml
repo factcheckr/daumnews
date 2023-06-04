@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-06-04T12:33:06.340Z</updated>
+    <updated>2023-06-04T13:23:06.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘베이고 찔리는 듯한 통증’…백신으로 막는다]]></title>
+        <id>https://v.daum.net/v/20230604213838325</id>
+        <link href="https://v.daum.net/v/20230604213838325"/>
+        <updated>2023-06-04T13:21:49.470Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 서울 낮 비교적 선선…동해안은 최고 31도 '더위']]></title>
         <id>https://v.daum.net/v/20230604212103195</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조수미도 울었다, 세계 3대 콩쿠르 ‘톱’ 찍은 김태한]]></title>
+        <title type="html"><![CDATA[록 가수 꿈꿨던 밴드부 소년... 22세에 세계 클래식 콩쿠르 톱 찍었다]]></title>
         <id>https://v.daum.net/v/20230604210558069</id>
         <link href="https://v.daum.net/v/20230604210558069"/>
         <updated>2023-06-04T12:32:05.356Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230604204309871"/>
         <updated>2023-06-04T12:32:05.357Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연필로 쓴 함성, 대한 독립 만세]]></title>
-        <id>https://v.daum.net/v/20230604203601791</id>
-        <link href="https://v.daum.net/v/20230604203601791"/>
-        <updated>2023-06-04T12:32:05.358Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
