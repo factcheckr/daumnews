@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-06-04T13:23:06.716Z</updated>
+    <updated>2023-06-04T14:16:31.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['상사병' 극복… 정말 흐르는 시간만이 답일까?]]></title>
+        <id>https://v.daum.net/v/20230604230158907</id>
+        <link href="https://v.daum.net/v/20230604230158907"/>
+        <updated>2023-06-04T14:15:22.106Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘베이고 찔리는 듯한 통증’…백신으로 막는다]]></title>
         <id>https://v.daum.net/v/20230604213838325</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230604204800928"/>
         <updated>2023-06-04T12:32:05.356Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 내일도 낮 기온 ↑‥경기·강원 요란한 소나기]]></title>
-        <id>https://v.daum.net/v/20230604204309871</id>
-        <link href="https://v.daum.net/v/20230604204309871"/>
-        <updated>2023-06-04T12:32:05.357Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>

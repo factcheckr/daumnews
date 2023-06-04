@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-06-04T13:23:06.715Z</updated>
+    <updated>2023-06-04T14:16:31.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시멘트 가격 잇단 인상 예고…건설현장 멈춰 서나]]></title>
+        <id>https://v.daum.net/v/20230604215657459</id>
+        <link href="https://v.daum.net/v/20230604215657459"/>
+        <updated>2023-06-04T14:14:40.972Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넉넉한 공간·경쾌한 가속감, ‘유럽 아빠들의 차’답다…폭스바겐 2023 투아렉 시승기]]></title>
         <id>https://v.daum.net/v/20230604220358525</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230604213600310"/>
         <updated>2023-06-04T13:21:09.070Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["동물병원 가면 80만 원 훌쩍"…펫보험은 12% 불과]]></title>
-        <id>https://v.daum.net/v/20230604200802438</id>
-        <link href="https://v.daum.net/v/20230604200802438"/>
-        <updated>2023-06-04T12:31:30.605Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
