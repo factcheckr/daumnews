@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-06-04T21:19:29.651Z</updated>
+    <updated>2023-06-04T22:17:31.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비보잉, 노들섬서 날다]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1270177/fJ06iuVs0w</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1270177/fJ06iuVs0w"/>
+        <updated>2023-06-04T22:17:00.305Z</updated>
+        <content type="html"><![CDATA[C컷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휘발유 가격, 2개월 만에 1500원대로 하락]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5035080/XsOIzhHRy4</id>
@@ -21,17 +28,17 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[바리톤 샛별 김태한, 퀸 엘리자베스 콩쿠르 품었다]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5032955/F5dkgB6hZu</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5032955/F5dkgB6hZu"/>
-        <updated>2023-06-04T21:19:05.037Z</updated>
-        <content type="html"><![CDATA[벨기에는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바리톤 샛별 김태한, 퀸 엘리자베스 콩쿠르 품었다]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5032452/F5dkgB6hZu</id>
         <link href="https://gallery.v.daum.net/p/viewer/5032452/F5dkgB6hZu"/>
         <updated>2023-06-04T21:19:05.039Z</updated>
         <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바리톤 샛별 김태한, 퀸 엘리자베스 콩쿠르 품었다]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032955/F5dkgB6hZu</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032955/F5dkgB6hZu"/>
+        <updated>2023-06-04T21:19:05.037Z</updated>
+        <content type="html"><![CDATA[벨기에는 지금]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[눈으로 말해요]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1461/Xr7MeKQS2v"/>
         <updated>2023-06-04T06:24:10.754Z</updated>
         <content type="html"><![CDATA[서울의 풍경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5·18희생자 묘역 찾은 특전사회 고문]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/2603/pfRernkUzE</id>
-        <link href="https://gallery.v.daum.net/p/viewer/2603/pfRernkUzE"/>
-        <updated>2023-06-04T04:21:23.138Z</updated>
-        <content type="html"><![CDATA[광주 민주화항쟁]]></content>
     </entry>
 </feed>
