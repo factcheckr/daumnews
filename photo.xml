@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-06-05T19:16:15.925Z</updated>
+    <updated>2023-06-05T20:19:56.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스타 없이 빛난 '반전 드라마']]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/bVgJYsyPtu</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/bVgJYsyPtu"/>
+        <updated>2023-06-05T20:19:19.779Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사랑해요]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/41GXi4dYI1</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5031018/qP3LEbPlp8"/>
         <updated>2023-06-05T06:24:25.405Z</updated>
         <content type="html"><![CDATA[아르헨티나는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 구축함 향해 접근 중인 中 군함]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5035100/FIhVRXUN3u</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5035100/FIhVRXUN3u"/>
-        <updated>2023-06-05T06:24:25.411Z</updated>
-        <content type="html"><![CDATA[남중국해 군사긴장]]></content>
     </entry>
 </feed>
