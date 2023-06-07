@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-06-07T13:30:13.381Z</updated>
+    <updated>2023-06-07T14:18:07.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230607214105964"/>
         <updated>2023-06-07T13:28:37.564Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[반도체 관련 업체 갑질 논란…노조 집단행동에 CCTV 설치]]></title>
+        <id>https://v.daum.net/v/20230607215916291</id>
+        <link href="https://v.daum.net/v/20230607215916291"/>
+        <updated>2023-06-07T14:16:34.641Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“고가 차량과 부딪친 저가 차량, 보험 할증 유예”]]></title>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세계 경제는 회복세, 한국은 ‘정체’…이대로라면 하반기 반등도 어렵다]]></title>
+        <title type="html"><![CDATA[세계 경제는 회복세, 한국은 ‘정체’…이대로라면 저성장 고착화 가능성]]></title>
         <id>https://v.daum.net/v/20230607212457737</id>
         <link href="https://v.daum.net/v/20230607212457737"/>
         <updated>2023-06-07T13:28:37.581Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230607210207315"/>
         <updated>2023-06-07T13:28:37.585Z</updated>
         <content type="html"><![CDATA[CJB청주방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["혼인신고 미룰걸, 기회 날렸다"…내 집 없는 부부들 한숨]]></title>
-        <id>https://v.daum.net/v/20230607204807004</id>
-        <link href="https://v.daum.net/v/20230607204807004"/>
-        <updated>2023-06-07T13:28:37.587Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
