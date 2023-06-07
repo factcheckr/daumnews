@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-06-07T16:28:51.620Z</updated>
+    <updated>2023-06-07T17:20:58.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글 "안드로이드에 인도어 서비스"…스마트폰 격전지 '인도']]></title>
+        <id>https://v.daum.net/v/20230607180200312</id>
+        <link href="https://v.daum.net/v/20230607180200312"/>
+        <updated>2023-06-07T17:20:09.231Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파킨슨 병 정복에서 한 걸음 후퇴… 3년 전 등장한 치료법, 실제론 작동 안해]]></title>
         <id>https://v.daum.net/v/20230608000026479</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230607191508277"/>
         <updated>2023-06-07T13:29:26.234Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 北 ‘김수키’ 공격 인프라는 국내에…구멍 난 '호스팅 보안']]></title>
-        <id>https://v.daum.net/v/20230607190022889</id>
-        <link href="https://v.daum.net/v/20230607190022889"/>
-        <updated>2023-06-07T16:28:00.609Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
