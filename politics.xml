@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-06-07T12:37:06.299Z</updated>
+    <updated>2023-06-07T13:30:13.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["돈 받고 시위 참여" 전장연 활동가 증언 공개…내일 수사 의뢰]]></title>
+        <id>https://v.daum.net/v/20230607194001863</id>
+        <link href="https://v.daum.net/v/20230607194001863"/>
+        <updated>2023-06-07T13:28:04.934Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["위원 모두 사퇴하라"…특혜 채용 감사 '부분 수용' 고심]]></title>
         <id>https://v.daum.net/v/20230607211828617</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230607200602350"/>
         <updated>2023-06-07T12:34:58.563Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈대담] 군공항 이전, 경과는?…김영록 지사에게 듣는다]]></title>
-        <id>https://v.daum.net/v/20230607203402780</id>
-        <link href="https://v.daum.net/v/20230607203402780"/>
-        <updated>2023-06-07T12:34:58.564Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
