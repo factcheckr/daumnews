@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2023-06-07T15:22:09.470Z</updated>
+    <updated>2023-06-07T16:28:51.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20230608000619677"/>
         <updated>2023-06-07T15:19:44.467Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폴란드, 자녀 있으면 세금 21.7%P 적은데…한국은 3.8%P]]></title>
+        <id>https://v.daum.net/v/20230608000305541</id>
+        <link href="https://v.daum.net/v/20230608000305541"/>
+        <updated>2023-06-07T16:26:28.161Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["선물받은 기분이에요"…스마트폰에 눈 뜬 어르신들]]></title>
+        <id>https://v.daum.net/v/20230608000038484</id>
+        <link href="https://v.daum.net/v/20230608000038484"/>
+        <updated>2023-06-07T16:26:28.162Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[추락 부르는 ‘낭떠러지 비상구’…법 개정에도 여전]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230607230058051"/>
         <updated>2023-06-07T15:19:44.485Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동덕여대 재학생, 등굣길 교내서 차량에 치여 사망]]></title>
-        <id>https://v.daum.net/v/20230607221805629</id>
-        <link href="https://v.daum.net/v/20230607221805629"/>
-        <updated>2023-06-07T15:19:44.487Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평범해 보이는데 어떻게 이런 짓을…정유정 고교 졸업사진 공개]]></title>
-        <id>https://v.daum.net/v/20230607221800624</id>
-        <link href="https://v.daum.net/v/20230607221800624"/>
-        <updated>2023-06-07T15:19:44.490Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>

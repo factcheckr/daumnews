@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-06-07T15:22:09.478Z</updated>
+    <updated>2023-06-07T16:28:51.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[생후 12개월 때 달걀 자주 먹으면 달걀 알레르기 ‘뚝’]]></title>
+        <id>https://v.daum.net/v/20230608001659734</id>
+        <link href="https://v.daum.net/v/20230608001659734"/>
+        <updated>2023-06-07T16:27:39.198Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[우리말 아·나·바·다] 3. 문화예술분야│배리어프리]]></title>
         <id>https://v.daum.net/v/20230608000553643</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230607135711300"/>
         <updated>2023-06-07T14:17:03.812Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘디셈버’로 감성 적신 피아니스트 조지 윈스턴 별세]]></title>
-        <id>https://v.daum.net/v/20230607215528234</id>
-        <link href="https://v.daum.net/v/20230607215528234"/>
-        <updated>2023-06-07T13:29:04.938Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
