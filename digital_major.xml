@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-06-08T14:18:32.703Z</updated>
+    <updated>2023-06-08T15:20:21.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“삼성 접는폰 관심 가로채려는 ‘패기’ 가상” 외신도 비웃은 중국폰]]></title>
+        <id>https://v.daum.net/v/20230608175208529</id>
+        <link href="https://v.daum.net/v/20230608175208529"/>
+        <updated>2023-06-08T15:19:38.212Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버·카카오에 '매출 10% 과징금' 때리나]]></title>
         <id>https://v.daum.net/v/20230608174505285</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230608165408398"/>
         <updated>2023-06-08T09:19:04.569Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] ‘사이버 추론 시스템’ 세계 최초 개발… 얀 쇼시타이시빌리 교수 “챗GPT 같은 LLM, 사이버보안서 중대 이슈 될 것”]]></title>
-        <id>https://v.daum.net/v/20230608165057248</id>
-        <link href="https://v.daum.net/v/20230608165057248"/>
-        <updated>2023-06-08T09:19:04.570Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
