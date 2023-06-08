@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-06-08T11:17:50.985Z</updated>
+    <updated>2023-06-08T12:35:11.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“이 색상 역대급이다” 핑크에 꽂힌 아이폰 ‘이렇게’ 나온다?]]></title>
+        <id>https://v.daum.net/v/20230608205208434</id>
+        <link href="https://v.daum.net/v/20230608205208434"/>
+        <updated>2023-06-08T12:34:20.877Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“7천원 냈는데, 쓰지도 못하고 환불 받아라?” 네이버 왜 이래?]]></title>
         <id>https://v.daum.net/v/20230608195208422</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230608174505285"/>
         <updated>2023-06-08T09:18:54.709Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도쿄전력, 지난달 오염수 방류차단 기준 이미 공개...문제는 차단 시점]]></title>
-        <id>https://v.daum.net/v/20230608174359254</id>
-        <link href="https://v.daum.net/v/20230608174359254"/>
-        <updated>2023-06-08T09:18:54.710Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
