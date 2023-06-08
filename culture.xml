@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-06-08T15:20:21.528Z</updated>
+    <updated>2023-06-08T16:26:02.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KBS 올해 1분기 425억 적자...그래도 직원 51%가 억대 연봉]]></title>
+        <id>https://v.daum.net/v/20230608172359591</id>
+        <link href="https://v.daum.net/v/20230608172359591"/>
+        <updated>2023-06-08T16:24:55.894Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[WE+] 깊은 산골 그린 산수화 부서지는 물소리 따라 곡운선생 발걸음 쫓아]]></title>
         <id>https://v.daum.net/v/20230609000634857</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230609000150702"/>
         <updated>2023-06-08T15:19:11.479Z</updated>
         <content type="html"><![CDATA[농민신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비 오는 날에는 ‘미끌’… 낙상 사고 예방하려면?]]></title>
-        <id>https://v.daum.net/v/20230608230158172</id>
-        <link href="https://v.daum.net/v/20230608230158172"/>
-        <updated>2023-06-08T14:17:14.004Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>

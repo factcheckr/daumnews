@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-06-08T15:20:21.508Z</updated>
+    <updated>2023-06-08T16:26:02.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230609000711887"/>
         <updated>2023-06-08T15:18:21.636Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권칠승, '천안함 막말 논란' 후폭풍 지속…與, 윤리특위 제소]]></title>
+        <id>https://v.daum.net/v/20230609000049674</id>
+        <link href="https://v.daum.net/v/20230609000049674"/>
+        <updated>2023-06-08T16:24:09.009Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤재옥 "선관위, 감사원 전면 감사 안 받으면 선거 못 치러"(종합)]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230608212925137"/>
         <updated>2023-06-08T15:18:21.652Z</updated>
         <content type="html"><![CDATA[JIBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정영학 "김용, 유동규가 이재명 설득 못하면 도와주는 역할"]]></title>
-        <id>https://v.daum.net/v/20230608211600837</id>
-        <link href="https://v.daum.net/v/20230608211600837"/>
-        <updated>2023-06-08T14:16:15.074Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
