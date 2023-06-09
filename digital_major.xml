@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-06-09T06:25:14.673Z</updated>
+    <updated>2023-06-09T07:19:44.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[딥러닝 아버지의 걱정... "AI는 당신에게만 통하는 '1인 맞춤' 가짜뉴스도 만들 수 있다"]]></title>
+        <id>https://v.daum.net/v/20230609143108901</id>
+        <link href="https://v.daum.net/v/20230609143108901"/>
+        <updated>2023-06-09T07:18:58.553Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["올여름 폭염 일수, 평년과 비슷하거나 다소 많을 듯"]]></title>
+        <id>https://v.daum.net/v/20230609142358549</id>
+        <link href="https://v.daum.net/v/20230609142358549"/>
+        <updated>2023-06-09T07:18:58.555Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[학술지 양식 제각각...”논문 양식 교체만 연간 3000억원”]]></title>
+        <id>https://v.daum.net/v/20230609142158484</id>
+        <link href="https://v.daum.net/v/20230609142158484"/>
+        <updated>2023-06-09T07:18:58.556Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WWDC23서 애플이 강조하지 않은 AI 기능들]]></title>
         <id>https://v.daum.net/v/20230609133307135</id>
@@ -34,13 +55,6 @@
         <content type="html"><![CDATA[문화일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KT 잔혹사 끝나나...사외이사·정관 개정안 보니 ‘균형감’]]></title>
-        <id>https://v.daum.net/v/20230609114409190</id>
-        <link href="https://v.daum.net/v/20230609114409190"/>
-        <updated>2023-06-09T06:24:35.957Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[구글 AI, 컴퓨터 프로그래밍 언어 ‘10년의 벽’ 깼다]]></title>
         <id>https://v.daum.net/v/20230609114640277</id>
         <link href="https://v.daum.net/v/20230609114640277"/>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230609105025960"/>
         <updated>2023-06-09T03:02:58.073Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[월간 자동차] 23년 5월…하이브리드 신차 등록…디젤차 첫 추월]]></title>
-        <id>https://v.daum.net/v/20230609103900532</id>
-        <link href="https://v.daum.net/v/20230609103900532"/>
-        <updated>2023-06-09T03:02:58.074Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT 사외이사 7인 내정…이명박·박근혜 정부 관료, 회계 전문가 등 선임(종합)]]></title>
-        <id>https://v.daum.net/v/20230609103906539</id>
-        <link href="https://v.daum.net/v/20230609103906539"/>
-        <updated>2023-06-09T03:02:58.075Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
