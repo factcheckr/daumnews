@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-06-10T02:48:28.345Z</updated>
+    <updated>2023-06-10T03:20:24.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비전프로, 애플 반도체의 승리[애플 쇼크웨이브(17)]]]></title>
+        <id>https://v.daum.net/v/20230610114458868</id>
+        <link href="https://v.daum.net/v/20230610114458868"/>
+        <updated>2023-06-10T03:19:26.614Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6억km 거리의 목성 하늘에 내 이름을 보내볼까]]></title>
         <id>https://v.daum.net/v/20230610114159845</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230610092201287"/>
         <updated>2023-06-10T01:39:41.170Z</updated>
         <content type="html"><![CDATA[더스쿠프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공공발주 SW사업 평가개선 나선 정부…업계 "공정계약 준수가 먼저"]]></title>
-        <id>https://v.daum.net/v/20230610092908352</id>
-        <link href="https://v.daum.net/v/20230610092908352"/>
-        <updated>2023-06-10T01:39:41.171Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
