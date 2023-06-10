@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-06-10T20:23:01.583Z</updated>
+    <updated>2023-06-10T21:18:55.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이들 앞세워 '국방력 강화'하는 북한]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5611950/7c3mKPnX0t</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5611950/7c3mKPnX0t"/>
+        <updated>2023-06-10T21:18:21.700Z</updated>
+        <content type="html"><![CDATA[노동신문 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["조작 절대불가"…로또 추첨 대국민 공개 현장]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5743574/bnZ96EhVdM</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1783949/9c4qEsyP2c"/>
         <updated>2023-06-09T22:18:23.532Z</updated>
         <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골짜기 세대, 희망 돌풍은 계속된다]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5032452/fb9oWZujHt</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5032452/fb9oWZujHt"/>
-        <updated>2023-06-09T20:19:56.148Z</updated>
-        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
     </entry>
 </feed>
