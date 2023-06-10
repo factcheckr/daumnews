@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-06-10T08:24:15.837Z</updated>
+    <updated>2023-06-10T09:18:34.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“고작 190만원? 속지 마세요” 450만원 애플 신작 나오자마자 ‘동네북’]]></title>
+        <id>https://v.daum.net/v/20230610175307309</id>
+        <link href="https://v.daum.net/v/20230610175307309"/>
+        <updated>2023-06-10T09:17:49.851Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“나오면 무조건 완판입니다” 난리난 삼성 제품…작정하고 ‘최저가?’]]></title>
         <id>https://v.daum.net/v/20230610155140795</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230610114458868"/>
         <updated>2023-06-10T03:19:26.614Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6억㎞ 거리 목성 하늘에 내 이름이 ‘둥둥’? 한 번 보내볼까]]></title>
-        <id>https://v.daum.net/v/20230610114159845</id>
-        <link href="https://v.daum.net/v/20230610114159845"/>
-        <updated>2023-06-10T02:47:37.021Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
