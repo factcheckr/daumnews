@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-06-10T01:40:43.002Z</updated>
+    <updated>2023-06-10T02:48:28.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[6억km 거리의 목성 하늘에 내 이름을 보내볼까]]></title>
+        <id>https://v.daum.net/v/20230610114159845</id>
+        <link href="https://v.daum.net/v/20230610114159845"/>
+        <updated>2023-06-10T02:47:37.021Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["애플 '비전 프로', 혁신도 없고 비싸"..메타 저커버그의 저격 [글로벌 IT슈]]]></title>
+        <id>https://v.daum.net/v/20230610113151757</id>
+        <link href="https://v.daum.net/v/20230610113151757"/>
+        <updated>2023-06-10T02:47:37.022Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[위클리 스마트] '영업 인센티브'로 통신 3사 의존도 높아지는 알뜰폰]]></title>
         <id>https://v.daum.net/v/20230610100209803</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230610092908352"/>
         <updated>2023-06-10T01:39:41.171Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쓰러진 황소 일으키는 낙지…이유 찾았다[과학을읽다]]]></title>
-        <id>https://v.daum.net/v/20230610085713005</id>
-        <link href="https://v.daum.net/v/20230610085713005"/>
-        <updated>2023-06-10T01:39:41.172Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사이언스카페] “킁킁, 보호종입니다” 자연과 사람 구하는 멍멍이]]></title>
-        <id>https://v.daum.net/v/20230610084022879</id>
-        <link href="https://v.daum.net/v/20230610084022879"/>
-        <updated>2023-06-10T01:39:41.175Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
