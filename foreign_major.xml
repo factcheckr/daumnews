@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-06-10T10:22:06.147Z</updated>
+    <updated>2023-06-10T11:16:42.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 갖고 놀던 불발탄 폭발… 소말리아서 최소 27명 사망]]></title>
+        <id>https://v.daum.net/v/20230610175108277</id>
+        <link href="https://v.daum.net/v/20230610175108277"/>
+        <updated>2023-06-10T11:15:20.152Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우크라軍 대반격 시작, 진행 중… 푸틴도 인정]]></title>
         <id>https://v.daum.net/v/20230610172917920</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230610161329078"/>
         <updated>2023-06-10T08:22:48.409Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콜롬비아, 마지막 무장반군 ELN과 6개월 휴전 합의]]></title>
-        <id>https://v.daum.net/v/20230610160150887</id>
-        <link href="https://v.daum.net/v/20230610160150887"/>
-        <updated>2023-06-10T08:22:48.423Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
