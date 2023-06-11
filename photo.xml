@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-06-11T12:33:24.032Z</updated>
+    <updated>2023-06-11T13:24:32.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성전자 디스플레이에 담긴 하이브 소속 아티스트[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/4VwiE57ACL</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/4VwiE57ACL"/>
+        <updated>2023-06-11T13:24:01.464Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KR, HD현대 신개념 연료탱크에 'AIP']]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029587/5k4V4AOKzY</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5029622/0HdSg9xvqM"/>
         <updated>2023-06-11T01:55:37.884Z</updated>
         <content type="html"><![CDATA[프랑스는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HOT SPOT]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5029579/VO47CicphP</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5029579/VO47CicphP"/>
-        <updated>2023-06-11T01:55:37.886Z</updated>
-        <content type="html"><![CDATA[이탈리아는 지금]]></content>
     </entry>
 </feed>
