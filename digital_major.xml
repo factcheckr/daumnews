@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-06-12T10:22:39.695Z</updated>
+    <updated>2023-06-12T11:17:01.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버는 내고 넷플릭스는 안 내고?…"망 이용대가 제대로 논의해야"]]></title>
+        <id>https://v.daum.net/v/20230612183307688</id>
+        <link href="https://v.daum.net/v/20230612183307688"/>
+        <updated>2023-06-12T11:16:26.214Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘웹툰 종주국’ 디지털 코리아서… ‘AI 보이콧’ 논란]]></title>
+        <id>https://v.daum.net/v/20230612115125689</id>
+        <link href="https://v.daum.net/v/20230612115125689"/>
+        <updated>2023-06-12T11:16:26.216Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“생성 AI혁명, 웹3기술과 접목되어 세상을 근본적으로 바꿀 것”]]></title>
         <id>https://v.daum.net/v/20230612083159336</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230612175222424"/>
         <updated>2023-06-12T09:20:13.049Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[망 이용대가 논의 글로벌 확산..."국내 입법 재점화 필요"]]></title>
-        <id>https://v.daum.net/v/20230612174322170</id>
-        <link href="https://v.daum.net/v/20230612174322170"/>
-        <updated>2023-06-12T09:20:13.057Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남국 거래 패턴 보니…클레이페이 투자는' 수수께끼']]></title>
-        <id>https://v.daum.net/v/20230612173204790</id>
-        <link href="https://v.daum.net/v/20230612173204790"/>
-        <updated>2023-06-12T09:20:13.059Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>
