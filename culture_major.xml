@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-06-12T18:24:03.382Z</updated>
+    <updated>2023-06-12T19:19:28.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]김가진 선생 살던 백운장 터, 부동산 개발업자에 팔릴 위기]]></title>
+        <id>https://v.daum.net/v/20230613030510954</id>
+        <link href="https://v.daum.net/v/20230613030510954"/>
+        <updated>2023-06-12T19:18:24.711Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[멍해지고 발작 일으키는 뇌전증…대다수 약물로 호전]]></title>
+        <id>https://v.daum.net/v/20230613030302834</id>
+        <link href="https://v.daum.net/v/20230613030302834"/>
+        <updated>2023-06-12T19:18:24.712Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[60대 여자 넷의 이야기…이들을 묶은 건 ‘시대’]]></title>
         <id>https://v.daum.net/v/20230613000423265</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230612173358861"/>
         <updated>2023-06-12T11:16:04.966Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬 리뷰] 스타가 된 나쁜 여자들…원조 시카고의 귀환]]></title>
-        <id>https://v.daum.net/v/20230612183958827</id>
-        <link href="https://v.daum.net/v/20230612183958827"/>
-        <updated>2023-06-12T11:16:04.968Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연지연의 아틀리에 산책 | 풍선 작가] 무너졌을 때 일어날 수 있게 해주는 희망 말하는 이동욱 작가]]></title>
-        <id>https://v.daum.net/v/20230612180537875</id>
-        <link href="https://v.daum.net/v/20230612180537875"/>
-        <updated>2023-06-12T11:16:04.970Z</updated>
-        <content type="html"><![CDATA[이코노미조선]]></content>
     </entry>
 </feed>
