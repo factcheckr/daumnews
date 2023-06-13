@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-06-13T17:18:47.777Z</updated>
+    <updated>2023-06-13T18:23:33.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20230613174508156"/>
         <updated>2023-06-13T15:19:45.868Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<뉴스브릿지>'전리층' 진동, 지표면의 변화 알려줄까?]]></title>
+        <id>https://v.daum.net/v/20230613201558888</id>
+        <link href="https://v.daum.net/v/20230613201558888"/>
+        <updated>2023-06-13T18:22:53.378Z</updated>
+        <content type="html"><![CDATA[EBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제3차 한-덴마크 과기공동위 개최…"수소·양자 협력 논의"]]></title>
+        <id>https://v.daum.net/v/20230613200002408</id>
+        <link href="https://v.daum.net/v/20230613200002408"/>
+        <updated>2023-06-13T18:22:53.378Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“쭈글쭈글한 이 주머니 뭐지?” 다 쓴 로션 열어보니 [지구, 뭐래?]]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230613175038312"/>
         <updated>2023-06-13T10:19:57.657Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓 디지털의 힘…‘아날로그 일본’ AI·콘텐츠로 뚫는다]]></title>
-        <id>https://v.daum.net/v/20230613175012304</id>
-        <link href="https://v.daum.net/v/20230613175012304"/>
-        <updated>2023-06-13T10:19:57.660Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변협과 갈등 장기화…'변호사법' 개정에 희망거는 스타트업]]></title>
-        <id>https://v.daum.net/v/20230613174816253</id>
-        <link href="https://v.daum.net/v/20230613174816253"/>
-        <updated>2023-06-13T10:19:57.662Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

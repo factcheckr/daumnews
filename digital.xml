@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-06-13T17:18:47.789Z</updated>
+    <updated>2023-06-13T18:23:33.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘제2의 타다’ 도전 업체들, 또 말라죽나]]></title>
+        <id>https://v.daum.net/v/20230614030536654</id>
+        <link href="https://v.daum.net/v/20230614030536654"/>
+        <updated>2023-06-13T18:22:45.252Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“MS의 블리자드 인수 안돼”… 빅테크 저승사자, 가처분신청까지]]></title>
+        <id>https://v.daum.net/v/20230614030458602</id>
+        <link href="https://v.daum.net/v/20230614030458602"/>
+        <updated>2023-06-13T18:22:45.253Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위원장 없는 방통위의 전례 없는 '일방통행']]></title>
         <id>https://v.daum.net/v/20230614000658958</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230613220902873"/>
         <updated>2023-06-13T13:23:48.834Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<뉴스브릿지>'전리층' 진동, 지표면의 변화 알려줄까?]]></title>
-        <id>https://v.daum.net/v/20230613201558888</id>
-        <link href="https://v.daum.net/v/20230613201558888"/>
-        <updated>2023-06-13T12:35:02.244Z</updated>
-        <content type="html"><![CDATA[EBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제3차 한-덴마크 과기공동위 개최…"수소·양자 협력 논의"]]></title>
-        <id>https://v.daum.net/v/20230613200002408</id>
-        <link href="https://v.daum.net/v/20230613200002408"/>
-        <updated>2023-06-13T12:35:02.245Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
