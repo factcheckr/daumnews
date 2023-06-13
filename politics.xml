@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-06-13T18:23:33.578Z</updated>
+    <updated>2023-06-13T19:16:41.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[업체 뒤 봐주고 대표로… 文정부 신재생사업 비리 대거 적발]]></title>
+        <id>https://v.daum.net/v/20230614040916839</id>
+        <link href="https://v.daum.net/v/20230614040916839"/>
+        <updated>2023-06-13T19:14:30.504Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“산업부 간부 등 태양광업체와 결탁”… 감사원, 13명 수사 요청]]></title>
         <id>https://v.daum.net/v/20230614030411549</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230614030206427"/>
         <updated>2023-06-13T18:21:23.733Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['재선 상임위원장' 나온다…민주당, '뒷말 없는 후보' 선출 고심]]></title>
-        <id>https://v.daum.net/v/20230614030158419</id>
-        <link href="https://v.daum.net/v/20230614030158419"/>
-        <updated>2023-06-13T18:21:23.735Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
