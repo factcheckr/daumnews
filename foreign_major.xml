@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-06-14T16:28:55.856Z</updated>
+    <updated>2023-06-14T17:20:46.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20230615000307842"/>
         <updated>2023-06-14T16:27:49.583Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인도 5월 도매물가지수 3.48%↓..."상품가격 하락"]]></title>
+        <id>https://v.daum.net/v/20230615000018788</id>
+        <link href="https://v.daum.net/v/20230615000018788"/>
+        <updated>2023-06-14T17:19:41.342Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4월 영국 GDP 전월비 0.2%↑..."서비스 부문 플러스 성장 이끌어"]]></title>
+        <id>https://v.daum.net/v/20230614234359698</id>
+        <link href="https://v.daum.net/v/20230614234359698"/>
+        <updated>2023-06-14T17:19:41.345Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美 경제학자들 "CPI 중 최대 비중 주거비 하락 임박"]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230614230927452"/>
         <updated>2023-06-14T15:24:25.099Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스라엘 작년 무기 수출 125억달러…2년 연속 최고치 경신]]></title>
-        <id>https://v.daum.net/v/20230614230118405</id>
-        <link href="https://v.daum.net/v/20230614230118405"/>
-        <updated>2023-06-14T15:24:25.100Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국군포로도 ‘경문협’에 못받고 있는데…北 상대 정부 소송은 승소하면 어떻게?]]></title>
-        <id>https://v.daum.net/v/20230614224805324</id>
-        <link href="https://v.daum.net/v/20230614224805324"/>
-        <updated>2023-06-14T15:24:25.102Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-06-14T16:28:55.838Z</updated>
+    <updated>2023-06-14T17:20:46.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230614222558192"/>
         <updated>2023-06-14T15:25:21.300Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[튀긴 음식이 암 위험을 높이는 이유…음식 'DNA'에 있었다]]></title>
+        <id>https://v.daum.net/v/20230614172612485</id>
+        <link href="https://v.daum.net/v/20230614172612485"/>
+        <updated>2023-06-14T17:20:13.242Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윈도우 10 공식 지원 중단…사용자 불편이나 위험은? [궁즉답]]]></title>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20230614161214723</id>
         <link href="https://v.daum.net/v/20230614161214723"/>
         <updated>2023-06-14T16:28:20.530Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지털 기술 활용, 합리적 비용의 비대면 심리 상담]]></title>
-        <id>https://v.daum.net/v/20230614160702492</id>
-        <link href="https://v.daum.net/v/20230614160702492"/>
-        <updated>2023-06-14T16:28:20.532Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
