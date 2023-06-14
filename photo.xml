@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-06-14T21:18:12.831Z</updated>
+    <updated>2023-06-14T22:22:18.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한, 학생용 가방 생산 부각…'미래 세대 중시']]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1489/4Idu3dv8pL</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1489/4Idu3dv8pL"/>
+        <updated>2023-06-14T22:21:39.987Z</updated>
+        <content type="html"><![CDATA[북한은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여름을 대비하는 자세 [포토에세이]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/249496/9OqGnfwz1O</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5610796/pBjU73JG09"/>
         <updated>2023-06-14T08:23:28.433Z</updated>
         <content type="html"><![CDATA[모멘트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘중국대사 고압 발언’에 격해진 반중 정서…예비역들 1인시위]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/321090/ZLfDiMhV8J</id>
-        <link href="https://gallery.v.daum.net/p/viewer/321090/ZLfDiMhV8J"/>
-        <updated>2023-06-14T08:23:28.435Z</updated>
-        <content type="html"><![CDATA[대한민국 정부]]></content>
     </entry>
 </feed>
