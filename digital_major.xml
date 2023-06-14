@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-06-14T09:25:01.546Z</updated>
+    <updated>2023-06-14T10:20:13.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[알뜰폰 '3만원대 5G 실속 요금' 나왔다]]></title>
+        <id>https://v.daum.net/v/20230614172117345</id>
+        <link href="https://v.daum.net/v/20230614172117345"/>
+        <updated>2023-06-14T10:19:40.585Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윈도우 10 공식 지원 중단…사용자 불편이나 위험은? [궁즉답]]]></title>
         <id>https://v.daum.net/v/20230614172109332</id>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20230614161214723</id>
         <link href="https://v.daum.net/v/20230614161214723"/>
         <updated>2023-06-14T08:23:19.684Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지털 기술 활용, 합리적 비용의 비대면 심리 상담]]></title>
-        <id>https://v.daum.net/v/20230614160702492</id>
-        <link href="https://v.daum.net/v/20230614160702492"/>
-        <updated>2023-06-14T08:23:19.685Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
