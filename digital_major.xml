@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-06-16T03:21:23.935Z</updated>
+    <updated>2023-06-16T04:23:38.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中해커, 보안 취약점 노려 미국·APJ 국방·통신 공격]]></title>
+        <id>https://v.daum.net/v/20230616105608691</id>
+        <link href="https://v.daum.net/v/20230616105608691"/>
+        <updated>2023-06-16T04:22:45.348Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[과학을읽다]제왕절개 아이가 이 시술 받아야 하는 이유]]></title>
         <id>https://v.daum.net/v/20230616105500649</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230616050151247"/>
         <updated>2023-06-16T01:41:24.050Z</updated>
         <content type="html"><![CDATA[농민신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["AI 가짜뉴스 때문에 손해 막심"…증권사들 아우성]]></title>
-        <id>https://v.daum.net/v/20230616080402690</id>
-        <link href="https://v.daum.net/v/20230616080402690"/>
-        <updated>2023-06-16T01:41:24.051Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>

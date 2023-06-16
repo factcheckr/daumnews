@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-06-16T03:21:23.953Z</updated>
+    <updated>2023-06-16T04:23:38.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[낭만닥터·사냥개들 죄다 무료...'누누티비 시즌2' 열렸다]]></title>
+        <id>https://v.daum.net/v/20230616131759619</id>
+        <link href="https://v.daum.net/v/20230616131759619"/>
+        <updated>2023-06-16T04:22:32.998Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["여의도 BTS 10주년 페스타, 통신 걱정 마세요"…중계기 증설 대비]]></title>
         <id>https://v.daum.net/v/20230616121107622</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230616094104523"/>
         <updated>2023-06-16T02:48:23.536Z</updated>
         <content type="html"><![CDATA[더스쿠프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中해커, 보안 취약점 노려 미국·APJ 국방·통신 공격]]></title>
-        <id>https://v.daum.net/v/20230616105608691</id>
-        <link href="https://v.daum.net/v/20230616105608691"/>
-        <updated>2023-06-16T02:48:23.536Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
