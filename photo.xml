@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-06-16T19:16:34.515Z</updated>
+    <updated>2023-06-16T20:20:02.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한 발사체 잔해 인양]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/FiL52eS4H6</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/FiL52eS4H6"/>
+        <updated>2023-06-16T20:19:29.966Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로드킬로 단짝 잃은 검둥개 시루의 사연 [개st하우스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5620471/bEgYOG6hd6</id>
@@ -98,17 +105,17 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[도쿄서 세계 최대 규모 '해리포터 테마파크' 개장]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1407/zt9TpY8CBf</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1407/zt9TpY8CBf"/>
-        <updated>2023-06-16T09:19:13.955Z</updated>
-        <content type="html"><![CDATA[일본은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도쿄서 세계 최대 규모 '해리포터 테마파크' 개장]]></title>
         <id>https://gallery.v.daum.net/p/viewer/2329/zt9TpY8CBf</id>
         <link href="https://gallery.v.daum.net/p/viewer/2329/zt9TpY8CBf"/>
         <updated>2023-06-16T09:19:13.953Z</updated>
         <content type="html"><![CDATA[영국은 지금]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도쿄서 세계 최대 규모 '해리포터 테마파크' 개장]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1407/zt9TpY8CBf</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1407/zt9TpY8CBf"/>
+        <updated>2023-06-16T09:19:13.955Z</updated>
+        <content type="html"><![CDATA[일본은 지금]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[적막한 북녁 [쿠키포토]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/661278/pmivTwpav9"/>
         <updated>2023-06-16T08:23:15.510Z</updated>
         <content type="html"><![CDATA[정동길 옆 사진관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["그땐 이거 먹기도 힘들었지" 6·25음식 체험]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1137876/KK3AmgHR9f</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1137876/KK3AmgHR9f"/>
-        <updated>2023-06-16T08:23:15.512Z</updated>
-        <content type="html"><![CDATA[뉴시스 앵글]]></content>
     </entry>
 </feed>
