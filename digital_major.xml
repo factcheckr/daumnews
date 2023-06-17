@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-06-17T03:20:44.809Z</updated>
+    <updated>2023-06-17T04:22:08.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플, 메타버스를 공간 컴퓨팅으로 재정의하다[테크트렌드]]]></title>
+        <id>https://v.daum.net/v/20230617060302545</id>
+        <link href="https://v.daum.net/v/20230617060302545"/>
+        <updated>2023-06-17T04:21:30.588Z</updated>
+        <content type="html"><![CDATA[한경비즈니스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내일 새벽 동쪽 하늘을 보라…5개 행성이 정렬한다]]></title>
         <id>https://v.daum.net/v/20230617091159407</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230617082934969"/>
         <updated>2023-06-17T01:29:48.832Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화려한 인공조명 빛공해에 생존 위협받는 동물들]]></title>
-        <id>https://v.daum.net/v/20230617082753952</id>
-        <link href="https://v.daum.net/v/20230617082753952"/>
-        <updated>2023-06-17T01:29:48.833Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
