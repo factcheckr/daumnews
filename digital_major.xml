@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-06-18T04:22:18.200Z</updated>
+    <updated>2023-06-18T05:18:35.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[태평양 건너 LA에서 출퇴근?…내년 여름 ‘마하7’ 비행기 뜬다]]></title>
+        <id>https://v.daum.net/v/20230618090159901</id>
+        <link href="https://v.daum.net/v/20230618090159901"/>
+        <updated>2023-06-18T05:18:05.056Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3만 원 데이터 무제한에 중간요금제도…'알뜰폰 5G 시대' 열릴까]]></title>
         <id>https://v.daum.net/v/20230618090109884</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230618065020852"/>
         <updated>2023-06-18T01:53:59.455Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“1400만 쓰는 알뜰폰, 나도 써볼까”… 통신비 아끼는 3가지 꿀팁]]></title>
-        <id>https://v.daum.net/v/20230618060046476</id>
-        <link href="https://v.daum.net/v/20230618060046476"/>
-        <updated>2023-06-18T01:53:59.458Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
