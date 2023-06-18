@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-06-18T13:21:30.109Z</updated>
+    <updated>2023-06-18T14:17:02.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정치톡톡] 범죄자 신상공개 / '수능 발언' 공방 / "범죄자에 면죄부" / 여야대표 연설]]></title>
+        <id>https://v.daum.net/v/20230618195802512</id>
+        <link href="https://v.daum.net/v/20230618195802512"/>
+        <updated>2023-06-18T14:15:02.461Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장경태, 무릎보호대 논란에…"발작 포함 풀영상 공유"]]></title>
         <id>https://v.daum.net/v/20230618215602714</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230618203505990"/>
         <updated>2023-06-18T12:31:22.939Z</updated>
         <content type="html"><![CDATA[경기일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대표 취임 1년 맞는 이재명…친명·비명간 주도권 어디로?]]></title>
-        <id>https://v.daum.net/v/20230618211608426</id>
-        <link href="https://v.daum.net/v/20230618211608426"/>
-        <updated>2023-06-18T12:31:22.939Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
 </feed>
