@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-06-18T19:15:46.475Z</updated>
+    <updated>2023-06-18T20:19:52.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사우디와 그 앙숙, 화해시킨 中…다급한 美, 이스라엘 데려왔다]]></title>
+        <id>https://v.daum.net/v/20230619050220510</id>
+        <link href="https://v.daum.net/v/20230619050220510"/>
+        <updated>2023-06-18T20:18:26.642Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“젊음 바쳐 지켜낸 한국, 번영 일궈내 고맙다”]]></title>
         <id>https://v.daum.net/v/20230619033908078</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230619031000022"/>
         <updated>2023-06-18T18:24:12.046Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젤렌스키도 푸틴도, 아프리카 정상들의 종전 요청 거부]]></title>
-        <id>https://v.daum.net/v/20230619030257927</id>
-        <link href="https://v.daum.net/v/20230619030257927"/>
-        <updated>2023-06-18T18:24:12.049Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
