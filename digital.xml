@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-06-18T07:17:33.931Z</updated>
+    <updated>2023-06-18T08:22:30.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“챗봇이 다음 팬데믹 만들 수 있다”… 과학계, AI 악용 우려 지속]]></title>
+        <id>https://v.daum.net/v/20230618165807291</id>
+        <link href="https://v.daum.net/v/20230618165807291"/>
+        <updated>2023-06-18T08:21:48.875Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[생성형 AI가 연 판도라 상자 … "가짜가 세상을 흔든다"]]></title>
         <id>https://v.daum.net/v/20230618155700352</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230618145107158"/>
         <updated>2023-06-18T06:22:59.234Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부 '강력 대응' 선언에도…미동 없는 '누누티비 시즌2' [정지은의 산업노트]]]></title>
-        <id>https://v.daum.net/v/20230618144306972</id>
-        <link href="https://v.daum.net/v/20230618144306972"/>
-        <updated>2023-06-18T06:22:59.238Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
