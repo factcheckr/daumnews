@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-06-19T21:17:45.338Z</updated>
+    <updated>2023-06-19T22:18:41.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자율주행·퍼스널모빌리티 등 그물망처럼 교통이 연결되는 日우븐시티]]></title>
+        <id>https://v.daum.net/v/20230620041504677</id>
+        <link href="https://v.daum.net/v/20230620041504677"/>
+        <updated>2023-06-19T22:18:12.039Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생생함·개성 살려… 메타버스, 다시 달릴까]]></title>
+        <id>https://v.daum.net/v/20230620050310000</id>
+        <link href="https://v.daum.net/v/20230620050310000"/>
+        <updated>2023-06-19T22:18:12.040Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[칩 설계 능력만 보면, 엔비디아 제쳤다…AI 반도체 다음 스타는]]></title>
         <id>https://v.daum.net/v/20230620050037891</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230619193908840"/>
         <updated>2023-06-19T20:20:23.237Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“접는 아이폰보다 이게 먼저 나오나?” 애플 ‘비장의 무기’ 보니]]></title>
-        <id>https://v.daum.net/v/20230619184943936</id>
-        <link href="https://v.daum.net/v/20230619184943936"/>
-        <updated>2023-06-19T20:20:23.245Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이미지에 딱맞는 언어 만들려면… 환각 줄이고 맥락 파악해야" [LG '캡셔닝 AI' 최초 공개]]]></title>
-        <id>https://v.daum.net/v/20230619192542550</id>
-        <link href="https://v.daum.net/v/20230619192542550"/>
-        <updated>2023-06-19T21:17:14.896Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-06-19T21:17:45.352Z</updated>
+    <updated>2023-06-19T22:18:41.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브루노 마스, 결코 관객을 외롭게 내버려 두지 않았다]]></title>
+        <id>https://v.daum.net/v/20230620055602309</id>
+        <link href="https://v.daum.net/v/20230620055602309"/>
+        <updated>2023-06-19T22:17:55.162Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["연극도 럭셔리해야…관객이 알아서 찾는 서울시극단 만들 것"]]></title>
         <id>https://v.daum.net/v/20230620055010279</id>
@@ -13,25 +20,11 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대체로 흐리고 수도권 곳곳 비…낮 최고 29도]]></title>
-        <id>https://v.daum.net/v/20230620053115165</id>
-        <link href="https://v.daum.net/v/20230620053115165"/>
-        <updated>2023-06-19T21:16:58.162Z</updated>
-        <content type="html"><![CDATA[경기일보]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[그리스·로마는 한묶음?…따로 또 같이 꽃피운 예술]]></title>
         <id>https://v.daum.net/v/20230620053030160</id>
         <link href="https://v.daum.net/v/20230620053030160"/>
         <updated>2023-06-19T21:16:58.167Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FDA 승인 유력 신약들, 5년 후 최고 매출 기록할 약은?]]></title>
-        <id>https://v.daum.net/v/20230620053015147</id>
-        <link href="https://v.daum.net/v/20230620053015147"/>
-        <updated>2023-06-19T21:16:58.169Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[급성심근경색 5년새 20% 증가…땀뻘뻘 여름철 '빨간불']]></title>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230620030430317"/>
         <updated>2023-06-19T21:16:58.176Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왕로·팔선·007… 대구 독자 도창종씨의 ‘1950~60년대 소주’]]></title>
+        <id>https://v.daum.net/v/20230620030343274</id>
+        <link href="https://v.daum.net/v/20230620030343274"/>
+        <updated>2023-06-19T22:17:55.177Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
