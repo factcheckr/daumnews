@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-06-19T02:46:30.174Z</updated>
+    <updated>2023-06-19T03:20:49.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2만5000명 의료·바이오 빅데이터 열렸다]]></title>
+        <id>https://v.daum.net/v/20230619120618355</id>
+        <link href="https://v.daum.net/v/20230619120618355"/>
+        <updated>2023-06-19T03:20:06.691Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["욕하면 거릅니다"…KISO 욕설 필터링 인터페이스 공개]]></title>
+        <id>https://v.daum.net/v/20230619114216554</id>
+        <link href="https://v.daum.net/v/20230619114216554"/>
+        <updated>2023-06-19T03:20:06.691Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["디자인 대박, 이참에 갈아탈까?"…'갤플립'에 흔들린 애플빠 [김익환의 컴퍼니워치]]]></title>
         <id>https://v.daum.net/v/20230619110304727</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230619110328756"/>
         <updated>2023-06-19T02:45:46.485Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불법 스트리밍 '누누티비 시즌2' 폐쇄…진짜 이유 따로 있다 [정지은의 산업노트]]]></title>
-        <id>https://v.daum.net/v/20230619103502474</id>
-        <link href="https://v.daum.net/v/20230619103502474"/>
-        <updated>2023-06-19T02:45:46.487Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사진을 문장으로 자동 설명…LG 야심작 '캡셔닝 AI' 내놨다]]></title>
-        <id>https://v.daum.net/v/20230619103701566</id>
-        <link href="https://v.daum.net/v/20230619103701566"/>
-        <updated>2023-06-19T01:41:10.666Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
