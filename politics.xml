@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-06-19T13:23:34.320Z</updated>
+    <updated>2023-06-19T14:19:22.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] ‘에디슨모터스 주가조작 가담’ 일당 4명 전원 구속]]></title>
+        <id>https://v.daum.net/v/20230619230600076</id>
+        <link href="https://v.daum.net/v/20230619230600076"/>
+        <updated>2023-06-19T14:17:11.487Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남은 '백현동·정자동·대북송금 사건'..검찰, 이 대표 영장 칠까?]]></title>
         <id>https://v.daum.net/v/20230619220302690</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230619211349187"/>
         <updated>2023-06-19T12:35:36.939Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박성태의 다시보기] 개인과 공인은 다릅니다]]></title>
-        <id>https://v.daum.net/v/20230619210707125</id>
-        <link href="https://v.daum.net/v/20230619210707125"/>
-        <updated>2023-06-19T12:35:36.940Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
