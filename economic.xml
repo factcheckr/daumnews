@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-06-20T15:19:47.040Z</updated>
+    <updated>2023-06-20T16:24:17.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정부 효율성 계속 하락, 국가경쟁력 순위 떨어뜨렸다]]></title>
+        <id>https://v.daum.net/v/20230621002235952</id>
+        <link href="https://v.daum.net/v/20230621002235952"/>
+        <updated>2023-06-20T16:22:32.521Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하루 20억 날리고 헛구역질… ‘99승1패’도 다 잃는 게임 [이슈&탐사]]]></title>
         <id>https://v.daum.net/v/20230621000411734</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230620215501423"/>
         <updated>2023-06-20T14:17:05.871Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'2010년산 소금' 150만원에 팝니다"…선넘은 '솔트테크']]></title>
-        <id>https://v.daum.net/v/20230620220102577</id>
-        <link href="https://v.daum.net/v/20230620220102577"/>
-        <updated>2023-06-20T14:17:05.873Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
