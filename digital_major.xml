@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-06-20T10:21:36.944Z</updated>
+    <updated>2023-06-20T11:16:21.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[당신이 게임쇼에서 놓친 흥미로운 게임 3가지]]></title>
+        <id>https://v.daum.net/v/20230620174503507</id>
+        <link href="https://v.daum.net/v/20230620174503507"/>
+        <updated>2023-06-20T11:15:50.957Z</updated>
+        <content type="html"><![CDATA[게임동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]김광섭 카카오브레인 CTO 퇴사…리더십 재편 방향은]]></title>
         <id>https://v.daum.net/v/20230620165612846</id>
@@ -18,13 +25,6 @@
         <link href="https://v.daum.net/v/20230620161903252"/>
         <updated>2023-06-20T09:18:31.188Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[점유율 반등 성공할까...삼성 '갤럭시워치6'에 쏠린 눈]]></title>
-        <id>https://v.daum.net/v/20230620121615903</id>
-        <link href="https://v.daum.net/v/20230620121615903"/>
-        <updated>2023-06-20T09:18:31.189Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[다크웹서 '챗GPT'로 악성코드 연구…"하반기 보안위협 본격화"]]></title>
@@ -62,17 +62,17 @@
         <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["내폰은 내가 수리" 호평 쏟아진 삼성 '자가 수리'..유럽까지 확장 [글로벌 IT슈]]]></title>
-        <id>https://v.daum.net/v/20230620151749398</id>
-        <link href="https://v.daum.net/v/20230620151749398"/>
-        <updated>2023-06-20T07:18:09.992Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[알뜰폰 크자 견제 나선 통신 3사… 영업 보조금 축소에 ‘통신망 사용료’ 협상 불이익 우려]]></title>
         <id>https://v.daum.net/v/20230620151323232</id>
         <link href="https://v.daum.net/v/20230620151323232"/>
         <updated>2023-06-20T07:18:09.992Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["北 정찰총국 연계 해킹 고도화로 관련 피해 증가할 것"]]></title>
+        <id>https://v.daum.net/v/20230620144755228</id>
+        <link href="https://v.daum.net/v/20230620144755228"/>
+        <updated>2023-06-20T11:15:50.968Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

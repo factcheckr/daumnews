@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-06-20T10:21:36.939Z</updated>
+    <updated>2023-06-20T11:16:21.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“해도해도 너무하네” 회사는 적자인데 연봉만 100억 챙긴 대표]]></title>
+        <id>https://v.daum.net/v/20230620195136515</id>
+        <link href="https://v.daum.net/v/20230620195136515"/>
+        <updated>2023-06-20T11:15:43.136Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["두 번 바꿨더니 통신비 공짜"...'메뚜기족' 최대]]></title>
         <id>https://v.daum.net/v/20230620190019518</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230620154502595"/>
         <updated>2023-06-20T09:18:23.283Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신이 게임쇼에서 놓친 흥미로운 게임 3가지]]></title>
-        <id>https://v.daum.net/v/20230620174503507</id>
-        <link href="https://v.daum.net/v/20230620174503507"/>
-        <updated>2023-06-20T09:18:23.287Z</updated>
-        <content type="html"><![CDATA[게임동아]]></content>
     </entry>
 </feed>
