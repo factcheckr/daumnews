@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-06-20T07:18:43.811Z</updated>
+    <updated>2023-06-20T08:23:39.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]김광섭 카카오브레인 CTO 퇴사…리더십 재편 방향은]]></title>
+        <id>https://v.daum.net/v/20230620165612846</id>
+        <link href="https://v.daum.net/v/20230620165612846"/>
+        <updated>2023-06-20T08:22:55.386Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후쿠시마 오염수 재정화 ‘단 1회’…문제 제기 안 하는 한국 정부]]></title>
+        <id>https://v.daum.net/v/20230620161903252</id>
+        <link href="https://v.daum.net/v/20230620161903252"/>
+        <updated>2023-06-20T08:22:55.388Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[점유율 반등 성공할까...삼성 '갤럭시워치6'에 쏠린 눈]]></title>
         <id>https://v.daum.net/v/20230620121615903</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230620155101878"/>
         <updated>2023-06-20T07:18:01.898Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“공공교통 요금 인상하려는 서울시에 시민공청회 청구”]]></title>
-        <id>https://v.daum.net/v/20230620154026363</id>
-        <link href="https://v.daum.net/v/20230620154026363"/>
-        <updated>2023-06-20T07:18:01.899Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美中 관계 진일보...경제 갈등 줄어들까]]></title>
-        <id>https://v.daum.net/v/20230620141026877</id>
-        <link href="https://v.daum.net/v/20230620141026877"/>
-        <updated>2023-06-20T07:18:01.899Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
