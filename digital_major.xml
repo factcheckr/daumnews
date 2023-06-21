@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-06-21T12:38:11.794Z</updated>
+    <updated>2023-06-21T13:23:05.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플페이(NFC) 이어 QR결제 온다]]></title>
-        <id>https://v.daum.net/v/20230621144904640</id>
-        <link href="https://v.daum.net/v/20230621144904640"/>
-        <updated>2023-06-21T11:16:13.971Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[난개발에 ‘몸살’ 앓는 전북···“석산 주변 환경오염·건강 영향 조사해야”]]></title>
         <id>https://v.daum.net/v/20230621173710557</id>
         <link href="https://v.daum.net/v/20230621173710557"/>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230621171050710"/>
         <updated>2023-06-21T09:20:25.782Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그랩도 구조조정…직원 11% 감원한다]]></title>
+        <id>https://v.daum.net/v/20230621170915664</id>
+        <link href="https://v.daum.net/v/20230621170915664"/>
+        <updated>2023-06-21T13:22:34.142Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
