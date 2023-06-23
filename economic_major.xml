@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-06-23T14:19:23.822Z</updated>
+    <updated>2023-06-23T15:24:39.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘농약도 알아서 뿌려요’…밭에도 스마트팜]]></title>
+        <id>https://v.daum.net/v/20230623214951509</id>
+        <link href="https://v.daum.net/v/20230623214951509"/>
+        <updated>2023-06-23T15:23:01.968Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새 과기정책 ‘임무중심 R&D’…“산업화까지 책임”]]></title>
         <id>https://v.daum.net/v/20230623220119695</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230623192916223"/>
         <updated>2023-06-23T13:30:05.850Z</updated>
         <content type="html"><![CDATA[채널A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 국세청 “기업들 다 모이세요”…다급하게 부르더니 한 말은]]></title>
-        <id>https://v.daum.net/v/20230623202100080</id>
-        <link href="https://v.daum.net/v/20230623202100080"/>
-        <updated>2023-06-23T12:38:01.155Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
