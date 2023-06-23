@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-06-23T13:31:38.397Z</updated>
+    <updated>2023-06-23T14:19:23.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230623184502384"/>
         <updated>2023-06-23T10:23:15.177Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 가상자산 시장, 전통 금융사 중심으로 재편되나]]></title>
+        <id>https://v.daum.net/v/20230623171412014</id>
+        <link href="https://v.daum.net/v/20230623171412014"/>
+        <updated>2023-06-23T14:18:50.231Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[T커머스, 규제완화 두고 홈쇼핑과 갈등 심화]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230623155532527"/>
         <updated>2023-06-23T12:39:02.034Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[양자 시대를 묻다] "양자 전략적 중요성···지속 연구 통한 자체 기술력 필요"]]></title>
-        <id>https://v.daum.net/v/20230623154840274</id>
-        <link href="https://v.daum.net/v/20230623154840274"/>
-        <updated>2023-06-23T12:39:02.038Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
