@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-06-23T11:18:33.847Z</updated>
+    <updated>2023-06-23T12:39:38.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국 그랜드래피즈시 강남구 방문]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1476/6REqAfQScm</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1476/6REqAfQScm"/>
+        <updated>2023-06-23T12:39:10.393Z</updated>
+        <content type="html"><![CDATA[미국은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['금융협정 정상회의' 폐회식서 발언하는 마크롱]]></title>
         <id>https://gallery.v.daum.net/p/viewer/2904/U2amn2Eu3D</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5572743/8hEdCVD7Sw"/>
         <updated>2023-06-23T06:27:19.064Z</updated>
         <content type="html"><![CDATA[여름 전력수요 급증]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빗물받이에 담배꽁초]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5610796/BcnTaFdYzn</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5610796/BcnTaFdYzn"/>
-        <updated>2023-06-23T06:27:19.066Z</updated>
-        <content type="html"><![CDATA[모멘트]]></content>
     </entry>
 </feed>
