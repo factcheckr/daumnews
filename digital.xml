@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-06-23T03:04:24.703Z</updated>
+    <updated>2023-06-23T04:25:46.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[저평가 받던 '언더독', 엔비디아의 제왕 도전기 [視리즈]]]></title>
+        <id>https://v.daum.net/v/20230623123501309</id>
+        <link href="https://v.daum.net/v/20230623123501309"/>
+        <updated>2023-06-23T04:25:00.621Z</updated>
+        <content type="html"><![CDATA[더스쿠프]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘만병통치약’ 아스피린? 잘못 복용하면 빈혈 생긴다 [달콤한 사이언스]]]></title>
         <id>https://v.daum.net/v/20230623112102910</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230623110512207"/>
         <updated>2023-06-23T03:03:38.311Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["애플 헤드셋 쓰고, 바로 문자 번역하고 정보 얻는다"]]></title>
-        <id>https://v.daum.net/v/20230623105401779</id>
-        <link href="https://v.daum.net/v/20230623105401779"/>
-        <updated>2023-06-23T03:03:38.311Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
