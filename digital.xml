@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-06-23T19:18:36.679Z</updated>
+    <updated>2023-06-23T20:22:35.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인구정책기획단은 컨트롤타워?→'지휘 본부'[우리말로 하자⑧]]]></title>
+        <id>https://v.daum.net/v/20230624050014601</id>
+        <link href="https://v.daum.net/v/20230624050014601"/>
+        <updated>2023-06-23T20:21:55.996Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글, 메타, 그리고 G7… 개인정보 수장들 서울에 모였다]]></title>
         <id>https://v.daum.net/v/20230623182006856</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230623182808060"/>
         <updated>2023-06-23T10:23:06.218Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시련의 아마존…인플레·제재·라이벌 '삼중고']]></title>
-        <id>https://v.daum.net/v/20230623175306036</id>
-        <link href="https://v.daum.net/v/20230623175306036"/>
-        <updated>2023-06-23T09:21:11.564Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
