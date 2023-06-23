@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-06-23T18:25:02.905Z</updated>
+    <updated>2023-06-23T19:18:36.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장유정 “뮤지컬은 친정… 이르면 내년 신작 선보일 것”]]></title>
+        <id>https://v.daum.net/v/20230624041013482</id>
+        <link href="https://v.daum.net/v/20230624041013482"/>
+        <updated>2023-06-23T19:17:42.093Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국과 프랑스가 처음 만나 건배한 ‘샴페인의 섬’[전승훈 기자의 아트로드]]]></title>
         <id>https://v.daum.net/v/20230624030041253</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230624000125702"/>
         <updated>2023-06-23T15:23:32.466Z</updated>
         <content type="html"><![CDATA[농민신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태화강마두희축제 개막…“남녀노소 모두 즐겨요”]]></title>
-        <id>https://v.daum.net/v/20230623233359530</id>
-        <link href="https://v.daum.net/v/20230623233359530"/>
-        <updated>2023-06-23T15:23:32.467Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

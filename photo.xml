@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-06-23T18:25:02.916Z</updated>
+    <updated>2023-06-23T19:18:36.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아빠와의 시간]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/U51fBFujiY</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/U51fBFujiY"/>
+        <updated>2023-06-23T19:18:12.564Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리가 기억해야 할 이름]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1573204/766LAK4IUR</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/661278/VVqiwdv8vk"/>
         <updated>2023-06-23T07:23:30.874Z</updated>
         <content type="html"><![CDATA[정동길 옆 사진관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보이지 않는 곳… 박탈 당한 ‘안전’의 권리 “이들은 언제쯤 ‘좋은 옷’을 입을 수 있을까”[금주의 B컷]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/243854/Yx8AdbA0vg</id>
-        <link href="https://gallery.v.daum.net/p/viewer/243854/Yx8AdbA0vg"/>
-        <updated>2023-06-23T08:28:50.892Z</updated>
-        <content type="html"><![CDATA[금주의 B컷]]></content>
     </entry>
 </feed>
