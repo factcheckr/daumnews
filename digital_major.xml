@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-06-24T06:26:28.859Z</updated>
+    <updated>2023-06-24T07:19:51.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[게임위드인] 작품성 돋보이는 서브컬처 RPG 네오위즈 '브라운더스트2']]></title>
+        <id>https://v.daum.net/v/20230624110336029</id>
+        <link href="https://v.daum.net/v/20230624110336029"/>
+        <updated>2023-06-24T07:19:16.858Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[애플 쇼크웨이브](19)"디아블로4가 맥북에서 돌아가다니!"]]></title>
         <id>https://v.daum.net/v/20230624105553890</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230624090511722"/>
         <updated>2023-06-24T01:49:33.240Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["의대 쏠림? 반도체 인재 1000명에 연봉 3억씩 주자"]]></title>
-        <id>https://v.daum.net/v/20230624090027631</id>
-        <link href="https://v.daum.net/v/20230624090027631"/>
-        <updated>2023-06-24T01:49:33.241Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
