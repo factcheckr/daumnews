@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-06-25T08:25:20.846Z</updated>
+    <updated>2023-06-25T09:20:10.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ET시선]기술 유출과 중국 진출]]></title>
+        <id>https://v.daum.net/v/20230625154205650</id>
+        <link href="https://v.daum.net/v/20230625154205650"/>
+        <updated>2023-06-25T09:19:41.573Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기후 재난 ‘적응’하지 못한 사회, 재난 이후에도 ‘회복’은 요원[기후적응①]]]></title>
+        <id>https://v.daum.net/v/20230625152827386</id>
+        <link href="https://v.daum.net/v/20230625152827386"/>
+        <updated>2023-06-25T09:19:41.574Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메이플스토리 "비매너 스틸하면 영정당할 수도 있습니다"]]></title>
         <id>https://v.daum.net/v/20230625150143900</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230625120013687"/>
         <updated>2023-06-25T07:19:35.762Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블록체인 NFT 게임 컨퍼런스 주목… 삼성, 美서 파운드리 포럼 개최]]></title>
-        <id>https://v.daum.net/v/20230625111454917</id>
-        <link href="https://v.daum.net/v/20230625111454917"/>
-        <updated>2023-06-25T07:19:35.765Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“바보같은 답변, 상식이 없다”...환각에 빠졌다는 이 녀석들, 이유는 [사이언스라운지]]]></title>
-        <id>https://v.daum.net/v/20230625104507387</id>
-        <link href="https://v.daum.net/v/20230625104507387"/>
-        <updated>2023-06-25T05:20:50.748Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
