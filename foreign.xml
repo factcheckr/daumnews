@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-06-25T16:26:32.896Z</updated>
+    <updated>2023-06-25T17:19:14.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[과테말라 대선 투표…후보 22명 난립 속 8월20일 결선투표 전망]]></title>
+        <id>https://v.daum.net/v/20230626014733798</id>
+        <link href="https://v.daum.net/v/20230626014733798"/>
+        <updated>2023-06-25T17:17:55.916Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中이 생화학 무기로 개발하다 유출? 드러나는 코로나 기원 진실 [최유식의 온차이나]]]></title>
         <id>https://v.daum.net/v/20230626000032360</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230626001003550"/>
         <updated>2023-06-25T15:20:09.982Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 강준영 "한중 갈등의 본질은 북한…지금 분위기 기회 삼아야"]]></title>
-        <id>https://v.daum.net/v/20230626000043367</id>
-        <link href="https://v.daum.net/v/20230626000043367"/>
-        <updated>2023-06-25T15:20:09.984Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
