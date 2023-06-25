@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-06-25T15:21:37.491Z</updated>
+    <updated>2023-06-25T16:26:32.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20230626000626525"/>
         <updated>2023-06-25T15:20:00.074Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16년 걸린 갤·아이폰 충전단자 통일…전기차 쉽게 '코드' 맞출까]]></title>
+        <id>https://v.daum.net/v/20230626000045368</id>
+        <link href="https://v.daum.net/v/20230626000045368"/>
+        <updated>2023-06-25T16:25:13.079Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전환 AI시대②] 반도체부터 초거대 AI까지…촘촘해지는 K-AI 생태계]]></title>
+        <id>https://v.daum.net/v/20230626000029358</id>
+        <link href="https://v.daum.net/v/20230626000029358"/>
+        <updated>2023-06-25T16:25:13.079Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자금줄 궁해진 美 기업들…"회사채 담보 늘리고 만기는 줄이고"]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230625200356732"/>
         <updated>2023-06-25T14:17:54.302Z</updated>
         <content type="html"><![CDATA[채널A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[야쿠르트 배달 · 정수기 점검 뛰어든 MZ 세대…왜?]]></title>
-        <id>https://v.daum.net/v/20230625204824169</id>
-        <link href="https://v.daum.net/v/20230625204824169"/>
-        <updated>2023-06-25T14:17:54.304Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["직장을 잃어서요"…학자금 상환 유예 4년 새 '2배']]></title>
-        <id>https://v.daum.net/v/20230625203604066</id>
-        <link href="https://v.daum.net/v/20230625203604066"/>
-        <updated>2023-06-25T13:26:06.318Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
