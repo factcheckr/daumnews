@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-06-26T17:19:29.634Z</updated>
+    <updated>2023-06-26T18:26:41.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방통위 개점휴업에···갤S23 불법보조금 기승]]></title>
+        <id>https://v.daum.net/v/20230626181217766</id>
+        <link href="https://v.daum.net/v/20230626181217766"/>
+        <updated>2023-06-26T18:26:02.010Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["IPTV, 수신료 대비 방송채널 사용료 비중 늘려야"]]></title>
         <id>https://v.daum.net/v/20230626171203795</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230626163646530"/>
         <updated>2023-06-26T12:39:42.821Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노벨물리학상 수상자 "정치인들, 잘못된 과학정보 만들어내"]]></title>
-        <id>https://v.daum.net/v/20230626161437636</id>
-        <link href="https://v.daum.net/v/20230626161437636"/>
-        <updated>2023-06-26T15:20:43.984Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
