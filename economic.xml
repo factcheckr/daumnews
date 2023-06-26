@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-06-26T15:21:20.695Z</updated>
+    <updated>2023-06-26T16:27:19.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“먹는 위고비 기대했는데”…화이자, 1일 1회 복용 비만 치료제 개발 중단]]></title>
+        <id>https://v.daum.net/v/20230627002226973</id>
+        <link href="https://v.daum.net/v/20230627002226973"/>
+        <updated>2023-06-26T16:25:50.332Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["벌떼 입찰 원천봉쇄"...국토부, 10년 전까지 전수조사]]></title>
         <id>https://v.daum.net/v/20230627001006922</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230626232227406"/>
         <updated>2023-06-26T15:19:37.261Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3년 전 주가 ‘네카오’…명예 회복은 언제쯤]]></title>
-        <id>https://v.daum.net/v/20230626220900981</id>
-        <link href="https://v.daum.net/v/20230626220900981"/>
-        <updated>2023-06-26T13:28:42.665Z</updated>
-        <content type="html"><![CDATA[매경이코노미]]></content>
     </entry>
 </feed>
