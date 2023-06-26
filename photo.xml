@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-06-26T14:22:30.104Z</updated>
+    <updated>2023-06-26T15:21:20.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비보이 꿈나무]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/0cmOJSYxrE</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/0cmOJSYxrE"/>
+        <updated>2023-06-26T15:20:51.410Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U-17 축구대표팀, 태국 꺾고 아시안컵 4강행…월드컵 본선 티켓도 확보[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/6RISNHtnW3</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/382/fxHKlPeWUO"/>
         <updated>2023-06-26T05:25:04.864Z</updated>
         <content type="html"><![CDATA[중국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["만두 튀기다가" 부천 아파트서 불‥주민 37명 대피]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1518/WeAkZcrqLx</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1518/WeAkZcrqLx"/>
-        <updated>2023-06-26T04:27:56.116Z</updated>
-        <content type="html"><![CDATA[전국 화재사고]]></content>
     </entry>
 </feed>

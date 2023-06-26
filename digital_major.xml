@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-06-26T14:22:30.014Z</updated>
+    <updated>2023-06-26T15:21:20.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA["IPTV, 수신료 대비 방송채널 사용료 비중 늘려야"]]></title>
-        <id>https://v.daum.net/v/20230626171203795</id>
-        <link href="https://v.daum.net/v/20230626171203795"/>
-        <updated>2023-06-26T13:29:41.284Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[아인슈타인 세계관 깬 노벨상 수상자…韓서 꺼낸 '양자얽힘' 뭐길래(종합)]]></title>
         <id>https://v.daum.net/v/20230626180127412</id>
@@ -41,13 +34,6 @@
         <content type="html"><![CDATA[IT동아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국내 PCB산업  탄소 배출 전략 부재…글로벌 공급망 자리 대만에 내줄 우려 커져]]></title>
-        <id>https://v.daum.net/v/20230626172604267</id>
-        <link href="https://v.daum.net/v/20230626172604267"/>
-        <updated>2023-06-26T09:22:10.177Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI 알파고 꺾은 이세돌이 직접 게임을 만들었다고?]]></title>
         <id>https://v.daum.net/v/20230626171206798</id>
         <link href="https://v.daum.net/v/20230626171206798"/>
@@ -74,5 +60,19 @@
         <link href="https://v.daum.net/v/20230626163646530"/>
         <updated>2023-06-26T12:39:42.821Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노벨물리학상 수상자 "정치인들, 잘못된 과학정보 만들어내"]]></title>
+        <id>https://v.daum.net/v/20230626161437636</id>
+        <link href="https://v.daum.net/v/20230626161437636"/>
+        <updated>2023-06-26T15:20:43.984Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수많은 챗봇AI, 블라인드 평가해보니 … 1위는 챗GPT-4 [미라클레터]]]></title>
+        <id>https://v.daum.net/v/20230626160900370</id>
+        <link href="https://v.daum.net/v/20230626160900370"/>
+        <updated>2023-06-26T15:20:43.985Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
