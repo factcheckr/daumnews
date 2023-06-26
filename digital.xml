@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-06-26T19:18:50.937Z</updated>
+    <updated>2023-06-26T20:26:26.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[울산시, 오늘 '울산 바이오 화학산업 토론회' 개최]]></title>
+        <id>https://v.daum.net/v/20230627050010985</id>
+        <link href="https://v.daum.net/v/20230627050010985"/>
+        <updated>2023-06-26T20:25:29.741Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘갤럭시Z플립5′ 카메라·배터리 획기적 개선]]></title>
         <id>https://v.daum.net/v/20230627030424637</id>
@@ -38,13 +45,6 @@
         <id>https://v.daum.net/v/20230626183740359</id>
         <link href="https://v.daum.net/v/20230626183740359"/>
         <updated>2023-06-26T10:23:42.333Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대기업부터 클라우드·AI 반도체까지…'NPU' 놓고 짝짓기]]></title>
-        <id>https://v.daum.net/v/20230626183222219</id>
-        <link href="https://v.daum.net/v/20230626183222219"/>
-        <updated>2023-06-26T10:23:42.341Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
