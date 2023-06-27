@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-06-27T19:18:20.907Z</updated>
+    <updated>2023-06-27T20:25:23.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘부터 '만 나이' 통일··· 술·담배 구매는 예외]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/zDUfhOS4X8</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/zDUfhOS4X8"/>
+        <updated>2023-06-27T20:24:49.444Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹, 국무회의 주재… “국민만 바라보는 정치” 강조]]></title>
         <id>https://gallery.v.daum.net/p/viewer/321090/9KpK1XFLmE</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5620562/zs3DWWZd0l"/>
         <updated>2023-06-27T08:26:06.327Z</updated>
         <content type="html"><![CDATA[피플in포커스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전남농협, '이민여성농업인' 멘토역량 강화]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5612596/5z5NppqkfA</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5612596/5z5NppqkfA"/>
-        <updated>2023-06-27T07:20:26.937Z</updated>
-        <content type="html"><![CDATA[머니S포토]]></content>
     </entry>
 </feed>
