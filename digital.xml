@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-06-27T22:20:48.470Z</updated>
+    <updated>2023-06-27T23:22:36.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[삼성, “AI 혁명의 시대, 차세대 파운드리는 우리가  앞서간다”]]></title>
+        <title type="html"><![CDATA[삼성, 2나노 양산 로드맵 공개... "TSMC와 경쟁, 2025년부터가 진짜 시작"]]></title>
+        <id>https://v.daum.net/v/20230628072019831</id>
+        <link href="https://v.daum.net/v/20230628072019831"/>
+        <updated>2023-06-27T23:21:47.588Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성 “차세대 파운드리는 우리가  앞서간다”...TSMC에 선전포고]]></title>
         <id>https://v.daum.net/v/20230628071423745</id>
         <link href="https://v.daum.net/v/20230628071423745"/>
         <updated>2023-06-27T22:20:01.302Z</updated>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네이버 '상호주'의 덫…주주반감에 사업동력 반감 우려]]></title>
+        <title type="html"><![CDATA[네이버 '상호주' 놓고 주주반감 우려…사업동력 악영향]]></title>
         <id>https://v.daum.net/v/20230628062002110</id>
         <link href="https://v.daum.net/v/20230628062002110"/>
         <updated>2023-06-27T22:20:01.311Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230628060159826"/>
         <updated>2023-06-27T21:19:50.536Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공공SW 사업 대기업 참여 폭 넒어진다]]></title>
-        <id>https://v.daum.net/v/20230628060041753</id>
-        <link href="https://v.daum.net/v/20230628060041753"/>
-        <updated>2023-06-27T21:19:50.537Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
