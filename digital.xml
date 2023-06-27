@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-06-27T18:27:04.594Z</updated>
+    <updated>2023-06-27T19:18:20.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['신의 한 수' 韓 메모리…"美·中도 못 건드는 기술력이 곧 칼자루"]]></title>
+        <id>https://v.daum.net/v/20230628040903674</id>
+        <link href="https://v.daum.net/v/20230628040903674"/>
+        <updated>2023-06-27T19:17:24.694Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新자동화 혁명… 아마존 제품 4분의 3이 로봇 거친다]]></title>
         <id>https://v.daum.net/v/20230628030406412</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230627181053526"/>
         <updated>2023-06-27T14:19:30.787Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["한국 반도체·IT 경험 살리면 승산···미래 바꿀 양자시대 준비해야"]]></title>
-        <id>https://v.daum.net/v/20230627200518344</id>
-        <link href="https://v.daum.net/v/20230627200518344"/>
-        <updated>2023-06-27T12:40:04.888Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
