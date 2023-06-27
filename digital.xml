@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-06-27T17:24:01.530Z</updated>
+    <updated>2023-06-27T18:27:04.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[新자동화 혁명… 아마존 제품 4분의 3이 로봇 거친다]]></title>
+        <id>https://v.daum.net/v/20230628030406412</id>
+        <link href="https://v.daum.net/v/20230628030406412"/>
+        <updated>2023-06-27T18:26:13.348Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英 박쥐서 사람 감염되는 새 코로나바이러스 발견…동물 거쳐 감염 가능성]]></title>
         <id>https://v.daum.net/v/20230628000138485</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230627200518344"/>
         <updated>2023-06-27T12:40:04.888Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[지금은 기후위기] 해저 영구동토층…지구 가열화로 녹는다?]]></title>
-        <id>https://v.daum.net/v/20230627195411067</id>
-        <link href="https://v.daum.net/v/20230627195411067"/>
-        <updated>2023-06-27T17:23:07.634Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>
