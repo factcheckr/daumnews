@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-06-28T15:24:09.121Z</updated>
+    <updated>2023-06-28T18:26:46.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[“엄마도 알 수 있게”…메타, ‘자녀 관리 기능’ 강화]]></title>
-        <id>https://v.daum.net/v/20230629000304809</id>
-        <link href="https://v.daum.net/v/20230629000304809"/>
-        <updated>2023-06-28T15:23:21.435Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[AI 등장 이후 바둑계의 변화…'알파고 이긴' 이세돌, 이젠 게임까지?｜뉴스룸 뒤 (D)]]></title>
         <id>https://v.daum.net/v/20230628215814494</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20230628190033615"/>
         <updated>2023-06-28T11:18:06.703Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["초거대 AI 시대, 데이터 빈부격차 커진다…이동권 중요"]]></title>
+        <id>https://v.daum.net/v/20230628185524385</id>
+        <link href="https://v.daum.net/v/20230628185524385"/>
+        <updated>2023-06-28T18:25:59.942Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
