@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-06-29T12:40:24.194Z</updated>
+    <updated>2023-06-29T14:21:05.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[호우에 잠긴 예천 저지대]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1783949/UbrmFcrqF3</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1783949/UbrmFcrqF3"/>
+        <updated>2023-06-29T14:20:38.190Z</updated>
+        <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 지하차도서 4중 추돌…2명 중상·4명 경상]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1473/FgfQa7KwB7</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1473/FgfQa7KwB7"/>
+        <updated>2023-06-29T14:20:38.195Z</updated>
+        <content type="html"><![CDATA[교통사고]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘50억 클럽’ 박영수, 구속 심사[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/UGVqO6RyCz</id>
         <link href="https://gallery.v.daum.net/p/viewer/377110/UGVqO6RyCz"/>
         <updated>2023-06-29T12:39:59.060Z</updated>
         <content type="html"><![CDATA[포토뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비에 잠긴 영주 시내 도로]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1783949/8dAICQdY0O</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1783949/8dAICQdY0O"/>
-        <updated>2023-06-29T12:39:59.061Z</updated>
-        <content type="html"><![CDATA[오늘의 한국 풍경]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[강원대 춘천캠퍼스 실험실서 화재…연구원 2도 화상 입고 병원 이송]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5610796/26qRmfQS39"/>
         <updated>2023-06-29T09:24:28.630Z</updated>
         <content type="html"><![CDATA[모멘트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국립세계문자박물관’ 개관식 축사]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5030433/pp6g9hyPuY</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5030433/pp6g9hyPuY"/>
-        <updated>2023-06-29T09:24:28.631Z</updated>
-        <content type="html"><![CDATA[국립중앙박물관]]></content>
     </entry>
 </feed>
