@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-06-30T14:19:05.277Z</updated>
+    <updated>2023-06-30T15:21:26.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앗, 비다!]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/5Bjc27KwD2</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/5Bjc27KwD2"/>
+        <updated>2023-06-30T15:20:51.789Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넘어져도 달려야 해 [오늘의 한 컷]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029633/PsfZ4BVsbA</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5021010/7cEoFpqkuR"/>
         <updated>2023-06-30T05:20:12.280Z</updated>
         <content type="html"><![CDATA[포토 in 월드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴욕 공항서 전용 헬기 내리는 바이든 대통령]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1476/YoMycDOKug</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1476/YoMycDOKug"/>
-        <updated>2023-06-30T03:26:01.448Z</updated>
-        <content type="html"><![CDATA[미국은 지금]]></content>
     </entry>
 </feed>
