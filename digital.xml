@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-01T03:11:41.210Z</updated>
+    <updated>2023-07-01T04:24:56.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“기발하긴한데 이게 가능해?” 앞뒤 모두 화면, 삼성 ‘양면폰’ 출시되나]]></title>
+        <id>https://v.daum.net/v/20230701105037109</id>
+        <link href="https://v.daum.net/v/20230701105037109"/>
+        <updated>2023-07-01T04:24:08.328Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미수금 골치 가스公, 가스위 신설 논의 급물살]]></title>
         <id>https://v.daum.net/v/20230701060139939</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230701093510177"/>
         <updated>2023-07-01T03:10:37.756Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[델리오 희망퇴직…손실 규모는 여전히 비공개]]></title>
-        <id>https://v.daum.net/v/20230701092202048</id>
-        <link href="https://v.daum.net/v/20230701092202048"/>
-        <updated>2023-07-01T03:10:37.757Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>

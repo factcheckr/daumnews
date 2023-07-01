@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-07-01T03:11:41.218Z</updated>
+    <updated>2023-07-01T04:24:56.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이방인 화폭에 담긴 ‘애정 어린 시선’]]></title>
+        <id>https://v.daum.net/v/20230701110501308</id>
+        <link href="https://v.daum.net/v/20230701110501308"/>
+        <updated>2023-07-01T04:23:57.691Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[스프] 뉴진스가 소환한 26년 전, 1998년의 기억들]]></title>
         <id>https://v.daum.net/v/20230701110300284</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230701100232500"/>
         <updated>2023-07-01T03:10:29.025Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[남도의 풍경]백제 불교 최초 도래지(영광 법성포)]]></title>
-        <id>https://v.daum.net/v/20230701100124487</id>
-        <link href="https://v.daum.net/v/20230701100124487"/>
-        <updated>2023-07-01T03:10:29.025Z</updated>
-        <content type="html"><![CDATA[kbc광주방송]]></content>
     </entry>
 </feed>
