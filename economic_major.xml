@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-07-01T09:19:47.206Z</updated>
+    <updated>2023-07-01T10:23:37.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[짐싸는 코인 예치 업체들[이지영의 코인 세상]]]></title>
+        <id>https://v.daum.net/v/20230701170014381</id>
+        <link href="https://v.daum.net/v/20230701170014381"/>
+        <updated>2023-07-01T10:22:19.180Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조합장 성과급 12억에 '기겁'...'삼성 임원이냐'[부동산아토즈]]]></title>
         <id>https://v.daum.net/v/20230701150005275</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230701144500115"/>
         <updated>2023-07-01T09:18:19.141Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["밀가루값 결국 내렸다" 대한제분 1일부터 6.4%↓]]></title>
-        <id>https://v.daum.net/v/20230701141910906</id>
-        <link href="https://v.daum.net/v/20230701141910906"/>
-        <updated>2023-07-01T09:18:19.142Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>
