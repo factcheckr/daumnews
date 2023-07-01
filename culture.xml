@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-07-01T18:24:06.767Z</updated>
+    <updated>2023-07-01T19:17:02.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소래포구 상인들 "꽃게 다리? 없어도 하자아냐, 비난 그만"]]></title>
+        <id>https://v.daum.net/v/20230702040201202</id>
+        <link href="https://v.daum.net/v/20230702040201202"/>
+        <updated>2023-07-01T19:16:05.169Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더 늘어난 펫숍 입양…20%는 반려동물 산다 [개st상식]]]></title>
         <id>https://v.daum.net/v/20230702000513923</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230701203614599"/>
         <updated>2023-07-01T13:23:04.697Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불안장애 치료제가 자살 충동 일으킨다?]]></title>
-        <id>https://v.daum.net/v/20230701192250870</id>
-        <link href="https://v.daum.net/v/20230701192250870"/>
-        <updated>2023-07-01T13:23:04.699Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
