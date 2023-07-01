@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-01T11:17:14.061Z</updated>
+    <updated>2023-07-01T13:24:04.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“동네 배달 아저씨까지 카톡 친구” 30대 주부 피로감 하소연]]></title>
+        <id>https://v.daum.net/v/20230701211942920</id>
+        <link href="https://v.daum.net/v/20230701211942920"/>
+        <updated>2023-07-01T13:23:22.902Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MBC 제3노조 "네이버 알고리즘 조작으로 MBC 신뢰도 1위…어떤 권력자 도입 관여했는지 수사해야"]]></title>
         <id>https://v.daum.net/v/20230701155904831</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230701145445215"/>
         <updated>2023-07-01T06:28:34.801Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 이 기업 실적 발표됐는데 왜 뜬금없이 삼성전자가 ‘신고가’? [위클리반도체]]]></title>
-        <id>https://v.daum.net/v/20230701141800899</id>
-        <link href="https://v.daum.net/v/20230701141800899"/>
-        <updated>2023-07-01T10:22:59.441Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
