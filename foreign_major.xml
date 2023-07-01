@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-07-01T10:23:37.825Z</updated>
+    <updated>2023-07-01T11:17:14.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中, 美·네덜란드의 반도체 추가 제재에 "수출 통제 남용하지 말라"]]></title>
+        <id>https://v.daum.net/v/20230701174959838</id>
+        <link href="https://v.daum.net/v/20230701174959838"/>
+        <updated>2023-07-01T11:16:01.249Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몰도바 공항 총격범은 타지키스탄인…당국, 테러 가능성도 수사]]></title>
         <id>https://v.daum.net/v/20230701174752824</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230701153007519"/>
         <updated>2023-07-01T09:18:37.107Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["北 고체연료 미사일 상당수량 남측 겨눠…총 28개 포대 운용"]]></title>
-        <id>https://v.daum.net/v/20230701150617335</id>
-        <link href="https://v.daum.net/v/20230701150617335"/>
-        <updated>2023-07-01T09:18:37.111Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>

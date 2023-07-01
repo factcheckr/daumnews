@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-07-01T10:23:37.827Z</updated>
+    <updated>2023-07-01T11:17:14.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국 곳곳에도 ‘BTS 성지 순례’…백악관 점령한 아미]]></title>
+        <id>https://v.daum.net/v/20230701194654113</id>
+        <link href="https://v.daum.net/v/20230701194654113"/>
+        <updated>2023-07-01T11:15:53.028Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘기밀 범위 대폭 확대’ 중국 반간첩법 발효…“피해 우려”]]></title>
         <id>https://v.daum.net/v/20230701191204776</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230701175531878"/>
         <updated>2023-07-01T09:18:28.827Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中, 美·네덜란드의 반도체 추가 제재에 "수출 통제 남용하지 말라"]]></title>
-        <id>https://v.daum.net/v/20230701174959838</id>
-        <link href="https://v.daum.net/v/20230701174959838"/>
-        <updated>2023-07-01T09:18:28.830Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
