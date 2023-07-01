@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-07-01T04:24:56.754Z</updated>
+    <updated>2023-07-01T05:19:41.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가격에 놀라고 칼로리에 또 놀란 ‘파이브 가이즈’ [화제의 공간]]]></title>
+        <id>https://v.daum.net/v/20230701113134606</id>
+        <link href="https://v.daum.net/v/20230701113134606"/>
+        <updated>2023-07-01T05:18:58.222Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이방인 화폭에 담긴 ‘애정 어린 시선’]]></title>
         <id>https://v.daum.net/v/20230701110501308</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230701100012441"/>
         <updated>2023-07-01T03:10:29.020Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신비한 상상, 일상적 현실… 회화의 언어로 풀어내다 [박미란의 속닥이는 그림들]]]></title>
-        <id>https://v.daum.net/v/20230701100232500</id>
-        <link href="https://v.daum.net/v/20230701100232500"/>
-        <updated>2023-07-01T03:10:29.025Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
