@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-07-02T20:22:22.972Z</updated>
+    <updated>2023-07-02T21:21:33.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5029578/FcGHO37Amj"/>
         <updated>2023-07-02T15:21:28.512Z</updated>
         <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 광진구 고등학교 교실서 불…“다친 사람 없어”]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1518/yxo94Awzlp</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1518/yxo94Awzlp"/>
+        <updated>2023-07-02T21:21:01.267Z</updated>
+        <content type="html"><![CDATA[전국 화재사고]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대전 교차로서 승용차 가로등 받아… 60대 운전자 부상]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1504/uidM3BVs01"/>
         <updated>2023-07-02T01:58:30.895Z</updated>
         <content type="html"><![CDATA[훈훈한 미담]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐나다 산불 진화 대한민국 해외긴급구호대, 화이팅]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/31583/PG2KaEsb9P</id>
-        <link href="https://gallery.v.daum.net/p/viewer/31583/PG2KaEsb9P"/>
-        <updated>2023-07-02T01:58:30.897Z</updated>
-        <content type="html"><![CDATA[인천공항 풍경]]></content>
     </entry>
 </feed>
