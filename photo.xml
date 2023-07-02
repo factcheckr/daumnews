@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-07-02T19:17:06.506Z</updated>
+    <updated>2023-07-02T20:22:22.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[폭염에 '물 반 사람 반']]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/Ud6cHfQSHj</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/Ud6cHfQSHj"/>
+        <updated>2023-07-02T20:21:55.570Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경찰 총격에 성난 佛… 파리서도 시위]]></title>
         <id>https://gallery.v.daum.net/p/viewer/2904/XmV3tQdYmd</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/31583/PG2KaEsb9P"/>
         <updated>2023-07-02T01:58:30.897Z</updated>
         <content type="html"><![CDATA[인천공항 풍경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['집단주의' 강조하는 북한… "알곡고지 점령"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1489/VidOCyXezL</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1489/VidOCyXezL"/>
-        <updated>2023-07-02T13:23:41.896Z</updated>
-        <content type="html"><![CDATA[북한은 지금]]></content>
     </entry>
 </feed>
