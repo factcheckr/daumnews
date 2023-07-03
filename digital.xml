@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-03T18:25:57.215Z</updated>
+    <updated>2023-07-03T19:18:26.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA["애플 '비전 프로' 출시 첫 해의 생산 목표 절반 이하로 줄여"]]></title>
-        <id>https://v.daum.net/v/20230704015816212</id>
-        <link href="https://v.daum.net/v/20230704015816212"/>
-        <updated>2023-07-03T17:18:08.507Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[WSJ "AI 500번 외친 손정의, 정작 '챗GPT 열풍'서 소외"]]></title>
         <id>https://v.daum.net/v/20230704005028027</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20230703183541782"/>
         <updated>2023-07-03T10:22:02.417Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[취약계층 대상 '비과세 종합저축'…‘비대면 가입’으로 불편 줄인다]]></title>
+        <id>https://v.daum.net/v/20230703180907101</id>
+        <link href="https://v.daum.net/v/20230703180907101"/>
+        <updated>2023-07-03T19:17:30.639Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
