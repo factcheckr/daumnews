@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-07-03T03:01:49.418Z</updated>
+    <updated>2023-07-03T03:31:56.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[레드햇 RHEL 코드 정책 변경, 오픈소스 진영 반발]]></title>
-        <id>https://v.daum.net/v/20230703103457414</id>
-        <link href="https://v.daum.net/v/20230703103457414"/>
-        <updated>2023-07-03T03:01:19.190Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[과학을읽다]神의 기술, 양자컴퓨터…韓 반도체를 주목한다]]></title>
         <id>https://v.daum.net/v/20230703102747011</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230703082848366"/>
         <updated>2023-07-03T01:53:39.174Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔비디아 유일한 공급망…SK하이닉스 '고대역폭메모리' 기대감]]></title>
+        <id>https://v.daum.net/v/20230703081752141</id>
+        <link href="https://v.daum.net/v/20230703081752141"/>
+        <updated>2023-07-03T03:31:28.616Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
