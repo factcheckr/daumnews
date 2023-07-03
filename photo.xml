@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-07-03T17:18:49.207Z</updated>
+    <updated>2023-07-03T18:25:57.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그리스 포세이돈 신전 위 보름달]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1655174/W6y9CVPlEK</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1655174/W6y9CVPlEK"/>
+        <updated>2023-07-03T18:25:26.898Z</updated>
+        <content type="html"><![CDATA[그리스는 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피서 나온 원앙 가족]]></title>
         <id>https://gallery.v.daum.net/p/viewer/2332/V8PkbBVsht</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5610796/Kj5pKDOK3M"/>
         <updated>2023-07-03T09:21:50.608Z</updated>
         <content type="html"><![CDATA[모멘트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요기요 임직원 "사장님들을 응원합니다"[경향포토]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5840100/Qic4MvGMvA</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5840100/Qic4MvGMvA"/>
-        <updated>2023-07-03T09:21:50.608Z</updated>
-        <content type="html"><![CDATA[경향포토]]></content>
     </entry>
 </feed>
