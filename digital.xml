@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-03T10:22:44.142Z</updated>
+    <updated>2023-07-03T11:18:17.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[“기기값 공짜…돈도 드려요” 삼성 새 ‘제품’ 출시 앞두고 ‘헐값’ 들썩]]></title>
-        <id>https://v.daum.net/v/20230703185134121</id>
-        <link href="https://v.daum.net/v/20230703185134121"/>
-        <updated>2023-07-03T10:22:02.414Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[훅 들어온 생성형 AI 시대] "진주 귀고리 소녀 실사화" 주문하자… 1초만에 그려낸 AI]]></title>
         <id>https://v.daum.net/v/20230703183543783</id>
@@ -27,13 +20,6 @@
         <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[성큼 다가온 ‘양자 시대’…기술 극복 열쇠 된다]]></title>
-        <id>https://v.daum.net/v/20230703183151682</id>
-        <link href="https://v.daum.net/v/20230703183151682"/>
-        <updated>2023-07-03T10:22:02.418Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[취약계층 대상 '비과세 종합저축'…‘비대면 가입’으로 불편 줄인다]]></title>
         <id>https://v.daum.net/v/20230703180907101</id>
         <link href="https://v.daum.net/v/20230703180907101"/>
@@ -46,5 +32,19 @@
         <link href="https://v.daum.net/v/20230703180331922"/>
         <updated>2023-07-03T09:21:33.912Z</updated>
         <content type="html"><![CDATA[이코노미조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공급망 보안 핵심 ‘S-BOM’ 확산 위한 민간 협의체 뜬다]]></title>
+        <id>https://v.daum.net/v/20230703170103871</id>
+        <link href="https://v.daum.net/v/20230703170103871"/>
+        <updated>2023-07-03T11:17:31.684Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[KBS 수신료 분리징수 현실화] 징수액 반토막 가능성···"자구 노력으로 수신료 가치 입증해야"]]></title>
+        <id>https://v.daum.net/v/20230703175922760</id>
+        <link href="https://v.daum.net/v/20230703175922760"/>
+        <updated>2023-07-03T11:17:31.686Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
