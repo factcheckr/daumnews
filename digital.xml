@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-03T14:19:56.128Z</updated>
+    <updated>2023-07-03T15:28:07.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[명경대] 뉴스 알고리즘]]></title>
+        <id>https://v.daum.net/v/20230704000546718</id>
+        <link href="https://v.daum.net/v/20230704000546718"/>
+        <updated>2023-07-03T15:27:20.559Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["보수 매체 노출 막았다"…네이버, 뉴스 알고리즘 조작 논란에 '발끈']]></title>
+        <id>https://v.daum.net/v/20230704000016551</id>
+        <link href="https://v.daum.net/v/20230704000016551"/>
+        <updated>2023-07-03T15:27:20.561Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[훅 들어온 생성형 AI 시대] "진주 귀고리 소녀 실사화" 주문하자… 1초만에 그려낸 AI]]></title>
         <id>https://v.daum.net/v/20230703183543783</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230703180331922"/>
         <updated>2023-07-03T09:21:33.912Z</updated>
         <content type="html"><![CDATA[이코노미조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KBS 수신료 분리징수 현실화] 징수액 반토막 가능성···"자구 노력으로 수신료 가치 입증해야"]]></title>
-        <id>https://v.daum.net/v/20230703175922760</id>
-        <link href="https://v.daum.net/v/20230703175922760"/>
-        <updated>2023-07-03T11:17:31.686Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지자체 기간통신사업자 등록 길 열려...민간과 충돌 논란 여전]]></title>
-        <id>https://v.daum.net/v/20230703172905838</id>
-        <link href="https://v.daum.net/v/20230703172905838"/>
-        <updated>2023-07-03T13:30:08.393Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
