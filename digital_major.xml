@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-07-03T16:26:23.800Z</updated>
+    <updated>2023-07-03T17:18:49.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230703184519001"/>
         <updated>2023-07-03T11:17:40.770Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[취약계층 대상 '비과세 종합저축'…‘비대면 가입’으로 불편 줄인다]]></title>
+        <id>https://v.daum.net/v/20230703180907101</id>
+        <link href="https://v.daum.net/v/20230703180907101"/>
+        <updated>2023-07-03T17:18:17.803Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[윤지호의 투자 프레임 <10>] 이미 시작된 미래, ‘AI 버블’이 아닌 ‘AI 혁명’이다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230703162509172"/>
         <updated>2023-07-03T09:21:43.014Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유럽 최대 게임쇼 '게임스컴 2023' 다음달 독일서 개막]]></title>
-        <id>https://v.daum.net/v/20230703155824845</id>
-        <link href="https://v.daum.net/v/20230703155824845"/>
-        <updated>2023-07-03T11:17:40.786Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
