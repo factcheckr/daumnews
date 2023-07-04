@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-07-04T15:22:48.154Z</updated>
+    <updated>2023-07-04T16:28:37.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[머스크, 올 상반기 재산 126조원 늘어…이재용도 자산증가]]></title>
+        <id>https://v.daum.net/v/20230705000951157</id>
+        <link href="https://v.daum.net/v/20230705000951157"/>
+        <updated>2023-07-04T16:26:46.277Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GTX-B 춘천 연장 발표 초읽기…내년 착공 되나]]></title>
         <id>https://v.daum.net/v/20230705000626127</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230704192755661"/>
         <updated>2023-07-04T13:29:27.978Z</updated>
         <content type="html"><![CDATA[채널A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CJ그룹 ‘곳간 관리’ 문제없나? 순이익률 2%대…부채 20조원대 넘어]]></title>
-        <id>https://v.daum.net/v/20230704215706937</id>
-        <link href="https://v.daum.net/v/20230704215706937"/>
-        <updated>2023-07-04T13:29:27.979Z</updated>
-        <content type="html"><![CDATA[매경이코노미]]></content>
     </entry>
 </feed>
