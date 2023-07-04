@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-04T22:23:21.945Z</updated>
+    <updated>2023-07-04T23:21:42.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[폴드·플립5 출시 임박…갤럭시 공시지원금 줄인상]]></title>
+        <id>https://v.daum.net/v/20230705080227507</id>
+        <link href="https://v.daum.net/v/20230705080227507"/>
+        <updated>2023-07-04T23:20:59.346Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사이언스카페] 기후변화로 빨라지는 봄, 새 소리 사라진다]]></title>
+        <id>https://v.daum.net/v/20230705074351226</id>
+        <link href="https://v.daum.net/v/20230705074351226"/>
+        <updated>2023-07-04T23:20:59.353Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“연구·회의·분석”…국회입법조사처의 ‘하루’ [정쟁에서 논의로④]]]></title>
         <id>https://v.daum.net/v/20230705060228009</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230705062504223"/>
         <updated>2023-07-04T22:22:37.862Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI ‘학습 데이터’ 갈등… 구글 “모든 정보 수집”, 트위터·레딧 ‘빗장’]]></title>
-        <id>https://v.daum.net/v/20230705061807173</id>
-        <link href="https://v.daum.net/v/20230705061807173"/>
-        <updated>2023-07-04T21:20:24.256Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["반도체 바닥 통과 중"…삼성·하이닉스, 2분기 실적 기대 이상?]]></title>
-        <id>https://v.daum.net/v/20230705061014102</id>
-        <link href="https://v.daum.net/v/20230705061014102"/>
-        <updated>2023-07-04T21:20:24.260Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-07-04T22:23:21.926Z</updated>
+    <updated>2023-07-04T23:21:42.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI ‘학습 데이터’ 갈등… 구글 “모든 정보 수집”, 트위터·레딧 ‘빗장’]]></title>
+        <id>https://v.daum.net/v/20230705061807173</id>
+        <link href="https://v.daum.net/v/20230705061807173"/>
+        <updated>2023-07-04T23:21:07.477Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["반도체 바닥 통과 중"…삼성·하이닉스, 2분기 실적 기대 이상?]]></title>
+        <id>https://v.daum.net/v/20230705061014102</id>
+        <link href="https://v.daum.net/v/20230705061014102"/>
+        <updated>2023-07-04T23:21:07.477Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["무채색은 질려서?"…아이폰15·갤플립5 모두 원색에 꽂혔다]]></title>
         <id>https://v.daum.net/v/20230705060038888</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230705042802075"/>
         <updated>2023-07-04T21:20:33.302Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中, 갈륨·게르마늄 수출 통제… 美와 ‘협상 지렛대’ 삼나]]></title>
-        <id>https://v.daum.net/v/20230705030450789</id>
-        <link href="https://v.daum.net/v/20230705030450789"/>
-        <updated>2023-07-04T21:20:33.303Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美증시 상승에 ‘테크 부호’들 웃었다… 머스크, 자산 143조 늘어]]></title>
-        <id>https://v.daum.net/v/20230705030428770</id>
-        <link href="https://v.daum.net/v/20230705030428770"/>
-        <updated>2023-07-04T20:25:52.205Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
