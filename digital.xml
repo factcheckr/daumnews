@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-04T11:18:57.143Z</updated>
+    <updated>2023-07-04T12:42:03.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일 정부 자료로만 평가…정화 기술 검증 빠진 채 “문제없다”]]></title>
+        <id>https://v.daum.net/v/20230704205445105</id>
+        <link href="https://v.daum.net/v/20230704205445105"/>
+        <updated>2023-07-04T12:41:20.155Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['트윗 열람 제한' 정책에 또 흔들리는 트위터]]></title>
+        <id>https://v.daum.net/v/20230704203601861</id>
+        <link href="https://v.daum.net/v/20230704203601861"/>
+        <updated>2023-07-04T12:41:20.156Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하반기부터 달라지는 보험제도 살펴보니]]></title>
         <id>https://v.daum.net/v/20230704190601192</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230704181006995"/>
         <updated>2023-07-04T09:21:13.281Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우리 아직 빅5야"…야후 CEO, 재상장 의지]]></title>
-        <id>https://v.daum.net/v/20230704180202752</id>
-        <link href="https://v.daum.net/v/20230704180202752"/>
-        <updated>2023-07-04T09:21:13.281Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['ICT 전문성' 걷어내 논란 부른 KT...'낙하산 CEO' 막아낼 수 있을까]]></title>
-        <id>https://v.daum.net/v/20230704180103702</id>
-        <link href="https://v.daum.net/v/20230704180103702"/>
-        <updated>2023-07-04T11:18:15.479Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
