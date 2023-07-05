@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-05T12:44:10.793Z</updated>
+    <updated>2023-07-05T13:34:25.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빅테크·실리콘밸리에 AI발 해고폭풍이 닥쳤다]]></title>
+        <id>https://v.daum.net/v/20230705200509012</id>
+        <link href="https://v.daum.net/v/20230705200509012"/>
+        <updated>2023-07-05T13:33:41.942Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“한예슬 닮은 것 맞아?” ‘예슬이’로 탄생…근데 너무 다르다?]]></title>
         <id>https://v.daum.net/v/20230705195307739</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230705202702461"/>
         <updated>2023-07-05T12:43:26.151Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아스파탐 공포 과도하다…“다이어트콜라 매일 30캔 먹어야 문제”]]></title>
-        <id>https://v.daum.net/v/20230705195743832</id>
-        <link href="https://v.daum.net/v/20230705195743832"/>
-        <updated>2023-07-05T11:18:53.169Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
