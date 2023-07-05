@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-05T03:35:30.342Z</updated>
+    <updated>2023-07-05T04:26:31.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['MZ 놀이터' 삼성전자 VS 'IT 기기 배움터' 애플...체험 매장 '강남 대전' 승자는 [New & Good]]]></title>
+        <id>https://v.daum.net/v/20230705130004404</id>
+        <link href="https://v.daum.net/v/20230705130004404"/>
+        <updated>2023-07-05T04:25:46.589Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[맞춤형 광고 규제 움직임에…산업계 "혼란 빠트릴 것" 반발]]></title>
         <id>https://v.daum.net/v/20230705121648490</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230705111211608"/>
         <updated>2023-07-05T03:02:34.505Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갤럭시 전용 전송 기능 ‘퀵쉐어’, 이제 다른 PC에서도 사용할 수 있다 [아이티라떼]]]></title>
-        <id>https://v.daum.net/v/20230705112106113</id>
-        <link href="https://v.daum.net/v/20230705112106113"/>
-        <updated>2023-07-05T03:02:34.506Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
