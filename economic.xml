@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-07-05T13:34:25.055Z</updated>
+    <updated>2023-07-05T14:24:10.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라면값 내릴 땐 찔끔…추가 인하 목소리]]></title>
+        <id>https://v.daum.net/v/20230705213304581</id>
+        <link href="https://v.daum.net/v/20230705213304581"/>
+        <updated>2023-07-05T14:22:19.986Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CNN "한국, 더 늙어간다"]]></title>
         <id>https://v.daum.net/v/20230705205932946</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230705221212344"/>
         <updated>2023-07-05T13:32:45.295Z</updated>
         <content type="html"><![CDATA[매경이코노미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 특허 기술 자료 유출했나…변리사회 3명 ‘제명’ 중징계 [제보K]]]></title>
-        <id>https://v.daum.net/v/20230705215525007</id>
-        <link href="https://v.daum.net/v/20230705215525007"/>
-        <updated>2023-07-05T13:32:45.295Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
