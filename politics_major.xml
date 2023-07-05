@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-07-05T15:23:24.602Z</updated>
+    <updated>2023-07-05T16:30:15.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230706000149175"/>
         <updated>2023-07-05T15:21:36.703Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이낙연, 盧 묘역서 눈물 참배…文 만나 "나라 걱정하는 얘기"]]></title>
+        <id>https://v.daum.net/v/20230705225423714</id>
+        <link href="https://v.daum.net/v/20230705225423714"/>
+        <updated>2023-07-05T16:28:33.617Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["엄마 보고 싶었어요"'…16년전 순직 조종사와 '눈물의 AI 재회']]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230705220116144"/>
         <updated>2023-07-05T13:32:37.125Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작년 식대 지출 의원 233명…정치자금 4.6% ‘입’으로 들어갔다]]></title>
-        <id>https://v.daum.net/v/20230705213205566</id>
-        <link href="https://v.daum.net/v/20230705213205566"/>
-        <updated>2023-07-05T13:32:37.126Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>

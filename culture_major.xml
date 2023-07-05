@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-07-05T15:23:24.609Z</updated>
+    <updated>2023-07-05T16:30:15.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“후쿠시마 세슘, 10년간 국내해안 농도 1% 높여… 인체 영향 미미”]]></title>
+        <id>https://v.daum.net/v/20230705190701719</id>
+        <link href="https://v.daum.net/v/20230705190701719"/>
+        <updated>2023-07-05T16:29:26.473Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갱년기에는 살찐다? 먹으면서 체중 조절하는 음식은?]]></title>
         <id>https://v.daum.net/v/20230705134410692</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230705174430490"/>
         <updated>2023-07-05T10:23:21.330Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘추적 60분’ 컴백…지상파 탐사 프로 바람 불까]]></title>
-        <id>https://v.daum.net/v/20230705173505152</id>
-        <link href="https://v.daum.net/v/20230705173505152"/>
-        <updated>2023-07-05T09:22:12.581Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
