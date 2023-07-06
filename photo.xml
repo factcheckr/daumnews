@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-07-06T16:29:14.603Z</updated>
+    <updated>2023-07-06T17:20:47.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5611584/pXV5YqQSUM"/>
         <updated>2023-07-06T12:42:11.767Z</updated>
         <content type="html"><![CDATA[쿡 정치포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동요에 나오는 과꽃]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/2AW82LrqQO</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/2AW82LrqQO"/>
+        <updated>2023-07-06T17:20:15.454Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[경기도 여성 대화합의 장, 제38회 경기여성대회 [포토뉴스]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5030431/pxpQ4NI9pa"/>
         <updated>2023-07-06T07:21:01.337Z</updated>
         <content type="html"><![CDATA[덴마크는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종대로 가득 메운 민주노총 [쿠키포토]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5620091/ymSUF8LZFs</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5620091/ymSUF8LZFs"/>
-        <updated>2023-07-06T07:21:01.337Z</updated>
-        <content type="html"><![CDATA[쿠키포토]]></content>
     </entry>
 </feed>
