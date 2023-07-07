@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-07-07T17:20:35.333Z</updated>
+    <updated>2023-07-07T18:25:39.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[걱정 말아요 그대]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1573204/6FfxRomBUf</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1573204/6FfxRomBUf"/>
+        <updated>2023-07-07T18:25:15.026Z</updated>
+        <content type="html"><![CDATA[[아무튼, 주말] 오종찬 기자의 Oh!컷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민의 건강과 안전, 반드시 지키겠습니다! 후쿠시마 오염수 처리 계획에 대한 과학기술적 검토]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5839942/Z9rmGF9rf2</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/243854/qtvQunwzlO"/>
         <updated>2023-07-07T08:26:34.698Z</updated>
         <content type="html"><![CDATA[금주의 B컷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹대통령, 유인촌 문화특보 위촉장 수여[청계천 옆 사진관]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/344179/4N8dWVJGsI</id>
-        <link href="https://gallery.v.daum.net/p/viewer/344179/4N8dWVJGsI"/>
-        <updated>2023-07-07T07:23:04.107Z</updated>
-        <content type="html"><![CDATA[청계천 옆 사진관]]></content>
     </entry>
 </feed>
