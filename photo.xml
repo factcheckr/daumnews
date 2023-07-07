@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-07-07T14:23:28.017Z</updated>
+    <updated>2023-07-07T15:25:17.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그래 이 맛이지!]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/bR2thclfDz</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/bR2thclfDz"/>
+        <updated>2023-07-07T15:24:51.533Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옐런 만난 리창 총리 "소통 강화하고 공감대 찾자"]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1471/UQZq20Vs0N</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5032452/Pex3zomBXm"/>
         <updated>2023-07-07T06:27:41.579Z</updated>
         <content type="html"><![CDATA[오늘의 1면 사진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['누가누가 더 잘 자나']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5610796/1fSO0dkUut</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5610796/1fSO0dkUut"/>
-        <updated>2023-07-07T06:27:41.586Z</updated>
-        <content type="html"><![CDATA[모멘트]]></content>
     </entry>
 </feed>
