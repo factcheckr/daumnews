@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-07-07T19:16:40.935Z</updated>
+    <updated>2023-07-07T20:22:40.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정부 "일 오염수, 우리 해역에 미치는 영향 미미"]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/UEdAKKRyG5</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/UEdAKKRyG5"/>
+        <updated>2023-07-07T20:22:14.402Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이모티콘]]></title>
         <id>https://gallery.v.daum.net/p/viewer/212305/xvOYQiD7R4</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1407/x4NKly0gqq"/>
         <updated>2023-07-07T08:26:34.695Z</updated>
         <content type="html"><![CDATA[일본은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日오염수 논란 지속, 새마을금고 불안도 여전]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5615613/P9VwQecpkJ</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5615613/P9VwQecpkJ"/>
-        <updated>2023-07-07T07:23:04.105Z</updated>
-        <content type="html"><![CDATA[노컷한컷]]></content>
     </entry>
 </feed>
