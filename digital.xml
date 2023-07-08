@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-08T07:19:04.903Z</updated>
+    <updated>2023-07-08T08:24:41.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[불수능도 물수능도 학업성취도엔 ‘쥐약’…에듀테크가 대안될까 [나기자의 데이터로 세상읽기]]]></title>
+        <id>https://v.daum.net/v/20230708163600762</id>
+        <link href="https://v.daum.net/v/20230708163600762"/>
+        <updated>2023-07-08T08:23:53.123Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머스크, 한방 먹었다...'트위터 대항마'에 7천만 가입]]></title>
         <id>https://v.daum.net/v/20230708065313529</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230708083012324"/>
         <updated>2023-07-08T05:19:23.634Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[과학서평 유레카] 고대 한반도 살던 조상은 한민족 아니라 ‘인류’였다]]></title>
-        <id>https://v.daum.net/v/20230708060136157</id>
-        <link href="https://v.daum.net/v/20230708060136157"/>
-        <updated>2023-07-08T03:35:06.658Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>

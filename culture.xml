@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-07-08T07:19:04.880Z</updated>
+    <updated>2023-07-08T08:24:41.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[커피도? 편두통 유발하는 뜻밖의 요인들]]></title>
+        <id>https://v.daum.net/v/20230708170116943</id>
+        <link href="https://v.daum.net/v/20230708170116943"/>
+        <updated>2023-07-08T08:23:33.373Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[OPEN 인터뷰]출산 후 복귀까지…“초콜릿·홍삼 먹으며 연습 매진”]]></title>
         <id>https://v.daum.net/v/20230708151143057</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230708153924321"/>
         <updated>2023-07-08T07:18:08.304Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집에 TV 없다면, 수신료 2500원 안 내도 될까? [The 5]]]></title>
-        <id>https://v.daum.net/v/20230708150501007</id>
-        <link href="https://v.daum.net/v/20230708150501007"/>
-        <updated>2023-07-08T06:24:27.795Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
