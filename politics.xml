@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-07-08T12:40:15.493Z</updated>
+    <updated>2023-07-08T13:24:34.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박진, IAEA 사무총장 만나 "후쿠시마 오염수 국민 안심 위해 협조해야"]]></title>
+        <id>https://v.daum.net/v/20230708220106805</id>
+        <link href="https://v.daum.net/v/20230708220106805"/>
+        <updated>2023-07-08T13:22:41.692Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민의힘 “사과하면 재추진”…민주당 “백지화 책임 정부에”]]></title>
         <id>https://v.daum.net/v/20230708212819459</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230708210725252"/>
         <updated>2023-07-08T12:38:18.486Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그로시 방한에, 與 “거짓 선동 국제망신” 野 “오염수에서 뭔 수영?”]]></title>
-        <id>https://v.daum.net/v/20230708172744251</id>
-        <link href="https://v.daum.net/v/20230708172744251"/>
-        <updated>2023-07-08T12:38:18.488Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
