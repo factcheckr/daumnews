@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-08T11:17:24.410Z</updated>
+    <updated>2023-07-08T12:40:15.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플페이 출시 100일…“MZ세대 잡아라” 경쟁 치열]]></title>
+        <id>https://v.daum.net/v/20230708212942473</id>
+        <link href="https://v.daum.net/v/20230708212942473"/>
+        <updated>2023-07-08T12:39:31.187Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['뉴욕타임스 혁신' 그만 얘기하고 '가디언 디테일' 따라해 보자]]></title>
         <id>https://v.daum.net/v/20230708183003078</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230708143019613"/>
         <updated>2023-07-08T06:24:46.190Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K반도체에 드리워진 ‘제2 요소수 사태’ 그림자]]></title>
-        <id>https://v.daum.net/v/20230708140002341</id>
-        <link href="https://v.daum.net/v/20230708140002341"/>
-        <updated>2023-07-08T05:19:23.630Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
