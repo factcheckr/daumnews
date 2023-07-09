@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-07-09T13:24:11.567Z</updated>
+    <updated>2023-07-09T14:18:29.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230709213255617"/>
         <updated>2023-07-09T13:22:46.423Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘논란만 재확인’ 그로시 사무총장 출국…방류 ‘초읽기’]]></title>
+        <id>https://v.daum.net/v/20230709211227481</id>
+        <link href="https://v.daum.net/v/20230709211227481"/>
+        <updated>2023-07-09T14:16:53.907Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[금통위 4연속 금리 동결?… 시장선 “현수준 유지” 전망 우세]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230709192955214"/>
         <updated>2023-07-09T12:35:58.119Z</updated>
         <content type="html"><![CDATA[채널A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그로시 IAEA 사무총장 방한, 뭘 남겼나?]]></title>
-        <id>https://v.daum.net/v/20230709201005760</id>
-        <link href="https://v.daum.net/v/20230709201005760"/>
-        <updated>2023-07-09T12:35:58.121Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
