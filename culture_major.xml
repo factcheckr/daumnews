@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-07-09T12:37:13.760Z</updated>
+    <updated>2023-07-09T13:24:11.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20230709203305083"/>
         <updated>2023-07-09T12:36:28.133Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[천식은 고령인의 질환? 20대 젊은이도 5% 정도 앓아]]></title>
+        <id>https://v.daum.net/v/20230709201003758</id>
+        <link href="https://v.daum.net/v/20230709201003758"/>
+        <updated>2023-07-09T13:23:23.218Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피곤하면 입술에 물집 잡히는 '헤르페스', 식기·수건 같이 쓰면 전염되나?]]></title>
+        <id>https://v.daum.net/v/20230709200016634</id>
+        <link href="https://v.daum.net/v/20230709200016634"/>
+        <updated>2023-07-09T13:23:23.219Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나잇값도 못하는 나... 여기선 자책이 없습니다]]></title>
@@ -59,20 +73,6 @@
         <id>https://v.daum.net/v/20230709183247388</id>
         <link href="https://v.daum.net/v/20230709183247388"/>
         <updated>2023-07-09T11:16:23.450Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전신마취를 하면 머리가 나빠질까요?]]></title>
-        <id>https://v.daum.net/v/20230709182002213</id>
-        <link href="https://v.daum.net/v/20230709182002213"/>
-        <updated>2023-07-09T11:16:23.454Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혈액형 따라 위험 질병이 따로 있을까?]]></title>
-        <id>https://v.daum.net/v/20230709181551143</id>
-        <link href="https://v.daum.net/v/20230709181551143"/>
-        <updated>2023-07-09T11:16:23.455Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-07-09T12:37:13.759Z</updated>
+    <updated>2023-07-09T13:24:11.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://v.daum.net/v/20230709211910515</id>
         <link href="https://v.daum.net/v/20230709211910515"/>
         <updated>2023-07-09T12:36:12.368Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2박3일 방한 그로시, ‘자기 할 말’만 하고 떠났다]]></title>
+        <id>https://v.daum.net/v/20230709205709338</id>
+        <link href="https://v.daum.net/v/20230709205709338"/>
+        <updated>2023-07-09T13:23:04.585Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230709191508000"/>
         <updated>2023-07-09T12:36:12.393Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“너 같으면 중국 돈 쓸래?”…노벨 경제학상 수상자가 밝힌 ‘달러패권’]]></title>
-        <id>https://v.daum.net/v/20230709200900745</id>
-        <link href="https://v.daum.net/v/20230709200900745"/>
-        <updated>2023-07-09T12:36:12.395Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
