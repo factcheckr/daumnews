@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-07-09T11:17:06.891Z</updated>
+    <updated>2023-07-09T12:37:13.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[알록달록 과일과 싱싱한 생선…수달들의 초복 보양식[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/1P6LuclfCF</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/1P6LuclfCF"/>
+        <updated>2023-07-09T12:36:49.561Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수원 화성행궁에 쏟아지는 집중호우 [포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5840500/bnlikLrqT3</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1137876/PxicOGujVa"/>
         <updated>2023-07-08T03:02:27.457Z</updated>
         <content type="html"><![CDATA[뉴시스 앵글]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나 전선에 배치된 프랑스 다연장 로켓]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033399/8gyvHu8Cbc</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033399/8gyvHu8Cbc"/>
-        <updated>2023-07-08T03:02:27.461Z</updated>
-        <content type="html"><![CDATA[우크라이나는 지금]]></content>
     </entry>
 </feed>
