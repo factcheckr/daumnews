@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-07-09T19:17:20.948Z</updated>
+    <updated>2023-07-09T20:21:04.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민주당 반발 마주한 IAEA 사무총장]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/6zFkSMj3YR</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/6zFkSMj3YR"/>
+        <updated>2023-07-09T20:20:35.105Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유럽으로 향하는 바이든 대통령]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1471/2X0Te5BEB4</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5611950/7BS52wyP0P"/>
         <updated>2023-07-08T21:17:35.796Z</updated>
         <content type="html"><![CDATA[노동신문 사진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아베 전 총리 1주기 맞아 몰린 추모 시민들]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1407/9lGgnJEuUG</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1407/9lGgnJEuUG"/>
-        <updated>2023-07-08T14:17:28.944Z</updated>
-        <content type="html"><![CDATA[일본은 지금]]></content>
     </entry>
 </feed>
