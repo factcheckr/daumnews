@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-07-09T16:25:14.208Z</updated>
+    <updated>2023-07-09T17:18:20.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나 기간 한국 재정수지 양호…부동산 세수 덕]]></title>
+        <id>https://v.daum.net/v/20230710000337368</id>
+        <link href="https://v.daum.net/v/20230710000337368"/>
+        <updated>2023-07-09T17:17:15.434Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 ‘강철비’ 집속탄 우크라에 지원…동맹국들 공개 반발]]></title>
+        <id>https://v.daum.net/v/20230710000144322</id>
+        <link href="https://v.daum.net/v/20230710000144322"/>
+        <updated>2023-07-09T17:17:15.434Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백악관도 “IAEA 보고서, 전문적 분석에 근거”]]></title>
         <id>https://v.daum.net/v/20230710000131314</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230709211855512"/>
         <updated>2023-07-09T15:20:43.692Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살아있나? 어디 있나? 변장했나? 프리고진 미스터리]]></title>
-        <id>https://v.daum.net/v/20230709204416199</id>
-        <link href="https://v.daum.net/v/20230709204416199"/>
-        <updated>2023-07-09T14:17:14.760Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2박3일 방한 그로시, ‘자기 할 말’만 하고 떠났다]]></title>
-        <id>https://v.daum.net/v/20230709205709338</id>
-        <link href="https://v.daum.net/v/20230709205709338"/>
-        <updated>2023-07-09T13:23:04.585Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
