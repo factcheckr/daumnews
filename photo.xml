@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-07-10T19:19:18.466Z</updated>
+    <updated>2023-07-10T20:23:02.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[순방 나서는 윤대통령 내외]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/XeWBrOHRZ0</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/XeWBrOHRZ0"/>
+        <updated>2023-07-10T20:22:33.868Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘바벨탑’ 스피커]]></title>
         <id>https://gallery.v.daum.net/p/viewer/212305/zjAMTYUNiq</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1407/Z6pFJclfKt"/>
         <updated>2023-07-10T08:27:19.543Z</updated>
         <content type="html"><![CDATA[일본은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김건희 여사, 부산엑스포 유치 기원 키링에 이어 에코백까지[청계천 옆 사진관]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/344179/yfhfQomBrN</id>
-        <link href="https://gallery.v.daum.net/p/viewer/344179/yfhfQomBrN"/>
-        <updated>2023-07-10T08:27:19.543Z</updated>
-        <content type="html"><![CDATA[청계천 옆 사진관]]></content>
     </entry>
 </feed>
