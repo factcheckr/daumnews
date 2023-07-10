@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-07-10T21:19:43.546Z</updated>
+    <updated>2023-07-10T22:20:44.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오래된 사이에서 느끼는 따뜻한 애정…일상 속 미온의 기쁨]]></title>
+        <id>https://v.daum.net/v/20230711053022959</id>
+        <link href="https://v.daum.net/v/20230711053022959"/>
+        <updated>2023-07-10T22:19:36.632Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최정은 클레이아크김해미술관장 "시민친화 예술기관으로 거듭날 것"]]></title>
         <id>https://v.daum.net/v/20230711050031659</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230711030331148"/>
         <updated>2023-07-10T20:22:06.150Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김경민의 한방 이야기] 침·뜸·추나요법 손떨림 완화 도와]]></title>
-        <id>https://v.daum.net/v/20230711030255109</id>
-        <link href="https://v.daum.net/v/20230711030255109"/>
-        <updated>2023-07-10T20:22:06.151Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
     </entry>
 </feed>
