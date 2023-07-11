@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-07-11T09:21:37.366Z</updated>
+    <updated>2023-07-11T10:23:07.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버 해명하고 몸 낮춰도···정치권 반응은 싸늘]]></title>
+        <id>https://v.daum.net/v/20230711174648827</id>
+        <link href="https://v.daum.net/v/20230711174648827"/>
+        <updated>2023-07-11T10:22:36.824Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]'양자기술 강국' 스위스에 韓 최고급두뇌 40명 보낸다]]></title>
         <id>https://v.daum.net/v/20230711174102620</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230711170006153"/>
         <updated>2023-07-11T09:21:00.072Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["전세계 5G 가입자 5년내 절반 이상 달할 것…AR로 트래픽도 지속 성장"]]></title>
-        <id>https://v.daum.net/v/20230711165820090</id>
-        <link href="https://v.daum.net/v/20230711165820090"/>
-        <updated>2023-07-11T09:21:00.072Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>

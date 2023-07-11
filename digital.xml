@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-11T09:21:37.342Z</updated>
+    <updated>2023-07-11T10:23:07.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[정부, 5G 주파수 740억원에 내놨다…1년 차에는 10%만 납부]]></title>
+        <title type="html"><![CDATA[정부 5G 28㎓ ‘떨이’ 경매에...“능력없는 사업자 진입 가능성” 지적]]></title>
+        <id>https://v.daum.net/v/20230711183501230</id>
+        <link href="https://v.daum.net/v/20230711183501230"/>
+        <updated>2023-07-11T10:22:29.075Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정부, 5G 주파수 740억원에…1년차 74억원만 납부]]></title>
         <id>https://v.daum.net/v/20230711181945903</id>
         <link href="https://v.daum.net/v/20230711181945903"/>
         <updated>2023-07-11T09:20:50.396Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230711175108997"/>
         <updated>2023-07-11T09:20:50.402Z</updated>
         <content type="html"><![CDATA[게임톡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 해명하고 몸 낮춰도···정치권 반응은 싸늘]]></title>
-        <id>https://v.daum.net/v/20230711174648827</id>
-        <link href="https://v.daum.net/v/20230711174648827"/>
-        <updated>2023-07-11T09:20:50.407Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
