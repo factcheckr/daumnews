@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-07-11T15:22:48.717Z</updated>
+    <updated>2023-07-11T16:28:01.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국민의힘, 양평 고속道 논란에 '맞불-재추진' 투트랙 전략?]]></title>
+        <id>https://v.daum.net/v/20230712000106685</id>
+        <link href="https://v.daum.net/v/20230712000106685"/>
+        <updated>2023-07-11T16:25:41.500Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조국, 딸 소 취하하고 아들 학위 반납…총선 출마 사전작업?]]></title>
         <id>https://v.daum.net/v/20230712000000642</id>
         <link href="https://v.daum.net/v/20230712000000642"/>
         <updated>2023-07-11T15:20:55.777Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김영호 후보자, '전체주의' 주장…尹 대통령과 닮았다?]]></title>
+        <id>https://v.daum.net/v/20230712000109687</id>
+        <link href="https://v.daum.net/v/20230712000109687"/>
+        <updated>2023-07-11T16:25:41.506Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[나이트포커스] 文정부 때 처음 계획 나왔었다? VS 그게 중요한 게 아니다!]]></title>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230711222002031"/>
         <updated>2023-07-11T13:27:57.771Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나토·인태 공동운명론' 펼친 尹…안보 협력 업그레이드]]></title>
-        <id>https://v.daum.net/v/20230711221132934</id>
-        <link href="https://v.daum.net/v/20230711221132934"/>
-        <updated>2023-07-11T13:27:57.771Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野, 日서 한글 플래카드 들고 항의...한국서 보라는 국내용 시위?]]></title>
-        <id>https://v.daum.net/v/20230711220647894</id>
-        <link href="https://v.daum.net/v/20230711220647894"/>
-        <updated>2023-07-11T13:27:57.771Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
