@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-07-12T03:31:09.639Z</updated>
+    <updated>2023-07-12T04:25:01.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3초 만에 원하는 이미지 '뚝딱'…토종 AI의 반격]]></title>
+        <id>https://v.daum.net/v/20230712082425786</id>
+        <link href="https://v.daum.net/v/20230712082425786"/>
+        <updated>2023-07-12T04:24:25.213Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'예측불허' 기후 위기…기술로 적극 대응 나서야"]]></title>
         <id>https://v.daum.net/v/20230712111316612</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230712091502292"/>
         <updated>2023-07-12T01:52:15.968Z</updated>
         <content type="html"><![CDATA[한경비즈니스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 뉴스 알고리즘의 허와 실 [아이티라떼]]]></title>
-        <id>https://v.daum.net/v/20230712010001178</id>
-        <link href="https://v.daum.net/v/20230712010001178"/>
-        <updated>2023-07-12T01:52:15.969Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-12T03:31:09.629Z</updated>
+    <updated>2023-07-12T04:25:01.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위메이드 장현국 "압수수색에 명명백백…가상자산 회계지침 환영"]]></title>
+        <id>https://v.daum.net/v/20230712125733754</id>
+        <link href="https://v.daum.net/v/20230712125733754"/>
+        <updated>2023-07-12T04:24:15.177Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우주에도 ‘자율운행’ 바람…이달 알아서 움직이는 인공위성 발사]]></title>
         <id>https://v.daum.net/v/20230712121254046</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230712111940964"/>
         <updated>2023-07-12T03:00:17.722Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3초 만에 원하는 이미지 '뚝딱'…토종 AI의 반격]]></title>
-        <id>https://v.daum.net/v/20230712082425786</id>
-        <link href="https://v.daum.net/v/20230712082425786"/>
-        <updated>2023-07-12T03:00:17.726Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
