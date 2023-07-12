@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-12T11:18:36.751Z</updated>
+    <updated>2023-07-12T12:41:48.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다들 훔쳐보길래 나도...8400억 피해본 회사, 불법유통 잡아낸다]]></title>
+        <id>https://v.daum.net/v/20230712212400591</id>
+        <link href="https://v.daum.net/v/20230712212400591"/>
+        <updated>2023-07-12T12:41:07.467Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“110만원인데…없어서 못 산다?” 속 보이는 ‘투명폰’ 나왔다]]></title>
         <id>https://v.daum.net/v/20230712195050423</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230712174446125"/>
         <updated>2023-07-12T09:20:37.691Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스줌인]양자시대 커지는 사이버위협…정부 “2035년까지 만반 준비”]]></title>
-        <id>https://v.daum.net/v/20230712170111543</id>
-        <link href="https://v.daum.net/v/20230712170111543"/>
-        <updated>2023-07-12T09:20:37.693Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
