@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-07-13T19:16:25.463Z</updated>
+    <updated>2023-07-13T20:22:40.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 토스, SSG페이 인수 유력… 신세계는 토스의 4대 주주로]]></title>
+        <id>https://v.daum.net/v/20230714050014833</id>
+        <link href="https://v.daum.net/v/20230714050014833"/>
+        <updated>2023-07-13T20:22:05.187Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세제혜택 위주인 한국 반도체 지원… 中企엔 더 불리]]></title>
         <id>https://v.daum.net/v/20230714030502422</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230713161240697"/>
         <updated>2023-07-13T10:22:07.943Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘연봉 3억’ 준대도 지방 안 가는 의사들, 이유가 이거였어?]]></title>
-        <id>https://v.daum.net/v/20230713175107901</id>
-        <link href="https://v.daum.net/v/20230713175107901"/>
-        <updated>2023-07-13T10:22:07.946Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
