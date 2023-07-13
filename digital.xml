@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-13T14:20:41.026Z</updated>
+    <updated>2023-07-13T15:25:44.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차상균·김기열·윤종록 등 40여명…내달 KT 수장 결정]]></title>
+        <id>https://v.daum.net/v/20230713211902014</id>
+        <link href="https://v.daum.net/v/20230713211902014"/>
+        <updated>2023-07-13T15:24:40.888Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피할 수 없는 일?…진짜 ‘검증’ 피하면 진짜 ‘큰일’이 기다린다[전문가의 세계 - 이종필의 과학자의 발상법]]]></title>
         <id>https://v.daum.net/v/20230713220447959</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230713183705243"/>
         <updated>2023-07-13T10:21:57.113Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT 대표 후보에 정계·OB·학계 27명…"누가되든 공정하게"]]></title>
-        <id>https://v.daum.net/v/20230713182103851</id>
-        <link href="https://v.daum.net/v/20230713182103851"/>
-        <updated>2023-07-13T10:21:57.113Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>
