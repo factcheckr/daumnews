@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-07-13T20:22:40.262Z</updated>
+    <updated>2023-07-13T21:19:32.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20230714030502422"/>
         <updated>2023-07-13T18:25:19.744Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차상균·김기열·윤종록 등 40여명…내달 KT 수장 결정]]></title>
+        <id>https://v.daum.net/v/20230713211902014</id>
+        <link href="https://v.daum.net/v/20230713211902014"/>
+        <updated>2023-07-13T21:18:52.062Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[피할 수 없는 일?…진짜 ‘검증’ 피하면 진짜 ‘큰일’이 기다린다[전문가의 세계 - 이종필의 과학자의 발상법]]]></title>
@@ -62,17 +69,10 @@
         <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유럽도 구글도 "코인"...하락세에도 여유로운 코인시장 [코인브리핑]]]></title>
-        <id>https://v.daum.net/v/20230713175757123</id>
-        <link href="https://v.daum.net/v/20230713175757123"/>
-        <updated>2023-07-13T10:22:07.935Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 '액체메탄로켓'은 무엇?···스페이스X 넘을까[과학이 궁금해]]]></title>
-        <id>https://v.daum.net/v/20230713161240697</id>
-        <link href="https://v.daum.net/v/20230713161240697"/>
-        <updated>2023-07-13T10:22:07.943Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA[머스크, 오픈AI 대항마 ‘xAI’ 설립…구글은 “한국과 협업”]]></title>
+        <id>https://v.daum.net/v/20230714000251118</id>
+        <link href="https://v.daum.net/v/20230714000251118"/>
+        <updated>2023-07-13T21:18:52.079Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
