@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-07-13T16:27:34.256Z</updated>
+    <updated>2023-07-13T17:19:35.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한-아세안, 9월 정상회의에서 공동성명 추진…“아세안 중심성 환영”]]></title>
+        <id>https://v.daum.net/v/20230714015512995</id>
+        <link href="https://v.daum.net/v/20230714015512995"/>
+        <updated>2023-07-13T17:17:51.878Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개딸 공격받은 박지현…“민주당 하면 꼭 나오는 단어 ‘내로남불·무능’”]]></title>
         <id>https://v.daum.net/v/20230714005410696</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230714000810305"/>
         <updated>2023-07-13T15:23:19.834Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[60초리뷰] '양평고속도로 논란'에 대한 현장 목소리 (영상)]]></title>
-        <id>https://v.daum.net/v/20230714000034048</id>
-        <link href="https://v.daum.net/v/20230714000034048"/>
-        <updated>2023-07-13T15:23:19.834Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
