@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-07-13T13:38:49.757Z</updated>
+    <updated>2023-07-13T14:20:41.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CNN “집속탄 우크라 도착”...우크라, 전황 타개 기대]]></title>
+        <id>https://v.daum.net/v/20230713223906343</id>
+        <link href="https://v.daum.net/v/20230713223906343"/>
+        <updated>2023-07-13T14:19:23.424Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘군정 반대’ 태국 젊은층의 가로막힌 ‘전진’]]></title>
         <id>https://v.daum.net/v/20230713223301307</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230713221133041"/>
         <updated>2023-07-13T13:37:29.386Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피타 림짜른랏 전진당 대표 타이 총리 투표서 과반 득표 실패]]></title>
-        <id>https://v.daum.net/v/20230713220514964</id>
-        <link href="https://v.daum.net/v/20230713220514964"/>
-        <updated>2023-07-13T13:37:29.388Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
