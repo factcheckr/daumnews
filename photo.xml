@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-07-14T17:26:10.580Z</updated>
+    <updated>2023-07-14T18:26:19.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연꽃 사이를 걷다]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1573204/qCnQobdYpx</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1573204/qCnQobdYpx"/>
+        <updated>2023-07-14T18:25:39.101Z</updated>
+        <content type="html"><![CDATA[[아무튼, 주말] 오종찬 기자의 Oh!컷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전국적으로 퍼부은 물폭탄 집중호우! 인명 및 재산 피해 속출하며 피해 규모 계속 늘어]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5839942/9WKtZEWQq3</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2447/VmEzWxNFzD"/>
         <updated>2023-07-14T08:26:22.638Z</updated>
         <content type="html"><![CDATA[인도는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘의혹의 땅’에서 마주한 가축들, 세간의 이목이 쏠리는 건 알까[금주의 B컷]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/243854/0I97hfiHvQ</id>
-        <link href="https://gallery.v.daum.net/p/viewer/243854/0I97hfiHvQ"/>
-        <updated>2023-07-14T08:26:22.639Z</updated>
-        <content type="html"><![CDATA[금주의 B컷]]></content>
     </entry>
 </feed>
