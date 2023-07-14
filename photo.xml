@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-07-14T18:26:19.341Z</updated>
+    <updated>2023-07-14T19:18:32.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[약속]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/BSSUyahVM7</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/BSSUyahVM7"/>
+        <updated>2023-07-14T19:17:57.107Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연꽃 사이를 걷다]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1573204/qCnQobdYpx</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5029622/XiiDGRA0ub"/>
         <updated>2023-07-14T13:27:41.293Z</updated>
         <content type="html"><![CDATA[프랑스는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폭우로 침수된 인도 야무나강 인근 지역]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/2447/VmEzWxNFzD</id>
-        <link href="https://gallery.v.daum.net/p/viewer/2447/VmEzWxNFzD"/>
-        <updated>2023-07-14T08:26:22.638Z</updated>
-        <content type="html"><![CDATA[인도는 지금]]></content>
     </entry>
 </feed>
