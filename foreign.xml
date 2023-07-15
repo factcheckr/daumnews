@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-07-15T04:23:59.158Z</updated>
+    <updated>2023-07-15T05:20:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -10,6 +10,27 @@
         <id>https://v.daum.net/v/20230715131552244</id>
         <link href="https://v.daum.net/v/20230715131552244"/>
         <updated>2023-07-15T04:22:45.355Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영상] 주먹 '퍽퍽' 코소보 의회 난투극…목덜미 잡힌 총리 급히 피신]]></title>
+        <id>https://v.daum.net/v/20230715134436516</id>
+        <link href="https://v.daum.net/v/20230715134436516"/>
+        <updated>2023-07-15T05:18:47.331Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“미국은 이미 중국에 졌다”...美포드 회장 작심한 듯 ‘전기차 미래’ 쏟아냈다 [박민기의 월드버스]]]></title>
+        <id>https://v.daum.net/v/20230715133600423</id>
+        <link href="https://v.daum.net/v/20230715133600423"/>
+        <updated>2023-07-15T05:18:47.334Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['세계2위' 고무수출국 인니, 기후변화로 5년새 수출량 30% 감소]]></title>
+        <id>https://v.daum.net/v/20230715132411324</id>
+        <link href="https://v.daum.net/v/20230715132411324"/>
+        <updated>2023-07-15T05:18:47.336Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
@@ -25,26 +46,5 @@
         <link href="https://v.daum.net/v/20230715125934081"/>
         <updated>2023-07-15T04:22:45.360Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미중 디커플링 와중에 인텔·퀄컴 경영진 내주 워싱턴 회동]]></title>
-        <id>https://v.daum.net/v/20230715123147872</id>
-        <link href="https://v.daum.net/v/20230715123147872"/>
-        <updated>2023-07-15T04:22:45.362Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 환경성 "후쿠시마 해양방류 개시 후 주 1회 수질검사"]]></title>
-        <id>https://v.daum.net/v/20230715121217675</id>
-        <link href="https://v.daum.net/v/20230715121217675"/>
-        <updated>2023-07-15T04:22:45.364Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“담배 피러 갈 때 한장, 점심 먹을 때 한장” 우산비닐 쓰레기, 돌아서면 '수두룩' [지구, 뭐래?]]]></title>
-        <id>https://v.daum.net/v/20230715120140554</id>
-        <link href="https://v.daum.net/v/20230715120140554"/>
-        <updated>2023-07-15T04:22:45.366Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
