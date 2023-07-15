@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-15T06:25:31.556Z</updated>
+    <updated>2023-07-15T07:19:14.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["독거노인 도움 음성합성AI 보이스피싱에 악용될 수 있어"]]></title>
+        <id>https://v.daum.net/v/20230715154503861</id>
+        <link href="https://v.daum.net/v/20230715154503861"/>
+        <updated>2023-07-15T07:18:27.629Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[틱톡 뛰어든 언론사가 매체명을 비밀로 두는 까닭]]></title>
         <id>https://v.daum.net/v/20230715130504159</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230715110009818"/>
         <updated>2023-07-15T03:05:33.571Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["잘 모르겠다, 10월까지 기다리자"...수신료 분리징수에 아파트 단지들 혼선]]></title>
-        <id>https://v.daum.net/v/20230715110004809</id>
-        <link href="https://v.daum.net/v/20230715110004809"/>
-        <updated>2023-07-15T03:05:33.573Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
