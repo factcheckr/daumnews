@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-07-15T05:19:59.985Z</updated>
+    <updated>2023-07-15T06:25:31.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미어캣·라쿤·부엉이가 한 집 살림하게 된 사연?...야생동물구조센터의 힘겨운 여름나기]]></title>
+        <id>https://v.daum.net/v/20230715102933407</id>
+        <link href="https://v.daum.net/v/20230715102933407"/>
+        <updated>2023-07-15T06:24:41.178Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[축구왕들이여, 우리는 필드에서 만납시다 [언젠가 축구왕]]]></title>
         <id>https://v.daum.net/v/20230715113601285</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230715105226723"/>
         <updated>2023-07-15T03:05:25.185Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[백투더투데이] "동해안 최고 핫플" 1978년 송도해수욕장]]></title>
-        <id>https://v.daum.net/v/20230715102323320</id>
-        <link href="https://v.daum.net/v/20230715102323320"/>
-        <updated>2023-07-15T03:05:25.190Z</updated>
-        <content type="html"><![CDATA[대구MBC]]></content>
     </entry>
 </feed>
