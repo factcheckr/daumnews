@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-07-15T17:18:12.716Z</updated>
+    <updated>2023-07-15T18:25:04.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[범람 우려에 금강 하류 익산 7개 마을에 '사전 대피' 권고]]></title>
+        <id>https://v.daum.net/v/20230715233631544</id>
+        <link href="https://v.daum.net/v/20230715233631544"/>
+        <updated>2023-07-15T18:23:30.639Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시진핑 "당의 인터넷 관리 견지하고 보안 장벽 견고히"]]></title>
         <id>https://v.daum.net/v/20230715234023568</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230716004501878"/>
         <updated>2023-07-15T16:24:17.363Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교황청-中 갈등 봉합…교황, 상하이 주교 3개월만에 승인]]></title>
-        <id>https://v.daum.net/v/20230715224212164</id>
-        <link href="https://v.daum.net/v/20230715224212164"/>
-        <updated>2023-07-15T14:17:09.666Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

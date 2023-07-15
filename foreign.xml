@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-07-15T17:18:12.692Z</updated>
+    <updated>2023-07-15T18:25:04.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테슬라, 거듭 연기돼온 전기픽업트럭 '사이버트럭' 생산 시작]]></title>
+        <id>https://v.daum.net/v/20230716022421020</id>
+        <link href="https://v.daum.net/v/20230716022421020"/>
+        <updated>2023-07-15T18:23:21.515Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[멕시코, 美에 '텍사스 수중장벽' 철거 요구…"협약 위반"]]></title>
         <id>https://v.daum.net/v/20230716012351950</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230715234205576"/>
         <updated>2023-07-15T15:19:00.237Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범람 우려에 금강 하류 익산 7개 마을에 '사전 대피' 권고]]></title>
-        <id>https://v.daum.net/v/20230715233631544</id>
-        <link href="https://v.daum.net/v/20230715233631544"/>
-        <updated>2023-07-15T15:19:00.239Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
