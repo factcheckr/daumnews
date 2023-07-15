@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-07-15T18:25:04.755Z</updated>
+    <updated>2023-07-15T19:17:02.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['기적생환' 콜롬비아 아이들 퇴원…양육권 분쟁 속 보호소行]]></title>
+        <id>https://v.daum.net/v/20230716033352073</id>
+        <link href="https://v.daum.net/v/20230716033352073"/>
+        <updated>2023-07-15T19:14:06.019Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팔당댐 방류량↑→한강 수위↑→한강변·지천변·지하도 침수 위험↑]]></title>
         <id>https://v.daum.net/v/20230715235932709</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20230715232622459"/>
         <updated>2023-07-15T16:23:06.151Z</updated>
         <content type="html"><![CDATA[정치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특보] 전북 홍수특보 확대…금강 제방 붕괴 위험]]></title>
-        <id>https://v.daum.net/v/20230715233547533</id>
-        <link href="https://v.daum.net/v/20230715233547533"/>
-        <updated>2023-07-15T16:23:06.152Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
     </entry>
 </feed>
