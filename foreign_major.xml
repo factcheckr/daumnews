@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-07-15T09:19:43.999Z</updated>
+    <updated>2023-07-15T10:21:06.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["방사성 물질인데 무해하다? 너무 놀라서 주저앉았다"]]></title>
+        <id>https://v.daum.net/v/20230715170901182</id>
+        <link href="https://v.daum.net/v/20230715170901182"/>
+        <updated>2023-07-15T10:20:04.894Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日연립여당 공명당 대표 방중 돌연 취소…"오염수 때문인 듯"]]></title>
+        <id>https://v.daum.net/v/20230715170400132</id>
+        <link href="https://v.daum.net/v/20230715170400132"/>
+        <updated>2023-07-15T10:20:04.894Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[후쿠시마 오염수 문제, 일본과 중국 간 방문 계획에 난항]]></title>
         <id>https://v.daum.net/v/20230715154648886</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230715144603181"/>
         <updated>2023-07-15T08:23:41.671Z</updated>
         <content type="html"><![CDATA[JIBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 도착한 메시…쇼핑몰서 카트 끌고 장보기]]></title>
-        <id>https://v.daum.net/v/20230715142903999</id>
-        <link href="https://v.daum.net/v/20230715142903999"/>
-        <updated>2023-07-15T06:24:24.286Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인텔·퀄컴 CEO 내주 워싱턴서 회의…대중국 수출 규제 영향 논의]]></title>
-        <id>https://v.daum.net/v/20230715142938008</id>
-        <link href="https://v.daum.net/v/20230715142938008"/>
-        <updated>2023-07-15T06:24:24.286Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
