@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-07-16T15:20:03.354Z</updated>
+    <updated>2023-07-16T16:25:38.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20230717000607363"/>
         <updated>2023-07-16T15:18:45.497Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용산·강남 집값 90% 회복할 때, 노·도·강은 평균 못미쳤다]]></title>
+        <id>https://v.daum.net/v/20230717000258266</id>
+        <link href="https://v.daum.net/v/20230717000258266"/>
+        <updated>2023-07-16T16:24:16.182Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[대전환 AI시대⑤] 보이스피싱 막는 '만능 재주꾼'…은행권에 스며든 AI]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230716213540148"/>
         <updated>2023-07-16T14:16:44.908Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[참극에 퍼진 '지하차도 공포'…금방 잠기는 차량 탈출법]]></title>
-        <id>https://v.daum.net/v/20230716211524958</id>
-        <link href="https://v.daum.net/v/20230716211524958"/>
-        <updated>2023-07-16T14:16:44.909Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
