@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-07-16T18:26:13.222Z</updated>
+    <updated>2023-07-16T19:17:58.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새벽 인터뷰 하는 원희룡 국토부 장관]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5615618/xkia5xcpwZ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5615618/xkia5xcpwZ"/>
+        <updated>2023-07-16T19:17:18.452Z</updated>
+        <content type="html"><![CDATA[오마이포토]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오송 지하차도에서 1명 추가 수습… 사망자 10명]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5848812/pArKXPj3OM</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615616/Xi7YeVLZ7a"/>
         <updated>2023-07-16T07:21:51.804Z</updated>
         <content type="html"><![CDATA[뉴스1 PICK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“한 명이라도 더”…수해현장 누비는 수색견 [포토多이슈]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1112079/x51dXhFLhG</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1112079/x51dXhFLhG"/>
-        <updated>2023-07-16T07:21:51.804Z</updated>
-        <content type="html"><![CDATA[포토多이슈]]></content>
     </entry>
 </feed>
