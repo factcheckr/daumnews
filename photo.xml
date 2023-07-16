@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-07-16T20:21:37.147Z</updated>
+    <updated>2023-07-16T21:18:27.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울공항에 도착해 보고 받는 윤석열 대통령[경향포토]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5840100/6wqQt4g1yF</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5840100/6wqQt4g1yF"/>
+        <updated>2023-07-16T21:17:56.587Z</updated>
+        <content type="html"><![CDATA[경향포토]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오송 지하차도 찾은 원희룡 장관]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5848812/pSMQnyujUJ</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1471/t7GWFyujV4"/>
         <updated>2023-07-16T07:21:51.792Z</updated>
         <content type="html"><![CDATA[세계의 정상들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수마 할퀸 중부·남부지방…'오송 지하차도 참사' 비극]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5615616/Xi7YeVLZ7a</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5615616/Xi7YeVLZ7a"/>
-        <updated>2023-07-16T07:21:51.804Z</updated>
-        <content type="html"><![CDATA[뉴스1 PICK]]></content>
     </entry>
 </feed>
