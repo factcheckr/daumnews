@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-07-18T13:29:53.624Z</updated>
+    <updated>2023-07-18T17:19:01.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[르포] 수해입은 충북 괴산 원이담 마을 주민들…“언제쯤 일상으로 돌아갈 수 있을지…”]]></title>
+        <id>https://v.daum.net/v/20230718235215476</id>
+        <link href="https://v.daum.net/v/20230718235215476"/>
+        <updated>2023-07-18T17:17:44.992Z</updated>
+        <content type="html"><![CDATA[농민신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레켐비 이어 도나네맙… 치매 지연 치료제 잇따라 등장]]></title>
         <id>https://v.daum.net/v/20230718170513024</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230718203204506"/>
         <updated>2023-07-18T12:37:24.865Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서귀포 소식] 공립미술관 공동기획전 외]]></title>
-        <id>https://v.daum.net/v/20230718194601662</id>
-        <link href="https://v.daum.net/v/20230718194601662"/>
-        <updated>2023-07-18T13:28:48.976Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
