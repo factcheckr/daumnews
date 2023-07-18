@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-07-18T09:20:23.008Z</updated>
+    <updated>2023-07-18T10:22:07.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국에선 이걸로 세대 구분…20대는 아이폰, 40대 이상 갤럭시]]></title>
+        <id>https://v.daum.net/v/20230718174009412</id>
+        <link href="https://v.daum.net/v/20230718174009412"/>
+        <updated>2023-07-18T10:21:36.257Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["텔레그램 계정 재인증 필요"…이 링크 클릭하면, 해킹당한다 [팩플]]]></title>
+        <id>https://v.daum.net/v/20230718173653288</id>
+        <link href="https://v.daum.net/v/20230718173653288"/>
+        <updated>2023-07-18T10:21:36.269Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일본 "오염수에서 광어·넙치 키워 안전성 입증하겠다"]]></title>
+        <id>https://v.daum.net/v/20230718173318177</id>
+        <link href="https://v.daum.net/v/20230718173318177"/>
+        <updated>2023-07-18T10:21:36.270Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["앗, 내 폰!" 폭우에 물웅덩이 풍덩…수리비 아끼려면 즉시 할 일]]></title>
         <id>https://v.daum.net/v/20230718173007041</id>
         <link href="https://v.daum.net/v/20230718173007041"/>
         <updated>2023-07-18T09:19:44.190Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] "완성도 UP"···네이버 AI 챗봇 '큐' 출시 가을로 연기]]></title>
-        <id>https://v.daum.net/v/20230718172710937</id>
-        <link href="https://v.daum.net/v/20230718172710937"/>
-        <updated>2023-07-18T09:19:44.192Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美반도체산업협회 "中 추가수출 규제 안돼" 공식 반기…韓 '이심전심']]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230718170905162"/>
         <updated>2023-07-18T09:19:44.205Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[`도나네맙`, 치매 확실히 늦춰...알츠하이머 극복 희망 커졌다]]></title>
-        <id>https://v.daum.net/v/20230718170513024</id>
-        <link href="https://v.daum.net/v/20230718170513024"/>
-        <updated>2023-07-18T09:19:44.207Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴스·광고·쇼핑까지…규제에 손묶인 국내 플랫폼]]></title>
-        <id>https://v.daum.net/v/20230718165713639</id>
-        <link href="https://v.daum.net/v/20230718165713639"/>
-        <updated>2023-07-18T09:19:44.209Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
