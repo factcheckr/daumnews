@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-07-20T02:38:14.591Z</updated>
+    <updated>2023-07-20T03:20:02.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“응급실 소아암 환자들 KTX 안탈 수 있게”…지방 병원 지원책 나왔다]]></title>
+        <id>https://v.daum.net/v/20230720110158080</id>
+        <link href="https://v.daum.net/v/20230720110158080"/>
+        <updated>2023-07-20T03:19:25.843Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장 最多세포는 면역 ‘T세포’…생명의 비밀 풀 장기 세포지도 나왔다]]></title>
         <id>https://v.daum.net/v/20230720000030416</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230720092001466"/>
         <updated>2023-07-20T01:27:55.747Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다음주 공개 예정 '갤럭시 탭S9'… 방수도 문제 없어]]></title>
-        <id>https://v.daum.net/v/20230720064107219</id>
-        <link href="https://v.daum.net/v/20230720064107219"/>
-        <updated>2023-07-20T01:27:55.749Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
     </entry>
 </feed>
