@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-07-20T15:20:32.514Z</updated>
+    <updated>2023-07-20T16:25:04.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이상한' 美 주택시장…6월 거래 줄었는데 집값은 역대 2위]]></title>
+        <id>https://v.daum.net/v/20230721001729272</id>
+        <link href="https://v.daum.net/v/20230721001729272"/>
+        <updated>2023-07-20T16:23:28.319Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반도체는 경기도, 2차전지·디스플레이는 비수도권 거점]]></title>
         <id>https://v.daum.net/v/20230721000338081</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230720231639679"/>
         <updated>2023-07-20T15:18:45.364Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“소상공인·자영업자 성장 기반 마련”… 골목규제 뽀갠다 [심층기획-세계로 뛰는 중소기업]]]></title>
-        <id>https://v.daum.net/v/20230720202953220</id>
-        <link href="https://v.daum.net/v/20230720202953220"/>
-        <updated>2023-07-20T14:17:10.904Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>

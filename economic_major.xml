@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-07-20T15:20:32.503Z</updated>
+    <updated>2023-07-20T16:25:04.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://v.daum.net/v/20230721000116017"/>
         <updated>2023-07-20T15:18:56.384Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“소상공인·자영업자 성장 기반 마련”… 골목규제 뽀갠다 [심층기획-세계로 뛰는 중소기업]]]></title>
+        <id>https://v.daum.net/v/20230720202953220</id>
+        <link href="https://v.daum.net/v/20230720202953220"/>
+        <updated>2023-07-20T16:23:36.336Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“새로 입사한 53세 김oo입니다” 멀지 않았다…구인난 심화로 취업자 고령화]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230720213131512"/>
         <updated>2023-07-20T14:17:20.933Z</updated>
         <content type="html"><![CDATA[kbc광주방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콘텐츠 ‘보는’ Z·‘소비하는’ 알파...PC 아닌 모바일 전성시대서 성장]]></title>
-        <id>https://v.daum.net/v/20230720210001864</id>
-        <link href="https://v.daum.net/v/20230720210001864"/>
-        <updated>2023-07-20T14:17:20.933Z</updated>
-        <content type="html"><![CDATA[매경이코노미]]></content>
     </entry>
 </feed>
