@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-20T10:21:48.488Z</updated>
+    <updated>2023-07-20T11:17:35.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“별걸 다 만드네” 기발한 ‘반지’ 삼성도 애플도 ‘눈독’]]></title>
+        <id>https://v.daum.net/v/20230720195117463</id>
+        <link href="https://v.daum.net/v/20230720195117463"/>
+        <updated>2023-07-20T11:16:43.021Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헛방만 2년 ‘빅테크 저승사자’… 다음 상대 챗GPT엔 KO주먹 날릴까]]></title>
         <id>https://v.daum.net/v/20230720190132529</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230720183047930"/>
         <updated>2023-07-20T10:20:59.213Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갤Z플립·폴드5 내달 8일 출시···사전예약땐 용량 2배 'UP']]></title>
-        <id>https://v.daum.net/v/20230720181041380</id>
-        <link href="https://v.daum.net/v/20230720181041380"/>
-        <updated>2023-07-20T09:18:35.375Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
