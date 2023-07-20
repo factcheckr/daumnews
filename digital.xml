@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-20T18:24:28.711Z</updated>
+    <updated>2023-07-20T20:20:14.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“텔레그램 ‘보안 업데이트’ 누르지 마세요”]]></title>
+        <id>https://v.daum.net/v/20230721030301759</id>
+        <link href="https://v.daum.net/v/20230721030301759"/>
+        <updated>2023-07-20T20:19:27.886Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“AI, 인간 능력 뛰어넘으려면 30~50년은 걸릴 것”]]></title>
         <id>https://v.daum.net/v/20230721030433860</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230720202659184"/>
         <updated>2023-07-20T12:36:48.498Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헛방만 2년 ‘빅테크 저승사자’… 다음 상대 챗GPT엔 KO주먹 날릴까]]></title>
-        <id>https://v.daum.net/v/20230720190132529</id>
-        <link href="https://v.daum.net/v/20230720190132529"/>
-        <updated>2023-07-20T10:20:59.206Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
