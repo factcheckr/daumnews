@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-07-20T16:25:04.292Z</updated>
+    <updated>2023-07-20T17:17:53.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제56회 대통령금배 전국고교축구대회[경향포토]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5840100/H1i5HoI9Sr</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5840100/H1i5HoI9Sr"/>
+        <updated>2023-07-20T17:17:24.606Z</updated>
+        <content type="html"><![CDATA[경향포토]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오색빛깔 날개]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/VIDGrKJGrJ</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033399/xgA7D9iHK1"/>
         <updated>2023-07-20T14:18:22.947Z</updated>
         <content type="html"><![CDATA[우크라이나는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집중호우가 남긴 대청호 ‘쓰레기 섬’]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5593610/u1tR3cT6MU</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5593610/u1tR3cT6MU"/>
-        <updated>2023-07-20T08:25:37.892Z</updated>
-        <content type="html"><![CDATA[[기상특보] 전국 폭우 포토뉴스]]></content>
     </entry>
 </feed>
