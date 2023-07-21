@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-21T03:22:50.791Z</updated>
+    <updated>2023-07-21T04:23:02.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나19 때 의료비 부담 ‘껑충’…평균 31만원 더 썼다]]></title>
+        <id>https://v.daum.net/v/20230721130015713</id>
+        <link href="https://v.daum.net/v/20230721130015713"/>
+        <updated>2023-07-21T04:22:14.216Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자율주행차 학습에 영상 원본데이터 사용 가능해진다]]></title>
         <id>https://v.daum.net/v/20230721120153672</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230721105309851"/>
         <updated>2023-07-21T02:37:55.922Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["물 속에서 오래 숨 참지 마세요"… 장난하다 죽을 수도]]></title>
-        <id>https://v.daum.net/v/20230721103854303</id>
-        <link href="https://v.daum.net/v/20230721103854303"/>
-        <updated>2023-07-21T02:37:55.930Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
