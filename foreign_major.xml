@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-07-21T12:35:19.457Z</updated>
+    <updated>2023-07-21T13:22:56.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우크라, 미국 집속탄 논란 속 실전 첫 사용…영상에 포착]]></title>
+        <id>https://v.daum.net/v/20230721211506997</id>
+        <link href="https://v.daum.net/v/20230721211506997"/>
+        <updated>2023-07-21T13:21:35.358Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기시다 총리, 수습 곤란에 빠진 마이넘버 카드 논란에 또 한번 사과]]></title>
+        <id>https://v.daum.net/v/20230721205507712</id>
+        <link href="https://v.daum.net/v/20230721205507712"/>
+        <updated>2023-07-21T13:21:35.359Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英집권 보수당, 보궐선거 3곳중 2곳 패배…내년 총선서 정권 교체 가능성]]></title>
         <id>https://v.daum.net/v/20230721205443709</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230721190354973"/>
         <updated>2023-07-21T12:34:03.981Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[27만 명이 1년 먹을 곡물 불태운 푸틴·쌀 수출 막은 인도...'물가 초비상']]></title>
-        <id>https://v.daum.net/v/20230721190008890</id>
-        <link href="https://v.daum.net/v/20230721190008890"/>
-        <updated>2023-07-21T11:15:07.619Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오픈AI·구글·MS 등, 백악관 주선 AI 규제 따를 것 약속]]></title>
-        <id>https://v.daum.net/v/20230721184809690</id>
-        <link href="https://v.daum.net/v/20230721184809690"/>
-        <updated>2023-07-21T11:15:07.619Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
