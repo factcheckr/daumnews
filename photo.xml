@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-07-21T16:25:08.434Z</updated>
+    <updated>2023-07-21T18:28:44.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5847810/FiCQ1FfO24"/>
         <updated>2023-07-21T13:22:24.675Z</updated>
         <content type="html"><![CDATA[지자체 제공 포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파업 시위 벌이는 영국 전문의]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/2329/6HkXjkyP3c</id>
+        <link href="https://gallery.v.daum.net/p/viewer/2329/6HkXjkyP3c"/>
+        <updated>2023-07-21T18:28:08.026Z</updated>
+        <content type="html"><![CDATA[영국은 지금]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[금꿩의다리]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033571/HouXaAv8bb"/>
         <updated>2023-07-21T08:23:11.387Z</updated>
         <content type="html"><![CDATA[군 제공 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민의힘, 예천서 수해복구 지원…다음주까지 '봉사주간']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5615616/G0tkngC23h</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5615616/G0tkngC23h"/>
-        <updated>2023-07-21T08:23:11.387Z</updated>
-        <content type="html"><![CDATA[뉴스1 PICK]]></content>
     </entry>
 </feed>
