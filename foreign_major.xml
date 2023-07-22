@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-07-22T06:23:01.898Z</updated>
+    <updated>2023-07-22T07:17:01.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中 외교부장 사라지자...英 "이달 예정된 외무장관 방중 연기"]]></title>
+        <id>https://v.daum.net/v/20230722144800945</id>
+        <link href="https://v.daum.net/v/20230722144800945"/>
+        <updated>2023-07-22T07:15:38.998Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월북 미군, “여권 분실” 탈주…5시간의 인천공항 행적]]></title>
+        <id>https://v.daum.net/v/20230722143201756</id>
+        <link href="https://v.daum.net/v/20230722143201756"/>
+        <updated>2023-07-22T07:15:38.998Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“푸틴, 날 흠집 내면 전쟁에 찬동했던 극우도 이제 안 봐줘”]]></title>
         <id>https://v.daum.net/v/20230722142302655</id>
@@ -48,13 +62,6 @@
         <content type="html"><![CDATA[세계일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[르포] "준비 끝났다"…후쿠시마 오염수 방류 지시 기다리는 도쿄전력]]></title>
-        <id>https://v.daum.net/v/20230722132315168</id>
-        <link href="https://v.daum.net/v/20230722132315168"/>
-        <updated>2023-07-22T06:21:47.581Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[美백악관 "'핵 사용조건' 北위협, 가볍게 여기지 않는다"]]></title>
         <id>https://v.daum.net/v/20230722124138896</id>
         <link href="https://v.daum.net/v/20230722124138896"/>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230722130614057"/>
         <updated>2023-07-22T05:16:57.410Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美, AI 활용 콘텐츠에 '워터마크' 붙이기로…효과 있을까]]></title>
-        <id>https://v.daum.net/v/20230722124200898</id>
-        <link href="https://v.daum.net/v/20230722124200898"/>
-        <updated>2023-07-22T05:16:57.412Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
 </feed>
