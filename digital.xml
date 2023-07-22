@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-22T01:28:28.861Z</updated>
+    <updated>2023-07-22T02:36:27.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아직은 조작된 희망의 상징…인간 형상 ‘소셜 로봇’]]></title>
+        <id>https://v.daum.net/v/20230722110520039</id>
+        <link href="https://v.daum.net/v/20230722110520039"/>
+        <updated>2023-07-22T02:35:47.877Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오픈AI에 도전장 낸 일론 머스크]]></title>
         <id>https://v.daum.net/v/20230722100148311</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230722092843942"/>
         <updated>2023-07-22T01:27:38.858Z</updated>
         <content type="html"><![CDATA[더스쿠프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뱀이 꿈틀대는 듯한 태양 에너지 방출 순간…올해의 천문사진은?]]></title>
-        <id>https://v.daum.net/v/20230722092503905</id>
-        <link href="https://v.daum.net/v/20230722092503905"/>
-        <updated>2023-07-22T01:27:38.859Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
