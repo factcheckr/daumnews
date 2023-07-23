@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-23T03:20:12.943Z</updated>
+    <updated>2023-07-23T04:21:43.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사람이 없어요'…AI 카메라가 담은 서울의 모습]]></title>
+        <id>https://v.daum.net/v/20230723130003273</id>
+        <link href="https://v.daum.net/v/20230723130003273"/>
+        <updated>2023-07-23T04:21:02.637Z</updated>
+        <content type="html"><![CDATA[비즈워치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["코로나후유증 '브레인포그' 3개월 이상, 낮은 수준 인지 저하 이어져"]]></title>
         <id>https://v.daum.net/v/20230723120020490</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230723113802188"/>
         <updated>2023-07-23T02:41:01.848Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ZD브리핑] 삼성전자 서울서 첫 갤럭시 공개 행사…美 금리 25bp 인상 유력]]></title>
-        <id>https://v.daum.net/v/20230723094708342</id>
-        <link href="https://v.daum.net/v/20230723094708342"/>
-        <updated>2023-07-23T02:41:01.852Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
