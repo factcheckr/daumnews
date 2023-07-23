@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-23T14:16:09.787Z</updated>
+    <updated>2023-07-23T15:18:26.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이번 주 삼성 '갤Z플립5·폴드5' 베일 벗는다…애플과 하반기 시장 격돌]]></title>
+        <id>https://v.daum.net/v/20230724000039326</id>
+        <link href="https://v.daum.net/v/20230724000039326"/>
+        <updated>2023-07-23T15:17:39.481Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전 세계 AI 각축전…국내 AI도 맞춤형 서비스 도전]]></title>
         <id>https://v.daum.net/v/20230723214554497</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230723213057386"/>
         <updated>2023-07-23T13:23:17.592Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[테크&포커스] 온난화가 당긴 방아쇠… 지진·홍수까지 `도미노재난` 번진다]]></title>
-        <id>https://v.daum.net/v/20230723182532569</id>
-        <link href="https://v.daum.net/v/20230723182532569"/>
-        <updated>2023-07-23T10:19:25.179Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
