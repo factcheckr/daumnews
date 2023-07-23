@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-07-23T12:34:45.467Z</updated>
+    <updated>2023-07-23T13:24:03.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[그리스 섬 폭염에 산불 활활…英·獨 관광객 수영복 입은채 대피]]></title>
+        <title type="html"><![CDATA[러의 ‘집속탄 역공’... 우크라가 쏘자 “기자 4명 사상” 비난전]]></title>
+        <id>https://v.daum.net/v/20230723221345766</id>
+        <link href="https://v.daum.net/v/20230723221345766"/>
+        <updated>2023-07-23T13:22:40.175Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한 여름에 얼음의 강? 지구촌 곳곳 ‘극단적 날씨’]]></title>
+        <id>https://v.daum.net/v/20230723214303473</id>
+        <link href="https://v.daum.net/v/20230723214303473"/>
+        <updated>2023-07-23T13:22:40.179Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["전례없는 산불" 수영복 입고 도망쳤다…그리스섬 탈출 작전]]></title>
         <id>https://v.daum.net/v/20230723212939377</id>
         <link href="https://v.daum.net/v/20230723212939377"/>
         <updated>2023-07-23T12:33:23.196Z</updated>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230723211832223"/>
         <updated>2023-07-23T12:33:23.207Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러 폭격에 200년 된 우크라 성당 파괴…젤렌스키 “보복하겠다” 분노]]></title>
-        <id>https://v.daum.net/v/20230723205703024</id>
-        <link href="https://v.daum.net/v/20230723205703024"/>
-        <updated>2023-07-23T12:33:23.209Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[극심한 폭염에 발목잡힌 세계 경제]]></title>
-        <id>https://v.daum.net/v/20230723210202069</id>
-        <link href="https://v.daum.net/v/20230723210202069"/>
-        <updated>2023-07-23T12:33:23.211Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
