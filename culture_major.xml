@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-07-23T18:22:03.714Z</updated>
+    <updated>2023-07-23T19:16:27.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어딘가 불편해 보이는 빨간색 뜨겁거나 위태롭거나]]></title>
+        <id>https://v.daum.net/v/20230724000551436</id>
+        <link href="https://v.daum.net/v/20230724000551436"/>
+        <updated>2023-07-23T19:15:38.601Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘더 넓고 깊게’ 평창서 자라는 클래식]]></title>
         <id>https://v.daum.net/v/20230724000551435</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230723202051708"/>
         <updated>2023-07-23T15:17:28.620Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남부 최고 150mm, 충청 120mm 더 온다]]></title>
-        <id>https://v.daum.net/v/20230723201017612</id>
-        <link href="https://v.daum.net/v/20230723201017612"/>
-        <updated>2023-07-23T15:17:28.622Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
