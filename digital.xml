@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-24T11:16:36.223Z</updated>
+    <updated>2023-07-24T12:38:13.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소비 둔화에도 꿋꿋한 애플 "출하량 목표치 그대로 유지한다"]]></title>
+        <id>https://v.daum.net/v/20230724210203428</id>
+        <link href="https://v.daum.net/v/20230724210203428"/>
+        <updated>2023-07-24T12:37:24.758Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자녀 스마트폰 추적∙관리하려면 이렇게![이럴 땐 이렇게]]]></title>
         <id>https://v.daum.net/v/20230724190311651</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230724182758047"/>
         <updated>2023-07-24T10:20:27.670Z</updated>
         <content type="html"><![CDATA[이코노미조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트위터, '슈퍼앱'으로 탈바꿈한다…머스크 '파격 선언']]></title>
-        <id>https://v.daum.net/v/20230724182002835</id>
-        <link href="https://v.daum.net/v/20230724182002835"/>
-        <updated>2023-07-24T10:20:27.672Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
