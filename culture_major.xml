@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-07-25T03:20:00.428Z</updated>
+    <updated>2023-07-25T04:23:02.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리 사랑의 온도는 몇 도일까[그림 에세이]]]></title>
+        <id>https://v.daum.net/v/20230725113613635</id>
+        <link href="https://v.daum.net/v/20230725113613635"/>
+        <updated>2023-07-25T04:22:12.722Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 최고 미술관 리움이 치맥포차로 변신했다]]></title>
         <id>https://v.daum.net/v/20230725111501689</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230725053015794"/>
         <updated>2023-07-25T01:43:46.959Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지루한 도시에서 쿨한 서울로… ‘헤더윅 전’ 기획한 이지윤 숨 프로젝트 대표]]></title>
-        <id>https://v.daum.net/v/20230725090903286</id>
-        <link href="https://v.daum.net/v/20230725090903286"/>
-        <updated>2023-07-25T01:43:46.963Z</updated>
-        <content type="html"><![CDATA[여성동아]]></content>
     </entry>
 </feed>
