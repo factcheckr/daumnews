@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-07-25T09:20:24.236Z</updated>
+    <updated>2023-07-25T10:21:46.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘이 수칙’만 지키면 20년 더 건강하게 산다 [달콤한 사이언스]]]></title>
+        <id>https://v.daum.net/v/20230725173104801</id>
+        <link href="https://v.daum.net/v/20230725173104801"/>
+        <updated>2023-07-25T10:20:57.889Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전직 장관들도 당했다 …'피싱 숙주' 된 텔레그램]]></title>
+        <id>https://v.daum.net/v/20230725172709664</id>
+        <link href="https://v.daum.net/v/20230725172709664"/>
+        <updated>2023-07-25T10:20:57.891Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[13년 대장정 마친 '누리호 아버지']]></title>
         <id>https://v.daum.net/v/20230725171810227</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230725164129503"/>
         <updated>2023-07-25T08:24:54.949Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방통위, "EBS 명예 실추" TV조선 재승인 의혹 EBS 이사 해임청문 통보]]></title>
-        <id>https://v.daum.net/v/20230725163024007</id>
-        <link href="https://v.daum.net/v/20230725163024007"/>
-        <updated>2023-07-25T08:24:54.950Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“논문 좀 보내주세요”...해외학술지 못 보는 출연연 연구자들]]></title>
-        <id>https://v.daum.net/v/20230725161901541</id>
-        <link href="https://v.daum.net/v/20230725161901541"/>
-        <updated>2023-07-25T08:24:54.954Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
