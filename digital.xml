@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-25T15:21:20.872Z</updated>
+    <updated>2023-07-25T16:25:04.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://v.daum.net/v/20230725205822213"/>
         <updated>2023-07-25T12:39:09.849Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["폴더블폰 원조는 한국" 삼성의 자부심…역대급 행사 열린다]]></title>
-        <id>https://v.daum.net/v/20230725200109953</id>
-        <link href="https://v.daum.net/v/20230725200109953"/>
-        <updated>2023-07-25T12:39:09.854Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SF의 상상력을 빌려오자]]></title>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20230725174215236"/>
         <updated>2023-07-25T13:25:10.387Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘이 수칙’만 지키면 20년 더 건강하게 산다 [달콤한 사이언스]]]></title>
+        <id>https://v.daum.net/v/20230725173104801</id>
+        <link href="https://v.daum.net/v/20230725173104801"/>
+        <updated>2023-07-25T16:24:14.180Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
