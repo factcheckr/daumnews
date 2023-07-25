@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-07-25T13:26:03.378Z</updated>
+    <updated>2023-07-25T14:19:36.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노병의 '아리랑'…70년 만에 다시 밟은 한국 땅]]></title>
+        <id>https://v.daum.net/v/20230725212119664</id>
+        <link href="https://v.daum.net/v/20230725212119664"/>
+        <updated>2023-07-25T14:17:44.887Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“정쟁 소재 될 수 있다”…대통령실의 ‘선택적 침묵’]]></title>
         <id>https://v.daum.net/v/20230725213433913</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230725203655854"/>
         <updated>2023-07-25T12:38:00.232Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전국 유일 청년 상한 연령 34세... 경기도 정책 수혜 역차별 우려]]></title>
-        <id>https://v.daum.net/v/20230725190825702</id>
-        <link href="https://v.daum.net/v/20230725190825702"/>
-        <updated>2023-07-25T12:38:00.234Z</updated>
-        <content type="html"><![CDATA[경기일보]]></content>
     </entry>
 </feed>

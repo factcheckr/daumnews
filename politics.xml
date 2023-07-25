@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-07-25T13:26:03.359Z</updated>
+    <updated>2023-07-25T14:19:36.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민주, 선출직공직자평가위 첫 회의…총선준비 스타트]]></title>
+        <id>https://v.daum.net/v/20230725231050185</id>
+        <link href="https://v.daum.net/v/20230725231050185"/>
+        <updated>2023-07-25T14:17:35.240Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정치와이드] 이유 있는 교사들의 분노…대책은?]]></title>
         <id>https://v.daum.net/v/20230725202258537</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230725214055005"/>
         <updated>2023-07-25T13:23:42.967Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노병의 '아리랑'…70년 만에 다시 밟은 한국 땅]]></title>
-        <id>https://v.daum.net/v/20230725212119664</id>
-        <link href="https://v.daum.net/v/20230725212119664"/>
-        <updated>2023-07-25T12:37:51.352Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
