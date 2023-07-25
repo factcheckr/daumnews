@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-07-25T12:40:00.956Z</updated>
+    <updated>2023-07-25T13:26:03.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한, '전승절 70주년' 경축공연]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1489/xFC8gzNFpr</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1489/xFC8gzNFpr"/>
+        <updated>2023-07-25T13:25:30.820Z</updated>
+        <content type="html"><![CDATA[북한은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마약 숨겨봤자 제 코는 못 피해요[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/8n8sWLGMyl</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2438/5ejHsRS47h"/>
         <updated>2023-07-25T07:17:46.647Z</updated>
         <content type="html"><![CDATA[바티칸은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이민, 마약, 밀매…미-멕시코 양국간 난제들 논하다]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5032335/qgxsobcpF7</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5032335/qgxsobcpF7"/>
-        <updated>2023-07-25T07:17:46.647Z</updated>
-        <content type="html"><![CDATA[멕시코는 지금]]></content>
     </entry>
 </feed>
