@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-26T03:19:07.351Z</updated>
+    <updated>2023-07-26T04:21:24.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['숙명의 라이벌' MS·구글, 나란히 웃었다...예상 뛰어넘은 실적 거둬]]></title>
+        <id>https://v.daum.net/v/20230726130028045</id>
+        <link href="https://v.daum.net/v/20230726130028045"/>
+        <updated>2023-07-26T04:20:40.747Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김영식 국힘 의원, 방통위에 'KBS 직권조사' 요청]]></title>
+        <id>https://v.daum.net/v/20230726122102474</id>
+        <link href="https://v.daum.net/v/20230726122102474"/>
+        <updated>2023-07-26T04:20:40.751Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가입기간 끝나가도 부담됐는데…인터넷 위약금 약정후반기 40%↓]]></title>
         <id>https://v.daum.net/v/20230726120207923</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230726112102982"/>
         <updated>2023-07-26T02:39:21.388Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“정부 AI사업 이 모양?”…20%는 ‘있으나마나’ 사업비 가로채기도]]></title>
-        <id>https://v.daum.net/v/20230726102408167</id>
-        <link href="https://v.daum.net/v/20230726102408167"/>
-        <updated>2023-07-26T01:28:59.149Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주가 오른 AI기업들 자금조달 우려? 제이엘케이 이틀새 18% ↓]]></title>
-        <id>https://v.daum.net/v/20230726102240101</id>
-        <link href="https://v.daum.net/v/20230726102240101"/>
-        <updated>2023-07-26T01:28:59.151Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
