@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-07-26T18:24:08.579Z</updated>
+    <updated>2023-07-26T19:16:32.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230727030330601"/>
         <updated>2023-07-26T18:23:15.855Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울언팩]삼성 노태문 "몇 년 후 폴더블 판매량 1억대 넘는다"]]></title>
+        <id>https://v.daum.net/v/20230726224947893</id>
+        <link href="https://v.daum.net/v/20230726224947893"/>
+        <updated>2023-07-26T19:15:47.449Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["갈아탈까"…15년 아이폰 유저도 흔들리는 '갤Z플립5' 실물 [영상]]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230726221538527"/>
         <updated>2023-07-26T15:20:34.733Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커진 외부화면서 메시지 보내는 플립5, 얇고 가벼워진 폴드5]]></title>
-        <id>https://v.daum.net/v/20230726214511681</id>
-        <link href="https://v.daum.net/v/20230726214511681"/>
-        <updated>2023-07-26T15:20:34.735Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-07-26T18:24:08.594Z</updated>
+    <updated>2023-07-26T19:16:32.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/377110/2Dztj6OKTV"/>
         <updated>2023-07-26T13:22:03.140Z</updated>
         <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“그 자료 여기 있는데요?” 원희룡 장관의 동공지진[사진잇슈]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5611568/XORCPpLZZV</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5611568/XORCPpLZZV"/>
+        <updated>2023-07-26T19:15:54.682Z</updated>
+        <content type="html"><![CDATA[사진잇슈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이스라엘 초보수 집권당 의원들의 축하 셀피]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5847810/ZiWZRPI936"/>
         <updated>2023-07-26T09:18:00.464Z</updated>
         <content type="html"><![CDATA[지자체 제공 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신림동 흉기 난동' 피의자 신상 공개]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1075022/xEsYyl9ruL</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1075022/xEsYyl9ruL"/>
-        <updated>2023-07-26T09:18:00.465Z</updated>
-        <content type="html"><![CDATA[경찰 제공 포토]]></content>
     </entry>
 </feed>
