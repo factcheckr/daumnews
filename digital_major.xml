@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-07-27T11:16:29.020Z</updated>
+    <updated>2023-07-27T12:36:09.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA["아 진짜 X됐네"…사라진 파랑새, 트위터 로고의 변천사]]></title>
-        <id>https://v.daum.net/v/20230727180108889</id>
-        <link href="https://v.daum.net/v/20230727180108889"/>
-        <updated>2023-07-27T11:15:55.173Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[팩플] 죽어가던 페북 광고, AI가 살렸다…저커버그 ‘판 깨기’ 전략 먹히나]]></title>
         <id>https://v.daum.net/v/20230727175726751</id>
@@ -48,13 +41,6 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“갤럭시에 한국 입혔다”…‘안방 언팩’에 쏟아지는 극찬]]></title>
-        <id>https://v.daum.net/v/20230727163034650</id>
-        <link href="https://v.daum.net/v/20230727163034650"/>
-        <updated>2023-07-27T09:18:29.656Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[‘노벨상감’ 상온 초전도체 세계 최초 개발했다는 한국 연구...과학계 ‘회의론’ 넘을까]]></title>
         <id>https://v.daum.net/v/20230727160639611</id>
         <link href="https://v.daum.net/v/20230727160639611"/>
@@ -74,5 +60,19 @@
         <link href="https://v.daum.net/v/20230727161048762"/>
         <updated>2023-07-27T08:22:20.037Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["선제적 방어로 전환해야"… 대응→억제로 중심이동하는 사이버보안]]></title>
+        <id>https://v.daum.net/v/20230727160043037</id>
+        <link href="https://v.daum.net/v/20230727160043037"/>
+        <updated>2023-07-27T12:35:33.061Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버 이어 카카오도 서이초 리뷰 서비스 중단]]></title>
+        <id>https://v.daum.net/v/20230727155724845</id>
+        <link href="https://v.daum.net/v/20230727155724845"/>
+        <updated>2023-07-27T12:35:33.064Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
