@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-07-28T13:23:18.078Z</updated>
+    <updated>2023-07-28T14:17:13.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1인 가구·고령 인구 느는데…‘셈법’ 복잡]]></title>
+        <id>https://v.daum.net/v/20230728220138803</id>
+        <link href="https://v.daum.net/v/20230728220138803"/>
+        <updated>2023-07-28T14:15:41.228Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“바다뷰 17만 원→10만 원 인하”…성수기 요금 낮춘 제주 펜션]]></title>
         <id>https://v.daum.net/v/20230728215807730</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230728205213776"/>
         <updated>2023-07-28T13:21:52.523Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누가 경기침체 온다고 했나요…두달 연속 트리플 성장 이뤘다]]></title>
-        <id>https://v.daum.net/v/20230728205104758</id>
-        <link href="https://v.daum.net/v/20230728205104758"/>
-        <updated>2023-07-28T13:21:52.526Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>

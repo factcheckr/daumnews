@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-28T13:23:18.091Z</updated>
+    <updated>2023-07-28T14:17:13.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독립운동가 발자취 따라…경북 고교생 60명 '순례길']]></title>
+        <id>https://v.daum.net/v/20230728134138492</id>
+        <link href="https://v.daum.net/v/20230728134138492"/>
+        <updated>2023-07-28T14:16:28.678Z</updated>
+        <content type="html"><![CDATA[EBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WCG 찾은 워크3·스타2 e스포츠 전설들…중국과 명승부]]></title>
         <id>https://v.daum.net/v/20230728203747604</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230728190808359"/>
         <updated>2023-07-28T10:18:58.004Z</updated>
         <content type="html"><![CDATA[게임톡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실외 배달로봇 '시속 15km 이하로'...16가지 안전기준 심사]]></title>
-        <id>https://v.daum.net/v/20230728181050331</id>
-        <link href="https://v.daum.net/v/20230728181050331"/>
-        <updated>2023-07-28T09:17:53.954Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
