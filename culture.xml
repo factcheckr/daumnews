@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-07-28T16:24:36.618Z</updated>
+    <updated>2023-07-28T17:16:53.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개막식 열리는 센강에서 수영을… 파리는 올림픽 경기장으로 변신 중[전승훈 기자의 아트로드]]]></title>
+        <id>https://v.daum.net/v/20230729014043063</id>
+        <link href="https://v.daum.net/v/20230729014043063"/>
+        <updated>2023-07-28T17:15:54.592Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 여권 있으면 90일까지 무비자 체류 어디?]]></title>
         <id>https://v.daum.net/v/20230729010013997</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230728230017327"/>
         <updated>2023-07-28T14:16:12.289Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[암 생존자 5명 중 1명이 수면장애로 고통]]></title>
-        <id>https://v.daum.net/v/20230728171059820</id>
-        <link href="https://v.daum.net/v/20230728171059820"/>
-        <updated>2023-07-28T14:16:12.290Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
