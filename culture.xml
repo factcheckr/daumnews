@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-07-29T16:21:42.843Z</updated>
+    <updated>2023-07-29T17:16:13.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[간암 환자 10%는 ‘C형간염’이 원인…대처법은?]]></title>
+        <id>https://v.daum.net/v/20230730020135644</id>
+        <link href="https://v.daum.net/v/20230730020135644"/>
+        <updated>2023-07-29T17:15:09.474Z</updated>
+        <content type="html"><![CDATA[농민신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[물도 많이 마시면 독? 매일 4리터 마셨더니…]]></title>
         <id>https://v.daum.net/v/20230729145555541</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230729134301812"/>
         <updated>2023-07-29T15:16:08.808Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['5:5 가르마'만 고수하다... 머리 휑해지는 이유는?]]></title>
-        <id>https://v.daum.net/v/20230729130025443</id>
-        <link href="https://v.daum.net/v/20230729130025443"/>
-        <updated>2023-07-29T15:16:08.809Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
