@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-07-29T06:21:56.931Z</updated>
+    <updated>2023-07-29T07:16:43.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“어떻게 입수했나?”…北 무기로 러 軍 공격한 우크라이나군]]></title>
+        <id>https://v.daum.net/v/20230729160805301</id>
+        <link href="https://v.daum.net/v/20230729160805301"/>
+        <updated>2023-07-29T07:15:08.798Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라군, 남부서 탱크 방어용 러 '용의 이빨'까지 진격]]></title>
+        <id>https://v.daum.net/v/20230729152013816</id>
+        <link href="https://v.daum.net/v/20230729152013816"/>
+        <updated>2023-07-29T07:15:08.800Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우크라 軍, 러시아 공격에 북한 제조 포탄 사용…어디서 구했나?]]></title>
         <id>https://v.daum.net/v/20230729145851568</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230729144503469"/>
         <updated>2023-07-29T06:20:28.435Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이게 왜 당신 손에?"…우크라, 러시아 향해 北 로켓 발사]]></title>
-        <id>https://v.daum.net/v/20230729143254337</id>
-        <link href="https://v.daum.net/v/20230729143254337"/>
-        <updated>2023-07-29T06:20:28.436Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라 인근 러시아 본토에 미사일 공격…개전 후 처음]]></title>
-        <id>https://v.daum.net/v/20230729131958622</id>
-        <link href="https://v.daum.net/v/20230729131958622"/>
-        <updated>2023-07-29T05:15:44.122Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
