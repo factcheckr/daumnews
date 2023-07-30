@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-07-30T14:15:45.651Z</updated>
+    <updated>2023-07-30T15:21:06.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원희룡 앞 윤석열과 추미애의 길]]></title>
+        <id>https://v.daum.net/v/20230731000000469</id>
+        <link href="https://v.daum.net/v/20230731000000469"/>
+        <updated>2023-07-30T15:18:53.832Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준석 "교권회복 논의, 체벌 부활로 가선 안돼"…홍준표 "이준석도 안고, 유승민도 안고가라"…조정식 “이재명 퇴진설, 터무니없는 지라시” [투데이 여의도 스케치]]]></title>
         <id>https://v.daum.net/v/20230730230155880</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230730220402948"/>
         <updated>2023-07-30T13:18:22.207Z</updated>
         <content type="html"><![CDATA[쿠키뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2030 청년들 “민주당, 신호등 치킨 같다”…왜?]]></title>
-        <id>https://v.daum.net/v/20230730214201611</id>
-        <link href="https://v.daum.net/v/20230730214201611"/>
-        <updated>2023-07-30T13:18:22.207Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
