@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-30T10:18:37.374Z</updated>
+    <updated>2023-07-30T11:15:19.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“자칫하다간 액정 화면 박살” 이 사진 봤지?…삼성 새 제품도 조심하세요]]></title>
+        <id>https://v.daum.net/v/20230730195055226</id>
+        <link href="https://v.daum.net/v/20230730195055226"/>
+        <updated>2023-07-30T11:14:35.163Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PC교체 예산으로 DX?… "후려치기 안돼"]]></title>
         <id>https://v.daum.net/v/20230730183037333</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230730174203590"/>
         <updated>2023-07-30T09:15:59.021Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구독플레이션 시대…'디지털 품위유지비' 月 30만원]]></title>
-        <id>https://v.daum.net/v/20230730173102395</id>
-        <link href="https://v.daum.net/v/20230730173102395"/>
-        <updated>2023-07-30T09:15:59.023Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
