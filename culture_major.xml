@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-07-30T16:22:08.080Z</updated>
+    <updated>2023-07-30T17:18:01.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230731000604700"/>
         <updated>2023-07-30T15:20:04.234Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지구 끝에서 만난 세상…예술가들이 본 ‘극지 풍경’]]></title>
+        <id>https://v.daum.net/v/20230730214228612</id>
+        <link href="https://v.daum.net/v/20230730214228612"/>
+        <updated>2023-07-30T17:17:05.697Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“韓 관객들과 함께할 클래식 여정… 벌써 설레”]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230730180956043"/>
         <updated>2023-07-30T12:31:24.403Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시원한 맥주 한잔? 여름밤 숙면을 방해하는 것들]]></title>
-        <id>https://v.daum.net/v/20230730183039335</id>
-        <link href="https://v.daum.net/v/20230730183039335"/>
-        <updated>2023-07-30T12:31:24.403Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
