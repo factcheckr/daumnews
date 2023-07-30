@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-07-30T13:20:21.834Z</updated>
+    <updated>2023-07-30T14:15:45.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://v.daum.net/v/20230730215011717"/>
         <updated>2023-07-30T13:18:49.654Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘핸들에서 손 떼는’ 레벨3, 국내 상용화는 언제?]]></title>
+        <id>https://v.daum.net/v/20230730213538525</id>
+        <link href="https://v.daum.net/v/20230730213538525"/>
+        <updated>2023-07-30T14:14:19.997Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[다큐멘토링] 오합지졸 못 알아본 권력자의 패착]]></title>
+        <id>https://v.daum.net/v/20230730211242143</id>
+        <link href="https://v.daum.net/v/20230730211242143"/>
+        <updated>2023-07-30T14:14:19.998Z</updated>
+        <content type="html"><![CDATA[더스쿠프]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사업비만 '640조'…사우디의 미래 도시 '네옴'을 잡아라]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230730204548870"/>
         <updated>2023-07-30T12:30:50.915Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘두 개의 심장’ 렉서스 RX 500h F 스포츠 퍼포먼스…조용하되 강하다, 묵직하되 날렵하다]]></title>
-        <id>https://v.daum.net/v/20230730204511861</id>
-        <link href="https://v.daum.net/v/20230730204511861"/>
-        <updated>2023-07-30T12:30:50.918Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미리보는 경제] AI반도체 2단계 수출 규제, 뜸들이는 미국‥왜?]]></title>
-        <id>https://v.daum.net/v/20230730203325757</id>
-        <link href="https://v.daum.net/v/20230730203325757"/>
-        <updated>2023-07-30T12:30:50.919Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
