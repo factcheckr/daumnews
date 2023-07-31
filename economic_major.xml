@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-07-31T14:18:19.253Z</updated>
+    <updated>2023-07-31T15:21:15.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -10,6 +10,20 @@
         <id>https://v.daum.net/v/20230731215222760</id>
         <link href="https://v.daum.net/v/20230731215222760"/>
         <updated>2023-07-31T14:17:01.229Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“육아휴직 쓰겠다”하니…회사가 폐업했다? [제보K]]]></title>
+        <id>https://v.daum.net/v/20230731213714580</id>
+        <link href="https://v.daum.net/v/20230731213714580"/>
+        <updated>2023-07-31T15:19:44.647Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상반기 덜 걷힌 국세 40조원 육박…세수 감소폭 ‘역대 최대’]]></title>
+        <id>https://v.daum.net/v/20230731212901509</id>
+        <link href="https://v.daum.net/v/20230731212901509"/>
+        <updated>2023-07-31T15:19:44.655Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230731200141428"/>
         <updated>2023-07-31T12:38:35.741Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리츠 투자 최악 벗어나나… 자산운용사들은 벌써 사들여]]></title>
-        <id>https://v.daum.net/v/20230731205107039</id>
-        <link href="https://v.daum.net/v/20230731205107039"/>
-        <updated>2023-07-31T12:38:35.743Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상반기 덜 걷힌 국세 40조 원 육박‥유류세 인하 연장할까]]></title>
-        <id>https://v.daum.net/v/20230731204316953</id>
-        <link href="https://v.daum.net/v/20230731204316953"/>
-        <updated>2023-07-31T12:38:35.746Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
