@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-07-31T04:22:01.317Z</updated>
+    <updated>2023-07-31T05:18:35.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경기불황에 '돈벌이' 해킹 늘었다…상반기 침해사고 40% '껑충']]></title>
+        <id>https://v.daum.net/v/20230731120023040</id>
+        <link href="https://v.daum.net/v/20230731120023040"/>
+        <updated>2023-07-31T05:18:00.237Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“애플 2025년 폴더블폰 내놓을 전망”…삼성 폴더블 독주에 합류하나]]></title>
         <id>https://v.daum.net/v/20230731114224336</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KT vs 젠지, LCK 서머 정규리그 막판 뜨거운 선두 경쟁]]></title>
+        <title type="html"><![CDATA[KT-젠지, LCK 서머 정규리그 막판 뜨거운 선두 경쟁]]></title>
         <id>https://v.daum.net/v/20230731113050819</id>
         <link href="https://v.daum.net/v/20230731113050819"/>
         <updated>2023-07-31T03:19:06.164Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230731103719442"/>
         <updated>2023-07-31T03:19:06.174Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이게 왜 풀렸지?"…애플 스크린 타임 제한 기능 오류]]></title>
-        <id>https://v.daum.net/v/20230731102716078</id>
-        <link href="https://v.daum.net/v/20230731102716078"/>
-        <updated>2023-07-31T03:19:06.176Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>

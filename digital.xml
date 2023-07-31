@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-07-31T04:22:01.332Z</updated>
+    <updated>2023-07-31T05:18:35.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스마트폰/PC에서 프라이버시를 보호하려면 이렇게![이럴땐 이렇게!]]]></title>
+        <id>https://v.daum.net/v/20230731132105373</id>
+        <link href="https://v.daum.net/v/20230731132105373"/>
+        <updated>2023-07-31T05:17:51.643Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[달 먼지 구워 태양광 전지판 만드는 기술 속도…‘월면 상주 시대’ 성큼]]></title>
         <id>https://v.daum.net/v/20230731125411954</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230731120100136"/>
         <updated>2023-07-31T03:18:58.053Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기불황에 '돈벌이' 해킹 늘었다…상반기 침해사고 40% '껑충']]></title>
-        <id>https://v.daum.net/v/20230731120023040</id>
-        <link href="https://v.daum.net/v/20230731120023040"/>
-        <updated>2023-07-31T03:18:58.055Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
