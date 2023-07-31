@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-07-31T16:24:14.273Z</updated>
+    <updated>2023-07-31T17:17:58.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개물림 사고 ‘매년 2000건’… 내년 맹견 허가제 시행 속도]]></title>
+        <id>https://v.daum.net/v/20230801000420641</id>
+        <link href="https://v.daum.net/v/20230801000420641"/>
+        <updated>2023-07-31T17:16:17.504Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HDC현산, 실적부진·안전사고로 시평 '휘청'…평가액 1조 원 증발]]></title>
         <id>https://v.daum.net/v/20230801000054580</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230731223602144"/>
         <updated>2023-07-31T14:16:53.841Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“부모님 도움 안 받으면 답 없었는데 다행”...맞벌이 부부에 한줄기 희망]]></title>
-        <id>https://v.daum.net/v/20230731222400071</id>
-        <link href="https://v.daum.net/v/20230731222400071"/>
-        <updated>2023-07-31T14:16:53.841Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
