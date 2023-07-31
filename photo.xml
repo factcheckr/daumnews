@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-07-31T11:17:05.204Z</updated>
+    <updated>2023-07-31T12:39:57.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김영록 전남지사, 호남향우회와 기념촬영]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5847810/YqqdnE0gK0</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5847810/YqqdnE0gK0"/>
+        <updated>2023-07-31T12:39:31.351Z</updated>
+        <content type="html"><![CDATA[지자체 제공 포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여야 모처럼 한목소리[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/0s0v09Euht</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/0s0v09Euht"/>
+        <updated>2023-07-31T12:39:31.352Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어떤 체험]]></title>
         <id>https://gallery.v.daum.net/p/viewer/172711/Zfa3Y0nXQc</id>
         <link href="https://gallery.v.daum.net/p/viewer/172711/Zfa3Y0nXQc"/>
         <updated>2023-07-31T10:22:56.747Z</updated>
         <content type="html"><![CDATA[포토에세이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[충남도·시군 "스마트농업 육성"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5847810/QdPwqOqkF9</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5847810/QdPwqOqkF9"/>
-        <updated>2023-07-31T10:22:56.747Z</updated>
-        <content type="html"><![CDATA[지자체 제공 포토]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국 하원 세입위원회 의원단 면담]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5840472/ue4cR5RyBt"/>
         <updated>2023-07-31T07:18:12.177Z</updated>
         <content type="html"><![CDATA[포토스토리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호우 피해 지원대책 발표 마친 이상민 장관]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5612596/XIj73k3oBu</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5612596/XIj73k3oBu"/>
-        <updated>2023-07-31T06:24:24.391Z</updated>
-        <content type="html"><![CDATA[머니S포토]]></content>
     </entry>
 </feed>
