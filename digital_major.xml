@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-08-01T10:20:27.517Z</updated>
+    <updated>2023-08-01T11:15:59.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://v.daum.net/v/20230801173926411</id>
         <link href="https://v.daum.net/v/20230801173926411"/>
         <updated>2023-08-01T09:18:23.425Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["별도 명령없이 스스로 학습" 빅테크發 AI로봇산업 판 바뀐다]]></title>
+        <id>https://v.daum.net/v/20230801173922408</id>
+        <link href="https://v.daum.net/v/20230801173922408"/>
+        <updated>2023-08-01T11:15:24.546Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230801162814864"/>
         <updated>2023-08-01T08:31:44.573Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] 몸값 오른 갤럭시Z, 공시지원금은 전년 수준…어떻게 사야 쌀까]]></title>
-        <id>https://v.daum.net/v/20230801161858504</id>
-        <link href="https://v.daum.net/v/20230801161858504"/>
-        <updated>2023-08-01T08:31:44.575Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
