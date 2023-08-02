@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-02T22:17:42.683Z</updated>
+    <updated>2023-08-02T23:18:26.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['보호예수 끝' 쏘카, 물량폭탄 우려에…우리사주 못 파는 속사정]]></title>
+        <id>https://v.daum.net/v/20230803073032620</id>
+        <link href="https://v.daum.net/v/20230803073032620"/>
+        <updated>2023-08-02T23:17:42.629Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[상온 초전도체 이후 ‘아카이브’ 논문, 챗GPT에 설명을 부탁했다]]></title>
         <id>https://v.daum.net/v/20230802222734990</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230803063013898"/>
         <updated>2023-08-02T22:16:53.055Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이통사 초고속인터넷 케이블 교체 속도…SKB는 '거북이']]></title>
-        <id>https://v.daum.net/v/20230803062001813</id>
-        <link href="https://v.daum.net/v/20230803062001813"/>
-        <updated>2023-08-02T22:16:53.059Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
