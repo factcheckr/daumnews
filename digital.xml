@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-02T13:26:26.637Z</updated>
+    <updated>2023-08-02T14:17:52.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[상온 초전도체 이후 ‘아카이브’ 논문, 챗GPT에 설명을 부탁했다]]></title>
+        <id>https://v.daum.net/v/20230802222734990</id>
+        <link href="https://v.daum.net/v/20230802222734990"/>
+        <updated>2023-08-02T14:17:06.759Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“꿈의 신물질 ‘상온 초전도체’ 발견”… 한국 연구진 논문에 과학계 들썩 [뉴스투데이]]]></title>
         <id>https://v.daum.net/v/20230802191316591</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230802202104022"/>
         <updated>2023-08-02T12:35:01.657Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[접은 채로 다 되네!]]></title>
-        <id>https://v.daum.net/v/20230802200915748</id>
-        <link href="https://v.daum.net/v/20230802200915748"/>
-        <updated>2023-08-02T11:15:27.959Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>

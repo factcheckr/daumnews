@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-08-02T13:26:26.629Z</updated>
+    <updated>2023-08-02T14:17:52.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230802205635619"/>
         <updated>2023-08-02T12:35:08.942Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[접은 채로 다 되네!]]></title>
+        <id>https://v.daum.net/v/20230802200915748</id>
+        <link href="https://v.daum.net/v/20230802200915748"/>
+        <updated>2023-08-02T14:17:16.098Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[챗GPT 판별 위한 '워터마크'…텍스트에 어떻게 넣을까]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230802131259347"/>
         <updated>2023-08-02T11:15:37.351Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“병원 총무팀 직원마저 ‘태움’ 호소”…의료 현장 인권침해 어느 정도길래]]></title>
-        <id>https://v.daum.net/v/20230802165144737</id>
-        <link href="https://v.daum.net/v/20230802165144737"/>
-        <updated>2023-08-02T13:25:49.239Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
