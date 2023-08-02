@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-02T03:19:36.888Z</updated>
+    <updated>2023-08-02T04:23:33.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[회원 보디프로필, 본인 동의 없이 헬스장 인스타 올리면 “안돼요”]]></title>
+        <title type="html"><![CDATA[요기요·쿠팡이츠·바로고 상대로 ‘개인정보 분쟁조정’ 신청]]></title>
+        <id>https://v.daum.net/v/20230802131503387</id>
+        <link href="https://v.daum.net/v/20230802131503387"/>
+        <updated>2023-08-02T04:22:48.342Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 보디프로필 사진을 멋대로 헬스장 SNS에…책임 물을 수 있나]]></title>
         <id>https://v.daum.net/v/20230802120508198</id>
         <link href="https://v.daum.net/v/20230802120508198"/>
         <updated>2023-08-02T03:18:52.865Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230802110302890"/>
         <updated>2023-08-02T02:29:08.221Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제임스웹만 있나?…유럽 유클리드망원경도 궤도 안착]]></title>
-        <id>https://v.daum.net/v/20230802110516977</id>
-        <link href="https://v.daum.net/v/20230802110516977"/>
-        <updated>2023-08-02T02:29:08.225Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
