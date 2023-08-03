@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-08-03T19:16:06.126Z</updated>
+    <updated>2023-08-03T20:19:20.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개발자 인력난, 돌파구는 GDC…베트남을 주목하는 이유]]></title>
+        <id>https://v.daum.net/v/20230803190927703</id>
+        <link href="https://v.daum.net/v/20230803190927703"/>
+        <updated>2023-08-03T20:18:41.995Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반도체보다 심각한 SW인력 부족…미스매치 해법 해외서 찾는다]]></title>
         <id>https://v.daum.net/v/20230803190748640</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230803181958192"/>
         <updated>2023-08-03T10:21:47.812Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파트너 기업이라던 삼성전기·포스코 "초전도 협력한 적 없다"]]></title>
-        <id>https://v.daum.net/v/20230803175414318</id>
-        <link href="https://v.daum.net/v/20230803175414318"/>
-        <updated>2023-08-03T10:21:47.816Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
