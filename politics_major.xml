@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-08-04T13:23:45.900Z</updated>
+    <updated>2023-08-04T14:17:46.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[살인적 무더위..다음주에도  계속]]></title>
+        <id>https://v.daum.net/v/20230804213155708</id>
+        <link href="https://v.daum.net/v/20230804213155708"/>
+        <updated>2023-08-04T14:15:51.606Z</updated>
+        <content type="html"><![CDATA[JIBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['윤석열 정부 심판'  56.4% vs. '이재명 민주당 심판' 37.3%]]></title>
         <id>https://v.daum.net/v/20230804212504597</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230804201607670"/>
         <updated>2023-08-04T12:32:41.037Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이상동기 범죄' 정해놓고 감감무소식…명확한 개념도, 통계도 없다]]></title>
-        <id>https://v.daum.net/v/20230804201414629</id>
-        <link href="https://v.daum.net/v/20230804201414629"/>
-        <updated>2023-08-04T12:32:41.039Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
