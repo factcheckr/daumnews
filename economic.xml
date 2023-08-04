@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-08-04T14:17:46.536Z</updated>
+    <updated>2023-08-04T15:19:39.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공장 착공 앞두고 첨단투자지구 지정 연기]]></title>
+        <id>https://v.daum.net/v/20230804232934943</id>
+        <link href="https://v.daum.net/v/20230804232934943"/>
+        <updated>2023-08-04T15:17:52.250Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“상인도, 손님도 몰라요”…수산물 소비행사  ‘졸속’]]></title>
         <id>https://v.daum.net/v/20230804220945260</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230804214807875"/>
         <updated>2023-08-04T13:22:14.971Z</updated>
         <content type="html"><![CDATA[매경이코노미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폭우·폭염에 ‘금상추’…자영업자도 소비자 부담 늘어]]></title>
-        <id>https://v.daum.net/v/20230804214501842</id>
-        <link href="https://v.daum.net/v/20230804214501842"/>
-        <updated>2023-08-04T13:22:14.974Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
