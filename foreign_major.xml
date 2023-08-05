@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-08-05T13:20:55.759Z</updated>
+    <updated>2023-08-05T14:16:05.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잼버리 개선도 '빨리빨리'…'잔류' 독일·스웨덴 "편안해" "대책 다양"]]></title>
+        <id>https://v.daum.net/v/20230805204757716</id>
+        <link href="https://v.daum.net/v/20230805204757716"/>
+        <updated>2023-08-05T14:14:50.495Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러군에 연일 곡물항 공습당한 우크라…드론 보트로 맞불]]></title>
         <id>https://v.daum.net/v/20230805204805719</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230805182855790"/>
         <updated>2023-08-05T12:32:33.657Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라 해상 드론, 흑해서 러 유조선 공격…"폭약 450㎏ 사용"]]></title>
-        <id>https://v.daum.net/v/20230805180816492</id>
-        <link href="https://v.daum.net/v/20230805180816492"/>
-        <updated>2023-08-05T11:15:00.549Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
