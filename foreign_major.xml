@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-08-05T14:16:05.428Z</updated>
+    <updated>2023-08-05T15:17:13.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[멜로니 伊총리 여동생, "당신 남편은?" 만평가 고소]]></title>
+        <id>https://v.daum.net/v/20230805211437035</id>
+        <link href="https://v.daum.net/v/20230805211437035"/>
+        <updated>2023-08-05T15:15:56.402Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["게임기 공짜로 주겠다" 한마디에 수천 명 몰려 난투극]]></title>
+        <id>https://v.daum.net/v/20230805201041265</id>
+        <link href="https://v.daum.net/v/20230805201041265"/>
+        <updated>2023-08-05T15:15:56.408Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잼버리 개선도 '빨리빨리'…'잔류' 독일·스웨덴 "편안해" "대책 다양"]]></title>
         <id>https://v.daum.net/v/20230805204757716</id>
@@ -48,13 +62,6 @@
         <content type="html"><![CDATA[세계일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['공정선거' 안믿는 미국인들…내년대선 불복논쟁 재발 우려]]></title>
-        <id>https://v.daum.net/v/20230805194817991</id>
-        <link href="https://v.daum.net/v/20230805194817991"/>
-        <updated>2023-08-05T12:32:33.649Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“단지 폭염 때문이 아냐”…외신이 전한 잼버리 조기철수 이유]]></title>
         <id>https://v.daum.net/v/20230805194206894</id>
         <link href="https://v.daum.net/v/20230805194206894"/>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230805185655269"/>
         <updated>2023-08-05T12:32:33.654Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 잼버리 참가자 부모 “참가비 850만원짜리 악몽”…英 부모 “서바이벌 미션”]]></title>
-        <id>https://v.daum.net/v/20230805182855790</id>
-        <link href="https://v.daum.net/v/20230805182855790"/>
-        <updated>2023-08-05T12:32:33.657Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
