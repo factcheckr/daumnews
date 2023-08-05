@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-08-05T18:20:58.173Z</updated>
+    <updated>2023-08-05T19:14:30.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[헬스S] 참을 수 없는 고통… 설사에서 벗어나려면]]></title>
+        <id>https://v.daum.net/v/20230806040105334</id>
+        <link href="https://v.daum.net/v/20230806040105334"/>
+        <updated>2023-08-05T19:13:37.889Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[마이무비] 인공지능이 추천한 정전 70주년 영화]]></title>
         <id>https://v.daum.net/v/20230806013537261</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230805130105337"/>
         <updated>2023-08-05T15:16:06.682Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[많이 자기? 적게 자기? 더 건강에 안 좋은 건…]]></title>
-        <id>https://v.daum.net/v/20230805230015854</id>
-        <link href="https://v.daum.net/v/20230805230015854"/>
-        <updated>2023-08-05T14:14:59.070Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
