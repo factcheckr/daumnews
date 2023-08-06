@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-08-06T20:20:24.398Z</updated>
+    <updated>2023-08-06T21:15:43.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[20년 전부터 ‘길거리 악마’ 연구한 일본…가장 큰 범행 동기는 ‘처지 비관과 고립’]]></title>
+        <id>https://v.daum.net/v/20230807060105840</id>
+        <link href="https://v.daum.net/v/20230807060105840"/>
+        <updated>2023-08-06T21:14:20.566Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새 전선 된 흑해… 사우디 ‘우크라 회의’ “영토·주권 존중 공감대”]]></title>
         <id>https://v.daum.net/v/20230807050124148</id>
         <link href="https://v.daum.net/v/20230807050124148"/>
         <updated>2023-08-06T20:19:11.842Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“미·중, 새 소통채널 만든다”… 갈등 진정시킬까 주목]]></title>
+        <id>https://v.daum.net/v/20230807040436913</id>
+        <link href="https://v.daum.net/v/20230807040436913"/>
+        <updated>2023-08-06T21:14:20.570Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바다도 뜨겁다]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230807030350751"/>
         <updated>2023-08-06T19:16:50.459Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠데타 니제르 군부, 러 바그너그룹에 SOS… 美는 “원조 일부 중단”]]></title>
-        <id>https://v.daum.net/v/20230807030346749</id>
-        <link href="https://v.daum.net/v/20230807030346749"/>
-        <updated>2023-08-06T19:16:50.460Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러~유럽 이어지는 드루즈바 송유관 또 누출…가동 중단]]></title>
-        <id>https://v.daum.net/v/20230807011609499</id>
-        <link href="https://v.daum.net/v/20230807011609499"/>
-        <updated>2023-08-06T19:16:50.461Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
