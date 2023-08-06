@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-06T15:18:02.696Z</updated>
+    <updated>2023-08-06T16:26:08.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전환 AI시대⑧] '이제 찰리 채플린은 없다'…AI가 바꾼 유통·물류]]></title>
+        <id>https://v.daum.net/v/20230807000057126</id>
+        <link href="https://v.daum.net/v/20230807000057126"/>
+        <updated>2023-08-06T16:25:19.942Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전국서 가장 더운 강릉?…“관측소 위치 따라 기온 큰 차이”]]></title>
         <id>https://v.daum.net/v/20230807000541235</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230806183613984"/>
         <updated>2023-08-06T10:18:04.486Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 DT인] 국내 사이버안전 이슈 주도… "사회 흔드는 가짜뉴스, 해킹만큼 위험하죠"]]></title>
-        <id>https://v.daum.net/v/20230806182051759</id>
-        <link href="https://v.daum.net/v/20230806182051759"/>
-        <updated>2023-08-06T10:18:04.489Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
