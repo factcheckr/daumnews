@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-06T06:22:40.053Z</updated>
+    <updated>2023-08-06T07:19:42.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[30대 기업, 재생에너지 비중 겨우 10%···수출기업만 ‘발등에 불’]]></title>
+        <id>https://v.daum.net/v/20230806161150349</id>
+        <link href="https://v.daum.net/v/20230806161150349"/>
+        <updated>2023-08-06T07:18:55.165Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바다 온도 20.96도 기록 경신…대기 온도 높이는 '악순환']]></title>
         <id>https://v.daum.net/v/20230806150026039</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230806140031774"/>
         <updated>2023-08-06T05:16:13.579Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘여름 불청객’ 녹조 해결사, 염소(CI) [우리가 몰랐던 과학 이야기] (305)]]></title>
-        <id>https://v.daum.net/v/20230806130150872</id>
-        <link href="https://v.daum.net/v/20230806130150872"/>
-        <updated>2023-08-06T04:20:25.787Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
