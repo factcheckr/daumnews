@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-08-06T17:16:08.118Z</updated>
+    <updated>2023-08-06T18:21:26.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/377110/4JxksNWQSK"/>
         <updated>2023-08-06T13:19:55.156Z</updated>
         <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금산사 방문한 스카우트 대원의 소원(?)…“시원했으면 좋겠어”[청계천 옆 사진관]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/344179/5YPjM9atEP</id>
+        <link href="https://gallery.v.daum.net/p/viewer/344179/5YPjM9atEP"/>
+        <updated>2023-08-06T18:20:56.958Z</updated>
+        <content type="html"><![CDATA[청계천 옆 사진관]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[특별치안활동 나선 최주원 경북경찰청장]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5743574/0Ln7Hw1ie7"/>
         <updated>2023-08-06T04:20:41.736Z</updated>
         <content type="html"><![CDATA[아이포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[히로시마 원폭 78주년, 묵념하는 참석자들]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1407/1QyHcQwzKU</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1407/1QyHcQwzKU"/>
-        <updated>2023-08-06T05:16:28.332Z</updated>
-        <content type="html"><![CDATA[일본은 지금]]></content>
     </entry>
 </feed>
