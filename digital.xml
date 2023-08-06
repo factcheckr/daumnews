@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-06T14:16:30.314Z</updated>
+    <updated>2023-08-06T15:18:02.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전국서 가장 더운 강릉?…“관측소 위치 따라 기온 큰 차이”]]></title>
+        <id>https://v.daum.net/v/20230807000541235</id>
+        <link href="https://v.daum.net/v/20230807000541235"/>
+        <updated>2023-08-06T15:17:18.003Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LK-99 공동저자 입 열었다…“초전도체 이달말 결과 기다려달라”]]></title>
         <id>https://v.daum.net/v/20230806230000693</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230806182051759"/>
         <updated>2023-08-06T10:18:04.489Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT 예비수장 김영섭, 성과·능률주의 경영 이어갈까]]></title>
-        <id>https://v.daum.net/v/20230806181624703</id>
-        <link href="https://v.daum.net/v/20230806181624703"/>
-        <updated>2023-08-06T10:18:04.491Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>

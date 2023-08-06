@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-08-06T14:16:30.286Z</updated>
+    <updated>2023-08-06T15:18:02.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[너무 비싸서…제주도 대신 해외로 간다]]></title>
+        <id>https://v.daum.net/v/20230807000315188</id>
+        <link href="https://v.daum.net/v/20230807000315188"/>
+        <updated>2023-08-06T15:16:33.665Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“혼인 증여, 면세 한도 늘려봐야…상위 14% 부자들만 혜택”]]></title>
         <id>https://v.daum.net/v/20230806214540256</id>
@@ -25,6 +32,20 @@
         <link href="https://v.daum.net/v/20230806214511251"/>
         <updated>2023-08-06T13:18:49.936Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하청 공사비 제대로 지급했나?…'공정위, 전격 시공사 조사']]></title>
+        <id>https://v.daum.net/v/20230806203904580</id>
+        <link href="https://v.daum.net/v/20230806203904580"/>
+        <updated>2023-08-06T15:16:33.672Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국 경제 성장세 둔화 경고… “對中 디리스킹 준비해야”]]></title>
+        <id>https://v.daum.net/v/20230806210159790</id>
+        <link href="https://v.daum.net/v/20230806210159790"/>
+        <updated>2023-08-06T15:16:33.672Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[레이스카처럼… 세련된 디자인, 오프로드에서도 안정적 주행]]></title>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20230806202850431"/>
         <updated>2023-08-06T12:33:04.223Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이럴 바에는 동남아 간다"…휴가철 이례적 '역성장' 왜]]></title>
-        <id>https://v.daum.net/v/20230806204505657</id>
-        <link href="https://v.daum.net/v/20230806204505657"/>
-        <updated>2023-08-06T12:33:04.223Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마운딩에 가로막힌 갑천호수공원 '공원뷰']]></title>
-        <id>https://v.daum.net/v/20230806204005617</id>
-        <link href="https://v.daum.net/v/20230806204005617"/>
-        <updated>2023-08-06T12:33:04.223Z</updated>
-        <content type="html"><![CDATA[대전일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["극한 더위에 불 앞에서 요리?"‥'노 파이어(no fire)' 간편식 인기]]></title>
-        <id>https://v.daum.net/v/20230806203409492</id>
-        <link href="https://v.daum.net/v/20230806203409492"/>
-        <updated>2023-08-06T14:15:11.214Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
