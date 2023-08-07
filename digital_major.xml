@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-08-07T14:18:02.715Z</updated>
+    <updated>2023-08-07T15:20:34.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['LK-99' 기대 못놓는 이유…"초전도성 일부 구현되는데..."]]></title>
+        <id>https://v.daum.net/v/20230807175025515</id>
+        <link href="https://v.daum.net/v/20230807175025515"/>
+        <updated>2023-08-07T15:19:47.450Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2032년 '달 착륙'…내년 '대한민국 우주탐사 50년 로드맵' 나온다]]></title>
         <id>https://v.daum.net/v/20230807163326308</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230807155102441"/>
         <updated>2023-08-07T13:23:27.828Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고용한파? 위메이드는 '고용'…장현국의 '뚝심']]></title>
-        <id>https://v.daum.net/v/20230807154803302</id>
-        <link href="https://v.daum.net/v/20230807154803302"/>
-        <updated>2023-08-07T13:23:27.830Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>

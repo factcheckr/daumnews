@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-08-07T14:18:02.730Z</updated>
+    <updated>2023-08-07T15:20:34.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[초인종 가리개]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/85ldPybDrx</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/85ldPybDrx"/>
+        <updated>2023-08-07T15:19:56.214Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민변 “집회 탄압” 헌법소원 청구[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/pYP2sxrqv4</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1106239/YjBuItPlUU"/>
         <updated>2023-08-07T08:26:34.260Z</updated>
         <content type="html"><![CDATA[인도네시아는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오스트리아 폭우로 침수된 앞마당]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033428/67fBSpRy3b</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033428/67fBSpRy3b"/>
-        <updated>2023-08-07T08:26:34.262Z</updated>
-        <content type="html"><![CDATA[오스트리아는 지금]]></content>
     </entry>
 </feed>
