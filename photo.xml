@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-08-07T19:15:56.801Z</updated>
+    <updated>2023-08-07T20:23:02.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/377110/pYP2sxrqv4"/>
         <updated>2023-08-07T14:17:37.349Z</updated>
         <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팔·다리에 새겨진 '새만금 악몽'… 서울서 쌓은 추억으로 지워지기를 [사진잇슈]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5611568/yHM45kXeHo</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5611568/yHM45kXeHo"/>
+        <updated>2023-08-07T20:22:28.980Z</updated>
+        <content type="html"><![CDATA[사진잇슈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빗물 넘치는 맨홀]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5032907/tY1Hjvqkp5"/>
         <updated>2023-08-07T08:26:34.255Z</updated>
         <content type="html"><![CDATA[팔레스타인은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손님 기다리는 인도네시아 자카르타 상인]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1106239/YjBuItPlUU</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1106239/YjBuItPlUU"/>
-        <updated>2023-08-07T08:26:34.260Z</updated>
-        <content type="html"><![CDATA[인도네시아는 지금]]></content>
     </entry>
 </feed>
