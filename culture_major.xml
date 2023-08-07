@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-08-07T18:22:31.241Z</updated>
+    <updated>2023-08-07T19:15:56.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조현병 발병후 치료까지… 평균 56주 WHO 권고의 5배]]></title>
+        <id>https://v.daum.net/v/20230808030104813</id>
+        <link href="https://v.daum.net/v/20230808030104813"/>
+        <updated>2023-08-07T19:15:01.758Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[춘천인형극제 올해 축제 워밍업 마쳤다]]></title>
         <id>https://v.daum.net/v/20230808000556364</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230807205400521"/>
         <updated>2023-08-07T15:19:25.126Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[친절한 영숙씨 “귀 호강시켜 드릴게요”]]></title>
-        <id>https://v.daum.net/v/20230807204642435</id>
-        <link href="https://v.daum.net/v/20230807204642435"/>
-        <updated>2023-08-07T15:19:25.131Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
