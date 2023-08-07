@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-08-07T17:20:47.700Z</updated>
+    <updated>2023-08-07T18:22:31.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[팬데믹에 초기 암 검사 확 줄었다…“말기암 환자 증가 우려”]]></title>
+        <id>https://v.daum.net/v/20230807175654708</id>
+        <link href="https://v.daum.net/v/20230807175654708"/>
+        <updated>2023-08-07T18:21:56.163Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박테리아도 인간처럼 ‘생체시계’ 맞춰 산다]]></title>
+        <id>https://v.daum.net/v/20230807175412633</id>
+        <link href="https://v.daum.net/v/20230807175412633"/>
+        <updated>2023-08-07T18:21:56.169Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['LK-99' 기대 못놓는 이유…"초전도성 일부 구현되는데..."]]></title>
         <id>https://v.daum.net/v/20230807175025515</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230807161736631"/>
         <updated>2023-08-07T12:38:07.167Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘킬러 규제’라더니…환경영향평가제도 더 축소한다고?]]></title>
-        <id>https://v.daum.net/v/20230807155553650</id>
-        <link href="https://v.daum.net/v/20230807155553650"/>
-        <updated>2023-08-07T13:23:27.826Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年 20% 고성장…클라우드 전쟁 '버전3' 시작됐다]]></title>
-        <id>https://v.daum.net/v/20230807155102441</id>
-        <link href="https://v.daum.net/v/20230807155102441"/>
-        <updated>2023-08-07T13:23:27.828Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
