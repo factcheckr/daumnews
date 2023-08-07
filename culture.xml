@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-08-07T16:26:03.213Z</updated>
+    <updated>2023-08-07T17:20:47.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여름에 물 대신 '아·아' '이온음료' 마셔도 될까요?]]></title>
+        <id>https://v.daum.net/v/20230807210015607</id>
+        <link href="https://v.daum.net/v/20230807210015607"/>
+        <updated>2023-08-07T17:19:38.571Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상과 현실 넘나들며 유령과 범인 찾기…'고스트 인 더 씨어터']]></title>
         <id>https://v.daum.net/v/20230808003025500</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230808000202250"/>
         <updated>2023-08-07T15:19:14.377Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈·귀에 검은 무늬, 제법 판다 같아진 푸바오 동생들…이름은 언제?]]></title>
-        <id>https://v.daum.net/v/20230807234805144</id>
-        <link href="https://v.daum.net/v/20230807234805144"/>
-        <updated>2023-08-07T15:19:14.381Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
 </feed>
