@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-08-08T04:24:07.437Z</updated>
+    <updated>2023-08-08T05:17:41.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“이 정도일 줄은” 불과 일주일 100만대 ‘잭팟’…삼성 제품 난리났다]]></title>
+        <id>https://v.daum.net/v/20230808104049085</id>
+        <link href="https://v.daum.net/v/20230808104049085"/>
+        <updated>2023-08-08T05:16:59.708Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["화면 키웠더니 더 잘 팔리네"…삼성 갤럭시Z 예판 100만대 돌파(종합)]]></title>
+        <id>https://v.daum.net/v/20230808103931033</id>
+        <link href="https://v.daum.net/v/20230808103931033"/>
+        <updated>2023-08-08T05:16:59.711Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티타늄 옷 입는 아이폰15 프로, 어떻게 바뀔까]]></title>
         <id>https://v.daum.net/v/20230808102513419</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230808082636129"/>
         <updated>2023-08-08T01:29:16.343Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12만년전 얼음 없는 북극 닮은 꼴…해수면 최대 9m 높았다[영상]]]></title>
-        <id>https://v.daum.net/v/20230808082628127</id>
-        <link href="https://v.daum.net/v/20230808082628127"/>
-        <updated>2023-08-08T01:29:16.345Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상반된 'AI 전략'…네이버 '크게' vs 카카오 '작게']]></title>
-        <id>https://v.daum.net/v/20230808081241861</id>
-        <link href="https://v.daum.net/v/20230808081241861"/>
-        <updated>2023-08-08T01:29:16.348Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
