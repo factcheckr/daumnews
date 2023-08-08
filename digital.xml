@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-08T15:20:05.955Z</updated>
+    <updated>2023-08-08T16:33:00.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[中 해커 공격 받았는데도 깜깜...日 최고 기밀 털렸다]]></title>
+        <title type="html"><![CDATA[엔비디아, 누구나 쉽게 생성형 AI 개발할 수 있는 플랫폼 출시]]></title>
+        <id>https://v.daum.net/v/20230809010004769</id>
+        <link href="https://v.daum.net/v/20230809010004769"/>
+        <updated>2023-08-08T16:32:12.361Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中 해커 공격 받았는데도 ‘깜깜’...日 최고 기밀 털렸다]]></title>
         <id>https://v.daum.net/v/20230809001348534</id>
         <link href="https://v.daum.net/v/20230809001348534"/>
         <updated>2023-08-08T15:19:14.476Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230808184008131"/>
         <updated>2023-08-08T10:19:20.936Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가상자산 투자사기, 주의할 점은?]]></title>
-        <id>https://v.daum.net/v/20230808183003898</id>
-        <link href="https://v.daum.net/v/20230808183003898"/>
-        <updated>2023-08-08T10:19:20.948Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
