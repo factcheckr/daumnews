@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-08-08T18:24:18.034Z</updated>
+    <updated>2023-08-08T19:16:45.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이화영 변호인 “김성태, 李에 허위진술 종용”… 檢 “재판지연 전략”]]></title>
+        <id>https://v.daum.net/v/20230809030456139</id>
+        <link href="https://v.daum.net/v/20230809030456139"/>
+        <updated>2023-08-08T19:14:34.270Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폴란드 대통령 방한 취소…태풍·자국 안보 등 고려]]></title>
         <id>https://v.daum.net/v/20230809030309094</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230809000200336"/>
         <updated>2023-08-08T15:18:04.045Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유정복 시장 직무수행 “잘한다” 44.9% “못한다” 41.2% [인천시 여론조사]]]></title>
-        <id>https://v.daum.net/v/20230809000137318</id>
-        <link href="https://v.daum.net/v/20230809000137318"/>
-        <updated>2023-08-08T15:18:04.047Z</updated>
-        <content type="html"><![CDATA[경기일보]]></content>
     </entry>
 </feed>
