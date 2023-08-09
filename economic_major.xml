@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-08-09T15:22:01.670Z</updated>
+    <updated>2023-08-09T16:27:11.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['백약이 무효' 中경기…대규모 부양책 꺼내드나]]></title>
+        <id>https://v.daum.net/v/20230809235905937</id>
+        <link href="https://v.daum.net/v/20230809235905937"/>
+        <updated>2023-08-09T16:25:37.036Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바이든 행정명령 '對中 양자컴·AI 투자' 돈줄 끊는다]]></title>
         <id>https://v.daum.net/v/20230809231322675</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230809212141481"/>
         <updated>2023-08-09T12:35:48.289Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금리 뛰는데 가계빚 '급증'…내일 긴급 점검 회의]]></title>
-        <id>https://v.daum.net/v/20230809210313236</id>
-        <link href="https://v.daum.net/v/20230809210313236"/>
-        <updated>2023-08-09T14:19:35.071Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
