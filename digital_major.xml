@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-08-09T11:16:35.328Z</updated>
+    <updated>2023-08-09T12:37:25.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[SK하이닉스, 321단 초고층 낸드 공개]]></title>
-        <id>https://v.daum.net/v/20230809174205892</id>
-        <link href="https://v.daum.net/v/20230809174205892"/>
-        <updated>2023-08-09T09:19:38.533Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[초당 원자폭탄 5개 폭발 에너지 견디는 지구, '태풍·폭염' 일상화]]></title>
         <id>https://v.daum.net/v/20230809174406972</id>
@@ -31,20 +24,6 @@
         <id>https://v.daum.net/v/20230809173908779</id>
         <link href="https://v.daum.net/v/20230809173908779"/>
         <updated>2023-08-09T11:16:03.365Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS본부 "'삼성 관리판사' 지목 받은 서기석 이사 후보 무법적 인사"]]></title>
-        <id>https://v.daum.net/v/20230809173018393</id>
-        <link href="https://v.daum.net/v/20230809173018393"/>
-        <updated>2023-08-09T09:19:38.534Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD 도전에…엔비디아 차세대 AI칩 공개]]></title>
-        <id>https://v.daum.net/v/20230809172700257</id>
-        <link href="https://v.daum.net/v/20230809172700257"/>
-        <updated>2023-08-09T09:19:38.535Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
@@ -74,5 +53,26 @@
         <link href="https://v.daum.net/v/20230809165113790"/>
         <updated>2023-08-09T09:19:38.542Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[랜섬웨어에 걸리면 ‘외부 장치·네트워크 제거, PC 전원 켜둘 것’]]></title>
+        <id>https://v.daum.net/v/20230809160914994</id>
+        <link href="https://v.daum.net/v/20230809160914994"/>
+        <updated>2023-08-09T12:36:48.130Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20대의 무모한 제안 '기억재생 칩'…40년 초장기 R&D로 '결실']]></title>
+        <id>https://v.daum.net/v/20230809160721894</id>
+        <link href="https://v.daum.net/v/20230809160721894"/>
+        <updated>2023-08-09T12:36:48.132Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방통위, KBS·MBC '이사회 개편' 속전속결…여야 구도 뒤집힌다]]></title>
+        <id>https://v.daum.net/v/20230809155931481</id>
+        <link href="https://v.daum.net/v/20230809155931481"/>
+        <updated>2023-08-09T12:36:48.134Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
