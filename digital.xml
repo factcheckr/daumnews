@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-10T10:22:03.619Z</updated>
+    <updated>2023-08-10T11:16:49.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전문인력 이동 블랙홀 될까?…우주청 계획에 과학계 '당혹']]></title>
+        <id>https://v.daum.net/v/20230810200007042</id>
+        <link href="https://v.daum.net/v/20230810200007042"/>
+        <updated>2023-08-10T11:16:06.571Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스에 이어…디즈니, 너 마저]]></title>
         <id>https://v.daum.net/v/20230810105147366</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[게임동아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성, 갤탭으로 애플독주 태블릿PC시장 `뒤집기 한판`]]></title>
+        <title type="html"><![CDATA[안드로이드 태블릿 중 최고성능… S펜, 물 쏟아져도 필기감 탁월]]></title>
         <id>https://v.daum.net/v/20230810183111967</id>
         <link href="https://v.daum.net/v/20230810183111967"/>
         <updated>2023-08-10T10:21:14.826Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230810183003931"/>
         <updated>2023-08-10T10:21:14.829Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선수가 심판' 원자력안전위원회…신한울2호기 허가 '난항']]></title>
-        <id>https://v.daum.net/v/20230810181611535</id>
-        <link href="https://v.daum.net/v/20230810181611535"/>
-        <updated>2023-08-10T09:20:31.021Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
