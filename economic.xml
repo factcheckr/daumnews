@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-08-10T12:37:38.347Z</updated>
+    <updated>2023-08-10T13:26:18.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 실업수당 청구 2주 연속↑…2만1천 건 증가한 24만8천 건]]></title>
+        <id>https://v.daum.net/v/20230810220110104</id>
+        <link href="https://v.daum.net/v/20230810220110104"/>
+        <updated>2023-08-10T13:24:34.089Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6년 만에 유커 돌아온다…화장품·호텔업체 주가 '들썩']]></title>
         <id>https://v.daum.net/v/20230810211505354</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230810202349523"/>
         <updated>2023-08-10T12:35:54.127Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태풍에 발 묶인 사람들‥열차·항공기 운행 중단 속출]]></title>
-        <id>https://v.daum.net/v/20230810201613353</id>
-        <link href="https://v.daum.net/v/20230810201613353"/>
-        <updated>2023-08-10T12:35:54.127Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>

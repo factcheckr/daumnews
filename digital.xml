@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-10T12:37:38.347Z</updated>
+    <updated>2023-08-10T13:26:18.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“처음이야” X가 보내온 31만원…유튜버라면 얼마 받았을까]]></title>
+        <id>https://v.daum.net/v/20230810221500314</id>
+        <link href="https://v.daum.net/v/20230810221500314"/>
+        <updated>2023-08-10T13:25:31.739Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘꿈의 물질’에 들뜬 마음…잠시 내려두자, 진실이 밝혀질 때까지[전문가의 세계 - 이종필의 과학자의 발상법]]]></title>
         <id>https://v.daum.net/v/20230810213122641</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230810190300730"/>
         <updated>2023-08-10T10:21:14.823Z</updated>
         <content type="html"><![CDATA[게임동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안드로이드 태블릿 중 최고성능… S펜, 물 쏟아져도 필기감 탁월]]></title>
-        <id>https://v.daum.net/v/20230810183111967</id>
-        <link href="https://v.daum.net/v/20230810183111967"/>
-        <updated>2023-08-10T10:21:14.826Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
