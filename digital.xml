@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-10T03:19:45.324Z</updated>
+    <updated>2023-08-10T04:25:15.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WHO, 코로나 새 변이 EG.5 ‘관심’ 변이로 격상…“한국, 中·美 다음 비율 높아”]]></title>
+        <id>https://v.daum.net/v/20230810123244422</id>
+        <link href="https://v.daum.net/v/20230810123244422"/>
+        <updated>2023-08-10T04:24:31.936Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스에 이어…디즈니, 너 마저]]></title>
         <id>https://v.daum.net/v/20230810105147366</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230810104405044"/>
         <updated>2023-08-10T02:37:43.191Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미생물 공장의 마법…균주로 나일론 재료 만들었다]]></title>
-        <id>https://v.daum.net/v/20230810104612133</id>
-        <link href="https://v.daum.net/v/20230810104612133"/>
-        <updated>2023-08-10T02:37:43.193Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
