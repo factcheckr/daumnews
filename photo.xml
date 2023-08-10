@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-08-10T19:15:49.222Z</updated>
+    <updated>2023-08-10T20:19:32.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1682593/tDI5JZ4ID2"/>
         <updated>2023-08-10T18:22:47.444Z</updated>
         <content type="html"><![CDATA[대한민국 대통령실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[숲속 도서관]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/9SiOWJC2mU</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/9SiOWJC2mU"/>
+        <updated>2023-08-10T20:18:59.516Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스카우트 대원들과 함께]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1471/ZjfZfziH3Z"/>
         <updated>2023-08-10T08:23:45.358Z</updated>
         <content type="html"><![CDATA[세계의 정상들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가짜간질' 병역 비리 라비, 실형 피했다…'집행유예 2년']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5743574/Fj0H2udYie</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5743574/Fj0H2udYie"/>
-        <updated>2023-08-10T08:23:45.358Z</updated>
-        <content type="html"><![CDATA[아이포토]]></content>
     </entry>
 </feed>
