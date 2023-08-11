@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-11T02:21:53.650Z</updated>
+    <updated>2023-08-11T03:18:56.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[초전도학회 검증위 “다음 주 LK-99 재료 확보”…이르면 9월 초 진위 판별]]></title>
+        <id>https://v.daum.net/v/20230811113132956</id>
+        <link href="https://v.daum.net/v/20230811113132956"/>
+        <updated>2023-08-11T03:18:10.647Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[델리오 홈페이지 결국 먹통…투자자만 가슴앓이]]></title>
         <id>https://v.daum.net/v/20230811111602310</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230811110602941"/>
         <updated>2023-08-11T02:21:08.867Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["LK-99 검증에 6곳 참여…2주내 시료 제작"]]></title>
-        <id>https://v.daum.net/v/20230811110511916</id>
-        <link href="https://v.daum.net/v/20230811110511916"/>
-        <updated>2023-08-11T02:21:08.869Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
