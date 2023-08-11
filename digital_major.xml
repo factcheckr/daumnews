@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-08-11T04:21:51.981Z</updated>
+    <updated>2023-08-11T05:17:38.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[델리오 홈페이지 결국 먹통…투자자만 가슴앓이]]></title>
+        <id>https://v.daum.net/v/20230811111602310</id>
+        <link href="https://v.daum.net/v/20230811111602310"/>
+        <updated>2023-08-11T05:16:59.431Z</updated>
+        <content type="html"><![CDATA[비즈워치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“종을 뛰어넘은 러브스토리 탄생은 ‘기후변화’ 덕분”]]></title>
         <id>https://v.daum.net/v/20230811111331218</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230811103033625"/>
         <updated>2023-08-11T02:21:15.837Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동 기지국 늘리고 와이파이 용량 증설하고…이통3사 '잼버리 콘서트' 만전]]></title>
-        <id>https://v.daum.net/v/20230811101919199</id>
-        <link href="https://v.daum.net/v/20230811101919199"/>
-        <updated>2023-08-11T02:21:15.839Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
