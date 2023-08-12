@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-08-12T19:15:15.865Z</updated>
+    <updated>2023-08-12T20:18:27.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘왕의 DNA’는 아니어도... 당신이 ‘비범한 DNA’이란 신호]]></title>
+        <id>https://v.daum.net/v/20230812173520467</id>
+        <link href="https://v.daum.net/v/20230812173520467"/>
+        <updated>2023-08-12T20:17:11.446Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[살 빼면 가장 좋아지는 것?... "몸과 밤이 즐겁다"]]></title>
         <id>https://v.daum.net/v/20230812161108624</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230812135103218"/>
         <updated>2023-08-12T15:16:48.745Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“결혼날짜 잡았는데 프러포즈 왜 하나요? 놀랄 일도 아니고”[시차적응]]]></title>
-        <id>https://v.daum.net/v/20230812120015165</id>
-        <link href="https://v.daum.net/v/20230812120015165"/>
-        <updated>2023-08-12T13:18:24.467Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
