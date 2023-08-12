@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-08-12T18:21:37.452Z</updated>
+    <updated>2023-08-12T19:15:15.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파리 에펠탑에 폭탄 협박...관광객 대피]]></title>
+        <id>https://v.daum.net/v/20230813040127585</id>
+        <link href="https://v.daum.net/v/20230813040127585"/>
+        <updated>2023-08-12T19:11:51.742Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하와이 산불로 '여의도 3배' 면적 잿더미…복구비용 7조원 추정]]></title>
+        <id>https://v.daum.net/v/20230813035849579</id>
+        <link href="https://v.daum.net/v/20230813035849579"/>
+        <updated>2023-08-12T19:11:51.744Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美국방부, DC 주방위군 개편 추진…"임무 맞게 부대·장비 재편"]]></title>
         <id>https://v.daum.net/v/20230813025717545</id>
@@ -130,19 +144,5 @@
         <link href="https://v.daum.net/v/20230812174101502"/>
         <updated>2023-08-12T13:16:55.036Z</updated>
         <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북튜버 통해 핵심만 쏙쏙… 독서인가, 시청인가 [S 스토리]]]></title>
-        <id>https://v.daum.net/v/20230812185619189</id>
-        <link href="https://v.daum.net/v/20230812185619189"/>
-        <updated>2023-08-12T13:16:55.040Z</updated>
-        <content type="html"><![CDATA[문화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거친 털·왕성한 번식력…생태계 교란 ‘잡초’ 탈모에 효과]]></title>
-        <id>https://v.daum.net/v/20230812220603803</id>
-        <link href="https://v.daum.net/v/20230812220603803"/>
-        <updated>2023-08-12T15:15:21.228Z</updated>
-        <content type="html"><![CDATA[문화]]></content>
     </entry>
 </feed>
