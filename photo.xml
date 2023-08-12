@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-08-12T03:18:20.652Z</updated>
+    <updated>2023-08-12T04:20:55.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1489/YVtO4BLZ30"/>
         <updated>2023-08-11T22:17:29.347Z</updated>
         <content type="html"><![CDATA[북한은 지금]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폭풍속으로...높은 파도와 상어가 득실 대는 목숨을 건 서핑]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5632532/ZCd7wNWQUj</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5632532/ZCd7wNWQUj"/>
+        <updated>2023-08-12T04:20:23.029Z</updated>
+        <content type="html"><![CDATA[더 한장]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대미 장식한 ‘K팝 콘서트’···4만 잼버리 대원을 홀리다]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033571/97kYuPD7UH"/>
         <updated>2023-08-11T09:17:30.662Z</updated>
         <content type="html"><![CDATA[군 제공 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대한민국 국제 관광박람회 [포토뉴스]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5840500/5ROIrG2mhf</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5840500/5ROIrG2mhf"/>
-        <updated>2023-08-11T09:17:30.674Z</updated>
-        <content type="html"><![CDATA[포토뉴스]]></content>
     </entry>
 </feed>
