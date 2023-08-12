@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-08-12T17:19:18.004Z</updated>
+    <updated>2023-08-12T18:21:37.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美국방부, DC 주방위군 개편 추진…"임무 맞게 부대·장비 재편"]]></title>
+        <id>https://v.daum.net/v/20230813025717545</id>
+        <link href="https://v.daum.net/v/20230813025717545"/>
+        <updated>2023-08-12T18:18:11.316Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["쿠데타로 억류 중인 니제르 대통령, 주치의 만나"]]></title>
         <id>https://v.daum.net/v/20230813015251512</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20230812220603803"/>
         <updated>2023-08-12T15:15:21.228Z</updated>
         <content type="html"><![CDATA[문화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소문에 우르르…‘테마주’ 일확천금의 꿈? [경제대기권]]]></title>
-        <id>https://v.daum.net/v/20230812212913537</id>
-        <link href="https://v.daum.net/v/20230812212913537"/>
-        <updated>2023-08-12T13:16:55.040Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
     </entry>
 </feed>
