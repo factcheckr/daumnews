@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-08-12T06:22:07.897Z</updated>
+    <updated>2023-08-12T07:16:31.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이런 사람' 허리 숙여 머리 감지 말아야… 이유는?]]></title>
+        <id>https://v.daum.net/v/20230812160015543</id>
+        <link href="https://v.daum.net/v/20230812160015543"/>
+        <updated>2023-08-12T07:15:25.733Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스초점] '카눈' 지나자 '란' 북상…하와이, 화마로 초토화]]></title>
         <id>https://v.daum.net/v/20230812143941701</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230812140012312"/>
         <updated>2023-08-12T05:15:37.554Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름엔 갈치조림, 고구마순 듬뿍 넣고]]></title>
-        <id>https://v.daum.net/v/20230812135103218</id>
-        <link href="https://v.daum.net/v/20230812135103218"/>
-        <updated>2023-08-12T05:15:37.556Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>

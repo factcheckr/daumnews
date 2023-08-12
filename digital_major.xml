@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-08-12T06:22:07.903Z</updated>
+    <updated>2023-08-12T07:16:31.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["잠깐 외출할 땐 끄지 마세요" 삼성 개발자가 알려주는 에어컨 사용 꿀팁]]></title>
+        <id>https://v.daum.net/v/20230812121002252</id>
+        <link href="https://v.daum.net/v/20230812121002252"/>
+        <updated>2023-08-12T07:15:53.714Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['선택과 집중' 택한 카페24…수익성 개선]]></title>
         <id>https://v.daum.net/v/20230812120004152</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230812090102216"/>
         <updated>2023-08-12T03:17:42.935Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘한여름 밤의 꿈’일까, ‘꿈의 물질’일까…‘LK-99’ 이달 중 검증 결론 [주말엔]]]></title>
-        <id>https://v.daum.net/v/20230812080258697</id>
-        <link href="https://v.daum.net/v/20230812080258697"/>
-        <updated>2023-08-12T02:20:24.453Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
