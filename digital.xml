@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-13T10:22:58.851Z</updated>
+    <updated>2023-08-13T11:16:14.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[테크&포커스] 반도체 일변도 `ICT 수출` SW로 다변화 해법 찾아야]]></title>
+        <title type="html"><![CDATA[“아! 또 이런일이” 국민 메신저 카카오 충격 사태…‘발칵’ 뒤집혔다]]></title>
+        <id>https://v.daum.net/v/20230813195058193</id>
+        <link href="https://v.daum.net/v/20230813195058193"/>
+        <updated>2023-08-13T11:15:20.553Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KT 롤스터, LCK 서머 PO서 한화생명 완파…준결승서 T1과 재대결]]></title>
+        <id>https://v.daum.net/v/20230813193358040</id>
+        <link href="https://v.daum.net/v/20230813193358040"/>
+        <updated>2023-08-13T11:15:20.554Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[테크&포커스] 반도체 치우친 `ICT 수출`… "SW로 다변화해야 산다"]]></title>
         <id>https://v.daum.net/v/20230813190616666</id>
         <link href="https://v.daum.net/v/20230813190616666"/>
         <updated>2023-08-13T10:22:03.899Z</updated>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230813175147422"/>
         <updated>2023-08-13T09:21:05.139Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지역도 디플정 준비한다…'지역디지털 2.0' 추진 준비 착수]]></title>
-        <id>https://v.daum.net/v/20230813170107506</id>
-        <link href="https://v.daum.net/v/20230813170107506"/>
-        <updated>2023-08-13T08:19:35.003Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폭풍 질주 알뜰폰, 이젠 한풀 꺾인다]]></title>
-        <id>https://v.daum.net/v/20230813170004468</id>
-        <link href="https://v.daum.net/v/20230813170004468"/>
-        <updated>2023-08-13T08:19:35.006Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
