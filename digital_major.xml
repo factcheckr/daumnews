@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-08-13T11:16:14.629Z</updated>
+    <updated>2023-08-13T12:29:34.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“과학 배우고 무더위 날려요”…여름휴가 명소로 뜬 부산과학관]]></title>
+        <id>https://v.daum.net/v/20230813175147422</id>
+        <link href="https://v.daum.net/v/20230813175147422"/>
+        <updated>2023-08-13T12:29:01.453Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지역도 디플정 준비한다…'지역디지털 2.0' 추진 준비 착수]]></title>
         <id>https://v.daum.net/v/20230813170107506</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230813133616240"/>
         <updated>2023-08-13T07:16:03.929Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CJ ENM의 충격적인 적자…'K-콘텐츠' 위기의 서막?]]></title>
-        <id>https://v.daum.net/v/20230813084512294</id>
-        <link href="https://v.daum.net/v/20230813084512294"/>
-        <updated>2023-08-13T11:15:32.879Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>
