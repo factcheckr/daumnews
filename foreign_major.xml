@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-08-13T15:17:14.621Z</updated>
+    <updated>2023-08-13T16:21:49.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이스라엘인 58% "사법부무력화 입법으로 경제·사회·정치 위기"]]></title>
+        <id>https://v.daum.net/v/20230813232330938</id>
+        <link href="https://v.daum.net/v/20230813232330938"/>
+        <updated>2023-08-13T16:20:43.953Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국 경제 ‘시한폭탄’ 터지나…“전문가들도 충격” [월드뷰]]]></title>
         <id>https://v.daum.net/v/20230813230101833</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230813213553153"/>
         <updated>2023-08-13T14:14:57.217Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英 BBC에 등장한 '묻지마(Mudjima) 범죄'…"韓 불안감 높다" 분석]]></title>
-        <id>https://v.daum.net/v/20230813204750750</id>
-        <link href="https://v.daum.net/v/20230813204750750"/>
-        <updated>2023-08-13T14:14:57.220Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
