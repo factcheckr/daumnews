@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-13T14:16:18.681Z</updated>
+    <updated>2023-08-13T15:17:14.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전환 AI시대⑨] 인공지능이 만든 게임 캐릭터, 사람처럼 생각한다]]></title>
+        <id>https://v.daum.net/v/20230814000041076</id>
+        <link href="https://v.daum.net/v/20230814000041076"/>
+        <updated>2023-08-13T15:16:27.593Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[페르세우스 유성우 밤하늘 수놓는다…오늘밤 볼 수 있나]]></title>
         <id>https://v.daum.net/v/20230813120035081</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230813202840567"/>
         <updated>2023-08-13T12:28:53.539Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT 롤스터, LCK 서머 PO서 한화생명 완파…준결승서 T1과 재대결]]></title>
-        <id>https://v.daum.net/v/20230813193358040</id>
-        <link href="https://v.daum.net/v/20230813193358040"/>
-        <updated>2023-08-13T11:15:20.554Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
