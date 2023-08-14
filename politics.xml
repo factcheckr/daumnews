@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-08-14T16:21:35.542Z</updated>
+    <updated>2023-08-14T17:17:36.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘모든 게 네 책임’ 정치가 만든 아수라…흉기난동, 영아살해]]></title>
+        <id>https://v.daum.net/v/20230815014302557</id>
+        <link href="https://v.daum.net/v/20230815014302557"/>
+        <updated>2023-08-14T17:15:29.656Z</updated>
+        <content type="html"><![CDATA[한겨레21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조승래 "이동관 10년간 재산 3배 어떻게 늘었는지 밝혀야"]]></title>
         <id>https://v.daum.net/v/20230815002032368</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230815000021202"/>
         <updated>2023-08-14T15:16:06.588Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘정진석 사건’ 판사, 이재명 대선 패배하자 “절망·울분” 글 올려]]></title>
-        <id>https://v.daum.net/v/20230814222752756</id>
-        <link href="https://v.daum.net/v/20230814222752756"/>
-        <updated>2023-08-14T14:16:03.824Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
