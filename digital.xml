@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-14T03:19:35.619Z</updated>
+    <updated>2023-08-14T04:22:42.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[과학을읽다]극한호우 퍼붓는 '대기의 강', 한반도 위협한다]]></title>
+        <id>https://v.daum.net/v/20230814130709094</id>
+        <link href="https://v.daum.net/v/20230814130709094"/>
+        <updated>2023-08-14T04:21:48.448Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["후쿠시마 오염수 방류 안돼" 어나니머스 日 사이버공격…내일 최고조 이를 듯]]></title>
         <id>https://v.daum.net/v/20230814115309485</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230814110136240"/>
         <updated>2023-08-14T02:25:45.046Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[하이빔]최악의 운전자는 인간인가 로봇인가]]></title>
-        <id>https://v.daum.net/v/20230814103900299</id>
-        <link href="https://v.daum.net/v/20230814103900299"/>
-        <updated>2023-08-14T03:18:37.006Z</updated>
-        <content type="html"><![CDATA[오토타임즈]]></content>
     </entry>
 </feed>
