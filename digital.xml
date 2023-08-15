@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-15T11:15:44.523Z</updated>
+    <updated>2023-08-15T12:32:35.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["화성 자전주기 짧아졌다" 퇴역한 화성 탐사선의 데이터]]></title>
+        <id>https://v.daum.net/v/20230815212447411</id>
+        <link href="https://v.daum.net/v/20230815212447411"/>
+        <updated>2023-08-15T12:31:52.199Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성·아이폰 다 싫어?…“아직도 LG 쓰는 사람 이렇게  많다니”]]></title>
         <id>https://v.daum.net/v/20230815195045321</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230815155015607"/>
         <updated>2023-08-15T07:17:00.866Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“시기상조” vs “이번엔 꼭”…비대면 진료 법제화에 민·관 온도차]]></title>
-        <id>https://v.daum.net/v/20230815160129781</id>
-        <link href="https://v.daum.net/v/20230815160129781"/>
-        <updated>2023-08-15T07:17:00.872Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
