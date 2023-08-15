@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-08-15T16:23:38.025Z</updated>
+    <updated>2023-08-15T17:17:31.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[긴축에도 여전히 지갑 연다…美소매판매 예상치 웃돈 0.7%↑]]></title>
+        <id>https://v.daum.net/v/20230816013740969</id>
+        <link href="https://v.daum.net/v/20230816013740969"/>
+        <updated>2023-08-15T17:15:09.774Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8월 원화 가치 4.4% 뚝… 하락폭 16개국 중 4위]]></title>
         <id>https://v.daum.net/v/20230816003006739</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230815234801388"/>
         <updated>2023-08-15T15:17:00.203Z</updated>
         <content type="html"><![CDATA[한겨레21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[학자금 대출상환도 美 소비 못막아…소매판매 넉달연속 증가]]></title>
-        <id>https://v.daum.net/v/20230815232526285</id>
-        <link href="https://v.daum.net/v/20230815232526285"/>
-        <updated>2023-08-15T15:17:00.204Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
