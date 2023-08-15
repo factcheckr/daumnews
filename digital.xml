@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-15T03:20:13.920Z</updated>
+    <updated>2023-08-15T04:24:14.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국정원 문건 등장 'MBC 민영화 시나리오' 재추진할까]]></title>
+        <id>https://v.daum.net/v/20230815060504633</id>
+        <link href="https://v.daum.net/v/20230815060504633"/>
+        <updated>2023-08-15T04:23:22.562Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[글래스루이스 이어 ISS도 "김영섭, KT 차기 대표 후보 '찬성'"]]></title>
         <id>https://v.daum.net/v/20230815121207252</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230815100121973"/>
         <updated>2023-08-15T02:22:19.539Z</updated>
         <content type="html"><![CDATA[주간동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아마존 기기·서비스 사업 부사장 회사 떠난다]]></title>
-        <id>https://v.daum.net/v/20230815092546483</id>
-        <link href="https://v.daum.net/v/20230815092546483"/>
-        <updated>2023-08-15T01:09:13.849Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
