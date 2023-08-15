@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-08-15T18:22:40.264Z</updated>
+    <updated>2023-08-15T19:16:39.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나19, 독감 수준으로 위험? "퇴원 후 사망률 독감 2배"]]></title>
+        <id>https://v.daum.net/v/20230815183014150</id>
+        <link href="https://v.daum.net/v/20230815183014150"/>
+        <updated>2023-08-15T19:15:18.607Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[술, 한 번에 많이 vs 조금씩 자주… 더 안 좋은 건?]]></title>
+        <id>https://v.daum.net/v/20230815180015640</id>
+        <link href="https://v.daum.net/v/20230815180015640"/>
+        <updated>2023-08-15T19:15:18.612Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탈출한 침팬지·사자의 비극… ‘생추어리’ 전환 목소리도]]></title>
         <id>https://v.daum.net/v/20230816000503577</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230815223235938"/>
         <updated>2023-08-15T15:17:58.673Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“길 위에서 통일을 꿈꾸다”…‘국도 1호선’ 미술전]]></title>
-        <id>https://v.daum.net/v/20230815221702832</id>
-        <link href="https://v.daum.net/v/20230815221702832"/>
-        <updated>2023-08-15T15:17:58.676Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엎드려 자면 안 좋다던데… 왜?]]></title>
-        <id>https://v.daum.net/v/20230815220017718</id>
-        <link href="https://v.daum.net/v/20230815220017718"/>
-        <updated>2023-08-15T15:17:58.679Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>

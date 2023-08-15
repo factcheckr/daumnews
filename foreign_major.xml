@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-08-15T18:22:40.270Z</updated>
+    <updated>2023-08-15T19:16:39.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230816030000008"/>
         <updated>2023-08-15T18:21:17.959Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[긴축에도 여전히 지갑 연다…美소매판매 예상치 웃돈 0.7%↑]]></title>
+        <id>https://v.daum.net/v/20230816013740969</id>
+        <link href="https://v.daum.net/v/20230816013740969"/>
+        <updated>2023-08-15T19:14:50.692Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6월 미국 기업재고 전월과 보합..."수요감소 예상 관리 신중"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230815235042397"/>
         <updated>2023-08-15T16:22:09.971Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서아프리카공동체 17∼18일 군참모총장 회의…니제르 후속 논의]]></title>
-        <id>https://v.daum.net/v/20230815235310401</id>
-        <link href="https://v.daum.net/v/20230815235310401"/>
-        <updated>2023-08-15T16:22:09.972Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
