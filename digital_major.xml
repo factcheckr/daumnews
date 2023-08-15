@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-08-15T08:22:33.090Z</updated>
+    <updated>2023-08-15T09:18:14.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://v.daum.net/v/20230815145351779"/>
         <updated>2023-08-15T06:23:23.925Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 인프라 구축 위해 아랍서도 GPU 매집…엔비디아 주가 7% 급등]]></title>
-        <id>https://v.daum.net/v/20230815102202321</id>
-        <link href="https://v.daum.net/v/20230815102202321"/>
-        <updated>2023-08-15T08:21:55.317Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5G 기지국·IDC 투자 갈수록 늘려야 하는데…온실가스 감축, 이통업계에 발등의 불]]></title>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230815090520271"/>
         <updated>2023-08-15T03:19:36.167Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[녹색창·카톡·갤럭시 대신 유튜브·아이폰 찾는 1020心[사이다IT]]]></title>
+        <id>https://v.daum.net/v/20230815090022185</id>
+        <link href="https://v.daum.net/v/20230815090022185"/>
+        <updated>2023-08-15T09:17:40.277Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
