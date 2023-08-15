@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-15T12:32:35.926Z</updated>
+    <updated>2023-08-15T13:28:18.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[되살아난 유관순·안중근…직접 전하는 독립정신의 뜻]]></title>
+        <id>https://v.daum.net/v/20230815213722521</id>
+        <link href="https://v.daum.net/v/20230815213722521"/>
+        <updated>2023-08-15T13:27:31.420Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["화성 자전주기 짧아졌다" 퇴역한 화성 탐사선의 데이터]]></title>
         <id>https://v.daum.net/v/20230815212447411</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230815163303276"/>
         <updated>2023-08-15T08:21:46.246Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI, ‘클릭 없는 세상’ 만들까…말만 하면 알아서 ‘척척’]]></title>
-        <id>https://v.daum.net/v/20230815155015607</id>
-        <link href="https://v.daum.net/v/20230815155015607"/>
-        <updated>2023-08-15T07:17:00.866Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
