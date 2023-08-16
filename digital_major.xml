@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-08-16T16:23:26.021Z</updated>
+    <updated>2023-08-16T18:21:54.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어느새 커졌지?…커머스·콘텐츠 비중 확 키운 네이버]]></title>
+        <id>https://v.daum.net/v/20230816200001961</id>
+        <link href="https://v.daum.net/v/20230816200001961"/>
+        <updated>2023-08-16T18:21:18.678Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“중국에 질렸다” 삼성폰 외면하면서 아이폰은 못 사서 안달?]]></title>
+        <id>https://v.daum.net/v/20230816195110818</id>
+        <link href="https://v.daum.net/v/20230816195110818"/>
+        <updated>2023-08-16T18:21:18.678Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“장사 그만하고 놀래요” 떼돈 번 줄 알았는데… 10만→6천원 된 유망 바이오의 배신]]></title>
         <id>https://v.daum.net/v/20230816185110753</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230816173729872"/>
         <updated>2023-08-16T10:19:56.709Z</updated>
         <content type="html"><![CDATA[게임톡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]수입 통신장비 40%가 중국산 '보안 초비상']]></title>
-        <id>https://v.daum.net/v/20230816173712865</id>
-        <link href="https://v.daum.net/v/20230816173712865"/>
-        <updated>2023-08-16T10:19:56.711Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“화석연료 개발이 권리 침해했다” 美 몬태나주 법원, 청소년 손 들어줘]]></title>
-        <id>https://v.daum.net/v/20230816173253754</id>
-        <link href="https://v.daum.net/v/20230816173253754"/>
-        <updated>2023-08-16T09:18:21.132Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
