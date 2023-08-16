@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-08-16T15:19:14.379Z</updated>
+    <updated>2023-08-16T16:23:26.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[심층] 대형 야생 동물 관리 사각지대···동물들은 어디로?]]></title>
+        <id>https://v.daum.net/v/20230816175919508</id>
+        <link href="https://v.daum.net/v/20230816175919508"/>
+        <updated>2023-08-16T16:22:21.696Z</updated>
+        <content type="html"><![CDATA[대구MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[멈추지 않는 설사에 지사제 복용? 큰 일 날 수도…]]></title>
         <id>https://v.daum.net/v/20230816200016983</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230817000555033"/>
         <updated>2023-08-16T15:18:06.365Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[암 치료 중에도 술 마시는 경우 흔한데… 예후는?]]></title>
-        <id>https://v.daum.net/v/20230817000115871</id>
-        <link href="https://v.daum.net/v/20230817000115871"/>
-        <updated>2023-08-16T15:18:06.370Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
