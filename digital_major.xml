@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-08-16T18:21:54.087Z</updated>
+    <updated>2023-08-16T19:18:58.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인공지능 교육시대…에듀테크의 역할 모색 [유니콘팜이 간다]]]></title>
+        <id>https://v.daum.net/v/20230816203830630</id>
+        <link href="https://v.daum.net/v/20230816203830630"/>
+        <updated>2023-08-16T19:18:16.014Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어느새 커졌지?…커머스·콘텐츠 비중 확 키운 네이버]]></title>
         <id>https://v.daum.net/v/20230816200001961</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230816174533119"/>
         <updated>2023-08-16T10:19:56.694Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로아 기대감 최고조로 끌어올린 '운명의 빛']]></title>
-        <id>https://v.daum.net/v/20230816173729872</id>
-        <link href="https://v.daum.net/v/20230816173729872"/>
-        <updated>2023-08-16T10:19:56.709Z</updated>
-        <content type="html"><![CDATA[게임톡]]></content>
     </entry>
 </feed>
