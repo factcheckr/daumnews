@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-16T01:13:29.446Z</updated>
+    <updated>2023-08-16T02:23:00.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아재폰, 아힙폰, 삼성 갤럭시 다섯번째 접는폰 [視리즈]]]></title>
+        <id>https://v.daum.net/v/20230816103454669</id>
+        <link href="https://v.daum.net/v/20230816103454669"/>
+        <updated>2023-08-16T02:22:07.547Z</updated>
+        <content type="html"><![CDATA[더스쿠프]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[초전도체 구현 주장했던 美 교수, 또 논문 철회... '데이터 조작' 의혹]]></title>
+        <id>https://v.daum.net/v/20230816103005451</id>
+        <link href="https://v.daum.net/v/20230816103005451"/>
+        <updated>2023-08-16T02:22:07.548Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[르포] “돌에 가둬 CO₂ 영구 격리”…글로벌 CCS 실증 현장을 가다]]></title>
         <id>https://v.daum.net/v/20230816100056179</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230816093816246"/>
         <updated>2023-08-16T01:12:43.306Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[효소 단백질 조절해 ‘뇌 신경전달’ 정상화… 자폐 치료 길 텄다[Science]]]></title>
-        <id>https://v.daum.net/v/20230816091823576</id>
-        <link href="https://v.daum.net/v/20230816091823576"/>
-        <updated>2023-08-16T01:12:43.308Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생선은 씻으면 썩기 쉬워… 소금 뿌리거나 맛술로 살균하면 좋아[살아있는 과학]]]></title>
-        <id>https://v.daum.net/v/20230816091819573</id>
-        <link href="https://v.daum.net/v/20230816091819573"/>
-        <updated>2023-08-16T01:12:43.311Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
 </feed>
