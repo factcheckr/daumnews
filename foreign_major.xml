@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-08-16T20:18:40.937Z</updated>
+    <updated>2023-08-16T21:17:33.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트럼프 ‘자기 변호’ 통할까]]></title>
+        <id>https://v.daum.net/v/20230817050233107</id>
+        <link href="https://v.daum.net/v/20230817050233107"/>
+        <updated>2023-08-16T21:15:57.272Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유엔 “우크라 전쟁 민간인 사망 1만명 육박… 어린이 500여명 희생”]]></title>
         <id>https://v.daum.net/v/20230817050229103</id>
@@ -13,11 +20,32 @@
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[경기 침체에 저출산 심화… 엎친 데 덮친 中]]></title>
+        <id>https://v.daum.net/v/20230817050230104</id>
+        <link href="https://v.daum.net/v/20230817050230104"/>
+        <updated>2023-08-16T21:15:57.278Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[日언론 “尹, 역사 거론 없는 광복절 이례적… 일본도 성의 있는 호응해야”]]></title>
         <id>https://v.daum.net/v/20230817050132074</id>
         <link href="https://v.daum.net/v/20230817050132074"/>
         <updated>2023-08-16T20:17:20.549Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한 달 만에 '월북 미군' 카드 꺼낸 북한의 3가지 노림수]]></title>
+        <id>https://v.daum.net/v/20230817043051918</id>
+        <link href="https://v.daum.net/v/20230817043051918"/>
+        <updated>2023-08-16T21:15:57.282Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하와이 하나뿐인 화상전문병원…80대 의사 밤낮없이 치료했다]]></title>
+        <id>https://v.daum.net/v/20230817050036035</id>
+        <link href="https://v.daum.net/v/20230817050036035"/>
+        <updated>2023-08-16T21:15:57.283Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美 “한·미·일 3국 협력 관계 ‘뉴노멀’ 만드는 것 목표”]]></title>
@@ -45,34 +73,6 @@
         <id>https://v.daum.net/v/20230817043019909</id>
         <link href="https://v.daum.net/v/20230817043019909"/>
         <updated>2023-08-16T20:17:20.565Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美연준 "인플레 싸움 안 끝났다…추가 금리인상 필요할 수도"]]></title>
-        <id>https://v.daum.net/v/20230817042335898</id>
-        <link href="https://v.daum.net/v/20230817042335898"/>
-        <updated>2023-08-16T20:17:20.568Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴욕유가] 强달러·재고 실망에 80달러 하회]]></title>
-        <id>https://v.daum.net/v/20230817042049896</id>
-        <link href="https://v.daum.net/v/20230817042049896"/>
-        <updated>2023-08-16T20:17:20.570Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또다시 군부 통치·권력 세습… 거꾸로 가는 동남아 '민주화 시계' [아세안 속으로]]]></title>
-        <id>https://v.daum.net/v/20230817042011895</id>
-        <link href="https://v.daum.net/v/20230817042011895"/>
-        <updated>2023-08-16T20:17:20.572Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“퇴행하는 민주주의… 동남아 경제마저 흔들 것” [아세안 속으로]]]></title>
-        <id>https://v.daum.net/v/20230817042004894</id>
-        <link href="https://v.daum.net/v/20230817042004894"/>
-        <updated>2023-08-16T20:17:20.575Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
