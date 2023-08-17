@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-08-17T16:26:52.439Z</updated>
+    <updated>2023-08-17T17:18:50.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령, 광복절에 “공산전체주의 세력” 낙인찍기]]></title>
+        <id>https://v.daum.net/v/20230818014308162</id>
+        <link href="https://v.daum.net/v/20230818014308162"/>
+        <updated>2023-08-17T17:17:03.571Z</updated>
+        <content type="html"><![CDATA[한겨레21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘네번째 검찰 조사’ 이재명, 13시간 만에 귀가]]></title>
         <id>https://v.daum.net/v/20230818001901813</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230818001945814"/>
         <updated>2023-08-17T16:24:47.416Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹 의중?…김태우 공천 두고 흔들리는 與野]]></title>
-        <id>https://v.daum.net/v/20230818000027492</id>
-        <link href="https://v.daum.net/v/20230818000027492"/>
-        <updated>2023-08-17T16:24:47.419Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>

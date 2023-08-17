@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-17T16:26:52.449Z</updated>
+    <updated>2023-08-17T17:18:50.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://v.daum.net/v/20230817214629118"/>
         <updated>2023-08-17T13:20:24.783Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“안팎으로 접히고 위아래로 펼쳐진다”… 韓 OLED 기술 혁신으로 IT 디자인 혁명 예고]]></title>
-        <id>https://v.daum.net/v/20230817163512897</id>
-        <link href="https://v.daum.net/v/20230817163512897"/>
-        <updated>2023-08-17T13:20:24.784Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“다른나라 공영방송은 누가 운영하나요? 재원은 어떤가요?”[궁즉답]]]></title>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20230817160743834"/>
         <updated>2023-08-17T15:21:56.227Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버 AI 연구소장 "이론적 연구가 더 필요한 시점"(종합)]]></title>
+        <id>https://v.daum.net/v/20230817175238380</id>
+        <link href="https://v.daum.net/v/20230817175238380"/>
+        <updated>2023-08-17T17:18:07.842Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
