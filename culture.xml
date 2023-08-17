@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-08-17T15:22:42.366Z</updated>
+    <updated>2023-08-17T16:26:52.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['해어화' OST 부른 가객 김나리, 국립국악원 무대 선다]]></title>
+        <id>https://v.daum.net/v/20230818012014104</id>
+        <link href="https://v.daum.net/v/20230818012014104"/>
+        <updated>2023-08-17T16:25:46.666Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[명경대] 지광국사탑의 귀향]]></title>
         <id>https://v.daum.net/v/20230818000632695</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230818000115513"/>
         <updated>2023-08-17T15:21:37.627Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유석재의 돌발史전] 인터넷의 함정]]></title>
-        <id>https://v.daum.net/v/20230818000024490</id>
-        <link href="https://v.daum.net/v/20230818000024490"/>
-        <updated>2023-08-17T15:21:37.630Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
