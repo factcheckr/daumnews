@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-08-18T07:22:00.258Z</updated>
+    <updated>2023-08-18T08:22:09.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230818160900707"/>
         <updated>2023-08-18T07:21:10.476Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서버 투자 줄고 AI 투자 늘었다...삼성·SK하이닉스 HBM에 총력]]></title>
+        <id>https://v.daum.net/v/20230818151114124</id>
+        <link href="https://v.daum.net/v/20230818151114124"/>
+        <updated>2023-08-18T08:21:34.220Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[생성AI·X·LK99…유행 타는 '밈코인' 투자 유의]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230818144307142"/>
         <updated>2023-08-18T06:22:19.810Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정들었던 '가죽케이스' 아이폰15부터 출시 안한다 [글로벌 IT슈]]]></title>
-        <id>https://v.daum.net/v/20230818141211292</id>
-        <link href="https://v.daum.net/v/20230818141211292"/>
-        <updated>2023-08-18T06:22:19.811Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
