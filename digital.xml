@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-18T11:18:07.187Z</updated>
+    <updated>2023-08-18T12:32:25.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플, 비전 프로에 '액체 렌즈' 넣을까…특허 출원]]></title>
+        <id>https://v.daum.net/v/20230818152606495</id>
+        <link href="https://v.daum.net/v/20230818152606495"/>
+        <updated>2023-08-18T12:31:39.906Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“154만→90만원 반값, 웬일이냐?” 삼성 ‘접는폰’ 견제…아이폰 확 싸졌다]]></title>
         <id>https://v.daum.net/v/20230818195052138</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230818190012305"/>
         <updated>2023-08-18T10:18:50.562Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[““월 이용료가 단돈 100원!” 이래도 안 쓴다니, ‘국민앱’ 어쩌다 이 지경]]></title>
-        <id>https://v.daum.net/v/20230818185051063</id>
-        <link href="https://v.daum.net/v/20230818185051063"/>
-        <updated>2023-08-18T10:18:50.562Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
