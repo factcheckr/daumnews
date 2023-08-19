@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-08-19T10:17:57.292Z</updated>
+    <updated>2023-08-19T11:14:38.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스트레스 탓인 줄 알았는데…공복·커피 섭취가 두통 원인?]]></title>
+        <id>https://v.daum.net/v/20230819183014984</id>
+        <link href="https://v.daum.net/v/20230819183014984"/>
+        <updated>2023-08-19T11:13:49.139Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수백년을 싸워온 농민들의 투쟁을 아십니까]]></title>
         <id>https://v.daum.net/v/20230819174802579</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230819164923903"/>
         <updated>2023-08-19T09:15:43.560Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 50세 미만 암 발병 높아지고 여성 환자 늘었다]]></title>
-        <id>https://v.daum.net/v/20230819164547867</id>
-        <link href="https://v.daum.net/v/20230819164547867"/>
-        <updated>2023-08-19T08:22:22.990Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
