@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-08-19T13:24:54.672Z</updated>
+    <updated>2023-08-19T14:15:45.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[재난경보 메시지도 사이렌도 대피명령도 없었다]]></title>
+        <id>https://v.daum.net/v/20230819204301013</id>
+        <link href="https://v.daum.net/v/20230819204301013"/>
+        <updated>2023-08-19T14:14:32.138Z</updated>
+        <content type="html"><![CDATA[한겨레21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["오염수 방류 시점 정할 때 됐다"…최종 절차 돌입]]></title>
         <id>https://v.daum.net/v/20230819203304961</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230819174702571"/>
         <updated>2023-08-19T11:13:29.254Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐나다 "하룻밤 사이 100년 치 화재"…산불에 연달아 비상사태 선포]]></title>
-        <id>https://v.daum.net/v/20230819174117534</id>
-        <link href="https://v.daum.net/v/20230819174117534"/>
-        <updated>2023-08-19T10:16:53.881Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
