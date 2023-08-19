@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-08-19T18:20:48.489Z</updated>
+    <updated>2023-08-19T19:16:04.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말엔 뷰티] 지긋지긋한 '흰머리'…염색 계속해도 괜찮을까?]]></title>
+        <id>https://v.daum.net/v/20230820000045060</id>
+        <link href="https://v.daum.net/v/20230820000045060"/>
+        <updated>2023-08-19T19:15:02.184Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["같은듯 전혀 다르네"…'인덕션 vs 하이라이트' 구분법은?[알아봅시다]]]></title>
         <id>https://v.daum.net/v/20230819170108048</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230820000613097"/>
         <updated>2023-08-19T16:20:10.635Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[충치 막기 위해 꼭 지켜야 할 습관]]></title>
-        <id>https://v.daum.net/v/20230819223015824</id>
-        <link href="https://v.daum.net/v/20230819223015824"/>
-        <updated>2023-08-19T14:14:40.391Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
