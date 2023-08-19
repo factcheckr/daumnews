@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-08-19T06:20:44.697Z</updated>
+    <updated>2023-08-19T07:16:18.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ADHD 40%가 수면 부족으로 인한 ‘가짜 ADHD’… 약 처방 전에 수면 검사 먼저 받아야]]></title>
+        <id>https://v.daum.net/v/20230819094239910</id>
+        <link href="https://v.daum.net/v/20230819094239910"/>
+        <updated>2023-08-19T07:15:14.879Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[식약설명서] 찜통더위니 청량한 음료? 맥주 커피 탄산수 줄이세요]]></title>
         <id>https://v.daum.net/v/20230819150008744</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230819140630251"/>
         <updated>2023-08-19T05:18:41.648Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오펜하이머, 핵폭탄 장면 아니고 무엇에 놀란?]]></title>
-        <id>https://v.daum.net/v/20230819134801051</id>
-        <link href="https://v.daum.net/v/20230819134801051"/>
-        <updated>2023-08-19T05:18:41.649Z</updated>
-        <content type="html"><![CDATA[한겨레21]]></content>
     </entry>
 </feed>

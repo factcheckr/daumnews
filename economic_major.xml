@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-08-19T06:20:44.685Z</updated>
+    <updated>2023-08-19T07:16:18.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손대는 주식마다 손실…'삼프로TV' 정영진도 339억 돈방석]]></title>
+        <id>https://v.daum.net/v/20230819133002839</id>
+        <link href="https://v.daum.net/v/20230819133002839"/>
+        <updated>2023-08-19T07:14:49.280Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘적자 행진’ 넷마블...신작 힘입어 반등 노린다]]></title>
         <id>https://v.daum.net/v/20230819133301872</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230819101743354"/>
         <updated>2023-08-19T05:18:13.340Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[보푸라기]보험사에 미움받는 고객이 되는 법(Feat. 해지환급금)]]></title>
-        <id>https://v.daum.net/v/20230819121204359</id>
-        <link href="https://v.daum.net/v/20230819121204359"/>
-        <updated>2023-08-19T04:19:53.560Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>
