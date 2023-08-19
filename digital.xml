@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-19T03:18:57.577Z</updated>
+    <updated>2023-08-19T04:21:17.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인텔 "아크 GPU, 드라이버 개선 통해 DX11 성능 향상"]]></title>
+        <id>https://v.daum.net/v/20230819082904196</id>
+        <link href="https://v.daum.net/v/20230819082904196"/>
+        <updated>2023-08-19T04:20:35.757Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플, MR헤드셋 비전 프로에 '액체 렌즈' 탑재할까]]></title>
         <id>https://v.daum.net/v/20230819063805222</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[한겨레]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NASA가 보증한 '나는 자동차' 나온다 [과학을읽다]]]></title>
+        <title type="html"><![CDATA[[과학을읽다]NASA가 보증한 '나는 자동차' 나온다]]></title>
         <id>https://v.daum.net/v/20230819100423180</id>
         <link href="https://v.daum.net/v/20230819100423180"/>
         <updated>2023-08-19T01:07:05.027Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230819100009088"/>
         <updated>2023-08-19T01:07:05.033Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걷기 운동 효과 ‘하루 2300보’부터…7천보 이상이면 효과 ‘쑥’]]></title>
-        <id>https://v.daum.net/v/20230819091510639</id>
-        <link href="https://v.daum.net/v/20230819091510639"/>
-        <updated>2023-08-19T01:07:05.033Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
