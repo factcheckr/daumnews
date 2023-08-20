@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-08-20T22:16:52.707Z</updated>
+    <updated>2023-08-20T23:17:19.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[허울뿐인 ‘근조’ 리본[렌즈로 본 세상]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/8034/PM1nCEOKWL</id>
+        <link href="https://gallery.v.daum.net/p/viewer/8034/PM1nCEOKWL"/>
+        <updated>2023-08-20T23:16:53.775Z</updated>
+        <content type="html"><![CDATA[렌즈로 본 세상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북한, 일터마다 '환경미화' 당부…"자기 일터 알뜰히"]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1489/tIeRrND7Fx</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5840100/3nedmz2mve"/>
         <updated>2023-08-20T07:15:09.379Z</updated>
         <content type="html"><![CDATA[경향포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2인 이상 동반 산행 권고]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5610796/5kw2JW5Jz5</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5610796/5kw2JW5Jz5"/>
-        <updated>2023-08-20T07:15:09.380Z</updated>
-        <content type="html"><![CDATA[모멘트]]></content>
     </entry>
 </feed>
