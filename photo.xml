@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-08-21T18:22:15.689Z</updated>
+    <updated>2023-08-21T19:15:02.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5847810/BeE1UVQSDd"/>
         <updated>2023-08-21T18:21:43.870Z</updated>
         <content type="html"><![CDATA[지자체 제공 포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트랜스포머]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/02qy6Y1iIZ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/02qy6Y1iIZ"/>
+        <updated>2023-08-21T19:14:26.286Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영공 철통 방어]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/661278/3D8L3ND7W0"/>
         <updated>2023-08-21T08:24:03.040Z</updated>
         <content type="html"><![CDATA[정동길 옆 사진관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신림동 둘레길에 놓인 추모 메시지 [쿠키포토]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5620091/toWmVCyPuF</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5620091/toWmVCyPuF"/>
-        <updated>2023-08-21T08:24:03.042Z</updated>
-        <content type="html"><![CDATA[쿠키포토]]></content>
     </entry>
 </feed>
