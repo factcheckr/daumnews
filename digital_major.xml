@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-08-21T19:15:02.418Z</updated>
+    <updated>2023-08-21T20:20:01.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://v.daum.net/v/20230822030129515"/>
         <updated>2023-08-21T18:21:36.690Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["36만원→단돈 7만원…말이 돼?" 헐값 ‘에어팟’ 알고보니]]></title>
+        <id>https://v.daum.net/v/20230821195055820</id>
+        <link href="https://v.daum.net/v/20230821195055820"/>
+        <updated>2023-08-21T20:19:23.116Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“1위 싹쓸이, 한국처럼 못 만드나?” 볼 게 없는 일본 ‘굴욕’]]></title>
+        <id>https://v.daum.net/v/20230821184954994</id>
+        <link href="https://v.daum.net/v/20230821184954994"/>
+        <updated>2023-08-21T20:19:23.118Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어느 지역뉴스가 궁금해? 네이버, 맞춤형 지역뉴스 도입]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230821172745039"/>
         <updated>2023-08-21T10:19:47.528Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[매경 명예기자 리포트] 인공지능을 연구실 밖으로 꺼내는 건 … 결국 기업가의 몫]]></title>
-        <id>https://v.daum.net/v/20230821172114822</id>
-        <link href="https://v.daum.net/v/20230821172114822"/>
-        <updated>2023-08-21T09:20:12.552Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장르적 유사성과 표절, '판례'라는 종이 한 장 차이]]></title>
-        <id>https://v.daum.net/v/20230821171004445</id>
-        <link href="https://v.daum.net/v/20230821171004445"/>
-        <updated>2023-08-21T09:20:12.558Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>
