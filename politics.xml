@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-08-21T15:19:29.996Z</updated>
+    <updated>2023-08-21T16:23:27.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["외압" vs "항명"…여야, 국방위서 '채 상병 사건' 의혹 공방]]></title>
+        <id>https://v.daum.net/v/20230822010006338</id>
+        <link href="https://v.daum.net/v/20230822010006338"/>
+        <updated>2023-08-21T16:21:23.042Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현장FACT] 한동훈-김영배 설전…"질문이 이상" vs "답변이 이상" (영상)]]></title>
         <id>https://v.daum.net/v/20230822000039000</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230821233406808"/>
         <updated>2023-08-21T15:17:32.238Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조태용 "日 있고 우린 없는 재처리·농축 권리, 앞으로의 과제"(종합)]]></title>
-        <id>https://v.daum.net/v/20230821231918700</id>
-        <link href="https://v.daum.net/v/20230821231918700"/>
-        <updated>2023-08-21T15:17:32.240Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
