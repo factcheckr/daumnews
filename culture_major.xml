@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-08-22T15:21:46.911Z</updated>
+    <updated>2023-08-22T16:23:35.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[녹유 오늘의 운세] 73년생 예상 못한 반대 서러움이 더해요]]></title>
+        <id>https://v.daum.net/v/20230823000031913</id>
+        <link href="https://v.daum.net/v/20230823000031913"/>
+        <updated>2023-08-22T16:22:36.702Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배변 뒤 휴지에 피가… 치핵, ‘이 방법’으로 좌욕하면 효과적]]></title>
         <id>https://v.daum.net/v/20230822230020549</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230822205913216"/>
         <updated>2023-08-22T13:23:44.225Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 서울·수도권 곳곳 '호우특보'‥내일, 서해안 강풍 주의]]></title>
-        <id>https://v.daum.net/v/20230822205807202</id>
-        <link href="https://v.daum.net/v/20230822205807202"/>
-        <updated>2023-08-22T13:23:44.225Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
