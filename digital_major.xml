@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-08-23T18:21:53.861Z</updated>
+    <updated>2023-08-23T19:16:13.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://v.daum.net/v/20230824000645909"/>
         <updated>2023-08-23T18:21:02.140Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인도, 달 남극에 닿다]]></title>
-        <id>https://v.daum.net/v/20230823225343279</id>
-        <link href="https://v.daum.net/v/20230823225343279"/>
-        <updated>2023-08-23T18:21:02.143Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전남 우주산업 특구에 ‘민간 발사장’ 생긴다]]></title>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230823173948746"/>
         <updated>2023-08-23T09:17:21.760Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“실적 흔들려도 R&D 투자 확대”…정보보호 기업의 뚝심]]></title>
+        <id>https://v.daum.net/v/20230823141118484</id>
+        <link href="https://v.daum.net/v/20230823141118484"/>
+        <updated>2023-08-23T19:15:26.347Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
