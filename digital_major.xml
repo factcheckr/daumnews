@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-08-24T17:17:34.066Z</updated>
+    <updated>2023-08-24T18:23:28.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크래프톤은 왜 '넥슨의 적'에 손 내밀었을까]]></title>
+        <id>https://v.daum.net/v/20230824182604626</id>
+        <link href="https://v.daum.net/v/20230824182604626"/>
+        <updated>2023-08-24T18:22:45.460Z</updated>
+        <content type="html"><![CDATA[비즈워치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지금의 AI는 단지 ‘머신러닝’… 양질의 성장주 위에 얹은 장식일 뿐]]></title>
         <id>https://v.daum.net/v/20230824190018542</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230824170328495"/>
         <updated>2023-08-24T14:17:28.474Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국산 초거대AI 데뷔전에 2천명 몰려…하이퍼클로바X 사양 비공개]]></title>
-        <id>https://v.daum.net/v/20230824170118372</id>
-        <link href="https://v.daum.net/v/20230824170118372"/>
-        <updated>2023-08-24T16:22:53.677Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
