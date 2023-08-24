@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-08-24T16:23:32.165Z</updated>
+    <updated>2023-08-24T17:17:34.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['대통령 문재인'과 '문재인 전 대통령'은 다른 사람?…하태경, '달라진 말'에 일침]]></title>
+        <id>https://v.daum.net/v/20230825020000478</id>
+        <link href="https://v.daum.net/v/20230825020000478"/>
+        <updated>2023-08-24T17:15:01.842Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹 "北 발사 분석 정보, 미·일과 공유"...추가 도발 대비]]></title>
         <id>https://v.daum.net/v/20230824222259166</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230825000105863"/>
         <updated>2023-08-24T15:17:37.212Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[나이트포커스] '전투복' 입은 나경원 김기현 "배지 필요"]]></title>
-        <id>https://v.daum.net/v/20230824234519729</id>
-        <link href="https://v.daum.net/v/20230824234519729"/>
-        <updated>2023-08-24T15:17:37.213Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
