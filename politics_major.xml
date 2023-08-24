@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-08-24T18:23:28.484Z</updated>
+    <updated>2023-08-24T19:19:04.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -20,11 +20,25 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[정율성, 6·25때 북한군과 서울까지 내려왔다]]></title>
+        <id>https://v.daum.net/v/20230825030036583</id>
+        <link href="https://v.daum.net/v/20230825030036583"/>
+        <updated>2023-08-24T19:16:39.345Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[화평법 ‘킬러규제’ 푼다… 화학물질 등록기준 年 0.1t → 1t]]></title>
         <id>https://v.daum.net/v/20230825030059592</id>
         <link href="https://v.daum.net/v/20230825030059592"/>
         <updated>2023-08-24T18:21:05.233Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['대통령 문재인'과 '문재인 전 대통령'은 다른 사람?…하태경, '달라진 말'에 일침]]></title>
+        <id>https://v.daum.net/v/20230825020000478</id>
+        <link href="https://v.daum.net/v/20230825020000478"/>
+        <updated>2023-08-24T19:16:39.353Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹 "北 발사 분석 정보, 미·일과 공유"...추가 도발 대비]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230825000504994"/>
         <updated>2023-08-24T18:21:05.252Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문재인 “난 일본 오염수 방류 반대”…하태경 “정의용, IAEA 따른다 해”]]></title>
-        <id>https://v.daum.net/v/20230825000129879</id>
-        <link href="https://v.daum.net/v/20230825000129879"/>
-        <updated>2023-08-24T15:17:50.423Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유엔해비타트 논란'...두나무 "한국위, 유엔 기구로 알고 10억 기부"]]></title>
-        <id>https://v.daum.net/v/20230825000105863</id>
-        <link href="https://v.daum.net/v/20230825000105863"/>
-        <updated>2023-08-24T18:21:05.257Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>

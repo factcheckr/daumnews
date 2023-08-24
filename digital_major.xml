@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-08-24T18:23:28.524Z</updated>
+    <updated>2023-08-24T19:19:04.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['클로바X'에 3시간 동안 30개 묻자…"똑똑한데 엉뚱 답변도"]]></title>
+        <id>https://v.daum.net/v/20230824194405525</id>
+        <link href="https://v.daum.net/v/20230824194405525"/>
+        <updated>2023-08-24T19:18:17.768Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크래프톤은 왜 '넥슨의 적'에 손 내밀었을까]]></title>
         <id>https://v.daum.net/v/20230824182604626</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230824173012554"/>
         <updated>2023-08-24T13:22:13.969Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] AI 대중화·수익화 나선 네이버…'생태계' 키우고 '환각'도 해결할까]]></title>
-        <id>https://v.daum.net/v/20230824170328495</id>
-        <link href="https://v.daum.net/v/20230824170328495"/>
-        <updated>2023-08-24T14:17:28.474Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-24T18:23:28.499Z</updated>
+    <updated>2023-08-24T19:19:04.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] “코로나 시절엔 됐는데”…환자도 병원도 불만 터트리는 까닭]]></title>
+        <id>https://v.daum.net/v/20230824204501734</id>
+        <link href="https://v.daum.net/v/20230824204501734"/>
+        <updated>2023-08-24T19:18:08.145Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머릿속 훤히 읽고 말로 표현… ‘AI 아바타’ 말솜씨 좋아졌네]]></title>
         <id>https://v.daum.net/v/20230825030212654</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230824200521000"/>
         <updated>2023-08-24T11:16:22.594Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['클로바X'에 3시간 동안 30개 묻자…"똑똑한데 엉뚱 답변도"]]></title>
-        <id>https://v.daum.net/v/20230824194405525</id>
-        <link href="https://v.daum.net/v/20230824194405525"/>
-        <updated>2023-08-24T11:16:22.598Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
