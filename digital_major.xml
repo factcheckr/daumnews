@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-08-25T11:16:11.584Z</updated>
+    <updated>2023-08-25T12:33:11.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[야심차게 출발했지만 … 네이버AI, 온종일 대기중]]></title>
+        <id>https://v.daum.net/v/20230825175103015</id>
+        <link href="https://v.daum.net/v/20230825175103015"/>
+        <updated>2023-08-25T12:32:34.054Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반려동물 ‘거북이’, 살모넬라균 득실...감염 원인될 수 있어]]></title>
         <id>https://v.daum.net/v/20230825173013429</id>
@@ -20,25 +27,11 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[AI한입뉴스]100개 언어 구사하는 AI, 세계 장벽이 무너진다]]></title>
-        <id>https://v.daum.net/v/20230825112434532</id>
-        <link href="https://v.daum.net/v/20230825112434532"/>
-        <updated>2023-08-25T09:18:07.462Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[주식 성장성에 초점 맞췄더니 …"애플보다 엔비디아"]]></title>
         <id>https://v.daum.net/v/20230825165401424</id>
         <link href="https://v.daum.net/v/20230825165401424"/>
         <updated>2023-08-25T09:18:07.466Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“해 갈수록 수산업 힘들어지는데”…40년 수산물 가게 사장의 한숨]]></title>
-        <id>https://v.daum.net/v/20230825165339411</id>
-        <link href="https://v.daum.net/v/20230825165339411"/>
-        <updated>2023-08-25T09:18:07.469Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[참여형 과학문화축제 '경남과학대전' 4년 만인 10월 27일 개막]]></title>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230825154645525"/>
         <updated>2023-08-25T11:15:29.415Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이슈+] 인도 탐사선, 인류 첫 달 남극 착륙…글로벌 우주 경쟁 시작]]></title>
+        <id>https://v.daum.net/v/20230825150453170</id>
+        <link href="https://v.daum.net/v/20230825150453170"/>
+        <updated>2023-08-25T12:32:34.084Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
