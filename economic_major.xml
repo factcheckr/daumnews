@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-08-25T19:15:45.072Z</updated>
+    <updated>2023-08-25T20:19:58.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20230826030214914"/>
         <updated>2023-08-25T18:21:27.382Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[머스크, 사이버트럭 디자인 우려…"약간의 흠결도 눈에 띄어"]]></title>
+        <id>https://v.daum.net/v/20230826023142864</id>
+        <link href="https://v.daum.net/v/20230826023142864"/>
+        <updated>2023-08-25T20:18:01.676Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소방수서 잔불처리로…파월 "경제·임금 강해 인플레 냉각속도 느려"]]></title>
+        <id>https://v.daum.net/v/20230826015939822</id>
+        <link href="https://v.daum.net/v/20230826015939822"/>
+        <updated>2023-08-25T20:18:01.682Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[덤프트럭, 14년간 막힌 증차 내년부터 푼다]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230825230411866"/>
         <updated>2023-08-25T18:21:27.392Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["희망 무너져"…신분당선 연장 좌초 위기에 주민 실망]]></title>
-        <id>https://v.daum.net/v/20230825223839660</id>
-        <link href="https://v.daum.net/v/20230825223839660"/>
-        <updated>2023-08-25T16:22:37.772Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의사 81% "비대면 진료, 초진까지 확대를"]]></title>
-        <id>https://v.daum.net/v/20230825213332866</id>
-        <link href="https://v.daum.net/v/20230825213332866"/>
-        <updated>2023-08-25T16:22:37.775Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
     </entry>
 </feed>
