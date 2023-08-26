@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-08-26T10:18:59.332Z</updated>
+    <updated>2023-08-26T11:15:43.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 최초 ‘눈 없는 거미’ 발견...어두운 동굴서 진화]]></title>
+        <id>https://v.daum.net/v/20230826080053145</id>
+        <link href="https://v.daum.net/v/20230826080053145"/>
+        <updated>2023-08-26T11:15:01.182Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓美日 달 탐사, 北中 위협위성 실시간 대응…삼각편대 구축 과제는]]></title>
         <id>https://v.daum.net/v/20230826083034426</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230826130335809"/>
         <updated>2023-08-26T08:24:59.829Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이게 고작 7만원” 애플워치랑 닮아도 너무 닮은 신상 손목시계 정체]]></title>
-        <id>https://v.daum.net/v/20230826165128123</id>
-        <link href="https://v.daum.net/v/20230826165128123"/>
-        <updated>2023-08-26T08:24:59.834Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
