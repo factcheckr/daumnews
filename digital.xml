@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-27T02:25:08.153Z</updated>
+    <updated>2023-08-27T03:19:38.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고양이가 참치를 좋아하는 이유..."최고의 감칠맛이 느껴진다냥"]]></title>
+        <id>https://v.daum.net/v/20230827113012226</id>
+        <link href="https://v.daum.net/v/20230827113012226"/>
+        <updated>2023-08-27T03:18:42.748Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[과학 한스푼] 2차 전지 꿈의 신소재 '맥신'... 상용화는 아직]]></title>
         <id>https://v.daum.net/v/20230827024022969</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230827100003906"/>
         <updated>2023-08-27T01:14:55.537Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["기업 배출 탄소 피해보상시 영업익 대비 비중 한국이 가장 커"]]></title>
-        <id>https://v.daum.net/v/20230827100006914</id>
-        <link href="https://v.daum.net/v/20230827100006914"/>
-        <updated>2023-08-27T01:14:55.540Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
