@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-08-27T14:16:15.706Z</updated>
+    <updated>2023-08-27T15:18:18.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230827195546053"/>
         <updated>2023-08-27T12:30:25.505Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버판 챗GPT 발표에 '뉴스 사용료' 신경전]]></title>
+        <id>https://v.daum.net/v/20230827200651199</id>
+        <link href="https://v.daum.net/v/20230827200651199"/>
+        <updated>2023-08-27T15:17:37.638Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[표지로 읽는 과학] 암세포의 생존 방식, 최신 염색체 분석법으로 확인]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230827170306468"/>
         <updated>2023-08-27T10:18:42.892Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日오염수 감시 '비상체제'에…韓전문가 '연이어 입원']]></title>
-        <id>https://v.daum.net/v/20230827163724023</id>
-        <link href="https://v.daum.net/v/20230827163724023"/>
-        <updated>2023-08-27T10:18:42.892Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>

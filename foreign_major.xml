@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-08-27T14:16:15.788Z</updated>
+    <updated>2023-08-27T15:18:18.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[F-16 도입 앞장선 ‘키이우의 유령’ 훈련 중 순직]]></title>
+        <id>https://v.daum.net/v/20230827213905287</id>
+        <link href="https://v.daum.net/v/20230827213905287"/>
+        <updated>2023-08-27T15:16:47.636Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국서 반일시위 재현될까 ‘촉각’…“냉정한 대응”요구]]></title>
+        <id>https://v.daum.net/v/20230827211224917</id>
+        <link href="https://v.daum.net/v/20230827211224917"/>
+        <updated>2023-08-27T15:16:47.637Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러 수사당국 "프리고진 사망, 유전자 분석 결과로 확인"]]></title>
         <id>https://v.daum.net/v/20230827202100388</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230827201012236"/>
         <updated>2023-08-27T12:29:34.646Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 당국 "먼바다도 삼중수소 기준치 이하"]]></title>
-        <id>https://v.daum.net/v/20230827200904218</id>
-        <link href="https://v.daum.net/v/20230827200904218"/>
-        <updated>2023-08-27T12:29:34.649Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3년여 만에 국경 빗장 푼 북한…식량난 긴급처방]]></title>
-        <id>https://v.daum.net/v/20230827194159873</id>
-        <link href="https://v.daum.net/v/20230827194159873"/>
-        <updated>2023-08-27T12:29:34.650Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
     </entry>
 </feed>
