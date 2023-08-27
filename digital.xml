@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-27T04:21:31.842Z</updated>
+    <updated>2023-08-27T05:17:48.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[클로바X 써보니…맛집·여행지 추천은 우수, 동화 작성은 글쎄]]></title>
+        <id>https://v.daum.net/v/20230827135537176</id>
+        <link href="https://v.daum.net/v/20230827135537176"/>
+        <updated>2023-08-27T05:16:45.702Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미생물이 나일론을 만든다고?…과학자들이 이토록 매달리는 진짜 이유는 [교과서로 과학뉴스 읽기]]]></title>
         <id>https://v.daum.net/v/20230827131200610</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230827110003744"/>
         <updated>2023-08-27T02:24:13.454Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨즈더퓨쳐] 오펜하이머 그후 78년…핵폭탄 개발자들의 바람, 얼마나 이뤄졌을까]]></title>
-        <id>https://v.daum.net/v/20230827103611447</id>
-        <link href="https://v.daum.net/v/20230827103611447"/>
-        <updated>2023-08-27T02:24:13.460Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
