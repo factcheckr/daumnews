@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-28T13:25:10.832Z</updated>
+    <updated>2023-08-28T14:18:56.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“아이폰에 밀리더니” 이재용 손에 든 뜻밖에 ‘제품’…등장 예고]]></title>
+        <id>https://v.daum.net/v/20230828222037383</id>
+        <link href="https://v.daum.net/v/20230828222037383"/>
+        <updated>2023-08-28T14:18:07.429Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“공짜로 뉴스 못 가져가” 해외 언론 잇단 ‘GPT봇’ 차단]]></title>
         <id>https://v.daum.net/v/20230828164904957</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230828200937838"/>
         <updated>2023-08-28T11:15:02.740Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맥월드 PC월드에 들어온 생성형 인공지능 챗봇]]></title>
-        <id>https://v.daum.net/v/20230828112134342</id>
-        <link href="https://v.daum.net/v/20230828112134342"/>
-        <updated>2023-08-28T11:15:02.742Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
