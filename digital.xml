@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-28T09:24:34.145Z</updated>
+    <updated>2023-08-28T10:20:20.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“천재 과학자 나와도 중국은 못 이겨” 두 손 두 발 든 국내 AI기업들]]></title>
+        <id>https://v.daum.net/v/20230828185140399</id>
+        <link href="https://v.daum.net/v/20230828185140399"/>
+        <updated>2023-08-28T10:19:38.290Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대상 환자 서류로 증빙하라니…불편 커진 비대면진료 존폐 위기]]></title>
         <id>https://v.daum.net/v/20230828181605712</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230828180029201"/>
         <updated>2023-08-28T09:23:51.843Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["인류 활동으로 지구 변화...'인류세' 채택 논의 활발"]]></title>
-        <id>https://v.daum.net/v/20230828175613065</id>
-        <link href="https://v.daum.net/v/20230828175613065"/>
-        <updated>2023-08-28T09:23:51.846Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
