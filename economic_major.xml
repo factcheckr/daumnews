@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-08-28T15:20:50.746Z</updated>
+    <updated>2023-08-28T16:23:54.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://v.daum.net/v/20230829000254976"/>
         <updated>2023-08-28T15:18:44.606Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부동산 ‘그림자 금융’ 부실…‘셀다운’ 주의보]]></title>
+        <id>https://v.daum.net/v/20230828230001603</id>
+        <link href="https://v.daum.net/v/20230828230001603"/>
+        <updated>2023-08-28T16:21:53.742Z</updated>
+        <content type="html"><![CDATA[매경이코노미]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“깡패도 아니고 18원에 공장 넘기라고?”…하이네켄도 르노도 당했다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230828212605860"/>
         <updated>2023-08-28T14:17:20.373Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["배송 빨라졌다" 중국 직구 앱 '인기'…싼 만큼 주의할 점]]></title>
-        <id>https://v.daum.net/v/20230828210018567</id>
-        <link href="https://v.daum.net/v/20230828210018567"/>
-        <updated>2023-08-28T13:23:39.673Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
