@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-08-29T13:23:18.202Z</updated>
+    <updated>2023-08-29T14:20:47.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["비만 측정에 BMI보다 정확"…WWI 어떻게 계산하나요]]></title>
+        <id>https://v.daum.net/v/20230829204234578</id>
+        <link href="https://v.daum.net/v/20230829204234578"/>
+        <updated>2023-08-29T14:19:28.186Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뇌졸중 위험 5배 높이는 '심방세동', 새 식별법 나와]]></title>
         <id>https://v.daum.net/v/20230829150105521</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230829203306477"/>
         <updated>2023-08-29T12:33:52.446Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물고기 ‘코이’가 무럭무럭 크는 강물같은 사회 꿈꾸며…]]></title>
-        <id>https://v.daum.net/v/20230829201715273</id>
-        <link href="https://v.daum.net/v/20230829201715273"/>
-        <updated>2023-08-29T12:33:52.449Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>

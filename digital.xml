@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-29T13:23:18.209Z</updated>
+    <updated>2023-08-29T14:20:47.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성SDI '46파이 배터리' GM에 샘플 공급]]></title>
+        <id>https://v.daum.net/v/20230829170307720</id>
+        <link href="https://v.daum.net/v/20230829170307720"/>
+        <updated>2023-08-29T14:19:53.222Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신문협, 네이버·구글 등에 생성형 AI 뉴스 저작권침해 보상 촉구]]></title>
         <id>https://v.daum.net/v/20230829213401144</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230829181952308"/>
         <updated>2023-08-29T10:20:06.250Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["간단명료 화법이 명령조 될수있어 … 귀 열어야 신뢰 싹터"]]></title>
-        <id>https://v.daum.net/v/20230829175120439</id>
-        <link href="https://v.daum.net/v/20230829175120439"/>
-        <updated>2023-08-29T09:18:40.099Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
