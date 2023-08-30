@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-08-30T15:19:56.494Z</updated>
+    <updated>2023-08-30T16:24:30.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["유튜브가 레드오션? NO!"...'끌리는 채널의 비밀']]></title>
+        <id>https://v.daum.net/v/20230831010018698</id>
+        <link href="https://v.daum.net/v/20230831010018698"/>
+        <updated>2023-08-30T16:23:04.554Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은박과 무광 여백의 대비, 시간을 잇다]]></title>
         <id>https://v.daum.net/v/20230831000554364</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230830205343335"/>
         <updated>2023-08-30T14:17:06.150Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이 운동' 혈압 가장 많이 낮춰… 유산소 운동보다 효과 좋아]]></title>
-        <id>https://v.daum.net/v/20230830210016433</id>
-        <link href="https://v.daum.net/v/20230830210016433"/>
-        <updated>2023-08-30T12:33:25.203Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
