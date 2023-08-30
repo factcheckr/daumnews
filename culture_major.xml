@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-08-30T16:24:30.417Z</updated>
+    <updated>2023-08-30T17:18:08.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[열 동반 두통, 쌕쌕 호흡... 비대면 진료해도 꼭 병원 가야할 증상은]]></title>
+        <id>https://v.daum.net/v/20230830205343335</id>
+        <link href="https://v.daum.net/v/20230830205343335"/>
+        <updated>2023-08-30T17:16:52.286Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이 운동' 혈압 가장 많이 낮춰… 유산소 운동보다 효과 좋아]]></title>
         <id>https://v.daum.net/v/20230830210016433</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230830201801847"/>
         <updated>2023-08-30T12:33:37.964Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['요오드'가 방사능 예방?…과용하면 갑상선 망가질 수도]]></title>
-        <id>https://v.daum.net/v/20230830201508801</id>
-        <link href="https://v.daum.net/v/20230830201508801"/>
-        <updated>2023-08-30T12:33:37.967Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
