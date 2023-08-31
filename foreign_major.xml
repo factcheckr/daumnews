@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-08-31T16:25:11.592Z</updated>
+    <updated>2023-08-31T17:17:46.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쿠데타 니제르 군부, 경찰에 프랑스 대사 추방 명령]]></title>
+        <id>https://v.daum.net/v/20230901002044797</id>
+        <link href="https://v.daum.net/v/20230901002044797"/>
+        <updated>2023-08-31T17:16:15.425Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인도 2분기 GDP 성장률 7.8%…주요국 중 가장 높아]]></title>
+        <id>https://v.daum.net/v/20230831233143283</id>
+        <link href="https://v.daum.net/v/20230831233143283"/>
+        <updated>2023-08-31T17:16:15.426Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中외교부 대변인, 하루 4차례 日오염수 방류 비판]]></title>
         <id>https://v.daum.net/v/20230901001806793</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230831233118281"/>
         <updated>2023-08-31T15:21:00.673Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[월드 이슈] “시진핑 독재가 위기 근원”]]></title>
-        <id>https://v.daum.net/v/20230831232050212</id>
-        <link href="https://v.daum.net/v/20230831232050212"/>
-        <updated>2023-08-31T15:21:00.676Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘장제스 증손자’ 타이베이 시장 방중…중국 ‘환대’]]></title>
-        <id>https://v.daum.net/v/20230831232047211</id>
-        <link href="https://v.daum.net/v/20230831232047211"/>
-        <updated>2023-08-31T15:21:00.679Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

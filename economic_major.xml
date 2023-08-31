@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-08-31T16:25:11.613Z</updated>
+    <updated>2023-08-31T17:17:46.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20230901000310588"/>
         <updated>2023-08-31T15:20:39.016Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[울산 소비 2개월째 증가…생산은 감소]]></title>
+        <id>https://v.daum.net/v/20230831233659326</id>
+        <link href="https://v.daum.net/v/20230831233659326"/>
+        <updated>2023-08-31T17:15:52.404Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“전지현까지 내세우더니” 충격의 164억 적자…속타는 야놀자]]></title>
+        <id>https://v.daum.net/v/20230831215300249</id>
+        <link href="https://v.daum.net/v/20230831215300249"/>
+        <updated>2023-08-31T17:15:52.406Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[살짝 고개든 美물가…근원 개인소비지출 증가율 4.2% '기저효과']]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230831220137382"/>
         <updated>2023-08-31T13:23:57.106Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예산 왜 늘렸나…지난해 국회서 증액한 사업 16개 집행률 0%]]></title>
-        <id>https://v.daum.net/v/20230831215405266</id>
-        <link href="https://v.daum.net/v/20230831215405266"/>
-        <updated>2023-08-31T15:20:39.024Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[짙어가는 중국 ‘침체’ 그림자…‘유령’ 대형마트까지]]></title>
-        <id>https://v.daum.net/v/20230831213118943</id>
-        <link href="https://v.daum.net/v/20230831213118943"/>
-        <updated>2023-08-31T15:20:39.025Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
