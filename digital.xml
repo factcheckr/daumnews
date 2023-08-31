@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-08-31T09:19:27.828Z</updated>
+    <updated>2023-08-31T10:20:20.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디지털 게임이 ‘ADHD 치료제’로… 이젠 의사가 게임을 처방합니다]]></title>
+        <id>https://v.daum.net/v/20230831190029259</id>
+        <link href="https://v.daum.net/v/20230831190029259"/>
+        <updated>2023-08-31T10:19:24.346Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“개통 5분이면 된다더니 1박2일 난리법석” 0원 요금제 쓰려다…열불 난다]]></title>
+        <id>https://v.daum.net/v/20230831185106015</id>
+        <link href="https://v.daum.net/v/20230831185106015"/>
+        <updated>2023-08-31T10:19:24.348Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신문협회 이어 온신협도 "생성AI 뉴스 학습 시 정당한 대가 지불하라"]]></title>
         <id>https://v.daum.net/v/20230831180709896</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230831163532397"/>
         <updated>2023-08-31T09:18:38.262Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["고물가에도 올 상반기 배달 서비스 매출 늘었다"]]></title>
-        <id>https://v.daum.net/v/20230831180224739</id>
-        <link href="https://v.daum.net/v/20230831180224739"/>
-        <updated>2023-08-31T09:18:38.264Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[IFA 2023]가전, 성능경쟁 넘어 공간·스토리 담는다]]></title>
-        <id>https://v.daum.net/v/20230831180020610</id>
-        <link href="https://v.daum.net/v/20230831180020610"/>
-        <updated>2023-08-31T09:18:38.267Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
