@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-08-31T18:23:40.901Z</updated>
+    <updated>2023-08-31T19:15:15.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20230901000159553"/>
         <updated>2023-08-31T15:21:19.583Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유석재의 돌발史전] 타이어 속의 부처님]]></title>
+        <id>https://v.daum.net/v/20230901000034514</id>
+        <link href="https://v.daum.net/v/20230901000034514"/>
+        <updated>2023-08-31T19:14:02.492Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[계속 디저트 달고 살았더니... 나도 모르게 몸과 피부가 '헐']]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230831205200229"/>
         <updated>2023-08-31T14:17:20.398Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤준협, “형들과 또 뭉칠 수 있을까 생각에 눈물...매 순간이 ‘이겨내’야 할 도전”]]></title>
-        <id>https://v.daum.net/v/20230831204354128</id>
-        <link href="https://v.daum.net/v/20230831204354128"/>
-        <updated>2023-08-31T14:17:20.400Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
