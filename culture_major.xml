@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-09-01T12:34:10.241Z</updated>
+    <updated>2023-09-01T13:23:14.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국관광공사 추천, 9월 가볼 만한 '야간관광' 명소 5곳은]]></title>
+        <id>https://v.daum.net/v/20230901193545278</id>
+        <link href="https://v.daum.net/v/20230901193545278"/>
+        <updated>2023-09-01T13:22:04.801Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 ‘4급 전환’…고위험군 보호 위해 치료제는 계속 ‘무상’ 지원]]></title>
         <id>https://v.daum.net/v/20230901155014939</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230901140105081"/>
         <updated>2023-09-01T07:17:40.892Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] ‘인간’ 이승만의 삶·업적 재조명하는 드라마 나온다]]></title>
-        <id>https://v.daum.net/v/20230901105121427</id>
-        <link href="https://v.daum.net/v/20230901105121427"/>
-        <updated>2023-09-01T07:17:40.894Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
