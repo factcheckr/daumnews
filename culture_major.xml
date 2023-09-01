@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-09-01T18:22:02.951Z</updated>
+    <updated>2023-09-01T19:16:28.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해피 스물 셋 데이! 코스모가 PICK 한 동갑내기는 누구?]]></title>
+        <id>https://v.daum.net/v/20230902001027903</id>
+        <link href="https://v.daum.net/v/20230902001027903"/>
+        <updated>2023-09-01T19:15:17.275Z</updated>
+        <content type="html"><![CDATA[코스모폴리탄]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고3때 암 4기 판정에도 서울대 입학…포기 안한 학생들]]></title>
         <id>https://v.daum.net/v/20230902000407834</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230901193545278"/>
         <updated>2023-09-01T13:22:04.801Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 ‘4급 전환’…고위험군 보호 위해 치료제는 계속 ‘무상’ 지원]]></title>
-        <id>https://v.daum.net/v/20230901155014939</id>
-        <link href="https://v.daum.net/v/20230901155014939"/>
-        <updated>2023-09-01T12:33:07.012Z</updated>
-        <content type="html"><![CDATA[정책브리핑]]></content>
     </entry>
 </feed>
