@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-02T07:16:04.570Z</updated>
+    <updated>2023-09-02T08:21:46.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말N수학] 2022 필즈상 영광의 순간 이후…수학자의 도전은 계속된다]]></title>
+        <id>https://v.daum.net/v/20230902080023560</id>
+        <link href="https://v.daum.net/v/20230902080023560"/>
+        <updated>2023-09-02T08:20:45.385Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[IFA 2023] 삼성폰·LG TV 잡아라…거센 추격 나선 中]]></title>
         <id>https://v.daum.net/v/20230902121253101</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230902140011170"/>
         <updated>2023-09-02T05:16:07.690Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[애플 쇼크웨이브](29)TSMC 모리스 창의 '굴욕'‥계산기·영화 ET]]></title>
-        <id>https://v.daum.net/v/20230902121211090</id>
-        <link href="https://v.daum.net/v/20230902121211090"/>
-        <updated>2023-09-02T03:18:24.866Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
