@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-09-02T19:16:38.003Z</updated>
+    <updated>2023-09-02T20:18:22.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 3요소 덕에 경기침체 피했지만 전망은...]]></title>
+        <id>https://v.daum.net/v/20230903043346685</id>
+        <link href="https://v.daum.net/v/20230903043346685"/>
+        <updated>2023-09-02T20:16:09.732Z</updated>
+        <content type="html"><![CDATA[경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 흐리고 가끔 비…낮 최고 29도 '늦더위' 지속]]></title>
+        <id>https://v.daum.net/v/20230903040012648</id>
+        <link href="https://v.daum.net/v/20230903040012648"/>
+        <updated>2023-09-02T20:16:09.740Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러 국방 "우크라 국경 인근 벨고로트서 드론 3대 격추"]]></title>
         <id>https://v.daum.net/v/20230903012855431</id>
@@ -16,13 +30,6 @@
         <title type="html"><![CDATA[北 억류 미국인 석방 협상가 리처드슨 별세]]></title>
         <id>https://v.daum.net/v/20230903034732642</id>
         <link href="https://v.daum.net/v/20230903034732642"/>
-        <updated>2023-09-02T19:14:12.341Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[머스크 '테슬라 상폐 검토 트윗' 손실 투자자에 550억원 지급]]></title>
-        <id>https://v.daum.net/v/20230903034536641</id>
-        <link href="https://v.daum.net/v/20230903034536641"/>
         <updated>2023-09-02T19:14:12.341Z</updated>
         <content type="html"><![CDATA[국제]]></content>
     </entry>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20230902204817044"/>
         <updated>2023-09-02T15:16:42.450Z</updated>
         <content type="html"><![CDATA[문화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자가 만든 집에 실제로 가보니…“가격은 1억” [IFA 2023]]]></title>
-        <id>https://v.daum.net/v/20230902180855754</id>
-        <link href="https://v.daum.net/v/20230902180855754"/>
-        <updated>2023-09-02T15:16:42.452Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
     </entry>
 </feed>
