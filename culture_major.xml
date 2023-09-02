@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-09-02T16:25:06.463Z</updated>
+    <updated>2023-09-02T17:15:20.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[칙칙해진 안색, ‘건강 이상’을 의심해야 할 때는?]]></title>
+        <id>https://v.daum.net/v/20230902220017581</id>
+        <link href="https://v.daum.net/v/20230902220017581"/>
+        <updated>2023-09-02T17:14:29.287Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[문화가K] 시공간의 예술적 해석…‘건축·미술이 되다’ 기획전]]></title>
         <id>https://v.daum.net/v/20230902215431539</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230902090105112"/>
         <updated>2023-09-02T12:30:11.084Z</updated>
         <content type="html"><![CDATA[JIBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[건강당당] 혈당 높으면 더 위험한 감염증은?]]></title>
-        <id>https://v.daum.net/v/20230902170056915</id>
-        <link href="https://v.daum.net/v/20230902170056915"/>
-        <updated>2023-09-02T12:30:11.091Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
