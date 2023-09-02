@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-09-02T13:20:41.632Z</updated>
+    <updated>2023-09-02T14:16:36.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[치매는 치료가 안 된다?...정신질환에 대한 오해와 진실]]></title>
+        <id>https://v.daum.net/v/20230902120535006</id>
+        <link href="https://v.daum.net/v/20230902120535006"/>
+        <updated>2023-09-02T14:15:27.805Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[충동적인 우리 아이, 원인은 수면 부족?]]></title>
         <id>https://v.daum.net/v/20230902210016108</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[스페셜리스트] "아, 이 장면!"…라이브 연주로 영화를 즐기다, '필름 콘서트']]></title>
+        <title type="html"><![CDATA["아, 이 장면!"…라이브 연주로 영화를 즐기다, '필름 콘서트' [스페셜리스트]]]></title>
         <id>https://v.daum.net/v/20230902204817044</id>
         <link href="https://v.daum.net/v/20230902204817044"/>
         <updated>2023-09-02T13:19:29.816Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230902080502661"/>
         <updated>2023-09-02T12:30:11.096Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Pick] "가을은 독서의 계절"…9월, 전국 독서문화행사 1만 건]]></title>
-        <id>https://v.daum.net/v/20230902093612509</id>
-        <link href="https://v.daum.net/v/20230902093612509"/>
-        <updated>2023-09-02T10:17:35.864Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
