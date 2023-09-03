@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-09-03T14:16:08.048Z</updated>
+    <updated>2023-09-03T15:21:53.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘파종 시기도 지났는데’…계속된 비에 감자 농가 ‘울상’]]></title>
+        <id>https://v.daum.net/v/20230903220127564</id>
+        <link href="https://v.daum.net/v/20230903220127564"/>
+        <updated>2023-09-03T15:20:15.205Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올 8월 전력 사용량, 여름철 역대 최고…작년보다 전기 30% 더 쓴 집 요금 2배]]></title>
         <id>https://v.daum.net/v/20230903215550509</id>
         <link href="https://v.daum.net/v/20230903215550509"/>
         <updated>2023-09-03T13:18:18.925Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비메모리 앞에 한없이 작아지는 K반도체]]></title>
+        <id>https://v.daum.net/v/20230903215530500</id>
+        <link href="https://v.daum.net/v/20230903215530500"/>
+        <updated>2023-09-03T15:20:15.210Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
@@ -55,24 +69,10 @@
         <content type="html"><![CDATA[세계일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“시스템반도체 키우려면 국가적 전략 아래 선택과 집중해야”]]></title>
-        <id>https://v.daum.net/v/20230903210243068</id>
-        <link href="https://v.daum.net/v/20230903210243068"/>
-        <updated>2023-09-03T13:18:18.942Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[가계대출 부채질 한 ‘50년’ 논란… 1년9개월 만에 1조6000억 폭증]]></title>
         <id>https://v.daum.net/v/20230903210203064</id>
         <link href="https://v.daum.net/v/20230903210203064"/>
         <updated>2023-09-03T13:18:18.944Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["순식간에 결제" 얼굴로 터치로, 페이의 진화…보안 숙제]]></title>
-        <id>https://v.daum.net/v/20230903210011050</id>
-        <link href="https://v.daum.net/v/20230903210011050"/>
-        <updated>2023-09-03T13:18:18.948Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
