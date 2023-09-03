@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-09-03T13:19:51.917Z</updated>
+    <updated>2023-09-03T14:16:08.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어느 ‘따뜻한 날들의 기억’ 혹은 기록을 만나는 방법.. “예술과 여행하는 제주, 어디까지  가봤니?”]]></title>
+        <id>https://v.daum.net/v/20230903205305996</id>
+        <link href="https://v.daum.net/v/20230903205305996"/>
+        <updated>2023-09-03T14:15:13.076Z</updated>
+        <content type="html"><![CDATA[JIBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 동해안 가끔 비‥내륙엔 소나기]]></title>
         <id>https://v.daum.net/v/20230903204920980</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230903184206738"/>
         <updated>2023-09-03T10:17:42.173Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["엄마 배 아파" 등교 앞두고 데굴데굴…새학기 스트레스?]]></title>
-        <id>https://v.daum.net/v/20230903090104605</id>
-        <link href="https://v.daum.net/v/20230903090104605"/>
-        <updated>2023-09-03T12:30:11.226Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
