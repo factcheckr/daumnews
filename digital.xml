@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-03T11:15:30.811Z</updated>
+    <updated>2023-09-03T12:31:09.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 애플에 한방 먹은 메타…LG와 손잡고 ‘이 시장’ 뛰어든다는데]]></title>
+        <id>https://v.daum.net/v/20230903211200137</id>
+        <link href="https://v.daum.net/v/20230903211200137"/>
+        <updated>2023-09-03T12:30:19.807Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[달 개척의 시대…먼저 개발하면 우리 땅?]]></title>
+        <id>https://v.daum.net/v/20230903204556944</id>
+        <link href="https://v.daum.net/v/20230903204556944"/>
+        <updated>2023-09-03T12:30:19.809Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도쿄 호텔 1박에 10만엔 … 고급화 '올인']]></title>
         <id>https://v.daum.net/v/20230903174514762</id>
@@ -20,7 +34,7 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[실상은 월 100만원도 못 버는데…“여전히 유튜버 하겠다고 난리?”]]></title>
+        <title type="html"><![CDATA[“월 100만원도 힘들어요” 결국 떠나는 유튜버 실상…아무리 얘기해도]]></title>
         <id>https://v.daum.net/v/20230903185100894</id>
         <link href="https://v.daum.net/v/20230903185100894"/>
         <updated>2023-09-03T10:17:51.779Z</updated>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230903184001689"/>
         <updated>2023-09-03T10:17:51.781Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[테크&포커스] 5초만에 업무처리… AI 상담원, 단순노동 분담한다]]></title>
-        <id>https://v.daum.net/v/20230903183046568</id>
-        <link href="https://v.daum.net/v/20230903183046568"/>
-        <updated>2023-09-03T10:17:51.784Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[테크&포커스] 황금알 AICC 잡아라… IT 인프라·통신기술 장전한 이통사]]></title>
-        <id>https://v.daum.net/v/20230903183038565</id>
-        <link href="https://v.daum.net/v/20230903183038565"/>
-        <updated>2023-09-03T10:17:51.787Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
