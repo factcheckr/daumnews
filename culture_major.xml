@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-09-04T14:19:51.585Z</updated>
+    <updated>2023-09-04T16:23:07.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스마트폰 없으면 손에 식은땀?…혹시 당신도?]]></title>
+        <id>https://v.daum.net/v/20230904194201820</id>
+        <link href="https://v.daum.net/v/20230904194201820"/>
+        <updated>2023-09-04T16:22:13.117Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MZ 덕분에 성수·신당 뜨고…美·유럽 관광객 매출 늘고]]></title>
         <id>https://v.daum.net/v/20230904194337846</id>
         <link href="https://v.daum.net/v/20230904194337846"/>
-        <updated>2023-09-04T14:18:49.100Z</updated>
+        <updated>2023-09-04T16:22:13.118Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230904183014426"/>
         <updated>2023-09-04T10:22:00.402Z</updated>
         <content type="html"><![CDATA[대전일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어딘가 불쾌한데, 이토록 경이롭다니…]]></title>
-        <id>https://v.daum.net/v/20230904180802641</id>
-        <link href="https://v.daum.net/v/20230904180802641"/>
-        <updated>2023-09-04T10:22:00.408Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
