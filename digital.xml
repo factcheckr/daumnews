@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-04T12:34:01.446Z</updated>
+    <updated>2023-09-04T13:22:48.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울지방변호사회 홈페이지, 사이버 테러로 6일째 마비]]></title>
+        <id>https://v.daum.net/v/20230904201117341</id>
+        <link href="https://v.daum.net/v/20230904201117341"/>
+        <updated>2023-09-04T13:22:08.817Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[발전 눈부신 기계번역…지나친 의존에 역효과도]]></title>
         <id>https://v.daum.net/v/20230904202701577</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230904181730996"/>
         <updated>2023-09-04T10:22:09.446Z</updated>
         <content type="html"><![CDATA[농민신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결국 '5G 요금' 줄줄이 올리는 日 통신사…한국도 따라갈까]]></title>
-        <id>https://v.daum.net/v/20230904181603954</id>
-        <link href="https://v.daum.net/v/20230904181603954"/>
-        <updated>2023-09-04T10:22:09.448Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
