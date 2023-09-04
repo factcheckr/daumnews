@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-09-04T02:24:06.711Z</updated>
+    <updated>2023-09-04T03:20:13.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국어에 능하지만 글짓기·전문지식에 약한 네이버 CLOVA X]]></title>
+        <id>https://v.daum.net/v/20230904100107237</id>
+        <link href="https://v.daum.net/v/20230904100107237"/>
+        <updated>2023-09-04T03:19:30.618Z</updated>
+        <content type="html"><![CDATA[주간동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인류 조상 한때 멸종위기…기후변화에 10만 인구가 1천명대로]]></title>
         <id>https://v.daum.net/v/20230904100506406</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230904084517511"/>
         <updated>2023-09-04T01:15:43.744Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 텐센트, 자체 개발 '챗GPT' 대항마 곧 공개]]></title>
-        <id>https://v.daum.net/v/20230904084309466</id>
-        <link href="https://v.daum.net/v/20230904084309466"/>
-        <updated>2023-09-04T01:15:43.746Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>

@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-04T02:24:06.701Z</updated>
+    <updated>2023-09-04T03:20:13.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[페북·인스타 돈 내고 쓰라고…왜?]]></title>
+        <id>https://v.daum.net/v/20230904105212361</id>
+        <link href="https://v.daum.net/v/20230904105212361"/>
+        <updated>2023-09-04T03:19:19.259Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코빗 리서치센터 "연내 비트코인 현물 ETF 상장 가능성 커"]]></title>
+        <id>https://v.daum.net/v/20230904112113950</id>
+        <link href="https://v.daum.net/v/20230904112113950"/>
+        <updated>2023-09-04T03:19:19.262Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[달 착륙 성공한 인도, 이제 태양까지 넘본다 [우주로 간다]]]></title>
         <id>https://v.daum.net/v/20230904110654084</id>
         <link href="https://v.daum.net/v/20230904110654084"/>
         <updated>2023-09-04T02:23:26.944Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["반도체·양자·우주도 R&D예산 삭감 칼날 못피했다"]]></title>
-        <id>https://v.daum.net/v/20230904110636067</id>
-        <link href="https://v.daum.net/v/20230904110636067"/>
-        <updated>2023-09-04T02:23:26.945Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[네이버·카톡 소셜 로그인창 아녔어?…눈뜨고 코베는 신종 피싱 공격]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230904103000420"/>
         <updated>2023-09-04T02:23:26.955Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국어에 능하지만 글짓기·전문지식에 약한 네이버 CLOVA X]]></title>
-        <id>https://v.daum.net/v/20230904100107237</id>
-        <link href="https://v.daum.net/v/20230904100107237"/>
-        <updated>2023-09-04T01:15:34.199Z</updated>
-        <content type="html"><![CDATA[주간동아]]></content>
     </entry>
 </feed>
