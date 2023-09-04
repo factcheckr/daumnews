@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-04T11:16:36.050Z</updated>
+    <updated>2023-09-04T12:34:01.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[발전 눈부신 기계번역…지나친 의존에 역효과도]]></title>
+        <id>https://v.daum.net/v/20230904202701577</id>
+        <link href="https://v.daum.net/v/20230904202701577"/>
+        <updated>2023-09-04T12:33:13.475Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“죽으면 쓰레기 봉투에 버려라?” 강아지 쓰레기 취급…억장 무너지는 주인]]></title>
         <id>https://v.daum.net/v/20230904195133020</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230904181603954"/>
         <updated>2023-09-04T10:22:09.448Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Interview] 마음 건강 책임지는 희랩 전세희 대표 | “복잡한 그림 검사, 1초 만에 AI 분석…북미 시장 노린다”]]></title>
-        <id>https://v.daum.net/v/20230904180523528</id>
-        <link href="https://v.daum.net/v/20230904180523528"/>
-        <updated>2023-09-04T09:18:32.533Z</updated>
-        <content type="html"><![CDATA[이코노미조선]]></content>
     </entry>
 </feed>
