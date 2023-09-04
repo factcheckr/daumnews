@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-09-04T17:16:54.876Z</updated>
+    <updated>2023-09-04T18:21:56.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자율주행 美 로보택시, 이번엔 구급차 막아]]></title>
+        <id>https://v.daum.net/v/20230905030213254</id>
+        <link href="https://v.daum.net/v/20230905030213254"/>
+        <updated>2023-09-04T18:21:20.546Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[결국 '5G 요금' 줄줄이 올리는 日 통신사…한국도 따라갈까]]></title>
         <id>https://v.daum.net/v/20230904181603954</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230904170117865"/>
         <updated>2023-09-04T09:18:43.061Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 추격 따돌린 네이버 "클로바X가 효자"]]></title>
-        <id>https://v.daum.net/v/20230904164504157</id>
-        <link href="https://v.daum.net/v/20230904164504157"/>
-        <updated>2023-09-04T09:18:43.065Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
