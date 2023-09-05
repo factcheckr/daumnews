@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-09-05T13:22:45.426Z</updated>
+    <updated>2023-09-05T14:17:55.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령, 인니서 10월 2일 임시공휴일 재가…6일 황금연휴 확정]]></title>
+        <id>https://v.daum.net/v/20230905202242799</id>
+        <link href="https://v.daum.net/v/20230905202242799"/>
+        <updated>2023-09-05T14:16:18.267Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대정부질문 첫날 "자유민주주의에 도전" vs "극우 뉴라이트"]]></title>
         <id>https://v.daum.net/v/20230905193441055</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한·미·일 이어 “한·중·일 협력”…윤 대통령 ‘단선적 외교’ 우려]]></title>
+        <title type="html"><![CDATA[미·일과 밀착 중인데…윤 대통령 “한·중·일 협력 궤도 올려야”]]></title>
         <id>https://v.daum.net/v/20230905212120684</id>
         <link href="https://v.daum.net/v/20230905212120684"/>
         <updated>2023-09-05T13:20:51.810Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230905210756499"/>
         <updated>2023-09-05T12:32:29.412Z</updated>
         <content type="html"><![CDATA[대구MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 서울 유명 대학 병원도 셀프 처방…“환자의 안전 침해”]]></title>
-        <id>https://v.daum.net/v/20230905211240540</id>
-        <link href="https://v.daum.net/v/20230905211240540"/>
-        <updated>2023-09-05T12:32:29.412Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
