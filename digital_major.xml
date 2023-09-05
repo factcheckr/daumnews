@@ -2,20 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-09-05T10:20:21.839Z</updated>
+    <updated>2023-09-05T11:16:14.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴스타파 논란發 '가짜뉴스방지법’ 만들어지나…2018년에는?]]></title>
+        <id>https://v.daum.net/v/20230905175116700</id>
+        <link href="https://v.daum.net/v/20230905175116700"/>
+        <updated>2023-09-05T11:15:39.761Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“고작 500원 아끼자고 이렇게까지” 20대 여성 ‘짠내 생활’ 이 정도야?]]></title>
+        <id>https://v.daum.net/v/20230905175057671</id>
+        <link href="https://v.daum.net/v/20230905175057671"/>
+        <updated>2023-09-05T11:15:39.769Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['후쿠시마 오염수' 이메일 주의하세요]]></title>
         <id>https://v.daum.net/v/20230905173913363</id>
         <link href="https://v.daum.net/v/20230905173913363"/>
-        <updated>2023-09-05T09:22:33.028Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['4나노'로 美빅테크 고객 잡는다]]></title>
-        <id>https://v.daum.net/v/20230905174211437</id>
-        <link href="https://v.daum.net/v/20230905174211437"/>
         <updated>2023-09-05T09:22:33.028Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230905162815752"/>
         <updated>2023-09-05T09:22:33.052Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["삭감된 R&D 예산 원상회복"…연구원·행정직 한 목소리]]></title>
-        <id>https://v.daum.net/v/20230905162535649</id>
-        <link href="https://v.daum.net/v/20230905162535649"/>
-        <updated>2023-09-05T08:23:10.626Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
