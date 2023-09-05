@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-09-05T11:16:14.910Z</updated>
+    <updated>2023-09-05T12:34:10.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['주1회 치킨' 고수하던 마니아도 결국…'외식업 배달' 확 줄었다]]></title>
+        <title type="html"><![CDATA[[단독] '철근 누락' 아파트, 설계부터 부실…전문가 "이건 그리다 만 도면"]]></title>
+        <id>https://v.daum.net/v/20230905201913751</id>
+        <link href="https://v.daum.net/v/20230905201913751"/>
+        <updated>2023-09-05T12:33:12.434Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혹시 나도 알코올 중독?…자가진단 어떻게]]></title>
+        <id>https://v.daum.net/v/20230905193001971</id>
+        <link href="https://v.daum.net/v/20230905193001971"/>
+        <updated>2023-09-05T12:33:12.437Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일주일에 한 번은 꼭 치킨 시켜 먹더니…"배달 끊었습니다"]]></title>
         <id>https://v.daum.net/v/20230905200106486</id>
         <link href="https://v.daum.net/v/20230905200106486"/>
         <updated>2023-09-05T11:15:10.901Z</updated>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230905193950152"/>
         <updated>2023-09-05T11:15:10.902Z</updated>
         <content type="html"><![CDATA[경기일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우여곡절 끝에 물관리기본계획 공청회...전문가들 "보 정책 오랜 모니터링 필요"]]></title>
-        <id>https://v.daum.net/v/20230905192021784</id>
-        <link href="https://v.daum.net/v/20230905192021784"/>
-        <updated>2023-09-05T11:15:10.904Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뭘 좋아할지 몰라 다 준비한 국립무용단 ‘온춤’]]></title>
-        <id>https://v.daum.net/v/20230905192003775</id>
-        <link href="https://v.daum.net/v/20230905192003775"/>
-        <updated>2023-09-05T11:15:10.906Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
