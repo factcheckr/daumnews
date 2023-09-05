@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-09-05T19:16:20.886Z</updated>
+    <updated>2023-09-05T20:19:47.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5018824/PXcqjPiHBB"/>
         <updated>2023-09-05T15:19:50.798Z</updated>
         <content type="html"><![CDATA[뉴시스Pic]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좀 내려와![고양이 눈]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/BrqbfFqkDb</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/BrqbfFqkDb"/>
+        <updated>2023-09-05T20:19:21.444Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안반데기 배추밭[포토 에세이]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615618/boUD5ZUNO3"/>
         <updated>2023-09-05T07:16:48.374Z</updated>
         <content type="html"><![CDATA[오마이포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 노동절 맞아 시위하는 LA 일선 의료진]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1476/3Ak4deatu9</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1476/3Ak4deatu9"/>
-        <updated>2023-09-05T07:16:48.378Z</updated>
-        <content type="html"><![CDATA[미국은 지금]]></content>
     </entry>
 </feed>
