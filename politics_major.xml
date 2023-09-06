@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-09-06T13:25:52.224Z</updated>
+    <updated>2023-09-06T14:17:31.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대정부질문 이틀째도 '후쿠시마 오염수·홍범도 장군' 도돌이표 공방]]></title>
+        <id>https://v.daum.net/v/20230906215953942</id>
+        <link href="https://v.daum.net/v/20230906215953942"/>
+        <updated>2023-09-06T14:15:58.486Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시의원 8명, 술 수십 병 갖고 말레이시아 입국하다 공항서 억류]]></title>
+        <id>https://v.daum.net/v/20230906204731591</id>
+        <link href="https://v.daum.net/v/20230906204731591"/>
+        <updated>2023-09-06T14:15:58.488Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조국 "용산이 전체주의에 장악…총선 뒤 어떤 일 생길지"]]></title>
         <id>https://v.daum.net/v/20230906215737901</id>
         <link href="https://v.daum.net/v/20230906215737901"/>
         <updated>2023-09-06T13:23:59.272Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이낙연, 李 단식에 "안타까운 상황…尹정부 국정운영 위태로워"]]></title>
-        <id>https://v.daum.net/v/20230906215632869</id>
-        <link href="https://v.daum.net/v/20230906215632869"/>
-        <updated>2023-09-06T13:23:59.275Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["확장억제 착각" "공부 좀 하세요"…'대북정책·오염수' 설전]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230906212724325"/>
         <updated>2023-09-06T13:23:59.288Z</updated>
         <content type="html"><![CDATA[대구MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검찰도 처벌 못한 4백알 셀프 처방…“10명 중 6명, 규제해야”]]></title>
-        <id>https://v.daum.net/v/20230906212708318</id>
-        <link href="https://v.daum.net/v/20230906212708318"/>
-        <updated>2023-09-06T13:23:59.290Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
