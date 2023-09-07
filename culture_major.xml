@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-09-07T15:20:54.599Z</updated>
+    <updated>2023-09-07T16:25:13.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] '백로'에도 늦더위, 낮엔 30도 안팎]]></title>
+        <id>https://v.daum.net/v/20230907205815524</id>
+        <link href="https://v.daum.net/v/20230907205815524"/>
+        <updated>2023-09-07T16:23:58.455Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘분단을 품고 70년’ DMZ… 예술가의 시선으로 담다]]></title>
+        <id>https://v.daum.net/v/20230907203916114</id>
+        <link href="https://v.daum.net/v/20230907203916114"/>
+        <updated>2023-09-07T16:23:58.456Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대담] 제62회 탐라문화제…‘제주의 할망’]]></title>
         <id>https://v.daum.net/v/20230907193628363</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230907184315033"/>
         <updated>2023-09-07T10:20:16.215Z</updated>
         <content type="html"><![CDATA[농민신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독립운동가 부부도 서툰 부모였다…뮤지컬 '제시의 일기']]></title>
-        <id>https://v.daum.net/v/20230907184100994</id>
-        <link href="https://v.daum.net/v/20230907184100994"/>
-        <updated>2023-09-07T13:22:30.949Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["화각 인생 20년, 일탈에서 새 길 찾았다"]]></title>
-        <id>https://v.daum.net/v/20230907184002954</id>
-        <link href="https://v.daum.net/v/20230907184002954"/>
-        <updated>2023-09-07T13:22:30.949Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>

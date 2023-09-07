@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-09-07T15:20:54.580Z</updated>
+    <updated>2023-09-07T16:25:13.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中 ‘아이폰 금지령 확대’에...신형 출시 앞둔 애플, 주가 이틀째 급락]]></title>
+        <id>https://v.daum.net/v/20230908005343164</id>
+        <link href="https://v.daum.net/v/20230908005343164"/>
+        <updated>2023-09-07T16:22:53.940Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KB금융 회장 인선 절차에 금융당국은 왜 조용할까?]]></title>
         <id>https://v.daum.net/v/20230908000601878</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230908000051725"/>
         <updated>2023-09-07T15:18:53.422Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대차 노조 “13일부터 파업..교섭은 계속”]]></title>
-        <id>https://v.daum.net/v/20230907235624651</id>
-        <link href="https://v.daum.net/v/20230907235624651"/>
-        <updated>2023-09-07T15:18:53.426Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
