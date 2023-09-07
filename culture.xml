@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-09-07T16:25:13.285Z</updated>
+    <updated>2023-09-07T17:17:43.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이 아침의 예술가] 전시장서 카레 끓이는 태국의 '괴짜 예술가']]></title>
+        <id>https://v.daum.net/v/20230907180702104</id>
+        <link href="https://v.daum.net/v/20230907180702104"/>
+        <updated>2023-09-07T17:16:21.191Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계 3대 클래식 기타리스트 페르난데스 "한국 관객 따뜻해"]]></title>
         <id>https://v.daum.net/v/20230908011022305</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230907214501441"/>
         <updated>2023-09-07T13:22:18.546Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방통위, 언론사 팩트체크 시스템 검증…“규제 기관의 보도 독립성 침해”]]></title>
-        <id>https://v.daum.net/v/20230907212045002</id>
-        <link href="https://v.daum.net/v/20230907212045002"/>
-        <updated>2023-09-07T12:33:44.724Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
