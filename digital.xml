@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-07T14:18:07.934Z</updated>
+    <updated>2023-09-07T15:20:54.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인간과 돼지 세포 결합해 이식 가능한 신장 만들었다 [사이언스 톡]]]></title>
+        <id>https://v.daum.net/v/20230908000102728</id>
+        <link href="https://v.daum.net/v/20230908000102728"/>
+        <updated>2023-09-07T15:19:59.346Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새울원전 추가 자율유치에 마을이 두 쪽]]></title>
+        <id>https://v.daum.net/v/20230907234140566</id>
+        <link href="https://v.daum.net/v/20230907234140566"/>
+        <updated>2023-09-07T15:19:59.349Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경북대 '우주공학부' 신설…우주공학 클러스터 구축]]></title>
         <id>https://v.daum.net/v/20230907205623469</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230907190128446"/>
         <updated>2023-09-07T10:20:25.974Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“폭우에 진짜 이 정도까지?” 합성처럼 믿기 힘든 이 사진들 [지구, 뭐래?]]]></title>
-        <id>https://v.daum.net/v/20230907185143228</id>
-        <link href="https://v.daum.net/v/20230907185143228"/>
-        <updated>2023-09-07T10:20:25.976Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제각각 인구변화 겪는 글로벌, 틈새 비즈니스가 뜬다[K비즈니스 가이드]]]></title>
-        <id>https://v.daum.net/v/20230907184801152</id>
-        <link href="https://v.daum.net/v/20230907184801152"/>
-        <updated>2023-09-07T10:20:25.978Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
