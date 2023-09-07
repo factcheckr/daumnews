@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-07T03:18:47.693Z</updated>
+    <updated>2023-09-07T04:22:40.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플 고객 충성도 테스트? 아이폰 가격 100달러 인상한다]]></title>
+        <id>https://v.daum.net/v/20230907121419010</id>
+        <link href="https://v.daum.net/v/20230907121419010"/>
+        <updated>2023-09-07T04:21:41.447Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해 지스타, 역대 최대 규모로 개최…"안전관리에 최선"]]></title>
         <id>https://v.daum.net/v/20230907115734418</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230907105823607"/>
         <updated>2023-09-07T03:18:03.792Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아이폰15 USB-C 전환, 직접적 기기 교체 요인 아냐"]]></title>
-        <id>https://v.daum.net/v/20230907112253999</id>
-        <link href="https://v.daum.net/v/20230907112253999"/>
-        <updated>2023-09-07T03:18:03.794Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
