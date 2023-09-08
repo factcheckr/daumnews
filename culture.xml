@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-09-08T17:17:08.032Z</updated>
+    <updated>2023-09-08T18:24:59.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[작곡가 최재혁 "전통 깨는 게 클래식의 전통"[문화人터뷰]]]></title>
+        <id>https://v.daum.net/v/20230909021014827</id>
+        <link href="https://v.daum.net/v/20230909021014827"/>
+        <updated>2023-09-08T18:23:54.924Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“허리 아프면 모두 디스크? 통증 양상 잘 따져보라”[베스트 닥터의 베스트 건강법]]]></title>
         <id>https://v.daum.net/v/20230909014154744</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230909003130503"/>
         <updated>2023-09-08T16:22:29.542Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[라인W 날씨] 주말 대체로 맑아…낮에는 ‘더위’, 아침저녁 ‘선선’]]></title>
-        <id>https://v.daum.net/v/20230909002541485</id>
-        <link href="https://v.daum.net/v/20230909002541485"/>
-        <updated>2023-09-08T16:22:29.543Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
