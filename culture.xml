@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-09-08T13:22:37.018Z</updated>
+    <updated>2023-09-08T14:17:54.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[찐 부자 패션?… ‘Y2K’ 지고 ‘올드머니’ 뜬다 [이슈+]]]></title>
+        <id>https://v.daum.net/v/20230908223149616</id>
+        <link href="https://v.daum.net/v/20230908223149616"/>
+        <updated>2023-09-08T14:16:42.921Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴스타파 인용 보도한 KBS "결과적으로 혼선 드려"]]></title>
         <id>https://v.daum.net/v/20230908221925518</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘대구를 몸으로 말하다’…대구시립무용단 춤 시리즈 ‘눈길’]]></title>
+        <title type="html"><![CDATA[“대구를 몸으로 말하다”…대구시립무용단 춤 시리즈 ‘눈길’]]></title>
         <id>https://v.daum.net/v/20230908215209180</id>
         <link href="https://v.daum.net/v/20230908215209180"/>
         <updated>2023-09-08T13:21:20.349Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230908215003153"/>
         <updated>2023-09-08T13:21:20.349Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이범석 청주시장이 말하는 2023 청주공예비엔날레]]></title>
-        <id>https://v.daum.net/v/20230908212943921</id>
-        <link href="https://v.daum.net/v/20230908212943921"/>
-        <updated>2023-09-08T13:21:20.352Z</updated>
-        <content type="html"><![CDATA[CJB청주방송]]></content>
     </entry>
 </feed>
