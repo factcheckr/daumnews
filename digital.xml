@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-08T03:19:52.590Z</updated>
+    <updated>2023-09-08T04:23:00.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["데이터 규모 넷플릭스 10배"…MS, 희소 암 찾도록 AI 키운다]]></title>
+        <id>https://v.daum.net/v/20230908130101551</id>
+        <link href="https://v.daum.net/v/20230908130101551"/>
+        <updated>2023-09-08T04:22:04.611Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화웨이 ‘깜짝 부활’에 글로벌 스마트폰 시장 대격변 [화웨이 쇼크]]]></title>
         <id>https://v.daum.net/v/20230908110858390</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230908112155944"/>
         <updated>2023-09-08T02:26:24.952Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영국, ‘브렉시트’로 나간 EU ‘호라이즌’ 프로그램에 합류]]></title>
-        <id>https://v.daum.net/v/20230908112120925</id>
-        <link href="https://v.daum.net/v/20230908112120925"/>
-        <updated>2023-09-08T02:26:24.955Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
