@@ -2,21 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-09-08T18:24:59.359Z</updated>
+    <updated>2023-09-08T19:15:26.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["러, 중국을 자기편으로 묶어두려 북한 카드 활용"]]></title>
+        <id>https://v.daum.net/v/20230909035950034</id>
+        <link href="https://v.daum.net/v/20230909035950034"/>
+        <updated>2023-09-08T19:13:58.843Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독일 내년 1월부터 난방에 재생에너지 사용 의무화]]></title>
+        <id>https://v.daum.net/v/20230909034743003</id>
+        <link href="https://v.daum.net/v/20230909034743003"/>
+        <updated>2023-09-08T19:13:58.845Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젤렌스키 고향 미사일 공격받아 1명 죽고 73명 부상]]></title>
+        <id>https://v.daum.net/v/20230909034729002</id>
+        <link href="https://v.daum.net/v/20230909034729002"/>
+        <updated>2023-09-08T19:13:58.850Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 유권자 46% “공화당 누가 나와도 바이든보다 낫다”]]></title>
         <id>https://v.daum.net/v/20230909030650962</id>
         <link href="https://v.daum.net/v/20230909030650962"/>
         <updated>2023-09-08T18:23:34.509Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“美 외교는 ‘자선’ 아니다… 우크라서 美 빠져야”]]></title>
-        <id>https://v.daum.net/v/20230909030559946</id>
-        <link href="https://v.daum.net/v/20230909030559946"/>
-        <updated>2023-09-08T18:23:34.514Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230909023706852"/>
         <updated>2023-09-08T18:23:34.518Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젤렌스키 "푸틴이 프리고진 죽였다…우리 모두는 정보 갖고 있어"]]></title>
-        <id>https://v.daum.net/v/20230909022438838</id>
-        <link href="https://v.daum.net/v/20230909022438838"/>
-        <updated>2023-09-08T18:23:34.521Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일대일로 마지막 설득전?…멜로니·리창, 9일 G20계기 양자회담]]></title>
-        <id>https://v.daum.net/v/20230909021311832</id>
-        <link href="https://v.daum.net/v/20230909021311832"/>
-        <updated>2023-09-08T18:23:34.523Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
