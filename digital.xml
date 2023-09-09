@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-09T09:17:06.848Z</updated>
+    <updated>2023-09-09T10:18:20.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다리도 못 건너던 공황장애…이젠 해외여행 간다, 의외의 비결]]></title>
+        <id>https://v.daum.net/v/20230909190034026</id>
+        <link href="https://v.daum.net/v/20230909190034026"/>
+        <updated>2023-09-09T10:17:34.378Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI와 공존하려면 [편집인의 원픽]]]></title>
         <id>https://v.daum.net/v/20230909175429400</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230909140012300"/>
         <updated>2023-09-09T05:15:53.451Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사고뭉치' 완전무인택시, 긴급구조 '골든타임' 방해 주범 낙인]]></title>
-        <id>https://v.daum.net/v/20230909140003294</id>
-        <link href="https://v.daum.net/v/20230909140003294"/>
-        <updated>2023-09-09T05:15:53.452Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
