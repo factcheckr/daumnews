@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-09-09T12:30:35.703Z</updated>
+    <updated>2023-09-09T13:19:31.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[철원 고석정 꽃밭 ‘활짝’…가을 정취에 흠뻑]]></title>
+        <id>https://v.daum.net/v/20230909215935694</id>
+        <link href="https://v.daum.net/v/20230909215935694"/>
+        <updated>2023-09-09T13:18:35.140Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[30만건 데이터로 거미줄 검증… 미술품 위작 명함 못 내민다 [이슈 속으로]]]></title>
         <id>https://v.daum.net/v/20230909210455162</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230909170510749"/>
         <updated>2023-09-09T12:29:38.444Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시골 지나다가 감자 줍고 밤 따고... 그거 낭만 아닙니다]]></title>
-        <id>https://v.daum.net/v/20230909191114134</id>
-        <link href="https://v.daum.net/v/20230909191114134"/>
-        <updated>2023-09-09T11:13:50.882Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
