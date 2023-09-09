@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-09T19:14:34.727Z</updated>
+    <updated>2023-09-09T20:18:10.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성전자 '갤럭시S24' 엣지 디스플레이… 10년 만에 사라지나]]></title>
+        <id>https://v.daum.net/v/20230910044607013</id>
+        <link href="https://v.daum.net/v/20230910044607013"/>
+        <updated>2023-09-09T20:17:25.782Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘순찰 로봇’ 매의 눈으로 24시간 대통령실까지 지킨다]]></title>
         <id>https://v.daum.net/v/20230909085706876</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230909100009674"/>
         <updated>2023-09-09T16:21:12.221Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[챗GPT 이용자 수 3개월째 줄어…“여름방학 끝나면 회복될 것”]]></title>
-        <id>https://v.daum.net/v/20230909174501255</id>
-        <link href="https://v.daum.net/v/20230909174501255"/>
-        <updated>2023-09-09T16:21:12.224Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
