@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-09-09T02:22:53.477Z</updated>
+    <updated>2023-09-09T03:18:45.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["에어팟 프로만 'USB-C'…에어팟·에어팟 맥스는 내년에"]]></title>
+        <id>https://v.daum.net/v/20230909082624671</id>
+        <link href="https://v.daum.net/v/20230909082624671"/>
+        <updated>2023-09-09T03:18:06.005Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계 무대 나서는 K-바이오…“37조 폐암 시장 공략”]]></title>
         <id>https://v.daum.net/v/20230909060009521</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230909060043578"/>
         <updated>2023-09-08T23:17:19.829Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미중 갈등 되살아나자 '숨죽인' K반도체]]></title>
-        <id>https://v.daum.net/v/20230909043023162</id>
-        <link href="https://v.daum.net/v/20230909043023162"/>
-        <updated>2023-09-08T23:17:19.832Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
