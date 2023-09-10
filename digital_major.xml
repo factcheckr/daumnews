@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-09-10T18:20:51.516Z</updated>
+    <updated>2023-09-10T20:18:20.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[K 배터리 미래 ‘재사용·재활용’에서부터[찌릿찌릿(知it智it) 전기 교실]]]></title>
+        <id>https://v.daum.net/v/20230910204816399</id>
+        <link href="https://v.daum.net/v/20230910204816399"/>
+        <updated>2023-09-10T20:17:44.676Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[득근득근 전기 충격…우주인 위한 ‘벌크업’]]></title>
         <id>https://v.daum.net/v/20230910204651388</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230910143025413"/>
         <updated>2023-09-10T09:16:41.475Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거세지는 ‘OTT 스트림플레이션’… 한국 업체는 ‘언감생심’]]></title>
-        <id>https://v.daum.net/v/20230910155506213</id>
-        <link href="https://v.daum.net/v/20230910155506213"/>
-        <updated>2023-09-10T09:16:41.477Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
