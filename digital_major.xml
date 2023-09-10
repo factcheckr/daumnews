@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-09-10T06:22:15.727Z</updated>
+    <updated>2023-09-10T07:16:52.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20230910144801869"/>
         <updated>2023-09-10T06:21:29.909Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[르포] 日 장인 정신 계승한 로봇·AI...‘세계 1위’ 내시경 공장 가보니]]></title>
+        <id>https://v.daum.net/v/20230910131647003</id>
+        <link href="https://v.daum.net/v/20230910131647003"/>
+        <updated>2023-09-10T07:16:09.943Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[갤S24 울트라, 진짜 이렇게 나올까…"크고 가볍고 평평해진다"]]></title>
+        <id>https://v.daum.net/v/20230910121358146</id>
+        <link href="https://v.daum.net/v/20230910121358146"/>
+        <updated>2023-09-10T07:16:09.943Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유럽통신사연합(ETNO) “한국과 망 공정기여 공조 강화”]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230910112700362"/>
         <updated>2023-09-10T03:18:21.954Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 AI에 맞서는 '중국판 GPT'들…역사왜곡도 배웠다]]></title>
-        <id>https://v.daum.net/v/20230910100025921</id>
-        <link href="https://v.daum.net/v/20230910100025921"/>
-        <updated>2023-09-10T03:18:21.957Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100년 만에 모로코 강타한 대규모 지진…2000여 명 사망]]></title>
-        <id>https://v.daum.net/v/20230910095821862</id>
-        <link href="https://v.daum.net/v/20230910095821862"/>
-        <updated>2023-09-10T03:18:21.963Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
