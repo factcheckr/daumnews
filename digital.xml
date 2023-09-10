@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-10T22:17:07.478Z</updated>
+    <updated>2023-09-10T23:17:40.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3배수 뽑고 부결…정부, 과기계 기관장 인선 지연]]></title>
+        <id>https://v.daum.net/v/20230911080010041</id>
+        <link href="https://v.daum.net/v/20230911080010041"/>
+        <updated>2023-09-10T23:16:52.182Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[질병 진단부터 치료제까지…바이오 업계, 나노 기술 적용 활발]]></title>
         <id>https://v.daum.net/v/20230911070517224</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[이영완의 디알로고] “뇌는 면역계와 대화, 자폐도 면역단백질로 치료 가능”]]></title>
+        <title type="html"><![CDATA[[이영완의 디알로고] “뇌는 면역계와 소통, 자폐도 면역단백질로 치료 가능”]]></title>
         <id>https://v.daum.net/v/20230911065427964</id>
         <link href="https://v.daum.net/v/20230911065427964"/>
         <updated>2023-09-10T22:16:21.022Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230911063239771"/>
         <updated>2023-09-10T22:16:21.040Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플랫폼 기업에 규제가 시작된 이유[손엄지의 IT살롱]]]></title>
-        <id>https://v.daum.net/v/20230911062008649</id>
-        <link href="https://v.daum.net/v/20230911062008649"/>
-        <updated>2023-09-10T22:16:21.041Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
