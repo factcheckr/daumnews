@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-09-10T04:21:30.356Z</updated>
+    <updated>2023-09-10T05:17:00.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["79조원vs1조원, 투자 불균형 해소 시급…빅테크도 '공정 기여'해야"]]></title>
+        <id>https://v.daum.net/v/20230910120009826</id>
+        <link href="https://v.daum.net/v/20230910120009826"/>
+        <updated>2023-09-10T05:16:22.193Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아마추어 발견 '니시무라 혜성' 11일 일출 전이 마지막 관측 기회]]></title>
         <id>https://v.daum.net/v/20230910114429603</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230910090514164"/>
         <updated>2023-09-10T03:18:21.979Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우리도 생성AI 넣는다" 기업들 초개인화 서비스 경쟁]]></title>
-        <id>https://v.daum.net/v/20230910090503157</id>
-        <link href="https://v.daum.net/v/20230910090503157"/>
-        <updated>2023-09-10T01:14:56.467Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
