@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-09-11T18:23:18.067Z</updated>
+    <updated>2023-09-11T19:15:54.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“AI 부작용 막아라”… 개발 규제 나선 세계]]></title>
+        <id>https://v.daum.net/v/20230912033137490</id>
+        <link href="https://v.daum.net/v/20230912033137490"/>
+        <updated>2023-09-11T19:15:15.087Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무너지는 강원도 공공의료] 9. 정신질환자 응급입원 병상 부족 문제 심각]]></title>
         <id>https://v.daum.net/v/20230912000618664</id>
@@ -18,6 +25,27 @@
         <link href="https://v.daum.net/v/20230912000325586"/>
         <updated>2023-09-11T15:19:23.909Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 항우연 핵심인력, 한화 `집단이직` 논란]]></title>
+        <id>https://v.daum.net/v/20230911185027614</id>
+        <link href="https://v.daum.net/v/20230911185027614"/>
+        <updated>2023-09-11T19:15:15.094Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[월간 자동차] 23년 8월…중고차 시장 반등·신차 등록률 감소]]></title>
+        <id>https://v.daum.net/v/20230911193600278</id>
+        <link href="https://v.daum.net/v/20230911193600278"/>
+        <updated>2023-09-11T19:15:15.098Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[관점] “SF 상상 쏟아져도 갈 길 먼 AI···빅데이터 활성화로 활용 사례 늘려야”]]></title>
+        <id>https://v.daum.net/v/20230911182348967</id>
+        <link href="https://v.daum.net/v/20230911182348967"/>
+        <updated>2023-09-11T19:15:15.100Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플, ‘아이폰15’ 공개 임박… 화웨이 역습에 판매량 ‘-5%’ 전망 나와]]></title>
@@ -46,33 +74,5 @@
         <link href="https://v.daum.net/v/20230911180107321"/>
         <updated>2023-09-11T12:34:30.885Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[섭씨 1500도 쇳물을 이렇게 옮긴다고?…포스코 결정에 깜짝]]></title>
-        <id>https://v.daum.net/v/20230911175002023</id>
-        <link href="https://v.daum.net/v/20230911175002023"/>
-        <updated>2023-09-11T10:23:19.433Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹툰 작가 월 평균수입 540만원…"플랫폼 수수료율 합리적"]]></title>
-        <id>https://v.daum.net/v/20230911174040807</id>
-        <link href="https://v.daum.net/v/20230911174040807"/>
-        <updated>2023-09-11T10:23:19.435Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 아이폰 금지령...국내 부품사 불똥 튈라]]></title>
-        <id>https://v.daum.net/v/20230911173904739</id>
-        <link href="https://v.daum.net/v/20230911173904739"/>
-        <updated>2023-09-11T10:23:19.439Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[레디!퓨전] 韓 주도 세계 최대 핵융합실험로 현장 가보니…"퍼스트무버 시행착오 감내"]]></title>
-        <id>https://v.daum.net/v/20230911173014410</id>
-        <link href="https://v.daum.net/v/20230911173014410"/>
-        <updated>2023-09-11T10:23:19.441Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
