@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-09-11T15:19:55.156Z</updated>
+    <updated>2023-09-11T16:23:57.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美국방부 "北 김정은 러시아로 이동 중…對러 물자지원 우려"]]></title>
+        <id>https://v.daum.net/v/20230912011059000</id>
+        <link href="https://v.daum.net/v/20230912011059000"/>
+        <updated>2023-09-11T16:21:56.756Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美백악관 "김정은, 방러 기간 무기 논의할 듯…공개 약속 지켜야"]]></title>
+        <id>https://v.daum.net/v/20230912005909937</id>
+        <link href="https://v.daum.net/v/20230912005909937"/>
+        <updated>2023-09-11T16:21:56.757Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민의힘, '대선공작 게이트' 판 키우며 국면전환 노리나]]></title>
         <id>https://v.daum.net/v/20230912000043498</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230912000005474"/>
         <updated>2023-09-11T15:18:08.226Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주당 '이종섭 탄핵'…尹, '장관 교체' 단행할까]]></title>
-        <id>https://v.daum.net/v/20230912000029492</id>
-        <link href="https://v.daum.net/v/20230912000029492"/>
-        <updated>2023-09-11T15:18:08.229Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북의 기괴한 핵잠수함, 왜 이리 급히 공개했나 했더니…한미일 공조에 압박 느낀 탓]]></title>
-        <id>https://v.daum.net/v/20230911234506370</id>
-        <link href="https://v.daum.net/v/20230911234506370"/>
-        <updated>2023-09-11T15:18:08.231Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
 </feed>
