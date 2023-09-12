@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-12T11:16:07.734Z</updated>
+    <updated>2023-09-12T12:34:08.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테슬라 AI슈퍼컴 '도조'가 뭐길래…머스크의 큰 그림은]]></title>
+        <id>https://v.daum.net/v/20230912210517721</id>
+        <link href="https://v.daum.net/v/20230912210517721"/>
+        <updated>2023-09-12T12:33:07.582Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금융위기때보다 부채 2배…글로벌기업들 '이자 폭탄']]></title>
         <id>https://v.daum.net/v/20230912175102370</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230912172019432"/>
         <updated>2023-09-12T10:20:19.707Z</updated>
         <content type="html"><![CDATA[정책브리핑]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아이폰14 출고가 30만원 더 싸다고?"…SKT, 리패키징폰 판매]]></title>
-        <id>https://v.daum.net/v/20230912182034338</id>
-        <link href="https://v.daum.net/v/20230912182034338"/>
-        <updated>2023-09-12T10:20:19.707Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
