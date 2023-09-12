@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-09-12T18:22:44.714Z</updated>
+    <updated>2023-09-12T19:15:02.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230913030132633"/>
         <updated>2023-09-12T18:22:05.132Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“벽에 바르기만 했는데 9.1℃ 뚝” 펄펄끓는 지구 식혀줄 ‘마법 페인트’ 나왔다]]></title>
+        <id>https://v.daum.net/v/20230912192621969</id>
+        <link href="https://v.daum.net/v/20230912192621969"/>
+        <updated>2023-09-12T19:14:23.231Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["인도산 아이폰15 일부 국가 판매 예정" 블룸버그]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230912175030258"/>
         <updated>2023-09-12T10:20:27.858Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부 "콘텐츠·미디어 전반에 AI 접목"…업계 파장 미칠듯]]></title>
-        <id>https://v.daum.net/v/20230912175037296</id>
-        <link href="https://v.daum.net/v/20230912175037296"/>
-        <updated>2023-09-12T10:20:27.860Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
