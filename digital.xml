@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-13T11:16:53.403Z</updated>
+    <updated>2023-09-13T12:36:29.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고분자 흡수체' 안 쓴 생리대와 사용 제품과의 성능 차이는?]]></title>
+        <id>https://v.daum.net/v/20230913210245186</id>
+        <link href="https://v.daum.net/v/20230913210245186"/>
+        <updated>2023-09-13T12:35:21.446Z</updated>
+        <content type="html"><![CDATA[CJB청주방송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["새 술은 새 부대에"…OTT 포함한 새 '서비스 사업법' 제시]]></title>
         <id>https://v.daum.net/v/20230913162104136</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230913181632298"/>
         <updated>2023-09-13T10:20:13.930Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감염병 예측·미술관 로봇까지…AI가 삶 깊숙이 들어온다]]></title>
-        <id>https://v.daum.net/v/20230913181509262</id>
-        <link href="https://v.daum.net/v/20230913181509262"/>
-        <updated>2023-09-13T09:19:04.880Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
