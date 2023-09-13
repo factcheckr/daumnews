@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-09-13T16:23:10.298Z</updated>
+    <updated>2023-09-13T17:17:51.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일요일까지 비소식…다음 주 본격 가을 시작]]></title>
-        <id>https://v.daum.net/v/20230913232245474</id>
-        <link href="https://v.daum.net/v/20230913232245474"/>
-        <updated>2023-09-13T15:19:30.421Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[1인가구가 제주에서 10년을 산 비결, 이거랍니다 [제주 이민 10년차들을 만나다]]]></title>
         <id>https://v.daum.net/v/20230706110603835</id>
         <link href="https://v.daum.net/v/20230706110603835"/>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20230913213807610"/>
         <updated>2023-09-13T13:22:48.736Z</updated>
         <content type="html"><![CDATA[한겨레21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구운 달걀 VS 삶은 달걀… 칼로리 더 적은 것은?]]></title>
+        <id>https://v.daum.net/v/20230913213014508</id>
+        <link href="https://v.daum.net/v/20230913213014508"/>
+        <updated>2023-09-13T17:16:34.142Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
