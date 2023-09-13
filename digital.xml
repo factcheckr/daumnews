@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-13T12:36:29.586Z</updated>
+    <updated>2023-09-13T13:24:13.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반세기 전 자취를 감췄던 ‘소똥구리’의 귀환]]></title>
+        <id>https://v.daum.net/v/20230913214155661</id>
+        <link href="https://v.daum.net/v/20230913214155661"/>
+        <updated>2023-09-13T13:23:13.370Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고분자 흡수체' 안 쓴 생리대와 사용 제품과의 성능 차이는?]]></title>
         <id>https://v.daum.net/v/20230913210245186</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230913175332585"/>
         <updated>2023-09-13T10:20:13.921Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 폴더블폰 등 봇물···안드로이드 내전 격화]]></title>
-        <id>https://v.daum.net/v/20230913181632298</id>
-        <link href="https://v.daum.net/v/20230913181632298"/>
-        <updated>2023-09-13T10:20:13.930Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
