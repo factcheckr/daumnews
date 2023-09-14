@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-09-14T19:14:29.975Z</updated>
+    <updated>2023-09-14T20:20:08.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1682593/XpZYGrMTup"/>
         <updated>2023-09-14T15:19:56.884Z</updated>
         <content type="html"><![CDATA[대한민국 대통령실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쉬어 가세요]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/1Ed2hNVss9</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/1Ed2hNVss9"/>
+        <updated>2023-09-14T20:19:38.462Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 대통령, 2023 청년의 날 기념식 참석…"청년은 국정의 동반자" [뉴시스Pic]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/344179/W2Zi4eujmK"/>
         <updated>2023-09-14T07:18:24.725Z</updated>
         <content type="html"><![CDATA[청계천 옆 사진관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국내외 378개 업체 한자리'…2023 자카르타 국제 프리미엄 소비재전 개막]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1173214/xkYzoEPl35</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1173214/xkYzoEPl35"/>
-        <updated>2023-09-14T07:18:24.735Z</updated>
-        <content type="html"><![CDATA[헤럴드포토]]></content>
     </entry>
 </feed>
