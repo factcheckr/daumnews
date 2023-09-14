@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-09-14T16:23:53.489Z</updated>
+    <updated>2023-09-14T17:17:50.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴욕에 퍼지는 '훈민정음'…국립합창단 한미동맹 70주년 연주회]]></title>
+        <id>https://v.daum.net/v/20230915013014580</id>
+        <link href="https://v.daum.net/v/20230915013014580"/>
+        <updated>2023-09-14T17:16:36.105Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[틈새에서 문턱 넘는 시어]]></title>
         <id>https://v.daum.net/v/20230915000607154</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230915000226035"/>
         <updated>2023-09-14T15:19:16.768Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈이 부시게 ‘푸르른 날’… 미당의 시처럼 걷다]]></title>
-        <id>https://v.daum.net/v/20230915000149029</id>
-        <link href="https://v.daum.net/v/20230915000149029"/>
-        <updated>2023-09-14T15:19:16.774Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
