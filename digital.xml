@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-15T17:17:08.456Z</updated>
+    <updated>2023-09-15T18:23:19.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[롱코비드 원인 규명, 코로나 변이 대응 연구 최전선의 실험동물들]]></title>
+        <id>https://v.daum.net/v/20230916031957238</id>
+        <link href="https://v.daum.net/v/20230916031957238"/>
+        <updated>2023-09-15T18:22:32.387Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[르포]게임속 장면이 그대로…‘스파이더맨2’ 이벤트장 가보니]]></title>
         <id>https://v.daum.net/v/20230916000015358</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230915195127857"/>
         <updated>2023-09-15T11:15:45.984Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국도 주목하는 ‘부유식 해상풍력’... “AI·빅데이터로 기후변화 영향까지 고려한 기술 전략 마련해야”]]></title>
-        <id>https://v.daum.net/v/20230915192045400</id>
-        <link href="https://v.daum.net/v/20230915192045400"/>
-        <updated>2023-09-15T11:15:45.986Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
