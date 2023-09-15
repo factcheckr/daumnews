@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-09-15T16:23:55.300Z</updated>
+    <updated>2023-09-15T17:17:08.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[철도파업 이틀째… “주말 입석도 매진” 귀향-여행객 한숨]]></title>
+        <id>https://v.daum.net/v/20230916014229103</id>
+        <link href="https://v.daum.net/v/20230916014229103"/>
+        <updated>2023-09-15T17:15:40.366Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘노란 사과’로 기후변화 맞선다…군위 ‘골든볼’ 전문 생산]]></title>
+        <id>https://v.daum.net/v/20230915220200468</id>
+        <link href="https://v.daum.net/v/20230915220200468"/>
+        <updated>2023-09-15T17:15:40.369Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추석·수확 앞두고 연일 비…농가들 걱정]]></title>
         <id>https://v.daum.net/v/20230915215816413</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230915210048783"/>
         <updated>2023-09-15T13:20:57.845Z</updated>
         <content type="html"><![CDATA[CJB청주방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빠르고 강한' 고성능 전기차가 온다…경쟁 치열]]></title>
-        <id>https://v.daum.net/v/20230915205716749</id>
-        <link href="https://v.daum.net/v/20230915205716749"/>
-        <updated>2023-09-15T13:20:57.849Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["김밥을 얼리다니!"…발상 전환에 미국 소비자들 '열광']]></title>
-        <id>https://v.daum.net/v/20230915204804630</id>
-        <link href="https://v.daum.net/v/20230915204804630"/>
-        <updated>2023-09-15T12:32:39.690Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>

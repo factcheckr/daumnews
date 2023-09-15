@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-09-15T16:23:55.295Z</updated>
+    <updated>2023-09-15T17:17:08.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美정부, 틱톡과 안보 우려 해소할 사업구조 개편안 협상 재개]]></title>
+        <id>https://v.daum.net/v/20230916002838571</id>
+        <link href="https://v.daum.net/v/20230916002838571"/>
+        <updated>2023-09-15T17:15:59.996Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英, 바그너 그룹 테러조직 공식 지정…회원가입·지지 금지]]></title>
+        <id>https://v.daum.net/v/20230916002409558</id>
+        <link href="https://v.daum.net/v/20230916002409558"/>
+        <updated>2023-09-15T17:15:59.998Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["자동차노조파업 장기화시 美경제 주름살"…바이든재선 발목잡나]]></title>
         <id>https://v.daum.net/v/20230916000954500</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230915232349177"/>
         <updated>2023-09-15T15:21:18.291Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반도체 둔화 우려한 TSMC "제조 장비 납품 미뤄달라"]]></title>
-        <id>https://v.daum.net/v/20230915231603090</id>
-        <link href="https://v.daum.net/v/20230915231603090"/>
-        <updated>2023-09-15T15:21:18.293Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7월 유로존 무역수지 9.2조원 흑자..."에너지 수입 코스트↓"]]></title>
-        <id>https://v.daum.net/v/20230915232424183</id>
-        <link href="https://v.daum.net/v/20230915232424183"/>
-        <updated>2023-09-15T15:21:18.298Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
