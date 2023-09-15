@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-09-15T13:23:01.856Z</updated>
+    <updated>2023-09-15T14:17:59.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[직원에게 1억원씩 쏜 ‘그녀’…이번엔 ‘애국 소비’ 주도]]></title>
+        <id>https://v.daum.net/v/20230915185128004</id>
+        <link href="https://v.daum.net/v/20230915185128004"/>
+        <updated>2023-09-15T14:17:17.919Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실험용 쥐는 왜 대부분 수컷일까...과학자들 “동물실험에서도 젠더 균형 필요해”]]></title>
         <id>https://v.daum.net/v/20230915183108737</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230915172759355"/>
         <updated>2023-09-15T09:18:24.407Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박진 "한일중 3국 교류 중요… TCS와도 긴밀히 협력"]]></title>
-        <id>https://v.daum.net/v/20230915171321986</id>
-        <link href="https://v.daum.net/v/20230915171321986"/>
-        <updated>2023-09-15T09:18:24.407Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
