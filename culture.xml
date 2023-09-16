@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-09-16T14:16:38.976Z</updated>
+    <updated>2023-09-16T15:18:27.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아하] '무럭무럭 자라나라~'…다이아몬드가 양식이 된다고? (영상)]]></title>
+        <id>https://v.daum.net/v/20230917000029937</id>
+        <link href="https://v.daum.net/v/20230917000029937"/>
+        <updated>2023-09-16T15:17:04.949Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['괴담'과 '레드 콤플렉스' 사이 오고간 영화 오펜하이머]]></title>
         <id>https://v.daum.net/v/20230916220505412</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230916204836902"/>
         <updated>2023-09-16T12:30:12.544Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걸그룹 노래 부른 마이클 잭슨?…100초도 안 걸려 '뚝딱']]></title>
-        <id>https://v.daum.net/v/20230916204504884</id>
-        <link href="https://v.daum.net/v/20230916204504884"/>
-        <updated>2023-09-16T12:30:12.545Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>

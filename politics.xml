@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-09-16T14:16:38.955Z</updated>
+    <updated>2023-09-16T15:18:27.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김정은-푸틴 밀월의 ‘나비효과’는…남북 핵잠시대 열릴까 [정치에 속지 않기]]]></title>
+        <id>https://v.daum.net/v/20230916234800856</id>
+        <link href="https://v.daum.net/v/20230916234800856"/>
+        <updated>2023-09-16T15:15:48.208Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제재에도 여유있는 北…“최근 석달간 3000억 원 상당 코인 훔쳐”]]></title>
         <id>https://v.daum.net/v/20230916230305719</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230916204505885"/>
         <updated>2023-09-16T12:28:55.468Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주당 “총리 해임결의안 제출”…국민의힘 “두려움의 반증”]]></title>
-        <id>https://v.daum.net/v/20230916211027060</id>
-        <link href="https://v.daum.net/v/20230916211027060"/>
-        <updated>2023-09-16T12:28:55.471Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-09-16T14:16:38.961Z</updated>
+    <updated>2023-09-16T15:18:27.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘16년 임무 수행’ 레바논 동명부대를 가다]]></title>
+        <id>https://v.daum.net/v/20230916213433202</id>
+        <link href="https://v.daum.net/v/20230916213433202"/>
+        <updated>2023-09-16T15:16:52.610Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[희생자 몰린 아미즈미즈, 여전한 공포]]></title>
         <id>https://v.daum.net/v/20230916212657167</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230916174511328"/>
         <updated>2023-09-16T12:29:59.385Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대만군 800명, 2025년까지 美서 훈련…대만 유사시에 대비]]></title>
-        <id>https://v.daum.net/v/20230916173803241</id>
-        <link href="https://v.daum.net/v/20230916173803241"/>
-        <updated>2023-09-16T11:14:07.484Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
