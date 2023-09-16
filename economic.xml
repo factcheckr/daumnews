@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-09-16T06:22:24.393Z</updated>
+    <updated>2023-09-16T07:16:48.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[5년간 조세불복심판 10건 중 3건은 ‘부당과세’]]></title>
+        <id>https://v.daum.net/v/20230916153600813</id>
+        <link href="https://v.daum.net/v/20230916153600813"/>
+        <updated>2023-09-16T07:15:00.038Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금액 클수록 국세청 패소율↑…불복청구율 두고 '갑론을박'[세금GO]]]></title>
         <id>https://v.daum.net/v/20230916151238623</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230916150104469"/>
         <updated>2023-09-16T06:20:41.551Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“여보 전기차 살까”…멈출 줄 모르는 기름값, 10주째↑]]></title>
-        <id>https://v.daum.net/v/20230916144800294</id>
-        <link href="https://v.daum.net/v/20230916144800294"/>
-        <updated>2023-09-16T06:20:41.551Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
