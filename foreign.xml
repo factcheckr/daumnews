@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-09-16T16:23:04.530Z</updated>
+    <updated>2023-09-16T17:16:26.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[IAEA "이란, 핵사찰단 3분의 1 임명철회…전례 없는 조처 규탄"]]></title>
+        <id>https://v.daum.net/v/20230917012934163</id>
+        <link href="https://v.daum.net/v/20230917012934163"/>
+        <updated>2023-09-16T17:14:42.189Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘모디 들러리’ 싫었던 시진핑, G20 불참 뒤엔 ‘세계의 공장’ 신경전 [최유식의 온차이나]]]></title>
         <id>https://v.daum.net/v/20230917000138954</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230916234800856"/>
         <updated>2023-09-16T15:16:39.750Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“요새 여든은 마흔살” 바이든 고령 논란에 백악관이 한 말]]></title>
-        <id>https://v.daum.net/v/20230916225707694</id>
-        <link href="https://v.daum.net/v/20230916225707694"/>
-        <updated>2023-09-16T14:14:47.397Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-09-16T16:23:04.525Z</updated>
+    <updated>2023-09-16T17:16:26.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["美 자동차 파업 승자는 머스크…'빅3' 비용증대 불가피"]]></title>
+        <id>https://v.daum.net/v/20230917013105165</id>
+        <link href="https://v.daum.net/v/20230917013105165"/>
+        <updated>2023-09-16T17:14:16.767Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[비즈토크<하>] 에코프로, 황제주 '50일 천하'…주가 반등 여력 있나]]></title>
         <id>https://v.daum.net/v/20230917000321967</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230916212504151"/>
         <updated>2023-09-16T12:29:21.027Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“연봉 3천만원, 연구비 싹둑” 떠나는 박사들…공부 왜 했나 ‘한탄’]]></title>
-        <id>https://v.daum.net/v/20230916205943950</id>
-        <link href="https://v.daum.net/v/20230916205943950"/>
-        <updated>2023-09-16T12:29:21.027Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
