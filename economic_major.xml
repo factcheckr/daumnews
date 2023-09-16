@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-09-16T10:18:27.527Z</updated>
+    <updated>2023-09-16T11:15:29.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기아, '태국공장 카드' 꺼내든 까닭]]></title>
+        <id>https://v.daum.net/v/20230916170004788</id>
+        <link href="https://v.daum.net/v/20230916170004788"/>
+        <updated>2023-09-16T11:13:45.687Z</updated>
+        <content type="html"><![CDATA[비즈워치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["캐치! 티니핑 시즌4 공개에"…부모들은 '한숨']]></title>
         <id>https://v.daum.net/v/20230916165225713</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230916140502754"/>
         <updated>2023-09-16T06:20:51.590Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[철도 파업 "일본처럼 민영화 안된다" 주장하는 이유는?]]></title>
-        <id>https://v.daum.net/v/20230916142700996</id>
-        <link href="https://v.daum.net/v/20230916142700996"/>
-        <updated>2023-09-16T06:20:51.591Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
 </feed>
