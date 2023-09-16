@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-09-16T19:16:23.742Z</updated>
+    <updated>2023-09-16T20:19:14.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리는 언제부터 하늘을 날았을까…첫 비행가 안창남이 죽었다는 소문[청계천 옆 사진관]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/344179/GHgDQZOKsp</id>
+        <link href="https://gallery.v.daum.net/p/viewer/344179/GHgDQZOKsp"/>
+        <updated>2023-09-16T20:18:39.846Z</updated>
+        <content type="html"><![CDATA[청계천 옆 사진관]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국가보훈부, 6.25참전부대 반호이츠 부대 방문 및 참전용사 초청오찬]]></title>
         <id>https://gallery.v.daum.net/p/viewer/321090/HKvOJ0v8KN</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5029578/yQznRrMTmZ"/>
         <updated>2023-09-15T18:22:51.474Z</updated>
         <content type="html"><![CDATA[고양이 눈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빛 잃은 졸업장, 반납합니다[포토뉴스]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/377110/Bcn4oZD7CJ</id>
-        <link href="https://gallery.v.daum.net/p/viewer/377110/Bcn4oZD7CJ"/>
-        <updated>2023-09-15T12:33:45.070Z</updated>
-        <content type="html"><![CDATA[포토뉴스]]></content>
     </entry>
 </feed>
