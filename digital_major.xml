@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-09-17T10:19:04.775Z</updated>
+    <updated>2023-09-17T11:16:08.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -13,7 +13,14 @@
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[`포털 공정성` 이슈에 긴장감 감도는 네카오]]></title>
+        <title type="html"><![CDATA[밥은 건강식, 간식은 탕후루?…4명중 1명 `자기모순 식습관`]]></title>
+        <id>https://v.daum.net/v/20230917173413286</id>
+        <link href="https://v.daum.net/v/20230917173413286"/>
+        <updated>2023-09-17T11:15:21.736Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[`포털 공정성` 빅 이슈에 바짝 긴장한 네카오]]></title>
         <id>https://v.daum.net/v/20230917152809886</id>
         <link href="https://v.daum.net/v/20230917152809886"/>
         <updated>2023-09-17T10:18:17.118Z</updated>
@@ -48,7 +55,7 @@
         <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[테크&포커스] `AI 민주화` 약인가 독인가… `오픈소스 AI` 논란 격화]]></title>
+        <title type="html"><![CDATA[`AI 민주화` 藥인가 毒인가… `오픈소스 AI` 논란 격화]]></title>
         <id>https://v.daum.net/v/20230917142018193</id>
         <link href="https://v.daum.net/v/20230917142018193"/>
         <updated>2023-09-17T08:21:12.917Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230917131808007"/>
         <updated>2023-09-17T06:22:38.546Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔비디아·삼성·MS는 왜 10대 해커조직에 당했나]]></title>
-        <id>https://v.daum.net/v/20230917120034130</id>
-        <link href="https://v.daum.net/v/20230917120034130"/>
-        <updated>2023-09-17T06:22:38.550Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
