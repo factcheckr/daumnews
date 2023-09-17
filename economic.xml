@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-09-17T13:20:46.288Z</updated>
+    <updated>2023-09-17T14:16:51.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원희룡 장관 "오피스텔, 주택 수 제외 정책 안 한다…공급 집중"]]></title>
+        <id>https://v.daum.net/v/20230917221627492</id>
+        <link href="https://v.daum.net/v/20230917221627492"/>
+        <updated>2023-09-17T14:14:35.433Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고물가 속 재정난…‘천 원의 아침밥’ 위기]]></title>
         <id>https://v.daum.net/v/20230917220153380</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230917215247269"/>
         <updated>2023-09-17T13:18:27.011Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유커가 몰려온다…항공업계, 중추절 대목 앞두고 ‘증편 경쟁’]]></title>
-        <id>https://v.daum.net/v/20230917213826123</id>
-        <link href="https://v.daum.net/v/20230917213826123"/>
-        <updated>2023-09-17T13:18:27.014Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
