@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-17T09:18:12.659Z</updated>
+    <updated>2023-09-17T10:19:04.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["아이폰 안 돼" 中당국 불호령도 '애플 사랑' 못 꺾었다…1분만에 매진]]></title>
+        <id>https://v.daum.net/v/20230917173338270</id>
+        <link href="https://v.daum.net/v/20230917173338270"/>
+        <updated>2023-09-17T10:18:04.350Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['전기먹는 하마' 데이터센터 급증 …"원전 30기 분량 전력 더 필요"]]></title>
         <id>https://v.daum.net/v/20230917174809602</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230917170111650"/>
         <updated>2023-09-17T08:21:00.942Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[`포털 공정성` 이슈에 긴장감 감도는 네카오]]></title>
-        <id>https://v.daum.net/v/20230917152809886</id>
-        <link href="https://v.daum.net/v/20230917152809886"/>
-        <updated>2023-09-17T07:16:01.063Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
