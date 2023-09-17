@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-09-17T16:22:43.747Z</updated>
+    <updated>2023-09-17T17:16:26.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230918000201170"/>
         <updated>2023-09-17T15:16:54.093Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라이나 드론, 크름반도·모스크바·석유저장고 공습]]></title>
+        <id>https://v.daum.net/v/20230917231141924</id>
+        <link href="https://v.daum.net/v/20230917231141924"/>
+        <updated>2023-09-17T17:14:53.786Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[올댓차이나] 8월 해외 중국채 보유 2개월째↓..."금리차 확대"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230917220416410"/>
         <updated>2023-09-17T14:15:12.319Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국서 ‘마약 사망’ 한국인 4년간 2배 이상 급증…초등학생까지 중독]]></title>
-        <id>https://v.daum.net/v/20230917215253271</id>
-        <link href="https://v.daum.net/v/20230917215253271"/>
-        <updated>2023-09-17T14:15:12.323Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
