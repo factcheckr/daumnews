@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-09-18T13:23:40.835Z</updated>
+    <updated>2023-09-18T14:18:11.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://v.daum.net/v/20230918214819414"/>
         <updated>2023-09-18T13:22:00.394Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불안한 철도 운행 재개…추가 파업은 연휴 이후될 듯]]></title>
+        <id>https://v.daum.net/v/20230918213657297</id>
+        <link href="https://v.daum.net/v/20230918213657297"/>
+        <updated>2023-09-18T14:16:54.216Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앞바다·일본 근처 공해 조사하는데…후쿠시마 해역 조사는 왜 못하나?]]></title>
+        <id>https://v.daum.net/v/20230918213356258</id>
+        <link href="https://v.daum.net/v/20230918213356258"/>
+        <updated>2023-09-18T14:16:54.218Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[다큐멘토링] 백성의 추앙 받아야 진짜 리더다]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230918203210601"/>
         <updated>2023-09-18T13:22:00.408Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[적자 늪 빠진 야놀자, 희망퇴직 받는다]]></title>
-        <id>https://v.daum.net/v/20230918180225114</id>
-        <link href="https://v.daum.net/v/20230918180225114"/>
-        <updated>2023-09-18T13:22:00.412Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방통위 "'가짜뉴스' 퇴출 위해 패스트트랙 도입"‥언론자유 침해 소지도]]></title>
-        <id>https://v.daum.net/v/20230918202210505</id>
-        <link href="https://v.daum.net/v/20230918202210505"/>
-        <updated>2023-09-18T12:33:59.500Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
