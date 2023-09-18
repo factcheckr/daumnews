@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-09-18T15:21:24.740Z</updated>
+    <updated>2023-09-18T16:27:23.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230919000832682"/>
         <updated>2023-09-18T15:19:29.889Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["올 추석 음식 만들지 말고 살까요?"…가격 비교해보니 '반전']]></title>
+        <id>https://v.daum.net/v/20230918210102908</id>
+        <link href="https://v.daum.net/v/20230918210102908"/>
+        <updated>2023-09-18T16:25:35.420Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘1㎖에 수천만 원’…의료용 방사성동위원소 수출 확대]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230918213045236"/>
         <updated>2023-09-18T13:22:00.396Z</updated>
         <content type="html"><![CDATA[더스쿠프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[농업용 면세유 폐지 움직임에 농민들 "현실 외면한 처사"]]></title>
-        <id>https://v.daum.net/v/20230918210715973</id>
-        <link href="https://v.daum.net/v/20230918210715973"/>
-        <updated>2023-09-18T13:22:00.398Z</updated>
-        <content type="html"><![CDATA[CJB청주방송]]></content>
     </entry>
 </feed>
