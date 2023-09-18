@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-09-18T10:22:51.936Z</updated>
+    <updated>2023-09-18T11:16:34.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문과생 AI수업 확대…박사학위 속성 취득]]></title>
+        <id>https://v.daum.net/v/20230918180804303</id>
+        <link href="https://v.daum.net/v/20230918180804303"/>
+        <updated>2023-09-18T11:15:56.870Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI가 쫒던 그 랜섬웨어 그룹,  국내 IT기업도 당했다]]></title>
+        <id>https://v.daum.net/v/20230918180014054</id>
+        <link href="https://v.daum.net/v/20230918180014054"/>
+        <updated>2023-09-18T11:15:56.871Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러·우크라 전쟁 여파로 성능 '반쪽' 된 한국의 '제임스웹']]></title>
         <id>https://v.daum.net/v/20230918175213796</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230918165100751"/>
         <updated>2023-09-18T09:19:08.273Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 실려간 ‘녹색병원’…재야·노동계 인사들도 단식 후 찾은 곳]]></title>
-        <id>https://v.daum.net/v/20230918164930700</id>
-        <link href="https://v.daum.net/v/20230918164930700"/>
-        <updated>2023-09-18T09:19:08.280Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 홍수 덕에 내성천 모래톱이 돌아왔다···‘영주댐 담수’ 계속 해야 하나]]></title>
-        <id>https://v.daum.net/v/20230918164505536</id>
-        <link href="https://v.daum.net/v/20230918164505536"/>
-        <updated>2023-09-18T08:23:57.910Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
