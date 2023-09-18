@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-09-18T18:25:25.349Z</updated>
+    <updated>2023-09-18T19:17:11.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20230919030417338"/>
         <updated>2023-09-18T18:24:31.148Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어제의 적이 오늘의 동지로…SKB-넷플릭스 ‘망사용료’ 분쟁 끝]]></title>
+        <id>https://v.daum.net/v/20230918184101124</id>
+        <link href="https://v.daum.net/v/20230918184101124"/>
+        <updated>2023-09-18T19:16:19.508Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7나노도, 기술 패권도 우리 것…中 반도체 굴기에 한국 '초긴장']]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230918181205417"/>
         <updated>2023-09-18T12:34:48.302Z</updated>
         <content type="html"><![CDATA[게임동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문과생 AI수업 확대…박사학위 속성 취득]]></title>
-        <id>https://v.daum.net/v/20230918180804303</id>
-        <link href="https://v.daum.net/v/20230918180804303"/>
-        <updated>2023-09-18T11:15:56.870Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
