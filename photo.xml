@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-09-19T17:18:23.413Z</updated>
+    <updated>2023-09-19T18:27:12.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1013249/1x5b10v8AW"/>
         <updated>2023-09-19T16:24:36.267Z</updated>
         <content type="html"><![CDATA[세계의 외교현장]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[펭귄, 날다]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/7156/P40PKf3oE1</id>
+        <link href="https://gallery.v.daum.net/p/viewer/7156/P40PKf3oE1"/>
+        <updated>2023-09-19T18:26:35.583Z</updated>
+        <content type="html"><![CDATA[포토 에세이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“길게 싸워야 하니…”[포토뉴스]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1629566/uvAy1a6hQo"/>
         <updated>2023-09-19T08:28:51.714Z</updated>
         <content type="html"><![CDATA[만리재사진첩]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['단식 20일째' 이재명 대표 찾은 문재인 전 대통령]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5615618/8mUMmVFLOU</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5615618/8mUMmVFLOU"/>
-        <updated>2023-09-19T08:28:51.717Z</updated>
-        <content type="html"><![CDATA[오마이포토]]></content>
     </entry>
 </feed>
