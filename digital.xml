@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-19T21:17:45.530Z</updated>
+    <updated>2023-09-19T22:19:10.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사이언스샷] 멸종동물 RNA 최초로 복원했다]]></title>
+        <id>https://v.daum.net/v/20230920070911539</id>
+        <link href="https://v.daum.net/v/20230920070911539"/>
+        <updated>2023-09-19T22:18:10.110Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['EUV에 첨단 패키징까지'…인텔 첫 7나노 CPU '메테오레이크' 발표]]></title>
+        <id>https://v.daum.net/v/20230920003603228</id>
+        <link href="https://v.daum.net/v/20230920003603228"/>
+        <updated>2023-09-19T22:18:10.110Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[머스크 "X,월 이용료 부과"…전면 유료화 시사 [글로벌 비즈]]]></title>
+        <id>https://v.daum.net/v/20230920062110698</id>
+        <link href="https://v.daum.net/v/20230920062110698"/>
+        <updated>2023-09-19T22:18:10.112Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TSMC 3나노 공정 “성능 향상 기대 이하”… 삼성전자 반격 기회 잡나]]></title>
         <id>https://v.daum.net/v/20230920060036296</id>
         <link href="https://v.daum.net/v/20230920060036296"/>
         <updated>2023-09-19T21:16:50.783Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플은 소비자의 죽음을 먹고 산다?…아이폰 신기능의 진실은]]></title>
-        <id>https://v.daum.net/v/20230920060005201</id>
-        <link href="https://v.daum.net/v/20230920060005201"/>
-        <updated>2023-09-19T21:16:50.785Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“폴더블폰 대중화? 소비자 가격 저항부터 낮춰야” [미래기술25]]]></title>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230920052501732"/>
         <updated>2023-09-19T21:16:50.790Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 얇아지고 가벼워진다…5세대 폴더블폰의 핵심은 ‘힌지’ [미래기술25]]]></title>
-        <id>https://v.daum.net/v/20230920052024674</id>
-        <link href="https://v.daum.net/v/20230920052024674"/>
-        <updated>2023-09-19T21:16:50.791Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국이 전자정부 1위인 까닭.."화웨이 퇴출, 6G 잡을 기회"]]></title>
-        <id>https://v.daum.net/v/20230920031252885</id>
-        <link href="https://v.daum.net/v/20230920031252885"/>
-        <updated>2023-09-19T20:19:37.458Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
