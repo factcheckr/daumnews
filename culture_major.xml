@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-09-19T03:20:14.686Z</updated>
+    <updated>2023-09-19T04:23:37.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20230919120912642"/>
         <updated>2023-09-19T03:19:07.079Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상에서 가장 슬픈 산책... 미아동 잉꼬 부부가 24시간 걷는 이유는]]></title>
+        <id>https://v.daum.net/v/20230919110004698</id>
+        <link href="https://v.daum.net/v/20230919110004698"/>
+        <updated>2023-09-19T04:22:31.099Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가을, 첼로와 재즈 선율 속으로…'서울스테이지11']]></title>
+        <id>https://v.daum.net/v/20230919110445035</id>
+        <link href="https://v.daum.net/v/20230919110445035"/>
+        <updated>2023-09-19T04:22:31.102Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김창열의 '물방울' 변천사…'물방울 연대: 파리부터 한국까지'展]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230919103747658"/>
         <updated>2023-09-19T02:25:20.145Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장욱진의 진솔한 고백…60년만에 돌아온 ‘가족’, RM 소장작에 ‘관심’]]></title>
-        <id>https://v.daum.net/v/20230919103103277</id>
-        <link href="https://v.daum.net/v/20230919103103277"/>
-        <updated>2023-09-19T02:25:20.146Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이 병' 진단 연령 10년 빠를수록 기대수명 3~4년 짧아져]]></title>
-        <id>https://v.daum.net/v/20230919103015246</id>
-        <link href="https://v.daum.net/v/20230919103015246"/>
-        <updated>2023-09-19T02:25:20.147Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
