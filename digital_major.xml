@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-09-19T19:17:06.630Z</updated>
+    <updated>2023-09-19T20:20:36.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 이번엔 '왜적'이 문제? 페북, 4년 전 독도 시 삭제 통보]]></title>
+        <id>https://v.daum.net/v/20230919190601734</id>
+        <link href="https://v.daum.net/v/20230919190601734"/>
+        <updated>2023-09-19T20:19:50.444Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글, G메일·구글지도·유튜브 등에 AI 챗봇 바드 도입]]></title>
         <id>https://v.daum.net/v/20230919201151383</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230919174602214"/>
         <updated>2023-09-19T10:20:08.545Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['호시절 끝났다'…IT업계에 부는 칼바람]]></title>
-        <id>https://v.daum.net/v/20230919170003551</id>
-        <link href="https://v.daum.net/v/20230919170003551"/>
-        <updated>2023-09-19T10:20:08.548Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>
