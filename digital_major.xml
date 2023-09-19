@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-09-19T12:41:02.760Z</updated>
+    <updated>2023-09-19T15:20:21.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[AI를 행정에 이용할 때 주의 점은?…“기계사용 반드시 밝혀야”]]></title>
-        <id>https://v.daum.net/v/20230919190150627</id>
-        <link href="https://v.daum.net/v/20230919190150627"/>
-        <updated>2023-09-19T12:40:29.161Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“바드, 파리 항공편 찾고 맛집도 알려줘” 'AI 비서' 경쟁에 불붙이는 구글 [팩플]]]></title>
-        <id>https://v.daum.net/v/20230919190034599</id>
-        <link href="https://v.daum.net/v/20230919190034599"/>
-        <updated>2023-09-19T12:40:29.161Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[“똠양꿍 너 혼자 먹을꺼야?” 커플들 싸움나게 하는 ‘이 풀’의 비밀]]></title>
         <id>https://v.daum.net/v/20230919185052338</id>
@@ -74,5 +60,19 @@
         <link href="https://v.daum.net/v/20230919160112644"/>
         <updated>2023-09-19T10:20:08.550Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['가짜뉴스 근절' 강조한 與…전문가들 "징벌적 배상제 필요"(종합)]]></title>
+        <id>https://v.daum.net/v/20230919161908554</id>
+        <link href="https://v.daum.net/v/20230919161908554"/>
+        <updated>2023-09-19T15:19:43.515Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가을 산행 '벌쏘임 주의보'…"밝은 색 옷 입고 향수 자제해야"]]></title>
+        <id>https://v.daum.net/v/20230919161503338</id>
+        <link href="https://v.daum.net/v/20230919161503338"/>
+        <updated>2023-09-19T15:19:43.517Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
