@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-09-19T16:25:13.476Z</updated>
+    <updated>2023-09-19T17:18:23.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[美 "중국에 구금된 북한주민 강제북송 금지 中에 촉구"]]></title>
-        <id>https://v.daum.net/v/20230920010939418</id>
-        <link href="https://v.daum.net/v/20230920010939418"/>
-        <updated>2023-09-19T16:22:40.925Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[바이든 “北 유엔안보리 결의위반 규탄…외교 통해 한반도 비핵화”]]></title>
         <id>https://v.daum.net/v/20230920000341913</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20230919223506145"/>
         <updated>2023-09-19T15:18:18.755Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KBS 차기 사장 공모, '거꾸로' 역사 쓸까]]></title>
+        <id>https://v.daum.net/v/20230920000504947</id>
+        <link href="https://v.daum.net/v/20230920000504947"/>
+        <updated>2023-09-19T17:15:52.124Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
 </feed>

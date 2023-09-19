@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-09-19T16:25:13.461Z</updated>
+    <updated>2023-09-19T17:18:23.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[예술의전당 인춘아트홀 '더 넥스트'…김준형·백도영]]></title>
+        <id>https://v.daum.net/v/20230920013016461</id>
+        <link href="https://v.daum.net/v/20230920013016461"/>
+        <updated>2023-09-19T17:17:02.672Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[결혼 갈수록 늦게 한다…저출산 문제 '엎친데 덮친격']]></title>
         <id>https://v.daum.net/v/20230920000027841</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230920000412930"/>
         <updated>2023-09-19T15:19:14.982Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“더러울수록, 더 좋다”…세상을 바꾼 항생제를 만든 사람들]]></title>
-        <id>https://v.daum.net/v/20230920000105855</id>
-        <link href="https://v.daum.net/v/20230920000105855"/>
-        <updated>2023-09-19T15:19:14.984Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>

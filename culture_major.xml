@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-09-19T16:25:13.538Z</updated>
+    <updated>2023-09-19T17:18:23.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20230920000615011"/>
         <updated>2023-09-19T15:19:24.316Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“더러울수록, 더 좋다”…세상을 바꾼 항생제를 만든 사람들]]></title>
+        <id>https://v.daum.net/v/20230920000105855</id>
+        <link href="https://v.daum.net/v/20230920000105855"/>
+        <updated>2023-09-19T17:17:14.175Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["나는 모텔하는 여자, 오늘도 재워드립니다"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230919194700833"/>
         <updated>2023-09-19T15:19:24.328Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시, 위기임산부 통합지원 대책 마련‥출생미신고 아동 방지]]></title>
-        <id>https://v.daum.net/v/20230919190711761</id>
-        <link href="https://v.daum.net/v/20230919190711761"/>
-        <updated>2023-09-19T15:19:24.331Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
