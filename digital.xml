@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-20T14:20:24.560Z</updated>
+    <updated>2023-09-20T15:20:22.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버 AI ‘큐’ 지식이 짧네요]]></title>
+        <id>https://v.daum.net/v/20230920232607865</id>
+        <link href="https://v.daum.net/v/20230920232607865"/>
+        <updated>2023-09-20T15:19:29.774Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국제 시큐리티 콘퍼런스 “사이버보안 침해 사고 심각… 대응책 마련해야”]]></title>
         <id>https://v.daum.net/v/20230920205425848</id>
@@ -32,13 +39,6 @@
         <link href="https://v.daum.net/v/20230920180007137"/>
         <updated>2023-09-20T09:20:53.361Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“비싼 연예인까지 동원했는데” ‘비타500’ 못 판다…광동제약, 무슨 일이?]]></title>
-        <id>https://v.daum.net/v/20230920175110846</id>
-        <link href="https://v.daum.net/v/20230920175110846"/>
-        <updated>2023-09-20T09:20:53.363Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“넷플릭스 이용료도 가계통신비… 통계청 집계 기준 고쳐야”]]></title>
