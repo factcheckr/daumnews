@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-20T11:16:45.577Z</updated>
+    <updated>2023-09-20T12:38:33.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국제 시큐리티 콘퍼런스 “사이버보안 침해 사고 심각… 대응책 마련해야”]]></title>
+        <id>https://v.daum.net/v/20230920205425848</id>
+        <link href="https://v.daum.net/v/20230920205425848"/>
+        <updated>2023-09-20T12:37:28.994Z</updated>
+        <content type="html"><![CDATA[경기일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이태식 과총 회장 “R&D 예산 문제, 국내 400개 학회 의견 듣겠다”]]></title>
         <id>https://v.daum.net/v/20230920172322889</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230920175052828"/>
         <updated>2023-09-20T09:20:53.365Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 산업 육성 기반이 될 '인공지능법'..전문가들 "법적 기반 시급"]]></title>
-        <id>https://v.daum.net/v/20230920174410592</id>
-        <link href="https://v.daum.net/v/20230920174410592"/>
-        <updated>2023-09-20T11:16:05.290Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
