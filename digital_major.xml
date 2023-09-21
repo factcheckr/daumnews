@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-09-21T10:21:19.247Z</updated>
+    <updated>2023-09-21T11:18:12.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]가상자산 침체 장기화…상반기 은행 수수료 수입도 '절반 뚝']]></title>
+        <id>https://v.daum.net/v/20230921175223617</id>
+        <link href="https://v.daum.net/v/20230921175223617"/>
+        <updated>2023-09-21T11:17:36.592Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신문협회 "네이버·카카오, 생성형 AI 뉴스 이용기준 즉답 회피"]]></title>
         <id>https://v.daum.net/v/20230921145043939</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230921170017100"/>
         <updated>2023-09-21T09:19:29.307Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“나 추워”하면 온도 조절… 아마존, 생성형 AI 입힌 알렉사 공개]]></title>
-        <id>https://v.daum.net/v/20230921164113130</id>
-        <link href="https://v.daum.net/v/20230921164113130"/>
-        <updated>2023-09-21T08:23:28.920Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>

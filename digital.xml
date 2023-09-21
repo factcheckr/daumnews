@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-21T10:21:19.248Z</updated>
+    <updated>2023-09-21T11:18:12.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사용기] 네이버 AI 검색 ‘큐:’, ‘클로바X’와 차이점 살펴보니]]></title>
+        <id>https://v.daum.net/v/20230921144814850</id>
+        <link href="https://v.daum.net/v/20230921144814850"/>
+        <updated>2023-09-21T11:17:24.854Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아이폰15' 대항할 삼성 '갤럭시S24'…4나노 두뇌 달고 나오는 이유 [유미의 시선들]]]></title>
         <id>https://v.daum.net/v/20230921175717835</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230921180833392"/>
         <updated>2023-09-21T09:19:17.689Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]가상자산 침체 장기화…상반기 은행 수수료 수입도 '절반 뚝']]></title>
-        <id>https://v.daum.net/v/20230921175223617</id>
-        <link href="https://v.daum.net/v/20230921175223617"/>
-        <updated>2023-09-21T09:19:17.702Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
