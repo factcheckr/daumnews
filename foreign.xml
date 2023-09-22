@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-09-22T18:24:33.952Z</updated>
+    <updated>2023-09-22T19:16:33.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아마존 OTT '프라임 비디오', 내년부터 광고 싣고 요금 인상]]></title>
+        <id>https://v.daum.net/v/20230923035844315</id>
+        <link href="https://v.daum.net/v/20230923035844315"/>
+        <updated>2023-09-22T19:14:41.852Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英서 140여년 전 숨진 에티오피아 왕자, 머리카락만 고국 품으로]]></title>
         <id>https://v.daum.net/v/20230923023353995</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230923014214887"/>
         <updated>2023-09-22T17:15:51.560Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기장 떠나가라 “김국진 사랑해요”… 항저우 등장한 北여성 응원단]]></title>
-        <id>https://v.daum.net/v/20230923013126800</id>
-        <link href="https://v.daum.net/v/20230923013126800"/>
-        <updated>2023-09-22T17:15:51.561Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
