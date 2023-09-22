@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-09-22T20:20:21.232Z</updated>
+    <updated>2023-09-22T21:17:13.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“아! 이러다 사달난다” ‘국민메신저’ 카카오 초유의 사태…뒤집힐 판]]></title>
+        <id>https://v.daum.net/v/20230922224249781</id>
+        <link href="https://v.daum.net/v/20230922224249781"/>
+        <updated>2023-09-22T21:16:24.930Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고팍스 새주인 '시티랩스'되나…지분 8.55% 확보]]></title>
         <id>https://v.daum.net/v/20230922204012991</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230922163304276"/>
         <updated>2023-09-22T11:16:01.021Z</updated>
         <content type="html"><![CDATA[게임동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국판 '스페이스X' 만든다…민간 우주발사체 시장 구축]]></title>
-        <id>https://v.daum.net/v/20230922160532277</id>
-        <link href="https://v.daum.net/v/20230922160532277"/>
-        <updated>2023-09-22T09:18:13.775Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
