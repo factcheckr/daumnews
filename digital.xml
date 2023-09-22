@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-22T17:17:26.253Z</updated>
+    <updated>2023-09-22T18:24:33.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[家電 선도하던 ‘탱크주의’ 대우전자, 세 번째 몰락]]></title>
+        <id>https://v.daum.net/v/20230923030203092</id>
+        <link href="https://v.daum.net/v/20230923030203092"/>
+        <updated>2023-09-22T18:23:30.216Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지금 지구의 건강상태는?..."심각한 고혈압 환자"]]></title>
         <id>https://v.daum.net/v/20230923014014841</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230922204012991"/>
         <updated>2023-09-22T12:33:29.609Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["하루만 참으세요"…통신3사, 이달 23일 '번호이동' 일시 중단]]></title>
-        <id>https://v.daum.net/v/20230922142949017</id>
-        <link href="https://v.daum.net/v/20230922142949017"/>
-        <updated>2023-09-22T11:15:51.194Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>

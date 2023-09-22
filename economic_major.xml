@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-09-22T17:17:26.272Z</updated>
+    <updated>2023-09-22T18:24:33.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이폰15 내달 13일 국내 출시]]></title>
+        <id>https://v.daum.net/v/20230923030151086</id>
+        <link href="https://v.daum.net/v/20230923030151086"/>
+        <updated>2023-09-22T18:22:24.290Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10명 중 6명 "차례상 안 차린다"…20대 밀키트도 'OK']]></title>
         <id>https://v.daum.net/v/20230923000123410</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230922220153203"/>
         <updated>2023-09-22T15:18:12.735Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘100년 역사’ 조치원 양조 사업 부흥 ‘신호탄’]]></title>
-        <id>https://v.daum.net/v/20230922220021163</id>
-        <link href="https://v.daum.net/v/20230922220021163"/>
-        <updated>2023-09-22T15:18:12.737Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
