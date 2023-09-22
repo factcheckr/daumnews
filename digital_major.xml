@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-09-22T16:24:31.111Z</updated>
+    <updated>2023-09-22T17:17:26.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI법, “고위험 영역 조정하고 저작권침해 면책해줘야”]]></title>
+        <id>https://v.daum.net/v/20230922181202425</id>
+        <link href="https://v.daum.net/v/20230922181202425"/>
+        <updated>2023-09-22T17:16:46.526Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공격 많고 해결사 부족한 사이버 보안, "생성 AI가 해결"]]></title>
         <id>https://v.daum.net/v/20230922180703335</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230922155038762"/>
         <updated>2023-09-22T08:22:58.628Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로봇協 회장직, 벌써 하마평?...삼성전자 등 물망]]></title>
-        <id>https://v.daum.net/v/20230922153119154</id>
-        <link href="https://v.daum.net/v/20230922153119154"/>
-        <updated>2023-09-22T08:22:58.629Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>

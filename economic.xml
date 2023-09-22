@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-09-22T16:24:31.092Z</updated>
+    <updated>2023-09-22T17:17:26.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JP모건 "국제유가, 150달러 간다"...고금리·탄소중립으로 '슈퍼사이클' 진입]]></title>
+        <id>https://v.daum.net/v/20230923020605924</id>
+        <link href="https://v.daum.net/v/20230923020605924"/>
+        <updated>2023-09-22T17:15:29.886Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓 반도체 기업 중국내 기술 확장 허용…"정상 경영활동 보장될 것"]]></title>
         <id>https://v.daum.net/v/20230923004847659</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230923000443460"/>
         <updated>2023-09-22T15:18:01.530Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10명 중 6명 "차례상 안 차린다"…20대 밀키트도 'OK']]></title>
-        <id>https://v.daum.net/v/20230923000123410</id>
-        <link href="https://v.daum.net/v/20230923000123410"/>
-        <updated>2023-09-22T15:18:01.532Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>

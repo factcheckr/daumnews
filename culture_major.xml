@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-09-22T16:24:31.114Z</updated>
+    <updated>2023-09-22T17:17:26.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Consumer News] ‘탕후루’ 유행 언제까지 갈까]]></title>
+        <id>https://v.daum.net/v/20230922234456274</id>
+        <link href="https://v.daum.net/v/20230922234456274"/>
+        <updated>2023-09-22T17:16:24.324Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 주말, 아침 짙은 안개‥낮엔 따스한 햇볕]]></title>
         <id>https://v.daum.net/v/20230922230938008</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230922204257017"/>
         <updated>2023-09-22T13:21:40.530Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K스토리] 한국화의 현대화를 추구하는 작가진, '소소밀밀'로 모이다]]></title>
-        <id>https://v.daum.net/v/20230922204224013</id>
-        <link href="https://v.daum.net/v/20230922204224013"/>
-        <updated>2023-09-22T13:21:40.540Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
