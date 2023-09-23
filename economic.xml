@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-09-23T14:15:41.492Z</updated>
+    <updated>2023-09-23T15:18:38.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[비즈토크<하>] 류진 한경협 회장, 또다시 '옐로카드' 언급한 이유]]></title>
+        <id>https://v.daum.net/v/20230924000312548</id>
+        <link href="https://v.daum.net/v/20230924000312548"/>
+        <updated>2023-09-23T15:16:21.223Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 반도체법 규제에 산업부 "초안 대비 다소 진전된 부분 담겨"]]></title>
         <id>https://v.daum.net/v/20230923224800985</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230923203948824"/>
         <updated>2023-09-23T12:29:10.137Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘싸다는데 비싼’ 추석 물가…유가 상승의 종착역은? [경제대기권]]]></title>
-        <id>https://v.daum.net/v/20230923203205761</id>
-        <link href="https://v.daum.net/v/20230923203205761"/>
-        <updated>2023-09-23T12:29:10.139Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
