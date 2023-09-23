@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-09-23T12:30:40.196Z</updated>
+    <updated>2023-09-23T13:19:52.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진화하던 도중에 강력한 폭발…타이완 울린 소방관 사연]]></title>
+        <id>https://v.daum.net/v/20230923203921819</id>
+        <link href="https://v.daum.net/v/20230923203921819"/>
+        <updated>2023-09-23T13:18:37.447Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[르포] “잔해 속 가족 얼마나 고통스러웠을까”…모로코 지금은?]]></title>
         <id>https://v.daum.net/v/20230923203615795</id>
@@ -18,13 +25,6 @@
         <link href="https://v.daum.net/v/20230923203441783"/>
         <updated>2023-09-23T12:29:35.644Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 반체제 인사 천쓰밍 "대만 체류 중…미·캐나다 망명 원해"]]></title>
-        <id>https://v.daum.net/v/20230923203145758</id>
-        <link href="https://v.daum.net/v/20230923203145758"/>
-        <updated>2023-09-23T12:29:35.648Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국 교실에 등장한 '방탄룸'‥방탄 책가방도 인기]]></title>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고급 와인이 사람 잡는다…佛 포도 수확 노동자 착취 논란]]></title>
-        <id>https://v.daum.net/v/20230923200124493</id>
-        <link href="https://v.daum.net/v/20230923200124493"/>
-        <updated>2023-09-23T12:29:35.663Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EU, 中 통상 불균형서 "의존축소 등 보호 강화…디커플링은 원치 않아"]]></title>
         <id>https://v.daum.net/v/20230923195822467</id>
         <link href="https://v.daum.net/v/20230923195822467"/>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230923192102127"/>
         <updated>2023-09-23T12:29:35.667Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['1994년 대학살 공모' 르완다 전직 의원 프랑스서 체포]]></title>
+        <id>https://v.daum.net/v/20230923192535180</id>
+        <link href="https://v.daum.net/v/20230923192535180"/>
+        <updated>2023-09-23T13:18:37.469Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
