@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-09-23T19:18:11.728Z</updated>
+    <updated>2023-09-23T20:18:23.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[칠레 조직범죄단의 표적된 아르헨티나 국민의 '달러 사랑']]></title>
-        <id>https://v.daum.net/v/20230924014224169</id>
-        <link href="https://v.daum.net/v/20230924014224169"/>
-        <updated>2023-09-23T19:16:40.171Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[우크라, 흑해함대 사령부에 '크랩 트랩' 작전…장군 포함 25명 사상(종합)]]></title>
         <id>https://v.daum.net/v/20230924010539921</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230923225405008"/>
         <updated>2023-09-23T16:20:58.001Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[니제르 대학에 무장괴한 침입해 학생 등 30명 이상 납치]]></title>
+        <id>https://v.daum.net/v/20230923223302905</id>
+        <link href="https://v.daum.net/v/20230923223302905"/>
+        <updated>2023-09-23T20:16:58.773Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

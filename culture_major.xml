@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-09-23T19:18:11.712Z</updated>
+    <updated>2023-09-23T20:18:23.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘축제로 물든 가을’…다음 달, 충북 대표 축제 10개 개최]]></title>
+        <id>https://v.daum.net/v/20230923210223017</id>
+        <link href="https://v.daum.net/v/20230923210223017"/>
+        <updated>2023-09-23T20:17:20.155Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[길고 긴 추석 연휴… ‘연휴심장증후군’ 조심하세요]]></title>
         <id>https://v.daum.net/v/20230923205003917</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230923183015578"/>
         <updated>2023-09-23T12:29:51.432Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몸속이 더 늙어 간다.. 노화 늦추는 습관-음식들은?]]></title>
-        <id>https://v.daum.net/v/20230923153045011</id>
-        <link href="https://v.daum.net/v/20230923153045011"/>
-        <updated>2023-09-23T12:29:51.436Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
