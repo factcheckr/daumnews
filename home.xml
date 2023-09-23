@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-09-23T16:22:33.157Z</updated>
+    <updated>2023-09-23T17:16:34.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[칠레 조직범죄단의 표적된 아르헨티나 국민의 '달러 사랑']]></title>
+        <id>https://v.daum.net/v/20230924014224169</id>
+        <link href="https://v.daum.net/v/20230924014224169"/>
+        <updated>2023-09-23T17:13:30.244Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나토 회원국' 루마니아 영공에 美F-16 추가 투입…러 우회경고]]></title>
         <id>https://v.daum.net/v/20230924010346917</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20230923230303091"/>
         <updated>2023-09-23T15:15:18.262Z</updated>
         <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 반도체법 규제에 산업부 "초안 대비 다소 진전된 부분 담겨"]]></title>
-        <id>https://v.daum.net/v/20230923224800985</id>
-        <link href="https://v.daum.net/v/20230923224800985"/>
-        <updated>2023-09-23T14:13:32.796Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
     </entry>
 </feed>
