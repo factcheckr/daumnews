@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-09-23T08:21:37.334Z</updated>
+    <updated>2023-09-23T09:17:06.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[꺾일 줄 모르는 기름값 고공행진...11주째 상승]]></title>
+        <id>https://v.daum.net/v/20230923152310916</id>
+        <link href="https://v.daum.net/v/20230923152310916"/>
+        <updated>2023-09-23T09:15:21.929Z</updated>
+        <content type="html"><![CDATA[CJB청주방송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제네시스, 누적 판매 100만대의 의미]]></title>
         <id>https://v.daum.net/v/20230923170003227</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230923154913166"/>
         <updated>2023-09-23T07:14:34.392Z</updated>
         <content type="html"><![CDATA[JIBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강원세계산림엑스포서 '동아시아 관광의 날' 행사 열려]]></title>
-        <id>https://v.daum.net/v/20230923154005086</id>
-        <link href="https://v.daum.net/v/20230923154005086"/>
-        <updated>2023-09-23T07:14:34.394Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

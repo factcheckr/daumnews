@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-23T08:21:37.323Z</updated>
+    <updated>2023-09-23T09:17:06.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바람: 연 "추억 새록새록, 즐거움 한가득"]]></title>
+        <id>https://v.daum.net/v/20230923174754042</id>
+        <link href="https://v.daum.net/v/20230923174754042"/>
+        <updated>2023-09-23T09:16:20.113Z</updated>
+        <content type="html"><![CDATA[게임톡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글에 왜 그러는데?…친기업 나라인 줄 알았더니 ‘반전’ 있었네 [홍키자의 빅테크]]]></title>
         <id>https://v.daum.net/v/20230923145405583</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230923120008172"/>
         <updated>2023-09-23T03:17:51.620Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유니티, 말 많던 ‘설치당 과금’ 소급 적용 않기로]]></title>
-        <id>https://v.daum.net/v/20230923105207518</id>
-        <link href="https://v.daum.net/v/20230923105207518"/>
-        <updated>2023-09-23T02:21:53.838Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
