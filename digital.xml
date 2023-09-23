@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-23T05:17:17.095Z</updated>
+    <updated>2023-09-23T06:22:52.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글에 왜 그러는데?…친기업 나라인 줄 알았더니 ‘반전’ 있었네 [홍키자의 빅테크]]]></title>
+        <id>https://v.daum.net/v/20230923145405583</id>
+        <link href="https://v.daum.net/v/20230923145405583"/>
+        <updated>2023-09-23T06:22:07.574Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[목성 얼음위성 유로파에서 탄소 발견]]></title>
         <id>https://v.daum.net/v/20230923141001239</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230923105207518"/>
         <updated>2023-09-23T02:21:53.838Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[출시 앞둔 갤S23 FE·갤탭S9 FE·갤버즈 FE, 이렇게 나온다]]></title>
-        <id>https://v.daum.net/v/20230923082538947</id>
-        <link href="https://v.daum.net/v/20230923082538947"/>
-        <updated>2023-09-23T02:21:53.842Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
