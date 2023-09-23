@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-23T09:17:06.663Z</updated>
+    <updated>2023-09-23T10:21:21.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[바람: 연 "추억 새록새록, 즐거움 한가득"]]></title>
+        <title type="html"><![CDATA[마른 잎 다시 살아나듯 일어난 ‘기후정의’ 시민들…“연결된 연대가 기후위기 넘는 힘”]]></title>
+        <id>https://v.daum.net/v/20230923190530021</id>
+        <link href="https://v.daum.net/v/20230923190530021"/>
+        <updated>2023-09-23T10:20:34.427Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바람:연 X 민속촌 "추억 새록새록, 즐거움 한가득"]]></title>
         <id>https://v.daum.net/v/20230923174754042</id>
         <link href="https://v.daum.net/v/20230923174754042"/>
         <updated>2023-09-23T09:16:20.113Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230923110103605"/>
         <updated>2023-09-23T04:20:32.964Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MS·블리자드 합병 초읽기…英 "독점우려 해소"]]></title>
-        <id>https://v.daum.net/v/20230923120008172</id>
-        <link href="https://v.daum.net/v/20230923120008172"/>
-        <updated>2023-09-23T03:17:51.620Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
