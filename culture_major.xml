@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-09-24T15:18:38.972Z</updated>
+    <updated>2023-09-24T16:22:29.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20230924213913793"/>
         <updated>2023-09-24T13:18:33.278Z</updated>
         <content type="html"><![CDATA[스포츠경향]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[환절기 두려운 ‘비염’ 환자들… 가을 되면 왜 심해질까?]]></title>
+        <id>https://v.daum.net/v/20230924200014821</id>
+        <link href="https://v.daum.net/v/20230924200014821"/>
+        <updated>2023-09-24T16:21:17.866Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[주목! e기술]몽골에서 중국 맹추격...주목받는 K-의료기기]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230924174003907"/>
         <updated>2023-09-24T11:14:54.985Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["영원은 몇초인가, 그림동화 속 질문 특별해"]]></title>
-        <id>https://v.daum.net/v/20230924170604315</id>
-        <link href="https://v.daum.net/v/20230924170604315"/>
-        <updated>2023-09-24T11:14:54.987Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
