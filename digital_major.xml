@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-09-24T01:16:54.157Z</updated>
+    <updated>2023-09-24T02:27:25.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[베이징 다이어리]'눈치보지도, 미안해하지도 않는다'…애국은 애국, 아이폰은 아이폰]]></title>
+        <id>https://v.daum.net/v/20230924080043637</id>
+        <link href="https://v.daum.net/v/20230924080043637"/>
+        <updated>2023-09-24T02:26:48.862Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[100년 전 몰락한 비행선, 군용으로 부활하나]]></title>
         <id>https://v.daum.net/v/20230924080106646</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230924070041160"/>
         <updated>2023-09-23T23:16:46.939Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공공SW 개선안 안갯속…디플정위 재논의 후 '미궁' 빠져]]></title>
-        <id>https://v.daum.net/v/20230924070002108</id>
-        <link href="https://v.daum.net/v/20230924070002108"/>
-        <updated>2023-09-23T23:16:46.941Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
