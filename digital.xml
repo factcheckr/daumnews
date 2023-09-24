@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-24T07:17:39.502Z</updated>
+    <updated>2023-09-24T08:26:14.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소행성 '베누' 시료 24일 지구로…태양계 생성·생명체 비밀 풀까]]></title>
+        <id>https://v.daum.net/v/20230924171827520</id>
+        <link href="https://v.daum.net/v/20230924171827520"/>
+        <updated>2023-09-24T08:25:18.915Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국 '가드레일'에 등 터지는 K-반도체…中도 한국 걱정할 판]]></title>
         <id>https://v.daum.net/v/20230924161038228</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230924160031981"/>
         <updated>2023-09-24T07:16:42.618Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외래종의 역습…우리 생태계를 위협한다]]></title>
-        <id>https://v.daum.net/v/20230924155939946</id>
-        <link href="https://v.daum.net/v/20230924155939946"/>
-        <updated>2023-09-24T07:16:42.620Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
