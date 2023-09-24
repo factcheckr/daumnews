@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-09-24T11:15:47.106Z</updated>
+    <updated>2023-09-24T12:31:18.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[와이라노] ‘가야고분군’ 세계문화유산 등재… 가야의 역사를 다시금 꽃피우다]]></title>
+        <id>https://v.daum.net/v/20230924204705261</id>
+        <link href="https://v.daum.net/v/20230924204705261"/>
+        <updated>2023-09-24T12:30:15.042Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[환절기 두려운 ‘비염’ 환자들… 가을 되면 왜 심해질까?]]></title>
         <id>https://v.daum.net/v/20230924200014821</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230924184902573"/>
         <updated>2023-09-24T10:17:51.627Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걸음걸이 느려지고 몸무게가 1년에 10㎏ 이상 빠졌다면…]]></title>
-        <id>https://v.daum.net/v/20230924181002632</id>
-        <link href="https://v.daum.net/v/20230924181002632"/>
-        <updated>2023-09-24T09:19:35.813Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
