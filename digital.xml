@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-24T18:22:46.147Z</updated>
+    <updated>2023-09-24T19:15:50.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 메타, 국내 규제 무시? 시정명령에도 ‘표적광고’ 정보수집 ‘그대로’]]></title>
+        <id>https://v.daum.net/v/20230925040502615</id>
+        <link href="https://v.daum.net/v/20230925040502615"/>
+        <updated>2023-09-24T19:14:49.986Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[독일 소도시에 유럽 딥테크 이끌 과학자 모인다]]></title>
         <id>https://v.daum.net/v/20230925030308411</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230924221548329"/>
         <updated>2023-09-24T14:15:21.143Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["실패 용인 연구환경 중요"…노벨상 3人-과기차관, R&D혁신안 논의]]></title>
-        <id>https://v.daum.net/v/20230924221443312</id>
-        <link href="https://v.daum.net/v/20230924221443312"/>
-        <updated>2023-09-24T13:18:42.103Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
