@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-09-25T18:24:52.280Z</updated>
+    <updated>2023-09-25T19:18:15.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1682593/zGFgSqHR7O"/>
         <updated>2023-09-25T16:24:37.729Z</updated>
         <content type="html"><![CDATA[대한민국 대통령실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쉬엄쉬엄하시게]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/4aBgPwJGmL</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/4aBgPwJGmL"/>
+        <updated>2023-09-25T19:17:51.160Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘졌잘싸’ 태권도 혼성 단체전 ‘2위’ [서울포토]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615616/9GSw5Ig1pP"/>
         <updated>2023-09-25T08:26:57.887Z</updated>
         <content type="html"><![CDATA[뉴스1 PICK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전남농협-순천대, '글로컬대학30' 본지정 합심]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5612596/z6xjwJ9rfy</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5612596/z6xjwJ9rfy"/>
-        <updated>2023-09-25T07:18:00.013Z</updated>
-        <content type="html"><![CDATA[머니S포토]]></content>
     </entry>
 </feed>
