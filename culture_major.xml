@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-09-25T12:35:43.209Z</updated>
+    <updated>2023-09-25T13:23:27.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[관객 발길 늘고, 유입 지역 다양화… LG아트센터 ‘마곡 시대’ 성공적 안착]]></title>
+        <id>https://v.daum.net/v/20230925195550738</id>
+        <link href="https://v.daum.net/v/20230925195550738"/>
+        <updated>2023-09-25T13:22:29.255Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산서 무량판 적용 주상복합 부실시공 첫 확인]]></title>
         <id>https://v.daum.net/v/20230925185655466</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230925181607590"/>
         <updated>2023-09-25T10:20:02.504Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[죽음도 각오한 시절이었다... 92살, 그가 우리에게 전하는 말]]></title>
-        <id>https://v.daum.net/v/20230925181502548</id>
-        <link href="https://v.daum.net/v/20230925181502548"/>
-        <updated>2023-09-25T10:20:02.506Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
