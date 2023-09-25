@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-09-25T13:23:27.386Z</updated>
+    <updated>2023-09-25T15:21:32.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/377110/9yfJD1C2yP"/>
         <updated>2023-09-25T13:22:57.060Z</updated>
         <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불모산 정상에서]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/ZyYIXVFL4p</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/ZyYIXVFL4p"/>
+        <updated>2023-09-25T15:20:52.878Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[파시냔 총리 규탄하는 아르메니아 시위대]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1471/08FYUyEu7T"/>
         <updated>2023-09-25T07:18:00.013Z</updated>
         <content type="html"><![CDATA[세계의 정상들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러, 드론·미사일로 오데사항 직격…곡물시장 비상]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033399/1ZwzPuWQud</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033399/1ZwzPuWQud"/>
-        <updated>2023-09-25T07:18:00.018Z</updated>
-        <content type="html"><![CDATA[우크라이나는 지금]]></content>
     </entry>
 </feed>
