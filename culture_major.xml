@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-09-25T15:21:32.120Z</updated>
+    <updated>2023-09-25T16:25:14.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘축제’로 가장한 퀴어행사...방파제로 나선 교계]]></title>
+        <id>https://v.daum.net/v/20230925205507711</id>
+        <link href="https://v.daum.net/v/20230925205507711"/>
+        <updated>2023-09-25T16:24:05.710Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“술 안마셔도 비만·대사증후군 있으면 유병률 최대 50%”]]></title>
         <id>https://v.daum.net/v/20230925202608200</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230925183533015"/>
         <updated>2023-09-25T11:16:01.795Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여성 00환자 5년 전보다 약 37% 늘어…라돈·대기 오염 등 원인↑]]></title>
-        <id>https://v.daum.net/v/20230925165702573</id>
-        <link href="https://v.daum.net/v/20230925165702573"/>
-        <updated>2023-09-25T11:16:01.799Z</updated>
-        <content type="html"><![CDATA[키즈맘]]></content>
     </entry>
 </feed>

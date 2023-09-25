@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-09-25T15:21:32.121Z</updated>
+    <updated>2023-09-25T16:25:14.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이유 있는 스테디셀러… 작품 속 그 이야기 ‘더 픽션’]]></title>
+        <id>https://v.daum.net/v/20230925235901849</id>
+        <link href="https://v.daum.net/v/20230925235901849"/>
+        <updated>2023-09-25T16:23:54.168Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강원별곡 최우수상에 진주영 ‘어이도 산호’]]></title>
         <id>https://v.daum.net/v/20230926000552091</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230925215455118"/>
         <updated>2023-09-25T13:22:20.211Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘축제’로 가장한 퀴어행사...방파제로 나선 교계]]></title>
-        <id>https://v.daum.net/v/20230925205507711</id>
-        <link href="https://v.daum.net/v/20230925205507711"/>
-        <updated>2023-09-25T12:34:32.850Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>

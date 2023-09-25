@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-09-25T15:21:32.105Z</updated>
+    <updated>2023-09-25T16:25:14.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美국채 10년물 4.53%..금융위기 수준 급등]]></title>
+        <id>https://v.daum.net/v/20230926004612359</id>
+        <link href="https://v.daum.net/v/20230926004612359"/>
+        <updated>2023-09-25T16:23:05.614Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 10년국채금리 4.5% 돌파…고금리 장기화조짐에 16년만에 최고]]></title>
+        <id>https://v.daum.net/v/20230926003359302</id>
+        <link href="https://v.daum.net/v/20230926003359302"/>
+        <updated>2023-09-25T16:23:05.624Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국 반도체법 최종안…삼성·SK 안심하긴 아직 일러]]></title>
         <id>https://v.daum.net/v/20230925223335806</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20230925232707532"/>
         <updated>2023-09-25T15:19:11.876Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김행 또 '주식 파킹' 의혹‥재인수 뒤 주식가치 79배 뛰어]]></title>
-        <id>https://v.daum.net/v/20230925224917043</id>
-        <link href="https://v.daum.net/v/20230925224917043"/>
-        <updated>2023-09-25T15:19:11.879Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주거동에서도 철근 누락‥LH 조용히 보강공사 지시]]></title>
-        <id>https://v.daum.net/v/20230925225219096</id>
-        <link href="https://v.daum.net/v/20230925225219096"/>
-        <updated>2023-09-25T15:19:11.881Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
