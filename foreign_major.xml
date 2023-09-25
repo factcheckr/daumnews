@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-09-25T16:25:14.247Z</updated>
+    <updated>2023-09-25T17:18:18.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["푸틴 인터뷰 요청, 매일 수십건"…러, 국제 관심에 '으쓱']]></title>
+        <id>https://v.daum.net/v/20230926005543384</id>
+        <link href="https://v.daum.net/v/20230926005543384"/>
+        <updated>2023-09-25T17:17:01.539Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美국채 10년물 4.53%..금융위기 수준 급등]]></title>
+        <id>https://v.daum.net/v/20230926004612359</id>
+        <link href="https://v.daum.net/v/20230926004612359"/>
+        <updated>2023-09-25T17:17:01.540Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美, 남태평양 2개국 주권 인정 공식화…"인태 지역 번영 보장"]]></title>
         <id>https://v.daum.net/v/20230926003528313</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230925231510391"/>
         <updated>2023-09-25T15:19:50.005Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9월 독일 Ifo 경기지수 85.7·0.1P↓…"5개월째 하락"]]></title>
-        <id>https://v.daum.net/v/20230925224717011</id>
-        <link href="https://v.daum.net/v/20230925224717011"/>
-        <updated>2023-09-25T15:19:50.005Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전쟁으로 ‘일할 남성’ 씨마른 러시아, ‘북한 인력 수입’ 구미]]></title>
-        <id>https://v.daum.net/v/20230925224211952</id>
-        <link href="https://v.daum.net/v/20230925224211952"/>
-        <updated>2023-09-25T15:19:50.010Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
 </feed>
