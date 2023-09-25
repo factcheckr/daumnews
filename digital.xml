@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-25T09:23:50.969Z</updated>
+    <updated>2023-09-25T10:20:59.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지난해 남극 사상 최대 폭염…평년보다 39도 더 높았다]]></title>
+        <id>https://v.daum.net/v/20230925190251556</id>
+        <link href="https://v.daum.net/v/20230925190251556"/>
+        <updated>2023-09-25T10:20:12.835Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이영완의 사이언스카페 | 진나라 병마용(兵馬俑)의 비밀] 진시황 군대의 전투력은 신발에서 나왔다]]></title>
         <id>https://v.daum.net/v/20230925180554306</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230925173312035"/>
         <updated>2023-09-25T09:23:09.810Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹 "글로벌 디지털 질서, 韓이 주도할 것"]]></title>
-        <id>https://v.daum.net/v/20230925173419104</id>
-        <link href="https://v.daum.net/v/20230925173419104"/>
-        <updated>2023-09-25T09:23:09.813Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
