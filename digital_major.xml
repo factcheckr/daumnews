@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-09-26T07:19:11.830Z</updated>
+    <updated>2023-09-26T08:25:10.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영상] 테슬라 옵티머스 로봇, 요가 동작도 '완벽']]></title>
+        <id>https://v.daum.net/v/20230926135159313</id>
+        <link href="https://v.daum.net/v/20230926135159313"/>
+        <updated>2023-09-26T08:24:29.991Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TBS라디오 진행자 추천 강행 논란, 누가 누굴 추천했길래]]></title>
         <id>https://v.daum.net/v/20230926152200436</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[반도체·디스플레이의 '새 시대(New Era)'…전자신문 테크서밋 내달 18일 개막]]></title>
+        <title type="html"><![CDATA[전자신문 테크서밋 내달 18일 개막…반도체·디스플레이 미래기술 엿본다]]></title>
         <id>https://v.daum.net/v/20230926143304114</id>
         <link href="https://v.daum.net/v/20230926143304114"/>
         <updated>2023-09-26T07:18:29.360Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230926140007629"/>
         <updated>2023-09-26T06:25:27.189Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방발기금 일부는 문체부 사업에 투입...방송 미디어 발전 위해 쓰도록 바로 잡아야]]></title>
-        <id>https://v.daum.net/v/20230926140003616</id>
-        <link href="https://v.daum.net/v/20230926140003616"/>
-        <updated>2023-09-26T06:25:27.193Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
