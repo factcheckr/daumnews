@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/info/correct</id>
     <title>다음뉴스 ─ 언론사 고침기사</title>
-    <updated>2023-09-26T05:21:38.535Z</updated>
+    <updated>2023-09-26T06:26:10.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/info/favicon.ico</icon>
     <entry>
@@ -83,13 +83,6 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[바로잡습니다] “[단독]“나라 넘어갈 뻔했다”… 檢 ‘간첩단’ 수사팀 11명으로 증원” 관련]]></title>
-        <id>https://v.daum.net/v/20230607164710619</id>
-        <link href="https://v.daum.net/v/20230607164710619"/>
-        <updated>2023-06-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[바로잡습니다] 3일 자 B1면 “55만 대군은 있는데 군인이 없고, 스타는 널렸는데 장군이 없다” 기사 중]]></title>
         <id>https://v.daum.net/v/20230606031641549</id>
         <link href="https://v.daum.net/v/20230606031641549"/>
@@ -97,11 +90,11 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[정정 멘트]]]></title>
-        <id>https://v.daum.net/v/20230531075901526</id>
-        <link href="https://v.daum.net/v/20230531075901526"/>
-        <updated>2023-05-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
+        <title type="html"><![CDATA[바로잡습니다]]></title>
+        <id>https://v.daum.net/v/20230531211013994</id>
+        <link href="https://v.daum.net/v/20230531211013994"/>
+        <updated>2023-05-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 24일 자 A6면 ‘관동 조선인 대학살 얘기하며 ‘동물원 사자 탈출’ 빗댄 日 장관’ 기사 중 외]]></title>
@@ -123,5 +116,12 @@
         <link href="https://v.daum.net/v/20230524180903058"/>
         <updated>2023-05-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정 멘트]]]></title>
+        <id>https://v.daum.net/v/20230521214949671</id>
+        <link href="https://v.daum.net/v/20230521214949671"/>
+        <updated>2023-05-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
