@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-09-26T10:20:32.109Z</updated>
+    <updated>2023-09-26T11:16:52.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘심장 질환 종착역’ 심부전, 발병하면 5년 내 60~70% 사망]]></title>
+        <id>https://v.daum.net/v/20230926192037380</id>
+        <link href="https://v.daum.net/v/20230926192037380"/>
+        <updated>2023-09-26T11:15:45.390Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사반 제보] 갓난 아기가 아픈데 '피식'…빌라 주차장서 길 막은 사다리차]]></title>
         <id>https://v.daum.net/v/20230926184712732</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230926183042298"/>
         <updated>2023-09-26T10:19:33.777Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10월 19일부터 코로나19 무료 접종 실시…“신규백신 활용”]]></title>
-        <id>https://v.daum.net/v/20230926154028315</id>
-        <link href="https://v.daum.net/v/20230926154028315"/>
-        <updated>2023-09-26T09:18:34.520Z</updated>
-        <content type="html"><![CDATA[정책브리핑]]></content>
     </entry>
 </feed>
