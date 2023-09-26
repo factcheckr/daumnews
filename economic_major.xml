@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-09-26T15:20:47.877Z</updated>
+    <updated>2023-09-26T16:25:18.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일하는 노인 10명 중 8명 “자녀와 같이 살기 싫어”]]></title>
+        <id>https://v.daum.net/v/20230927000334045</id>
+        <link href="https://v.daum.net/v/20230927000334045"/>
+        <updated>2023-09-26T16:23:24.743Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주요국 속속 금리 동결…“글로벌 긴축 사이클에 변곡점”]]></title>
         <id>https://v.daum.net/v/20230927000325041</id>
@@ -18,6 +25,13 @@
         <link href="https://v.daum.net/v/20230927000248011"/>
         <updated>2023-09-26T15:19:22.084Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먹거리 찾는 생보사, 8조 원 상조시장 노린다…금산분리 규제 발목]]></title>
+        <id>https://v.daum.net/v/20230927000035950</id>
+        <link href="https://v.daum.net/v/20230927000035950"/>
+        <updated>2023-09-26T16:23:24.754Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[롯데 정기인사 '성큼'…나영호 롯데온 대표, 연이은 적자에 거취 주목]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20230926231507538"/>
         <updated>2023-09-26T15:19:22.098Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공급 늘리고 기간 당기고…PF 대출 보증 규모도 확대]]></title>
-        <id>https://v.daum.net/v/20230926230912484</id>
-        <link href="https://v.daum.net/v/20230926230912484"/>
-        <updated>2023-09-26T15:19:22.101Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['집값 상승은 막고 건설사만 살린다'는 정부, 실효성은 '글쎄']]></title>
-        <id>https://v.daum.net/v/20230926225810340</id>
-        <link href="https://v.daum.net/v/20230926225810340"/>
-        <updated>2023-09-26T15:19:22.103Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
