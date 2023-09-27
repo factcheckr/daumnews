@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-27T10:28:14.204Z</updated>
+    <updated>2023-09-27T11:16:45.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“삼성 왜 사요?” 성능 좋은 아이폰 타령만 하더니…충격적인 일이]]></title>
+        <id>https://v.daum.net/v/20230927195040685</id>
+        <link href="https://v.daum.net/v/20230927195040685"/>
+        <updated>2023-09-27T11:15:59.004Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[생산 제한된 채 장비 허가?…삼성·SK, "최악은 면했다"]]></title>
         <id>https://v.daum.net/v/20230927182519278</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230927161020963"/>
         <updated>2023-09-27T07:17:38.877Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["코끼리 아저씨는 코가 손이래"…비밀은 '촘촘한 근섬유다발']]></title>
-        <id>https://v.daum.net/v/20230927154614261</id>
-        <link href="https://v.daum.net/v/20230927154614261"/>
-        <updated>2023-09-27T07:17:38.879Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>

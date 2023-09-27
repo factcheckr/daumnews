@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-09-27T10:28:14.182Z</updated>
+    <updated>2023-09-27T11:16:45.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["코끼리 아저씨는 코가 손이래"…비밀은 '촘촘한 근섬유다발']]></title>
+        <id>https://v.daum.net/v/20230927154614261</id>
+        <link href="https://v.daum.net/v/20230927154614261"/>
+        <updated>2023-09-27T11:16:09.007Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이폰 15 출시 '2주 전'…이통 업계 마케팅 불붙었다 [IT돋보기]]]></title>
         <id>https://v.daum.net/v/20230927152434628</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230927141604481"/>
         <updated>2023-09-27T07:17:51.138Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뚜벅이의 `고향 가는 길`…스마트한 대중교통 앱은?]]></title>
-        <id>https://v.daum.net/v/20230927142313672</id>
-        <link href="https://v.daum.net/v/20230927142313672"/>
-        <updated>2023-09-27T06:24:20.579Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
