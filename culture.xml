@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-09-27T16:25:01.261Z</updated>
+    <updated>2023-09-27T17:17:31.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자식 잃은 슬픔엔… 그저 공감하고 분노할뿐]]></title>
+        <id>https://v.daum.net/v/20230928014239947</id>
+        <link href="https://v.daum.net/v/20230928014239947"/>
+        <updated>2023-09-27T17:16:33.031Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추석 맞아 궁궐·왕릉 '활짝'...덕수궁 돈덕전 개관]]></title>
         <id>https://v.daum.net/v/20230928010419774</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230927162100228"/>
         <updated>2023-09-27T15:20:42.572Z</updated>
         <content type="html"><![CDATA[대전일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[긴 연휴에 "동남아 넘어 미국·유럽으로"…해외여행 지난해 3배]]></title>
-        <id>https://v.daum.net/v/20230927202642214</id>
-        <link href="https://v.daum.net/v/20230927202642214"/>
-        <updated>2023-09-27T14:17:11.183Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-09-27T16:25:01.239Z</updated>
+    <updated>2023-09-27T17:17:31.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[긴 연휴에 "동남아 넘어 미국·유럽으로"…해외여행 지난해 3배]]></title>
+        <id>https://v.daum.net/v/20230927202642214</id>
+        <link href="https://v.daum.net/v/20230927202642214"/>
+        <updated>2023-09-27T17:16:40.693Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아기때 휴대폰 많이 보면 발달장애 위험 4.8배 높아진다]]></title>
         <id>https://v.daum.net/v/20230927204449432</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230927195847803"/>
         <updated>2023-09-27T13:22:47.165Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명절 끝나면 심해지는 수부질환]]></title>
-        <id>https://v.daum.net/v/20230927201953136</id>
-        <link href="https://v.daum.net/v/20230927201953136"/>
-        <updated>2023-09-27T13:22:47.166Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
