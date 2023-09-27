@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-09-27T22:17:53.019Z</updated>
+    <updated>2023-09-27T23:18:43.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한 농업 성과 선전… "우리 당의 은덕"]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1489/qFI0018Czd</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1489/qFI0018Czd"/>
+        <updated>2023-09-27T23:18:12.410Z</updated>
+        <content type="html"><![CDATA[북한은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고향 가는 길, 설렘 가득]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5032452/PvGuSesb5C</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1075022/40O2uZfOup"/>
         <updated>2023-09-27T07:18:00.528Z</updated>
         <content type="html"><![CDATA[경찰 제공 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지지자들과 인사하는 허우유이 국민당 대만 총통 후보]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1471/xLNU3YKw34</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1471/xLNU3YKw34"/>
-        <updated>2023-09-27T07:18:00.541Z</updated>
-        <content type="html"><![CDATA[세계의 정상들]]></content>
     </entry>
 </feed>
