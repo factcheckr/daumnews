@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-09-27T19:16:08.922Z</updated>
+    <updated>2023-09-27T20:20:03.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1682593/U8tLLURyVp"/>
         <updated>2023-09-27T19:15:39.363Z</updated>
         <content type="html"><![CDATA[대한민국 대통령실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나고르노-카라바흐 탈출하려다 체포된 바르다니안 전 장관]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5855788/6PEu2zJG2N</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5855788/6PEu2zJG2N"/>
+        <updated>2023-09-27T20:19:34.916Z</updated>
+        <content type="html"><![CDATA[아제르바이잔은 지금]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[할리우드 작가들 파업 멈췄지만… 배우들은 파업 계속]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1270177/FTG9ciC2FK"/>
         <updated>2023-09-27T06:24:29.688Z</updated>
         <content type="html"><![CDATA[C컷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['생사라도 알았으면']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5610796/z9H7GCpa3F</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5610796/z9H7GCpa3F"/>
-        <updated>2023-09-27T06:24:29.688Z</updated>
-        <content type="html"><![CDATA[모멘트]]></content>
     </entry>
 </feed>

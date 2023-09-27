@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-27T19:16:08.926Z</updated>
+    <updated>2023-09-27T20:20:03.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“더 느린 것이 더 빠릅니다”…막힌다고 차선 변경 금물[유용하 기자의 사이언스 톡]]]></title>
+        <id>https://v.daum.net/v/20230928050224598</id>
+        <link href="https://v.daum.net/v/20230928050224598"/>
+        <updated>2023-09-27T20:19:18.120Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성·SK하이닉스 中 반도체공장 규제 유예]]></title>
         <id>https://v.daum.net/v/20230928030234109</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230927163012581"/>
         <updated>2023-09-27T12:35:17.010Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“삼성 쓰면 왕따, 말이 돼?” 지독한 아이폰 타령…결국 충격적 일이]]></title>
-        <id>https://v.daum.net/v/20230927195040685</id>
-        <link href="https://v.daum.net/v/20230927195040685"/>
-        <updated>2023-09-27T11:15:59.004Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
