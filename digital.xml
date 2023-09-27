@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-27T14:18:03.798Z</updated>
+    <updated>2023-09-27T15:21:55.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴테크] 전기차·수소차 다음은 양자차…양자로 작동하는 엔진 나왔다]]></title>
+        <id>https://v.daum.net/v/20230928000110371</id>
+        <link href="https://v.daum.net/v/20230928000110371"/>
+        <updated>2023-09-27T15:21:04.041Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민관합동 가짜뉴스 대응기구 발족...네이버 다음 구글 메타 참여]]></title>
         <id>https://v.daum.net/v/20230927163012581</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230927173819253"/>
         <updated>2023-09-27T09:18:59.732Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사이언스카페] 달에 물곰이 살고 있다…우주로 간 동물들]]></title>
-        <id>https://v.daum.net/v/20230927170035373</id>
-        <link href="https://v.daum.net/v/20230927170035373"/>
-        <updated>2023-09-27T08:23:38.497Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
