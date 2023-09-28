@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-09-28T06:25:28.741Z</updated>
+    <updated>2023-09-28T07:19:01.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베트남 저명 환경운동가 탈세 혐의로 징역 3년]]></title>
+        <id>https://v.daum.net/v/20230928143648553</id>
+        <link href="https://v.daum.net/v/20230928143648553"/>
+        <updated>2023-09-28T07:17:45.347Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8월 호주 소매매출 전월비 0.2%↑…"금리동결 뒷받침"]]></title>
+        <id>https://v.daum.net/v/20230928143426522</id>
+        <link href="https://v.daum.net/v/20230928143426522"/>
+        <updated>2023-09-28T07:17:45.348Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바이든·트럼프 낀 車노조 파업… 머스크만 신난 두가지 이유]]></title>
         <id>https://v.daum.net/v/20230928120130574</id>
@@ -48,13 +62,6 @@
         <content type="html"><![CDATA[세계일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['쉬자인 연행' 영향?…헝다그룹, 주식 거래 한 달 만에 다시 중단]]></title>
-        <id>https://v.daum.net/v/20230928133825933</id>
-        <link href="https://v.daum.net/v/20230928133825933"/>
-        <updated>2023-09-28T06:24:10.965Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[기시다, 16년 만에 일본 노조 정기대회 참석 조율… "임금 인상 위해 노동계와 협력"]]></title>
         <id>https://v.daum.net/v/20230928133247853</id>
         <link href="https://v.daum.net/v/20230928133247853"/>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230928132932788"/>
         <updated>2023-09-28T05:16:59.736Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대만 여당 총통후보 "민주주의·평화 촉진 결심 변함없어"]]></title>
-        <id>https://v.daum.net/v/20230928132605740</id>
-        <link href="https://v.daum.net/v/20230928132605740"/>
-        <updated>2023-09-28T05:16:59.743Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
