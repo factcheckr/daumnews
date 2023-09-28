@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-09-28T11:16:12.344Z</updated>
+    <updated>2023-09-28T12:35:15.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI는 ‘인간 노동력 착취’를 먹고 자란다]]></title>
+        <id>https://v.daum.net/v/20230928124409136</id>
+        <link href="https://v.daum.net/v/20230928124409136"/>
+        <updated>2023-09-28T12:34:39.287Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수천만원 로봇이 생산성 확 높인다…지금 조선업계는 로봇홀릭]]></title>
         <id>https://v.daum.net/v/20230928110803821</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20230928084839724"/>
         <updated>2023-09-28T02:23:42.401Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이젠 세계 2위 ‘중국’으로…K-바이오 '340조 시장' 공략법]]></title>
-        <id>https://v.daum.net/v/20230928083602622</id>
-        <link href="https://v.daum.net/v/20230928083602622"/>
-        <updated>2023-09-28T02:23:42.401Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
