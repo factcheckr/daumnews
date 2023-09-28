@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-09-28T12:35:15.317Z</updated>
+    <updated>2023-09-28T13:23:20.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘병상 지휘’ 이재명 vs ‘현장 출동’ 김기현… 총선 바로미터 된 강서구청장 선거]]></title>
+        <id>https://v.daum.net/v/20230928220208622</id>
+        <link href="https://v.daum.net/v/20230928220208622"/>
+        <updated>2023-09-28T13:21:14.247Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새만금의 태동과 기만의 정치사]]></title>
         <id>https://v.daum.net/v/20230928210314924</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230928193254080"/>
         <updated>2023-09-28T12:33:10.583Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명, 당에는 “단결”…尹 향해 맹공]]></title>
-        <id>https://v.daum.net/v/20230928194459213</id>
-        <link href="https://v.daum.net/v/20230928194459213"/>
-        <updated>2023-09-28T12:33:10.585Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
     </entry>
 </feed>
