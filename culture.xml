@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-09-28T18:23:24.855Z</updated>
+    <updated>2023-09-28T19:16:02.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추석 연휴, 국립민속박물관에 '보름달이 떴습니다']]></title>
+        <id>https://v.daum.net/v/20230929040215013</id>
+        <link href="https://v.daum.net/v/20230929040215013"/>
+        <updated>2023-09-28T19:14:56.900Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[까딱하면 4시간… 가성비 甲의 거장 안드라스 쉬프가 온다]]></title>
         <id>https://v.daum.net/v/20230928235502625</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230928212942232"/>
         <updated>2023-09-28T14:17:35.318Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가정 전기화재 사고 잦은 추석명절…'안전수칙 5가지']]></title>
-        <id>https://v.daum.net/v/20230928110101746</id>
-        <link href="https://v.daum.net/v/20230928110101746"/>
-        <updated>2023-09-28T12:34:08.863Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-09-28T18:23:24.852Z</updated>
+    <updated>2023-09-28T19:16:02.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추석 연휴, 국립민속박물관에 '보름달이 떴습니다']]></title>
+        <id>https://v.daum.net/v/20230929040215013</id>
+        <link href="https://v.daum.net/v/20230929040215013"/>
+        <updated>2023-09-28T19:13:27.542Z</updated>
+        <content type="html"><![CDATA[문화]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IMF, 美 연방정부 '셧다운' 임박에…"회피 가능한 위험…합의 촉구"]]></title>
+        <id>https://v.daum.net/v/20230929015503936</id>
+        <link href="https://v.daum.net/v/20230929015503936"/>
+        <updated>2023-09-28T19:13:27.544Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中 국경절 황금연휴...단체관광 특수 재현될까?]]></title>
         <id>https://v.daum.net/v/20230929023411970</id>
@@ -130,19 +144,5 @@
         <link href="https://v.daum.net/v/20230928223601065"/>
         <updated>2023-09-28T15:17:37.439Z</updated>
         <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 2분기 GDP 성장률 확정치 2.1%…잠정치와 동일]]></title>
-        <id>https://v.daum.net/v/20230928215523574</id>
-        <link href="https://v.daum.net/v/20230928215523574"/>
-        <updated>2023-09-28T15:17:37.443Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 정부, 현실이 돼가는 셧다운 대비…공무원에 근무 지침 통보]]></title>
-        <id>https://v.daum.net/v/20230929012023883</id>
-        <link href="https://v.daum.net/v/20230929012023883"/>
-        <updated>2023-09-28T17:15:22.547Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
     </entry>
 </feed>
