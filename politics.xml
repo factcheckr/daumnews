@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-09-29T11:16:09.321Z</updated>
+    <updated>2023-09-29T12:34:18.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정치톡톡] 7번째 제안 / 친명색 강화 / 여야 대치 불가피]]></title>
+        <id>https://v.daum.net/v/20230929191446983</id>
+        <link href="https://v.daum.net/v/20230929191446983"/>
+        <updated>2023-09-29T12:32:33.446Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아는기자]李 영장 기각, 추석 민심에 영향?…문제는 중도층 움직임]]></title>
         <id>https://v.daum.net/v/20230929191800010</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230929191640000"/>
         <updated>2023-09-29T11:14:28.786Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤 대통령 "아픔 외면 않겠다"…원폭 피해자와 약속 지켜(종합)]]></title>
-        <id>https://v.daum.net/v/20230929193128167</id>
-        <link href="https://v.daum.net/v/20230929193128167"/>
-        <updated>2023-09-29T11:14:28.788Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
