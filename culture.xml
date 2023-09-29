@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-09-29T19:15:54.384Z</updated>
+    <updated>2023-09-29T20:19:42.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쉬어도 쉬어도 풀리지 않는 피곤함, 6개월 넘은 것 같다면…]]></title>
+        <id>https://v.daum.net/v/20230930050018044</id>
+        <link href="https://v.daum.net/v/20230930050018044"/>
+        <updated>2023-09-29T20:18:44.307Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그 많던 잉어 누가 다 먹었을까…범인은 알고보니 '수달']]></title>
         <id>https://v.daum.net/v/20230929203312683</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230929231313945"/>
         <updated>2023-09-29T15:20:57.961Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“30년 전으로 시간여행”…93 대전엑스포 특별전]]></title>
-        <id>https://v.daum.net/v/20230929223309461</id>
-        <link href="https://v.daum.net/v/20230929223309461"/>
-        <updated>2023-09-29T14:15:04.294Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
