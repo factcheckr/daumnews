@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-09-30T17:15:48.859Z</updated>
+    <updated>2023-09-30T18:21:59.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[로보택시 밤을 점령하다!…자율주행 택시 진화 중]]></title>
-        <id>https://v.daum.net/v/20230930211944346</id>
-        <link href="https://v.daum.net/v/20230930211944346"/>
-        <updated>2023-09-30T15:16:28.488Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[미국 정부 업무중단 ‘셧다운’ 초읽기…미 상하원 비상대기]]></title>
         <id>https://v.daum.net/v/20230930211921338</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230930180154415"/>
         <updated>2023-09-30T17:14:35.379Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[지구촌톡톡] 그래서 외계인, 진짜 있는 겁니까? 없는 겁니까?]]></title>
+        <id>https://v.daum.net/v/20230930173628065</id>
+        <link href="https://v.daum.net/v/20230930173628065"/>
+        <updated>2023-09-30T18:20:51.613Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
