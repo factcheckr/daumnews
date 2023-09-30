@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-30T08:21:37.888Z</updated>
+    <updated>2023-09-30T09:16:37.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“반도체 불황? 없어서 못 팔 정도” 삼성 vs. SK 누가 더 앞설까 [비즈360]]]></title>
+        <id>https://v.daum.net/v/20230930075142423</id>
+        <link href="https://v.daum.net/v/20230930075142423"/>
+        <updated>2023-09-30T09:15:55.659Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“많이 삭았네요?” 낯익은 ‘얼굴’ 공감폭발…다들 ‘빵’ 터졌다]]></title>
         <id>https://v.daum.net/v/20230930165040324</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230930140107378"/>
         <updated>2023-09-30T05:16:33.907Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌아온 노벨상 시즌···‘족집게’의 예측은]]></title>
-        <id>https://v.daum.net/v/20230930140018353</id>
-        <link href="https://v.daum.net/v/20230930140018353"/>
-        <updated>2023-09-30T05:16:33.910Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
