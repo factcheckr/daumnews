@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-09-30T13:19:43.075Z</updated>
+    <updated>2023-09-30T14:15:27.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[플랫폼의 세상은 안녕하십니까… 우리 사회 깊이 찌른 ‘자본3’]]></title>
+        <id>https://v.daum.net/v/20230930225501135</id>
+        <link href="https://v.daum.net/v/20230930225501135"/>
+        <updated>2023-09-30T14:14:33.364Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[즐길거리·볼거리 풍성…대백제전 관람객 100만 돌파]]></title>
         <id>https://v.daum.net/v/20230930220434794</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230930200044603"/>
         <updated>2023-09-30T11:14:06.809Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무빙' 음악은 심상치 않았다…'검은 건반' 능력자 쇼팽 이 작품]]></title>
-        <id>https://v.daum.net/v/20230930200026598</id>
-        <link href="https://v.daum.net/v/20230930200026598"/>
-        <updated>2023-09-30T11:14:06.811Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
