@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-09-30T16:21:51.695Z</updated>
+    <updated>2023-09-30T17:15:48.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA['타이태닉 관광 잠수정 참사' 영화로 제작 예정]]></title>
-        <id>https://v.daum.net/v/20230930215556705</id>
-        <link href="https://v.daum.net/v/20230930215556705"/>
-        <updated>2023-09-30T16:20:38.728Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[로보택시 밤을 점령하다!…자율주행 택시 진화 중]]></title>
         <id>https://v.daum.net/v/20230930211944346</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20230930184800889"/>
         <updated>2023-09-30T12:30:08.877Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전 세계 주4일 근무제 도전 어디까지 왔나]]></title>
+        <id>https://v.daum.net/v/20230930180154415</id>
+        <link href="https://v.daum.net/v/20230930180154415"/>
+        <updated>2023-09-30T17:14:35.379Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>

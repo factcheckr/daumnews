@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-09-30T16:21:51.699Z</updated>
+    <updated>2023-09-30T17:15:48.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신입생 모집 포기...지방대 생존 위기]]></title>
+        <id>https://v.daum.net/v/20231001012813747</id>
+        <link href="https://v.daum.net/v/20231001012813747"/>
+        <updated>2023-09-30T17:13:18.005Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주말엔 운동] '풍자'도 따라 한 '곰 다이어트'…뭐길래?]]></title>
+        <id>https://v.daum.net/v/20231001000037427</id>
+        <link href="https://v.daum.net/v/20231001000037427"/>
+        <updated>2023-09-30T17:13:18.005Z</updated>
+        <content type="html"><![CDATA[문화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘부터 일제히 우윳값 인상...1리터에 3천 원 넘어]]></title>
         <id>https://v.daum.net/v/20231001011012712</id>
@@ -52,13 +66,6 @@
         <id>https://v.daum.net/v/20231001001050504</id>
         <link href="https://v.daum.net/v/20231001001050504"/>
         <updated>2023-09-30T15:15:13.826Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['초읽기' 진행중인 美 셧다운…상하원서 마지막 저지 시도]]></title>
-        <id>https://v.daum.net/v/20231001000856494</id>
-        <link href="https://v.daum.net/v/20231001000856494"/>
-        <updated>2023-09-30T15:15:13.828Z</updated>
         <content type="html"><![CDATA[국제]]></content>
     </entry>
     <entry>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20230930211225241"/>
         <updated>2023-09-30T13:17:12.023Z</updated>
         <content type="html"><![CDATA[정치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가볼만한 곳]순천만정원, 가을꽃으로 '새단장'...억만송이 국화 '만발']]></title>
-        <id>https://v.daum.net/v/20230930210221151</id>
-        <link href="https://v.daum.net/v/20230930210221151"/>
-        <updated>2023-09-30T12:29:08.273Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
     </entry>
 </feed>
