@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-09-30T07:16:49.181Z</updated>
+    <updated>2023-09-30T08:21:37.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“많이 삭았네요?” 낯익은 ‘얼굴’ 공감폭발…다들 ‘빵’ 터졌다]]></title>
+        <id>https://v.daum.net/v/20230930165040324</id>
+        <link href="https://v.daum.net/v/20230930165040324"/>
+        <updated>2023-09-30T08:20:50.621Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["작은 AI가 맵다" …가성비 앞세운 `프라이빗 AI`의 부상]]></title>
         <id>https://v.daum.net/v/20230930143509783</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20230930140018353"/>
         <updated>2023-09-30T05:16:33.910Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람 뺨칠 ‘인조인간’…초읽기 들어간 휴머노이드 시대]]></title>
-        <id>https://v.daum.net/v/20230930140003340</id>
-        <link href="https://v.daum.net/v/20230930140003340"/>
-        <updated>2023-09-30T05:16:33.912Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
