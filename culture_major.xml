@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-10-01T06:23:20.090Z</updated>
+    <updated>2023-10-01T07:18:01.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[불멍은 참아주세요…전기차만 들어갈 수 있는 韓 1호 캠핑장]]></title>
+        <id>https://v.daum.net/v/20231001140038697</id>
+        <link href="https://v.daum.net/v/20231001140038697"/>
+        <updated>2023-10-01T07:17:13.581Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["한복·한식 멋져요"...파리 시민과 함께한 동포들의 한가위]]></title>
         <id>https://v.daum.net/v/20231001113713074</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231001090815140"/>
         <updated>2023-10-01T05:16:27.358Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노동과 운동이 다른 이유 [오윤환의 느낌표 건강]]]></title>
-        <id>https://v.daum.net/v/20231001130803991</id>
-        <link href="https://v.daum.net/v/20231001130803991"/>
-        <updated>2023-10-01T05:16:27.360Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
     </entry>
 </feed>
