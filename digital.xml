@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-01T10:18:45.123Z</updated>
+    <updated>2023-10-01T11:14:51.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세계를 보다]현실이 된 ‘로보캅’…인권 침해 우려도]]></title>
+        <id>https://v.daum.net/v/20231001192558649</id>
+        <link href="https://v.daum.net/v/20231001192558649"/>
+        <updated>2023-10-01T11:14:10.437Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, ‘아이폰15프로’ 일부 제품 과열…해결책은?]]></title>
+        <id>https://v.daum.net/v/20231001193142693</id>
+        <link href="https://v.daum.net/v/20231001193142693"/>
+        <updated>2023-10-01T11:14:10.439Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가을 스마트폰 대전 막올라…삼성·애플·中 승부]]></title>
         <id>https://v.daum.net/v/20231001090000965</id>
         <link href="https://v.daum.net/v/20231001090000965"/>
         <updated>2023-10-01T10:18:02.660Z</updated>
         <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“정말 실화냐?” 부모·자식 '막장드라마'…가족 싸움 유명 회사, 알고보니]]></title>
-        <id>https://v.daum.net/v/20231001175203764</id>
-        <link href="https://v.daum.net/v/20231001175203764"/>
-        <updated>2023-10-01T09:16:23.329Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 디즈니가 한국에서 쏘아올린 ‘계정 공유 단속’ 신호탄]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231001160022268"/>
         <updated>2023-10-01T07:17:22.312Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도쿄전력 사이트, 한국어 오염수 공지 방치…통계수치 오류]]></title>
-        <id>https://v.daum.net/v/20231001151913853</id>
-        <link href="https://v.daum.net/v/20231001151913853"/>
-        <updated>2023-10-01T06:22:35.881Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-01T10:18:45.105Z</updated>
+    <updated>2023-10-01T11:14:51.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도쿄전력 사이트, 한국어 오염수 공지 방치…통계수치 오류]]></title>
+        <id>https://v.daum.net/v/20231001151913853</id>
+        <link href="https://v.daum.net/v/20231001151913853"/>
+        <updated>2023-10-01T11:14:18.464Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[反독점 재판 스타트 … 구글·아마존 '고난의 겨울' 온다]]></title>
         <id>https://v.daum.net/v/20231001143607136</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231001120003337"/>
         <updated>2023-10-01T05:16:44.517Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허가 받은 ‘강아지 공장’은 괜찮은 걸까?… 끊이지 않는 동물학대]]></title>
-        <id>https://v.daum.net/v/20231001111421726</id>
-        <link href="https://v.daum.net/v/20231001111421726"/>
-        <updated>2023-10-01T04:21:05.229Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
