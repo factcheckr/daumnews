@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-10-01T15:17:20.923Z</updated>
+    <updated>2023-10-01T16:22:12.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['YS 손자' 김인규, 이유 있는 부산 출마]]></title>
+        <id>https://v.daum.net/v/20231002000001351</id>
+        <link href="https://v.daum.net/v/20231002000001351"/>
+        <updated>2023-10-01T16:19:39.725Z</updated>
+        <content type="html"><![CDATA[정치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 전국 대체로 맑아‥당분간 일교차 커]]></title>
+        <id>https://v.daum.net/v/20231002002504492</id>
+        <link href="https://v.daum.net/v/20231002002504492"/>
+        <updated>2023-10-01T16:19:39.726Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영종대교 오늘부터 '반값 통행'...6,600원→3,200원]]></title>
+        <id>https://v.daum.net/v/20231002000901430</id>
+        <link href="https://v.daum.net/v/20231002000901430"/>
+        <updated>2023-10-01T16:19:39.726Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 감사원, 수사요청 보도자료 급증… “文정부 망신주기”]]></title>
         <id>https://v.daum.net/v/20231002000514414</id>
@@ -123,26 +144,5 @@
         <link href="https://v.daum.net/v/20231001210222400"/>
         <updated>2023-10-01T14:13:40.902Z</updated>
         <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연봉 상위 1%, 평균 3억1700만원 받았다]]></title>
-        <id>https://v.daum.net/v/20231001214226912</id>
-        <link href="https://v.daum.net/v/20231001214226912"/>
-        <updated>2023-10-01T14:13:40.902Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아빠 찾아 수 천 킬로미터"...외국인 선원 가족 초청]]></title>
-        <id>https://v.daum.net/v/20231001222643511</id>
-        <link href="https://v.daum.net/v/20231001222643511"/>
-        <updated>2023-10-01T14:13:40.902Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘황금알 낳는 거위’가 부활했다…항공업계, 중화 노선 집중하는 이유]]></title>
-        <id>https://v.daum.net/v/20231001220600244</id>
-        <link href="https://v.daum.net/v/20231001220600244"/>
-        <updated>2023-10-01T14:13:40.907Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
     </entry>
 </feed>

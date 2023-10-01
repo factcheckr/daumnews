@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-10-01T15:17:20.906Z</updated>
+    <updated>2023-10-01T16:22:12.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메드베데프 "러시아, 우크라이나에 영국군 교관 배치하면 공격" 경고]]></title>
+        <id>https://v.daum.net/v/20231001232448159</id>
+        <link href="https://v.daum.net/v/20231001232448159"/>
+        <updated>2023-10-01T16:20:58.109Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에르도안, 폭탄테러 직후 의회연설…"테러분자, 목표달성 못해"]]></title>
         <id>https://v.daum.net/v/20231001224717770</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231001213151730"/>
         <updated>2023-10-01T13:22:13.040Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연휴 끝나면 ‘외교의 시간’…중·러, 미·중, 한·일·중 연쇄 회담]]></title>
-        <id>https://v.daum.net/v/20231001200018898</id>
-        <link href="https://v.daum.net/v/20231001200018898"/>
-        <updated>2023-10-01T13:22:13.043Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
