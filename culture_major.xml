@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-10-01T14:16:20.534Z</updated>
+    <updated>2023-10-01T15:17:20.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[담석 있다면 담낭암 위험 높을까? 의사가 '숫자'로 보여준 확률]]></title>
+        <id>https://v.daum.net/v/20231001180035856</id>
+        <link href="https://v.daum.net/v/20231001180035856"/>
+        <updated>2023-10-01T15:16:32.486Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 2일에는 서울 '최저 12도'…일교차 큰 날씨 유의]]></title>
         <id>https://v.daum.net/v/20231001191204550</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231001174556687"/>
         <updated>2023-10-01T10:17:54.730Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["감사한 마음, 환경에도"…한가위 생활폐기물, 올바른 처리법[추석특집]]]></title>
-        <id>https://v.daum.net/v/20231001165620019</id>
-        <link href="https://v.daum.net/v/20231001165620019"/>
-        <updated>2023-10-01T10:17:54.743Z</updated>
-        <content type="html"><![CDATA[경기일보]]></content>
     </entry>
 </feed>
