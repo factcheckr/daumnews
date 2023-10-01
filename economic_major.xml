@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-10-01T18:21:55.500Z</updated>
+    <updated>2023-10-01T19:16:25.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20231002030142688"/>
         <updated>2023-10-01T18:20:40.326Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9월 무역수지 37억달러 흑자…수출 546억‧수입 509억달러 기록]]></title>
+        <id>https://v.daum.net/v/20231001230301939</id>
+        <link href="https://v.daum.net/v/20231001230301939"/>
+        <updated>2023-10-01T19:14:53.093Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연봉 상위 1%, 평균 3억1700만원 받았다]]></title>
+        <id>https://v.daum.net/v/20231001214226912</id>
+        <link href="https://v.daum.net/v/20231001214226912"/>
+        <updated>2023-10-01T19:14:53.096Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[은마만 재건축하니? 대치동 미스코리아 어디? [재건축 임장노트]]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231001212036556"/>
         <updated>2023-10-01T13:21:54.134Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘업계 14년 숙원’ 실손보험 간소화법 통과 눈앞… “가입자 편의 증진”]]></title>
-        <id>https://v.daum.net/v/20231001210218396</id>
-        <link href="https://v.daum.net/v/20231001210218396"/>
-        <updated>2023-10-01T13:21:54.134Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MZ세대 겨냥했는데...올해 전기차 주요 구매층 '뜻밖의 결과']]></title>
-        <id>https://v.daum.net/v/20231001200848959</id>
-        <link href="https://v.daum.net/v/20231001200848959"/>
-        <updated>2023-10-01T13:21:54.134Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
