@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-10-02T02:25:47.556Z</updated>
+    <updated>2023-10-02T03:19:47.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[워싱턴 성당 미사 참석 도착하는 바이든 대통령]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1471/7KKDiBnXz5</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1471/7KKDiBnXz5"/>
+        <updated>2023-10-02T03:19:18.571Z</updated>
+        <content type="html"><![CDATA[세계의 정상들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령, 노인의 날 메시지]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1682593/6A27rRmB0P</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5029621/64CSk18CfI"/>
         <updated>2023-09-30T02:23:42.031Z</updated>
         <content type="html"><![CDATA[레바논은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호'텔'에 걸터앉은 9월 보름달]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5032956/2LlTDFPlBv</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5032956/2LlTDFPlBv"/>
-        <updated>2023-09-30T02:23:42.034Z</updated>
-        <content type="html"><![CDATA[알바니아는 지금]]></content>
     </entry>
 </feed>
