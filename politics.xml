@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-10-02T15:20:57.124Z</updated>
+    <updated>2023-10-02T16:26:43.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰<상>] 이준석 "공산 전체주의가 아닌 용산 전체주의"]]></title>
+        <id>https://v.daum.net/v/20231003000016182</id>
+        <link href="https://v.daum.net/v/20231003000016182"/>
+        <updated>2023-10-02T16:24:37.712Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“미테랑도 세번 지고 네번째 됐다…당신도 한번 더 해보라”-김대중 육성 회고록〈20〉]]></title>
         <id>https://v.daum.net/v/20231003000338274</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231002220501295"/>
         <updated>2023-10-02T13:21:22.633Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정치톡톡] 정쟁 씨앗 된 영수회담 제안 / 비명계 공천 불이익 가능성은?]]></title>
-        <id>https://v.daum.net/v/20231002191857330</id>
-        <link href="https://v.daum.net/v/20231002191857330"/>
-        <updated>2023-10-02T13:21:22.634Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>

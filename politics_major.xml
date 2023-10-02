@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-10-02T15:20:57.111Z</updated>
+    <updated>2023-10-02T16:26:43.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231003000123212"/>
         <updated>2023-10-02T15:18:52.650Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정치톡톡] 정쟁 씨앗 된 영수회담 제안 / 비명계 공천 불이익 가능성은?]]></title>
+        <id>https://v.daum.net/v/20231002191857330</id>
+        <link href="https://v.daum.net/v/20231002191857330"/>
+        <updated>2023-10-02T16:24:46.459Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이준석, 강서구청장 보선 후 국힘 비대위 전환…“안 가려고 하겠지만 수도권 동요 장난 아닐 것”]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231002173918302"/>
         <updated>2023-10-02T12:33:44.626Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여랑야랑]정치권 ‘제각각 효도’ / 한동훈 장관, 첫 흠집?]]></title>
-        <id>https://v.daum.net/v/20231002194902596</id>
-        <link href="https://v.daum.net/v/20231002194902596"/>
-        <updated>2023-10-02T13:21:33.777Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
     </entry>
 </feed>
