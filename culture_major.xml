@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-10-02T13:23:57.450Z</updated>
+    <updated>2023-10-02T14:18:43.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고혈압·심뇌혈관 질환자에게 환절기는 극히 위험한 시기]]></title>
+        <id>https://v.daum.net/v/20231002203005080</id>
+        <link href="https://v.daum.net/v/20231002203005080"/>
+        <updated>2023-10-02T14:17:37.889Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인간과 AI, 예술적 사고가 만난.. “무척 디지털 콜라주한  몽상”]]></title>
         <id>https://v.daum.net/v/20231002202417013</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231002112701755"/>
         <updated>2023-10-02T10:20:14.929Z</updated>
         <content type="html"><![CDATA[키즈맘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멸종된 고대 포도, 이스라엘 DNA연구로 복원]]></title>
-        <id>https://v.daum.net/v/20231002180255567</id>
-        <link href="https://v.daum.net/v/20231002180255567"/>
-        <updated>2023-10-02T10:20:14.932Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
