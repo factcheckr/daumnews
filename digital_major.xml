@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-02T10:21:23.908Z</updated>
+    <updated>2023-10-02T11:16:43.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["정부, 통신비 절감 30GB 무료 제공 실효성 없이 생색만"]]></title>
+        <id>https://v.daum.net/v/20231002153039877</id>
+        <link href="https://v.daum.net/v/20231002153039877"/>
+        <updated>2023-10-02T11:16:06.952Z</updated>
+        <content type="html"><![CDATA[대전일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버 하이퍼클로바X 학습기준 깜깜···이전 버전은 블로그 학습 최다]]></title>
         <id>https://v.daum.net/v/20231002155612161</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231002125237730"/>
         <updated>2023-10-02T06:24:49.446Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["불법 유포 디지털 성범죄 정보 중 0.27%만 삭제돼"]]></title>
-        <id>https://v.daum.net/v/20231002112319712</id>
-        <link href="https://v.daum.net/v/20231002112319712"/>
-        <updated>2023-10-02T06:24:49.449Z</updated>
-        <content type="html"><![CDATA[대구MBC]]></content>
     </entry>
 </feed>

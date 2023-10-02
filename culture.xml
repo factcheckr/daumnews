@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-10-02T10:21:23.907Z</updated>
+    <updated>2023-10-02T11:16:43.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[가볼만한 곳]묵향 가득한 가을로...수묵비엔날레 기행]]></title>
+        <id>https://v.daum.net/v/20231002193152438</id>
+        <link href="https://v.daum.net/v/20231002193152438"/>
+        <updated>2023-10-02T11:15:35.837Z</updated>
+        <content type="html"><![CDATA[kbc광주방송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메트로폴리탄 "약탈 문화재 반환"…韓 보물도 돌려줄까]]></title>
         <id>https://v.daum.net/v/20231002182502818</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231002185207073"/>
         <updated>2023-10-02T10:20:03.072Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남도의 해양 쓰레기 '보물채집'…탑 쌓고 구슬 꿴 최정화]]></title>
-        <id>https://v.daum.net/v/20231002181701731</id>
-        <link href="https://v.daum.net/v/20231002181701731"/>
-        <updated>2023-10-02T10:20:03.074Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
