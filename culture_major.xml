@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-10-03T16:25:50.216Z</updated>
+    <updated>2023-10-03T17:18:11.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20231004000550327"/>
         <updated>2023-10-03T15:20:39.444Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[167년 만에 다시 만나는 김정희, ‘전정우 추사전’]]></title>
+        <id>https://v.daum.net/v/20231004000244253</id>
+        <link href="https://v.daum.net/v/20231004000244253"/>
+        <updated>2023-10-03T17:17:03.024Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여야 대결 보도에 치우쳐, 정치발전 모색할 기사를]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231003210015628"/>
         <updated>2023-10-03T15:20:39.461Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주름 깊은 얼굴·온화한 입매 구미호, 신화적 상상력 자극]]></title>
-        <id>https://v.daum.net/v/20231003203906425</id>
-        <link href="https://v.daum.net/v/20231003203906425"/>
-        <updated>2023-10-03T15:20:39.463Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메인뉴스</title>
-    <updated>2023-10-03T16:25:50.212Z</updated>
+    <updated>2023-10-03T17:18:11.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[협회 비리 의혹 제기 후 제명…법원 "영화촬영감독협회가 50만원 배상"]]></title>
+        <id>https://v.daum.net/v/20231004013050601</id>
+        <link href="https://v.daum.net/v/20231004013050601"/>
+        <updated>2023-10-03T17:15:09.632Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국전에 이어 우즈벡 96%?… 다음 응원 ‘여론조작’ 논란]]></title>
         <id>https://v.daum.net/v/20231004000405281</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231004000558335"/>
         <updated>2023-10-03T15:19:07.638Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘빌런’으로 불렸던 느린학습자 아이, 결국 은둔형 외톨이로]]></title>
-        <id>https://v.daum.net/v/20231004000516298</id>
-        <link href="https://v.daum.net/v/20231004000516298"/>
-        <updated>2023-10-03T15:19:07.642Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
