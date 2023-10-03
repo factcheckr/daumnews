@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-10-03T15:21:38.265Z</updated>
+    <updated>2023-10-03T16:25:50.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231004000130222"/>
         <updated>2023-10-03T15:19:58.428Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세계은행, 2024년 中 성장률 전망 4.4%로 하향]]></title>
+        <id>https://v.daum.net/v/20231003210203647</id>
+        <link href="https://v.daum.net/v/20231003210203647"/>
+        <updated>2023-10-03T16:23:51.610Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“중고장터에 추석 선물세트 팔아 생필품 사요”]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231003213342974"/>
         <updated>2023-10-03T14:17:21.892Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“전세사기 신속 대응”…공인중개사 정보 신고 의무화 추진]]></title>
-        <id>https://v.daum.net/v/20231003213225960</id>
-        <link href="https://v.daum.net/v/20231003213225960"/>
-        <updated>2023-10-03T13:22:36.347Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
