@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-03T14:18:52.299Z</updated>
+    <updated>2023-10-03T15:21:38.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추석 연휴 끝, 국감 시작…ICT 기업인 줄줄이 소환 가능성]]></title>
+        <id>https://v.daum.net/v/20231004000059212</id>
+        <link href="https://v.daum.net/v/20231004000059212"/>
+        <updated>2023-10-03T15:20:49.375Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노벨물리학상에 아고스티니, 크러우스, 륄리에…전자 움직임 찍는 ‘극초고속 촬영술’ 고안]]></title>
         <id>https://v.daum.net/v/20231003185553446</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231003210744703"/>
         <updated>2023-10-03T12:34:33.224Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전자 움직임 포착 초고속 '플래시'…반도체·의료 활용 기대]]></title>
-        <id>https://v.daum.net/v/20231003204256461</id>
-        <link href="https://v.daum.net/v/20231003204256461"/>
-        <updated>2023-10-03T12:34:33.228Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
