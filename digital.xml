@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-03T04:22:38.915Z</updated>
+    <updated>2023-10-03T05:18:39.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국 의료영상 AI 특허 ‘압도적’…한·미·일 다 합쳐도 못 넘었다]]></title>
+        <id>https://v.daum.net/v/20231003120013780</id>
+        <link href="https://v.daum.net/v/20231003120013780"/>
+        <updated>2023-10-03T05:17:45.902Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[노벨상 2023] '변방 mRNA연구' 30년 뒤인 2005년에 결실…15년 뒤 인류 구했다]]></title>
+        <id>https://v.daum.net/v/20231003133212991</id>
+        <link href="https://v.daum.net/v/20231003133212991"/>
+        <updated>2023-10-03T05:17:45.904Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“결국 이효리까지 내세웠다” 7년만에 적자 사태…급해진 카카오엔터]]></title>
         <id>https://v.daum.net/v/20231003115036641</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231003120103837"/>
         <updated>2023-10-03T03:19:30.860Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30GB 한 달 무료…“생색내기 정책, 효과 거의 없었다”]]></title>
-        <id>https://v.daum.net/v/20231003111013897</id>
-        <link href="https://v.daum.net/v/20231003111013897"/>
-        <updated>2023-10-03T03:19:30.860Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나델라 MS CEO, “구글, 검색 시장 불법 우위로 AI시장도 점령할 것”]]></title>
-        <id>https://v.daum.net/v/20231003104025367</id>
-        <link href="https://v.daum.net/v/20231003104025367"/>
-        <updated>2023-10-03T02:24:59.577Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
