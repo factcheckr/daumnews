@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-04T15:20:52.905Z</updated>
+    <updated>2023-10-04T16:27:01.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231004195404635"/>
         <updated>2023-10-04T15:20:12.612Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["재허가·재승인 제도 전면개편 안 하면 방통위 존재 무의미해질 것"]]></title>
+        <id>https://v.daum.net/v/20231004195832793</id>
+        <link href="https://v.daum.net/v/20231004195832793"/>
+        <updated>2023-10-04T16:26:27.605Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“휴대폰 고장 났다간” 오픈런에도 1시간 30분 대기, ‘숨 넘어간다’?]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231004182412251"/>
         <updated>2023-10-04T10:19:54.624Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘420g의 기적’ 초미숙아로 태어난 아이, 6개월 뒤 놀라운 일이]]></title>
-        <id>https://v.daum.net/v/20231004101211252</id>
-        <link href="https://v.daum.net/v/20231004101211252"/>
-        <updated>2023-10-04T10:19:54.627Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
