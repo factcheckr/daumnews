@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-10-05T18:25:29.679Z</updated>
+    <updated>2023-10-05T19:16:43.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['켁켁 감기주의보 '긁긁' 각질주의보 [Weekend 반려동물]]]></title>
+        <id>https://v.daum.net/v/20231006040026751</id>
+        <link href="https://v.daum.net/v/20231006040026751"/>
+        <updated>2023-10-05T19:15:32.585Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KBS이사회, 여권 추천 김종민 돌연 사의… 사장 임명제청 난항]]></title>
         <id>https://v.daum.net/v/20231006030204503</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231005222703723"/>
         <updated>2023-10-05T15:19:56.545Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘파르르’ 눈가 떨림… ‘이 증상’ 동반되면 안면마비 위험]]></title>
-        <id>https://v.daum.net/v/20231005220017392</id>
-        <link href="https://v.daum.net/v/20231005220017392"/>
-        <updated>2023-10-05T15:19:56.547Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
