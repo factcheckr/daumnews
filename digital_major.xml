@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-05T14:18:34.875Z</updated>
+    <updated>2023-10-05T15:20:57.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[생물공학자들 "합성생물학은 바이오 플랫폼…육성 바람직"]]></title>
+        <id>https://v.daum.net/v/20231005193435113</id>
+        <link href="https://v.daum.net/v/20231005193435113"/>
+        <updated>2023-10-05T15:20:18.029Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[따끈한 신상 '아이폰15', "너무 따뜻하다"...해결책은?]]></title>
         <id>https://v.daum.net/v/20231005173702435</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231005173213181"/>
         <updated>2023-10-05T10:20:32.880Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LCD TV로 돈독해진 삼성·LG…내년 패널공급 확대 추진]]></title>
-        <id>https://v.daum.net/v/20231005172013558</id>
-        <link href="https://v.daum.net/v/20231005172013558"/>
-        <updated>2023-10-05T14:17:48.430Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
