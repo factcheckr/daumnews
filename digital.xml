@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-06T19:15:32.984Z</updated>
+    <updated>2023-10-06T20:19:27.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성은 가만히 있는데…中, 갤럭시Z 또 저격 [1일IT템]]]></title>
+        <id>https://v.daum.net/v/20231007050014615</id>
+        <link href="https://v.daum.net/v/20231007050014615"/>
+        <updated>2023-10-06T20:18:47.931Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배터리 등 첨단 산업 밑거름 신소재… “시뮬레이션으로 개발비 확 줄여”[허진석의 ‘톡톡 스타트업’]]]></title>
         <id>https://v.daum.net/v/20231007014205234</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231006180902747"/>
         <updated>2023-10-06T09:19:00.470Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오리진] 1000만년 화석에서 발견한 노란색 멜라닌 색소…진화 미스터리 풀릴까]]></title>
-        <id>https://v.daum.net/v/20231006180128471</id>
-        <link href="https://v.daum.net/v/20231006180128471"/>
-        <updated>2023-10-06T09:19:00.477Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
