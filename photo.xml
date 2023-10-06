@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-10-06T18:24:16.973Z</updated>
+    <updated>2023-10-06T19:15:32.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리 학교 자랑은 ‘ㄱㄴㄷㄹ’]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1573204/3uWaZesb3c</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1573204/3uWaZesb3c"/>
+        <updated>2023-10-06T19:15:05.820Z</updated>
+        <content type="html"><![CDATA[[아무튼, 주말] 오종찬 기자의 Oh!컷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하늘과 바람과 바다와 시]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/BpWC0hUNmb</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5612596/q75h6XVsbS"/>
         <updated>2023-10-06T08:23:41.346Z</updated>
         <content type="html"><![CDATA[머니S포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소방헬기 점검하는 남화영 소방청장]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/386/7VKZQ54Iu8</id>
-        <link href="https://gallery.v.daum.net/p/viewer/386/7VKZQ54Iu8"/>
-        <updated>2023-10-06T08:23:41.349Z</updated>
-        <content type="html"><![CDATA[소방본부 제공 포토]]></content>
     </entry>
 </feed>
