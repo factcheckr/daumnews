@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-10-06T14:21:09.721Z</updated>
+    <updated>2023-10-06T15:22:41.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이슈 산적' 산업부 국감, 친원전·한전 적자·수출 부진 등 '공방' 예고]]></title>
+        <id>https://v.daum.net/v/20231007000154742</id>
+        <link href="https://v.daum.net/v/20231007000154742"/>
+        <updated>2023-10-06T15:21:07.339Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지붕 뚫은 美일자리 금리인상 힘 받는다]]></title>
         <id>https://v.daum.net/v/20231006230000241</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231006220548662"/>
         <updated>2023-10-06T13:22:15.482Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감귤 열과 피해 컸는데…재해보험 실효성 논란]]></title>
-        <id>https://v.daum.net/v/20231006215440444</id>
-        <link href="https://v.daum.net/v/20231006215440444"/>
-        <updated>2023-10-06T13:22:15.484Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
