@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-06T16:24:23.069Z</updated>
+    <updated>2023-10-06T17:17:08.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배터리 등 첨단 산업 밑거름 신소재… “시뮬레이션으로 개발비 확 줄여”[허진석의 ‘톡톡 스타트업’]]]></title>
+        <id>https://v.daum.net/v/20231007014205234</id>
+        <link href="https://v.daum.net/v/20231007014205234"/>
+        <updated>2023-10-06T17:16:31.356Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경북 자체 생성형 AI ‘챗경북’, 반 년만에 활용도 ‘뚝’]]></title>
         <id>https://v.daum.net/v/20231006214400309</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231006180128471"/>
         <updated>2023-10-06T09:19:00.477Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]'AI 사령탑' 된 카카오브레인, 공동체 최대 연구조직 품었다]]></title>
-        <id>https://v.daum.net/v/20231006173053410</id>
-        <link href="https://v.daum.net/v/20231006173053410"/>
-        <updated>2023-10-06T09:19:00.477Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>

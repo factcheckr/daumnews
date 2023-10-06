@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-10-06T16:24:23.061Z</updated>
+    <updated>2023-10-06T17:17:08.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이재명 '법카 유용' 정황 알았을 것"…권익위, 검찰에 이첩]]></title>
+        <id>https://v.daum.net/v/20231006231307360</id>
+        <link href="https://v.daum.net/v/20231006231307360"/>
+        <updated>2023-10-06T17:15:36.487Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박 대령 측 "군 검찰의 무리한 기소, 결국 국방부 발목 잡을 것"]]></title>
         <id>https://v.daum.net/v/20231006225102193</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231006211823962"/>
         <updated>2023-10-06T13:22:04.827Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹 “비행학생, 전국 학교 처벌 같아야”…학교경찰 확대 언급도]]></title>
-        <id>https://v.daum.net/v/20231006211800950</id>
-        <link href="https://v.daum.net/v/20231006211800950"/>
-        <updated>2023-10-06T13:22:04.833Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
