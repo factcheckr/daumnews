@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-10-06T17:17:08.455Z</updated>
+    <updated>2023-10-06T18:24:16.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하늘과 바람과 바다와 시]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/BpWC0hUNmb</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/BpWC0hUNmb"/>
+        <updated>2023-10-06T18:23:47.929Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[막 오른 단양온달문화축제…볼거리·즐길거리 '풍성']]></title>
         <id>https://gallery.v.daum.net/p/viewer/1137876/QtiITjWQVG</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/386/7VKZQ54Iu8"/>
         <updated>2023-10-06T08:23:41.349Z</updated>
         <content type="html"><![CDATA[소방본부 제공 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어머니의 눈에서 아들의 눈으로 슬픔이 흘러내렸다[금주의 B컷]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/243854/pYiftEXeCl</id>
-        <link href="https://gallery.v.daum.net/p/viewer/243854/pYiftEXeCl"/>
-        <updated>2023-10-06T08:23:41.351Z</updated>
-        <content type="html"><![CDATA[금주의 B컷]]></content>
     </entry>
 </feed>
