@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-06T11:17:44.294Z</updated>
+    <updated>2023-10-06T12:35:19.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI성능 15배로 … 삼성 모바일AP 부활 시동]]></title>
-        <id>https://v.daum.net/v/20231006173627656</id>
-        <link href="https://v.daum.net/v/20231006173627656"/>
-        <updated>2023-10-06T10:20:28.393Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독]'AI 사령탑' 된 카카오브레인, 공동체 최대 연구조직 품었다]]></title>
         <id>https://v.daum.net/v/20231006173053410</id>
         <link href="https://v.daum.net/v/20231006173053410"/>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20231006171212822"/>
         <updated>2023-10-06T08:23:20.689Z</updated>
         <content type="html"><![CDATA[게임동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘신고가 대비 반토막’ 엔씨소프트, 생존 행보 돌입]]></title>
+        <id>https://v.daum.net/v/20231006165502120</id>
+        <link href="https://v.daum.net/v/20231006165502120"/>
+        <updated>2023-10-06T12:34:40.518Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
