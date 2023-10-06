@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-06T09:20:01.126Z</updated>
+    <updated>2023-10-06T10:21:27.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["너무 고통스러워"…비싼 가격에도 '백신' 접종 몰리는 병 [이지현 기자의 생생헬스]]]></title>
+        <title type="html"><![CDATA['쥐꼬리 벌금'에 도 넘은 통신사 스팸 '돈벌이']]></title>
+        <id>https://v.daum.net/v/20231006182218284</id>
+        <link href="https://v.daum.net/v/20231006182218284"/>
+        <updated>2023-10-06T10:20:28.377Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["너무나 고통스러운 병"…비싼 가격에도 '백신' 접종 몰려]]></title>
         <id>https://v.daum.net/v/20231006180902747</id>
         <link href="https://v.daum.net/v/20231006180902747"/>
         <updated>2023-10-06T09:19:00.470Z</updated>
@@ -18,6 +25,13 @@
         <link href="https://v.daum.net/v/20231006180128471"/>
         <updated>2023-10-06T09:19:00.477Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI성능 15배로 … 삼성 모바일AP 부활 시동]]></title>
+        <id>https://v.daum.net/v/20231006173627656</id>
+        <link href="https://v.daum.net/v/20231006173627656"/>
+        <updated>2023-10-06T10:20:28.393Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]'AI 사령탑' 된 카카오브레인, 공동체 최대 연구조직 품었다]]></title>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231006171212822"/>
         <updated>2023-10-06T08:23:20.689Z</updated>
         <content type="html"><![CDATA[게임동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔씨소프트, 영업이익 71% 뚝↓…‘또 리니지’ 조롱 넘어설까]]></title>
-        <id>https://v.daum.net/v/20231006165502120</id>
-        <link href="https://v.daum.net/v/20231006165502120"/>
-        <updated>2023-10-06T08:23:20.696Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아이폰15’ 이어 티타늄 확대?…‘갤럭시S24’ 전 모델 적용하나]]></title>
-        <id>https://v.daum.net/v/20231006164737831</id>
-        <link href="https://v.daum.net/v/20231006164737831"/>
-        <updated>2023-10-06T08:23:20.697Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
