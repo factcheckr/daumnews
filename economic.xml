@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-10-06T15:22:41.181Z</updated>
+    <updated>2023-10-06T16:24:23.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[은행채 발행 늘고 부동산 PF 부실 여전…또 돈맥경화 우려]]></title>
+        <id>https://v.daum.net/v/20231007004034001</id>
+        <link href="https://v.daum.net/v/20231007004034001"/>
+        <updated>2023-10-06T16:22:52.267Z</updated>
+        <content type="html"><![CDATA[중앙SUNDAY]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이슈 산적' 산업부 국감, 친원전·한전 적자·수출 부진 등 '공방' 예고]]></title>
         <id>https://v.daum.net/v/20231007000154742</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231006221334830"/>
         <updated>2023-10-06T13:22:15.479Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["반려동물이 통증 호소하면 요관결석 의심…물 많이 급여해야"]]></title>
-        <id>https://v.daum.net/v/20231006220548662</id>
-        <link href="https://v.daum.net/v/20231006220548662"/>
-        <updated>2023-10-06T13:22:15.482Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
