@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-06T20:19:27.181Z</updated>
+    <updated>2023-10-06T21:18:46.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사이테크+] 1천만년 전 개구리 진짜 색깔은?…"화석에서 피부 색소 발견"]]></title>
+        <id>https://v.daum.net/v/20231007060013924</id>
+        <link href="https://v.daum.net/v/20231007060013924"/>
+        <updated>2023-10-06T21:18:06.382Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성은 가만히 있는데…中, 갤럭시Z 또 저격 [1일IT템]]]></title>
         <id>https://v.daum.net/v/20231007050014615</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231006182218284"/>
         <updated>2023-10-06T10:20:28.377Z</updated>
         <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["너무나 고통스러운 병"…비싼 가격에도 '백신' 접종 몰려]]></title>
-        <id>https://v.daum.net/v/20231006180902747</id>
-        <link href="https://v.daum.net/v/20231006180902747"/>
-        <updated>2023-10-06T09:19:00.470Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>

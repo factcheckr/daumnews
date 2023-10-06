@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-06T20:19:27.189Z</updated>
+    <updated>2023-10-06T21:18:46.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["너무나 고통스러운 병"…비싼 가격에도 '백신' 접종 몰려]]></title>
+        <id>https://v.daum.net/v/20231006180902747</id>
+        <link href="https://v.daum.net/v/20231006180902747"/>
+        <updated>2023-10-06T21:18:14.370Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오리진] 1000만년 화석에서 발견한 노란색 멜라닌 색소…진화 미스터리 풀릴까]]></title>
         <id>https://v.daum.net/v/20231006180128471</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231006111422719"/>
         <updated>2023-10-06T08:23:32.200Z</updated>
         <content type="html"><![CDATA[더스쿠프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공유숙박업소 탈세 논란…에어비앤비 "사실 아냐"]]></title>
-        <id>https://v.daum.net/v/20231006155920980</id>
-        <link href="https://v.daum.net/v/20231006155920980"/>
-        <updated>2023-10-06T08:23:32.200Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
