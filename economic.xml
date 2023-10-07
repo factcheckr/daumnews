@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-10-07T08:23:05.241Z</updated>
+    <updated>2023-10-07T09:17:29.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[77억 들였지만 ‘재설계’ 지산IC…설계 부적정 확인]]></title>
+        <id>https://v.daum.net/v/20231007180450731</id>
+        <link href="https://v.daum.net/v/20231007180450731"/>
+        <updated>2023-10-07T09:15:37.297Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한일전·불꽃축제 앞두고 '치킨 전쟁'…"아시안게임 이후 주문량 30%↑"]]></title>
         <id>https://v.daum.net/v/20231007170927774</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231007141602431"/>
         <updated>2023-10-07T06:21:38.290Z</updated>
         <content type="html"><![CDATA[JIBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['상위 1%' 가수 연소득 평균 38억원…쏠림 심해]]></title>
-        <id>https://v.daum.net/v/20231007133443826</id>
-        <link href="https://v.daum.net/v/20231007133443826"/>
-        <updated>2023-10-07T06:21:38.290Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
