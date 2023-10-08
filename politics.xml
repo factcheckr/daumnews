@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-10-08T16:22:47.861Z</updated>
+    <updated>2023-10-08T17:16:41.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[검찰의 빗나간 소명의식… 이재명 혐의 소명하지 못했다]]></title>
+        <id>https://v.daum.net/v/20231009013802888</id>
+        <link href="https://v.daum.net/v/20231009013802888"/>
+        <updated>2023-10-08T17:14:20.352Z</updated>
+        <content type="html"><![CDATA[한겨레21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與 친윤·비윤-野 친명·비명… 총선, 계파갈등 극복에 달렸다]]></title>
         <id>https://v.daum.net/v/20231009000613641</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231009000003538"/>
         <updated>2023-10-08T15:16:18.761Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문제는 경제야, 바보야! [편집인의 원픽]]]></title>
-        <id>https://v.daum.net/v/20231008230207258</id>
-        <link href="https://v.daum.net/v/20231008230207258"/>
-        <updated>2023-10-08T14:13:53.059Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>

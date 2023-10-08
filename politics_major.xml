@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-10-08T16:22:47.777Z</updated>
+    <updated>2023-10-08T17:16:41.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문제는 경제야, 바보야! [편집인의 원픽]]]></title>
+        <id>https://v.daum.net/v/20231008230207258</id>
+        <link href="https://v.daum.net/v/20231008230207258"/>
+        <updated>2023-10-08T17:14:31.491Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[역대급 사전투표율…야 “정부심판론 먹혀” 여 “열어봐야 안다”]]></title>
         <id>https://v.daum.net/v/20231008212559115</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231008200110020"/>
         <updated>2023-10-08T12:34:37.036Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국힘 “보수 결집 열기” vs 민주 “정권 심판 민심”]]></title>
-        <id>https://v.daum.net/v/20231008194752856</id>
-        <link href="https://v.daum.net/v/20231008194752856"/>
-        <updated>2023-10-08T12:34:37.036Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
     </entry>
 </feed>
