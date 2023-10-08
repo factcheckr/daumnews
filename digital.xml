@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-08T20:19:39.564Z</updated>
+    <updated>2023-10-08T21:17:02.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩플] 자체 AI모델 개발 나선 MS “오픈AI는 친구이자 경쟁자”]]></title>
+        <id>https://v.daum.net/v/20231009060031932</id>
+        <link href="https://v.daum.net/v/20231009060031932"/>
+        <updated>2023-10-08T21:16:03.132Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["지난해 이동통신 불공정행위 신고, 전년 대비 19％ 증가"]]></title>
+        <id>https://v.daum.net/v/20231009060025911</id>
+        <link href="https://v.daum.net/v/20231009060025911"/>
+        <updated>2023-10-08T21:16:03.136Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[86세도 데이팅앱 깔았다…"50세 이상만 가입" 중년들 몰린 곳]]></title>
         <id>https://v.daum.net/v/20231009050030518</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231008180601694"/>
         <updated>2023-10-08T10:17:26.166Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이번엔 질 수 없다" 구글의 반격…'비밀 병기' 내놓는다]]></title>
-        <id>https://v.daum.net/v/20231008180702702</id>
-        <link href="https://v.daum.net/v/20231008180702702"/>
-        <updated>2023-10-08T10:17:26.170Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“250만원짜리 아이폰 적정금액? 80만원!” 애들 등살에…허리 휜다]]></title>
-        <id>https://v.daum.net/v/20231008175101460</id>
-        <link href="https://v.daum.net/v/20231008175101460"/>
-        <updated>2023-10-08T10:17:26.173Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
