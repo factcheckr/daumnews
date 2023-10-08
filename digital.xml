@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-08T12:36:34.521Z</updated>
+    <updated>2023-10-08T13:19:36.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고개 든 D램값, 메모리반도체 겨울 끝나나]]></title>
+        <id>https://v.daum.net/v/20231008215620504</id>
+        <link href="https://v.daum.net/v/20231008215620504"/>
+        <updated>2023-10-08T13:18:57.455Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["韓, AI 경쟁력 10위권…제조업 강점 살려 산업용 모델 키워야"]]></title>
         <id>https://v.daum.net/v/20231008180601694</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231008165813676"/>
         <updated>2023-10-08T08:21:20.062Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“커피 한잔 시켜놓고 뭐하나 했더니” 전기자전거에 전동스쿠터 충전까지?]]></title>
-        <id>https://v.daum.net/v/20231008155100909</id>
-        <link href="https://v.daum.net/v/20231008155100909"/>
-        <updated>2023-10-08T07:16:00.897Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
