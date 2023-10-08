@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-08T21:17:02.634Z</updated>
+    <updated>2023-10-08T22:17:35.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티맵 "올해 추석 당일 사용자, 하루 기준 역대 최다"]]></title>
+        <id>https://v.daum.net/v/20231009070126415</id>
+        <link href="https://v.daum.net/v/20231009070126415"/>
+        <updated>2023-10-08T22:16:41.868Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["딥페이크 음란물 심의 9천 건 넘는데…삭제는 5％도 안 돼"]]></title>
+        <id>https://v.daum.net/v/20231009070107389</id>
+        <link href="https://v.daum.net/v/20231009070107389"/>
+        <updated>2023-10-08T22:16:41.877Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘AI칩 품귀’에 빅테크 자체 개발 열풍… “오픈AI도 참전 가능성”]]></title>
+        <id>https://v.daum.net/v/20231009061711103</id>
+        <link href="https://v.daum.net/v/20231009061711103"/>
+        <updated>2023-10-08T22:16:41.880Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩플] 자체 AI모델 개발 나선 MS “오픈AI는 친구이자 경쟁자”]]></title>
         <id>https://v.daum.net/v/20231009060031932</id>
@@ -25,26 +46,5 @@
         <link href="https://v.daum.net/v/20231009050030518"/>
         <updated>2023-10-08T20:18:38.281Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["더 떨어져도 감흥 없어"...카카오 주주들, '체념']]></title>
-        <id>https://v.daum.net/v/20231009050009498</id>
-        <link href="https://v.daum.net/v/20231009050009498"/>
-        <updated>2023-10-08T20:18:38.283Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고개 든 D램값, 메모리반도체 겨울 끝나나]]></title>
-        <id>https://v.daum.net/v/20231008215620504</id>
-        <link href="https://v.daum.net/v/20231008215620504"/>
-        <updated>2023-10-08T13:18:57.455Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["韓, AI 경쟁력 10위권…제조업 강점 살려 산업용 모델 키워야"]]></title>
-        <id>https://v.daum.net/v/20231008180601694</id>
-        <link href="https://v.daum.net/v/20231008180601694"/>
-        <updated>2023-10-08T10:17:26.166Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
