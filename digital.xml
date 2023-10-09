@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-09T07:18:51.799Z</updated>
+    <updated>2023-10-09T08:25:11.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[한국 금메달에 중국팬 환호…국경 없는 '리그 오브 레전드']]></title>
+        <title type="html"><![CDATA["방통위, 해외 플랫폼 현장 점검' 0건…관리 강화해야"]]></title>
+        <id>https://v.daum.net/v/20231009171148749</id>
+        <link href="https://v.daum.net/v/20231009171148749"/>
+        <updated>2023-10-09T08:24:26.969Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["페이커 보려고 몸싸움"…한국 금메달에 중국팬 환호한 이유]]></title>
         <id>https://v.daum.net/v/20231009160902607</id>
         <link href="https://v.daum.net/v/20231009160902607"/>
         <updated>2023-10-09T07:17:55.565Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231009155035218"/>
         <updated>2023-10-09T07:17:55.574Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지각판 경계에 있는 아프간, 강진으로 10년간 7000명 넘게 숨졌다]]></title>
-        <id>https://v.daum.net/v/20231009152217756</id>
-        <link href="https://v.daum.net/v/20231009152217756"/>
-        <updated>2023-10-09T07:17:55.577Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
