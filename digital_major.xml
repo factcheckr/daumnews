@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-09T12:38:07.001Z</updated>
+    <updated>2023-10-09T13:24:53.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방통위, 구글·애플에 과징금… 실효성 논란]]></title>
+        <id>https://v.daum.net/v/20231009190105609</id>
+        <link href="https://v.daum.net/v/20231009190105609"/>
+        <updated>2023-10-09T13:24:15.706Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“신기하긴한데…100만원에 누가 사?” 속이 보이는 투명폰, 결국 폭망?]]></title>
         <id>https://v.daum.net/v/20231009185121441</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231009160105411"/>
         <updated>2023-10-09T10:21:44.565Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["범죄도시는 잊어라"… 첨단도시로 거듭난 디트로이트]]></title>
-        <id>https://v.daum.net/v/20231009155713320</id>
-        <link href="https://v.daum.net/v/20231009155713320"/>
-        <updated>2023-10-09T09:20:21.295Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>

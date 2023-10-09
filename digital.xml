@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-09T12:38:07.064Z</updated>
+    <updated>2023-10-09T13:24:53.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아리랑 6호·중형위성 2호, 러와 발사계약 해제 마무리 단계]]></title>
+        <id>https://v.daum.net/v/20231009213808111</id>
+        <link href="https://v.daum.net/v/20231009213808111"/>
+        <updated>2023-10-09T13:24:07.630Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리 몸의 집사 ‘피에조2’ 유전자, 성기능·감각도 관장한다[신경과학 저널클럽]]]></title>
         <id>https://v.daum.net/v/20231009204355684</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231009200001277"/>
         <updated>2023-10-09T11:17:01.852Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방통위, 구글·애플에 과징금… 실효성 논란]]></title>
-        <id>https://v.daum.net/v/20231009190105609</id>
-        <link href="https://v.daum.net/v/20231009190105609"/>
-        <updated>2023-10-09T10:21:33.695Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
