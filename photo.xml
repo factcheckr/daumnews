@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-10-09T17:18:52.718Z</updated>
+    <updated>2023-10-09T18:24:29.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아늑한 우리 집]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/5lnZ5xmBEo</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/5lnZ5xmBEo"/>
+        <updated>2023-10-09T18:23:55.132Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[축제처럼 즐기는 팝업스토어[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/Z8DIdSqkht</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/8034/Z40J62j3yh"/>
         <updated>2023-10-09T03:20:28.923Z</updated>
         <content type="html"><![CDATA[렌즈로 본 세상]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한, 황해남도 배천군 역구도농장에서 결산분배 진행]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1489/PN4hls0g7n</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1489/PN4hls0g7n"/>
-        <updated>2023-10-08T22:17:01.275Z</updated>
-        <content type="html"><![CDATA[북한은 지금]]></content>
     </entry>
 </feed>
