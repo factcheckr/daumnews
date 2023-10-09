@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-10-09T14:19:29.968Z</updated>
+    <updated>2023-10-09T15:22:03.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엘르보이스] 똥개 언니의 편지]]></title>
+        <id>https://v.daum.net/v/20231010000624109</id>
+        <link href="https://v.daum.net/v/20231010000624109"/>
+        <updated>2023-10-09T15:20:49.225Z</updated>
+        <content type="html"><![CDATA[엘르]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소멸 위기 ‘제주어’…국내 첫 ‘지역어 박물관’ 건립될까]]></title>
         <id>https://v.daum.net/v/20231009222047410</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231009210521836"/>
         <updated>2023-10-09T12:36:46.243Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강아지는 '코로 주인 찾아'‥지자체 서비스 시작]]></title>
-        <id>https://v.daum.net/v/20231009203712639</id>
-        <link href="https://v.daum.net/v/20231009203712639"/>
-        <updated>2023-10-09T12:36:46.245Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
