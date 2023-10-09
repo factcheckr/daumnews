@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-09T08:25:11.847Z</updated>
+    <updated>2023-10-09T09:20:53.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성·SK하이닉스, 中공장 ‘최악’ 시나리오는 피했다…“최신 공정 적용은 불가”]]></title>
+        <id>https://v.daum.net/v/20231009173731331</id>
+        <link href="https://v.daum.net/v/20231009173731331"/>
+        <updated>2023-10-09T09:20:13.775Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘불의 고리’ 금환일식, 이번 주 아메리카 대륙에 등장한다]]></title>
+        <id>https://v.daum.net/v/20231009173545285</id>
+        <link href="https://v.daum.net/v/20231009173545285"/>
+        <updated>2023-10-09T09:20:13.783Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["방통위, 해외 플랫폼 현장 점검' 0건…관리 강화해야"]]></title>
         <id>https://v.daum.net/v/20231009171148749</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["페이커 보려고 몸싸움"…한국 금메달에 중국팬 환호한 이유]]></title>
+        <title type="html"><![CDATA[한국 금메달에 중국팬 환호…국경 없는 '리그 오브 레전드']]></title>
         <id>https://v.daum.net/v/20231009160902607</id>
         <link href="https://v.daum.net/v/20231009160902607"/>
         <updated>2023-10-09T07:17:55.565Z</updated>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231009160105411"/>
         <updated>2023-10-09T07:17:55.573Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["범죄도시는 잊어라"… 첨단도시로 거듭난 디트로이트]]></title>
-        <id>https://v.daum.net/v/20231009155713320</id>
-        <link href="https://v.daum.net/v/20231009155713320"/>
-        <updated>2023-10-09T07:17:55.574Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["소송은 20건, 예산은 2억"…빅테크 상대 힘부치는 개보위]]></title>
-        <id>https://v.daum.net/v/20231009155035218</id>
-        <link href="https://v.daum.net/v/20231009155035218"/>
-        <updated>2023-10-09T07:17:55.574Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
