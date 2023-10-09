@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-10-09T19:16:25.643Z</updated>
+    <updated>2023-10-09T20:19:30.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美서 친이스라엘-친팔레스타인 집회 열려]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1476/FzN7LCujsW</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1476/FzN7LCujsW"/>
+        <updated>2023-10-09T20:18:54.970Z</updated>
+        <content type="html"><![CDATA[미국은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아늑한 우리 집]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/5lnZ5xmBEo</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5029626/bKaVvwtn23"/>
         <updated>2023-10-09T05:18:24.266Z</updated>
         <content type="html"><![CDATA[캐나다는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명절에 자라난 ‘하얀 스티로폼산’[렌즈로 본 세상]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/8034/Z40J62j3yh</id>
-        <link href="https://gallery.v.daum.net/p/viewer/8034/Z40J62j3yh"/>
-        <updated>2023-10-09T03:20:28.923Z</updated>
-        <content type="html"><![CDATA[렌즈로 본 세상]]></content>
     </entry>
 </feed>
