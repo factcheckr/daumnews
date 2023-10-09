@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-10-09T15:22:03.064Z</updated>
+    <updated>2023-10-09T16:25:01.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["美, 러시아산 원유 제재 집행 강화"…위반 의혹 업체 조사중]]></title>
+        <id>https://v.daum.net/v/20231010002925216</id>
+        <link href="https://v.daum.net/v/20231010002925216"/>
+        <updated>2023-10-09T16:22:48.371Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[체험기] 고성능 전기차, 어떤 타이어를 써야 할까?]]></title>
         <id>https://v.daum.net/v/20231010000203972</id>
@@ -38,13 +45,6 @@
         <id>https://v.daum.net/v/20231009223946565</id>
         <link href="https://v.daum.net/v/20231009223946565"/>
         <updated>2023-10-09T14:17:44.556Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지방소멸대응기금 가장 많이 받고도…집행률 0%대]]></title>
-        <id>https://v.daum.net/v/20231009223254509</id>
-        <link href="https://v.daum.net/v/20231009223254509"/>
-        <updated>2023-10-09T14:17:44.558Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-10-09T15:22:03.128Z</updated>
+    <updated>2023-10-09T16:25:01.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20231010000535065"/>
         <updated>2023-10-09T15:21:00.451Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 중부 밤 한때 요란한 비‥출근길 맑고 쌀쌀 서울 13도]]></title>
+        <id>https://v.daum.net/v/20231009211013913</id>
+        <link href="https://v.daum.net/v/20231009211013913"/>
+        <updated>2023-10-09T16:23:49.827Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘취포세대’ 높은 스트레스, 안면 근육 마비로]]></title>
+        <id>https://v.daum.net/v/20231009210521836</id>
+        <link href="https://v.daum.net/v/20231009210521836"/>
+        <updated>2023-10-09T16:23:49.829Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[강아지는 '코로 주인 찾아'‥지자체 서비스 시작]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231009173155214"/>
         <updated>2023-10-09T12:36:57.310Z</updated>
         <content type="html"><![CDATA[경기일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피아노 셰프의 인생 철학…“너무도 슬픈 인터미션” [고승희의 리와인드]]]></title>
-        <id>https://v.daum.net/v/20231009185231463</id>
-        <link href="https://v.daum.net/v/20231009185231463"/>
-        <updated>2023-10-09T12:36:57.310Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["두통 나타날 조짐 보이면 빨리 '예방약' 먹는 게 좋아"]]></title>
-        <id>https://v.daum.net/v/20231009185004413</id>
-        <link href="https://v.daum.net/v/20231009185004413"/>
-        <updated>2023-10-09T11:16:51.296Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
