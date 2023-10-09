@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-10-09T18:24:29.651Z</updated>
+    <updated>2023-10-09T19:16:25.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20231010000535065"/>
         <updated>2023-10-09T15:21:00.451Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소멸 위기 ‘제주어’…국내 첫 ‘지역어 박물관’ 건립될까]]></title>
+        <id>https://v.daum.net/v/20231009222047410</id>
+        <link href="https://v.daum.net/v/20231009222047410"/>
+        <updated>2023-10-09T19:15:14.738Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당뇨 합병증 위험 높이는 ‘의외의’ 습관]]></title>
+        <id>https://v.daum.net/v/20231009220014272</id>
+        <link href="https://v.daum.net/v/20231009220014272"/>
+        <updated>2023-10-09T19:15:14.740Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[30살 전 신장 망가져…10대 당뇨 합병증들은?]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231009190102606"/>
         <updated>2023-10-09T12:36:57.309Z</updated>
         <content type="html"><![CDATA[키즈맘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남녀 소득격차 원인 분석... 노벨 경제학상에 골딘 하버드대 교수]]></title>
-        <id>https://v.daum.net/v/20231009184905392</id>
-        <link href="https://v.daum.net/v/20231009184905392"/>
-        <updated>2023-10-09T12:36:57.310Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“잠든 형제에게 바칩니다” 튀르키예 군악대 부산유엔공원서 연주]]></title>
-        <id>https://v.daum.net/v/20231009173839346</id>
-        <link href="https://v.daum.net/v/20231009173839346"/>
-        <updated>2023-10-09T12:36:57.310Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
     </entry>
 </feed>
