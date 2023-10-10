@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-10T18:25:11.377Z</updated>
+    <updated>2023-10-10T19:16:53.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231010215130199"/>
         <updated>2023-10-10T13:22:53.776Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“北 해커가 선관위 내부망 침투해 투개표 결과 조작까지 가능”]]></title>
+        <id>https://v.daum.net/v/20231010191556289</id>
+        <link href="https://v.daum.net/v/20231010191556289"/>
+        <updated>2023-10-10T19:16:12.960Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“시료 못 사서 연구 못할 수도…” R&D 예산 삭감에 한숨 깊어진 대학생들]]></title>
@@ -46,13 +53,6 @@
         <link href="https://v.daum.net/v/20231010173041371"/>
         <updated>2023-10-10T13:22:53.780Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개표결과까지 뒤집혀···해킹 테스트에 뻥 뚫린 선관위]]></title>
-        <id>https://v.daum.net/v/20231010173806704</id>
-        <link href="https://v.daum.net/v/20231010173806704"/>
-        <updated>2023-10-10T09:18:46.741Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["알고리즘 투명성 확보, 네카오만 말고 구글·유튜브도 해야"]]></title>
