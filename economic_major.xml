@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-10-10T16:25:55.852Z</updated>
+    <updated>2023-10-10T17:18:31.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20231011000249875"/>
         <updated>2023-10-10T15:18:55.397Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘악마의 오줌’ 같은 이 커피로 엄청난 돈을 벌 거예요]]></title>
+        <id>https://v.daum.net/v/20231010233802586</id>
+        <link href="https://v.daum.net/v/20231010233802586"/>
+        <updated>2023-10-10T17:16:41.282Z</updated>
+        <content type="html"><![CDATA[한겨레21]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["우윳값 너무 비싼데 어떡하죠"…초등학생 엄마의 '한숨']]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231010214122030"/>
         <updated>2023-10-10T14:17:12.493Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대형마트 새벽배송이 휴식권 침해?… “1803명 신규 고용 창출”]]></title>
-        <id>https://v.daum.net/v/20231010214103024</id>
-        <link href="https://v.daum.net/v/20231010214103024"/>
-        <updated>2023-10-10T14:17:12.497Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>

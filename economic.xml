@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-10-10T16:25:55.845Z</updated>
+    <updated>2023-10-10T17:18:31.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이스라엘 전쟁에도 유가 하락..."이전 중동전과 달라"]]></title>
+        <id>https://v.daum.net/v/20231011020318422</id>
+        <link href="https://v.daum.net/v/20231011020318422"/>
+        <updated>2023-10-10T17:16:30.416Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IMF, 올해 브라질 경제성장률 전망치 3.1%로 1%포인트 상향조정]]></title>
         <id>https://v.daum.net/v/20231011002941161</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231010234500637"/>
         <updated>2023-10-10T15:18:45.172Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘악마의 오줌’ 같은 이 커피로 엄청난 돈을 벌 거예요]]></title>
-        <id>https://v.daum.net/v/20231010233802586</id>
-        <link href="https://v.daum.net/v/20231010233802586"/>
-        <updated>2023-10-10T15:18:45.175Z</updated>
-        <content type="html"><![CDATA[한겨레21]]></content>
     </entry>
 </feed>
