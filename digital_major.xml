@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-10T13:23:34.392Z</updated>
+    <updated>2023-10-10T14:18:42.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231010215130199"/>
         <updated>2023-10-10T13:22:53.776Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유니티 CEO 9년 만에 사임…런타임 요금제 후폭풍?]]></title>
+        <id>https://v.daum.net/v/20231010183819140</id>
+        <link href="https://v.daum.net/v/20231010183819140"/>
+        <updated>2023-10-10T14:18:07.644Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[13일 KBS 임시이사회…사장 임명제청 가능성(종합)]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231010170258204"/>
         <updated>2023-10-10T09:18:46.749Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["숫자만 바뀐 거 같은데"… 아이폰15 구매 고민하는 소비자들]]></title>
-        <id>https://v.daum.net/v/20231010165810945</id>
-        <link href="https://v.daum.net/v/20231010165810945"/>
-        <updated>2023-10-10T09:18:46.750Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>

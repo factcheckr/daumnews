@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-10-10T13:23:34.403Z</updated>
+    <updated>2023-10-10T14:18:42.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[생각이 많아서 잠도 못 자는 나, 정신적 과잉 활동 상태라고?]]></title>
+        <id>https://v.daum.net/v/20231010210016337</id>
+        <link href="https://v.daum.net/v/20231010210016337"/>
+        <updated>2023-10-10T14:17:49.072Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마스크 벗자 결핵 감염 큰 폭 증가..환자 10명 중 6명은 노년층]]></title>
+        <id>https://v.daum.net/v/20231010205736300</id>
+        <link href="https://v.daum.net/v/20231010205736300"/>
+        <updated>2023-10-10T14:17:49.073Z</updated>
+        <content type="html"><![CDATA[CJB청주방송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[충주국가정원예정지 코스모스 만발...축구장 5개 넓이 꽃밭 장관]]></title>
         <id>https://v.daum.net/v/20231010210034344</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231010195452191"/>
         <updated>2023-10-10T12:34:41.340Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“한글로 테트리스하는 기분” 한글로 그린 동식물만 400편… ‘우리말 사랑꾼’ 선정]]></title>
-        <id>https://v.daum.net/v/20231010182342602</id>
-        <link href="https://v.daum.net/v/20231010182342602"/>
-        <updated>2023-10-10T12:34:41.340Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중증 우울증 환자 43만명 시대… 약만큼 좋은 우울증 극복법]]></title>
-        <id>https://v.daum.net/v/20231010190015795</id>
-        <link href="https://v.daum.net/v/20231010190015795"/>
-        <updated>2023-10-10T12:34:41.340Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
