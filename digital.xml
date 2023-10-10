@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-10T17:18:31.164Z</updated>
+    <updated>2023-10-10T18:25:11.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반도체, 이젠 쌓고 자르고 연결하는 ‘패키징’이다]]></title>
+        <id>https://v.daum.net/v/20231011030228613</id>
+        <link href="https://v.daum.net/v/20231011030228613"/>
+        <updated>2023-10-10T18:24:14.139Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계 탄소배출량의 20% 뿜어내는 제조업…'녹색 혁명' 나섰다]]></title>
         <id>https://v.daum.net/v/20231010181804407</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231010191556289"/>
         <updated>2023-10-10T12:34:50.304Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“시료 못 사서 연구 못할 수도…” R&D 예산 삭감에 한숨 깊어진 대학생들]]></title>
-        <id>https://v.daum.net/v/20231010210046347</id>
-        <link href="https://v.daum.net/v/20231010210046347"/>
-        <updated>2023-10-10T12:34:50.306Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
