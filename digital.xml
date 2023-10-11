@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-11T03:20:45.714Z</updated>
+    <updated>2023-10-11T04:22:38.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이동관 “YTN 인수, 한세실업 접었다..문화일보도 가능성 적어”]]></title>
+        <id>https://v.daum.net/v/20231011110305546</id>
+        <link href="https://v.daum.net/v/20231011110305546"/>
+        <updated>2023-10-11T04:21:44.854Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“해커가 개표 조작해도 속수무책이라고?”]]></title>
         <id>https://v.daum.net/v/20231011064204464</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231011112811813"/>
         <updated>2023-10-11T03:19:44.421Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["카르텔 사례·R&D 삭감 자료 부실"…여야, 과기정통부 부실 제출 질타]]></title>
-        <id>https://v.daum.net/v/20231011112242539</id>
-        <link href="https://v.daum.net/v/20231011112242539"/>
-        <updated>2023-10-11T03:19:44.423Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
