@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-10-11T19:20:30.738Z</updated>
+    <updated>2023-10-11T20:21:04.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동심이 방울방울]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/VlmNU3MTRG</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/VlmNU3MTRG"/>
+        <updated>2023-10-11T20:20:25.516Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[희비 엇갈린 '정권심판론 진교훈·지역발전론 김태우' [TF사진관]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5024184/fKItBgyPpw</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5032955/VhfVzznX38"/>
         <updated>2023-10-11T09:19:15.289Z</updated>
         <content type="html"><![CDATA[벨기에는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국감 이틀째…법사·정무·과방위 등 8개 상임위서 여야 난타전]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5615616/H9ECQQrq0s</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5615616/H9ECQQrq0s"/>
-        <updated>2023-10-11T08:23:33.530Z</updated>
-        <content type="html"><![CDATA[뉴스1 PICK]]></content>
     </entry>
 </feed>
