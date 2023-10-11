@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-11T12:35:31.121Z</updated>
+    <updated>2023-10-11T13:26:15.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["집배원 30%, 한해 13회 이상 안전사고 노출"]]></title>
+        <id>https://v.daum.net/v/20231011213414990</id>
+        <link href="https://v.daum.net/v/20231011213414990"/>
+        <updated>2023-10-11T13:25:29.608Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'망 이용대가' 넷플 합의했지만 '구글' 아직…정부, 결론 빨리 내야"]]></title>
         <id>https://v.daum.net/v/20231011210250484</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231011185703401"/>
         <updated>2023-10-11T10:20:39.336Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아이폰15’ 발열 이유 묻자…애플코리아 사장 “SW로 해결 가능”]]></title>
-        <id>https://v.daum.net/v/20231011184646220</id>
-        <link href="https://v.daum.net/v/20231011184646220"/>
-        <updated>2023-10-11T10:20:39.342Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
