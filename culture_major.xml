@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-10-12T12:39:36.696Z</updated>
+    <updated>2023-10-12T13:24:00.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[문화K] 2023 전주독서대전…김병수 전주시 도서관본부장]]></title>
+        <title type="html"><![CDATA[흐릿하게, 은은하게… ‘인간’을 그리다]]></title>
+        <id>https://v.daum.net/v/20231012202507559</id>
+        <link href="https://v.daum.net/v/20231012202507559"/>
+        <updated>2023-10-12T13:23:09.391Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[문화K] “다시 질문 곁으로”…전주독서대전 내일 개막]]></title>
         <id>https://v.daum.net/v/20231012200755280</id>
         <link href="https://v.daum.net/v/20231012200755280"/>
         <updated>2023-10-12T12:38:39.522Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231012172511865"/>
         <updated>2023-10-12T10:20:25.141Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타의 신비주의?, 이젠 옛날 얘기···1:1 채팅으로 팬덤 키워요]]></title>
-        <id>https://v.daum.net/v/20231012175233051</id>
-        <link href="https://v.daum.net/v/20231012175233051"/>
-        <updated>2023-10-12T10:20:25.142Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
