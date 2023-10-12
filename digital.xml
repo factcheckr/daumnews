@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-12T03:20:52.123Z</updated>
+    <updated>2023-10-12T04:22:57.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영상] 신비로운 화성 계곡, 위에서 내려다 본다면? [여기는 화성]]]></title>
+        <id>https://v.daum.net/v/20231012131052549</id>
+        <link href="https://v.daum.net/v/20231012131052549"/>
+        <updated>2023-10-12T04:21:59.097Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘AI 코리아’ 가능성 보인다… 글로벌 지수 2계단 상승 ‘6위’]]></title>
         <id>https://v.daum.net/v/20231012115416054</id>
@@ -38,13 +45,6 @@
         <id>https://v.daum.net/v/20231012111822721</id>
         <link href="https://v.daum.net/v/20231012111822721"/>
         <updated>2023-10-12T02:23:59.741Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산업차관 "R&D 투자, 최고 기술 확보에 집중"]]></title>
-        <id>https://v.daum.net/v/20231012110020619</id>
-        <link href="https://v.daum.net/v/20231012110020619"/>
-        <updated>2023-10-12T02:23:59.747Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
