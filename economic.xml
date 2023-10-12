@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-10-12T16:24:47.708Z</updated>
+    <updated>2023-10-12T17:18:40.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이스라엘과 팔레스타인은 휴전 중"…오답 쏟아내는 AI 챗봇]]></title>
+        <id>https://v.daum.net/v/20231013021452648</id>
+        <link href="https://v.daum.net/v/20231013021452648"/>
+        <updated>2023-10-12T17:16:28.489Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서남아 최대 규모 전시장 개장… K마이스 인도서 글로벌화 싹틔울까 [MICE]]]></title>
         <id>https://v.daum.net/v/20231013010020416</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231013000514012"/>
         <updated>2023-10-12T15:21:14.962Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먹거리 물가 고공행진, 10월 ‘2%대 상승’ 물건너가나]]></title>
-        <id>https://v.daum.net/v/20231013000257976</id>
-        <link href="https://v.daum.net/v/20231013000257976"/>
-        <updated>2023-10-12T15:21:14.969Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
