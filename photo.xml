@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-10-13T14:21:35.567Z</updated>
+    <updated>2023-10-13T15:21:17.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/377110/QdI7kKatyN"/>
         <updated>2023-10-13T13:25:05.187Z</updated>
         <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보궐선거 여당 참패, 국정감사 곳곳 파행]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5615613/tm6KpD1ikY</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5615613/tm6KpD1ikY"/>
+        <updated>2023-10-13T15:20:37.158Z</updated>
+        <content type="html"><![CDATA[노컷한컷]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[그리스 대통령 면담하는 한덕수 총리]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5030466/6XWzJtQS7s"/>
         <updated>2023-10-13T07:18:32.243Z</updated>
         <content type="html"><![CDATA[독일은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘스마트폰 잠시 내려놓고’…청계천에서 즐기는 가을 독서[정동길 옆 사진관]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/661278/Kq3UbIUNWc</id>
-        <link href="https://gallery.v.daum.net/p/viewer/661278/Kq3UbIUNWc"/>
-        <updated>2023-10-13T07:18:32.249Z</updated>
-        <content type="html"><![CDATA[정동길 옆 사진관]]></content>
     </entry>
 </feed>

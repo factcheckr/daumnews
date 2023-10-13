@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-13T14:21:35.569Z</updated>
+    <updated>2023-10-13T15:21:17.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["걱정 안해요"…'발열 논란' 아이폰15 첫 반응은]]></title>
+        <id>https://v.daum.net/v/20231013172927520</id>
+        <link href="https://v.daum.net/v/20231013172927520"/>
+        <updated>2023-10-13T15:20:27.921Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이스라엘과 팔레스타인은 휴전 중"…틀린 답 못 거르는 AI 챗봇을 어쩌나]]></title>
         <id>https://v.daum.net/v/20231013180012606</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231013164103196"/>
         <updated>2023-10-13T09:19:17.692Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또 얻어맞은 ‘다음’ 여론 수렴 기능 실종]]></title>
-        <id>https://v.daum.net/v/20231013160207679</id>
-        <link href="https://v.daum.net/v/20231013160207679"/>
-        <updated>2023-10-13T09:19:17.694Z</updated>
-        <content type="html"><![CDATA[주간경향]]></content>
     </entry>
 </feed>
