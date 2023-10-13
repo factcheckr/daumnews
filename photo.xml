@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-10-13T18:25:10.563Z</updated>
+    <updated>2023-10-13T19:17:03.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[회색빛 마을의 희망]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1573204/GdRRlZ8C3U</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1573204/GdRRlZ8C3U"/>
+        <updated>2023-10-13T19:16:29.248Z</updated>
+        <content type="html"><![CDATA[[아무튼, 주말] 오종찬 기자의 Oh!컷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우산 챙기세요]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/FvZCpD1iIi</id>
@@ -42,17 +49,17 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[그리스 대통령 면담하는 한덕수 총리]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1471/uKEtJFxv04</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1471/uKEtJFxv04"/>
-        <updated>2023-10-13T13:25:05.192Z</updated>
-        <content type="html"><![CDATA[세계의 정상들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그리스 대통령 면담하는 한덕수 총리]]></title>
         <id>https://gallery.v.daum.net/p/viewer/321090/uKEtJFxv04</id>
         <link href="https://gallery.v.daum.net/p/viewer/321090/uKEtJFxv04"/>
         <updated>2023-10-13T13:25:05.189Z</updated>
         <content type="html"><![CDATA[정부 부처 제공 포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그리스 대통령 면담하는 한덕수 총리]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1471/uKEtJFxv04</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1471/uKEtJFxv04"/>
+        <updated>2023-10-13T13:25:05.192Z</updated>
+        <content type="html"><![CDATA[세계의 정상들]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[북적이는 예산 삼국축제장]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5610796/t98Dzm3oFm"/>
         <updated>2023-10-13T07:18:32.241Z</updated>
         <content type="html"><![CDATA[모멘트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해양수산부 '동유럽 물류 공급망 재편 관련 토론회 개최' [TF사진관]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5024184/1QH2gUdY7f</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5024184/1QH2gUdY7f"/>
-        <updated>2023-10-13T07:18:32.242Z</updated>
-        <content type="html"><![CDATA[TF사진관]]></content>
     </entry>
 </feed>

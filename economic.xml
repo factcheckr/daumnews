@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-10-13T18:25:10.648Z</updated>
+    <updated>2023-10-13T19:17:03.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중동불안에 국제유가 5%대↑…브렌트유 배럴당 90달러대로]]></title>
+        <id>https://v.daum.net/v/20231014040324969</id>
+        <link href="https://v.daum.net/v/20231014040324969"/>
+        <updated>2023-10-13T19:15:02.390Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나홀로 디플레로 가는 중국… 9월 물가상승률 0.0%]]></title>
         <id>https://v.daum.net/v/20231014030304792</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231014000347171"/>
         <updated>2023-10-13T15:18:58.095Z</updated>
         <content type="html"><![CDATA[프레시안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정의선 리더십 3년, 현대차 글로벌 톱3로…남은 과제는 중국 재도약]]></title>
-        <id>https://v.daum.net/v/20231014000146141</id>
-        <link href="https://v.daum.net/v/20231014000146141"/>
-        <updated>2023-10-13T15:18:58.106Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
