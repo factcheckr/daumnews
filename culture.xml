@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-10-13T17:18:48.804Z</updated>
+    <updated>2023-10-13T18:25:10.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안구건조증 증가…‘올바른 인공눈물 사용법’은?]]></title>
+        <id>https://v.daum.net/v/20231014030020702</id>
+        <link href="https://v.daum.net/v/20231014030020702"/>
+        <updated>2023-10-13T18:23:57.674Z</updated>
+        <content type="html"><![CDATA[농민신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“소화 안되고 복부 팽만감… 심장병일 수 있어요” [병을 이겨내는 사람들]]]></title>
         <id>https://v.daum.net/v/20231014014059487</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231014000930200"/>
         <updated>2023-10-13T15:19:49.770Z</updated>
         <content type="html"><![CDATA[중앙SUNDAY]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대미술 처음인가요? 그렇다면 ‘일민미술관’으로!]]></title>
-        <id>https://v.daum.net/v/20231014000416176</id>
-        <link href="https://v.daum.net/v/20231014000416176"/>
-        <updated>2023-10-13T15:19:49.777Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>

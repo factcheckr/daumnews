@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-10-13T17:18:48.841Z</updated>
+    <updated>2023-10-13T18:25:10.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[이스라엘군, 가자지구 진입 작전수행…"지상군 침공은 아닌듯"]]></title>
-        <id>https://v.daum.net/v/20231014021107583</id>
-        <link href="https://v.daum.net/v/20231014021107583"/>
-        <updated>2023-10-13T17:15:52.915Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[옐런 美 재무장관 "한·미·일 재무장관 회담 기대"]]></title>
         <id>https://v.daum.net/v/20231014014300538</id>
@@ -144,5 +137,12 @@
         <link href="https://v.daum.net/v/20231014000146141"/>
         <updated>2023-10-13T15:17:50.857Z</updated>
         <content type="html"><![CDATA[경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간政談<상>] 김행 사퇴…운명 같은 '드라마틱한 엑시트']]></title>
+        <id>https://v.daum.net/v/20231014000109123</id>
+        <link href="https://v.daum.net/v/20231014000109123"/>
+        <updated>2023-10-13T18:22:11.969Z</updated>
+        <content type="html"><![CDATA[정치]]></content>
     </entry>
 </feed>
