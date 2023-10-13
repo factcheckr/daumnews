@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-13T03:20:47.971Z</updated>
+    <updated>2023-10-13T04:23:06.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글 13조 투자하는 DR...한국은 여전히 ‘찔끔’]]></title>
+        <id>https://v.daum.net/v/20231013104306973</id>
+        <link href="https://v.daum.net/v/20231013104306973"/>
+        <updated>2023-10-13T04:22:21.122Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[르포]C타입 '아이폰15' 뜨자 밤새 '뜬눈'…"발열 신경 안 써"]]></title>
         <id>https://v.daum.net/v/20231013103529629</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231013093603226"/>
         <updated>2023-10-13T01:15:03.791Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조류독감 유전자 자른 닭…바이러스 진화 이길까]]></title>
-        <id>https://v.daum.net/v/20231013093511184</id>
-        <link href="https://v.daum.net/v/20231013093511184"/>
-        <updated>2023-10-13T01:15:03.792Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
