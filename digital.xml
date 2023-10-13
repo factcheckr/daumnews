@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-13T20:21:42.178Z</updated>
+    <updated>2023-10-13T21:18:13.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모니터도 OLED 바람..."올해 50만대, 내년 100만대 돌파"]]></title>
+        <id>https://v.daum.net/v/20231014060024420</id>
+        <link href="https://v.daum.net/v/20231014060024420"/>
+        <updated>2023-10-13T21:17:15.804Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반도체 보릿고개, 올해 안 끝난다…삼성도, TSMC도 '휘청휘청']]></title>
         <id>https://v.daum.net/v/20231014050902213</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231013224256335"/>
         <updated>2023-10-13T14:20:44.622Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이폰15, 발열·전원 꺼짐에 소재 내구성까지 끊임없는 ‘구설’]]></title>
-        <id>https://v.daum.net/v/20231013211434281</id>
-        <link href="https://v.daum.net/v/20231013211434281"/>
-        <updated>2023-10-13T12:34:29.923Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
