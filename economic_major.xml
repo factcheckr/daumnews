@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-10-13T16:24:47.493Z</updated>
+    <updated>2023-10-13T17:18:48.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231014010004402"/>
         <updated>2023-10-13T16:22:45.597Z</updated>
         <content type="html"><![CDATA[중앙SUNDAY]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지연·주가 조작·부도…다른 상생형 일자리도 ‘흔들’]]></title>
+        <id>https://v.daum.net/v/20231013222239933</id>
+        <link href="https://v.daum.net/v/20231013222239933"/>
+        <updated>2023-10-13T17:16:58.055Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무 빼고 김장재료 다 올라]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231013210002959"/>
         <updated>2023-10-13T13:23:43.456Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 AI 글쓰기 도구, 전문 창작자 영역까지 적용 확대]]></title>
-        <id>https://v.daum.net/v/20231013211501287</id>
-        <link href="https://v.daum.net/v/20231013211501287"/>
-        <updated>2023-10-13T13:23:43.459Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
