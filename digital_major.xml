@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-14T11:15:46.513Z</updated>
+    <updated>2023-10-14T12:32:07.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘카트라이더’ 중국 서버로 이주하는 이용자들…후속작 ‘드리프트’는 외면]]></title>
+        <id>https://v.daum.net/v/20231014152302654</id>
+        <link href="https://v.daum.net/v/20231014152302654"/>
+        <updated>2023-10-14T12:31:33.401Z</updated>
+        <content type="html"><![CDATA[쿠키뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘아이폰 두둥등장’ 만큼 세상 바꿀 기술이라는데…메타의 승부수 통할까 [홍키자의 빅테크]]]></title>
+        <id>https://v.daum.net/v/20231014144500156</id>
+        <link href="https://v.daum.net/v/20231014144500156"/>
+        <updated>2023-10-14T12:31:33.408Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이스라엘과 팔레스타인이 휴전했다고?...황당한 생성형 AI]]></title>
         <id>https://v.daum.net/v/20231014140002718</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231014092338221"/>
         <updated>2023-10-14T05:17:23.234Z</updated>
         <content type="html"><![CDATA[더스쿠프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지구 핵의 기원…수천조달러 가치 추정 금속 소행성 탐사 시작]]></title>
-        <id>https://v.daum.net/v/20231014091005095</id>
-        <link href="https://v.daum.net/v/20231014091005095"/>
-        <updated>2023-10-14T02:23:01.784Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가짜뉴스가 판치는 세상?…내가 편집장이라면 '헤드라이너'[토요리뷰]]]></title>
-        <id>https://v.daum.net/v/20231014090012892</id>
-        <link href="https://v.daum.net/v/20231014090012892"/>
-        <updated>2023-10-14T02:23:01.787Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

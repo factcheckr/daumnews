@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-10-14T11:15:46.504Z</updated>
+    <updated>2023-10-14T12:32:07.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상자산 신고 78%는 서울 거주자…1인당 평균 131억 원]]></title>
+        <id>https://v.daum.net/v/20231014202049859</id>
+        <link href="https://v.daum.net/v/20231014202049859"/>
+        <updated>2023-10-14T12:30:32.296Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["아끼면 전기료 절감" 에너지 캐시백, 가입은 3%뿐…왜?]]></title>
         <id>https://v.daum.net/v/20231014184812087</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231014170003791"/>
         <updated>2023-10-14T08:22:42.578Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진격의 日 반도체..잃어버린 37년 되찾나]]></title>
-        <id>https://v.daum.net/v/20231014164535644</id>
-        <link href="https://v.daum.net/v/20231014164535644"/>
-        <updated>2023-10-14T08:22:42.588Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
