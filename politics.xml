@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-10-14T15:18:39.480Z</updated>
+    <updated>2023-10-14T16:22:41.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[검찰 야권 전방위 수사 속도전…'도이치 의혹'은 3년째]]></title>
+        <id>https://v.daum.net/v/20231015000014032</id>
+        <link href="https://v.daum.net/v/20231015000014032"/>
+        <updated>2023-10-14T16:20:19.632Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["정 떨어진다"는 비명계 포용할까…복귀 임박 이재명, 최우선 과제는 '통합']]></title>
         <id>https://v.daum.net/v/20231015000000020</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231014210501162"/>
         <updated>2023-10-14T13:18:20.909Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘참패 책임’ 여기까지?…‘김기현 체제’ 총선으로 엑시트한 與]]></title>
-        <id>https://v.daum.net/v/20231014212403317</id>
-        <link href="https://v.daum.net/v/20231014212403317"/>
-        <updated>2023-10-14T12:30:14.139Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
     </entry>
 </feed>
