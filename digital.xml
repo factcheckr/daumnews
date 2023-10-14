@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-14T02:23:47.148Z</updated>
+    <updated>2023-10-14T03:19:53.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우주로 4번째 향하는 누리호…이전과 뭐가 다를까?]]></title>
+        <id>https://v.daum.net/v/20231014120018899</id>
+        <link href="https://v.daum.net/v/20231014120018899"/>
+        <updated>2023-10-14T03:18:55.364Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[출시 1년 안된 챗GPT 기염, 세계서 24번째 많이 찾는 웹사이트 올라]]></title>
         <id>https://v.daum.net/v/20231014104807259</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231014100229753"/>
         <updated>2023-10-14T01:11:21.533Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보물 소행성 찾아 ‘프시케 탐사선’ 떠났다 [우주로 간다]]]></title>
-        <id>https://v.daum.net/v/20231014100017697</id>
-        <link href="https://v.daum.net/v/20231014100017697"/>
-        <updated>2023-10-14T01:11:21.537Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
