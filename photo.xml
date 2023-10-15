@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-10-15T19:15:52.184Z</updated>
+    <updated>2023-10-15T20:19:13.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5024184/2Ei7qjGM0m"/>
         <updated>2023-10-15T15:17:13.440Z</updated>
         <content type="html"><![CDATA[TF사진관]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사상‘누룽지’각]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/HnHqFJhVOK</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/HnHqFJhVOK"/>
+        <updated>2023-10-15T20:18:41.203Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[100년 만에 되찾은 옛 모습… 새 현판 건 광화문 공개 [포토多이슈]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1489/q39YPOpaF8"/>
         <updated>2023-10-14T22:16:25.658Z</updated>
         <content type="html"><![CDATA[북한은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또 공개된 김정은 모자이크 벽화… 온천 앞에서 '활짝' [노동신문 사진]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5611950/pk5vxCujUo</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5611950/pk5vxCujUo"/>
-        <updated>2023-10-14T21:16:00.577Z</updated>
-        <content type="html"><![CDATA[노동신문 사진]]></content>
     </entry>
 </feed>
