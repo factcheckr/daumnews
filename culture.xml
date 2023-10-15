@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-10-15T18:23:40.476Z</updated>
+    <updated>2023-10-15T19:15:52.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[100년 만에 다시 걷는 ‘임금의 길’… 금빛 활자 새 현판도 공개]]></title>
+        <id>https://v.daum.net/v/20231016041007295</id>
+        <link href="https://v.daum.net/v/20231016041007295"/>
+        <updated>2023-10-15T19:14:33.917Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김구림·최명영·서승원… 동료 화가·미술계 인사들 빈소 찾아]]></title>
         <id>https://v.daum.net/v/20231016030145009</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231016001503707"/>
         <updated>2023-10-15T15:16:34.910Z</updated>
         <content type="html"><![CDATA[프레시안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임금·백성 만나던 길, 시민 500명 함께 걸었다]]></title>
-        <id>https://v.daum.net/v/20231016001224700</id>
-        <link href="https://v.daum.net/v/20231016001224700"/>
-        <updated>2023-10-15T15:16:34.910Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>

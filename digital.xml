@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-15T18:23:40.501Z</updated>
+    <updated>2023-10-15T19:15:52.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플, '반값 비전프로' 내놓나…"최대 2천500달러 구상"]]></title>
+        <id>https://v.daum.net/v/20231016035709194</id>
+        <link href="https://v.daum.net/v/20231016035709194"/>
+        <updated>2023-10-15T19:14:57.170Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美유타주는 청소년 소셜미디어 가입도 제한]]></title>
+        <id>https://v.daum.net/v/20231016034346180</id>
+        <link href="https://v.daum.net/v/20231016034346180"/>
+        <updated>2023-10-15T19:14:57.175Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인공위성, 일단 쏴라? 경쟁 치열해지자 가짜 발사 계획도 넘쳐나]]></title>
         <id>https://v.daum.net/v/20231016030308080</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231015210300396"/>
         <updated>2023-10-15T12:32:21.069Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보이스피싱범 식별에서 음향 치유까지…‘음색’이 보여주는 신비한 세계[소리과학의 미래]]]></title>
-        <id>https://v.daum.net/v/20231015204426221</id>
-        <link href="https://v.daum.net/v/20231015204426221"/>
-        <updated>2023-10-15T12:32:21.075Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작년 1월 통가 해저 화산 폭발로 남극 오존층 ‘남한 260배’ 구멍]]></title>
-        <id>https://v.daum.net/v/20231015204419220</id>
-        <link href="https://v.daum.net/v/20231015204419220"/>
-        <updated>2023-10-15T12:32:21.075Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
