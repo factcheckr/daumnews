@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-10-15T03:19:50.260Z</updated>
+    <updated>2023-10-15T04:22:08.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정준영 ‘황금폰’ 신고자, 국감 증인 채택…권익위 포상금 의혹 답변하나]]></title>
+        <id>https://v.daum.net/v/20231015114347625</id>
+        <link href="https://v.daum.net/v/20231015114347625"/>
+        <updated>2023-10-15T04:19:51.254Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이스라엘서 대피한 한국인 163명, 군 수송기로 무사 귀국]]></title>
         <id>https://v.daum.net/v/20231015120542050</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231015120028924"/>
         <updated>2023-10-15T03:17:10.954Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기찻길 옆 소음 잡는다...경인·수인선 노후 방음벽 개량사업 본격 추진]]></title>
-        <id>https://v.daum.net/v/20231015115148737</id>
-        <link href="https://v.daum.net/v/20231015115148737"/>
-        <updated>2023-10-15T03:17:10.955Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
