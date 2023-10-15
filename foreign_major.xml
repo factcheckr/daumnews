@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-10-15T12:33:21.497Z</updated>
+    <updated>2023-10-15T13:21:08.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네타냐후·아바스와 릴레이 통화…미 바이든 ‘확전 막기’ 외교 총력]]></title>
+        <id>https://v.daum.net/v/20231015214249691</id>
+        <link href="https://v.daum.net/v/20231015214249691"/>
+        <updated>2023-10-15T13:19:45.542Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘세 번째 강진’ 덮친 아프간… 강도 6.4 지진 발생]]></title>
         <id>https://v.daum.net/v/20231015204546233</id>
@@ -48,20 +55,6 @@
         <content type="html"><![CDATA[SBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["110만명 소개하려면 대형버스 1.8만대 일시 동원해야"]]></title>
-        <id>https://v.daum.net/v/20231015201604953</id>
-        <link href="https://v.daum.net/v/20231015201604953"/>
-        <updated>2023-10-15T12:31:42.787Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["가자지구 내 임산부 5만 명…의료 시스템 붕괴로 '악몽'"]]></title>
-        <id>https://v.daum.net/v/20231015201558951</id>
-        <link href="https://v.daum.net/v/20231015201558951"/>
-        <updated>2023-10-15T12:31:42.791Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[가자시티 떠나 남으로…고통 속 피란민들 "우리는 인간"]]></title>
         <id>https://v.daum.net/v/20231015201506947</id>
         <link href="https://v.daum.net/v/20231015201506947"/>
@@ -73,6 +66,13 @@
         <id>https://v.daum.net/v/20231015201309935</id>
         <link href="https://v.daum.net/v/20231015201309935"/>
         <updated>2023-10-15T12:31:42.796Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미, 확산 방지 총력‥중러는 "휴전" 촉구]]></title>
+        <id>https://v.daum.net/v/20231015201307934</id>
+        <link href="https://v.daum.net/v/20231015201307934"/>
+        <updated>2023-10-15T13:19:45.569Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>

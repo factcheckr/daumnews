@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-15T12:33:21.496Z</updated>
+    <updated>2023-10-15T13:21:08.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[160만건 목표 ‘그린 리모델링’, 로드맵이 없다]]></title>
+        <id>https://v.daum.net/v/20231015213639653</id>
+        <link href="https://v.daum.net/v/20231015213639653"/>
+        <updated>2023-10-15T13:20:25.605Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[92조 블리자드 품은 MS…나델라 리더십 주목]]></title>
         <id>https://v.daum.net/v/20231015183903966</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231015155744775"/>
         <updated>2023-10-15T08:21:32.815Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아메리카 대륙서 ‘불의 고리’ 금환 일식, 다음 일식은 6개월 뒤 또 찾아온다]]></title>
-        <id>https://v.daum.net/v/20231015154517559</id>
-        <link href="https://v.daum.net/v/20231015154517559"/>
-        <updated>2023-10-15T08:21:32.817Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
