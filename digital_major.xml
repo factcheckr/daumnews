@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-15T13:21:08.554Z</updated>
+    <updated>2023-10-15T14:16:13.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231015213639653"/>
         <updated>2023-10-15T13:20:25.605Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[의대 정원, 지방 중심 확대할듯… 의사협회 "일방통보 말라"]]></title>
+        <id>https://v.daum.net/v/20231015184537042</id>
+        <link href="https://v.daum.net/v/20231015184537042"/>
+        <updated>2023-10-15T14:15:43.760Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[92조 블리자드 품은 MS…나델라 리더십 주목]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231015162013284"/>
         <updated>2023-10-15T09:17:12.910Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] MS, 92조원 ‘빅딜’ 마무리…블리자드 인수하며 ‘게임 빅3’ 성큼]]></title>
-        <id>https://v.daum.net/v/20231015155744775</id>
-        <link href="https://v.daum.net/v/20231015155744775"/>
-        <updated>2023-10-15T08:21:32.815Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
