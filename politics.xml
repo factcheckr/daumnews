@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-10-16T13:24:13.446Z</updated>
+    <updated>2023-10-16T14:18:59.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“민주 지지율 50.7%, 현 정부 출범후 최고치”]]></title>
+        <id>https://v.daum.net/v/20231016224157665</id>
+        <link href="https://v.daum.net/v/20231016224157665"/>
+        <updated>2023-10-16T14:17:19.395Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與 당대표 특보 "김기현-이준석 리더십 차이는 개혁 속도"]]></title>
         <id>https://v.daum.net/v/20231016190629802</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231016202541944"/>
         <updated>2023-10-16T12:36:40.428Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2주차 국감 첫날…여야, 채상병 사건·LH 아파트 철근 누락 도마(종합)]]></title>
-        <id>https://v.daum.net/v/20231016212605808</id>
-        <link href="https://v.daum.net/v/20231016212605808"/>
-        <updated>2023-10-16T12:36:40.429Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
