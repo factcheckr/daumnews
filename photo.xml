@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-10-16T10:21:21.895Z</updated>
+    <updated>2023-10-16T11:17:03.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대형 유통업체들의 갑질 추궁한 국정감사장[청계천 옆 사진관]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/344179/0Y4sOoT6Od</id>
+        <link href="https://gallery.v.daum.net/p/viewer/344179/0Y4sOoT6Od"/>
+        <updated>2023-10-16T11:16:36.880Z</updated>
+        <content type="html"><![CDATA[청계천 옆 사진관]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경기도청 국정감사장 설치 분주 [포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5840500/9DummnS4hf</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/382/7CI1d7iHFL"/>
         <updated>2023-10-16T08:24:49.239Z</updated>
         <content type="html"><![CDATA[중국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스라엘 예루살렘 거리 걷는 사람들]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033138/34K4seI9FU</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033138/34K4seI9FU"/>
-        <updated>2023-10-16T08:24:49.240Z</updated>
-        <content type="html"><![CDATA[이스라엘은 지금]]></content>
     </entry>
 </feed>
