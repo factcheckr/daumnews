@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-10-16T16:25:15.531Z</updated>
+    <updated>2023-10-16T17:18:07.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231017000607356"/>
         <updated>2023-10-16T16:23:44.399Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['모르쇠' 정몽규, 욕설 갑질 천재교육…기업 갑질 도마에]]></title>
+        <id>https://v.daum.net/v/20231016225950828</id>
+        <link href="https://v.daum.net/v/20231016225950828"/>
+        <updated>2023-10-16T17:16:34.607Z</updated>
+        <content type="html"><![CDATA[프레시안]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["네이버는 법 위 존재… 스타트업 혁신 가로채"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231016211402615"/>
         <updated>2023-10-16T13:22:36.160Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고의 부도 의혹까지.."박영우 회장이 직접 사과하고 대책 내놔야"]]></title>
-        <id>https://v.daum.net/v/20231016211647669</id>
-        <link href="https://v.daum.net/v/20231016211647669"/>
-        <updated>2023-10-16T13:22:36.160Z</updated>
-        <content type="html"><![CDATA[kbc광주방송]]></content>
     </entry>
 </feed>
