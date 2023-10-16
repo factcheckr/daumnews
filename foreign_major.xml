@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-10-16T12:38:44.993Z</updated>
+    <updated>2023-10-16T13:24:13.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가자, "백악관 말과 달리 남부 파이프 물 안나와"…20시간 지나]]></title>
+        <id>https://v.daum.net/v/20231016213018883</id>
+        <link href="https://v.daum.net/v/20231016213018883"/>
+        <updated>2023-10-16T13:22:54.869Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“휴전 없고 작전 계속”…명령만 남은 지상전]]></title>
+        <id>https://v.daum.net/v/20231016211830707</id>
+        <link href="https://v.daum.net/v/20231016211830707"/>
+        <updated>2023-10-16T13:22:54.869Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러 바그너 빈자리에 '레두트 용병'…"'의용군' 모병중"]]></title>
         <id>https://v.daum.net/v/20231016211526638</id>
@@ -34,7 +48,7 @@
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가자 북부, 남쪽으로 목숨 건 피난길…“방 없어 거리로 쏟아져”]]></title>
+        <title type="html"><![CDATA[가자 북부 40만, 이틀새 남부 갔지만…몸 하나 누일 곳 없다]]></title>
         <id>https://v.daum.net/v/20231016210007442</id>
         <link href="https://v.daum.net/v/20231016210007442"/>
         <updated>2023-10-16T12:37:26.308Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231016202412923"/>
         <updated>2023-10-16T12:37:26.316Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민간인 공격하다 사살된 하마스군…바디캠에 담긴 참상]]></title>
-        <id>https://v.daum.net/v/20231016201112729</id>
-        <link href="https://v.daum.net/v/20231016201112729"/>
-        <updated>2023-10-16T12:37:26.318Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하마스가 뚫은 '500㎞ 거미줄 땅굴'…"이스라엘 고전할 수도"]]></title>
-        <id>https://v.daum.net/v/20231016201843854</id>
-        <link href="https://v.daum.net/v/20231016201843854"/>
-        <updated>2023-10-16T12:37:26.321Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
