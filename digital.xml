@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-16T11:17:03.871Z</updated>
+    <updated>2023-10-16T12:38:45.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버 "스타트업 '뉴려' 아이디어 도용·기술 탈취 사실 아냐"]]></title>
+        <id>https://v.daum.net/v/20231016203221046</id>
+        <link href="https://v.daum.net/v/20231016203221046"/>
+        <updated>2023-10-16T12:37:52.140Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[여기는 원주] 반도체산업 전략 발표…기업 유치·규제 해법은 빠져]]></title>
+        <id>https://v.daum.net/v/20231016202500931</id>
+        <link href="https://v.daum.net/v/20231016202500931"/>
+        <updated>2023-10-16T12:37:52.145Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사이버 위기경보 1년7개월째 '주의'…"자칫 안전불감증 야기"]]></title>
         <id>https://v.daum.net/v/20231016182735038</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231016175318047"/>
         <updated>2023-10-16T09:20:31.980Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[93조 짜리 빅딜 완료…스타크래프트·디아블로, MS 산하로]]></title>
-        <id>https://v.daum.net/v/20231016175834200</id>
-        <link href="https://v.daum.net/v/20231016175834200"/>
-        <updated>2023-10-16T09:20:31.982Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] IT기업 격전지 된 37조 ‘미들마일’…후발주자 LGU+의 무기는]]></title>
-        <id>https://v.daum.net/v/20231016175126002</id>
-        <link href="https://v.daum.net/v/20231016175126002"/>
-        <updated>2023-10-16T09:20:31.985Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
