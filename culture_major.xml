@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-10-17T14:18:33.368Z</updated>
+    <updated>2023-10-17T15:20:30.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내달 22일까지 고성 김들림 사진작가 개인전]]></title>
+        <id>https://v.daum.net/v/20231018000522518</id>
+        <link href="https://v.daum.net/v/20231018000522518"/>
+        <updated>2023-10-17T15:19:33.751Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KBS ‘수신료 수입’도 ‘콘텐츠 수익’도 뚝…여야 KBS 국감 격돌]]></title>
+        <id>https://v.daum.net/v/20231017211302481</id>
+        <link href="https://v.daum.net/v/20231017211302481"/>
+        <updated>2023-10-17T15:19:33.751Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기본값청춘, 발버둥쳐도 기본이 될까 말까 합니다]]></title>
         <id>https://v.daum.net/v/20231017201801159</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231017184901336"/>
         <updated>2023-10-17T11:16:13.063Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[날 위해 존재하지만 남을 향할때 빛을 발하는'시간과 마음' [작가와의 대화]]]></title>
-        <id>https://v.daum.net/v/20231017183321987</id>
-        <link href="https://v.daum.net/v/20231017183321987"/>
-        <updated>2023-10-17T11:16:13.071Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["고난 견디고 빛본 지난 날···이젠 '희망' 길잡이 될 것"]]></title>
-        <id>https://v.daum.net/v/20231017183143961</id>
-        <link href="https://v.daum.net/v/20231017183143961"/>
-        <updated>2023-10-17T11:16:13.075Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>

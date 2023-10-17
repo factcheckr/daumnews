@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-17T14:18:33.385Z</updated>
+    <updated>2023-10-17T15:20:30.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231017215116435"/>
         <updated>2023-10-17T13:23:25.547Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ESG성패, 데이터에 달렸다] 제조현장은 `DX 사각지대`… 데이터·ESG 플랫폼 연계 급선무]]></title>
+        <id>https://v.daum.net/v/20231017182035636</id>
+        <link href="https://v.daum.net/v/20231017182035636"/>
+        <updated>2023-10-17T15:19:52.084Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하이퍼클로바X 뉴스 저작권 논란 재점화…"상생 솔루션 준비 중"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231017165119726"/>
         <updated>2023-10-17T09:19:08.579Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷마블 '메타버스엔터테인먼트', 영화 제작사 에이스팩토리 흡수합병]]></title>
-        <id>https://v.daum.net/v/20231017164244408</id>
-        <link href="https://v.daum.net/v/20231017164244408"/>
-        <updated>2023-10-17T09:19:08.581Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
