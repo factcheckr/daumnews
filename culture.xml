@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-10-17T15:20:30.387Z</updated>
+    <updated>2023-10-17T16:25:06.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“잘나와도 걱정, 안나와도 걱정”…고민 많은 중년남 ‘호박씨’ 까볼까]]></title>
+        <id>https://v.daum.net/v/20231018002100676</id>
+        <link href="https://v.daum.net/v/20231018002100676"/>
+        <updated>2023-10-17T16:23:48.908Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오케스트라 셋 책임진 96년생…젊은 지휘 거장 메켈레]]></title>
         <id>https://v.daum.net/v/20231018000155410</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231017220015682"/>
         <updated>2023-10-17T13:22:57.163Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 북한산 첫 단풍…여전히 '쌀쌀', 일교차 크게 벌어져]]></title>
-        <id>https://v.daum.net/v/20231017213015865</id>
-        <link href="https://v.daum.net/v/20231017213015865"/>
-        <updated>2023-10-17T13:22:57.168Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>

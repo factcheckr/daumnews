@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-10-17T15:20:30.400Z</updated>
+    <updated>2023-10-17T16:25:06.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231018000522518"/>
         <updated>2023-10-17T15:19:33.751Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 북한산 첫 단풍…여전히 '쌀쌀', 일교차 크게 벌어져]]></title>
+        <id>https://v.daum.net/v/20231017213015865</id>
+        <link href="https://v.daum.net/v/20231017213015865"/>
+        <updated>2023-10-17T16:23:59.352Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KBS ‘수신료 수입’도 ‘콘텐츠 수익’도 뚝…여야 KBS 국감 격돌]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231017185537492"/>
         <updated>2023-10-17T12:35:00.579Z</updated>
         <content type="html"><![CDATA[대전일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[적응 안되는 '50년 前 유머코드']]></title>
-        <id>https://v.daum.net/v/20231017184901336</id>
-        <link href="https://v.daum.net/v/20231017184901336"/>
-        <updated>2023-10-17T11:16:13.063Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
