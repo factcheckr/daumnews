@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-17T16:25:06.514Z</updated>
+    <updated>2023-10-17T17:17:36.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231017215116435"/>
         <updated>2023-10-17T13:23:25.547Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["의대 정원 확대, 지금도 늦었다"는데…의협 반발에 정부 발표 미뤄]]></title>
+        <id>https://v.daum.net/v/20231017182203695</id>
+        <link href="https://v.daum.net/v/20231017182203695"/>
+        <updated>2023-10-17T17:16:59.521Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[ESG성패, 데이터에 달렸다] 제조현장은 `DX 사각지대`… 데이터·ESG 플랫폼 연계 급선무]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231017171405581"/>
         <updated>2023-10-17T09:19:08.574Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] “기껏 돈 썼는데 애를 안 낳아”…‘복지 천국’ 네이버도 저출산 ‘쇼크’]]></title>
-        <id>https://v.daum.net/v/20231017165119726</id>
-        <link href="https://v.daum.net/v/20231017165119726"/>
-        <updated>2023-10-17T09:19:08.579Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
