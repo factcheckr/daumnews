@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-10-18T21:17:03.808Z</updated>
+    <updated>2023-10-18T22:18:06.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바이든 "이스라엘 방어 보장"]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/8ek6yCRyXl</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/8ek6yCRyXl"/>
+        <updated>2023-10-18T22:17:34.063Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[직지의 우수함… 美 LA에서 빛냈다]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5847810/96sLXc2mIB</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5840472/0eoKKSJGVX"/>
         <updated>2023-10-18T08:23:48.216Z</updated>
         <content type="html"><![CDATA[포토스토리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천원에 1개, 귀한 몸값 자랑하는 붕어빵[포토多이슈]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1112079/yHF1usQSvW</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1112079/yHF1usQSvW"/>
-        <updated>2023-10-18T08:23:48.218Z</updated>
-        <content type="html"><![CDATA[포토多이슈]]></content>
     </entry>
 </feed>
