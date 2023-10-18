@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-10-18T16:25:02.872Z</updated>
+    <updated>2023-10-18T17:18:02.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인수합병·상장 감소에 美 월가 IB 부문 실적 찬바람]]></title>
+        <id>https://v.daum.net/v/20231018225832285</id>
+        <link href="https://v.daum.net/v/20231018225832285"/>
+        <updated>2023-10-18T17:16:27.264Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['연 20%' 송금 지연 위약금 받은 CU…5년간 150억 원]]></title>
         <id>https://v.daum.net/v/20231018195248045</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231018215449791"/>
         <updated>2023-10-18T14:17:12.450Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추석 지났는데 물가 왜 이래?…배추·설탕 가격 들썩]]></title>
-        <id>https://v.daum.net/v/20231018194447894</id>
-        <link href="https://v.daum.net/v/20231018194447894"/>
-        <updated>2023-10-18T14:17:12.450Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>

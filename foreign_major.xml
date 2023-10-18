@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-10-18T16:25:02.865Z</updated>
+    <updated>2023-10-18T17:18:02.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['병원 대참사' 공방 속 미-이스라엘, 가자 '생명줄 개방' 합의]]></title>
+        <id>https://v.daum.net/v/20231019004843202</id>
+        <link href="https://v.daum.net/v/20231019004843202"/>
+        <updated>2023-10-18T17:16:45.187Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['가자지구 구호 접근 허용' 안보리 결의안 美 거부로 무산(종합)]]></title>
+        <id>https://v.daum.net/v/20231019003911152</id>
+        <link href="https://v.daum.net/v/20231019003911152"/>
+        <updated>2023-10-18T17:16:45.190Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이스라엘, 이집트 통한 가자지구 원조 허용…바이든 요구 수용]]></title>
         <id>https://v.daum.net/v/20231018235054645</id>
@@ -34,7 +48,7 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이스라엘 “지하드의 로켓 오발…”하마스 “학살 은폐하려고 날조”]]></title>
+        <title type="html"><![CDATA[이스라엘 “지하드의 로켓 오발”…하마스 “학살 은폐하려고 날조”]]></title>
         <id>https://v.daum.net/v/20231019001250026</id>
         <link href="https://v.daum.net/v/20231019001250026"/>
         <updated>2023-10-18T16:23:50.251Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231018235853693"/>
         <updated>2023-10-18T15:19:35.448Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안보리, 이스라엘·하마스 교전중단 결의안 채택 무산... 美가 거부권]]></title>
-        <id>https://v.daum.net/v/20231018235610681</id>
-        <link href="https://v.daum.net/v/20231018235610681"/>
-        <updated>2023-10-18T15:19:35.451Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스텝 꼬인 바이든...시진핑·푸틴 '일대일로' 결집 과시]]></title>
-        <id>https://v.daum.net/v/20231018231310389</id>
-        <link href="https://v.daum.net/v/20231018231310389"/>
-        <updated>2023-10-18T15:19:35.453Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
