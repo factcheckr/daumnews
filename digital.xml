@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-18T02:26:01.290Z</updated>
+    <updated>2023-10-18T03:20:07.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“내달부터 독감·코로나 유행 시작…동시 감염되면 인공호흡기 달 확률 2배”]]></title>
+        <id>https://v.daum.net/v/20231018120130623</id>
+        <link href="https://v.daum.net/v/20231018120130623"/>
+        <updated>2023-10-18T03:19:16.082Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["정부 과학기술 투자 전면 중단"…`아연실색` 아르헨티나 과학계]]></title>
+        <id>https://v.daum.net/v/20231018114617793</id>
+        <link href="https://v.daum.net/v/20231018114617793"/>
+        <updated>2023-10-18T03:19:16.083Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트위터, 뉴질랜드·필리핀에서 유료 서비스 시작…전면 유료화 되나?]]></title>
         <id>https://v.daum.net/v/20231018111536994</id>
         <link href="https://v.daum.net/v/20231018111536994"/>
         <updated>2023-10-18T02:25:12.149Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게임 이용률 1년 새 74%→63% 급감…모바일서 감소 두드러져]]></title>
-        <id>https://v.daum.net/v/20231018111009622</id>
-        <link href="https://v.daum.net/v/20231018111009622"/>
-        <updated>2023-10-18T02:25:12.149Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[YTN 최대주주 바뀐다...사전 행정절차 시동]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231018062106083"/>
         <updated>2023-10-18T02:25:12.152Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화장품 독성 동물실험 '그만'...'동물대체시험법' 안내서 3종 제·개정]]></title>
-        <id>https://v.daum.net/v/20231018104211163</id>
-        <link href="https://v.daum.net/v/20231018104211163"/>
-        <updated>2023-10-18T02:25:12.155Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
