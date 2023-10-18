@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-18T15:20:43.258Z</updated>
+    <updated>2023-10-18T16:25:02.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231018233002491"/>
         <updated>2023-10-18T15:20:08.658Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“6개월 일하고 받은 돈이 무려 30억원” 돈 잔치 하더니 결국 사달났다]]></title>
+        <id>https://v.daum.net/v/20231018185042158</id>
+        <link href="https://v.daum.net/v/20231018185042158"/>
+        <updated>2023-10-18T16:24:25.577Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[60초 뉴스]'그놈 목소리' 딱 걸렸어…세계최초 AI 분석 모델 도입]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231018172654696"/>
         <updated>2023-10-18T09:19:29.642Z</updated>
         <content type="html"><![CDATA[게임톡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[링크트인·웨이모·퀄컴… 거세지는 美테크 기업 해고]]></title>
-        <id>https://v.daum.net/v/20231018171517318</id>
-        <link href="https://v.daum.net/v/20231018171517318"/>
-        <updated>2023-10-18T09:19:29.645Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
