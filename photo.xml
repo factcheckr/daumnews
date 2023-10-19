@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-10-19T17:17:51.632Z</updated>
+    <updated>2023-10-19T18:23:53.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[언행일치]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/yH9emkVsmx</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/yH9emkVsmx"/>
+        <updated>2023-10-19T18:23:30.657Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청년도전지원사업 현장 간담회]]></title>
         <id>https://gallery.v.daum.net/p/viewer/321090/09YtiMtn7I</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5029624/bDJUanujuG"/>
         <updated>2023-10-19T06:24:38.206Z</updated>
         <content type="html"><![CDATA[UAE는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가자 지구 휴전 촉구하러 의회 찾은 美  시위대]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1476/UybJYviHzt</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1476/UybJYviHzt"/>
-        <updated>2023-10-19T06:24:38.210Z</updated>
-        <content type="html"><![CDATA[미국은 지금]]></content>
     </entry>
 </feed>
