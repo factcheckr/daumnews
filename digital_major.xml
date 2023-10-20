@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-20T15:19:22.635Z</updated>
+    <updated>2023-10-20T16:24:07.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[복지부-LG CNS 컨소, 계약 해지 수순…'책임소재 공방' 본격화]]></title>
+        <id>https://v.daum.net/v/20231020175920342</id>
+        <link href="https://v.daum.net/v/20231020175920342"/>
+        <updated>2023-10-20T16:23:27.122Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글로벌 신평사들 '호평' 네이버, 첫 사무라이본드 '청신호']]></title>
+        <id>https://v.daum.net/v/20231020170317775</id>
+        <link href="https://v.daum.net/v/20231020170317775"/>
+        <updated>2023-10-20T16:23:27.124Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG디스플레이, IT용 OLED 신규 투자 고심… 투자금 마련이 관건]]></title>
         <id>https://v.daum.net/v/20231020160127780</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231020140145580"/>
         <updated>2023-10-20T06:24:14.374Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일주일에 두 번 이상 육식하다간 당뇨 걸린다 [사이언스 브런치]]]></title>
-        <id>https://v.daum.net/v/20231020140105557</id>
-        <link href="https://v.daum.net/v/20231020140105557"/>
-        <updated>2023-10-20T06:24:14.375Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“해커 전화만 받아도 IP 주소 유출”… 텔레그램 보안 취약점 발견돼]]></title>
-        <id>https://v.daum.net/v/20231020130122856</id>
-        <link href="https://v.daum.net/v/20231020130122856"/>
-        <updated>2023-10-20T06:24:14.377Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
