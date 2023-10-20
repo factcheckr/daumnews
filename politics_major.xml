@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-10-20T16:24:07.798Z</updated>
+    <updated>2023-10-20T17:22:28.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231021010025114"/>
         <updated>2023-10-20T16:22:01.595Z</updated>
         <content type="html"><![CDATA[중앙SUNDAY]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박주민 "검찰, 군검찰, 국방부 모두 말 달라... 누군가 거짓말"]]></title>
+        <id>https://v.daum.net/v/20231020230302474</id>
+        <link href="https://v.daum.net/v/20231020230302474"/>
+        <updated>2023-10-20T17:20:10.202Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤재옥 “野의 국가 부도 위기 주장, 총선前 불안 부추기려는 것”]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231020215009836"/>
         <updated>2023-10-20T13:20:51.124Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정쟁에서 민생으로…현수막이 달라진다]]></title>
-        <id>https://v.daum.net/v/20231020212339465</id>
-        <link href="https://v.daum.net/v/20231020212339465"/>
-        <updated>2023-10-20T13:20:51.124Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>

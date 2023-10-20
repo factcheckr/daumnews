@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-10-20T16:24:07.801Z</updated>
+    <updated>2023-10-20T17:22:28.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바이든 “러, 우크라戰 北무기에 의지”… 김정은 “北-러 백년대계 구축”]]></title>
+        <id>https://v.daum.net/v/20231021014140279</id>
+        <link href="https://v.daum.net/v/20231021014140279"/>
+        <updated>2023-10-20T17:19:58.720Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간政談<상>] '반성' 언급하며 몸 낮춘 대통령…"그런데 어떻게?"]]></title>
         <id>https://v.daum.net/v/20231021000029818</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231021000019809"/>
         <updated>2023-10-20T15:16:40.989Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박주민 "검찰, 군검찰, 국방부 모두 말 달라... 누군가 거짓말"]]></title>
-        <id>https://v.daum.net/v/20231020230302474</id>
-        <link href="https://v.daum.net/v/20231020230302474"/>
-        <updated>2023-10-20T14:16:09.423Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
