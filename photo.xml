@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-10-20T18:22:43.489Z</updated>
+    <updated>2023-10-20T19:15:49.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기독교와 이슬람의 공존]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1573204/010fLzC20S</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1573204/010fLzC20S"/>
+        <updated>2023-10-20T19:15:20.492Z</updated>
+        <content type="html"><![CDATA[[아무튼, 주말] 오종찬 기자의 Oh!컷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강아지 선캡]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/fpaq4aBEIe</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033138/XS0kFe3oUY"/>
         <updated>2023-10-20T07:17:30.229Z</updated>
         <content type="html"><![CDATA[이스라엘은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸른 가을 하늘]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5610796/pXNjsuOK37</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5610796/pXNjsuOK37"/>
-        <updated>2023-10-20T06:24:23.280Z</updated>
-        <content type="html"><![CDATA[모멘트]]></content>
     </entry>
 </feed>
