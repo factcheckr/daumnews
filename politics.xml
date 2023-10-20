@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-10-20T13:22:50.382Z</updated>
+    <updated>2023-10-20T14:17:52.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박주민 "검찰, 군검찰, 국방부 모두 말 달라... 누군가 거짓말"]]></title>
+        <id>https://v.daum.net/v/20231020230302474</id>
+        <link href="https://v.daum.net/v/20231020230302474"/>
+        <updated>2023-10-20T14:16:09.423Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해사법원 법 또 발의…정쟁화로 결국 폐기 절차]]></title>
         <id>https://v.daum.net/v/20231020220821059</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231020215018839"/>
         <updated>2023-10-20T13:20:41.799Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["정쟁 소지 있는 현수막 떼겠다"…여야, 앞다퉈서 "민생"]]></title>
-        <id>https://v.daum.net/v/20231020212709528</id>
-        <link href="https://v.daum.net/v/20231020212709528"/>
-        <updated>2023-10-20T12:32:39.681Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
