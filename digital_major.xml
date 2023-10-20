@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-20T09:18:45.790Z</updated>
+    <updated>2023-10-20T10:20:31.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["첨단과학기술기관 설립은 경남이 당면한 필수과제"]]></title>
+        <id>https://v.daum.net/v/20231020145805658</id>
+        <link href="https://v.daum.net/v/20231020145805658"/>
+        <updated>2023-10-20T10:19:53.932Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[써보니]확 가벼워진 ‘아이폰15 프로맥스’…발열은 ‘글쎄’(영상)]]></title>
         <id>https://v.daum.net/v/20231020144025925</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231020115416677"/>
         <updated>2023-10-20T05:17:38.255Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소행성 격퇴 작전[오후여담]]]></title>
-        <id>https://v.daum.net/v/20231020114218260</id>
-        <link href="https://v.daum.net/v/20231020114218260"/>
-        <updated>2023-10-20T05:17:38.269Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
 </feed>
