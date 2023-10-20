@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-10-20T14:17:52.142Z</updated>
+    <updated>2023-10-20T15:19:22.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615618/2682Z2yPD7"/>
         <updated>2023-10-20T11:16:14.997Z</updated>
         <content type="html"><![CDATA[오마이포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미 대사관 향해 행진하는 말레이시아 무슬림들]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029092/4d7b0PZdBK</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029092/4d7b0PZdBK"/>
+        <updated>2023-10-20T15:18:43.549Z</updated>
+        <content type="html"><![CDATA[말레이시아는 지금]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가자지구 공습으로 치솟는 연기]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1075022/7PBSRheW0p"/>
         <updated>2023-10-20T06:24:23.282Z</updated>
         <content type="html"><![CDATA[경찰 제공 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알레브리헤 작품 마무리하는 멕시코 예술가]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5032335/4eAZBNbDBx</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5032335/4eAZBNbDBx"/>
-        <updated>2023-10-20T05:17:46.212Z</updated>
-        <content type="html"><![CDATA[멕시코는 지금]]></content>
     </entry>
 </feed>
