@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-10-21T18:21:49.303Z</updated>
+    <updated>2023-10-21T19:14:57.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['곰팡이 휴게실'에…노동부 "산단 공동휴게시설 설치 적극 지원할 것"]]></title>
+        <id>https://v.daum.net/v/20231021212100495</id>
+        <link href="https://v.daum.net/v/20231021212100495"/>
+        <updated>2023-10-21T19:13:25.730Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영풍제지 거래정지에 5천억 원 미수금‥'라덕연 사태' 재연되나?]]></title>
         <id>https://v.daum.net/v/20231021202513981</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231021190000223"/>
         <updated>2023-10-21T11:16:22.167Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“택시기사랑 싸움나요” 2000원 ‘택시 팁’ 도입 불똥…카카오 천하 ‘흔들?’]]></title>
-        <id>https://v.daum.net/v/20231021185037155</id>
-        <link href="https://v.daum.net/v/20231021185037155"/>
-        <updated>2023-10-21T11:16:22.167Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-10-21T18:21:49.290Z</updated>
+    <updated>2023-10-21T19:14:57.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘울긋불긋’ 깊어가는 가을…하늘에서 내려다 본 단풍 풍경]]></title>
+        <id>https://v.daum.net/v/20231021213338558</id>
+        <link href="https://v.daum.net/v/20231021213338558"/>
+        <updated>2023-10-21T19:13:53.191Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대청봉도 못 오른 채 에베레스트 정복…산악계 원로 김영도 별세]]></title>
         <id>https://v.daum.net/v/20231022003301538</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231021213533571"/>
         <updated>2023-10-21T13:21:59.757Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["더 많은 팬들과 함께"…'클래식'도 뮤직비디오로 접한다]]></title>
-        <id>https://v.daum.net/v/20231021205104248</id>
-        <link href="https://v.daum.net/v/20231021205104248"/>
-        <updated>2023-10-21T12:30:26.568Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
