@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-10-21T14:16:00.269Z</updated>
+    <updated>2023-10-21T15:17:02.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[지구촌톡톡] 밤하늘서 해와 달이 연출한 환상적 우주쇼]]></title>
+        <id>https://v.daum.net/v/20231021174424317</id>
+        <link href="https://v.daum.net/v/20231021174424317"/>
+        <updated>2023-10-21T15:16:16.170Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남성 틈바구니에서 육중한 돌에 구멍을 뚫은 여성 조각가 [진혜윤 교수의 미술, 도시 그리고 여성]]]></title>
+        <id>https://v.daum.net/v/20231021200624815</id>
+        <link href="https://v.daum.net/v/20231021200624815"/>
+        <updated>2023-10-21T15:16:16.183Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['젊은 연인이 지나가면...' 여주에 떠도는 아름다운 풍문]]></title>
         <id>https://v.daum.net/v/20231021200601809</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231021170040623"/>
         <updated>2023-10-21T11:16:55.374Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국에선 예고편도 시청 불가…이태원 참사 다큐 ‘크러시’]]></title>
-        <id>https://v.daum.net/v/20231021162502275</id>
-        <link href="https://v.daum.net/v/20231021162502275"/>
-        <updated>2023-10-21T11:16:55.377Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[점점 더 뚱뚱해지는 대한민국···너도나도 비만인 ‘30대 남성’]]></title>
-        <id>https://v.daum.net/v/20231021153915781</id>
-        <link href="https://v.daum.net/v/20231021153915781"/>
-        <updated>2023-10-21T11:16:55.384Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
