@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-22T03:20:21.484Z</updated>
+    <updated>2023-10-22T04:21:29.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[두 번 유찰된 슈퍼컴 6호기, 성능 대폭 낮춰 3차 입찰 진행]]></title>
+        <id>https://v.daum.net/v/20231022105221427</id>
+        <link href="https://v.daum.net/v/20231022105221427"/>
+        <updated>2023-10-22T04:21:00.120Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“그래봐야 ‘뺑끼’”…이 말 했다간 바로 ‘문송합니다’ 해야 할 판 [교과서로 과학뉴스 읽기]]]></title>
+        <id>https://v.daum.net/v/20231022105101404</id>
+        <link href="https://v.daum.net/v/20231022105101404"/>
+        <updated>2023-10-22T04:21:00.121Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한국판 나사' 우주항공청법 표류…입법 지연에 애타는 경남도]]></title>
         <id>https://v.daum.net/v/20231022095507597</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231022071414017"/>
         <updated>2023-10-22T01:16:56.689Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아마존, 휴머노이드 로봇 '디지트' 시험 운행…인간 대신하나]]></title>
-        <id>https://v.daum.net/v/20231021195103644</id>
-        <link href="https://v.daum.net/v/20231021195103644"/>
-        <updated>2023-10-22T01:16:56.689Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]"여의도 보다는 카타르지" 구창근 CJENM 대표, 국감 정도는]]></title>
-        <id>https://v.daum.net/v/20231022070107938</id>
-        <link href="https://v.daum.net/v/20231022070107938"/>
-        <updated>2023-10-22T01:16:56.695Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
     </entry>
 </feed>
