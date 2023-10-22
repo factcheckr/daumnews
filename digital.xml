@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-22T12:31:38.890Z</updated>
+    <updated>2023-10-22T13:20:05.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한우축제 취소·가축시장 폐쇄·긴급 방역…확산 방지 안간힘]]></title>
+        <id>https://v.daum.net/v/20231022212549432</id>
+        <link href="https://v.daum.net/v/20231022212549432"/>
+        <updated>2023-10-22T13:19:17.852Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“헉! 구형도 100만원 넘는다” 비싼 아이폰 타령…20대 요금 연체 속출]]></title>
         <id>https://v.daum.net/v/20231022204105121</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231022174619123"/>
         <updated>2023-10-22T09:16:32.782Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 경기 덜 탄다는 이통사마저 '비상경영'···카카오·야놀자도 인력 감축]]></title>
-        <id>https://v.daum.net/v/20231022173917966</id>
-        <link href="https://v.daum.net/v/20231022173917966"/>
-        <updated>2023-10-22T09:16:32.785Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
