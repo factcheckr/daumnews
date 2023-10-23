@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-10-23T16:24:41.351Z</updated>
+    <updated>2023-10-23T17:18:22.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유진, 3199억에 YTN 지분 31% 낙찰...방통위 승인 남아]]></title>
+        <id>https://v.daum.net/v/20231023233806293</id>
+        <link href="https://v.daum.net/v/20231023233806293"/>
+        <updated>2023-10-23T17:16:58.986Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[글로벌 큰손 日 부동산으로… 올 상반기 투자만 2조 달해]]></title>
         <id>https://v.daum.net/v/20231023224506818</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231023210308017"/>
         <updated>2023-10-23T14:17:44.036Z</updated>
         <content type="html"><![CDATA[매경이코노미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["천장서 줄 하나 내려오더니…" 전기차 충전 모습에 '깜짝']]></title>
-        <id>https://v.daum.net/v/20231023180106667</id>
-        <link href="https://v.daum.net/v/20231023180106667"/>
-        <updated>2023-10-23T16:22:29.626Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
