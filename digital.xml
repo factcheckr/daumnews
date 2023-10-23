@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-23T12:37:05.629Z</updated>
+    <updated>2023-10-23T13:23:29.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“남획 아닌 수온 상승에 굶어 죽었다” 몇년간 개체 급감한 알래스카 대게]]></title>
+        <id>https://v.daum.net/v/20231023214629862</id>
+        <link href="https://v.daum.net/v/20231023214629862"/>
+        <updated>2023-10-23T13:22:52.286Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[후쿠시마 오염수 2차 방류 마무리… IAEA, 현장 검증 진행]]></title>
         <id>https://v.daum.net/v/20231023205926934</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231023185105040"/>
         <updated>2023-10-23T11:15:46.083Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방통위, YTN 출자자 변경심사 준비 착수…2~3개월 걸릴 듯]]></title>
-        <id>https://v.daum.net/v/20231023183402558</id>
-        <link href="https://v.daum.net/v/20231023183402558"/>
-        <updated>2023-10-23T10:20:19.626Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
