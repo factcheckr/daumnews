@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-10-23T17:18:22.248Z</updated>
+    <updated>2023-10-23T18:23:09.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1682593/BSXQwBlfbb"/>
         <updated>2023-10-23T17:17:57.534Z</updated>
         <content type="html"><![CDATA[대한민국 대통령실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도와줘요~]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/uwQUGe3osv</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/uwQUGe3osv"/>
+        <updated>2023-10-23T18:22:45.674Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[북한 양덕온천문화휴양지에 '김정은 모자이크 벽화']]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/386/3J23GkVspE"/>
         <updated>2023-10-23T07:17:30.443Z</updated>
         <content type="html"><![CDATA[소방본부 제공 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연설하는 기시다 日 총리]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1471/fWvj41kU01</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1471/fWvj41kU01"/>
-        <updated>2023-10-23T07:17:30.446Z</updated>
-        <content type="html"><![CDATA[세계의 정상들]]></content>
     </entry>
 </feed>
