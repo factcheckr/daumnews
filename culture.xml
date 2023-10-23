@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-10-23T13:23:29.611Z</updated>
+    <updated>2023-10-23T14:19:20.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우울증 안 걸리고 싶다면 하루에 ‘O시간’은 자야]]></title>
+        <id>https://v.daum.net/v/20231023223014539</id>
+        <link href="https://v.daum.net/v/20231023223014539"/>
+        <updated>2023-10-23T14:18:13.187Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바람을 타고 시간이 내려앉는 길 위에서 너를 만나면.. “조각난 순간들도 쉼으로 찾아오겠지”]]></title>
         <id>https://v.daum.net/v/20231023212357364</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231023204332547"/>
         <updated>2023-10-23T12:36:05.228Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명문 교향악단 대향연… 귀 호강할 준비 됐나요?]]></title>
-        <id>https://v.daum.net/v/20231023203234324</id>
-        <link href="https://v.daum.net/v/20231023203234324"/>
-        <updated>2023-10-23T12:36:05.234Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>

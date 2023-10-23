@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-10-23T13:23:29.627Z</updated>
+    <updated>2023-10-23T14:19:20.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[명문 교향악단 대향연… 귀 호강할 준비 됐나요?]]></title>
+        <id>https://v.daum.net/v/20231023203234324</id>
+        <link href="https://v.daum.net/v/20231023203234324"/>
+        <updated>2023-10-23T14:18:23.576Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제철 맞은 대하, 생으로 먹다간 사망까지?]]></title>
         <id>https://v.daum.net/v/20231023200015489</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231023175955593"/>
         <updated>2023-10-23T10:20:10.005Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[와, 여기만 ‘바글바글’… 대구 찍고 부산서 터진 W컨셉]]></title>
-        <id>https://v.daum.net/v/20231023181209981</id>
-        <link href="https://v.daum.net/v/20231023181209981"/>
-        <updated>2023-10-23T10:20:10.005Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
