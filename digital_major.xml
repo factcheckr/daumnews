@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-25T03:20:30.036Z</updated>
+    <updated>2023-10-25T04:23:27.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20231025115710436"/>
         <updated>2023-10-25T03:19:48.287Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3세대 애플워치SE, 어떻게 나올까]]></title>
+        <id>https://v.daum.net/v/20231025110905693</id>
+        <link href="https://v.daum.net/v/20231025110905693"/>
+        <updated>2023-10-25T04:22:46.086Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퀄컴, 차세대 PC용 고성능 프로세서 공개…'터줏대감’ 인텔에 도전장]]></title>
+        <id>https://v.daum.net/v/20231025104337438</id>
+        <link href="https://v.daum.net/v/20231025104337438"/>
+        <updated>2023-10-25T04:22:46.088Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['킹스레이드' 베스파, 회생계획 인가…오라인베스트먼트가 인수]]></title>
@@ -48,7 +62,7 @@
         <content type="html"><![CDATA[문화일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]국제 공동 연구 활성화 위해  ‘3책 5공’ 규제 푼다]]></title>
+        <title type="html"><![CDATA[[단독] 국제 공동 연구 활성화 위해  ‘3책 5공’ 규제 푼다]]></title>
         <id>https://v.daum.net/v/20231025101717330</id>
         <link href="https://v.daum.net/v/20231025101717330"/>
         <updated>2023-10-25T02:25:36.608Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231025100019624"/>
         <updated>2023-10-25T02:25:36.611Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 생성AI 기업들 "디지털 워터마크 필요하다…단계적 도입"]]></title>
-        <id>https://v.daum.net/v/20231025100024637</id>
-        <link href="https://v.daum.net/v/20231025100024637"/>
-        <updated>2023-10-25T02:25:36.612Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민·관 최고위 AI 전략대화…내달 AI 신뢰성 자율 인증 추진]]></title>
-        <id>https://v.daum.net/v/20231025100018622</id>
-        <link href="https://v.daum.net/v/20231025100018622"/>
-        <updated>2023-10-25T02:25:36.614Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
