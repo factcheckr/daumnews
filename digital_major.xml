@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-25T18:23:27.271Z</updated>
+    <updated>2023-10-25T19:20:00.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DC가 열고, 마블이 장악했다! 슈퍼 히어로 게임의 세대교체]]></title>
+        <id>https://v.daum.net/v/20231025204205999</id>
+        <link href="https://v.daum.net/v/20231025204205999"/>
+        <updated>2023-10-25T19:19:18.810Z</updated>
+        <content type="html"><![CDATA[게임동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘속도 관건’ 통신 재난…드론으로 긴급 복구]]></title>
         <id>https://v.daum.net/v/20231025194457618</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231025175252436"/>
         <updated>2023-10-25T11:15:59.707Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["현재 암호가 미래 위협으로"…저장 후 해독하는 'SNDL'이 뜬다]]></title>
-        <id>https://v.daum.net/v/20231025172733552</id>
-        <link href="https://v.daum.net/v/20231025172733552"/>
-        <updated>2023-10-25T10:21:09.691Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
