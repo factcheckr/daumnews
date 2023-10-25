@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-25T09:19:56.118Z</updated>
+    <updated>2023-10-25T10:21:50.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“AI시대, 75점짜리 답 쓰면 생계 위험… ‘질문하는 능력’ 갖춰야”]]></title>
+        <id>https://v.daum.net/v/20231025182605560</id>
+        <link href="https://v.daum.net/v/20231025182605560"/>
+        <updated>2023-10-25T10:21:02.435Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유명인 사칭광고 왜 안 없어질까…정부 부랴부랴 '늦장 대응책']]></title>
+        <id>https://v.daum.net/v/20231025182515544</id>
+        <link href="https://v.daum.net/v/20231025182515544"/>
+        <updated>2023-10-25T10:21:02.438Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세상 쓸데 없는 애플 걱정?…아이폰15 韓 초반 흥행 성공]]></title>
         <id>https://v.daum.net/v/20231025175328450</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231025175252436"/>
         <updated>2023-10-25T09:19:09.835Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["현재 암호가 미래 위협으로"…저장 후 해독하는 'SNDL'이 뜬다]]></title>
-        <id>https://v.daum.net/v/20231025172733552</id>
-        <link href="https://v.daum.net/v/20231025172733552"/>
-        <updated>2023-10-25T09:19:09.837Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 클로바노트, 내달 정식 버전 출시…"유료화 시기 조율"]]></title>
-        <id>https://v.daum.net/v/20231025172426464</id>
-        <link href="https://v.daum.net/v/20231025172426464"/>
-        <updated>2023-10-25T09:19:09.839Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
