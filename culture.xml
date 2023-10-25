@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-10-25T16:27:12.582Z</updated>
+    <updated>2023-10-25T17:18:36.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“AI시대, 75점짜리 답 쓰면 생계 위험… ‘질문하는 능력’ 갖춰야” [서울미래컨퍼런스 2023]]]></title>
+        <id>https://v.daum.net/v/20231025182605560</id>
+        <link href="https://v.daum.net/v/20231025182605560"/>
+        <updated>2023-10-25T17:17:27.923Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반값 위스키 나올 수 있을까? [김지호의 위스키디아]]]></title>
         <id>https://v.daum.net/v/20231026001128698</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231026000612636"/>
         <updated>2023-10-25T15:19:07.035Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구에서 맞는 특별한 가을] 이효상·박목월·이육사 … ‘근현대 문학인의 삶’을 만나보세요]]></title>
-        <id>https://v.daum.net/v/20231026000436543</id>
-        <link href="https://v.daum.net/v/20231026000436543"/>
-        <updated>2023-10-25T16:25:56.330Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
