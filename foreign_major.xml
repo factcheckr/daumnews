@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-10-25T15:20:33.502Z</updated>
+    <updated>2023-10-25T16:27:12.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이스라엘 반발에 한발 물러선 구테흐스…"내 말 와전됐다"]]></title>
+        <id>https://v.daum.net/v/20231025235342316</id>
+        <link href="https://v.daum.net/v/20231025235342316"/>
+        <updated>2023-10-25T16:25:47.114Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[월드 이슈] 속내 복잡한 미국]]></title>
+        <id>https://v.daum.net/v/20231025232706960</id>
+        <link href="https://v.daum.net/v/20231025232706960"/>
+        <updated>2023-10-25T16:25:47.114Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인도네시아 슬라웨시섬 규모 5.5 지진 발생(상보)]]></title>
         <id>https://v.daum.net/v/20231025225351455</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231025220123530"/>
         <updated>2023-10-25T14:16:50.402Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["中, '빚더미' 지방정부들 추가 융자·기간시설 프로젝트 제한"]]></title>
-        <id>https://v.daum.net/v/20231025215241370</id>
-        <link href="https://v.daum.net/v/20231025215241370"/>
-        <updated>2023-10-25T14:16:50.407Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시진핑, '中美관계 개선' 또 강조…"노력할테니 美 함께 가길"(종합)]]></title>
-        <id>https://v.daum.net/v/20231025214021187</id>
-        <link href="https://v.daum.net/v/20231025214021187"/>
-        <updated>2023-10-25T14:16:50.407Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

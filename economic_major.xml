@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-10-25T15:20:33.493Z</updated>
+    <updated>2023-10-25T16:27:12.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231026000328514"/>
         <updated>2023-10-25T15:18:30.763Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['시간 약속' 안 지킨 태양광 출력제어…'1분 전' 급정지까지]]></title>
+        <id>https://v.daum.net/v/20231025223222997</id>
+        <link href="https://v.daum.net/v/20231025223222997"/>
+        <updated>2023-10-25T16:25:26.713Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한·카타르, 경협 고도화 기반 마련…현대重 5조원 LNG선 수주]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231025212118850"/>
         <updated>2023-10-25T14:16:31.778Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 대출 낀 '수원 임대왕' 물건도 군소리 없이 중개…"뒷돈은 관행"]]></title>
-        <id>https://v.daum.net/v/20231025210643535</id>
-        <link href="https://v.daum.net/v/20231025210643535"/>
-        <updated>2023-10-25T13:21:24.191Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
