@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-10-26T18:25:12.928Z</updated>
+    <updated>2023-10-26T19:16:27.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231027030500074"/>
         <updated>2023-10-26T18:23:27.970Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4%대 예금 80%가 ‘비대면’… 고령층엔 ‘그림의 떡’]]></title>
+        <id>https://v.daum.net/v/20231027030315002</id>
+        <link href="https://v.daum.net/v/20231027030315002"/>
+        <updated>2023-10-26T19:15:02.467Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[서울 아파트값 상승폭 줄어… 강북구는 하락 전환]]></title>
@@ -24,6 +31,13 @@
         <id>https://v.daum.net/v/20231027030222944</id>
         <link href="https://v.daum.net/v/20231027030222944"/>
         <updated>2023-10-26T18:23:27.974Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘툭하면 블랙아웃’ 전력반도체단지 원인별 대책 나왔다]]></title>
+        <id>https://v.daum.net/v/20231027030133892</id>
+        <link href="https://v.daum.net/v/20231027030133892"/>
+        <updated>2023-10-26T19:15:02.475Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
     </entry>
     <entry>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231027010452677"/>
         <updated>2023-10-26T18:23:27.983Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“소처럼 일했는데…” 65세 이상 연금 수급액 월평균 60만 원]]></title>
-        <id>https://v.daum.net/v/20231026234206027</id>
-        <link href="https://v.daum.net/v/20231026234206027"/>
-        <updated>2023-10-26T18:23:27.985Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강달러에 코스피 2300선 깨져…미 4.9% 고성장, 추가 긴축 우려]]></title>
-        <id>https://v.daum.net/v/20231027001805516</id>
-        <link href="https://v.daum.net/v/20231027001805516"/>
-        <updated>2023-10-26T18:23:27.986Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
