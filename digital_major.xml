@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-26T14:18:26.309Z</updated>
+    <updated>2023-10-26T15:19:49.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지역방송사들 "광고 결합판매 사라지면 지역은 몰락"]]></title>
+        <id>https://v.daum.net/v/20231026192344488</id>
+        <link href="https://v.daum.net/v/20231026192344488"/>
+        <updated>2023-10-26T15:19:14.790Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["개인정보 불법 유통 심각"...네이버·트위터, 대책 마련 약속]]></title>
         <id>https://v.daum.net/v/20231026182703898</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231026174246375"/>
         <updated>2023-10-26T09:18:20.685Z</updated>
         <content type="html"><![CDATA[게임톡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내년 CES '全산업 인공지능화'가 화두]]></title>
-        <id>https://v.daum.net/v/20231026172733794</id>
-        <link href="https://v.daum.net/v/20231026172733794"/>
-        <updated>2023-10-26T14:17:47.611Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
