@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-26T09:18:51.331Z</updated>
+    <updated>2023-10-26T10:19:55.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고독하지 않고 사회적인 고양이…'276가지 표정' 짓는다]]></title>
+        <id>https://v.daum.net/v/20231026174618469</id>
+        <link href="https://v.daum.net/v/20231026174618469"/>
+        <updated>2023-10-26T10:19:19.642Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 연구진, 뇌종양 정밀 진단하는 방사성의약품 세계 첫 개발]]></title>
         <id>https://v.daum.net/v/20231026134705972</id>
@@ -55,7 +62,7 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[위성으로 본 경제] 공장 내뿜는 열과 버스 수상한 움직임에서 드러난 개성공단 무단 가동 정황]]></title>
+        <title type="html"><![CDATA[[위성으로 본 경제] 공장의 열과 수상한 버스 이동…딱 걸린 개성공단 무단 가동]]></title>
         <id>https://v.daum.net/v/20231026162738213</id>
         <link href="https://v.daum.net/v/20231026162738213"/>
         <updated>2023-10-26T09:18:20.699Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231026162313015"/>
         <updated>2023-10-26T08:24:20.090Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["위치정보 요청 40％ 증가했지만, 실제 확인은 절반 수준"]]></title>
-        <id>https://v.daum.net/v/20231026161631721</id>
-        <link href="https://v.daum.net/v/20231026161631721"/>
-        <updated>2023-10-26T08:24:20.098Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
