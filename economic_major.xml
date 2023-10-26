@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-10-26T13:22:17.976Z</updated>
+    <updated>2023-10-26T14:18:26.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231026215346164"/>
         <updated>2023-10-26T13:20:54.048Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[결국 국감장에 선 박영우..기존 입장 반복만]]></title>
+        <id>https://v.daum.net/v/20231026210643430</id>
+        <link href="https://v.daum.net/v/20231026210643430"/>
+        <updated>2023-10-26T14:16:50.100Z</updated>
+        <content type="html"><![CDATA[kbc광주방송]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“서울 도봉구, 20평대 3억원 수준 거래 여러건 체결…시세 자리잡아”]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231026210004273"/>
         <updated>2023-10-26T13:20:54.071Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美금리 뛰고 실적 악화에 '패닉셀링'…외국인 나흘간 1.2兆 매도]]></title>
-        <id>https://v.daum.net/v/20231026182715913</id>
-        <link href="https://v.daum.net/v/20231026182715913"/>
-        <updated>2023-10-26T13:20:54.073Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
