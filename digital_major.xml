@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-27T13:22:01.879Z</updated>
+    <updated>2023-10-27T15:19:34.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성 "연내 40만원대 단말 출시"…SKT "요금제 선택권 넓힐 것"(종합)]]></title>
+        <id>https://v.daum.net/v/20231027175235308</id>
+        <link href="https://v.daum.net/v/20231027175235308"/>
+        <updated>2023-10-27T15:18:54.392Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플 ‘비전 프로’ 정신질환 치료에 사용될까]]></title>
         <id>https://v.daum.net/v/20231027173858937</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231027161350009"/>
         <updated>2023-10-27T08:24:13.652Z</updated>
         <content type="html"><![CDATA[게임톡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["메모리 가격, 내년 1분기까지 UP"...감산·수요회복 '약발']]></title>
-        <id>https://v.daum.net/v/20231027155747251</id>
-        <link href="https://v.daum.net/v/20231027155747251"/>
-        <updated>2023-10-27T08:24:13.655Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
