@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-27T20:19:53.848Z</updated>
+    <updated>2023-10-27T21:18:36.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI 데이터 산업 규모·실적 늘었는데…"정부 지원 예산 31.8% 깎여"]]></title>
+        <id>https://v.daum.net/v/20231027205046489</id>
+        <link href="https://v.daum.net/v/20231027205046489"/>
+        <updated>2023-10-27T21:18:04.279Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“매운 맛, 나쁜줄 알았는데” 아무도 몰랐다…‘후추’ 놀라운 사실]]></title>
+        <id>https://v.daum.net/v/20231027204131404</id>
+        <link href="https://v.daum.net/v/20231027204131404"/>
+        <updated>2023-10-27T21:18:04.280Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이랬다 저랬다"...당근·메타·카카오 등 국감 증인 철회 줄이어]]></title>
         <id>https://v.daum.net/v/20231027183546333</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231027165006385"/>
         <updated>2023-10-27T09:18:06.080Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3번 유찰된 국가 슈퍼컴 6호기 사업…정부 "스펙 바꿔서라도 추진"]]></title>
-        <id>https://v.daum.net/v/20231027163602873</id>
-        <link href="https://v.daum.net/v/20231027163602873"/>
-        <updated>2023-10-27T09:18:06.082Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[일상 속 뇌과학] 보잘것 없는 생물도 배우고 기억할까]]></title>
-        <id>https://v.daum.net/v/20231027163413797</id>
-        <link href="https://v.daum.net/v/20231027163413797"/>
-        <updated>2023-10-27T09:18:06.084Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
