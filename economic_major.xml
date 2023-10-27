@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-10-27T15:19:33.996Z</updated>
+    <updated>2023-10-27T16:23:30.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20231027231504963"/>
         <updated>2023-10-27T15:17:54.722Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“언론 민영화가 이렇게 쉽다고?”]]></title>
+        <id>https://v.daum.net/v/20231027230302885</id>
+        <link href="https://v.daum.net/v/20231027230302885"/>
+        <updated>2023-10-27T16:21:53.324Z</updated>
+        <content type="html"><![CDATA[한겨레21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美금리결정 한주전 '근원PCE 3.7%'…엑셀밟기 어렵다]]></title>
+        <id>https://v.daum.net/v/20231027225404827</id>
+        <link href="https://v.daum.net/v/20231027225404827"/>
+        <updated>2023-10-27T16:21:53.326Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[서울-양평고속道 여야 대립각…LH 부실시공엔 한 목소리 [2023 국감]]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231027214327183"/>
         <updated>2023-10-27T15:17:54.747Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹대통령 “혜택 있어야 지방 간다”…이전기업 보조금 ‘따블’로]]></title>
-        <id>https://v.daum.net/v/20231027213001051</id>
-        <link href="https://v.daum.net/v/20231027213001051"/>
-        <updated>2023-10-27T13:20:12.821Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공매도 금지하나…신중론 금융위 “사실 아냐”]]></title>
-        <id>https://v.daum.net/v/20231027205825593</id>
-        <link href="https://v.daum.net/v/20231027205825593"/>
-        <updated>2023-10-27T13:20:12.822Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
