@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-10-28T20:18:22.037Z</updated>
+    <updated>2023-10-28T21:16:39.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한의 가을 절경 자랑…드론이 촬영한 명승지들[노동신문 사진]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5611950/pnNoVyA0pC</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5611950/pnNoVyA0pC"/>
+        <updated>2023-10-28T21:16:10.472Z</updated>
+        <content type="html"><![CDATA[노동신문 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네타냐후 이스라엘 총리 "가자 지상 작전은 전쟁의 두 번째 단계"]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1471/fBzImMujUj</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1682593/6tAZN4GM1I"/>
         <updated>2023-10-27T16:23:01.129Z</updated>
         <content type="html"><![CDATA[대한민국 대통령실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공중 부양]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5029578/qs0iD4GMOr</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5029578/qs0iD4GMOr"/>
-        <updated>2023-10-27T19:14:13.352Z</updated>
-        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
 </feed>
