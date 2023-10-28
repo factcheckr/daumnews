@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-28T06:22:51.999Z</updated>
+    <updated>2023-10-28T07:17:02.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[20대 남성 97%가 한다는 ‘이것’…정말 질병일까요? [더테크웨이브]]]></title>
-        <id>https://v.daum.net/v/20231028150607370</id>
-        <link href="https://v.daum.net/v/20231028150607370"/>
-        <updated>2023-10-28T06:21:59.701Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[알트코인 '꿈틀'…파워렛저 등 급등락 주의보]]></title>
         <id>https://v.daum.net/v/20231028140203701</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20231028105733288"/>
         <updated>2023-10-28T02:22:08.476Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[위클리스마트] 출입증 복제·선관위 해킹 논란…근원은 'IoT 보안']]></title>
+        <id>https://v.daum.net/v/20231028100010711</id>
+        <link href="https://v.daum.net/v/20231028100010711"/>
+        <updated>2023-10-28T07:16:15.629Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
