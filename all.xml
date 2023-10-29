@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/daumnews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-29T18:22:44.835Z</updated>
+    <updated>2023-10-29T19:15:45.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[인도 남부에서 기차 탈선 사고 발생…최소 10명 숨져 (다음뉴스 ─ 홈)]]></title>
+        <id>https://v.daum.net/v/20231030004857612</id>
+        <link href="https://v.daum.net/v/20231030004857612"/>
+        <updated>2023-10-29T19:13:09.361Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美, 지상전 암묵적 지지… 이란 “美, 새로운 전선 열릴 것” (다음뉴스 ─ 홈)]]></title>
         <id>https://v.daum.net/v/20231030030119805</id>
@@ -40,24 +47,10 @@
         <content type="html"><![CDATA[경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[이·팔 전쟁] 국제형사재판소 "구호물자 어떤 식으로든 중단안돼" (다음뉴스 ─ 홈)]]></title>
-        <id>https://v.daum.net/v/20231030023826762</id>
-        <link href="https://v.daum.net/v/20231030023826762"/>
-        <updated>2023-10-29T18:20:10.330Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독]아시아나항공 이사회 하루 앞두고 사내이사 돌연 사임 (다음뉴스 ─ 홈)]]></title>
         <id>https://v.daum.net/v/20231030001707532</id>
         <link href="https://v.daum.net/v/20231030001707532"/>
         <updated>2023-10-29T16:20:31.426Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 국내 주식 7.7兆 사들인 ‘개미’ …수익률은 0.82% (다음뉴스 ─ 홈)]]></title>
-        <id>https://v.daum.net/v/20231029215512588</id>
-        <link href="https://v.daum.net/v/20231029215512588"/>
-        <updated>2023-10-29T16:20:31.449Z</updated>
         <content type="html"><![CDATA[경제]]></content>
     </entry>
     <entry>
@@ -145,123 +138,151 @@
         <content type="html"><![CDATA[경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[핼러윈 1년, 선을 지켰다 (다음뉴스 ─ 사회 ─ 메인뉴스)]]></title>
+        <title type="html"><![CDATA[비례대표 시선은 총선에…김의겸, 대표발의 법안 가결률 '꼴등' (다음뉴스 ─ 홈)]]></title>
+        <id>https://v.daum.net/v/20231030000049286</id>
+        <link href="https://v.daum.net/v/20231030000049286"/>
+        <updated>2023-10-29T15:19:55.219Z</updated>
+        <content type="html"><![CDATA[정치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수능 공부에 바쁜 소년수들… 인성 교육·반성문도 틈틈이 (다음뉴스 ─ 사회 ─ 메인뉴스)]]></title>
+        <id>https://v.daum.net/v/20231030041019154</id>
+        <link href="https://v.daum.net/v/20231030041019154"/>
+        <updated>2023-10-29T19:13:20.446Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폭우·폭염에 속 썩은 배추… “출하량 70% 줄어들 듯” (다음뉴스 ─ 사회 ─ 메인뉴스)]]></title>
+        <id>https://v.daum.net/v/20231030041002148</id>
+        <link href="https://v.daum.net/v/20231030041002148"/>
+        <updated>2023-10-29T19:13:20.446Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로봇청소기 특허출원 한국 세계 1위 (다음뉴스 ─ 사회 ─ 메인뉴스)]]></title>
+        <id>https://v.daum.net/v/20231030040822138</id>
+        <link href="https://v.daum.net/v/20231030040822138"/>
+        <updated>2023-10-29T19:13:20.447Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빚 탕감 경력자의 재파산 신청 6개월간 740건… 해마다 증가 (다음뉴스 ─ 사회 ─ 메인뉴스)]]></title>
+        <id>https://v.daum.net/v/20231030040727125</id>
+        <link href="https://v.daum.net/v/20231030040727125"/>
+        <updated>2023-10-29T19:13:20.447Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지병 있는 물리치료사 퇴근 후 사망… 법원 “노동 강도 높아” 산재 인정 (다음뉴스 ─ 사회 ─ 메인뉴스)]]></title>
+        <id>https://v.daum.net/v/20231030040721122</id>
+        <link href="https://v.daum.net/v/20231030040721122"/>
+        <updated>2023-10-29T19:13:20.449Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[논의조차 안된 案들 대거 포함… “국민연금 근간 흔드는 것” (다음뉴스 ─ 사회 ─ 메인뉴스)]]></title>
+        <id>https://v.daum.net/v/20231030040623118</id>
+        <link href="https://v.daum.net/v/20231030040623118"/>
+        <updated>2023-10-29T19:13:20.454Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[급성 기침 치료받다 사망한 37일 영아… 대법 “의료진 과실 증명 부족” 판결 (다음뉴스 ─ 사회 ─ 메이저)]]></title>
+        <id>https://v.daum.net/v/20231030040612112</id>
+        <link href="https://v.daum.net/v/20231030040612112"/>
+        <updated>2023-10-29T19:13:31.254Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“다양한 거주 서비스선택권 기반 ‘장애인 탈시설’ 정책 펼쳐야” (다음뉴스 ─ 사회 ─ 메이저)]]></title>
+        <id>https://v.daum.net/v/20231030040502097</id>
+        <link href="https://v.daum.net/v/20231030040502097"/>
+        <updated>2023-10-29T19:13:31.254Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[광주·전남 공직사회 떠나는 ‘MZ세대’… 4년간 1200여명 퇴직 (다음뉴스 ─ 사회 ─ 메이저)]]></title>
+        <id>https://v.daum.net/v/20231030040412091</id>
+        <link href="https://v.daum.net/v/20231030040412091"/>
+        <updated>2023-10-29T19:13:31.257Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지자체 국장급 기구설치 자율화… 행안부, 자치조직권 확충 (다음뉴스 ─ 사회 ─ 메이저)]]></title>
+        <id>https://v.daum.net/v/20231030040217077</id>
+        <link href="https://v.daum.net/v/20231030040217077"/>
+        <updated>2023-10-29T19:13:31.261Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“매출 70~80% 회복” 기운차린 이태원 상권 (다음뉴스 ─ 사회 ─ 메이저)]]></title>
+        <id>https://v.daum.net/v/20231030033542049</id>
+        <link href="https://v.daum.net/v/20231030033542049"/>
+        <updated>2023-10-29T19:13:31.265Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍대 몰렸지만 사고 없었다… “우측통행 평소에도 지켜야” (다음뉴스 ─ 사회 ─ 메이저)]]></title>
+        <id>https://v.daum.net/v/20231030033502047</id>
+        <link href="https://v.daum.net/v/20231030033502047"/>
+        <updated>2023-10-29T19:13:31.270Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[핼러윈 1년, 선을 지켰다 (다음뉴스 ─ 사회 ─ 메이저)]]></title>
         <id>https://v.daum.net/v/20231030030842003</id>
         <link href="https://v.daum.net/v/20231030030842003"/>
         <updated>2023-10-29T18:20:20.877Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“직업군인 거부해 부산행…한국전 참혹함 책으로 펴냈죠” (다음뉴스 ─ 사회 ─ 메인뉴스)]]></title>
+        <title type="html"><![CDATA[“직업군인 거부해 부산행…한국전 참혹함 책으로 펴냈죠” (다음뉴스 ─ 사회 ─ 메이저)]]></title>
         <id>https://v.daum.net/v/20231030030325930</id>
         <link href="https://v.daum.net/v/20231030030325930"/>
         <updated>2023-10-29T18:20:20.887Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[넓고 큰 獨구급차, 구급대원 5명이 함께 응급처치 가능 (다음뉴스 ─ 사회 ─ 메인뉴스)]]></title>
+        <title type="html"><![CDATA[넓고 큰 獨구급차, 구급대원 5명이 함께 응급처치 가능 (다음뉴스 ─ 사회 ─ 메이저)]]></title>
         <id>https://v.daum.net/v/20231030030122808</id>
         <link href="https://v.daum.net/v/20231030030122808"/>
         <updated>2023-10-29T18:20:20.887Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘주치의 역할’ 美 동네의원, 식단까지 챙긴다 (다음뉴스 ─ 사회 ─ 메인뉴스)]]></title>
+        <title type="html"><![CDATA[‘주치의 역할’ 美 동네의원, 식단까지 챙긴다 (다음뉴스 ─ 사회 ─ 메이저)]]></title>
         <id>https://v.daum.net/v/20231030030105797</id>
         <link href="https://v.daum.net/v/20231030030105797"/>
-        <updated>2023-10-29T18:20:20.888Z</updated>
+        <updated>2023-10-29T18:20:10.328Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“내 인생 최악”… 청년 니트족, 오래 쉴수록 극단 인식 커진다 (다음뉴스 ─ 사회 ─ 메인뉴스)]]></title>
-        <id>https://v.daum.net/v/20231030000513388</id>
-        <link href="https://v.daum.net/v/20231030000513388"/>
-        <updated>2023-10-29T16:20:31.450Z</updated>
+        <title type="html"><![CDATA[“지난해 오늘 가장 슬펐던 날” 尹 영암교회 추도예배 참석 (다음뉴스 ─ 정치 ─ 메인뉴스)]]></title>
+        <id>https://v.daum.net/v/20231030040523107</id>
+        <link href="https://v.daum.net/v/20231030040523107"/>
+        <updated>2023-10-29T19:13:40.127Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[책임회피도, 단죄프레임도 그만… “공감과 회복으로” (다음뉴스 ─ 사회 ─ 메인뉴스)]]></title>
-        <id>https://v.daum.net/v/20231030000512386</id>
-        <link href="https://v.daum.net/v/20231030000512386"/>
-        <updated>2023-10-29T15:20:04.367Z</updated>
+        <title type="html"><![CDATA[평화봉사단원·가족 등 올해까지 750명 초청… 코로나땐 마스크 선물 (다음뉴스 ─ 정치 ─ 메인뉴스)]]></title>
+        <id>https://v.daum.net/v/20231030034737059</id>
+        <link href="https://v.daum.net/v/20231030034737059"/>
+        <updated>2023-10-29T19:13:40.128Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이태원 특별법 충돌… ‘특조위 구성 공정한가’ 최대 쟁점 (다음뉴스 ─ 정치 ─ 메인뉴스)]]></title>
+        <id>https://v.daum.net/v/20231030040459096</id>
+        <link href="https://v.daum.net/v/20231030040459096"/>
+        <updated>2023-10-29T19:13:40.128Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인류 최악의 무기, 차르봄바 [그해 오늘] (다음뉴스 ─ 사회 ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231030000012259</id>
-        <link href="https://v.daum.net/v/20231030000012259"/>
-        <updated>2023-10-29T15:19:55.224Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명동에 외국인 많던데 혹시?…쇼핑 강요 ‘불법가이드’ 뿌리뽑는다 (다음뉴스 ─ 사회 ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231029234800212</id>
-        <link href="https://v.daum.net/v/20231029234800212"/>
-        <updated>2023-10-29T15:20:04.388Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["자진철거 유도" vs "진상규명 먼저"…'뜨거운 감자' 서울광장 분향소 (다음뉴스 ─ 사회 ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231030000025272</id>
-        <link href="https://v.daum.net/v/20231030000025272"/>
-        <updated>2023-10-29T15:19:55.224Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노상방뇨 말리는 식당 업주·종업원에 흉기 휘두른 40대 ‘실형’ (다음뉴스 ─ 사회 ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231029234157185</id>
-        <link href="https://v.daum.net/v/20231029234157185"/>
-        <updated>2023-10-29T15:20:04.389Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연봉 3억, 풀옵션 새 아파트...‘전문의’ 확보에 단양군이 내건 조건 (다음뉴스 ─ 사회 ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231029215511587</id>
-        <link href="https://v.daum.net/v/20231029215511587"/>
-        <updated>2023-10-29T14:13:56.204Z</updated>
+        <title type="html"><![CDATA[스티븐스·존스·커밍스… 봉사단 통해 한국과 인연 (다음뉴스 ─ 정치 ─ 메인뉴스)]]></title>
+        <id>https://v.daum.net/v/20231030034715058</id>
+        <link href="https://v.daum.net/v/20231030034715058"/>
+        <updated>2023-10-29T19:13:40.129Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 ‘핼러윈 안전 인력’ 8000명 투입 (다음뉴스 ─ 사회 ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231029221612729</id>
-        <link href="https://v.daum.net/v/20231029221612729"/>
-        <updated>2023-10-29T14:13:56.216Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“누굴 위한 정부인가”…시민·유족, 눈물 속 추모 행진 [10·29 그리고 1년] (다음뉴스 ─ 사회 ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231029230702057</id>
-        <link href="https://v.daum.net/v/20231029230702057"/>
-        <updated>2023-10-29T14:14:05.479Z</updated>
-        <content type="html"><![CDATA[쿠키뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[왓슈] 잇따르는 대규모 재난, 무엇이 문제인가 (다음뉴스 ─ 사회 ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231029225852000</id>
-        <link href="https://v.daum.net/v/20231029225852000"/>
-        <updated>2023-10-29T14:14:05.482Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소똥구리 다음은 꼬치동자개...멸종위기종 계속 돌아온다 (다음뉴스 ─ 사회 ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231029225842996</id>
-        <link href="https://v.daum.net/v/20231029225842996"/>
-        <updated>2023-10-29T14:14:05.485Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한강공원 뒤덮은 '송충이' 닮은 해충...인체 해로운데 퇴치 '골머리' (다음뉴스 ─ 사회 ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231029225702976</id>
-        <link href="https://v.daum.net/v/20231029225702976"/>
-        <updated>2023-10-29T14:14:05.490Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹 “작년 오늘은 가장 슬픈날”… 7000명 서울광장서 ‘핼러윈 추모’ (다음뉴스 ─ 정치 ─ 메인뉴스)]]></title>
-        <id>https://v.daum.net/v/20231030030208861</id>
-        <link href="https://v.daum.net/v/20231030030208861"/>
-        <updated>2023-10-29T18:20:40.260Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[부산이 리야드 3배…구글 검색빈도도 압도 (다음뉴스 ─ 정치 ─ 메인뉴스)]]></title>
@@ -271,32 +292,25 @@
         <content type="html"><![CDATA[국제신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]국감자료 16만건 요구한 국회… 피감기관 20%엔 질문도 안해 (다음뉴스 ─ 정치 ─ 메인뉴스)]]></title>
+        <title type="html"><![CDATA[70년대 2000명 왔던 美평화봉사단… “한국은 다른 나라와 달랐다” (다음뉴스 ─ 정치 ─ 메인뉴스)]]></title>
+        <id>https://v.daum.net/v/20231030034636057</id>
+        <link href="https://v.daum.net/v/20231030034636057"/>
+        <updated>2023-10-29T19:13:40.133Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]국감자료 16만건 요구한 국회… 피감기관 20%엔 질문도 안해 (다음뉴스 ─ 정치 ─ 메이저)]]></title>
         <id>https://v.daum.net/v/20231030030155850</id>
         <link href="https://v.daum.net/v/20231030030155850"/>
         <updated>2023-10-29T18:20:40.264Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[책임회피도, 단죄프레임도 그만… “공감과 회복으로” (다음뉴스 ─ 정치 ─ 메인뉴스)]]></title>
-        <id>https://v.daum.net/v/20231030000512386</id>
-        <link href="https://v.daum.net/v/20231030000512386"/>
-        <updated>2023-10-29T15:20:04.367Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“누굴 위한 정부인가”…시민·유족, 눈물 속 추모 행진 [10·29 그리고 1년] (다음뉴스 ─ 정치 ─ 메인뉴스)]]></title>
-        <id>https://v.daum.net/v/20231029230702057</id>
-        <link href="https://v.daum.net/v/20231029230702057"/>
-        <updated>2023-10-29T14:14:05.479Z</updated>
-        <content type="html"><![CDATA[쿠키뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“코로나 지원금 57만명 8000억 환수 면제” (다음뉴스 ─ 정치 ─ 메인뉴스)]]></title>
-        <id>https://v.daum.net/v/20231030030051789</id>
-        <link href="https://v.daum.net/v/20231030030051789"/>
-        <updated>2023-10-29T18:20:40.268Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
+        <title type="html"><![CDATA[혁신위가 띄운 서울 출마론… 與일부 “김기현, 결단해야” (다음뉴스 ─ 정치 ─ 메이저)]]></title>
+        <id>https://v.daum.net/v/20231030033925053</id>
+        <link href="https://v.daum.net/v/20231030033925053"/>
+        <updated>2023-10-29T19:13:52.015Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[해참총장에 잠수함 전문가… “北SLBM 정면대응 의지” (다음뉴스 ─ 정치 ─ 메이저)]]></title>
@@ -304,6 +318,41 @@
         <link href="https://v.daum.net/v/20231030030141833"/>
         <updated>2023-10-29T18:20:50.234Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[軍 서열 1위 합참의장에 ‘해군 3성 장군’ 김명수 발탁 (다음뉴스 ─ 정치 ─ 메이저)]]></title>
+        <id>https://v.daum.net/v/20231030033807051</id>
+        <link href="https://v.daum.net/v/20231030033807051"/>
+        <updated>2023-10-29T19:13:52.015Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“코로나 지원금 57만명 8000억 환수 면제” (다음뉴스 ─ 정치 ─ 메이저)]]></title>
+        <id>https://v.daum.net/v/20231030030051789</id>
+        <link href="https://v.daum.net/v/20231030030051789"/>
+        <updated>2023-10-29T18:20:40.268Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“한국놈도 아냐” “꺼져” 야유·욕설… 인요한 “아픔 함께하는 게 책무” (다음뉴스 ─ 정치 ─ 메이저)]]></title>
+        <id>https://v.daum.net/v/20231030032812036</id>
+        <link href="https://v.daum.net/v/20231030032812036"/>
+        <updated>2023-10-29T19:13:52.024Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[책임회피도, 단죄프레임도 그만… “공감과 회복으로” (다음뉴스 ─ 정치 ─ 메이저)]]></title>
+        <id>https://v.daum.net/v/20231030000512386</id>
+        <link href="https://v.daum.net/v/20231030000512386"/>
+        <updated>2023-10-29T15:20:04.367Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“누굴 위한 정부인가”…시민·유족, 눈물 속 추모 행진 [10·29 그리고 1년] (다음뉴스 ─ 정치 ─ 메이저)]]></title>
+        <id>https://v.daum.net/v/20231029230702057</id>
+        <link href="https://v.daum.net/v/20231029230702057"/>
+        <updated>2023-10-29T14:14:05.479Z</updated>
+        <content type="html"><![CDATA[쿠키뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비례대표 시선은 총선에…김의겸, 대표발의 법안 가결률 '꼴등' (다음뉴스 ─ 정치 ─ 메이저)]]></title>
@@ -320,53 +369,18 @@
         <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['마약'에 멍든 한국…여야, 근절 대책 지적만? (다음뉴스 ─ 정치 ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231030000013261</id>
-        <link href="https://v.daum.net/v/20231030000013261"/>
-        <updated>2023-10-29T15:19:55.219Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
+        <title type="html"><![CDATA[믿었던 빅맥마저… 한 끼 먹기 무섭네 (다음뉴스 ─ 경제 ─ 메인뉴스)]]></title>
+        <id>https://v.daum.net/v/20231030040817136</id>
+        <link href="https://v.daum.net/v/20231030040817136"/>
+        <updated>2023-10-29T19:14:01.490Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이준석의 '尹·TK 이간책'…옛 친박연대 모델 노림수? (다음뉴스 ─ 정치 ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231030000000248</id>
-        <link href="https://v.daum.net/v/20231030000000248"/>
-        <updated>2023-10-29T15:20:22.212Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비명계 “통합하려면 조정식 사무총장 교체해야” (다음뉴스 ─ 정치 ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231029220536668</id>
-        <link href="https://v.daum.net/v/20231029220536668"/>
-        <updated>2023-10-29T14:13:56.215Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정쟁에만 이용된 이태원 참사… 관련 법안 처리는 뒷전 (다음뉴스 ─ 정치 ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231029223001802</id>
-        <link href="https://v.daum.net/v/20231029223001802"/>
-        <updated>2023-10-29T14:13:56.231Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[르포]친윤 실세 장제원의 '이중생활'…주민들의 만능해결사 (다음뉴스 ─ 정치 ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231029221617730</id>
-        <link href="https://v.daum.net/v/20231029221617730"/>
-        <updated>2023-10-29T14:14:24.177Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오세훈 '참사 1주기' 추모식 참석‥'안전 서울' 강조 (다음뉴스 ─ 정치 ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231029221012700</id>
-        <link href="https://v.daum.net/v/20231029221012700"/>
-        <updated>2023-10-29T13:19:18.163Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태원 참사 추모대회 "1년 지난 지금도 정부는 이 자리에 없다" (다음뉴스 ─ 정치 ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231029212503378</id>
-        <link href="https://v.daum.net/v/20231029212503378"/>
-        <updated>2023-10-29T12:31:49.762Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
+        <title type="html"><![CDATA[[관가뒷담] 국감에 한숨 쉬는 과학, 한숨 돌린 정통부 (다음뉴스 ─ 경제 ─ 메인뉴스)]]></title>
+        <id>https://v.daum.net/v/20231030040619115</id>
+        <link href="https://v.daum.net/v/20231030040619115"/>
+        <updated>2023-10-29T19:14:01.491Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[DBR]친환경 비행기 전환 가속화… ‘ESG’ 실천 위한 새 날갯짓 (다음뉴스 ─ 경제 ─ 메인뉴스)]]></title>
@@ -397,14 +411,14 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[K배터리, ‘LFP’ 경쟁 속도… LG엔솔-삼성SDI “2026년 양산” (다음뉴스 ─ 경제 ─ 메인뉴스)]]></title>
+        <title type="html"><![CDATA[K배터리, ‘LFP’ 경쟁 속도… LG엔솔-삼성SDI “2026년 양산” (다음뉴스 ─ 경제 ─ 메이저)]]></title>
         <id>https://v.daum.net/v/20231030030338939</id>
         <link href="https://v.daum.net/v/20231030030338939"/>
         <updated>2023-10-29T18:21:00.457Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“인문사회 연구 강화해 국가 경쟁력 확보에 기여” (다음뉴스 ─ 경제 ─ 메인뉴스)]]></title>
+        <title type="html"><![CDATA[“인문사회 연구 강화해 국가 경쟁력 확보에 기여” (다음뉴스 ─ 경제 ─ 메이저)]]></title>
         <id>https://v.daum.net/v/20231030030342942</id>
         <link href="https://v.daum.net/v/20231030030342942"/>
         <updated>2023-10-29T18:21:00.459Z</updated>
@@ -467,18 +481,32 @@
         <content type="html"><![CDATA[국제신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI 카메라가 적재불량 화물차 적발… 단속 실적 2.4배로 (다음뉴스 ─ 경제 ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231030030222874</id>
-        <link href="https://v.daum.net/v/20231030030222874"/>
-        <updated>2023-10-29T18:21:11.920Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
+        <title type="html"><![CDATA[시진핑 ‘반부패 투쟁’ 10년… 칼날이 측근 겨냥하며 리더십 흔들 (다음뉴스 ─ 국제 ─ 메인뉴스)]]></title>
+        <id>https://v.daum.net/v/20231030040457095</id>
+        <link href="https://v.daum.net/v/20231030040457095"/>
+        <updated>2023-10-29T19:14:22.419Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]강원 고성 소 럼피스킨병, 中→北 거쳐 유입 추정… 전국 61건 확산 (다음뉴스 ─ 경제 ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231030030218873</id>
-        <link href="https://v.daum.net/v/20231030030218873"/>
-        <updated>2023-10-29T18:21:11.923Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
+        <title type="html"><![CDATA[인도 남부에서 기차 탈선 사고 발생…최소 10명 숨져 (다음뉴스 ─ 국제 ─ 메인뉴스)]]></title>
+        <id>https://v.daum.net/v/20231030004857612</id>
+        <link href="https://v.daum.net/v/20231030004857612"/>
+        <updated>2023-10-29T19:14:22.421Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유엔 안보리, 30일 이·팔 전쟁 관련 긴급회의 개최 (다음뉴스 ─ 국제 ─ 메인뉴스)]]></title>
+        <id>https://v.daum.net/v/20231030033120041</id>
+        <link href="https://v.daum.net/v/20231030033120041"/>
+        <updated>2023-10-29T19:14:22.423Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사우디도 이스라엘 규탄… UAE “인도주의 위기” (다음뉴스 ─ 국제 ─ 메인뉴스)]]></title>
+        <id>https://v.daum.net/v/20231030032552030</id>
+        <link href="https://v.daum.net/v/20231030032552030"/>
+        <updated>2023-10-29T19:14:22.425Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“하마스 목적은 유대인 완전히 죽이는 것” (다음뉴스 ─ 국제 ─ 메인뉴스)]]></title>
@@ -495,39 +523,25 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에르도안 “이스라엘이 전쟁범죄”… 보수 이슬람세력 선동 (다음뉴스 ─ 국제 ─ 메인뉴스)]]></title>
+        <title type="html"><![CDATA[에르도안 “이스라엘이 전쟁범죄”… 보수 이슬람세력 선동 (다음뉴스 ─ 국제 ─ 메이저)]]></title>
         <id>https://v.daum.net/v/20231030030236884</id>
         <link href="https://v.daum.net/v/20231030030236884"/>
-        <updated>2023-10-29T18:21:20.422Z</updated>
+        <updated>2023-10-29T18:20:10.326Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美, 지상전 암묵적 지지… 이란 “美, 새로운 전선 열릴 것” (다음뉴스 ─ 국제 ─ 메인뉴스)]]></title>
+        <title type="html"><![CDATA[美, 지상전 암묵적 지지… 이란 “美, 새로운 전선 열릴 것” (다음뉴스 ─ 국제 ─ 메이저)]]></title>
         <id>https://v.daum.net/v/20231030030119805</id>
         <link href="https://v.daum.net/v/20231030030119805"/>
-        <updated>2023-10-29T18:21:20.423Z</updated>
+        <updated>2023-10-29T18:20:10.323Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가자 통신 두절… 머스크 “구호단체에 위성 서비스” (다음뉴스 ─ 국제 ─ 메인뉴스)]]></title>
+        <title type="html"><![CDATA[가자 통신 두절… 머스크 “구호단체에 위성 서비스” (다음뉴스 ─ 국제 ─ 메이저)]]></title>
         <id>https://v.daum.net/v/20231030030118804</id>
         <link href="https://v.daum.net/v/20231030030118804"/>
-        <updated>2023-10-29T18:21:20.425Z</updated>
+        <updated>2023-10-29T18:20:10.324Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이·팔 전쟁] 국경없는기자회 "이, 레바논 국경 기자들 표적 공격" (다음뉴스 ─ 국제 ─ 메인뉴스)]]></title>
-        <id>https://v.daum.net/v/20231030025133775</id>
-        <link href="https://v.daum.net/v/20231030025133775"/>
-        <updated>2023-10-29T18:21:20.428Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이·팔 전쟁] 국제형사재판소 "구호물자 어떤 식으로든 중단안돼" (다음뉴스 ─ 국제 ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231030023826762</id>
-        <link href="https://v.daum.net/v/20231030023826762"/>
-        <updated>2023-10-29T18:21:30.378Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“하마스는 저항조직” 中서 反유대정서 확산…전문가 “검열 당국 용인” (다음뉴스 ─ 국제 ─ 메이저)]]></title>
@@ -579,20 +593,6 @@
         <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고금리에도 미국 경제 나홀로 호황…한국 동반성장 옛말 (다음뉴스 ─ 국제 ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231030000319339</id>
-        <link href="https://v.daum.net/v/20231030000319339"/>
-        <updated>2023-10-29T15:20:41.585Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 "바이든, 몇 시간 내로 네타냐후와 다시 대화할 것" (다음뉴스 ─ 국제 ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231029235701241</id>
-        <link href="https://v.daum.net/v/20231029235701241"/>
-        <updated>2023-10-29T15:21:00.305Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[나막신 춤-엄마 발레리노… 웃고 박수치며 보는 발레 (다음뉴스 ─ 문화 ─ 메인뉴스)]]></title>
         <id>https://v.daum.net/v/20231030030039785</id>
         <link href="https://v.daum.net/v/20231030030039785"/>
@@ -600,7 +600,7 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 중국산 관측장비 '싼 게 비지떡'...평가 기준 손 봐야 (다음뉴스 ─ 문화 ─ 메인뉴스)]]></title>
+        <title type="html"><![CDATA[중국산 관측장비 '싼 게 비지떡'...평가 기준 손 봐야 (다음뉴스 ─ 문화 ─ 메인뉴스)]]></title>
         <id>https://v.daum.net/v/20231030021912748</id>
         <link href="https://v.daum.net/v/20231030021912748"/>
         <updated>2023-10-29T18:21:40.760Z</updated>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[머스크의 영웅놀이… 한 개인이 국가 전쟁 판도 뒤흔들어 (다음뉴스 ─ IT ─ 메인뉴스)]]></title>
+        <id>https://v.daum.net/v/20231030032512029</id>
+        <link href="https://v.daum.net/v/20231030032512029"/>
+        <updated>2023-10-29T19:15:00.930Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[메마른 지구에 미래는 없다 (다음뉴스 ─ IT ─ 메인뉴스)]]></title>
         <id>https://v.daum.net/v/20231030030359951</id>
         <link href="https://v.daum.net/v/20231030030359951"/>
@@ -740,7 +747,7 @@
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우주 노병 보이저 2호, 백신 맞고 ‘기력 보전’ (다음뉴스 ─ IT ─ 메인뉴스)]]></title>
+        <title type="html"><![CDATA[우주 노병 보이저 2호, 백신 맞고 ‘기력 보전’ (다음뉴스 ─ IT ─ 메이저)]]></title>
         <id>https://v.daum.net/v/20231029204646023</id>
         <link href="https://v.daum.net/v/20231029204646023"/>
         <updated>2023-10-29T12:33:15.827Z</updated>
@@ -810,17 +817,17 @@
         <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김범수를 구속시켜야 할까[김현아의 IT세상읽기] (다음뉴스 ─ IT ─ 메이저)]]></title>
-        <id>https://v.daum.net/v/20231029162827599</id>
-        <link href="https://v.daum.net/v/20231029162827599"/>
-        <updated>2023-10-29T08:20:48.912Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA[성북 영암교회서 희생자 위로 (다음뉴스 ─ 포토)]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1682593/07TiZYkUuz</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1682593/07TiZYkUuz"/>
+        <updated>2023-10-29T19:15:17.620Z</updated>
+        <content type="html"><![CDATA[대한민국 대통령실]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한미 장병들, 양국 국기 함께 게양 (다음뉴스 ─ 포토)]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033571/6sCVoJBEOX</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033571/6sCVoJBEOX"/>
-        <updated>2023-10-29T18:22:16.601Z</updated>
+        <title type="html"><![CDATA[국제 과학화전투 경연대회 (다음뉴스 ─ 포토)]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5033571/yGu8Buv8UP</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5033571/yGu8Buv8UP"/>
+        <updated>2023-10-29T19:15:17.622Z</updated>
         <content type="html"><![CDATA[군 제공 포토]]></content>
     </entry>
     <entry>
@@ -927,13 +934,6 @@
         <link href="https://gallery.v.daum.net/p/viewer/661278/G2Pz5Exvlj"/>
         <updated>2023-10-29T06:22:48.509Z</updated>
         <content type="html"><![CDATA[정동길 옆 사진관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤 대통령 '이태원 참사 1주기 추도 예배' (다음뉴스 ─ 포토)]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1682593/6iT4FreWbI</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1682593/6iT4FreWbI"/>
-        <updated>2023-10-29T05:18:01.505Z</updated>
-        <content type="html"><![CDATA[대한민국 대통령실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[수색 작업하는 팔레스타인 가자지구 주민들 (다음뉴스 ─ 포토)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-10-29T18:22:44.822Z</updated>
+    <updated>2023-10-29T19:15:45.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인도 남부에서 기차 탈선 사고 발생…최소 10명 숨져]]></title>
+        <id>https://v.daum.net/v/20231030004857612</id>
+        <link href="https://v.daum.net/v/20231030004857612"/>
+        <updated>2023-10-29T19:13:09.361Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美, 지상전 암묵적 지지… 이란 “美, 새로운 전선 열릴 것”]]></title>
         <id>https://v.daum.net/v/20231030030119805</id>
@@ -41,24 +48,10 @@
         <content type="html"><![CDATA[경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[이·팔 전쟁] 국제형사재판소 "구호물자 어떤 식으로든 중단안돼"]]></title>
-        <id>https://v.daum.net/v/20231030023826762</id>
-        <link href="https://v.daum.net/v/20231030023826762"/>
-        <updated>2023-10-29T18:20:10.330Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독]아시아나항공 이사회 하루 앞두고 사내이사 돌연 사임]]></title>
         <id>https://v.daum.net/v/20231030001707532</id>
         <link href="https://v.daum.net/v/20231030001707532"/>
         <updated>2023-10-29T16:20:31.426Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 국내 주식 7.7兆 사들인 ‘개미’ …수익률은 0.82%]]></title>
-        <id>https://v.daum.net/v/20231029215512588</id>
-        <link href="https://v.daum.net/v/20231029215512588"/>
-        <updated>2023-10-29T16:20:31.449Z</updated>
         <content type="html"><![CDATA[경제]]></content>
     </entry>
     <entry>
@@ -144,5 +137,12 @@
         <link href="https://v.daum.net/v/20231030000046285"/>
         <updated>2023-10-29T15:19:55.218Z</updated>
         <content type="html"><![CDATA[경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비례대표 시선은 총선에…김의겸, 대표발의 법안 가결률 '꼴등']]></title>
+        <id>https://v.daum.net/v/20231030000049286</id>
+        <link href="https://v.daum.net/v/20231030000049286"/>
+        <updated>2023-10-29T19:13:09.414Z</updated>
+        <content type="html"><![CDATA[정치]]></content>
     </entry>
 </feed>
