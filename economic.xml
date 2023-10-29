@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-10-29T15:22:25.653Z</updated>
+    <updated>2023-10-29T16:22:49.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]아시아나항공 이사회 하루 앞두고 사내이사 돌연 사임]]></title>
+        <id>https://v.daum.net/v/20231030001707532</id>
+        <link href="https://v.daum.net/v/20231030001707532"/>
+        <updated>2023-10-29T16:21:15.475Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고금리에도 미국 경제 나홀로 호황…한국 동반성장 옛말]]></title>
         <id>https://v.daum.net/v/20231030000319339</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231029223000800"/>
         <updated>2023-10-29T14:14:47.223Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["美 3분기 GDP 성장률, 통화정책 영향 제한적…고금리 장기화 가능성↑"]]></title>
-        <id>https://v.daum.net/v/20231029213846469</id>
-        <link href="https://v.daum.net/v/20231029213846469"/>
-        <updated>2023-10-29T14:14:47.224Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
