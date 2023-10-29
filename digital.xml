@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-29T17:16:27.723Z</updated>
+    <updated>2023-10-29T18:22:44.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메마른 지구에 미래는 없다]]></title>
+        <id>https://v.daum.net/v/20231030030359951</id>
+        <link href="https://v.daum.net/v/20231030030359951"/>
+        <updated>2023-10-29T18:21:59.765Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원료 수급 뚝… 연구 지원 뚝… 과학계의 눈물]]></title>
+        <id>https://v.daum.net/v/20231030030401953</id>
+        <link href="https://v.daum.net/v/20231030030401953"/>
+        <updated>2023-10-29T18:21:59.768Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실패에서 배운다…카이스트 실패주간 운영]]></title>
         <id>https://v.daum.net/v/20231029220244646</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231029204646023"/>
         <updated>2023-10-29T12:33:15.827Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버·삼성, 英 AI 정상회의 참석…"국위선양할 것"]]></title>
-        <id>https://v.daum.net/v/20231029194813596</id>
-        <link href="https://v.daum.net/v/20231029194813596"/>
-        <updated>2023-10-29T11:14:57.625Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유튜버 제안에 ‘진심’된 머스크? “트위터 ‘데이팅 앱’ 될 것”]]></title>
-        <id>https://v.daum.net/v/20231029184814958</id>
-        <link href="https://v.daum.net/v/20231029184814958"/>
-        <updated>2023-10-29T11:14:57.629Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
