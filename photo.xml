@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-10-29T19:15:45.385Z</updated>
+    <updated>2023-10-29T20:19:13.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033571/yGu8Buv8UP"/>
         <updated>2023-10-29T19:15:17.622Z</updated>
         <content type="html"><![CDATA[군 제공 포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[물고기 날다!]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/08UCOP0gDX</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/08UCOP0gDX"/>
+        <updated>2023-10-29T20:18:42.535Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이태원 참사 1주기, 사무치는 슬픔 [서울포토]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5840232/3KO1oxUND9"/>
         <updated>2023-10-29T05:18:01.512Z</updated>
         <content type="html"><![CDATA[일주일 사진정리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고위 당·정·대협의회 참석하는 이상민 장관[경향포토]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5840100/q3EIHho5lR</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5840100/q3EIHho5lR"/>
-        <updated>2023-10-29T02:27:45.846Z</updated>
-        <content type="html"><![CDATA[경향포토]]></content>
     </entry>
 </feed>
