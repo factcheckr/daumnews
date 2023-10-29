@@ -2,21 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-29T21:16:44.679Z</updated>
+    <updated>2023-10-29T22:19:56.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[머스크의 영웅놀이… 한 개인이 국가 전쟁 판도 뒤흔들어]]></title>
+        <id>https://v.daum.net/v/20231030032512029</id>
+        <link href="https://v.daum.net/v/20231030032512029"/>
+        <updated>2023-10-29T22:19:07.068Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메마른 지구에 미래는 없다]]></title>
+        <id>https://v.daum.net/v/20231030030359951</id>
+        <link href="https://v.daum.net/v/20231030030359951"/>
+        <updated>2023-10-29T22:19:07.071Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원료 수급 뚝… 연구 지원 뚝… 과학계의 눈물]]></title>
+        <id>https://v.daum.net/v/20231030030401953</id>
+        <link href="https://v.daum.net/v/20231030030401953"/>
+        <updated>2023-10-29T22:19:07.071Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실패에서 배운다…카이스트 실패주간 운영]]></title>
         <id>https://v.daum.net/v/20231029220244646</id>
         <link href="https://v.daum.net/v/20231029220244646"/>
         <updated>2023-10-29T21:16:02.343Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘개인 비서나 마찬가지’…생활 속 파고드는 AI의 진화]]></title>
-        <id>https://v.daum.net/v/20231029214346519</id>
-        <link href="https://v.daum.net/v/20231029214346519"/>
-        <updated>2023-10-29T21:16:02.347Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231029173900804"/>
         <updated>2023-10-29T13:21:09.703Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스페셜리포트] 디지털네트워크법, 2025년 입법 예상…통신사 '환영']]></title>
-        <id>https://v.daum.net/v/20231029135205099</id>
-        <link href="https://v.daum.net/v/20231029135205099"/>
-        <updated>2023-10-29T12:33:22.673Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스페셜리포트] 유럽, 디지털네트워크법(DNA)으로 네트워크 DNA 바꾼다…투자활성화·규제완화 핵심]]></title>
-        <id>https://v.daum.net/v/20231029135202097</id>
-        <link href="https://v.daum.net/v/20231029135202097"/>
-        <updated>2023-10-29T11:15:06.109Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
