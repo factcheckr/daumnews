@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-10-29T12:33:52.837Z</updated>
+    <updated>2023-10-29T13:21:49.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성·LG, 퀄컴과 XR 시장 진출…차세대 전용 칩 탑재 협력]]></title>
+        <id>https://v.daum.net/v/20231029120120528</id>
+        <link href="https://v.daum.net/v/20231029120120528"/>
+        <updated>2023-10-29T13:21:09.703Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단통법 유지·3만원대 5G·삼성 리뉴드폰 …국회발 통신비 대책]]></title>
+        <id>https://v.daum.net/v/20231029173900804</id>
+        <link href="https://v.daum.net/v/20231029173900804"/>
+        <updated>2023-10-29T13:21:09.703Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[스페셜리포트] 디지털네트워크법, 2025년 입법 예상…통신사 '환영']]></title>
         <id>https://v.daum.net/v/20231029135205099</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231029154813869"/>
         <updated>2023-10-29T09:17:03.349Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["초기 금성에서 '대륙 이동' 있었다… 생물체 존재했을 수도"]]></title>
-        <id>https://v.daum.net/v/20231029150013896</id>
-        <link href="https://v.daum.net/v/20231029150013896"/>
-        <updated>2023-10-29T08:21:00.687Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘준수한 업그레이드’ 아이폰15 프로 사용해보니 [백문이 불여IT견]]]></title>
-        <id>https://v.daum.net/v/20231029143900324</id>
-        <link href="https://v.daum.net/v/20231029143900324"/>
-        <updated>2023-10-29T08:21:00.691Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
