@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-10-30T12:38:24.687Z</updated>
+    <updated>2023-10-30T13:25:28.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“췌장암, 포기하지 마세요”…생존기간 10년 새 2배↑]]></title>
+        <id>https://v.daum.net/v/20231030215203935</id>
+        <link href="https://v.daum.net/v/20231030215203935"/>
+        <updated>2023-10-30T13:24:22.652Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비발디가 깜짝 놀랄 2050년 '사계'…클래식으로 표현한 기후위기]]></title>
         <id>https://v.daum.net/v/20231030212012462</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231030195847946"/>
         <updated>2023-10-30T12:37:15.739Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저도주 유행에… '고위험 음주' 남성 줄었는데 여성은 증가]]></title>
-        <id>https://v.daum.net/v/20231030191154866</id>
-        <link href="https://v.daum.net/v/20231030191154866"/>
-        <updated>2023-10-30T12:37:15.742Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
