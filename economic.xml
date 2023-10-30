@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-10-30T16:24:57.672Z</updated>
+    <updated>2023-10-30T17:18:36.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[럼피스킨 영남까지 퍼졌다…24시간 일시이동중지]]></title>
+        <id>https://v.daum.net/v/20231031013516839</id>
+        <link href="https://v.daum.net/v/20231031013516839"/>
+        <updated>2023-10-30T17:16:08.915Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“꽃분홍색 차? 그걸 누가 타요”…사실 부러운 거 다 압니다]]></title>
         <id>https://v.daum.net/v/20231031002700628</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231030232913051"/>
         <updated>2023-10-30T15:18:42.209Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독일 3분기 GDP 0.1% 역성장…"구매력 저하·금리상승"]]></title>
-        <id>https://v.daum.net/v/20231030231656976</id>
-        <link href="https://v.daum.net/v/20231030231656976"/>
-        <updated>2023-10-30T15:18:42.211Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
