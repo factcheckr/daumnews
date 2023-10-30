@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-10-30T20:24:02.626Z</updated>
+    <updated>2023-10-30T21:16:23.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[막다른 길]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/yYPRXOiHO2</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/yYPRXOiHO2"/>
+        <updated>2023-10-30T21:15:48.301Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대입개편안 놓고 양쪽으로 갈라진 여론[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/7gCCBMujCS</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1471/yBa7R2Zdpt"/>
         <updated>2023-10-30T06:24:30.900Z</updated>
         <content type="html"><![CDATA[세계의 정상들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍준표, 사면론에  "징계취소 하든 말든 상관 없다, 연연하지 않아"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5615616/BXTScJBEUH</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5615616/BXTScJBEUH"/>
-        <updated>2023-10-30T06:24:30.903Z</updated>
-        <content type="html"><![CDATA[뉴스1 PICK]]></content>
     </entry>
 </feed>
