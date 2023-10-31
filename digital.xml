@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-10-31T18:27:48.939Z</updated>
+    <updated>2023-10-31T19:17:16.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MS, 윈도 11 업데이트 버전 공식 출시…챗봇 '코파일럿' 탑재]]></title>
+        <id>https://v.daum.net/v/20231101040942772</id>
+        <link href="https://v.daum.net/v/20231101040942772"/>
+        <updated>2023-10-31T19:16:17.680Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PC도 수요 늘어… 반도체 불황 끝 보인다]]></title>
+        <id>https://v.daum.net/v/20231101034351639</id>
+        <link href="https://v.daum.net/v/20231101034351639"/>
+        <updated>2023-10-31T19:16:17.683Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 “AI는 무조건 통제해야”]]></title>
+        <id>https://v.daum.net/v/20231101034133634</id>
+        <link href="https://v.daum.net/v/20231101034133634"/>
+        <updated>2023-10-31T19:16:17.689Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[印경찰, SNS에 '종교 증오 유발' 글 올린 연방정부 부장관 입건]]></title>
         <id>https://v.daum.net/v/20231031200335076</id>
@@ -25,26 +46,5 @@
         <link href="https://v.daum.net/v/20231031185535499"/>
         <updated>2023-10-31T10:21:37.999Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잇따른 거래소 수수료 무료 정책, ‘수익보다 이용자 확보’]]></title>
-        <id>https://v.daum.net/v/20231031185402424</id>
-        <link href="https://v.daum.net/v/20231031185402424"/>
-        <updated>2023-10-31T10:21:38.002Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["휴대폰 무선충전·인덕션 전자파 괜찮을까"]]></title>
-        <id>https://v.daum.net/v/20231031181329175</id>
-        <link href="https://v.daum.net/v/20231031181329175"/>
-        <updated>2023-10-31T16:24:15.645Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['의사과학자 양성' 목표 카이스트…"성적보다는 동기가 중요"]]></title>
-        <id>https://v.daum.net/v/20231031174111213</id>
-        <link href="https://v.daum.net/v/20231031174111213"/>
-        <updated>2023-10-31T16:24:15.648Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
