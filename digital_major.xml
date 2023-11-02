@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-02T10:22:01.848Z</updated>
+    <updated>2023-11-02T11:17:03.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[젊은 연구자들 만난 尹 "글로벌 공동연구 지원"]]></title>
+        <id>https://v.daum.net/v/20231102200300592</id>
+        <link href="https://v.daum.net/v/20231102200300592"/>
+        <updated>2023-11-02T11:16:25.524Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 윤석열 대통령 “시스템 고치면 R&D 예산 100조원도 지원”]]></title>
+        <id>https://v.daum.net/v/20231102174547826</id>
+        <link href="https://v.daum.net/v/20231102174547826"/>
+        <updated>2023-11-02T11:16:25.525Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[택시업계 요구 수용 나선 카카오…수수료 체계 일원화부터 매각 검토까지]]></title>
         <id>https://v.daum.net/v/20231102174157679</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI 규제 놓고… 두 진영으로 갈린 빅테크]]></title>
+        <title type="html"><![CDATA[규제 놓고… 두 진영으로 갈린 빅테크]]></title>
         <id>https://v.daum.net/v/20231102173003283</id>
         <link href="https://v.daum.net/v/20231102173003283"/>
         <updated>2023-11-02T09:21:20.446Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231102162104285"/>
         <updated>2023-11-02T09:21:20.468Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["접속화면이 다 다르다고?"…AI 검색 적용 '네이버 서비스 진화']]></title>
-        <id>https://v.daum.net/v/20231102163709083</id>
-        <link href="https://v.daum.net/v/20231102163709083"/>
-        <updated>2023-11-02T08:24:51.820Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이터센터 화재에도 통신망 긴급복구...안전훈련 이상무]]></title>
-        <id>https://v.daum.net/v/20231102163318919</id>
-        <link href="https://v.daum.net/v/20231102163318919"/>
-        <updated>2023-11-02T08:24:51.821Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
