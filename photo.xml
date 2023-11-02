@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-11-02T19:16:31.506Z</updated>
+    <updated>2023-11-02T20:20:48.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1682593/8YFr9reWBZ"/>
         <updated>2023-11-02T17:18:56.556Z</updated>
         <content type="html"><![CDATA[대한민국 대통령실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무슨 얘기 중?]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/U6xawuv8mA</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/U6xawuv8mA"/>
+        <updated>2023-11-02T20:20:15.183Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LG디스플레이 ‘아트웨이브’…자사 OLED로 구현한 디지털아트 전시[포토뉴스]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5612596/2OASt5mBKm"/>
         <updated>2023-11-02T06:25:41.919Z</updated>
         <content type="html"><![CDATA[머니S포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반팔 입고 담는 ‘가을 풍경’…이례적 11월 늦더위[정동길 옆 사진관]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/661278/PoXuonKwCe</id>
-        <link href="https://gallery.v.daum.net/p/viewer/661278/PoXuonKwCe"/>
-        <updated>2023-11-02T06:25:41.920Z</updated>
-        <content type="html"><![CDATA[정동길 옆 사진관]]></content>
     </entry>
 </feed>
