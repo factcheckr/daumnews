@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-11-02T16:25:49.755Z</updated>
+    <updated>2023-11-02T17:19:25.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -17,13 +17,6 @@
         <id>https://v.daum.net/v/20231103000248067</id>
         <link href="https://v.daum.net/v/20231103000248067"/>
         <updated>2023-11-02T15:18:22.621Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘한낮 30도’ 11월 더위, 여름철 불던 남서풍이 불렀다]]></title>
-        <id>https://v.daum.net/v/20231103000152042</id>
-        <link href="https://v.daum.net/v/20231103000152042"/>
-        <updated>2023-11-02T15:18:22.622Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20231102232001734"/>
         <updated>2023-11-02T15:18:22.628Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[’의자 없는 지하철’ 생긴다… 앉기 VS 서 있기, 허리에 더 좋은 것은?]]></title>
+        <id>https://v.daum.net/v/20231102230016580</id>
+        <link href="https://v.daum.net/v/20231102230016580"/>
+        <updated>2023-11-02T17:18:19.147Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
