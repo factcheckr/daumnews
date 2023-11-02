@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-11-02T17:19:25.043Z</updated>
+    <updated>2023-11-02T18:24:06.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여기는 스님의 게스트 하우스, 젊음의 거리 홍대서 명상합니다]]></title>
+        <id>https://v.daum.net/v/20231103030255808</id>
+        <link href="https://v.daum.net/v/20231103030255808"/>
+        <updated>2023-11-02T18:22:57.862Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“일타강사 만난 전교 꼴찌, 어떻게 달라지는지 보세요”]]></title>
+        <id>https://v.daum.net/v/20231103030131716</id>
+        <link href="https://v.daum.net/v/20231103030131716"/>
+        <updated>2023-11-02T18:22:57.864Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김수환 추기경에게 느낀 온기, 그리고 자원봉사로 깨달은 것들]]></title>
         <id>https://v.daum.net/v/20231103005856417</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231102230542612"/>
         <updated>2023-11-02T15:18:22.624Z</updated>
         <content type="html"><![CDATA[kbc광주방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역사가 된 육아일기… 독립운동가도 서툰 부모였음을]]></title>
-        <id>https://v.daum.net/v/20231102232001734</id>
-        <link href="https://v.daum.net/v/20231102232001734"/>
-        <updated>2023-11-02T15:18:22.628Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[’의자 없는 지하철’ 생긴다… 앉기 VS 서 있기, 허리에 더 좋은 것은?]]></title>
-        <id>https://v.daum.net/v/20231102230016580</id>
-        <link href="https://v.daum.net/v/20231102230016580"/>
-        <updated>2023-11-02T17:18:19.147Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
