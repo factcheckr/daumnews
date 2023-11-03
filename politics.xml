@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-11-03T16:24:58.116Z</updated>
+    <updated>2023-11-03T17:18:05.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘대북 킬체인의 눈’ 정찰위성 1호 30일 美서 발사]]></title>
+        <id>https://v.daum.net/v/20231104014109328</id>
+        <link href="https://v.daum.net/v/20231104014109328"/>
+        <updated>2023-11-03T17:15:30.913Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인요한 “대통령 사랑하면 희생” 윤핵관 공개적으로 겨냥]]></title>
         <id>https://v.daum.net/v/20231104005321189</id>
         <link href="https://v.daum.net/v/20231104005321189"/>
         <updated>2023-11-03T16:22:21.110Z</updated>
         <content type="html"><![CDATA[중앙SUNDAY]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]대법원장 후보자 내주 지명… 김형두 조희대 정영환 압축]]></title>
+        <id>https://v.daum.net/v/20231104014040315</id>
+        <link href="https://v.daum.net/v/20231104014040315"/>
+        <updated>2023-11-03T17:15:30.916Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[野, '불법파업 조장법' 강행 앞두고 여론전…"인권 마인드 없는 대통령"]]></title>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231103232324647"/>
         <updated>2023-11-03T15:18:11.830Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰<상>] 이언주 "尹은 사면초가…與, 이대로 가면 총선필패"]]></title>
-        <id>https://v.daum.net/v/20231104000024885</id>
-        <link href="https://v.daum.net/v/20231104000024885"/>
-        <updated>2023-11-03T16:22:21.117Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹대통령, 與 1기 지도부와 만찬… “총선서 열심히 해 달라”]]></title>
-        <id>https://v.daum.net/v/20231103233042692</id>
-        <link href="https://v.daum.net/v/20231103233042692"/>
-        <updated>2023-11-03T15:18:11.835Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
