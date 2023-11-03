@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-11-03T03:19:36.787Z</updated>
+    <updated>2023-11-03T04:22:39.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신지도, 조선 사상가 원교 이광사의 예술혼 깃들다]]></title>
+        <id>https://v.daum.net/v/20231103121803969</id>
+        <link href="https://v.daum.net/v/20231103121803969"/>
+        <updated>2023-11-03T04:21:19.503Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한-베트남, 지속가능 관광정책 방안은?…문광연, 하노이서 세미나]]></title>
         <id>https://v.daum.net/v/20231103120026566</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231103113015586"/>
         <updated>2023-11-03T03:18:25.387Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꾸준한 환자 발생 M두창 바이러스는 '진화중']]></title>
-        <id>https://v.daum.net/v/20231103112812496</id>
-        <link href="https://v.daum.net/v/20231103112812496"/>
-        <updated>2023-11-03T03:18:25.388Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
