@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-11-03T20:21:47.182Z</updated>
+    <updated>2023-11-03T21:14:43.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[모던 경성]‘발레 조선’의 효시는 ‘빈사의 백조’,]]></title>
+        <id>https://v.daum.net/v/20231104060014238</id>
+        <link href="https://v.daum.net/v/20231104060014238"/>
+        <updated>2023-11-03T21:13:51.730Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['타고난 방송 천재' 최욱 "보수든 진보든 세상에 존재하는 목소리다"]]></title>
         <id>https://v.daum.net/v/20231104050504981</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231104044003884"/>
         <updated>2023-11-03T20:20:21.110Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대형마트 휴무일? 이마트·롯데마트·홈플러스·코스트코 ‘이번 주 특별함?’]]></title>
-        <id>https://v.daum.net/v/20231104000301950</id>
-        <link href="https://v.daum.net/v/20231104000301950"/>
-        <updated>2023-11-03T18:23:13.460Z</updated>
-        <content type="html"><![CDATA[bnt뉴스]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-03T20:21:47.187Z</updated>
+    <updated>2023-11-03T21:14:43.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[탱크·전투기 숨기는 다중대역 스텔스 소재, 미사일 회피 AI…미래전의 게임체인저 K-국방과학기술]]></title>
+        <id>https://v.daum.net/v/20231104060328344</id>
+        <link href="https://v.daum.net/v/20231104060328344"/>
+        <updated>2023-11-03T21:14:06.983Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인간에 오염된 데이터로 학습… “편향 없는 AI는 불가능”]]></title>
         <id>https://v.daum.net/v/20231104040428729</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231103220700090"/>
         <updated>2023-11-03T13:22:16.509Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘인공지능 데이터’로 침수 예측…내년부터 활용]]></title>
-        <id>https://v.daum.net/v/20231103215450830</id>
-        <link href="https://v.daum.net/v/20231103215450830"/>
-        <updated>2023-11-03T13:22:16.511Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
