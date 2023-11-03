@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-03T09:19:12.802Z</updated>
+    <updated>2023-11-03T10:20:14.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘 밤 가장 빛나는 목성 뜬다…"별보다 밝은 큰형님 행성"]]></title>
+        <id>https://v.daum.net/v/20231103171009478</id>
+        <link href="https://v.daum.net/v/20231103171009478"/>
+        <updated>2023-11-03T10:19:40.552Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카카오 준법경영 감시 책임자 된 김소영 전 대법관은 누구?]]></title>
         <id>https://v.daum.net/v/20231103170208239</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231103154612927"/>
         <updated>2023-11-03T08:23:02.887Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가계통신비 인하'에 진심인 당정...5G-LTE 통합·최저요금제 속도낼 듯 [IT돋보기]]]></title>
-        <id>https://v.daum.net/v/20231103152842362</id>
-        <link href="https://v.daum.net/v/20231103152842362"/>
-        <updated>2023-11-03T08:23:02.889Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>
