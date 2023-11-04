@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-11-04T15:20:31.935Z</updated>
+    <updated>2023-11-04T16:22:36.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[이스라엘군, 하마즈 정치지도자 하니예 자택 폭격]]></title>
+        <title type="html"><![CDATA[독일 女장관에게 '불편한 키스 논란' 크로아티아 장관 사과]]></title>
+        <id>https://v.daum.net/v/20231105010902439</id>
+        <link href="https://v.daum.net/v/20231105010902439"/>
+        <updated>2023-11-04T16:21:16.191Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NBC "미국·유럽, 우크라이나와 조용히 평화협상 논의 시작"]]></title>
+        <id>https://v.daum.net/v/20231105010009423</id>
+        <link href="https://v.daum.net/v/20231105010009423"/>
+        <updated>2023-11-04T16:21:16.191Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이·팔 전쟁] 英-이란 외무장관 통화…이란 역할 두고 대립]]></title>
+        <id>https://v.daum.net/v/20231105001646266</id>
+        <link href="https://v.daum.net/v/20231105001646266"/>
+        <updated>2023-11-04T16:21:16.192Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이스라엘군, ‘하마스 1인자’ 하니예 자택 폭격]]></title>
         <id>https://v.daum.net/v/20231104234208090</id>
         <link href="https://v.daum.net/v/20231104234208090"/>
         <updated>2023-11-04T15:19:18.282Z</updated>
@@ -25,26 +46,5 @@
         <link href="https://v.daum.net/v/20231104211656361"/>
         <updated>2023-11-04T12:29:38.372Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI로 제작한 가짜 기시다 日 총리 영상 확산…성적 발언 모습 담겨]]></title>
-        <id>https://v.daum.net/v/20231104205613250</id>
-        <link href="https://v.daum.net/v/20231104205613250"/>
-        <updated>2023-11-04T12:29:38.373Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외공관 잇따라 폐쇄 북한의 속사정]]></title>
-        <id>https://v.daum.net/v/20231104201911976</id>
-        <link href="https://v.daum.net/v/20231104201911976"/>
-        <updated>2023-11-04T12:29:38.375Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가자 폭격 한달… 도시 최소 25% 파손, 북부엔 분화구 1000개]]></title>
-        <id>https://v.daum.net/v/20231104195359802</id>
-        <link href="https://v.daum.net/v/20231104195359802"/>
-        <updated>2023-11-04T11:17:34.156Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
