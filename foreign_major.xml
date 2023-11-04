@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-11-04T19:14:07.024Z</updated>
+    <updated>2023-11-04T20:21:31.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에르도안 "네타냐후, 대화 못 할 상대"…이 "하마스 편 섰다" 반발(종합)[이-팔 전쟁]]]></title>
+        <id>https://v.daum.net/v/20231105021137564</id>
+        <link href="https://v.daum.net/v/20231105021137564"/>
+        <updated>2023-11-04T20:20:14.159Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[젤렌스키, 이스라엘 방문 불투명…"방문 일정 공개된 탓"[이-팔 전쟁]]]></title>
         <id>https://v.daum.net/v/20231105015832539</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231104201911976"/>
         <updated>2023-11-04T16:21:24.520Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가자 폭격 한달… 도시 최소 25% 파손, 북부엔 분화구 1000개]]></title>
-        <id>https://v.daum.net/v/20231104195359802</id>
-        <link href="https://v.daum.net/v/20231104195359802"/>
-        <updated>2023-11-04T16:21:24.521Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
