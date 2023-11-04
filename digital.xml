@@ -2,21 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-04T09:17:49.837Z</updated>
+    <updated>2023-11-04T10:18:32.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[“당장 팔아라” “아직 안돼” 초유의 사태 카카오…4만원 회복하자, 난리났다]]></title>
+        <title type="html"><![CDATA['월드 소울 사가', WoW 향후 20년 책임진다]]></title>
+        <id>https://v.daum.net/v/20231104182652233</id>
+        <link href="https://v.daum.net/v/20231104182652233"/>
+        <updated>2023-11-04T10:17:49.331Z</updated>
+        <content type="html"><![CDATA[게임톡]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘아날로그 성애자’ 일본도 도입…올해만 500곳 넘게 선택한 ‘이 회사’ [홍키자의 빅테크]]]></title>
+        <id>https://v.daum.net/v/20231104182401209</id>
+        <link href="https://v.daum.net/v/20231104182401209"/>
+        <updated>2023-11-04T10:17:49.331Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“당장 팔아라” “아직 안돼” 카카오 4만원 회복하자, 난리났다]]></title>
         <id>https://v.daum.net/v/20231104175117913</id>
         <link href="https://v.daum.net/v/20231104175117913"/>
         <updated>2023-11-04T09:17:05.896Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“내가 게임에 돈 써서 넥슨 기둥하나는 세웠다” 이 말, 진짜였다! 무슨일]]></title>
-        <id>https://v.daum.net/v/20231104155116416</id>
-        <link href="https://v.daum.net/v/20231104155116416"/>
-        <updated>2023-11-04T07:17:01.656Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231104142001619"/>
         <updated>2023-11-04T06:22:09.609Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 통제에 한국전쟁까지 소환한 바이든…지구촌도 ‘국제공조’]]></title>
-        <id>https://v.daum.net/v/20231104140004333</id>
-        <link href="https://v.daum.net/v/20231104140004333"/>
-        <updated>2023-11-04T05:16:46.137Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
