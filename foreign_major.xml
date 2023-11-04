@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-11-04T14:18:20.987Z</updated>
+    <updated>2023-11-04T15:20:31.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[서아프리카 기니 수도서 총성…특수부대·군용차량 목격]]></title>
-        <id>https://v.daum.net/v/20231104183932293</id>
-        <link href="https://v.daum.net/v/20231104183932293"/>
-        <updated>2023-11-04T13:18:19.645Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[난민촌·학교 이어 구급차까지…이스라엘군 "하마스 공격한 것"]]></title>
         <id>https://v.daum.net/v/20231104181742172</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20231104165451178"/>
         <updated>2023-11-04T14:17:02.912Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이스라엘군 "가자지구 남부서 '표적 급습'…북부서 하마스 대원들 사살"]]></title>
+        <id>https://v.daum.net/v/20231104162440880</id>
+        <link href="https://v.daum.net/v/20231104162440880"/>
+        <updated>2023-11-04T15:19:27.748Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
