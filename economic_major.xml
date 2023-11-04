@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-11-04T06:22:54.818Z</updated>
+    <updated>2023-11-04T07:17:42.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘메가시티 서울’과 ‘지방시대’ 양립 가능할까]]></title>
+        <id>https://v.daum.net/v/20231104144956858</id>
+        <link href="https://v.daum.net/v/20231104144956858"/>
+        <updated>2023-11-04T07:16:17.504Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘김포 다음은 공매도 포커싱’… 개미들 “한시적 중지 말고 법제화 필요”]]></title>
         <id>https://v.daum.net/v/20231104144833842</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231104131303905"/>
         <updated>2023-11-04T06:21:25.810Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민연금 개혁 원한다면 정부부터 발 빼라 [추적+]]]></title>
-        <id>https://v.daum.net/v/20231104131231902</id>
-        <link href="https://v.daum.net/v/20231104131231902"/>
-        <updated>2023-11-04T06:21:25.812Z</updated>
-        <content type="html"><![CDATA[더스쿠프]]></content>
     </entry>
 </feed>

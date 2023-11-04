@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-11-04T06:22:54.811Z</updated>
+    <updated>2023-11-04T07:17:42.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공공 사이버보안 위협 대응 논의…26개 기관 협업 모색]]></title>
+        <id>https://v.daum.net/v/20231104152145211</id>
+        <link href="https://v.daum.net/v/20231104152145211"/>
+        <updated>2023-11-04T07:16:08.192Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“첫 여성 공장장이 놀랄 일?” 한국에 없는 세계 최대 화학사의 ‘우먼파워’ [그 회사 어때?]]]></title>
         <id>https://v.daum.net/v/20231104151035071</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231104150003957"/>
         <updated>2023-11-04T06:21:16.032Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘메가시티 서울’과 ‘지방시대’ 양립 가능할까]]></title>
-        <id>https://v.daum.net/v/20231104144956858</id>
-        <link href="https://v.daum.net/v/20231104144956858"/>
-        <updated>2023-11-04T06:21:16.036Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
