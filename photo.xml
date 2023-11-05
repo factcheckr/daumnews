@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-11-05T19:14:59.505Z</updated>
+    <updated>2023-11-05T20:19:08.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼각관계]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/7gt3eDMTmf</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/7gt3eDMTmf"/>
+        <updated>2023-11-05T20:18:35.741Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG디스플레이, 초대형 투명 OLED 테이블…스타벅스 인테리어 혁신[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/QMQa1bGMWu</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/344179/UtrRtezcsu"/>
         <updated>2023-11-05T02:29:01.310Z</updated>
         <content type="html"><![CDATA[청계천 옆 사진관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이만 사파디 요르단 외교와 회담하는 블링컨]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1013249/3pHX3bGM74</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1013249/3pHX3bGM74"/>
-        <updated>2023-11-05T01:18:27.195Z</updated>
-        <content type="html"><![CDATA[세계의 외교현장]]></content>
     </entry>
 </feed>

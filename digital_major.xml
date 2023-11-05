@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-05T19:14:59.503Z</updated>
+    <updated>2023-11-05T20:19:08.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[변수투성이 ‘달 출사’…‘베스트컷’만 남기리라]]></title>
+        <id>https://v.daum.net/v/20231105215019875</id>
+        <link href="https://v.daum.net/v/20231105215019875"/>
+        <updated>2023-11-05T20:18:28.907Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위급 환자들 걱정 뚝…출동, 앰뷸런스 드론]]></title>
         <id>https://v.daum.net/v/20231105215004874</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231105161858343"/>
         <updated>2023-11-05T13:21:49.053Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해지냐, 유지냐… OTT 구독 갈림길]]></title>
-        <id>https://v.daum.net/v/20231105161112207</id>
-        <link href="https://v.daum.net/v/20231105161112207"/>
-        <updated>2023-11-05T11:14:15.248Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
