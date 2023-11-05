@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-11-05T16:22:44.914Z</updated>
+    <updated>2023-11-05T17:15:29.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[악담하는 기시다 총리 영상…알고보니 AI가 만든 가짜]]></title>
+        <id>https://v.daum.net/v/20231106000121481</id>
+        <link href="https://v.daum.net/v/20231106000121481"/>
+        <updated>2023-11-05T17:14:31.837Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레바논서 이스라엘 겨냥 드론·미사일 공격…"헤즈볼라 소행 유력"]]></title>
         <id>https://v.daum.net/v/20231105232757333</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231105214550843"/>
         <updated>2023-11-05T14:15:08.819Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국의 분쟁 억지 전략 ‘스텝 꼬인다’]]></title>
-        <id>https://v.daum.net/v/20231105214254824</id>
-        <link href="https://v.daum.net/v/20231105214254824"/>
-        <updated>2023-11-05T14:15:08.821Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
