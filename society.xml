@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메인뉴스</title>
-    <updated>2023-11-05T15:18:38.278Z</updated>
+    <updated>2023-11-05T16:22:44.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마지막 ‘다리털’ 남았다… 이선균, 마약 처벌 할 수 있나]]></title>
+        <id>https://v.daum.net/v/20231106000410559</id>
+        <link href="https://v.daum.net/v/20231106000410559"/>
+        <updated>2023-11-05T16:20:21.708Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쌓인 낙엽 배수로 막아 도로 곳곳 ‘물바다’ 시민 불편]]></title>
         <id>https://v.daum.net/v/20231106000600609</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231106000029445"/>
         <updated>2023-11-05T15:16:16.027Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기 부천 일대서 정전 잇따라…승강기 갇힌 8명 구조]]></title>
-        <id>https://v.daum.net/v/20231105234949397</id>
-        <link href="https://v.daum.net/v/20231105234949397"/>
-        <updated>2023-11-05T15:16:16.034Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

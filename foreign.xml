@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-11-05T15:18:38.326Z</updated>
+    <updated>2023-11-05T16:22:44.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이란 대통령 "미국 등 서방, 이스라엘에 무기 공급" 비난]]></title>
+        <id>https://v.daum.net/v/20231106005139762</id>
+        <link href="https://v.daum.net/v/20231106005139762"/>
+        <updated>2023-11-05T16:21:20.034Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[명경대] 3000만개의 전쟁]]></title>
         <id>https://v.daum.net/v/20231106000623629</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231105232757333"/>
         <updated>2023-11-05T15:17:12.160Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中사정당국 "외교 간부, 외부세력에 포섭될 가능성 높아"]]></title>
-        <id>https://v.daum.net/v/20231105232515329</id>
-        <link href="https://v.daum.net/v/20231105232515329"/>
-        <updated>2023-11-05T15:17:12.162Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

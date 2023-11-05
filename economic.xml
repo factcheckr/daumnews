@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-11-05T15:18:38.305Z</updated>
+    <updated>2023-11-05T16:22:44.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[르포] 사람 못 살 동네가 4년 만에 이렇게… “삶의 질이 달라졌어요” 영동군 장동 2리엔 무슨 일이[이토록 멋진 농업]]]></title>
+        <id>https://v.daum.net/v/20231106004005748</id>
+        <link href="https://v.daum.net/v/20231106004005748"/>
+        <updated>2023-11-05T16:21:01.736Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 직구시장 지각변동…중국이 미국 눌렀다]]></title>
         <id>https://v.daum.net/v/20231106000359557</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231106000035456"/>
         <updated>2023-11-05T15:16:53.628Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“컴퓨터와 고양이 술래잡기 게임”…AI채용에 취준생들 황당]]></title>
-        <id>https://v.daum.net/v/20231105213916800</id>
-        <link href="https://v.daum.net/v/20231105213916800"/>
-        <updated>2023-11-05T14:14:45.648Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
