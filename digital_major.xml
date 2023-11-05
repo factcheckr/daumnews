@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-05T08:21:36.210Z</updated>
+    <updated>2023-11-05T09:17:32.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20231105162545520"/>
         <updated>2023-11-05T08:21:06.080Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비번 공유는 사랑이라더니…OTT, 갈아타? 끊어?]]></title>
+        <id>https://v.daum.net/v/20231105161112207</id>
+        <link href="https://v.daum.net/v/20231105161112207"/>
+        <updated>2023-11-05T09:16:54.521Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사우디 찍고 전세계로…`글로벌 성장 날개` 편 네이버]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231105135505756"/>
         <updated>2023-11-05T08:21:06.092Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“얼마나 벌길래?” ‘이두나’ 터지자…우르르 몰리는 ‘꿈의 직업’]]></title>
-        <id>https://v.daum.net/v/20231105135035695</id>
-        <link href="https://v.daum.net/v/20231105135035695"/>
-        <updated>2023-11-05T08:21:06.095Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
