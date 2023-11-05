@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-05T03:21:00.994Z</updated>
+    <updated>2023-11-05T04:21:18.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231105113210023"/>
         <updated>2023-11-05T03:20:26.568Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KT, 분기배당 카드에도 지지부진 주가…왜?]]></title>
+        <id>https://v.daum.net/v/20231105110003498</id>
+        <link href="https://v.daum.net/v/20231105110003498"/>
+        <updated>2023-11-05T04:20:50.826Z</updated>
+        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바다 오염 골칫덩이 ‘부표’, 해결되나…전남도 지원, ‘생분해’ 제품 첫 개발]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231105090030717"/>
         <updated>2023-11-05T02:28:52.654Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['먹튀·시세조종' 국민기업의 배신…주가 '-76%'→개미 등 돌렸다]]></title>
-        <id>https://v.daum.net/v/20231105090002651</id>
-        <link href="https://v.daum.net/v/20231105090002651"/>
-        <updated>2023-11-05T02:28:52.655Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
