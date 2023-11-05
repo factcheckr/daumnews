@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-11-05T11:14:45.235Z</updated>
+    <updated>2023-11-05T12:32:10.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[평창 고랭지 김장축제]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5847810/B0gCtKHRFm</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5847810/B0gCtKHRFm"/>
+        <updated>2023-11-05T12:31:43.480Z</updated>
+        <content type="html"><![CDATA[지자체 제공 포토]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가을비와 낙엽 [포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5840500/7AWgAho5CX</id>
@@ -34,13 +41,6 @@
         <content type="html"><![CDATA[세계의 정상들]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[즐거운 김장 담그기]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5847810/B8rQ263oKm</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5847810/B8rQ263oKm"/>
-        <updated>2023-11-05T08:21:13.169Z</updated>
-        <content type="html"><![CDATA[지자체 제공 포토]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['국제유가 약세'…기름값 4주 연속 하락 [TF사진관]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5024184/UZRJG1sbpA</id>
         <link href="https://gallery.v.daum.net/p/viewer/5024184/UZRJG1sbpA"/>
@@ -60,6 +60,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5610796/0pJVdo2m35"/>
         <updated>2023-11-05T08:21:13.179Z</updated>
         <content type="html"><![CDATA[모멘트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['은행나무 도시' 증평은 황금길]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1137876/zNGZhyA0KQ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1137876/zNGZhyA0KQ"/>
+        <updated>2023-11-05T12:31:43.513Z</updated>
+        <content type="html"><![CDATA[뉴시스 앵글]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[헤즈볼라 지도자 화상 연설 보는 지지자들]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5021010/0BSPeN4I0W"/>
         <updated>2023-11-05T01:18:27.195Z</updated>
         <content type="html"><![CDATA[포토 in 월드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잃어버린 자들을 위한 콘서트]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1270177/QZaOareWzd</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1270177/QZaOareWzd"/>
-        <updated>2023-11-05T01:18:27.196Z</updated>
-        <content type="html"><![CDATA[C컷]]></content>
     </entry>
 </feed>
