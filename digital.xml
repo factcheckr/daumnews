@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-06T17:19:03.346Z</updated>
+    <updated>2023-11-06T18:26:57.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성·SK·현대차, 美 로비자금 눈덩이… 정부도 좀 도와야죠]]></title>
+        <id>https://v.daum.net/v/20231107030118495</id>
+        <link href="https://v.daum.net/v/20231107030118495"/>
+        <updated>2023-11-06T18:25:57.117Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[평창 고랭지 무값 폭락…“밭 정리하고 그냥 뽑아가세요”]]></title>
         <id>https://v.daum.net/v/20231107000604892</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231106190228795"/>
         <updated>2023-11-06T10:21:10.597Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“쌀보리 게임이 병을 고친다?” 추억의 게임에 숨겨진 놀라운 효과]]></title>
-        <id>https://v.daum.net/v/20231106185117638</id>
-        <link href="https://v.daum.net/v/20231106185117638"/>
-        <updated>2023-11-06T10:21:10.600Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
