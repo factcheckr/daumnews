@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-06T13:23:25.501Z</updated>
+    <updated>2023-11-06T15:21:34.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 갤럭시 첫 새너제이 언팩…AI폰 'S24' 승부수]]></title>
+        <id>https://v.daum.net/v/20231106173355369</id>
+        <link href="https://v.daum.net/v/20231106173355369"/>
+        <updated>2023-11-06T15:20:59.446Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“생성AI시대 사는 당신…변화 두려워 말고 챗GPT부터 써봐라"[ECF for 2024]]]></title>
         <id>https://v.daum.net/v/20231106181028746</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231106165120842"/>
         <updated>2023-11-06T09:20:37.612Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달아오른 차세대 4나노 모바일 AP칩 경쟁, 승자는?]]></title>
-        <id>https://v.daum.net/v/20231106150413383</id>
-        <link href="https://v.daum.net/v/20231106150413383"/>
-        <updated>2023-11-06T08:23:45.095Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>

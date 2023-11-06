@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-06T13:23:25.555Z</updated>
+    <updated>2023-11-06T15:21:34.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[평창 고랭지 무값 폭락…“밭 정리하고 그냥 뽑아가세요”]]></title>
+        <id>https://v.daum.net/v/20231107000604892</id>
+        <link href="https://v.daum.net/v/20231107000604892"/>
+        <updated>2023-11-06T15:20:50.712Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스라운지] 기후 위기 시대...늘어가는 재난 대응책은?]]></title>
         <id>https://v.daum.net/v/20231106195821547</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231106185117638"/>
         <updated>2023-11-06T10:21:10.600Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 갤럭시 첫 새너제이 언팩…AI폰 'S24' 승부수]]></title>
-        <id>https://v.daum.net/v/20231106173355369</id>
-        <link href="https://v.daum.net/v/20231106173355369"/>
-        <updated>2023-11-06T09:20:29.587Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>
