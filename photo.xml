@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-11-06T19:18:31.358Z</updated>
+    <updated>2023-11-06T20:19:53.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첩첩산중]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/KRmqr1sbiJ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/KRmqr1sbiJ"/>
+        <updated>2023-11-06T20:19:25.785Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도주 탈주범 김길수 안양 동안경찰서 이송 [포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5840500/Zl7WVFI9h3</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1137876/GGaltzyPb4"/>
         <updated>2023-11-06T07:18:52.862Z</updated>
         <content type="html"><![CDATA[뉴시스 앵글]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김포→서울 편입' 논란 속 회동 갖는 오세훈·김병수]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5615616/VL1XT5mB7A</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5615616/VL1XT5mB7A"/>
-        <updated>2023-11-06T07:18:52.864Z</updated>
-        <content type="html"><![CDATA[뉴스1 PICK]]></content>
     </entry>
 </feed>
