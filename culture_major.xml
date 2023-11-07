@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-11-07T15:19:58.259Z</updated>
+    <updated>2023-11-07T16:25:34.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20231108000642880"/>
         <updated>2023-11-07T15:19:07.041Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새콤달콤 소스 어우러진 '대파 꿔바로우']]></title>
+        <id>https://v.daum.net/v/20231107235143604</id>
+        <link href="https://v.daum.net/v/20231107235143604"/>
+        <updated>2023-11-07T16:24:43.270Z</updated>
+        <content type="html"><![CDATA[기자협회보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이들에겐 암보다 무서운 '병'… 하루 62.5명꼴 사망]]></title>
+        <id>https://v.daum.net/v/20231107230015262</id>
+        <link href="https://v.daum.net/v/20231107230015262"/>
+        <updated>2023-11-07T16:24:43.285Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[문상철 '9회 2사 결승타' KT, LG 3-2 제압…우승확률 74.4% 잡았다(종합)[KS1]]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231107210102142"/>
         <updated>2023-11-07T14:17:17.090Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나무에 새긴 마음, 조선 현판' 특별전]]></title>
-        <id>https://v.daum.net/v/20231107210007116</id>
-        <link href="https://v.daum.net/v/20231107210007116"/>
-        <updated>2023-11-07T14:17:17.090Z</updated>
-        <content type="html"><![CDATA[대구MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["잘못 넘어지면 죽는다"...낙상사고 줄이려면?]]></title>
-        <id>https://v.daum.net/v/20231107202106255</id>
-        <link href="https://v.daum.net/v/20231107202106255"/>
-        <updated>2023-11-07T12:33:17.113Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
