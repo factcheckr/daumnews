@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-07T13:25:10.833Z</updated>
+    <updated>2023-11-07T14:18:04.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“둘 중에 어떤게 갤럭시지?” 삼성도 놀랐다…망한 줄 알았던 모토로라 반전?]]></title>
+        <id>https://v.daum.net/v/20231107214121893</id>
+        <link href="https://v.daum.net/v/20231107214121893"/>
+        <updated>2023-11-07T14:17:26.161Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[132억년 동안 빨아들였다…‘우주 최고령’ 블랙홀 발견]]></title>
         <id>https://v.daum.net/v/20231107211632451</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231107190058165"/>
         <updated>2023-11-07T10:20:16.268Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["90조 인수의 결과?"… MS, 엑스박스 팝업 광고 논란]]></title>
-        <id>https://v.daum.net/v/20231107183305197</id>
-        <link href="https://v.daum.net/v/20231107183305197"/>
-        <updated>2023-11-07T12:33:25.748Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
