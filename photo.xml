@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-11-07T19:15:27.862Z</updated>
+    <updated>2023-11-07T20:19:55.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[12일 만에 박근혜 다시 만난 윤 대통령]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1682593/PAAdrwRyXQ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1682593/PAAdrwRyXQ"/>
+        <updated>2023-11-07T20:19:22.653Z</updated>
+        <content type="html"><![CDATA[대한민국 대통령실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[산타 오토바이]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/Hqs1cYkUsB</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/Hqs1cYkUsB"/>
+        <updated>2023-11-07T20:19:22.655Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[병목 현상]]></title>
         <id>https://gallery.v.daum.net/p/viewer/7156/0dfmMwRymN</id>
@@ -25,13 +39,6 @@
         <link href="https://gallery.v.daum.net/p/viewer/377110/QxpjUafOyD"/>
         <updated>2023-11-07T14:17:40.689Z</updated>
         <content type="html"><![CDATA[포토뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정원 산책]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1682593/Xwax2reW7O</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1682593/Xwax2reW7O"/>
-        <updated>2023-11-07T12:33:41.866Z</updated>
-        <content type="html"><![CDATA[대한민국 대통령실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[차귀도 포구의 저녁]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5611584/zKEeplg1zY"/>
         <updated>2023-11-07T07:17:14.781Z</updated>
         <content type="html"><![CDATA[쿡 정치포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구로구 '빈대 예방' 특별 위생점검 실시]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5610796/zsf8ZreWFU</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5610796/zsf8ZreWFU"/>
-        <updated>2023-11-07T07:17:14.782Z</updated>
-        <content type="html"><![CDATA[모멘트]]></content>
     </entry>
 </feed>

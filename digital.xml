@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-07T19:15:27.848Z</updated>
+    <updated>2023-11-07T20:19:55.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테크기업? 단순 부동산 임대였다…'62조원 가치' 위워크 몰락 [팩플]]]></title>
+        <id>https://v.daum.net/v/20231108050137292</id>
+        <link href="https://v.daum.net/v/20231108050137292"/>
+        <updated>2023-11-07T20:19:04.626Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[르포] 코딩 몰라도...말만 하면 '나만의 챗GPT' 뚝딱 만들어 팔 수 있다]]></title>
+        <id>https://v.daum.net/v/20231108043131991</id>
+        <link href="https://v.daum.net/v/20231108043131991"/>
+        <updated>2023-11-07T20:19:04.627Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플처럼 ‘AI앱 장터’ 열어… 오픈AI, 차기 빅테크 노린다]]></title>
         <id>https://v.daum.net/v/20231108030130350</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231107191204493"/>
         <updated>2023-11-07T10:20:16.262Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김범수 오자마자...카카오T, 플랫폼 열어 콜 차단 의혹 해소 나선다]]></title>
-        <id>https://v.daum.net/v/20231107190058165</id>
-        <link href="https://v.daum.net/v/20231107190058165"/>
-        <updated>2023-11-07T10:20:16.268Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["90조 인수의 결과?"… MS, 엑스박스 팝업 광고 논란]]></title>
-        <id>https://v.daum.net/v/20231107183305197</id>
-        <link href="https://v.daum.net/v/20231107183305197"/>
-        <updated>2023-11-07T15:19:16.700Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
