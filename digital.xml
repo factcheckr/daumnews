@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-07T11:16:00.123Z</updated>
+    <updated>2023-11-07T12:34:11.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[132억년 동안 빨아들였다…‘우주 최고령’ 블랙홀 발견]]></title>
+        <id>https://v.daum.net/v/20231107211632451</id>
+        <link href="https://v.daum.net/v/20231107211632451"/>
+        <updated>2023-11-07T12:33:25.735Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유료화 시작 1년 만에 유료독자 2만 명… 중앙일보 전략은?]]></title>
         <id>https://v.daum.net/v/20231107201005994</id>
@@ -13,25 +20,11 @@
         <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[은행 인증서 악용한 北 사이버 공격 또 적발…"삭제 또는 업데이트 해야"]]></title>
-        <id>https://v.daum.net/v/20231107201012998</id>
-        <link href="https://v.daum.net/v/20231107201012998"/>
-        <updated>2023-11-07T11:15:15.433Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[순찰, 첩보, 불리할 땐 후퇴…침팬지도 ‘군사전략’ 짠다]]></title>
         <id>https://v.daum.net/v/20231107200015735</id>
         <link href="https://v.daum.net/v/20231107200015735"/>
         <updated>2023-11-07T11:15:15.435Z</updated>
         <content type="html"><![CDATA[농민신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“손석구 쓴다더니…이 정도였어?” 20년만에 꼴찌 탈출 ‘설욕’]]></title>
-        <id>https://v.daum.net/v/20231107175137943</id>
-        <link href="https://v.daum.net/v/20231107175137943"/>
-        <updated>2023-11-07T11:15:15.436Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘깜짝 채용’ 나선 카카오, 분위기 쇄신 도모? [아이티라떼]]]></title>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20231107190058165"/>
         <updated>2023-11-07T10:20:16.268Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["90조 인수의 결과?"… MS, 엑스박스 팝업 광고 논란]]></title>
+        <id>https://v.daum.net/v/20231107183305197</id>
+        <link href="https://v.daum.net/v/20231107183305197"/>
+        <updated>2023-11-07T12:33:25.748Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
