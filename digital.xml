@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-07T21:17:17.009Z</updated>
+    <updated>2023-11-07T22:20:46.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["AI 성평등 위해…준수 법안 마련하고, 여성 인재 양성해야"]]></title>
+        <id>https://v.daum.net/v/20231108070032805</id>
+        <link href="https://v.daum.net/v/20231108070032805"/>
+        <updated>2023-11-07T22:19:57.931Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“우리 엄마 다시 걸을 수 있을까”…척추 임플란트가 이걸 해냈다고?]]></title>
         <id>https://v.daum.net/v/20231108060900935</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231108060028752"/>
         <updated>2023-11-07T21:16:26.682Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남극 빙하 줄어들자 번식하러 돌아오는 펭귄도 줄었다]]></title>
-        <id>https://v.daum.net/v/20231108060012693</id>
-        <link href="https://v.daum.net/v/20231108060012693"/>
-        <updated>2023-11-07T21:16:26.683Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>

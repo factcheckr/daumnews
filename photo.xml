@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-11-07T21:17:16.994Z</updated>
+    <updated>2023-11-07T22:20:46.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한, 경공업제품전시회 선전…1만2000여 가지 제품 전시]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1489/2MDHFtOKUQ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1489/2MDHFtOKUQ"/>
+        <updated>2023-11-07T22:20:14.424Z</updated>
+        <content type="html"><![CDATA[북한은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12일 만에 박근혜 다시 만난 윤 대통령]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1682593/PAAdrwRyXQ</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615618/H6KvkQpawk"/>
         <updated>2023-11-07T07:17:14.780Z</updated>
         <content type="html"><![CDATA[오마이포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“새만금 예산 복원하라” 전북인 5000명, 국회 총집결 [쿡 정치포토]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5611584/zKEeplg1zY</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5611584/zKEeplg1zY"/>
-        <updated>2023-11-07T07:17:14.781Z</updated>
-        <content type="html"><![CDATA[쿡 정치포토]]></content>
     </entry>
 </feed>
