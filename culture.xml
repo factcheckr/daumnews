@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-11-08T15:19:33.922Z</updated>
+    <updated>2023-11-08T16:24:33.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["직업성 피부암, 자외선 주원인…연 사망자 20년간 88% 증가"]]></title>
+        <id>https://v.daum.net/v/20231109011050848</id>
+        <link href="https://v.daum.net/v/20231109011050848"/>
+        <updated>2023-11-08T16:23:36.239Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“아기가 ‘매독’ 걸린채 태어났어요”]]></title>
+        <id>https://v.daum.net/v/20231109002702613</id>
+        <link href="https://v.daum.net/v/20231109002702613"/>
+        <updated>2023-11-08T16:23:36.243Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[응급실 온 ‘손상’ 환자 중 1020 급증… ‘자해러’ 탓인가]]></title>
         <id>https://v.daum.net/v/20231109000404437</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231108215743901"/>
         <updated>2023-11-08T13:21:06.328Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[암 사망률 1위 폐암… 생존율 높이는 최고의 방법은?]]></title>
-        <id>https://v.daum.net/v/20231108213016802</id>
-        <link href="https://v.daum.net/v/20231108213016802"/>
-        <updated>2023-11-08T12:32:59.894Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자해·자살로 응급실 찾은 이들 중 절반이 10·20대…10년새 3배↑]]></title>
-        <id>https://v.daum.net/v/20231108154328708</id>
-        <link href="https://v.daum.net/v/20231108154328708"/>
-        <updated>2023-11-08T12:32:59.897Z</updated>
-        <content type="html"><![CDATA[대전일보]]></content>
     </entry>
 </feed>
