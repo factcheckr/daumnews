@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-08T21:17:53.744Z</updated>
+    <updated>2023-11-08T22:19:32.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사이테크+] "버드나무 껍질 추출물이 코로나·장 바이러스 억제"]]></title>
+        <id>https://v.daum.net/v/20231109050015746</id>
+        <link href="https://v.daum.net/v/20231109050015746"/>
+        <updated>2023-11-08T22:18:43.345Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생성형 AI 구글링 ‘한국어’로 한다..‘네이버 큐:’ 제압]]></title>
+        <id>https://v.daum.net/v/20231109031406345</id>
+        <link href="https://v.daum.net/v/20231109031406345"/>
+        <updated>2023-11-08T22:18:43.346Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글 ‘생성형AI 검색’, 한국어 버전 출시…링크 표시·이어서 질문 기능 제공]]></title>
         <id>https://v.daum.net/v/20231109030915336</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231108224314640"/>
         <updated>2023-11-08T19:16:00.908Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아이 맡길 데 없어 울었다"…신청조차 어려운 '돌봄 서비스']]></title>
-        <id>https://v.daum.net/v/20231108203242450</id>
-        <link href="https://v.daum.net/v/20231108203242450"/>
-        <updated>2023-11-08T19:16:00.911Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[월간자동차] 23년 10월, 신차 등록률 하락...'벤츠' 수입차 판매 1위 되찾아]]></title>
-        <id>https://v.daum.net/v/20231108193002068</id>
-        <link href="https://v.daum.net/v/20231108193002068"/>
-        <updated>2023-11-08T19:16:00.913Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
