@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-09T17:17:40.292Z</updated>
+    <updated>2023-11-09T18:23:35.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“활용처 무한한 ‘위성 데이터 산업’… 뉴 스페이스 시대 이끌 것”]]></title>
+        <id>https://v.daum.net/v/20231110030110445</id>
+        <link href="https://v.daum.net/v/20231110030110445"/>
+        <updated>2023-11-09T18:22:47.564Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“한국 시장 잡자”… 참가한 스타트업 60%가 해외 업체]]></title>
+        <id>https://v.daum.net/v/20231110030058436</id>
+        <link href="https://v.daum.net/v/20231110030058436"/>
+        <updated>2023-11-09T18:22:47.564Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전립선암 유발하는 187개 유전 변이 추가 발견…"조기 암 관리 기여"]]></title>
         <id>https://v.daum.net/v/20231110010004157</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231109180948775"/>
         <updated>2023-11-09T16:24:41.507Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쿠키런: 모험의 탑'의 IP 확장 시도…레이드 밸런스, 피로도 낮추기 숙제로]]></title>
-        <id>https://v.daum.net/v/20231110000023749</id>
-        <link href="https://v.daum.net/v/20231110000023749"/>
-        <updated>2023-11-09T15:18:36.541Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['AI 폰' 시대 열리나..."새로운 놀 거리 필요"]]></title>
-        <id>https://v.daum.net/v/20231109153703889</id>
-        <link href="https://v.daum.net/v/20231109153703889"/>
-        <updated>2023-11-09T12:33:02.319Z</updated>
-        <content type="html"><![CDATA[키즈맘]]></content>
     </entry>
 </feed>
