@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-09T10:20:34.067Z</updated>
+    <updated>2023-11-09T11:16:07.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["한국 언론사들 뉴스 제작 AI 도구 만들기 위해 단합해야"]]></title>
+        <id>https://v.daum.net/v/20231109192410542</id>
+        <link href="https://v.daum.net/v/20231109192410542"/>
+        <updated>2023-11-09T11:15:26.527Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“AI로 통화 실시간 통역”…삼성, 내년초 ‘갤S24’에 기능 탑재]]></title>
         <id>https://v.daum.net/v/20231109164250141</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231109174613946"/>
         <updated>2023-11-09T09:18:30.370Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[업계 2위 빼앗긴 KT 해명…"사람이 쓰는 통신은 우위"]]></title>
-        <id>https://v.daum.net/v/20231109170905438</id>
-        <link href="https://v.daum.net/v/20231109170905438"/>
-        <updated>2023-11-09T08:22:14.759Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>
