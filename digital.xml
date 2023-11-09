@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-09T09:19:15.777Z</updated>
+    <updated>2023-11-09T10:20:34.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“AI로 통화 실시간 통역”…삼성, 내년초 ‘갤S24’에 기능 탑재]]></title>
+        <id>https://v.daum.net/v/20231109164250141</id>
+        <link href="https://v.daum.net/v/20231109164250141"/>
+        <updated>2023-11-09T10:19:50.865Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3N? 이제는 ‘넥슨과 아이들’…게임업체 실적 차이 더 극명해졌다]]></title>
+        <id>https://v.daum.net/v/20231109182006048</id>
+        <link href="https://v.daum.net/v/20231109182006048"/>
+        <updated>2023-11-09T10:19:50.869Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이사수 늘리고 정치 영향 줄인 '방송3법' 통과...여야 입장차 극명]]></title>
         <id>https://v.daum.net/v/20231109181404893</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231109170905438"/>
         <updated>2023-11-09T08:22:14.759Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['실시간 전화통역' 내년 갤럭시폰서 가능해진다]]></title>
-        <id>https://v.daum.net/v/20231109163806952</id>
-        <link href="https://v.daum.net/v/20231109163806952"/>
-        <updated>2023-11-09T08:22:14.762Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투자법 알려주는 이재용?…페북 사칭 광고, 금전 피해에도 사전 대응 ‘전무’]]></title>
-        <id>https://v.daum.net/v/20231109162342296</id>
-        <link href="https://v.daum.net/v/20231109162342296"/>
-        <updated>2023-11-09T08:22:14.763Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
