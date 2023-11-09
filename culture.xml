@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-11-09T12:33:47.193Z</updated>
+    <updated>2023-11-09T13:21:58.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[평소 먹던 오메가3·마그네슘·유산균… ‘이럴 땐’ 잠시 안 먹는 게 좋아]]></title>
+        <id>https://v.daum.net/v/20231109220016862</id>
+        <link href="https://v.daum.net/v/20231109220016862"/>
+        <updated>2023-11-09T13:21:01.810Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[500년 역사가 고스란히…'조선왕조실록' 110년 만에 제자리로]]></title>
         <id>https://v.daum.net/v/20231109205612007</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231109200109179"/>
         <updated>2023-11-09T11:15:09.221Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 대구·경북 오늘 밤부터 비…내일부터 다시 추워져]]></title>
-        <id>https://v.daum.net/v/20231109194800904</id>
-        <link href="https://v.daum.net/v/20231109194800904"/>
-        <updated>2023-11-09T11:15:09.223Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
