@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-10T03:19:48.621Z</updated>
+    <updated>2023-11-10T04:21:50.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[“벽에 핀 곰팡이인 줄 알았는데” 깜빡 속을 뻔...끔찍한 정체]]></title>
-        <id>https://v.daum.net/v/20231110115050688</id>
-        <link href="https://v.daum.net/v/20231110115050688"/>
-        <updated>2023-11-10T03:19:00.899Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[빅뱅 직후 초기 우주에 만들어진 '나선막대은하' 첫 관측]]></title>
         <id>https://v.daum.net/v/20231110114613506</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20231110111208033"/>
         <updated>2023-11-10T03:19:00.905Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위태로운 청소년에 손내민 KT직원]]></title>
+        <id>https://v.daum.net/v/20231110111750283</id>
+        <link href="https://v.daum.net/v/20231110111750283"/>
+        <updated>2023-11-10T04:21:07.785Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
