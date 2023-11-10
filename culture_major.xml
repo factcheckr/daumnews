@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-11-10T10:20:51.746Z</updated>
+    <updated>2023-11-10T11:19:27.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["헬스장 왜 가요?"...안가도 건강한 사람들은 뭘 할까?]]></title>
+        <id>https://v.daum.net/v/20231110171526273</id>
+        <link href="https://v.daum.net/v/20231110171526273"/>
+        <updated>2023-11-10T11:18:29.880Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["소셜미디어 과사용, ‘중독성’ 탓 아니다"...학계 갑론을박]]></title>
         <id>https://v.daum.net/v/20231110174612074</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231110163027822"/>
         <updated>2023-11-10T08:23:33.825Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이우환의 우주, 렘브란트를 초대하다]]></title>
-        <id>https://v.daum.net/v/20231110161511408</id>
-        <link href="https://v.daum.net/v/20231110161511408"/>
-        <updated>2023-11-10T08:23:33.830Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
