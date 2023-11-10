@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-10T16:26:56.899Z</updated>
+    <updated>2023-11-10T17:18:37.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플 아이폰16에 AI호출 버튼 달까...삼성 AI 갤럭시와 대결 예고]]></title>
+        <id>https://v.daum.net/v/20231111020600140</id>
+        <link href="https://v.daum.net/v/20231111020600140"/>
+        <updated>2023-11-10T17:18:01.967Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈체크] 'AI 규제' 국제공조…"스스로 추론하는 프런티어 AI 주목"]]></title>
         <id>https://v.daum.net/v/20231110160716203</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231110170622952"/>
         <updated>2023-11-10T08:23:43.388Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한주의게임소식] "붕괴가니 원신오네" 풀악셀 밟은 원신의 인기 질주]]></title>
-        <id>https://v.daum.net/v/20231110170303853</id>
-        <link href="https://v.daum.net/v/20231110170303853"/>
-        <updated>2023-11-10T08:23:43.391Z</updated>
-        <content type="html"><![CDATA[게임동아]]></content>
     </entry>
 </feed>
