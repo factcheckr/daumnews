@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-10T18:24:03.870Z</updated>
+    <updated>2023-11-10T20:20:26.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“중견 연구자로 성장할 사다리를 없애버린 것”]]></title>
+        <id>https://v.daum.net/v/20231110170012761</id>
+        <link href="https://v.daum.net/v/20231110170012761"/>
+        <updated>2023-11-10T20:19:43.396Z</updated>
+        <content type="html"><![CDATA[주간경향]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["韓 CBDC 실험 세계가 주목···한국적 모델 만들자"]]></title>
         <id>https://v.daum.net/v/20231110170622952</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231110160016989"/>
         <updated>2023-11-10T08:23:53.073Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“소프트 임플란트…'면역거부반응' 벽 넘어 '인류의 삶' 이끄는 인공장기”]]></title>
-        <id>https://v.daum.net/v/20231110152303977</id>
-        <link href="https://v.daum.net/v/20231110152303977"/>
-        <updated>2023-11-10T08:23:53.074Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
