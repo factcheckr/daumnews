@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-11-10T17:18:37.936Z</updated>
+    <updated>2023-11-10T18:24:03.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[검사 탄핵 재발의… 野 초유의 ‘사법 방해’]]></title>
+        <id>https://v.daum.net/v/20231111030116199</id>
+        <link href="https://v.daum.net/v/20231111030116199"/>
+        <updated>2023-11-10T18:22:38.326Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명 “은행-정유사 횡재세 추진”… 與 “총선용 포퓰리즘”]]></title>
         <id>https://v.daum.net/v/20231111014207051</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231110220011509"/>
         <updated>2023-11-10T15:18:22.697Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새만금 예산 복원…정부 태도 ‘오락가락’]]></title>
-        <id>https://v.daum.net/v/20231110215849464</id>
-        <link href="https://v.daum.net/v/20231110215849464"/>
-        <updated>2023-11-10T15:18:22.701Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

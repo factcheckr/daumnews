@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-11-10T17:18:37.934Z</updated>
+    <updated>2023-11-10T18:24:03.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[꽃으로 만든 꽃]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/pVvQHKD7rV</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/pVvQHKD7rV"/>
+        <updated>2023-11-10T18:23:42.478Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1위는 나야[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/8AoyWqcpyY</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1476/t1M6MBkUFl"/>
         <updated>2023-11-10T06:23:22.660Z</updated>
         <content type="html"><![CDATA[미국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기온 낮고 바람 불어 추워요 [서울포토]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/674200/fqjpcRT6ha</id>
-        <link href="https://gallery.v.daum.net/p/viewer/674200/fqjpcRT6ha"/>
-        <updated>2023-11-10T05:18:06.577Z</updated>
-        <content type="html"><![CDATA[서울포토]]></content>
     </entry>
 </feed>
