@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-11-11T17:16:22.095Z</updated>
+    <updated>2023-11-11T18:23:01.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이스라엘군 "하마스 전초기지 11곳 통제 완료"[이-팔 전쟁]]]></title>
+        <id>https://v.daum.net/v/20231112001229487</id>
+        <link href="https://v.daum.net/v/20231112001229487"/>
+        <updated>2023-11-11T18:21:52.538Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가자지구 최대 병원 알-시파, 공포의 '엑소더스']]></title>
         <id>https://v.daum.net/v/20231111235219208</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231111204617032"/>
         <updated>2023-11-11T13:18:34.138Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빈 살만 왕세자 “가자 전쟁 반대… 인질 석방하라”]]></title>
-        <id>https://v.daum.net/v/20231111205743108</id>
-        <link href="https://v.daum.net/v/20231111205743108"/>
-        <updated>2023-11-11T13:18:34.139Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
