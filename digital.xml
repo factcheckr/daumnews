@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-11T14:16:52.225Z</updated>
+    <updated>2023-11-11T15:18:02.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[비즈토크<상>] "그래서, 누가 진짜 2등인데?"…KT·LGU+, 가입자 신경전]]></title>
+        <id>https://v.daum.net/v/20231112000017311</id>
+        <link href="https://v.daum.net/v/20231112000017311"/>
+        <updated>2023-11-11T15:17:19.580Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[완벽한 원신 음악회를 운영과 장소가 망쳐버렸다]]></title>
         <id>https://v.daum.net/v/20231111224730807</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231111155202098"/>
         <updated>2023-11-11T09:16:04.195Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“우리는 돈 내고 보는데” 뻔뻔한 중국, ‘이두나’ 공짜 시청에 별점 테러까지]]></title>
-        <id>https://v.daum.net/v/20231111155108078</id>
-        <link href="https://v.daum.net/v/20231111155108078"/>
-        <updated>2023-11-11T09:16:04.196Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
