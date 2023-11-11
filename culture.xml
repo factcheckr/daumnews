@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-11-11T18:23:01.534Z</updated>
+    <updated>2023-11-11T20:19:50.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아메리카노 vs 에스프레소 vs 라떼… 카페인 가장 많은 건?]]></title>
+        <id>https://v.daum.net/v/20231112050016965</id>
+        <link href="https://v.daum.net/v/20231112050016965"/>
+        <updated>2023-11-11T20:18:42.552Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인플루언서 프리즘] "지갑 속 잔돈 꺼내야지"…'길거리 음식' 유튜브 트렌드로 뜬다]]></title>
         <id>https://v.daum.net/v/20231112000044345</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231111214112412"/>
         <updated>2023-11-11T13:18:41.871Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[순천만 다시 찾은 '겨울 진객' 흑두루미‥본격 월동 준비]]></title>
-        <id>https://v.daum.net/v/20231111202808901</id>
-        <link href="https://v.daum.net/v/20231111202808901"/>
-        <updated>2023-11-11T12:30:41.513Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
