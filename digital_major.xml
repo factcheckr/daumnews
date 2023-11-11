@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-11T11:16:00.702Z</updated>
+    <updated>2023-11-11T12:31:54.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[머스크, 도발적인 생성형 AI 유료버전 공개…연말 AI 대전 ‘후끈’]]></title>
+        <id>https://v.daum.net/v/20231111140004134</id>
+        <link href="https://v.daum.net/v/20231111140004134"/>
+        <updated>2023-11-11T12:31:11.822Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['수수료 개편' 테이블 앉는 카카오모빌리티-택시 업계..."첫술에 배부를 수 없어"]]></title>
         <id>https://v.daum.net/v/20231111132207839</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231111083003174"/>
         <updated>2023-11-11T02:55:17.286Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['누리호 기술유출' 의혹 수사…우주항공청 필요성 보여준 장면]]></title>
-        <id>https://v.daum.net/v/20231111082001117</id>
-        <link href="https://v.daum.net/v/20231111082001117"/>
-        <updated>2023-11-11T02:55:17.288Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
