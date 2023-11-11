@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-11-11T15:18:02.515Z</updated>
+    <updated>2023-11-11T16:21:35.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[검사 좌표 찍은 野 “김건희 일가 호위검사 초고속 승진” …檢 “사실 아냐”]]></title>
+        <id>https://v.daum.net/v/20231111224438798</id>
+        <link href="https://v.daum.net/v/20231111224438798"/>
+        <updated>2023-11-11T16:20:08.863Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김기현 “농민 위한 지원 아끼지 않을 것”]]></title>
         <id>https://v.daum.net/v/20231111223835786</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231111193840547"/>
         <updated>2023-11-11T12:29:50.785Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비명계, ‘원칙과 상식’ 출범 예고…집단행동 압박]]></title>
-        <id>https://v.daum.net/v/20231111191458381</id>
-        <link href="https://v.daum.net/v/20231111191458381"/>
-        <updated>2023-11-11T12:29:50.788Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
     </entry>
 </feed>
