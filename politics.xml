@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-11-11T12:31:54.037Z</updated>
+    <updated>2023-11-11T13:19:34.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“윤석열, ‘박근혜-이준석 투샷’ 두려움... 들켰다” [공덕포차]]]></title>
+        <id>https://v.daum.net/v/20231111210501172</id>
+        <link href="https://v.daum.net/v/20231111210501172"/>
+        <updated>2023-11-11T13:17:58.354Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도심 행진 중 경찰 밀친 전장연 활동가 2명 체포]]></title>
         <id>https://v.daum.net/v/20231111205427090</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231111194455579"/>
         <updated>2023-11-11T11:14:05.948Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍 “신당 바람 없다”…이 “경각심 주려 도전”]]></title>
-        <id>https://v.daum.net/v/20231111191502385</id>
-        <link href="https://v.daum.net/v/20231111191502385"/>
-        <updated>2023-11-11T11:14:05.952Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
     </entry>
 </feed>

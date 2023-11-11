@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-11-11T12:31:54.039Z</updated>
+    <updated>2023-11-11T13:19:34.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍 “신당 바람 없다”…이 “경각심 주려 도전”]]></title>
+        <id>https://v.daum.net/v/20231111191502385</id>
+        <link href="https://v.daum.net/v/20231111191502385"/>
+        <updated>2023-11-11T13:18:06.224Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 '노란봉투법·방송 3법' 3번째 거부권 쓸까…이달 말 결정할 듯]]></title>
         <id>https://v.daum.net/v/20231111193840547</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231111174220210"/>
         <updated>2023-11-11T10:16:42.848Z</updated>
         <content type="html"><![CDATA[경기일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與 "노란봉투법, 사실상 민노총 구제법…尹 재의요구권 행사 불가피"]]></title>
-        <id>https://v.daum.net/v/20231111164942373</id>
-        <link href="https://v.daum.net/v/20231111164942373"/>
-        <updated>2023-11-11T10:16:42.850Z</updated>
-        <content type="html"><![CDATA[대전일보]]></content>
     </entry>
 </feed>
