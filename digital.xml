@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-11T03:23:04.213Z</updated>
+    <updated>2023-11-11T04:21:36.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이게 웬 날벼락"…넷플릭스 가입자들 '부글부글' [조아라의 IT's fun]]]></title>
+        <id>https://v.daum.net/v/20231111130301641</id>
+        <link href="https://v.daum.net/v/20231111130301641"/>
+        <updated>2023-11-11T04:20:52.951Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KT vs LGU+, 이동통신 시장 2위는 누구? [심지혜의 인사이트]]]></title>
+        <id>https://v.daum.net/v/20231111123012458</id>
+        <link href="https://v.daum.net/v/20231111123012458"/>
+        <updated>2023-11-11T04:20:52.953Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[게임위드인] "돈 써서 경쟁하는 게임 그만"…콘솔·서브컬처가 뜬다]]></title>
         <id>https://v.daum.net/v/20231111110006636</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231111092511717"/>
         <updated>2023-11-11T02:55:08.120Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벌써 1조원 넘게 번 넥슨…·매출 절반이 수익 크래프톤 '독주 체제']]></title>
-        <id>https://v.daum.net/v/20231111090004387</id>
-        <link href="https://v.daum.net/v/20231111090004387"/>
-        <updated>2023-11-11T02:55:08.121Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플-안드로이드 메시지 장벽 허물까…EU '아이메시지' 규제 검토]]></title>
-        <id>https://v.daum.net/v/20231111083013183</id>
-        <link href="https://v.daum.net/v/20231111083013183"/>
-        <updated>2023-11-11T02:55:08.123Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
