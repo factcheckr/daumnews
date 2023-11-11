@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-11-11T09:16:45.765Z</updated>
+    <updated>2023-11-11T10:18:31.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[지구촌톡톡] '굿바이 판다'…미국 살던 판다들, 중국으로 귀향 外]]></title>
+        <id>https://v.daum.net/v/20231111173315082</id>
+        <link href="https://v.daum.net/v/20231111173315082"/>
+        <updated>2023-11-11T10:17:19.522Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["교전 멈추면 100명 석방을"…이스라엘, 민간인구출 협상 시도]]></title>
         <id>https://v.daum.net/v/20231111173300076</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231111160557396"/>
         <updated>2023-11-11T09:15:40.225Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이까지 인간 방패로…이스라엘 “이게 현실이다”]]></title>
-        <id>https://v.daum.net/v/20231111135543095</id>
-        <link href="https://v.daum.net/v/20231111135543095"/>
-        <updated>2023-11-11T09:15:40.226Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
