@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-11-12T13:21:01.964Z</updated>
+    <updated>2023-11-12T14:27:27.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[머리 맞댄 한미일 국방장관…"내년 1월부터 3자 훈련"]]></title>
+        <id>https://v.daum.net/v/20231112205104735</id>
+        <link href="https://v.daum.net/v/20231112205104735"/>
+        <updated>2023-11-12T14:25:42.405Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍준표 “대구서 이준석 바람 안불것” 이준석 “어려우니 도전”]]></title>
         <id>https://v.daum.net/v/20231112195739305</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231112192800124"/>
         <updated>2023-11-12T12:30:54.555Z</updated>
         <content type="html"><![CDATA[경기일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“청년·TK 잡아라”…여권내 치열한 구애 경쟁]]></title>
-        <id>https://v.daum.net/v/20231112192246098</id>
-        <link href="https://v.daum.net/v/20231112192246098"/>
-        <updated>2023-11-12T12:30:54.558Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
     </entry>
 </feed>
