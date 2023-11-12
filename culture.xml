@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-11-12T12:32:46.446Z</updated>
+    <updated>2023-11-12T13:21:01.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최고와 최고의 만남…조성진과 베를린필이 만들어낸 대비와 조화]]></title>
+        <id>https://v.daum.net/v/20231112220158234</id>
+        <link href="https://v.daum.net/v/20231112220158234"/>
+        <updated>2023-11-12T13:20:13.011Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[눈·영하…매서운 ‘秋위’]]></title>
         <id>https://v.daum.net/v/20231112210501897</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231112190736956"/>
         <updated>2023-11-12T11:14:27.323Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외 가는 남편이 누룽지보다 소중하게 챙긴 것]]></title>
-        <id>https://v.daum.net/v/20231112193015138</id>
-        <link href="https://v.daum.net/v/20231112193015138"/>
-        <updated>2023-11-12T11:14:27.325Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
