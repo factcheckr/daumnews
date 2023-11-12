@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-12T10:19:14.433Z</updated>
+    <updated>2023-11-12T11:15:29.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“영어가 막 튀어나와”…세상 바꿀 괴물폰 나오자 제2의 엔비디아 된 이 기업 [위클리반도체]]]></title>
+        <id>https://v.daum.net/v/20231112191500042</id>
+        <link href="https://v.daum.net/v/20231112191500042"/>
+        <updated>2023-11-12T11:14:45.610Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국립전파연구원 "디지털트윈·IoT 국제표준화 주도…업계 지원"]]></title>
         <id>https://v.daum.net/v/20231112180810242</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[합산영업익 1조 넘었지만… 통신3사, `5G 성장세 0%대` 울상]]></title>
+        <title type="html"><![CDATA[합산영업익 1조 넘었지만… 통신3사, `0%대 5G 성장` 울상]]></title>
         <id>https://v.daum.net/v/20231112183025576</id>
         <link href="https://v.daum.net/v/20231112183025576"/>
         <updated>2023-11-12T10:18:26.510Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231112175131918"/>
         <updated>2023-11-12T09:17:50.016Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["7대 우주강국 '흔들'… 우주청 속도내야"]]></title>
-        <id>https://v.daum.net/v/20231112171800319</id>
-        <link href="https://v.daum.net/v/20231112171800319"/>
-        <updated>2023-11-12T08:21:51.187Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
