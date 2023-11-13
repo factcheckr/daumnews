@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-13T21:17:44.755Z</updated>
+    <updated>2023-11-13T22:20:49.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔비디아, 차세대 AI칩 H200 나왔다…"속도 두 배"]]></title>
+        <id>https://v.daum.net/v/20231114003710665</id>
+        <link href="https://v.daum.net/v/20231114003710665"/>
+        <updated>2023-11-13T22:20:16.003Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신고 편하니 '1년새 8배↑'…이제 스팸 빅데이터로 '알아서' 차단]]></title>
+        <id>https://v.daum.net/v/20231114043002512</id>
+        <link href="https://v.daum.net/v/20231114043002512"/>
+        <updated>2023-11-13T22:20:16.003Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“로켓 재활용법 찾은 머스크처럼, 눈앞의 ‘크럭스’부터 돌파해야”]]></title>
         <id>https://v.daum.net/v/20231114030105061</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231113230655676"/>
         <updated>2023-11-13T20:18:13.468Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["생성 AI, 제값 내고 뉴스 써라"…AI가 불지핀 저작권 논쟁]]></title>
-        <id>https://v.daum.net/v/20231113185903358</id>
-        <link href="https://v.daum.net/v/20231113185903358"/>
-        <updated>2023-11-13T15:23:42.577Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자체 7나노 칩 쓴 화웨이 최신 스마트폰, 중국 부품 비중이 절반]]></title>
-        <id>https://v.daum.net/v/20231113120110786</id>
-        <link href="https://v.daum.net/v/20231113120110786"/>
-        <updated>2023-11-13T15:23:42.580Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
