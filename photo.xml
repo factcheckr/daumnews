@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-11-13T19:15:23.320Z</updated>
+    <updated>2023-11-13T20:18:54.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/321090/yk8Z9UatBD"/>
         <updated>2023-11-13T15:23:50.719Z</updated>
         <content type="html"><![CDATA[정부 부처 제공 포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[골프 천재 그레그 노먼이 설계한 코스, 한국에도 있습니다[청계천 옆 사진관]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/344179/zOQfb0o5E6</id>
+        <link href="https://gallery.v.daum.net/p/viewer/344179/zOQfb0o5E6"/>
+        <updated>2023-11-13T20:18:22.905Z</updated>
+        <content type="html"><![CDATA[청계천 옆 사진관]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[놓치지 않겠어]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5024184/G7SutnHRUe"/>
         <updated>2023-11-13T06:25:01.753Z</updated>
         <content type="html"><![CDATA[TF사진관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APEC·IPEF 정상회의에 반대하는 시위대]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1476/2SRUsqcpUn</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1476/2SRUsqcpUn"/>
-        <updated>2023-11-13T06:25:01.757Z</updated>
-        <content type="html"><![CDATA[미국은 지금]]></content>
     </entry>
 </feed>
