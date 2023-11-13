@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-13T03:20:33.497Z</updated>
+    <updated>2023-11-13T04:23:07.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문체부, '확률형 아이템' 시행령 입법예고…컴플리트 가챠 규제·천장규정 도입]]></title>
+        <id>https://v.daum.net/v/20231113110008730</id>
+        <link href="https://v.daum.net/v/20231113110008730"/>
+        <updated>2023-11-13T04:22:34.915Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동그란 구멍 뚫린 아이폰, 언제 나올까]]></title>
         <id>https://v.daum.net/v/20231113105950696</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231113091030864"/>
         <updated>2023-11-13T02:31:33.664Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내년 12.9인치 아이패드에어 출시…라인업 확 바뀐다"]]></title>
-        <id>https://v.daum.net/v/20231113085238231</id>
-        <link href="https://v.daum.net/v/20231113085238231"/>
-        <updated>2023-11-13T02:31:33.665Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
