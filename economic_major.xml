@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-11-13T15:24:23.664Z</updated>
+    <updated>2023-11-13T16:25:07.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["만원 주고 점심 먹느니…" 외식비 상승에 수요 폭발한 곳]]></title>
+        <id>https://v.daum.net/v/20231113220102230</id>
+        <link href="https://v.daum.net/v/20231113220102230"/>
+        <updated>2023-11-13T16:23:35.694Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 한전 “태양광 겸직하다 한 번만 적발돼도 해고”… ‘원스트라이크 아웃제’ 전면 도입]]></title>
+        <id>https://v.daum.net/v/20231113223702109</id>
+        <link href="https://v.daum.net/v/20231113223702109"/>
+        <updated>2023-11-13T16:23:35.695Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부 예산 ‘0원’…외국인노동자지원센터 폐쇄 위기]]></title>
         <id>https://v.daum.net/v/20231113220550354</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231113204810503"/>
         <updated>2023-11-13T13:21:30.134Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몸집 커지는 부채공화국… 20년째 다이어트 딜레마]]></title>
-        <id>https://v.daum.net/v/20231113204710482</id>
-        <link href="https://v.daum.net/v/20231113204710482"/>
-        <updated>2023-11-13T13:21:30.135Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뉴스타파 받아 썼다가'...지상파 과징금 1500~4500만원]]></title>
-        <id>https://v.daum.net/v/20231113182721301</id>
-        <link href="https://v.daum.net/v/20231113182721301"/>
-        <updated>2023-11-13T13:21:30.137Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
     </entry>
 </feed>
