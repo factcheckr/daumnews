@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-11-13T09:22:17.255Z</updated>
+    <updated>2023-11-13T10:21:33.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유인촌 장관 "무용계 지지선언에 깜짝 놀랐다…국립무용원 등 건립 검토"]]></title>
+        <id>https://v.daum.net/v/20231113174240947</id>
+        <link href="https://v.daum.net/v/20231113174240947"/>
+        <updated>2023-11-13T10:20:42.681Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘제돌이’가 자유 찾은 지 10년…이젠 돌고래에게도 ‘고소할 권리’가]]></title>
         <id>https://v.daum.net/v/20231113174008858</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231113163906601"/>
         <updated>2023-11-13T09:21:24.780Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["가로줄 vs 세로줄"...나이 못 속인다는 목주름은?]]></title>
-        <id>https://v.daum.net/v/20231113162051771</id>
-        <link href="https://v.daum.net/v/20231113162051771"/>
-        <updated>2023-11-13T09:21:24.782Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
