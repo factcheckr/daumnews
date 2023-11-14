@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-14T16:21:23.677Z</updated>
+    <updated>2023-11-14T18:20:48.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]‘킬러규제 개혁’ 법안 146개 중 국회통과 6개]]></title>
+        <id>https://v.daum.net/v/20231115030048191</id>
+        <link href="https://v.daum.net/v/20231115030048191"/>
+        <updated>2023-11-14T18:20:03.527Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔비디아, 품귀 빚은 ‘H100’보다 센 AI 반도체 내놨다]]></title>
+        <id>https://v.daum.net/v/20231115030227291</id>
+        <link href="https://v.daum.net/v/20231115030227291"/>
+        <updated>2023-11-14T18:20:03.528Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘아이폰도 됩니다’… 삼성 vs 애플 전쟁에 변수된 SKT ‘에이닷’]]></title>
         <id>https://v.daum.net/v/20231115000305591</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231114202105285"/>
         <updated>2023-11-14T12:33:25.047Z</updated>
         <content type="html"><![CDATA[EBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전기차 남은 전력으로 가정과 빌딩에 전기 공급한다]]></title>
-        <id>https://v.daum.net/v/20231114201500194</id>
-        <link href="https://v.daum.net/v/20231114201500194"/>
-        <updated>2023-11-14T11:20:38.995Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스 인사이트] 과학계 R&D예산…어떻게 될까]]></title>
-        <id>https://v.daum.net/v/20231114183848657</id>
-        <link href="https://v.daum.net/v/20231114183848657"/>
-        <updated>2023-11-14T10:20:22.347Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
