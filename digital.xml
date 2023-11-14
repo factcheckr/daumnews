@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-14T11:21:23.870Z</updated>
+    <updated>2023-11-14T12:34:04.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<뉴스브릿지>땅 위의 인공태양…우리 기술로 이끈다]]></title>
+        <id>https://v.daum.net/v/20231114202105285</id>
+        <link href="https://v.daum.net/v/20231114202105285"/>
+        <updated>2023-11-14T12:33:25.047Z</updated>
+        <content type="html"><![CDATA[EBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전기차 남은 전력으로 가정과 빌딩에 전기 공급한다]]></title>
         <id>https://v.daum.net/v/20231114201500194</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231114181351060"/>
         <updated>2023-11-14T09:18:17.684Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['AI폰' 선수 친 中…비보, LLM 탑재 신제품 x100 출시]]></title>
-        <id>https://v.daum.net/v/20231114171822099</id>
-        <link href="https://v.daum.net/v/20231114171822099"/>
-        <updated>2023-11-14T10:20:22.354Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
