@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-11-14T15:24:10.726Z</updated>
+    <updated>2023-11-14T16:21:23.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[밀착카메라] "내 꿈은 졸업이다냥" 섬마을 폐교에 생긴 고양이학교]]></title>
+        <id>https://v.daum.net/v/20231114204843725</id>
+        <link href="https://v.daum.net/v/20231114204843725"/>
+        <updated>2023-11-14T16:20:15.190Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미술로 담은 중증장애인 일상]]></title>
         <id>https://v.daum.net/v/20231115000550656</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[수요동물원] “와드드득...!” 하마 이빨에 산산이 부서진 영양 몸뚱이]]></title>
+        <title type="html"><![CDATA[“와드드득...!” 하마 이빨에 산산이 부서진 영양 몸뚱이 [수요동물원]]]></title>
         <id>https://v.daum.net/v/20231115000017504</id>
         <link href="https://v.daum.net/v/20231115000017504"/>
         <updated>2023-11-14T15:23:19.092Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231114232042223"/>
         <updated>2023-11-14T15:23:19.093Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발 각질 ‘이렇게’ 제거하면 더 두꺼워져]]></title>
-        <id>https://v.daum.net/v/20231114230020074</id>
-        <link href="https://v.daum.net/v/20231114230020074"/>
-        <updated>2023-11-14T14:16:59.619Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>

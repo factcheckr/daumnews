@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-14T15:24:10.719Z</updated>
+    <updated>2023-11-14T16:21:23.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[R&D 예산 돋보기]⑬ 우주경제 벌써 옛말?… 우주개발 사업 13개 중 8개도 예산 깎였다]]></title>
+        <id>https://v.daum.net/v/20231114181351060</id>
+        <link href="https://v.daum.net/v/20231114181351060"/>
+        <updated>2023-11-14T16:20:43.970Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['AI폰' 선수 친 中…비보, LLM 탑재 신제품 x100 출시]]></title>
         <id>https://v.daum.net/v/20231114171822099</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231114163611260"/>
         <updated>2023-11-14T09:18:24.579Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천차만별 '가상자산' 정책…한국이 나아가야 할 길은]]></title>
-        <id>https://v.daum.net/v/20231114161001108</id>
-        <link href="https://v.daum.net/v/20231114161001108"/>
-        <updated>2023-11-14T08:22:45.270Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
