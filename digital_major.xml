@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-14T10:20:57.638Z</updated>
+    <updated>2023-11-14T11:21:23.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화성에서 산소 만드는 AI 로봇 화학자]]></title>
+        <id>https://v.daum.net/v/20231114174611257</id>
+        <link href="https://v.daum.net/v/20231114174611257"/>
+        <updated>2023-11-14T11:20:48.583Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사람 죽인 로봇…40여 년 전에도 있었다]]></title>
         <id>https://v.daum.net/v/20231114170216362</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231114160134703"/>
         <updated>2023-11-14T08:22:45.270Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집사님들 파괴냥 본능 공감하시죠? “우리집 고양이는요”]]></title>
-        <id>https://v.daum.net/v/20231114160008626</id>
-        <link href="https://v.daum.net/v/20231114160008626"/>
-        <updated>2023-11-14T08:22:45.272Z</updated>
-        <content type="html"><![CDATA[게임동아]]></content>
     </entry>
 </feed>
