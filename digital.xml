@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-15T03:20:43.779Z</updated>
+    <updated>2023-11-15T04:23:03.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["연구 잘하는 사람보다 말로 과제 따는 사람이 인정받는 구조부터 바꿔야" [방향 잃은 R&D 효율화]]]></title>
+        <id>https://v.daum.net/v/20231115130004055</id>
+        <link href="https://v.daum.net/v/20231115130004055"/>
+        <updated>2023-11-15T04:22:17.707Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성도 이겼다…'국내 1위' 네이버 슈퍼컴, 세계 순위는 [정지은의 산업노트]]]></title>
         <id>https://v.daum.net/v/20231115120108753</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231115114205944"/>
         <updated>2023-11-15T03:19:54.177Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주로 곧 떠날 ‘삿갓’ 닮은 이 망원경 정체는?]]></title>
-        <id>https://v.daum.net/v/20231115113748749</id>
-        <link href="https://v.daum.net/v/20231115113748749"/>
-        <updated>2023-11-15T03:19:54.179Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
