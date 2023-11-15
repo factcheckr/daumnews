@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-15T15:20:07.913Z</updated>
+    <updated>2023-11-15T16:25:06.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩플] MS, 자체 개발 AI 반도체 공개했다…애플 제치고 시총 1위 오르나]]></title>
+        <id>https://v.daum.net/v/20231116010032109</id>
+        <link href="https://v.daum.net/v/20231116010032109"/>
+        <updated>2023-11-15T16:24:29.409Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['벌써부터 역대급'…삼성전자, 갤럭시S24 시리즈로 'AI폰' 선공 나선다]]></title>
         <id>https://v.daum.net/v/20231116000119689</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231115200610379"/>
         <updated>2023-11-15T11:16:44.542Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다가온 겨울···'전염병 공포'에 떠는 戰場(가자지구·우크라이나)]]></title>
-        <id>https://v.daum.net/v/20231115194950104</id>
-        <link href="https://v.daum.net/v/20231115194950104"/>
-        <updated>2023-11-15T11:16:44.545Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>

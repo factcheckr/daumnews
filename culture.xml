@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-11-15T15:20:07.810Z</updated>
+    <updated>2023-11-15T16:25:06.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인류를 구한 미생물의 놀라운 역사…'발효 음식의 과학']]></title>
+        <id>https://v.daum.net/v/20231116010015105</id>
+        <link href="https://v.daum.net/v/20231116010015105"/>
+        <updated>2023-11-15T16:24:13.647Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강원 수험생 1만2179명 결전…신분증·시험장 확인 ‘꼼꼼’]]></title>
         <id>https://v.daum.net/v/20231116000612840</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231116000240729"/>
         <updated>2023-11-15T15:19:16.630Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오메가3' 제품 허가사항에 심방세동 부작용 추가…제약업계 '화들짝']]></title>
-        <id>https://v.daum.net/v/20231115183727691</id>
-        <link href="https://v.daum.net/v/20231115183727691"/>
-        <updated>2023-11-15T14:18:18.743Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
