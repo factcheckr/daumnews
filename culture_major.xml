@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-11-15T18:22:18.925Z</updated>
+    <updated>2023-11-15T19:17:12.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강원 수험생 1만2179명 결전…신분증·시험장 확인 ‘꼼꼼’]]></title>
+        <id>https://v.daum.net/v/20231116000612840</id>
+        <link href="https://v.daum.net/v/20231116000612840"/>
+        <updated>2023-11-15T19:16:30.214Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘ 아리랑’이 독립운동 암호였다면]]></title>
         <id>https://v.daum.net/v/20231116000549813</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231115213021415"/>
         <updated>2023-11-15T15:19:24.311Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수능 고사장에서 만난 고3 "시험 보러 온 거 아니에요"]]></title>
-        <id>https://v.daum.net/v/20231115205702053</id>
-        <link href="https://v.daum.net/v/20231115205702053"/>
-        <updated>2023-11-15T15:19:24.314Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>

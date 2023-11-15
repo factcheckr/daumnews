@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-15T18:22:18.918Z</updated>
+    <updated>2023-11-15T19:17:12.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://v.daum.net/v/20231116030311577"/>
         <updated>2023-11-15T18:21:51.344Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“아들, 유튜브 좀 적당히 봐” “엄마도 못 끊잖아요”…얼마나 보길래]]></title>
-        <id>https://v.daum.net/v/20231115225700218</id>
-        <link href="https://v.daum.net/v/20231115225700218"/>
-        <updated>2023-11-15T18:21:51.346Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“이러니 다들 넷플릭스 타령” 또 터졌다…유탄 맞은 방송 ‘0%’ 사태]]></title>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20231115174612944"/>
         <updated>2023-11-15T11:16:52.865Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韓 슈퍼컴퓨터 성능점유율 하락…네이버·씨유박스 신규 등재]]></title>
+        <id>https://v.daum.net/v/20231115173026378</id>
+        <link href="https://v.daum.net/v/20231115173026378"/>
+        <updated>2023-11-15T19:16:45.082Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>
