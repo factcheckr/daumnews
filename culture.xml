@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-11-16T03:20:37.826Z</updated>
+    <updated>2023-11-16T04:23:24.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리는 질문을 멈춰선 안 된다]]></title>
+        <id>https://v.daum.net/v/20231116131802274</id>
+        <link href="https://v.daum.net/v/20231116131802274"/>
+        <updated>2023-11-16T04:22:18.638Z</updated>
+        <content type="html"><![CDATA[한겨레21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[항생제 내성 인식주간…"항생제는 필요할 때만 제대로 사용해야"]]></title>
+        <id>https://v.daum.net/v/20231116120028209</id>
+        <link href="https://v.daum.net/v/20231116120028209"/>
+        <updated>2023-11-16T04:22:18.639Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[편리하지만 탈도 많은 SNS…부작용 없이 사용하려면?]]></title>
         <id>https://v.daum.net/v/20231116120803517</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231116114807647"/>
         <updated>2023-11-16T03:19:32.805Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트리맨'이 전하는 자연과 인간의 이야기…유이치 히라코 개인전]]></title>
-        <id>https://v.daum.net/v/20231116114656583</id>
-        <link href="https://v.daum.net/v/20231116114656583"/>
-        <updated>2023-11-16T03:19:32.806Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이올리니스트 미도리, KBS교향악단과 세 번째 협연]]></title>
-        <id>https://v.daum.net/v/20231116114034324</id>
-        <link href="https://v.daum.net/v/20231116114034324"/>
-        <updated>2023-11-16T03:19:32.808Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
