@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-11-16T13:23:29.646Z</updated>
+    <updated>2023-11-16T14:23:30.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[농민단체, 농협법 개정 지연 비판…“고의 방기…총선서 책임 물을 것”]]></title>
+        <id>https://v.daum.net/v/20231116223718357</id>
+        <link href="https://v.daum.net/v/20231116223718357"/>
+        <updated>2023-11-16T14:21:58.683Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[역대급 엔저에 실적도 역대급…일본 기업들 3년연속 ‘돈 잔치’]]></title>
         <id>https://v.daum.net/v/20231116210001935</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231116172108477"/>
         <updated>2023-11-16T12:33:48.464Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["기울어진 운동장 평평하게"‥부작용은 없나]]></title>
-        <id>https://v.daum.net/v/20231116201614863</id>
-        <link href="https://v.daum.net/v/20231116201614863"/>
-        <updated>2023-11-16T12:33:48.465Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-11-16T13:23:29.644Z</updated>
+    <updated>2023-11-16T14:23:30.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 오후 수도권 첫눈‥전북·충청 강한 눈]]></title>
+        <id>https://v.daum.net/v/20231116205814882</id>
+        <link href="https://v.daum.net/v/20231116205814882"/>
+        <updated>2023-11-16T14:22:34.841Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한·중 고미술품과 조우하다]]></title>
         <id>https://v.daum.net/v/20231116202848133</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231116183602949"/>
         <updated>2023-11-16T11:15:37.420Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["나도 감기 엄마도 감기"...증세 비슷하면 '먹던 약' 줘도 될까?]]></title>
-        <id>https://v.daum.net/v/20231116183110844</id>
-        <link href="https://v.daum.net/v/20231116183110844"/>
-        <updated>2023-11-16T11:15:37.420Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
