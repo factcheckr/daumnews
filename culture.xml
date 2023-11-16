@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-11-16T12:35:13.480Z</updated>
+    <updated>2023-11-16T13:23:29.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원일 “현생의 ‘디오니소스 로봇’은 백남준…무대는 그에 대한 오마주”]]></title>
+        <id>https://v.daum.net/v/20231116105920302</id>
+        <link href="https://v.daum.net/v/20231116105920302"/>
+        <updated>2023-11-16T13:22:37.605Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베트남 국민화가 ‘반두옹탄’ 대전서 만나다]]></title>
         <id>https://v.daum.net/v/20231116213003624</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231116205814882"/>
         <updated>2023-11-16T12:34:12.653Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한·중 고미술품과 조우하다]]></title>
-        <id>https://v.daum.net/v/20231116202848133</id>
-        <link href="https://v.daum.net/v/20231116202848133"/>
-        <updated>2023-11-16T12:34:12.655Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
