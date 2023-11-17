@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-17T15:21:53.985Z</updated>
+    <updated>2023-11-17T16:27:07.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼키기만 하면 숨 멈추나 감시하는 장치 나온다]]></title>
+        <id>https://v.daum.net/v/20231118010012982</id>
+        <link href="https://v.daum.net/v/20231118010012982"/>
+        <updated>2023-11-17T16:26:18.617Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먹고 자면 수면 무호흡증 측정…'스마트 알약' 임상 연구 진행]]></title>
+        <id>https://v.daum.net/v/20231118010003977</id>
+        <link href="https://v.daum.net/v/20231118010003977"/>
+        <updated>2023-11-17T16:26:18.618Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[행정 민원 중단 초유 사태···정부, 메뉴얼 '허점' “해킹 징후는 아직”]]></title>
         <id>https://v.daum.net/v/20231117170304089</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231117180403486"/>
         <updated>2023-11-17T09:18:17.829Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스vs토종 OTT 제작원가 70배 ↑ 차이…"투자 부담으로 적자 폭 커져" [OTT온에어]]]></title>
-        <id>https://v.daum.net/v/20231117173630901</id>
-        <link href="https://v.daum.net/v/20231117173630901"/>
-        <updated>2023-11-17T09:18:17.829Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YTN 주주변경 하루만에 심사···유례없는 속도전]]></title>
-        <id>https://v.daum.net/v/20231117173553881</id>
-        <link href="https://v.daum.net/v/20231117173553881"/>
-        <updated>2023-11-17T09:18:17.829Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
