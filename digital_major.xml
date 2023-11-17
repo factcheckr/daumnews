@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-17T20:20:43.656Z</updated>
+    <updated>2023-11-17T21:22:09.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글, 차세대 LLM 제미니(Gemini) 출격 연기했다]]></title>
+        <id>https://v.daum.net/v/20231117193300895</id>
+        <link href="https://v.daum.net/v/20231117193300895"/>
+        <updated>2023-11-17T21:21:36.556Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부24 먹통…국정원 "원인 파악·복구 지원"]]></title>
         <id>https://v.daum.net/v/20231117185411310</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231117165542891"/>
         <updated>2023-11-17T09:18:25.328Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유튜브, 뮤직 끼워팔기에…20주년 맞는 멜론 국내 1위 위험]]></title>
-        <id>https://v.daum.net/v/20231117160002427</id>
-        <link href="https://v.daum.net/v/20231117160002427"/>
-        <updated>2023-11-17T08:25:45.349Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>

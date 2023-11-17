@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-17T20:20:43.657Z</updated>
+    <updated>2023-11-17T21:22:09.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 15년 전 일본도 겪은 ‘응급실 뺑뺑이’…“젊은 의사들 일하는 환경부터 만들어야”]]></title>
+        <id>https://v.daum.net/v/20231118060215010</id>
+        <link href="https://v.daum.net/v/20231118060215010"/>
+        <updated>2023-11-17T21:21:27.349Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이도하 원불교 교무 "AI시대, 탈종교화→통종교화로 가는 과정"[문화人터뷰]]]></title>
         <id>https://v.daum.net/v/20231118050507746</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231117170304089"/>
         <updated>2023-11-17T14:19:17.172Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, 차세대 LLM 제미니(Gemini) 출격 연기했다]]></title>
-        <id>https://v.daum.net/v/20231117193300895</id>
-        <link href="https://v.daum.net/v/20231117193300895"/>
-        <updated>2023-11-17T14:19:17.174Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
