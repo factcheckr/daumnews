@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-17T21:22:09.380Z</updated>
+    <updated>2023-11-17T22:18:27.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경찰, 유로폴과 초국경 중대범죄 핫라인…수사정보 신속교환]]></title>
+        <id>https://v.daum.net/v/20231118070103444</id>
+        <link href="https://v.daum.net/v/20231118070103444"/>
+        <updated>2023-11-17T22:17:44.742Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 15년 전 일본도 겪은 ‘응급실 뺑뺑이’…“젊은 의사들 일하는 환경부터 만들어야”]]></title>
         <id>https://v.daum.net/v/20231118060215010</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231118010003977"/>
         <updated>2023-11-17T16:26:18.618Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[행정 민원 중단 초유 사태···정부, 메뉴얼 '허점' “해킹 징후는 아직”]]></title>
-        <id>https://v.daum.net/v/20231117170304089</id>
-        <link href="https://v.daum.net/v/20231117170304089"/>
-        <updated>2023-11-17T14:19:17.172Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
