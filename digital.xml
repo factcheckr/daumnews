@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-18T07:17:05.543Z</updated>
+    <updated>2023-11-18T08:23:14.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“이수만 믿었다가” 방시혁도 결국 유탄 맞았다…초유의 사태 ‘일파만파’]]></title>
+        <id>https://v.daum.net/v/20231118165049487</id>
+        <link href="https://v.daum.net/v/20231118165049487"/>
+        <updated>2023-11-18T08:22:40.825Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]`행정망 마비` 전날, 인증장비만 손본 게 아니다]]></title>
         <id>https://v.daum.net/v/20231118160409859</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231118125856042"/>
         <updated>2023-11-18T04:21:26.480Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주민등록등본 발급 ‘숨통’…정부24서비스 먼저 가동]]></title>
-        <id>https://v.daum.net/v/20231118120300653</id>
-        <link href="https://v.daum.net/v/20231118120300653"/>
-        <updated>2023-11-18T03:20:53.220Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
