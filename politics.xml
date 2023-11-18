@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-11-18T13:22:47.998Z</updated>
+    <updated>2023-11-18T14:16:22.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[尹, 첫 APEC 마치고 귀국…정부 행정망 마비 사태 대응]]></title>
+        <id>https://v.daum.net/v/20231118223501188</id>
+        <link href="https://v.daum.net/v/20231118223501188"/>
+        <updated>2023-11-18T14:14:24.113Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손 내밀자 '꽉'…오스트리아 대통령, 몰도바 퍼스트독에 물렸다]]></title>
         <id>https://v.daum.net/v/20231118213523788</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231118204819442"/>
         <updated>2023-11-18T12:29:54.738Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김주애 공식 데뷔 1년…'김정은 후계자' 가능성 주목]]></title>
-        <id>https://v.daum.net/v/20231118203912350</id>
-        <link href="https://v.daum.net/v/20231118203912350"/>
-        <updated>2023-11-18T12:29:54.739Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
