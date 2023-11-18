@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-11-18T18:21:58.749Z</updated>
+    <updated>2023-11-18T19:15:02.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령, APEC 참석 뒤 귀국…한-중 회담은 불발]]></title>
+        <id>https://v.daum.net/v/20231118233001503</id>
+        <link href="https://v.daum.net/v/20231118233001503"/>
+        <updated>2023-11-18T19:13:23.379Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손 내밀자 '꽉'…오스트리아 대통령, 몰도바 퍼스트독에 물렸다]]></title>
         <id>https://v.daum.net/v/20231118213523788</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231118192511769"/>
         <updated>2023-11-18T12:30:02.598Z</updated>
         <content type="html"><![CDATA[채널A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한반도 브리핑] 9.19 합의 효력정지 수순…유엔사'재활성화'되나]]></title>
-        <id>https://v.daum.net/v/20231118185509533</id>
-        <link href="https://v.daum.net/v/20231118185509533"/>
-        <updated>2023-11-18T12:30:02.603Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
