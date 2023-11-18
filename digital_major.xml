@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-18T11:15:10.356Z</updated>
+    <updated>2023-11-18T12:31:43.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“연봉만 최대 130억 원”…묻지마 AI 투자, ‘쩐의 전쟁’]]></title>
+        <id>https://v.daum.net/v/20231118140005452</id>
+        <link href="https://v.daum.net/v/20231118140005452"/>
+        <updated>2023-11-18T12:31:09.259Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오픈AI CEO 퇴출 내막…공동창업자, AI 아닌 인류를 위한 “쿠데타” (종합)]]></title>
+        <id>https://v.daum.net/v/20231118135700424</id>
+        <link href="https://v.daum.net/v/20231118135700424"/>
+        <updated>2023-11-18T12:31:09.259Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오픈AI, 왜 알트먼 쫓아냈나…"AI 안전성 vs 수익 갈등"]]></title>
         <id>https://v.daum.net/v/20231118125856042</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231118090300612"/>
         <updated>2023-11-18T03:21:00.974Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 대표도 꽂혔다…'K웹툰' 특급 대접 이유 있었네 [정지은의 산업노트]]]></title>
-        <id>https://v.daum.net/v/20231118090105575</id>
-        <link href="https://v.daum.net/v/20231118090105575"/>
-        <updated>2023-11-18T03:21:00.975Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로켓이 달과 충돌해 만든 두 개의 충돌구, 진실은?]]></title>
-        <id>https://v.daum.net/v/20231118090027539</id>
-        <link href="https://v.daum.net/v/20231118090027539"/>
-        <updated>2023-11-18T02:28:51.032Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
