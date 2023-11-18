@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-18T01:15:25.489Z</updated>
+    <updated>2023-11-18T02:29:23.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['귀요미' 배달로봇 갑니다…원본 데이터 공부해 '똑똑']]></title>
+        <id>https://v.daum.net/v/20231118110004045</id>
+        <link href="https://v.daum.net/v/20231118110004045"/>
+        <updated>2023-11-18T02:28:41.558Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쿠팡플레이로 이강인 경기 보며 유니폼 살 수 있다면…]]></title>
         <id>https://v.daum.net/v/20231118100014326</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231118090105575"/>
         <updated>2023-11-18T01:14:50.255Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로켓이 달과 충돌해 만든 두 개의 충돌구, 진실은?]]></title>
-        <id>https://v.daum.net/v/20231118090027539</id>
-        <link href="https://v.daum.net/v/20231118090027539"/>
-        <updated>2023-11-18T01:14:50.257Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
