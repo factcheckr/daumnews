@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-11-19T18:24:54.422Z</updated>
+    <updated>2023-11-19T19:15:11.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[APEC 韓中정상회담 불발… 韓中日 정상회의도 올해 넘길듯]]></title>
+        <id>https://v.daum.net/v/20231120030153754</id>
+        <link href="https://v.daum.net/v/20231120030153754"/>
+        <updated>2023-11-19T19:12:49.862Z</updated>
+        <content type="html"><![CDATA[정치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘챗GPT의 아버지’ 올트먼, 오픈AI서 쫓겨났다]]></title>
         <id>https://v.daum.net/v/20231120030133729</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20231119230000857"/>
         <updated>2023-11-19T14:14:26.158Z</updated>
         <content type="html"><![CDATA[IT]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[센강 옆 400년 지켰는데…"올림픽 보안" 노천서점 철거]]></title>
-        <id>https://v.daum.net/v/20231119205105482</id>
-        <link href="https://v.daum.net/v/20231119205105482"/>
-        <updated>2023-11-19T14:14:26.158Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
     </entry>
 </feed>

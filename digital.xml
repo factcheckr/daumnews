@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-19T18:24:54.414Z</updated>
+    <updated>2023-11-19T19:15:11.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[챗GPT 1년… 가장 빨리 회사 키운 올트먼, 가장 빨리 해고당했다]]></title>
+        <id>https://v.daum.net/v/20231120033318976</id>
+        <link href="https://v.daum.net/v/20231120033318976"/>
+        <updated>2023-11-19T19:14:26.583Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버, 또 선거철 댓글 장사]]></title>
         <id>https://v.daum.net/v/20231120031507923</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231119230000857"/>
         <updated>2023-11-19T14:16:03.459Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[25%→1% 실화냐…“삼성은 끝났다” 애국 소비 중국의 ‘독기’]]></title>
-        <id>https://v.daum.net/v/20231119220116303</id>
-        <link href="https://v.daum.net/v/20231119220116303"/>
-        <updated>2023-11-19T13:19:57.763Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
