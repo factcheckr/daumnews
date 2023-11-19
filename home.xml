@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-11-19T16:22:39.115Z</updated>
+    <updated>2023-11-19T17:16:42.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올들어 유럽·아시아 車 수출 호조…"미 전기차 보조금 영향"]]></title>
+        <id>https://v.daum.net/v/20231120015154636</id>
+        <link href="https://v.daum.net/v/20231120015154636"/>
+        <updated>2023-11-19T17:14:18.911Z</updated>
+        <content type="html"><![CDATA[경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['당 해산' 거론에 일각 "장관도 검토"...탄핵 공방 격화]]></title>
         <id>https://v.daum.net/v/20231119222608560</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20231119223301608"/>
         <updated>2023-11-19T14:14:26.161Z</updated>
         <content type="html"><![CDATA[정치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나그네가 잠깐 살다간 천수만]]></title>
-        <id>https://v.daum.net/v/20231119223822690</id>
-        <link href="https://v.daum.net/v/20231119223822690"/>
-        <updated>2023-11-19T14:14:26.161Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
     </entry>
 </feed>
