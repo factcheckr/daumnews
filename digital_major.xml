@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-19T11:15:51.260Z</updated>
+    <updated>2023-11-19T12:32:00.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]당근·번개장터·중고나라, 분쟁 발생시 플랫폼에서 해결한다]]></title>
+        <id>https://v.daum.net/v/20231119130103131</id>
+        <link href="https://v.daum.net/v/20231119130103131"/>
+        <updated>2023-11-19T12:31:25.074Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[통화녹음·요약 기능 넘어…24시간 개인비서 진화하는 'AI']]></title>
+        <id>https://v.daum.net/v/20231119184313826</id>
+        <link href="https://v.daum.net/v/20231119184313826"/>
+        <updated>2023-11-19T12:31:25.075Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[애플 쇼크웨이브](39)엔비디아, 이러려고 ARM 사려했나]]></title>
         <id>https://v.daum.net/v/20231119183435683</id>
@@ -41,7 +55,7 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["백업 장비도 무소용"… 전국 행정망 먹통, 알고 보니 백업 미흡?]]></title>
+        <title type="html"><![CDATA["다른 회사 다른 기종이었다면"…초유 행정망 먹통, 백업 미흡이 원인?]]></title>
         <id>https://v.daum.net/v/20231119174654831</id>
         <link href="https://v.daum.net/v/20231119174654831"/>
         <updated>2023-11-19T10:18:46.791Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231119170503109"/>
         <updated>2023-11-19T09:17:18.358Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수익 악화 게임업계 … 구원투수로 등장한 생성형 AI]]></title>
-        <id>https://v.daum.net/v/20231119170606136</id>
-        <link href="https://v.daum.net/v/20231119170606136"/>
-        <updated>2023-11-19T09:17:18.360Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[행정망 마비]민원 업무 '올스톱', 피해 왜 커졌나]]></title>
-        <id>https://v.daum.net/v/20231119170113998</id>
-        <link href="https://v.daum.net/v/20231119170113998"/>
-        <updated>2023-11-19T09:17:18.361Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
