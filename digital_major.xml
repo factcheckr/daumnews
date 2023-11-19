@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-19T14:16:46.512Z</updated>
+    <updated>2023-11-19T15:21:11.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자원전쟁에 NASA 결합…노병, 다시 전선으로]]></title>
+        <id>https://v.daum.net/v/20231119205036469</id>
+        <link href="https://v.daum.net/v/20231119205036469"/>
+        <updated>2023-11-19T15:20:35.755Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[통화 번역에 음성 비서까지… AI 입은 모바일·PC ‘똑소리’ 나네]]></title>
         <id>https://v.daum.net/v/20231119204501383</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231119175848044"/>
         <updated>2023-11-19T11:15:14.058Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["헌 폰 주면 새 아이폰 줄게"…통신사 새 먹거리는 '중고폰']]></title>
-        <id>https://v.daum.net/v/20231119174902871</id>
-        <link href="https://v.daum.net/v/20231119174902871"/>
-        <updated>2023-11-19T11:15:14.059Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
