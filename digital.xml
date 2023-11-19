@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-19T15:21:11.019Z</updated>
+    <updated>2023-11-19T16:22:39.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[월드컵 안 부러운 ‘롤드컵’…후원 기업들도 ‘활짝’]]></title>
+        <id>https://v.daum.net/v/20231120001838397</id>
+        <link href="https://v.daum.net/v/20231120001838397"/>
+        <updated>2023-11-19T16:21:53.958Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백업 시스템까지 동시에 고장…국가전산망 어떻게 믿나]]></title>
         <id>https://v.daum.net/v/20231119221007385</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231119213525989"/>
         <updated>2023-11-19T13:19:57.766Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대표적 뇌암 ‘신경교종’, 성장하는 원리는 ‘학습과 기억’…치료 실마리 기대[신경과학 저널클럽]]]></title>
-        <id>https://v.daum.net/v/20231119205051475</id>
-        <link href="https://v.daum.net/v/20231119205051475"/>
-        <updated>2023-11-19T12:31:17.049Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
