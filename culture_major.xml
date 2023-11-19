@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-11-19T20:20:47.828Z</updated>
+    <updated>2023-11-19T21:16:28.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[발레 ‘호두까기 인형’의 계절이 돌아왔다]]></title>
+        <id>https://v.daum.net/v/20231120040208013</id>
+        <link href="https://v.daum.net/v/20231120040208013"/>
+        <updated>2023-11-19T21:15:40.541Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해장의 증거? 음주 후 남다른 ‘변’의 이유는]]></title>
         <id>https://v.daum.net/v/20231120040023006</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231119224902788"/>
         <updated>2023-11-19T18:24:00.826Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 박진감 있고 흥미롭게… 진화하는 드론 축구 [2023 제6회 세계일보 드론축구대회]]]></title>
-        <id>https://v.daum.net/v/20231119174128742</id>
-        <link href="https://v.daum.net/v/20231119174128742"/>
-        <updated>2023-11-19T18:24:00.827Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
