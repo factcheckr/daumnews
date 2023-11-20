@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-11-20T12:36:46.887Z</updated>
+    <updated>2023-11-20T13:29:29.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 전북 내일 낮엔 맑고 포근, 큰 일교차 주의]]></title>
-        <id>https://v.daum.net/v/20231120195926617</id>
-        <link href="https://v.daum.net/v/20231120195926617"/>
-        <updated>2023-11-20T12:36:04.691Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[르포] 천사의 섬, 노을 따라 걷다 보니 바닷속으로…‘폰테 델 인피니또’]]></title>
         <id>https://v.daum.net/v/20231120110107081</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20231120182144585"/>
         <updated>2023-11-20T11:15:58.201Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘1분에 50회 미만’ 심장이 느리게 뛰는 ‘서맥’ 유일한 치료법은?]]></title>
+        <id>https://v.daum.net/v/20231120182004524</id>
+        <link href="https://v.daum.net/v/20231120182004524"/>
+        <updated>2023-11-20T13:28:33.700Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
