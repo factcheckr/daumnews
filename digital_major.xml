@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-20T21:17:51.378Z</updated>
+    <updated>2023-11-20T22:19:06.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[‘오픈 AI’ 사태, 승자는 MS… 쫓겨난 올트먼 핵심 개발인력 품어]]></title>
+        <title type="html"><![CDATA[돈 좀 벌자 vs 공익 우선… AI 산업계 ‘철학적 균열’]]></title>
+        <id>https://v.daum.net/v/20231121033553935</id>
+        <link href="https://v.daum.net/v/20231121033553935"/>
+        <updated>2023-11-20T22:18:34.892Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘오픈 AI’ 사태, 승자는 MS… 쫓겨난 올트먼과 핵심 개발인력 품어]]></title>
         <id>https://v.daum.net/v/20231121033524934</id>
         <link href="https://v.daum.net/v/20231121033524934"/>
         <updated>2023-11-20T21:17:15.857Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231120195042444"/>
         <updated>2023-11-20T18:27:39.553Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["달 표면 지형 이름의 2%만 여성 이름…우주 명명 관행 편향적"]]></title>
-        <id>https://v.daum.net/v/20231120194122306</id>
-        <link href="https://v.daum.net/v/20231120194122306"/>
-        <updated>2023-11-20T18:27:39.555Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
