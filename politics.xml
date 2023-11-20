@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-11-20T16:24:40.223Z</updated>
+    <updated>2023-11-20T17:15:09.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최강욱 "윤석열 정부, 암컷이 나와 설쳐"…여성 비하 논란]]></title>
+        <id>https://v.daum.net/v/20231121001042156</id>
+        <link href="https://v.daum.net/v/20231121001042156"/>
+        <updated>2023-11-20T17:13:33.445Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['장군하면 멍군한다'…북한 위성 도발, 맞대응 카드는]]></title>
         <id>https://v.daum.net/v/20231121010015356</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231121000023939"/>
         <updated>2023-11-20T16:22:46.426Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최강욱 "암컷이 나와 설친다"…듣고있던 김용민·민형배는 '박장대소']]></title>
-        <id>https://v.daum.net/v/20231120233857763</id>
-        <link href="https://v.daum.net/v/20231120233857763"/>
-        <updated>2023-11-20T16:22:46.427Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
