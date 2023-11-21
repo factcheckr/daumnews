@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-11-21T20:19:46.908Z</updated>
+    <updated>2023-11-21T21:18:13.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘안테모사’, 이 험한 세상 이토록 착한 뮤지컬이라니]]></title>
+        <id>https://v.daum.net/v/20231122055905473</id>
+        <link href="https://v.daum.net/v/20231122055905473"/>
+        <updated>2023-11-21T21:17:10.907Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무호흡증 부르는 코골이… 질 낮은 수면, 아이들 성적까지 떨어져요]]></title>
         <id>https://v.daum.net/v/20231122050256054</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231122043047584"/>
         <updated>2023-11-21T20:18:38.375Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D 프린트로 뽑아낸 인생의 희로애락]]></title>
-        <id>https://v.daum.net/v/20231122030547095</id>
-        <link href="https://v.daum.net/v/20231122030547095"/>
-        <updated>2023-11-21T18:25:36.333Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>

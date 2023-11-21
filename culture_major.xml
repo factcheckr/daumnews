@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-11-21T20:19:46.901Z</updated>
+    <updated>2023-11-21T21:18:13.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3D 프린트로 뽑아낸 인생의 희로애락]]></title>
+        <id>https://v.daum.net/v/20231122030547095</id>
+        <link href="https://v.daum.net/v/20231122030547095"/>
+        <updated>2023-11-21T21:17:21.266Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북녘 고향에 모시려 빼둔 어머니 뼛조각… 그곳서 내 이야기가 태어났다]]></title>
         <id>https://v.daum.net/v/20231122030526091</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231122003005073"/>
         <updated>2023-11-21T18:25:44.377Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김한수의 오마이갓]金泥寫經로 통도사 산문 세운 성파 스님]]></title>
-        <id>https://v.daum.net/v/20231122000130698</id>
-        <link href="https://v.daum.net/v/20231122000130698"/>
-        <updated>2023-11-21T18:25:44.380Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
