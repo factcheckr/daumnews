@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-21T12:36:08.446Z</updated>
+    <updated>2023-11-21T13:23:46.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[100배 확대해도 선명…카메라 성능 압도적]]></title>
+        <id>https://v.daum.net/v/20231121180702990</id>
+        <link href="https://v.daum.net/v/20231121180702990"/>
+        <updated>2023-11-21T13:23:18.794Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]'아이디어 도용 논란' 카카오모빌, 화물맨과 갈등 봉합 첫발 뗐다]]></title>
         <id>https://v.daum.net/v/20231121175402640</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231121170136924"/>
         <updated>2023-11-21T12:35:31.914Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAXA 권고에 고팍스 열흘째 '무대응']]></title>
-        <id>https://v.daum.net/v/20231121165608673</id>
-        <link href="https://v.daum.net/v/20231121165608673"/>
-        <updated>2023-11-21T12:35:31.915Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
