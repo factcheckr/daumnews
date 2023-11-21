@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-21T09:21:58.676Z</updated>
+    <updated>2023-11-21T10:26:49.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[지역 소멸, 디지털 혁신이 답]〈4〉SW 중심 대학 100개로 확대···예산 지원도 는다]]></title>
+        <id>https://v.daum.net/v/20231121170124911</id>
+        <link href="https://v.daum.net/v/20231121170124911"/>
+        <updated>2023-11-21T10:26:16.052Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩플] “당근하다 싸움났다? 채팅창에 ‘분쟁조정’ 쳐보세요”]]></title>
         <id>https://v.daum.net/v/20231121172227697</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231121165121515"/>
         <updated>2023-11-21T09:21:29.838Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘실리콘밸리 유망주’ 오픈AI, 해체 수순… MS, 오픈AI 핵심 멤버 확보해 AI 사업 ‘날개’]]></title>
-        <id>https://v.daum.net/v/20231121164649359</id>
-        <link href="https://v.daum.net/v/20231121164649359"/>
-        <updated>2023-11-21T08:23:34.643Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
