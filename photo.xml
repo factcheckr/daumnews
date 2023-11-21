@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-11-21T22:18:59.740Z</updated>
+    <updated>2023-11-21T23:23:20.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[펜타닐 대책회의 주재하는 바이든 美 대통령]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1471/31XKWVatzm</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1471/31XKWVatzm"/>
+        <updated>2023-11-21T23:22:53.563Z</updated>
+        <content type="html"><![CDATA[세계의 정상들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인요한 만난 비명계 이상민 "민주당 숨 막힐 상황"]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5615616/PwOl3AWQuv</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/386/zCm1uxD7Uc"/>
         <updated>2023-11-21T08:23:42.427Z</updated>
         <content type="html"><![CDATA[소방본부 제공 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온기 가득한 미소 담아 나누는 연탄[정동길 옆 사진관]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/661278/2DfX9nC2W7</id>
-        <link href="https://gallery.v.daum.net/p/viewer/661278/2DfX9nC2W7"/>
-        <updated>2023-11-21T08:23:42.427Z</updated>
-        <content type="html"><![CDATA[정동길 옆 사진관]]></content>
     </entry>
 </feed>
