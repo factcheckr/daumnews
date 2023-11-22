@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-11-22T15:20:05.468Z</updated>
+    <updated>2023-11-22T16:24:49.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비행금지구역 백지화…軍 운신 폭 어떻게 달라지나]]></title>
+        <id>https://v.daum.net/v/20231123000000661</id>
+        <link href="https://v.daum.net/v/20231123000000661"/>
+        <updated>2023-11-22T16:23:25.238Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연동형 유지? 병립형 회귀? 위성정당 막으려면]]></title>
         <id>https://v.daum.net/v/20231123000037693</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231122215323792"/>
         <updated>2023-11-22T14:19:50.546Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['탄핵' 갈등 끝에 내일 본회의 취소..30일 개의 두고도 신경전]]></title>
-        <id>https://v.daum.net/v/20231122191343574</id>
-        <link href="https://v.daum.net/v/20231122191343574"/>
-        <updated>2023-11-22T14:19:50.546Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
