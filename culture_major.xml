@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-11-22T12:35:29.909Z</updated>
+    <updated>2023-11-22T13:24:04.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전래동화에 안데르센까지…창극, 도전은 계속된다]]></title>
+        <id>https://v.daum.net/v/20231122190025344</id>
+        <link href="https://v.daum.net/v/20231122190025344"/>
+        <updated>2023-11-22T13:23:12.241Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[푸른 강변 황금빛 융단에 흐르는 선비의 기품]]></title>
         <id>https://v.daum.net/v/20231122185811288</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231122165110328"/>
         <updated>2023-11-22T09:18:49.548Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5일만에 끝난 이사회의 쿠데타... 올트먼 오픈AI 전격 복귀]]></title>
-        <id>https://v.daum.net/v/20231122151236729</id>
-        <link href="https://v.daum.net/v/20231122151236729"/>
-        <updated>2023-11-22T09:18:49.550Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
