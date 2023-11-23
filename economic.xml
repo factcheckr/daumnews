@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-11-23T13:23:06.724Z</updated>
+    <updated>2023-11-23T14:17:59.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[튀르키예 금리 또 인상 '35%→40%'..시장 예상 2배]]></title>
+        <id>https://v.daum.net/v/20231123223105995</id>
+        <link href="https://v.daum.net/v/20231123223105995"/>
+        <updated>2023-11-23T14:16:36.559Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한은, 디지털 화폐 발행하나…내년 10~12월 본격 테스트 착수]]></title>
+        <id>https://v.daum.net/v/20231123222928976</id>
+        <link href="https://v.daum.net/v/20231123222928976"/>
+        <updated>2023-11-23T14:16:36.559Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요즘 핫한 '네컷 사진' 찍으러 갔다가…'낭패' 본 사연]]></title>
         <id>https://v.daum.net/v/20231123220102738</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231123211010089"/>
         <updated>2023-11-23T12:33:21.147Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["대기오염보다 토지황폐화가 탄소 배출 더 심각"]]></title>
-        <id>https://v.daum.net/v/20231123184124551</id>
-        <link href="https://v.daum.net/v/20231123184124551"/>
-        <updated>2023-11-23T12:33:21.150Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비트코인 낙수 효과…솔라나 한 달 200%↑ [코린이를 위한 암호화폐 설명서]]]></title>
-        <id>https://v.daum.net/v/20231123210305998</id>
-        <link href="https://v.daum.net/v/20231123210305998"/>
-        <updated>2023-11-23T12:33:21.151Z</updated>
-        <content type="html"><![CDATA[매경이코노미]]></content>
     </entry>
 </feed>
