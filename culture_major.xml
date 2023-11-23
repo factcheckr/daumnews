@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-11-23T03:20:00.341Z</updated>
+    <updated>2023-11-23T04:22:56.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“칭찬은 마음의 로션… 듬뿍 바르면 삶이 젊어져요”]]></title>
+        <id>https://v.daum.net/v/20231123114834222</id>
+        <link href="https://v.daum.net/v/20231123114834222"/>
+        <updated>2023-11-23T04:21:58.777Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[악수 거절당한 류희림 방심위원장... 가짜뉴스심의 위헌 논란엔 "오해"]]></title>
         <id>https://v.daum.net/v/20231123114201864</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231123110153925"/>
         <updated>2023-11-23T03:19:01.693Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K스토리] '나도 사진작가다' 연합뉴스 여행자학교 사진전]]></title>
-        <id>https://v.daum.net/v/20231123105123370</id>
-        <link href="https://v.daum.net/v/20231123105123370"/>
-        <updated>2023-11-23T02:30:07.202Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
