@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-11-23T15:21:40.380Z</updated>
+    <updated>2023-11-23T16:28:21.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231124000401636"/>
         <updated>2023-11-23T15:20:10.073Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너도 나도 이차전지…대규모 투자 잇따라]]></title>
+        <id>https://v.daum.net/v/20231123235552472</id>
+        <link href="https://v.daum.net/v/20231123235552472"/>
+        <updated>2023-11-23T16:26:53.729Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대기만 해도 개인정보?…샤넬 결국 제재]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231123184124551"/>
         <updated>2023-11-23T14:16:44.353Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비트코인 낙수 효과…솔라나 한 달 200%↑ [코린이를 위한 암호화폐 설명서]]]></title>
-        <id>https://v.daum.net/v/20231123210305998</id>
-        <link href="https://v.daum.net/v/20231123210305998"/>
-        <updated>2023-11-23T14:16:44.358Z</updated>
-        <content type="html"><![CDATA[매경이코노미]]></content>
     </entry>
 </feed>
