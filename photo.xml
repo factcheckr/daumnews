@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-11-24T13:24:18.315Z</updated>
+    <updated>2023-11-24T15:20:11.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5847810/xnKL9stn3U"/>
         <updated>2023-11-24T12:33:48.440Z</updated>
         <content type="html"><![CDATA[지자체 제공 포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애기단풍]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/0px8ucYx4X</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/0px8ucYx4X"/>
+        <updated>2023-11-24T15:19:42.636Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정상회담 마치고 인사하는 한-프랑스 정상]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5024184/QKTi714I0d"/>
         <updated>2023-11-24T05:18:17.127Z</updated>
         <content type="html"><![CDATA[TF사진관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[튀르키예, 인플레 잡으려 금리 40%로 또 5%P 인상]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1493/WrMzSr5JVw</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1493/WrMzSr5JVw"/>
-        <updated>2023-11-24T05:18:17.127Z</updated>
-        <content type="html"><![CDATA[튀르키예는 지금]]></content>
     </entry>
 </feed>
