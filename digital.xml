@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-24T18:23:36.218Z</updated>
+    <updated>2023-11-24T19:15:30.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[약도 되고 종양도 되는…줄기세포의 미래 '담' 단백질에 달렸다]]></title>
+        <id>https://v.daum.net/v/20231125040003132</id>
+        <link href="https://v.daum.net/v/20231125040003132"/>
+        <updated>2023-11-24T19:14:55.187Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머스크로 얼굴 바뀐 크렘린궁 대변인…푸틴 "서방 AI 독점 위험"]]></title>
         <id>https://v.daum.net/v/20231125015002918</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231124173347731"/>
         <updated>2023-11-24T11:16:34.578Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이대로 나오면 대박!” 무려 60만원이나 싼 아이폰 온다…이런 모습]]></title>
-        <id>https://v.daum.net/v/20231124195114932</id>
-        <link href="https://v.daum.net/v/20231124195114932"/>
-        <updated>2023-11-24T11:16:34.580Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
