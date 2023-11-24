@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-11-24T17:17:13.859Z</updated>
+    <updated>2023-11-24T18:23:36.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마지막 감]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/udU51NT6EZ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/udU51NT6EZ"/>
+        <updated>2023-11-24T18:23:08.280Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조규홍 장관, 한국의과대학·의학전문대학원협회 간담회]]></title>
         <id>https://gallery.v.daum.net/p/viewer/321090/1qPod14Ipp</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5031018/2DMi0H9rKQ"/>
         <updated>2023-11-24T05:18:17.121Z</updated>
         <content type="html"><![CDATA[아르헨티나는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김포시, 불법튜닝 자동차·오토바이 합동단속 실시[TF사진관]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5024184/QKTi714I0d</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5024184/QKTi714I0d"/>
-        <updated>2023-11-24T05:18:17.127Z</updated>
-        <content type="html"><![CDATA[TF사진관]]></content>
     </entry>
 </feed>
