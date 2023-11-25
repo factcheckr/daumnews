@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-11-25T14:16:08.796Z</updated>
+    <updated>2023-11-25T15:17:26.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[둔촌주공 이슈IN ③] 단군이래 최대규모인데 중학교 없어…학생들 어디로]]></title>
+        <id>https://v.daum.net/v/20231126000037334</id>
+        <link href="https://v.daum.net/v/20231126000037334"/>
+        <updated>2023-11-25T15:16:04.616Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재벌 승계 리스크 보여준 LG 세 모녀 VS 구광모 상속 소송]]></title>
         <id>https://v.daum.net/v/20231125225802027</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231125202100236"/>
         <updated>2023-11-25T12:30:09.562Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["韓中기업인 신뢰 찾아야" 윤석호 에띠임 中본사 사장의 제안]]></title>
-        <id>https://v.daum.net/v/20231125204107363</id>
-        <link href="https://v.daum.net/v/20231125204107363"/>
-        <updated>2023-11-25T12:30:09.566Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-11-25T14:16:08.789Z</updated>
+    <updated>2023-11-25T15:17:26.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["韓中기업인 신뢰 찾아야" 윤석호 에띠임 中본사 사장의 제안]]></title>
+        <id>https://v.daum.net/v/20231125204107363</id>
+        <link href="https://v.daum.net/v/20231125204107363"/>
+        <updated>2023-11-25T15:16:12.123Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["일한 만큼 벌고 상사도 없고"…치킨집 사장님 젊어졌다]]></title>
         <id>https://v.daum.net/v/20231125203003291</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231125170022447"/>
         <updated>2023-11-25T11:13:56.916Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유찰 피한 HMM 매각'…여전히 남은 변수들]]></title>
-        <id>https://v.daum.net/v/20231125170003439</id>
-        <link href="https://v.daum.net/v/20231125170003439"/>
-        <updated>2023-11-25T11:13:56.916Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>
