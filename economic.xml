@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-11-25T15:17:26.680Z</updated>
+    <updated>2023-11-25T16:22:44.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신규 가계부채, 고소득층 소득↑ 효과…"불평등 확대 요인"]]></title>
+        <id>https://v.daum.net/v/20231126010316563</id>
+        <link href="https://v.daum.net/v/20231126010316563"/>
+        <updated>2023-11-25T16:21:02.944Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[둔촌주공 이슈IN ③] 단군이래 최대규모인데 중학교 없어…학생들 어디로]]></title>
         <id>https://v.daum.net/v/20231126000037334</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231125212723576"/>
         <updated>2023-11-25T13:22:53.119Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수소차 충전 대란,  조금이라도 피하고 싶다면…주말 이 시간대는 피해야]]></title>
-        <id>https://v.daum.net/v/20231125202100236</id>
-        <link href="https://v.daum.net/v/20231125202100236"/>
-        <updated>2023-11-25T12:30:09.562Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>

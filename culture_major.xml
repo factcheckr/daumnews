@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-11-25T15:17:26.681Z</updated>
+    <updated>2023-11-25T16:22:44.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대구 중견 여류작가 전시회 열려]]></title>
+        <id>https://v.daum.net/v/20231125203752348</id>
+        <link href="https://v.daum.net/v/20231125203752348"/>
+        <updated>2023-11-25T16:21:51.185Z</updated>
+        <content type="html"><![CDATA[대구MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1교시 전 "숨 편안하게 내쉽니다"…명상의 놀라운 효과]]></title>
         <id>https://v.daum.net/v/20231125204808390</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231125162505123"/>
         <updated>2023-11-25T10:17:51.593Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몰래 계산된 군인 밥값과 카페 소스페소 [박영순의 커피언어]]]></title>
-        <id>https://v.daum.net/v/20231125150127396</id>
-        <link href="https://v.daum.net/v/20231125150127396"/>
-        <updated>2023-11-25T10:17:51.593Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
