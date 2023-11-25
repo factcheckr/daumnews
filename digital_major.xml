@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-25T05:17:47.534Z</updated>
+    <updated>2023-11-25T06:23:13.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화상·질환 치료·모발이식 등 피부에 와닿을 희망이]]></title>
+        <id>https://v.daum.net/v/20231125100505932</id>
+        <link href="https://v.daum.net/v/20231125100505932"/>
+        <updated>2023-11-25T06:22:39.093Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유전자가위 혁명]④ 신약 개발의 새역사 열렸다… 유전질환 치료할 마법의 열쇠]]></title>
         <id>https://v.daum.net/v/20231125100013830</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231125090018219"/>
         <updated>2023-11-25T01:16:21.950Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이오 투자 가뭄에 '단비' 올까…운용사가 짚은 포인트는? [남정민의 붐바이오]]]></title>
-        <id>https://v.daum.net/v/20231125085302168</id>
-        <link href="https://v.daum.net/v/20231125085302168"/>
-        <updated>2023-11-25T01:16:21.951Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
