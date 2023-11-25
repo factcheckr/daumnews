@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-11-25T17:16:05.240Z</updated>
+    <updated>2023-11-25T19:14:34.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘가루쌀’ 수확 만 톤…정부 지원 끊겨도 롱런?]]></title>
+        <id>https://v.daum.net/v/20231125212723576</id>
+        <link href="https://v.daum.net/v/20231125212723576"/>
+        <updated>2023-11-25T19:13:21.083Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수소차 충전 대란,  조금이라도 피하고 싶다면…주말 이 시간대는 피해야]]></title>
         <id>https://v.daum.net/v/20231125202100236</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231125185459404"/>
         <updated>2023-11-25T12:30:17.269Z</updated>
         <content type="html"><![CDATA[JIBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“인건비·인력난 부담 덜어주지만 일자리가~”…기업도 정부도 ‘로봇’ 도입]]></title>
-        <id>https://v.daum.net/v/20231125185400393</id>
-        <link href="https://v.daum.net/v/20231125185400393"/>
-        <updated>2023-11-25T12:30:17.270Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
