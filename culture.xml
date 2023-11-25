@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-11-25T13:24:27.838Z</updated>
+    <updated>2023-11-25T14:16:08.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[변기 속 분홍색 물때, 건강 해친다?]]></title>
+        <id>https://v.daum.net/v/20231125230017032</id>
+        <link href="https://v.daum.net/v/20231125230017032"/>
+        <updated>2023-11-25T14:15:20.358Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘유네스코 유산’ 전통 ‘매 사냥’…진안서 ‘시연회’ 열려]]></title>
         <id>https://v.daum.net/v/20231125220418768</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231125204808390"/>
         <updated>2023-11-25T12:30:40.327Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배고픔 호르몬 '그렐린', 다이어트의 적? 대체 뭐길래]]></title>
-        <id>https://v.daum.net/v/20231125203108310</id>
-        <link href="https://v.daum.net/v/20231125203108310"/>
-        <updated>2023-11-25T12:30:40.329Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
