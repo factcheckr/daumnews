@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-26T15:17:55.428Z</updated>
+    <updated>2023-11-26T16:22:05.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팽동현의 테크딥다이브] 적은 예산·늘어나는 과업… 행정망 먹통사태, 정부가 원인이다]]></title>
+        <id>https://v.daum.net/v/20231126184531815</id>
+        <link href="https://v.daum.net/v/20231126184531815"/>
+        <updated>2023-11-26T16:21:37.599Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SMR부터 수소생산·운송까지…미래기술 현실로 만든 과학 연구기관]]></title>
         <id>https://v.daum.net/v/20231126183325693</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231126165708081"/>
         <updated>2023-11-26T08:21:16.799Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국가 기관 전산망 릴레이 먹통…총체적 부실 드러나]]></title>
-        <id>https://v.daum.net/v/20231126170822306</id>
-        <link href="https://v.daum.net/v/20231126170822306"/>
-        <updated>2023-11-26T09:16:52.791Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
