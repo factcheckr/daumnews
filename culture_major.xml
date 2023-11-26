@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-11-26T13:26:33.635Z</updated>
+    <updated>2023-11-26T14:16:26.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디지털성범죄 증가 추세..불법 촬영이 제일 많아]]></title>
+        <id>https://v.daum.net/v/20231126121346933</id>
+        <link href="https://v.daum.net/v/20231126121346933"/>
+        <updated>2023-11-26T14:15:41.778Z</updated>
+        <content type="html"><![CDATA[전주MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마술 같은 예술… 빛과 비의 향연]]></title>
         <id>https://v.daum.net/v/20231126210044744</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231126184511809"/>
         <updated>2023-11-26T12:30:41.762Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정적을 깬 첫 대사... 모든 순간이 벅찼다]]></title>
-        <id>https://v.daum.net/v/20231126172706693</id>
-        <link href="https://v.daum.net/v/20231126172706693"/>
-        <updated>2023-11-26T12:30:41.763Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>

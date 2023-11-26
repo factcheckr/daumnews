@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-11-26T13:26:33.635Z</updated>
+    <updated>2023-11-26T14:16:26.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소화 안될 때, 탄산음료 대신 '이 차' 드세요]]></title>
+        <id>https://v.daum.net/v/20231126230023471</id>
+        <link href="https://v.daum.net/v/20231126230023471"/>
+        <updated>2023-11-26T14:15:35.571Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인슐린 말고도… 혈당 관리 돕는 호르몬은?]]></title>
         <id>https://v.daum.net/v/20231126220017156</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231126210309776"/>
         <updated>2023-11-26T12:30:35.356Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지털성범죄 증가 추세..불법 촬영이 제일 많아]]></title>
-        <id>https://v.daum.net/v/20231126121346933</id>
-        <link href="https://v.daum.net/v/20231126121346933"/>
-        <updated>2023-11-26T12:30:35.357Z</updated>
-        <content type="html"><![CDATA[전주MBC]]></content>
     </entry>
 </feed>
