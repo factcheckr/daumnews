@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-11-26T14:16:26.095Z</updated>
+    <updated>2023-11-26T15:17:55.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615616/pdfkZxD77j"/>
         <updated>2023-11-26T10:18:36.753Z</updated>
         <content type="html"><![CDATA[뉴스1 PICK]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“위성정당 금지입법 결단해야” 토론회 개최한 민주당 비명계 의원들[청계천 옆 사진관]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/344179/uMmHmuRyry</id>
+        <link href="https://gallery.v.daum.net/p/viewer/344179/uMmHmuRyry"/>
+        <updated>2023-11-26T15:17:29.476Z</updated>
+        <content type="html"><![CDATA[청계천 옆 사진관]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일시 휴전 중 가자지구 도로 따라 이동하는 이스라엘 탱크]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1075022/uoAz1qJGq1"/>
         <updated>2023-11-25T02:26:20.519Z</updated>
         <content type="html"><![CDATA[경찰 제공 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이스라엘 지원 중단하라"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1476/bABDPLhVqi</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1476/bABDPLhVqi"/>
-        <updated>2023-11-25T02:26:20.520Z</updated>
-        <content type="html"><![CDATA[미국은 지금]]></content>
     </entry>
 </feed>
