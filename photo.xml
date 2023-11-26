@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-11-26T20:19:37.598Z</updated>
+    <updated>2023-11-26T21:17:34.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[늙는다는 것]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/GY2VbMwzr9</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/GY2VbMwzr9"/>
+        <updated>2023-11-26T21:17:06.207Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북한 지방인민회의 대의원 선거 진행]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1489/B2SaOSuj3e</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1471/fiPRVemBBv"/>
         <updated>2023-11-25T02:26:20.519Z</updated>
         <content type="html"><![CDATA[세계의 정상들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍기현 경기남부청장, 영하권 날씨에도 시민 안전 최선]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1075022/uoAz1qJGq1</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1075022/uoAz1qJGq1"/>
-        <updated>2023-11-25T02:26:20.519Z</updated>
-        <content type="html"><![CDATA[경찰 제공 포토]]></content>
     </entry>
 </feed>
