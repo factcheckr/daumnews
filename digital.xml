@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-26T10:19:05.188Z</updated>
+    <updated>2023-11-26T11:16:02.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[팽동현의 테크딥다이브] 적은 예산·늘어나는 과업… 행정망 먹통사태, 정부가 바뀌어야]]></title>
+        <title type="html"><![CDATA[“헉! 다들 10만원에 샀다” 5만원 회복 카카오…그래도 욕먹는 이유 알고보니]]></title>
+        <id>https://v.daum.net/v/20231126195545334</id>
+        <link href="https://v.daum.net/v/20231126195545334"/>
+        <updated>2023-11-26T11:15:13.897Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“새 S23 줄게, 헌 애니콜 다오”…100만원 주고 겨우 구했다는데]]></title>
+        <id>https://v.daum.net/v/20231126194200235</id>
+        <link href="https://v.daum.net/v/20231126194200235"/>
+        <updated>2023-11-26T11:15:13.899Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팽동현의 테크딥다이브] 적은 예산·늘어나는 과업… 행정망 먹통사태, 정부가 원인이다]]></title>
         <id>https://v.daum.net/v/20231126184531815</id>
         <link href="https://v.daum.net/v/20231126184531815"/>
         <updated>2023-11-26T10:18:20.964Z</updated>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231126160116057"/>
         <updated>2023-11-26T10:18:20.968Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[망 구축 부담 덜었지만···썰렁한 '제4이통사 신청']]></title>
-        <id>https://v.daum.net/v/20231126174112897</id>
-        <link href="https://v.daum.net/v/20231126174112897"/>
-        <updated>2023-11-26T09:16:45.206Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“부처별 따로 놀던 정부 시스템 바꿔야”…국가망 장애, 전문가 제언은?]]></title>
-        <id>https://v.daum.net/v/20231126173901871</id>
-        <link href="https://v.daum.net/v/20231126173901871"/>
-        <updated>2023-11-26T09:16:45.209Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
