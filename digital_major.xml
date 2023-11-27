@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-27T09:20:40.007Z</updated>
+    <updated>2023-11-27T10:20:57.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공공SW 대기업 문턱 낮추는 정부…업계 "예산부터 늘려야"]]></title>
+        <id>https://v.daum.net/v/20231127173642560</id>
+        <link href="https://v.daum.net/v/20231127173642560"/>
+        <updated>2023-11-27T10:20:26.928Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[일문일답] 이종호 "핵심연구자 PBS 일부 제외, 제도개혁 첫 사례 삼을 것"]]></title>
         <id>https://v.daum.net/v/20231127171905993</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231127162109700"/>
         <updated>2023-11-27T08:24:25.343Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20년 쌓인 '땜질'에 먹통 또 먹통…여전히 조마조마한 행정망]]></title>
-        <id>https://v.daum.net/v/20231127155619591</id>
-        <link href="https://v.daum.net/v/20231127155619591"/>
-        <updated>2023-11-27T08:24:25.344Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
