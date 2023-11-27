@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-27T14:19:04.628Z</updated>
+    <updated>2023-11-27T15:21:19.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[변화보다 '안정' 택한 이재용…미래 신사업 찾기 속도]]></title>
+        <id>https://v.daum.net/v/20231127195850522</id>
+        <link href="https://v.daum.net/v/20231127195850522"/>
+        <updated>2023-11-27T15:20:33.536Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박윤규부터 이용훈, 유지상까지… 통신개혁 일선 나선 차기 과기정통부 장관 후보자로 물망]]></title>
         <id>https://v.daum.net/v/20231127210345404</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231127194202306"/>
         <updated>2023-11-27T11:16:13.870Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종호 장관 "도전적 R&D, 평가등급제 폐지…"단순 성패 안 따져"]]></title>
-        <id>https://v.daum.net/v/20231127192007964</id>
-        <link href="https://v.daum.net/v/20231127192007964"/>
-        <updated>2023-11-27T13:22:48.157Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
