@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-11-27T18:24:01.778Z</updated>
+    <updated>2023-11-27T19:16:00.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[50세 스타 강사의 ‘치매’ 고백…‘건망증’과 차이점은?]]></title>
+        <id>https://v.daum.net/v/20231128040055740</id>
+        <link href="https://v.daum.net/v/20231128040055740"/>
+        <updated>2023-11-27T19:15:01.559Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무대위 검은 상자만 덩그러니… “연극 보는 동안엔 평안해지길”]]></title>
         <id>https://v.daum.net/v/20231128030234404</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231128030153350"/>
         <updated>2023-11-27T18:23:00.930Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[명경대] 강릉 소동산 봉수대 거화]]></title>
-        <id>https://v.daum.net/v/20231128000553810</id>
-        <link href="https://v.daum.net/v/20231128000553810"/>
-        <updated>2023-11-27T15:20:15.218Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
