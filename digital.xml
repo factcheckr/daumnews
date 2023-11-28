@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-28T11:17:28.967Z</updated>
+    <updated>2023-11-28T12:35:12.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임원회의서 욕설한 카카오 고위 임원 "업무관행 문제 지적하다 실수"]]></title>
+        <id>https://v.daum.net/v/20231128203704144</id>
+        <link href="https://v.daum.net/v/20231128203704144"/>
+        <updated>2023-11-28T12:34:31.446Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지하 1.5km 정밀 탐사…‘땅속 내시경’ K-DEV 개발]]></title>
         <id>https://v.daum.net/v/20231128195909513</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231128185140330"/>
         <updated>2023-11-28T10:20:38.606Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["한·중·일, 우편 배달시간 단축 함께 노력"…3국 우편고위급 회의]]></title>
-        <id>https://v.daum.net/v/20231128183106992</id>
-        <link href="https://v.daum.net/v/20231128183106992"/>
-        <updated>2023-11-28T10:20:38.607Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
