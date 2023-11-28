@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-28T17:17:46.991Z</updated>
+    <updated>2023-11-28T18:24:19.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231128174602747"/>
         <updated>2023-11-28T14:17:54.303Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["K-한류 열풍, 인공지능과 결합 않으면 반짝하고 사라질 수도"]]></title>
+        <id>https://v.daum.net/v/20231128181629608</id>
+        <link href="https://v.daum.net/v/20231128181629608"/>
+        <updated>2023-11-28T18:23:43.784Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["빅뱅 신곡인 줄" 화제 영상 두고 돌연 '중국 것' 주장…어찌된 일?]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231128180029149"/>
         <updated>2023-11-28T11:16:55.044Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["5G보다 더 비싸다니"…이번엔 LTE 요금 압박 나선 정부]]></title>
-        <id>https://v.daum.net/v/20231128180003106</id>
-        <link href="https://v.daum.net/v/20231128180003106"/>
-        <updated>2023-11-28T09:18:58.997Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>

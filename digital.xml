@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-28T17:17:46.997Z</updated>
+    <updated>2023-11-28T18:24:19.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가짜 정보 만든 AI, 진짜로 보이게 데이터까지 조작]]></title>
+        <id>https://v.daum.net/v/20231129030606735</id>
+        <link href="https://v.daum.net/v/20231129030606735"/>
+        <updated>2023-11-28T18:23:33.270Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[심방·심실까지 갖춘 심장 오가노이드 나왔다… “심장병 치료제 개발 기여할 것”]]></title>
         <id>https://v.daum.net/v/20231129010124924</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231128225102907"/>
         <updated>2023-11-28T14:17:46.376Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["K-한류 열풍, 인공지능과 결합 않으면 반짝하고 사라질 수도"]]></title>
-        <id>https://v.daum.net/v/20231128181629608</id>
-        <link href="https://v.daum.net/v/20231128181629608"/>
-        <updated>2023-11-28T13:25:13.720Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
