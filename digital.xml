@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-28T18:24:19.190Z</updated>
+    <updated>2023-11-28T19:16:19.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[확률형 아이템과 이별… 새 수익 모델 찾기 분주]]></title>
+        <id>https://v.daum.net/v/20231129040414912</id>
+        <link href="https://v.daum.net/v/20231129040414912"/>
+        <updated>2023-11-28T19:15:34.799Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가짜 정보 만든 AI, 진짜로 보이게 데이터까지 조작]]></title>
         <id>https://v.daum.net/v/20231129030606735</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231128225848963"/>
         <updated>2023-11-28T14:17:46.375Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[그때 그 IT] 모빌리티 판례 (3) 타다 서비스 여객자동차법 위반 무죄]]></title>
-        <id>https://v.daum.net/v/20231128225102907</id>
-        <link href="https://v.daum.net/v/20231128225102907"/>
-        <updated>2023-11-28T14:17:46.376Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
