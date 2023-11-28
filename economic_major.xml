@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-11-28T15:21:28.761Z</updated>
+    <updated>2023-11-28T16:25:51.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20231129000416497"/>
         <updated>2023-11-28T15:19:42.932Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국 배터리 업계 2강만 남나…‘포스트 CATL’ 문 닫는다]]></title>
+        <id>https://v.daum.net/v/20231129000310450</id>
+        <link href="https://v.daum.net/v/20231129000310450"/>
+        <updated>2023-11-28T16:24:28.730Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팍팍한 한국인 인생… 생애 중 흑자 구간은 34년에 불과]]></title>
+        <id>https://v.daum.net/v/20231129000302438</id>
+        <link href="https://v.daum.net/v/20231129000302438"/>
+        <updated>2023-11-28T16:24:28.732Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["BOJ 출구전략 시작…엔화, 달러당 135~145엔서 움직일 것"]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231128215932420"/>
         <updated>2023-11-28T13:24:36.218Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[다큐멘토링] 저급한 말 쏟아내는 가벼운 리더들]]></title>
-        <id>https://v.daum.net/v/20231128213907155</id>
-        <link href="https://v.daum.net/v/20231128213907155"/>
-        <updated>2023-11-28T15:19:42.946Z</updated>
-        <content type="html"><![CDATA[더스쿠프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게임업계 줄줄이 "남성 혐오 표현 사과"…커지는 논란]]></title>
-        <id>https://v.daum.net/v/20231128211503844</id>
-        <link href="https://v.daum.net/v/20231128211503844"/>
-        <updated>2023-11-28T15:19:42.948Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>

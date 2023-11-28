@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-28T15:21:28.764Z</updated>
+    <updated>2023-11-28T16:25:51.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20231128174602747"/>
         <updated>2023-11-28T14:17:54.303Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["빅뱅 신곡인 줄" 화제 영상 두고 돌연 '중국 것' 주장…어찌된 일?]]></title>
+        <id>https://v.daum.net/v/20231128211208779</id>
+        <link href="https://v.daum.net/v/20231128211208779"/>
+        <updated>2023-11-28T16:25:18.387Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임원회의서 욕설한 카카오 고위 임원 "업무관행 문제 지적하다 실수"]]></title>
+        <id>https://v.daum.net/v/20231128203704144</id>
+        <link href="https://v.daum.net/v/20231128203704144"/>
+        <updated>2023-11-28T16:25:18.389Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["인공지능 시대 맞아 디지털 분야 책임질 컨트롤 타워 세워야"]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231128180003106"/>
         <updated>2023-11-28T09:18:58.997Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[나는1저자다] ⑤"인력 유입 끊기면 세계 최고 수준 연구경쟁력 잃어"]]></title>
-        <id>https://v.daum.net/v/20231128174613754</id>
-        <link href="https://v.daum.net/v/20231128174613754"/>
-        <updated>2023-11-28T10:20:48.217Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 뜨고 카카오 사라지고…'엇갈리는 메타버스']]></title>
-        <id>https://v.daum.net/v/20231128172903278</id>
-        <link href="https://v.daum.net/v/20231128172903278"/>
-        <updated>2023-11-28T10:20:48.219Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>
