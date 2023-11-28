@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-28T22:19:25.257Z</updated>
+    <updated>2023-11-28T23:19:43.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20231129030546727"/>
         <updated>2023-11-28T21:17:09.973Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[반도체 베테랑에게 특허 심사 맡겼더니?...2차전지·바이오로 확대]]></title>
+        <id>https://v.daum.net/v/20231129054614858</id>
+        <link href="https://v.daum.net/v/20231129054614858"/>
+        <updated>2023-11-28T23:19:02.014Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페이커·T1 인기는 최고, 구단은 적자…e스포츠 숙제 '비즈니스 모델']]></title>
+        <id>https://v.daum.net/v/20231129053009682</id>
+        <link href="https://v.daum.net/v/20231129053009682"/>
+        <updated>2023-11-28T23:19:02.015Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주파수 규제 풀어줬더니…반도체 업계 "개발비 1500억 줄였다"]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231128234158224"/>
         <updated>2023-11-28T20:20:41.085Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[욕설 논란에 카르텔 폭로까지…스텝 꼬인 김범수 쇄신안]]></title>
-        <id>https://v.daum.net/v/20231128225848963</id>
-        <link href="https://v.daum.net/v/20231128225848963"/>
-        <updated>2023-11-28T20:20:41.086Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[그때 그 IT] 모빌리티 판례 (3) 타다 서비스 여객자동차법 위반 무죄]]></title>
-        <id>https://v.daum.net/v/20231128225102907</id>
-        <link href="https://v.daum.net/v/20231128225102907"/>
-        <updated>2023-11-28T19:15:44.887Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
