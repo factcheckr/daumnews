@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-11-29T13:23:51.391Z</updated>
+    <updated>2023-11-29T14:19:18.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[근육 많을수록 당뇨 발병률 줄어요]]></title>
+        <id>https://v.daum.net/v/20231129203705990</id>
+        <link href="https://v.daum.net/v/20231129203705990"/>
+        <updated>2023-11-29T14:18:15.347Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘1.5도 제한 약속’ 잘 지켰나 첫 중간평가…기금 문제도 쟁점]]></title>
         <id>https://v.daum.net/v/20231129213910949</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231129204203051"/>
         <updated>2023-11-29T12:34:18.659Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["출산 위해 2천만 원"…고위험 임산부 의료비 지원은 '찔끔']]></title>
-        <id>https://v.daum.net/v/20231129210611479</id>
-        <link href="https://v.daum.net/v/20231129210611479"/>
-        <updated>2023-11-29T12:34:18.660Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
