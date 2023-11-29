@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-11-29T12:35:16.992Z</updated>
+    <updated>2023-11-29T13:23:51.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231129212957839"/>
         <updated>2023-11-29T12:33:43.650Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 때보다 결혼 줄었다, 9월 1만2941건 역대 최저]]></title>
+        <id>https://v.daum.net/v/20231129204759114</id>
+        <link href="https://v.daum.net/v/20231129204759114"/>
+        <updated>2023-11-29T13:22:28.629Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쇄신론 군불 때지만…속 타는 미래에셋]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231129205615294"/>
         <updated>2023-11-29T12:33:43.657Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소상공인 연말 체감경기 ‘뚝’...“내년 경기 더 어둡다”]]></title>
-        <id>https://v.daum.net/v/20231129205455275</id>
-        <link href="https://v.daum.net/v/20231129205455275"/>
-        <updated>2023-11-29T12:33:43.659Z</updated>
-        <content type="html"><![CDATA[CJB청주방송]]></content>
     </entry>
 </feed>
