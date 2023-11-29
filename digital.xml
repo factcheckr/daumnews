@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-29T11:16:43.082Z</updated>
+    <updated>2023-11-29T12:35:17.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정부-의사단체 `의대증원` 놓고 평행선]]></title>
+        <id>https://v.daum.net/v/20231129172810147</id>
+        <link href="https://v.daum.net/v/20231129172810147"/>
+        <updated>2023-11-29T12:34:36.024Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["넷플릭스에 못하는 규제 韓 플랫폼에 하면 안돼…법제 개편 필요"]]></title>
         <id>https://v.daum.net/v/20231129195431247</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231129174712740"/>
         <updated>2023-11-29T09:18:58.639Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우리 생성 AI는 비즈니스에 바로 쓴다" AWS 대공세 시작됐다 [팩플]]]></title>
-        <id>https://v.daum.net/v/20231129173519362</id>
-        <link href="https://v.daum.net/v/20231129173519362"/>
-        <updated>2023-11-29T09:18:58.641Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
