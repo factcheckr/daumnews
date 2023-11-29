@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-11-29T20:24:09.336Z</updated>
+    <updated>2023-11-29T21:17:35.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드디어 아마존도 챗봇 “큐”… MS·구글과 맞선다]]></title>
+        <id>https://v.daum.net/v/20231130030134945</id>
+        <link href="https://v.daum.net/v/20231130030134945"/>
+        <updated>2023-11-29T21:17:01.487Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외계 행성 추적자 키옵스 우주망원경, 100광년 밖 초기 행성계 발견]]></title>
+        <id>https://v.daum.net/v/20231130010125684</id>
+        <link href="https://v.daum.net/v/20231130010125684"/>
+        <updated>2023-11-29T21:17:01.487Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얇아진 지갑에도…강원 숙박여행 점유 전국 1위]]></title>
         <id>https://v.daum.net/v/20231130000548349</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231129170018148"/>
         <updated>2023-11-29T10:20:16.140Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대기업 공공 SW 사업 참여 문턱 낮춘다는데… “中企에 일감 내리는 쪼개기 계약 제한 필요”]]></title>
-        <id>https://v.daum.net/v/20231129170008132</id>
-        <link href="https://v.daum.net/v/20231129170008132"/>
-        <updated>2023-11-29T10:20:16.141Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“정부 믿고 종이빨대 만들었는데 벼랑 끝 몰렸다”···업체들 피해대책 요구]]></title>
-        <id>https://v.daum.net/v/20231129164847749</id>
-        <link href="https://v.daum.net/v/20231129164847749"/>
-        <updated>2023-11-29T09:19:08.288Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
