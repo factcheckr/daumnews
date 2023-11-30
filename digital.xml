@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-30T13:23:00.877Z</updated>
+    <updated>2023-11-30T14:18:02.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[챗GPT와 대화 한번 나누는데 냉각수 500㎖ 소요…진짜 ‘기후 빌런’ AI 산업]]></title>
+        <id>https://v.daum.net/v/20231130224418492</id>
+        <link href="https://v.daum.net/v/20231130224418492"/>
+        <updated>2023-11-30T14:17:27.118Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[토종 ‘챗GPT’ 성공할까?…“한국어 특화·전문화”로 공략]]></title>
         <id>https://v.daum.net/v/20231130215331053</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231130190510562"/>
         <updated>2023-11-30T10:19:44.464Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘메시가 e스포츠 구단주?’, e스포츠 시장에 뛰어드는 유명 스타들[조영준의 게임인더스트리]]]></title>
-        <id>https://v.daum.net/v/20231130185723396</id>
-        <link href="https://v.daum.net/v/20231130185723396"/>
-        <updated>2023-11-30T10:19:44.465Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
