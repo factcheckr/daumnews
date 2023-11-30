@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-11-30T21:18:02.925Z</updated>
+    <updated>2023-11-30T22:19:04.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[갤럭시S24, 결국 8GB 램 유지하나.. 원가 절감 차원 [1일IT템]]]></title>
+        <id>https://v.daum.net/v/20231201060033053</id>
+        <link href="https://v.daum.net/v/20231201060033053"/>
+        <updated>2023-11-30T22:18:11.014Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“날 잡아잡숴”…인간이 깐 죽음의 길에서 미생물은 춤을 췄다[전문가의 세계 - 김응빈의 미생물 ‘수다’]]]></title>
         <id>https://v.daum.net/v/20231201060205152</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231201060038066"/>
         <updated>2023-11-30T21:17:14.976Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오픈AI, 쿠데타 일으킨 수츠케버 거취 고심…무라타 CTO로 복귀]]></title>
-        <id>https://v.daum.net/v/20231201020601601</id>
-        <link href="https://v.daum.net/v/20231201020601601"/>
-        <updated>2023-11-30T21:17:14.978Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
