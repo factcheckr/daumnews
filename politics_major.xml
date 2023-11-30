@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-11-30T16:25:22.858Z</updated>
+    <updated>2023-11-30T17:18:28.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://v.daum.net/v/20231201000651157</id>
         <link href="https://v.daum.net/v/20231201000651157"/>
         <updated>2023-11-30T15:17:25.751Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권성동 “유죄 황운하, 따질 것 있다면 양산가라”  문재인 겨냥]]></title>
+        <id>https://v.daum.net/v/20231201000637144</id>
+        <link href="https://v.daum.net/v/20231201000637144"/>
+        <updated>2023-11-30T17:16:51.415Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
     <entry>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231130224302485"/>
         <updated>2023-11-30T15:17:25.757Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패딩 입고 책 들고 "각성하라"…국힘 철야농성 시작(종합)]]></title>
-        <id>https://v.daum.net/v/20231130220501193</id>
-        <link href="https://v.daum.net/v/20231130220501193"/>
-        <updated>2023-11-30T15:17:25.759Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-11-30T16:25:22.901Z</updated>
+    <updated>2023-11-30T17:18:28.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美인플레 완화 지속, 소비도 둔화 신호...커지는 금리인하 기대감(종합)]]></title>
+        <id>https://v.daum.net/v/20231201012821501</id>
+        <link href="https://v.daum.net/v/20231201012821501"/>
+        <updated>2023-11-30T17:17:08.952Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 연준의 인플레 척도 10월 3.5%…힘 받는 1분기 금리인하론]]></title>
         <id>https://v.daum.net/v/20231130232714761</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231130213119830"/>
         <updated>2023-11-30T14:16:51.786Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한은, 치솟는 물가에 기준금리 동결…성장률 전망 ↓]]></title>
-        <id>https://v.daum.net/v/20231130211836673</id>
-        <link href="https://v.daum.net/v/20231130211836673"/>
-        <updated>2023-11-30T14:16:51.788Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
