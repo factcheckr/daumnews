@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-01T20:20:02.902Z</updated>
+    <updated>2023-12-01T21:17:02.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231202034830607"/>
         <updated>2023-12-01T19:15:14.182Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[챗GPT에게 리포트 쓰게 하고, 학생이 오류 찾게 하라]]></title>
+        <id>https://v.daum.net/v/20231202005525109</id>
+        <link href="https://v.daum.net/v/20231202005525109"/>
+        <updated>2023-12-01T21:16:29.202Z</updated>
+        <content type="html"><![CDATA[중앙SUNDAY]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글, 英 당국에 ‘MS 독점 규제’ 요청]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231201171330945"/>
         <updated>2023-12-01T15:19:44.186Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['월 3만5900원' 페북·인스타 인증뱃지, 국내 본격 도입]]></title>
-        <id>https://v.daum.net/v/20231201173025355</id>
-        <link href="https://v.daum.net/v/20231201173025355"/>
-        <updated>2023-12-01T12:39:20.632Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
