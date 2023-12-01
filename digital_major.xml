@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-01T02:36:56.577Z</updated>
+    <updated>2023-12-01T03:20:21.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[영상] 화성의 대기층을 400㎞ 상공서 처음 보다]]></title>
-        <id>https://v.daum.net/v/20231201093505488</id>
-        <link href="https://v.daum.net/v/20231201093505488"/>
-        <updated>2023-12-01T02:36:22.412Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA['게임 사전심의 폐지' 청원, 이달 국회 문체위서 논의]]></title>
         <id>https://v.daum.net/v/20231201093414455</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20231201060044079"/>
         <updated>2023-11-30T23:22:07.028Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사이언스샷] “나는 코피만 마셔” 개구리 콧구멍만 무는 모기]]></title>
+        <id>https://v.daum.net/v/20231201060126133</id>
+        <link href="https://v.daum.net/v/20231201060126133"/>
+        <updated>2023-12-01T03:19:49.000Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
