@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-12-01T18:23:24.356Z</updated>
+    <updated>2023-12-01T19:15:40.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[따스한 불빛의 계절]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1573204/Z109cWyPpn</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1573204/Z109cWyPpn"/>
+        <updated>2023-12-01T19:15:20.178Z</updated>
+        <content type="html"><![CDATA[[아무튼, 주말] 오종찬 기자의 Oh!컷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공군사령부 방문한 북한 김정은]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1489/UpRNgGYxzF</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/243854/qD0brYWQCJ"/>
         <updated>2023-12-01T07:18:13.396Z</updated>
         <content type="html"><![CDATA[금주의 B컷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다람쥐의 호기심 "저게 뭐지?"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/2329/zDHOcSlfKd</id>
-        <link href="https://gallery.v.daum.net/p/viewer/2329/zDHOcSlfKd"/>
-        <updated>2023-12-01T07:18:13.396Z</updated>
-        <content type="html"><![CDATA[영국은 지금]]></content>
     </entry>
 </feed>
