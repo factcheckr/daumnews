@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-02T01:13:06.080Z</updated>
+    <updated>2023-12-02T02:27:06.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이번 달 나올 iOS 17.2, 어떤 기능 추가되나]]></title>
+        <id>https://v.daum.net/v/20231202083018232</id>
+        <link href="https://v.daum.net/v/20231202083018232"/>
+        <updated>2023-12-02T02:26:31.214Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["유저 플레이 지켜보니 감개무량"…DDP 메운 '인디게임' 열기]]></title>
         <id>https://v.daum.net/v/20231202083010229</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231202061101160"/>
         <updated>2023-12-01T23:18:30.265Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘1인 체제’ 방통위 당분간 ‘올스톱’… ‘식물상태’ 불가피]]></title>
-        <id>https://v.daum.net/v/20231202043126749</id>
-        <link href="https://v.daum.net/v/20231202043126749"/>
-        <updated>2023-12-01T23:18:30.267Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
