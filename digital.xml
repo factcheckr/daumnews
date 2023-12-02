@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-02T11:17:26.281Z</updated>
+    <updated>2023-12-02T12:31:12.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“가격 30만원이나 싸다” 삼성 고심끝 3년만에 ‘역대급’ 결단]]></title>
+        <id>https://v.daum.net/v/20231202195046939</id>
+        <link href="https://v.daum.net/v/20231202195046939"/>
+        <updated>2023-12-02T12:30:37.445Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“완전 속았다” 일일이 떼냈는데 재활용도 안 된다니…이거 말이 돼? [지구, 뭐래?]]]></title>
         <id>https://v.daum.net/v/20231202175101559</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231202140004089"/>
         <updated>2023-12-02T05:16:57.808Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티빙과 웨이브가 합치려는 진짜 이유는]]></title>
-        <id>https://v.daum.net/v/20231202120003306</id>
-        <link href="https://v.daum.net/v/20231202120003306"/>
-        <updated>2023-12-02T03:19:01.436Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>
