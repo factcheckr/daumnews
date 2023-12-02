@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-02T08:22:05.427Z</updated>
+    <updated>2023-12-02T09:17:15.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“완전 속았다” 일일이 떼냈는데 재활용도 안 된다니…이거 말이 돼? [지구, 뭐래?]]]></title>
+        <id>https://v.daum.net/v/20231202175101559</id>
+        <link href="https://v.daum.net/v/20231202175101559"/>
+        <updated>2023-12-02T09:16:36.278Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헷갈리는 가명정보, 명확히 해야..통상에 중요해진 데이터]]></title>
         <id>https://v.daum.net/v/20231202160029374</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231202120003306"/>
         <updated>2023-12-02T03:19:01.436Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이것이 갤럭시S24" 사진 등장.. 엣지 없애고 방열판 확대 [1일IT템]]]></title>
-        <id>https://v.daum.net/v/20231202104212564</id>
-        <link href="https://v.daum.net/v/20231202104212564"/>
-        <updated>2023-12-02T02:26:22.046Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
