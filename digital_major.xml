@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-02T02:27:06.232Z</updated>
+    <updated>2023-12-02T03:19:42.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바이오시밀러 소송은 '휴미라' 이전과 이후로 나뉜다…전략은? [남정민의 붐바이오]]]></title>
+        <id>https://v.daum.net/v/20231202084302317</id>
+        <link href="https://v.daum.net/v/20231202084302317"/>
+        <updated>2023-12-02T03:19:09.784Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이번 달 나올 iOS 17.2, 어떤 기능 추가되나]]></title>
         <id>https://v.daum.net/v/20231202083018232</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231202073018749"/>
         <updated>2023-12-01T23:18:30.265Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔비디아 날자, 'HBM 강자' 하이닉스·삼성 웃는다…"중국 비켜"]]></title>
-        <id>https://v.daum.net/v/20231202061101160</id>
-        <link href="https://v.daum.net/v/20231202061101160"/>
-        <updated>2023-12-01T23:18:30.265Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
