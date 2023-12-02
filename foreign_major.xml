@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-12-02T04:22:15.026Z</updated>
+    <updated>2023-12-02T05:17:39.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[의사당 폭동 가담 美 수영 스타, 금메달 덕분에 선처(?)]]></title>
+        <id>https://v.daum.net/v/20231202130912721</id>
+        <link href="https://v.daum.net/v/20231202130912721"/>
+        <updated>2023-12-02T05:16:34.442Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[휴전 종료 하루만 사상자 800명 육박…"지옥, 가자로 돌아와"(종합)[이-팔 전쟁]]]></title>
+        <id>https://v.daum.net/v/20231202125136632</id>
+        <link href="https://v.daum.net/v/20231202125136632"/>
+        <updated>2023-12-02T05:16:34.442Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휴전 끝난 지 하루 만에 "사상자 8백 명"]]></title>
         <id>https://v.daum.net/v/20231202123120509</id>
@@ -34,13 +48,6 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아프간 탈레반, 중국에 새 대사 보내…재집권 후 처음]]></title>
-        <id>https://v.daum.net/v/20231202121249403</id>
-        <link href="https://v.daum.net/v/20231202121249403"/>
-        <updated>2023-12-02T04:21:04.650Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['도살자' 해리스는 폭격으로, 나치 선전상 괴벨스는 입으로 싸웠다]]></title>
         <id>https://v.daum.net/v/20231202120102333</id>
         <link href="https://v.daum.net/v/20231202120102333"/>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231202111609865"/>
         <updated>2023-12-02T03:18:33.460Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이미 1만5천명 죽었는데…가자남부로 창끝 돌린 이스라엘]]></title>
-        <id>https://v.daum.net/v/20231202111503859</id>
-        <link href="https://v.daum.net/v/20231202111503859"/>
-        <updated>2023-12-02T03:18:33.462Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
