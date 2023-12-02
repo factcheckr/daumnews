@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-12-02T15:17:54.538Z</updated>
+    <updated>2023-12-02T16:22:01.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[伊 볼로냐 상징하는 가리센다 탑 붕괴 위기 "언제든 가능"]]></title>
+        <id>https://v.daum.net/v/20231202225943377</id>
+        <link href="https://v.daum.net/v/20231202225943377"/>
+        <updated>2023-12-02T16:21:08.197Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보]가자 보건부, “총 1만5200명 사망…70%가 여성·어린이”…이스라엘, 휴전 협상 중단]]></title>
+        <id>https://v.daum.net/v/20231202223905295</id>
+        <link href="https://v.daum.net/v/20231202223905295"/>
+        <updated>2023-12-02T16:21:08.200Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미 전기차 보조금 중국 배제 강화..."中 지분 한도 25%"]]></title>
         <id>https://v.daum.net/v/20231202222250205</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231202203236303"/>
         <updated>2023-12-02T12:30:13.949Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['입만 열면 거짓말' 하원 의원 제명]]></title>
-        <id>https://v.daum.net/v/20231202202810266</id>
-        <link href="https://v.daum.net/v/20231202202810266"/>
-        <updated>2023-12-02T12:30:13.952Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휴전 종료 이틀째 8백 명 사상‥피난민 몰린 남부에 집중 타격]]></title>
-        <id>https://v.daum.net/v/20231202202510244</id>
-        <link href="https://v.daum.net/v/20231202202510244"/>
-        <updated>2023-12-02T12:30:13.953Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
