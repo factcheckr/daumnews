@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-12-02T16:22:01.637Z</updated>
+    <updated>2023-12-02T17:16:30.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[휴다방, 추우나 더우나 길 위의 사람은 오세요]]></title>
+        <id>https://v.daum.net/v/20231202225309361</id>
+        <link href="https://v.daum.net/v/20231202225309361"/>
+        <updated>2023-12-02T17:15:39.865Z</updated>
+        <content type="html"><![CDATA[한겨레21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[귀에서 '삐' 소리, 숨겨진 청력 손실 때문일 수도?]]></title>
         <id>https://v.daum.net/v/20231202200106019</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231202195401963"/>
         <updated>2023-12-02T13:19:40.328Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혹독한 겨울나기… 길냥이들을 부탁해 [밀착취재]]]></title>
-        <id>https://v.daum.net/v/20231202183250212</id>
-        <link href="https://v.daum.net/v/20231202183250212"/>
-        <updated>2023-12-02T13:19:40.330Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
