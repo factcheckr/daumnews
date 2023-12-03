@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-12-03T21:15:48.732Z</updated>
+    <updated>2023-12-03T22:17:47.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615616/GSot2bBEug"/>
         <updated>2023-12-03T21:15:24.032Z</updated>
         <content type="html"><![CDATA[뉴스1 PICK]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[군, 작전 영역 우주로 확대]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/t8dFNoLZ1K</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/t8dFNoLZ1K"/>
+        <updated>2023-12-03T22:17:18.247Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[올 한 해 당신의 과속은]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5847810/GAwTlGYxBd"/>
         <updated>2023-12-03T04:21:45.943Z</updated>
         <content type="html"><![CDATA[지자체 제공 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COP28서 연설하는 기시다 日총리]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1471/BHMiK68Cu8</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1471/BHMiK68Cu8"/>
-        <updated>2023-12-03T03:19:14.076Z</updated>
-        <content type="html"><![CDATA[세계의 정상들]]></content>
     </entry>
 </feed>
