@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-12-03T13:22:41.894Z</updated>
+    <updated>2023-12-03T14:16:29.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["커피 안 마셔도?"...어린이 약 73%가 카페인 섭취한다]]></title>
+        <id>https://v.daum.net/v/20231203194618741</id>
+        <link href="https://v.daum.net/v/20231203194618741"/>
+        <updated>2023-12-03T14:15:43.166Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수천여명 애도 속 한 줌 재로 돌아간 ‘자승스님’… 용주사서 다비식 엄수]]></title>
         <id>https://v.daum.net/v/20231203190930462</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231203170537264"/>
         <updated>2023-12-03T10:18:04.543Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["춘천 출신 자승스님 영결식 전법포교의 길 함께 걸어갈 것"]]></title>
-        <id>https://v.daum.net/v/20231203153341432</id>
-        <link href="https://v.daum.net/v/20231203153341432"/>
-        <updated>2023-12-03T09:18:57.806Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
