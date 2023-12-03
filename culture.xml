@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-12-03T10:18:54.352Z</updated>
+    <updated>2023-12-03T11:15:49.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리가 믿는 건 진실일까… 현대인의 확증편향 꼬집다]]></title>
+        <id>https://v.daum.net/v/20231203200846906</id>
+        <link href="https://v.daum.net/v/20231203200846906"/>
+        <updated>2023-12-03T11:14:47.970Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["커피 안 마셔도?"...어린이 약 73%가 카페인 섭취한다]]></title>
+        <id>https://v.daum.net/v/20231203194618741</id>
+        <link href="https://v.daum.net/v/20231203194618741"/>
+        <updated>2023-12-03T11:14:47.972Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수천여명 애도 속 한 줌 재로 돌아간 ‘자승스님’… 용주사서 다비식 엄수]]></title>
         <id>https://v.daum.net/v/20231203190930462</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231203182903811"/>
         <updated>2023-12-03T10:17:55.289Z</updated>
         <content type="html"><![CDATA[대전일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설사·복통으로 화장실 ‘들락날락’… 꾀병 같은 ‘염증성 장 질환’]]></title>
-        <id>https://v.daum.net/v/20231203180002278</id>
-        <link href="https://v.daum.net/v/20231203180002278"/>
-        <updated>2023-12-03T09:18:51.713Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월요일 출근길도 '추위' 지속… 오후부터 기온 조금씩 올라]]></title>
-        <id>https://v.daum.net/v/20231203175935262</id>
-        <link href="https://v.daum.net/v/20231203175935262"/>
-        <updated>2023-12-03T09:18:51.716Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
