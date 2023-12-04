@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-04T14:18:54.778Z</updated>
+    <updated>2023-12-04T15:20:36.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["하나 정리하니 또 하나 터지네"…위기의 카카오, 멀고 먼 '정상화']]></title>
+        <id>https://v.daum.net/v/20231205000044605</id>
+        <link href="https://v.daum.net/v/20231205000044605"/>
+        <updated>2023-12-04T15:19:59.138Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IBM, 차세대 양자 컴퓨팅 프로세서…오류 감소율 5배 향상]]></title>
         <id>https://v.daum.net/v/20231204214801611</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231204190420505"/>
         <updated>2023-12-04T10:21:22.837Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“135만원 → 42만원, 이 가격 실화?” 비싼 삼성 접는폰 헐값 됐다!]]></title>
-        <id>https://v.daum.net/v/20231204185137291</id>
-        <link href="https://v.daum.net/v/20231204185137291"/>
-        <updated>2023-12-04T10:21:22.839Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
