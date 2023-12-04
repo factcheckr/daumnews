@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-04T10:22:01.964Z</updated>
+    <updated>2023-12-04T11:17:08.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[60초 뉴스]인스타그램 '파란딱지'…일반인도 발급해준다]]></title>
+        <id>https://v.daum.net/v/20231204180256918</id>
+        <link href="https://v.daum.net/v/20231204180256918"/>
+        <updated>2023-12-04T11:16:24.090Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北 해킹조직에 ‘레이저 대공무기’ 털렸다]]></title>
         <id>https://v.daum.net/v/20231204182200542</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[이준기의 D사이언스] "2050 `아바타2` 현실될 것… 친환경·자율운항선박 우리가 주도"]]></title>
+        <title type="html"><![CDATA["2050 `아바타2` 현실될 것… 친환경·자율운항선박 우리가 주도"]]></title>
         <id>https://v.daum.net/v/20231204190420505</id>
         <link href="https://v.daum.net/v/20231204190420505"/>
         <updated>2023-12-04T10:21:22.837Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231204183006754"/>
         <updated>2023-12-04T10:21:22.840Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[23년째 뜨거운 감자…상속세 '디딤돌' 놓일까]]></title>
-        <id>https://v.daum.net/v/20231204182401602</id>
-        <link href="https://v.daum.net/v/20231204182401602"/>
-        <updated>2023-12-04T10:21:22.841Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
