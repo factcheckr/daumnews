@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-12-05T13:24:32.766Z</updated>
+    <updated>2023-12-05T15:21:11.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메리 크리스마스]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/7156/fexCtAj3EH</id>
+        <link href="https://gallery.v.daum.net/p/viewer/7156/fexCtAj3EH"/>
+        <updated>2023-12-05T15:20:45.721Z</updated>
+        <content type="html"><![CDATA[포토 에세이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비트코인 시세, 연고점 돌파[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/BXe77mrqTN</id>
@@ -32,6 +39,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1471/8oQUveRyFd"/>
         <updated>2023-12-05T12:34:18.068Z</updated>
         <content type="html"><![CDATA[세계의 정상들]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[향기로운 단풍나무 길]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/379/brQ5m9Kw6G</id>
+        <link href="https://gallery.v.daum.net/p/viewer/379/brQ5m9Kw6G"/>
+        <updated>2023-12-05T15:20:45.729Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제3회 서민경제 수호 영웅상 시상식]]></title>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5032907/FxH9lxQSzj"/>
         <updated>2023-12-05T06:24:43.575Z</updated>
         <content type="html"><![CDATA[팔레스타인은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[농협은행 전남본부, 연말 요양시설 온정 나눔]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5612596/fhUT6WyPVj</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5612596/fhUT6WyPVj"/>
-        <updated>2023-12-05T06:24:43.583Z</updated>
-        <content type="html"><![CDATA[머니S포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바흐무트 전장에 배치된 우크라 저격수]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033399/FzK8CP6h3l</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033399/FzK8CP6h3l"/>
-        <updated>2023-12-05T06:24:43.588Z</updated>
-        <content type="html"><![CDATA[우크라이나는 지금]]></content>
     </entry>
 </feed>
