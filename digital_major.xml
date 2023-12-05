@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-05T06:25:07.576Z</updated>
+    <updated>2023-12-05T07:18:23.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지난 60년 동안 호우 원인, 알고 보니 ○○ 때문이었다]]></title>
+        <id>https://v.daum.net/v/20231205151402979</id>
+        <link href="https://v.daum.net/v/20231205151402979"/>
+        <updated>2023-12-05T07:17:48.124Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[판교 노조 목소리 커진다…네카오·넥슨·엔씨·스마게 노조, 임협 연대]]></title>
+        <id>https://v.daum.net/v/20231205151353972</id>
+        <link href="https://v.daum.net/v/20231205151353972"/>
+        <updated>2023-12-05T07:17:48.126Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전국 버스 와이파이, 5G로 완전 교체…인터넷 속도 4배 빨라진다]]></title>
+        <id>https://v.daum.net/v/20231205151225909</id>
+        <link href="https://v.daum.net/v/20231205151225909"/>
+        <updated>2023-12-05T07:17:48.127Z</updated>
+        <content type="html"><![CDATA[농민신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["고갱님, 당황하셨어요?" 어설픈 사기전화 이젠 없다…AI가 피싱범죄와 만나면]]></title>
+        <id>https://v.daum.net/v/20231205151015787</id>
+        <link href="https://v.daum.net/v/20231205151015787"/>
+        <updated>2023-12-05T07:17:48.131Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[총선 출마설 선그은 과기부 장관···유지상·이용훈 하마평]]></title>
+        <id>https://v.daum.net/v/20231205150753651</id>
+        <link href="https://v.daum.net/v/20231205150753651"/>
+        <updated>2023-12-05T07:17:48.132Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[나는1저자다] ⑦"30대는 불안·초조하다…연구성과엔 시간 더 줬으면"]]></title>
         <id>https://v.daum.net/v/20231205150013294</id>
@@ -18,13 +53,6 @@
         <link href="https://v.daum.net/v/20231205144255598"/>
         <updated>2023-12-05T06:24:37.973Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오리온→ CJ → 카카오…또 수사선상 오른 김성수, 그는 누구?]]></title>
-        <id>https://v.daum.net/v/20231205143158143</id>
-        <link href="https://v.daum.net/v/20231205143158143"/>
-        <updated>2023-12-05T06:24:37.975Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플, 5G 아닌 6G 모뎀 개발로 전환할까]]></title>
@@ -46,33 +74,5 @@
         <link href="https://v.daum.net/v/20231205132551806"/>
         <updated>2023-12-05T06:24:37.979Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["AI에 밀려 외면당했는데"…'슈퍼컴' 맞먹는 '양자컴' 나왔다]]></title>
-        <id>https://v.daum.net/v/20231205121002594</id>
-        <link href="https://v.daum.net/v/20231205121002594"/>
-        <updated>2023-12-05T06:24:37.981Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성폰, 동남아 1위 위태…3분기 점유율 '뚝']]></title>
-        <id>https://v.daum.net/v/20231205130237359</id>
-        <link href="https://v.daum.net/v/20231205130237359"/>
-        <updated>2023-12-05T06:24:37.982Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]6년전 강원 인제 수돗물서도 기준치 넘는 발암물질···기준치 육박도 300여건]]></title>
-        <id>https://v.daum.net/v/20231205122202782</id>
-        <link href="https://v.daum.net/v/20231205122202782"/>
-        <updated>2023-12-05T06:24:37.983Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["의료용 AI 사업 키우는 구글, '규제 마련' 美정계 설득에 집중"]]></title>
-        <id>https://v.daum.net/v/20231205101106258</id>
-        <link href="https://v.daum.net/v/20231205101106258"/>
-        <updated>2023-12-05T06:24:37.984Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
