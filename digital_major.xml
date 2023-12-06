@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-06T15:20:35.487Z</updated>
+    <updated>2023-12-06T16:25:38.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["AI 산업혁명이 다가온다"…전문가들이 투자하는 수혜주는?]]></title>
+        <id>https://v.daum.net/v/20231206200601318</id>
+        <link href="https://v.daum.net/v/20231206200601318"/>
+        <updated>2023-12-06T16:25:04.940Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“마이데이터 다운로드권은 분야 관계없이 시행한다”]]></title>
         <id>https://v.daum.net/v/20231206162603509</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231206173513122"/>
         <updated>2023-12-06T10:20:19.630Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["구글·메타, 언론사에 지급해야 할 뉴스 사용료 연간 139억 달러"]]></title>
-        <id>https://v.daum.net/v/20231206173344064</id>
-        <link href="https://v.daum.net/v/20231206173344064"/>
-        <updated>2023-12-06T09:19:13.275Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
 </feed>
