@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-12-06T13:23:05.209Z</updated>
+    <updated>2023-12-06T14:18:18.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[초경 빨랐던 여성, 혈당 어떤지 분석해보니…]]></title>
+        <id>https://v.daum.net/v/20231206203017689</id>
+        <link href="https://v.daum.net/v/20231206203017689"/>
+        <updated>2023-12-06T14:17:27.133Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[풀뿌리K] ‘푸른 눈의 돼지 신부’…고(故) 임피제 신부 추모 음악회]]></title>
         <id>https://v.daum.net/v/20231206201303453</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231206190101257"/>
         <updated>2023-12-06T11:15:42.556Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[춤추고 노래하는 뮤지컬로 참사를 기억할 수 있을까]]></title>
-        <id>https://v.daum.net/v/20231206185016091</id>
-        <link href="https://v.daum.net/v/20231206185016091"/>
-        <updated>2023-12-06T11:15:42.558Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
