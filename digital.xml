@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-06T14:18:18.850Z</updated>
+    <updated>2023-12-06T15:20:35.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“화려한 언변에 반할 지경”…구글 비밀병기 출격]]></title>
+        <id>https://v.daum.net/v/20231207000900247</id>
+        <link href="https://v.daum.net/v/20231207000900247"/>
+        <updated>2023-12-06T15:20:02.248Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오픈AI 쿠데타로 주춤한 사이 … 챗GPT 대항마 내놓은 구글]]></title>
+        <id>https://v.daum.net/v/20231207000301121</id>
+        <link href="https://v.daum.net/v/20231207000301121"/>
+        <updated>2023-12-06T15:20:02.249Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부가 앱 푸시 알람도 지켜보고 있다?…“구글·애플 정보로 사용자 감시 가능”]]></title>
         <id>https://v.daum.net/v/20231206213000598</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231206200601318"/>
         <updated>2023-12-06T11:15:50.021Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“마이데이터 다운로드권은 분야 관계없이 시행한다”]]></title>
-        <id>https://v.daum.net/v/20231206162603509</id>
-        <link href="https://v.daum.net/v/20231206162603509"/>
-        <updated>2023-12-06T11:15:50.023Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIFF 이사장 권한 축소에 방점…임추위 견제는 새 과제로]]></title>
-        <id>https://v.daum.net/v/20231206191003391</id>
-        <link href="https://v.daum.net/v/20231206191003391"/>
-        <updated>2023-12-06T11:15:50.024Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
     </entry>
 </feed>
