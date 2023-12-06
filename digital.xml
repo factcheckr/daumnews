@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-06T12:34:57.625Z</updated>
+    <updated>2023-12-06T13:23:05.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정부가 앱 푸시 알람도 지켜보고 있다?…“구글·애플 정보로 사용자 감시 가능”]]></title>
+        <id>https://v.daum.net/v/20231206213000598</id>
+        <link href="https://v.daum.net/v/20231206213000598"/>
+        <updated>2023-12-06T13:22:30.038Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["오픈AI·구글 잡겠다"…메타·IBM 등 50개사  'AI 동맹' 결성]]></title>
         <id>https://v.daum.net/v/20231206212345527</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231206191003391"/>
         <updated>2023-12-06T11:15:50.024Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이폰 성능 저하 책임 있다는 법원에…애플 "고의는 없었다"]]></title>
-        <id>https://v.daum.net/v/20231206190015232</id>
-        <link href="https://v.daum.net/v/20231206190015232"/>
-        <updated>2023-12-06T10:20:11.947Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
