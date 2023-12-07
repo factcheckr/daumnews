@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-07T11:16:55.505Z</updated>
+    <updated>2023-12-07T12:35:02.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마침내 베일 벗은 엔씨 'TL'…30분 만에 서버 꽉 찼다]]></title>
+        <id>https://v.daum.net/v/20231207210732329</id>
+        <link href="https://v.daum.net/v/20231207210732329"/>
+        <updated>2023-12-07T12:34:20.245Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반도체 인재 양성 본격화…과제는?]]></title>
         <id>https://v.daum.net/v/20231207193854833</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231207174218994"/>
         <updated>2023-12-07T09:18:40.013Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EMA "GLP-1 당뇨비만약 자살 부작용 재검토 필요"...韓후발사도 ‘긴장’]]></title>
-        <id>https://v.daum.net/v/20231207171328090</id>
-        <link href="https://v.daum.net/v/20231207171328090"/>
-        <updated>2023-12-07T08:22:42.740Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
