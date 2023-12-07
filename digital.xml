@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-07T03:20:32.489Z</updated>
+    <updated>2023-12-07T04:23:30.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에릭슨엘지 “올해 전세계 5G 가입자 16억…5G 트래픽 6년내 9배 늘것”]]></title>
+        <id>https://v.daum.net/v/20231207131903192</id>
+        <link href="https://v.daum.net/v/20231207131903192"/>
+        <updated>2023-12-07T04:22:44.763Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지류·지천까지 파헤치고 댐 10개 더 짓는다···“4대강사업 실패 자인”]]></title>
         <id>https://v.daum.net/v/20231207120005891</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231207112207158"/>
         <updated>2023-12-07T02:34:56.493Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부, 보안 AI·빅데이터 기술 아이디어 시상식 개최]]></title>
-        <id>https://v.daum.net/v/20231207110008847</id>
-        <link href="https://v.daum.net/v/20231207110008847"/>
-        <updated>2023-12-07T02:34:56.494Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
