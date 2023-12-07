@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-07T16:25:34.418Z</updated>
+    <updated>2023-12-07T17:18:10.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20231207182851447"/>
         <updated>2023-12-07T10:22:06.636Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“아! 중국 너무하네, 애플워치인줄” 대놓고 베끼더니 이걸 3만원에 판다고?]]></title>
+        <id>https://v.daum.net/v/20231207175513355</id>
+        <link href="https://v.daum.net/v/20231207175513355"/>
+        <updated>2023-12-07T17:17:35.709Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[팩플] 구글 “가장 똑똑한 AI를 무료로”...이제 쫓기는 건 오픈AI]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231207161720076"/>
         <updated>2023-12-07T09:18:49.030Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부, 50여개 학회와 손잡고 “R&D 정책 개발”]]></title>
-        <id>https://v.daum.net/v/20231207145831714</id>
-        <link href="https://v.daum.net/v/20231207145831714"/>
-        <updated>2023-12-07T08:22:51.731Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>

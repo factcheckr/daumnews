@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-07T16:25:34.403Z</updated>
+    <updated>2023-12-07T17:18:10.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]넷플릭스·디즈니·쿠팡 이어 유튜브 프리미엄도 가격 인상…월 1만4900원]]></title>
+        <id>https://v.daum.net/v/20231208020010641</id>
+        <link href="https://v.daum.net/v/20231208020010641"/>
+        <updated>2023-12-07T17:17:26.349Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[짠맛·신맛·떫은맛·단맛 동시에 느끼는 '절대미각 전자혀' 나왔다]]></title>
         <id>https://v.daum.net/v/20231207230001573</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231207180801739"/>
         <updated>2023-12-07T09:18:40.009Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“아! 중국 너무하네, 애플워치인줄” 대놓고 베끼더니 이걸 3만원에 판다고?]]></title>
-        <id>https://v.daum.net/v/20231207175513355</id>
-        <link href="https://v.daum.net/v/20231207175513355"/>
-        <updated>2023-12-07T09:18:40.010Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
