@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-07T14:18:40.436Z</updated>
+    <updated>2023-12-07T15:20:45.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20231207182851447"/>
         <updated>2023-12-07T10:22:06.636Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩플] 구글 “가장 똑똑한 AI를 무료로”...이제 쫓기는 건 오픈AI]]></title>
+        <id>https://v.daum.net/v/20231207174218994</id>
+        <link href="https://v.daum.net/v/20231207174218994"/>
+        <updated>2023-12-07T15:20:09.605Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EMA "GLP-1 당뇨비만약 자살 부작용 재검토 필요"...韓후발사도 ‘긴장’]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231207145831714"/>
         <updated>2023-12-07T08:22:51.731Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달에 우주선 보냈던 추진체, 지구로 돌아왔다 [우주로 간다]]]></title>
-        <id>https://v.daum.net/v/20231207161307912</id>
-        <link href="https://v.daum.net/v/20231207161307912"/>
-        <updated>2023-12-07T08:22:51.733Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-07T14:18:40.454Z</updated>
+    <updated>2023-12-07T15:20:45.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[짠맛·신맛·떫은맛·단맛 동시에 느끼는 '절대미각 전자혀' 나왔다]]></title>
+        <id>https://v.daum.net/v/20231207230001573</id>
+        <link href="https://v.daum.net/v/20231207230001573"/>
+        <updated>2023-12-07T15:20:00.313Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“미성년에 성적 콘텐츠 추천”… ‘메타’ 피소]]></title>
         <id>https://v.daum.net/v/20231207184436826</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231207175513355"/>
         <updated>2023-12-07T09:18:40.010Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] 구글 “가장 똑똑한 AI를 무료로”...이제 쫓기는 건 오픈AI]]></title>
-        <id>https://v.daum.net/v/20231207174218994</id>
-        <link href="https://v.daum.net/v/20231207174218994"/>
-        <updated>2023-12-07T09:18:40.013Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
