@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-07T06:25:11.598Z</updated>
+    <updated>2023-12-07T07:18:38.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["국민 누구든 국가R&D 현황 살핀다"…NTIS 대국민 서비스 오픈]]></title>
+        <id>https://v.daum.net/v/20231207143005109</id>
+        <link href="https://v.daum.net/v/20231207143005109"/>
+        <updated>2023-12-07T07:18:03.946Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경기침체에도 5G '고공성장'…"2029년 가입수 330% 증가"]]></title>
         <id>https://v.daum.net/v/20231207141305318</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231207113609942"/>
         <updated>2023-12-07T03:19:58.150Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["플리커 사용자들, 아이폰13 프로·갤S23 울트라 사진 좋아해"]]></title>
-        <id>https://v.daum.net/v/20231207112207158</id>
-        <link href="https://v.daum.net/v/20231207112207158"/>
-        <updated>2023-12-07T05:18:58.700Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
