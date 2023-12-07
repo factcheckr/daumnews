@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-07T17:18:10.078Z</updated>
+    <updated>2023-12-07T18:24:23.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“S23 FE 사실상 공짜” Z세대 고객 잡으려는 삼성전자의 초강수]]></title>
+        <id>https://v.daum.net/v/20231208030115723</id>
+        <link href="https://v.daum.net/v/20231208030115723"/>
+        <updated>2023-12-07T18:23:49.360Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계 최초 ‘LFP 배터리’ 재활용 성공]]></title>
         <id>https://v.daum.net/v/20231207231145682</id>
@@ -18,6 +25,20 @@
         <link href="https://v.daum.net/v/20231207182851447"/>
         <updated>2023-12-07T10:22:06.636Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성 안방서 세 넓히는 애플…'1020'을 잡아라]]></title>
+        <id>https://v.daum.net/v/20231207182409286</id>
+        <link href="https://v.daum.net/v/20231207182409286"/>
+        <updated>2023-12-07T18:23:49.363Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 자신한 AI 이미지 분석…"아직 불안정"]]></title>
+        <id>https://v.daum.net/v/20231207180801739</id>
+        <link href="https://v.daum.net/v/20231207180801739"/>
+        <updated>2023-12-07T18:23:49.365Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“아! 중국 너무하네, 애플워치인줄” 대놓고 베끼더니 이걸 3만원에 판다고?]]></title>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20231207165408328"/>
         <updated>2023-12-07T09:18:49.024Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["과학기술 퍼스트 무버 되자"…50여 간판급 학회 한데 뭉쳤다(종합)]]></title>
-        <id>https://v.daum.net/v/20231207165206245</id>
-        <link href="https://v.daum.net/v/20231207165206245"/>
-        <updated>2023-12-07T09:18:49.025Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MZ세대 넘어 ‘가족 고객’ 공략하는 애플… 수도권 첫 ‘애플스토어’ 하남에]]></title>
-        <id>https://v.daum.net/v/20231207162134231</id>
-        <link href="https://v.daum.net/v/20231207162134231"/>
-        <updated>2023-12-07T09:18:49.027Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1000억 들던 AI 엔진, 7년 뒤면 10만원? AI는 타노스가 되는 걸까? [경향시소]]]></title>
-        <id>https://v.daum.net/v/20231207161720076</id>
-        <link href="https://v.daum.net/v/20231207161720076"/>
-        <updated>2023-12-07T09:18:49.030Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
