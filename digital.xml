@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-08T12:35:18.035Z</updated>
+    <updated>2023-12-08T13:22:34.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화학·습식 공정…국가전략기술 거점 가동]]></title>
+        <id>https://v.daum.net/v/20231208215304458</id>
+        <link href="https://v.daum.net/v/20231208215304458"/>
+        <updated>2023-12-08T13:21:47.308Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['"망사용료' 논의 끝나지 않았다…AI 시대 맞은 지금부터 진짜" [IT돋보기]]]></title>
         <id>https://v.daum.net/v/20231208182615001</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231208174320125"/>
         <updated>2023-12-08T09:18:26.113Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["국제협력 없이는 아무것도 못해"…우주선도국이 본 韓 우주청]]></title>
-        <id>https://v.daum.net/v/20231208172701615</id>
-        <link href="https://v.daum.net/v/20231208172701615"/>
-        <updated>2023-12-08T09:18:26.114Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
