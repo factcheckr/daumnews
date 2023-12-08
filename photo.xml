@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-12-08T20:20:22.874Z</updated>
+    <updated>2023-12-08T21:17:45.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5898259/7yBIilhVtd"/>
         <updated>2023-12-08T20:20:03.372Z</updated>
         <content type="html"><![CDATA[2024학년도 대학수학능력시험]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['불수능' 결과는··· 성적표 확인하는 수험생들]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/7yBIilhVtd</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/7yBIilhVtd"/>
+        <updated>2023-12-08T21:17:09.286Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[겨울의 맛]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615618/pFBSk68CEJ"/>
         <updated>2023-12-08T08:26:27.411Z</updated>
         <content type="html"><![CDATA[오마이포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하얼빈 쑹화강에서 얼음 채취하기]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/382/ybBPTag12U</id>
-        <link href="https://gallery.v.daum.net/p/viewer/382/ybBPTag12U"/>
-        <updated>2023-12-08T08:26:27.411Z</updated>
-        <content type="html"><![CDATA[중국은 지금]]></content>
     </entry>
 </feed>
