@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-12-09T16:22:57.629Z</updated>
+    <updated>2023-12-09T17:16:08.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기후총회 '화석연료 퇴출' 격돌…사우디·러 등 산유국 '어깃장']]></title>
+        <id>https://v.daum.net/v/20231210013818422</id>
+        <link href="https://v.daum.net/v/20231210013818422"/>
+        <updated>2023-12-09T17:13:53.148Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['겨울 어디갔어' 봄 같은 주말 날씨 …'이상 고온' 주의할 점은?]]></title>
+        <id>https://v.daum.net/v/20231210012542399</id>
+        <link href="https://v.daum.net/v/20231210012542399"/>
+        <updated>2023-12-09T17:13:53.156Z</updated>
+        <content type="html"><![CDATA[문화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 北 핵실험장 길주에 잇따르는 지진...추가 핵실험 가능할까?]]></title>
         <id>https://v.daum.net/v/20231210011314361</id>
@@ -90,13 +104,6 @@
         <content type="html"><![CDATA[정치]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["이것이 정의인가"…에르도안, 美 '가자 휴전' 반대에 '안보리 개혁' 촉구]]></title>
-        <id>https://v.daum.net/v/20231209220103516</id>
-        <link href="https://v.daum.net/v/20231209220103516"/>
-        <updated>2023-12-09T15:16:04.045Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[영끌 했는데 결국은 처분…청년 팔고, 외국인 사고 '혼돈의 부동산']]></title>
         <id>https://v.daum.net/v/20231209205734117</id>
         <link href="https://v.daum.net/v/20231209205734117"/>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20231209203414001"/>
         <updated>2023-12-09T13:18:05.159Z</updated>
         <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU, 세계 첫 'AI법' 합의…생체정보 수집 엄격 제한]]></title>
-        <id>https://v.daum.net/v/20231209213428373</id>
-        <link href="https://v.daum.net/v/20231209213428373"/>
-        <updated>2023-12-09T13:18:05.160Z</updated>
-        <content type="html"><![CDATA[IT]]></content>
     </entry>
 </feed>
