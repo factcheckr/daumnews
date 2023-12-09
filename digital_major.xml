@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-09T07:16:37.336Z</updated>
+    <updated>2023-12-09T08:22:02.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바람 잘 날 없는 오픈AI, 쿠데타에 이어진 도미노 악재…’뒤숭숭’]]></title>
+        <id>https://v.daum.net/v/20231209140010580</id>
+        <link href="https://v.daum.net/v/20231209140010580"/>
+        <updated>2023-12-09T08:21:29.793Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[달에 정착도 안 했는데 벌써 ‘달 인류세’? [달콤한 사이언스]]]></title>
         <id>https://v.daum.net/v/20231209140102591</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231209100026468"/>
         <updated>2023-12-09T03:19:41.879Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英 음란물 연령확인에 AI 안면인식 도입…EU와 정반대 행보]]></title>
-        <id>https://v.daum.net/v/20231209091853046</id>
-        <link href="https://v.daum.net/v/20231209091853046"/>
-        <updated>2023-12-09T03:19:41.880Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

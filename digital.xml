@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-09T07:16:37.328Z</updated>
+    <updated>2023-12-09T08:22:02.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["글재주 없다 내치더니 베껴서 등록"…'저작자' 가로채기 또 논란]]></title>
+        <id>https://v.daum.net/v/20231209163601007</id>
+        <link href="https://v.daum.net/v/20231209163601007"/>
+        <updated>2023-12-09T08:21:20.393Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플, 내년에 어떤 신제품 내놓을까…2024년 신제품 로드맵]]></title>
         <id>https://v.daum.net/v/20231209084242629</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231209143022954"/>
         <updated>2023-12-09T06:22:44.073Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바람 잘 날 없는 오픈AI, 쿠데타에 이어진 도미노 악재…’뒤숭숭’]]></title>
-        <id>https://v.daum.net/v/20231209140010580</id>
-        <link href="https://v.daum.net/v/20231209140010580"/>
-        <updated>2023-12-09T05:17:42.884Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
