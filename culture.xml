@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-12-09T03:20:23.033Z</updated>
+    <updated>2023-12-09T04:23:21.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[맛과 멋이 어우러진 따뜻한 남쪽 나라 [ESC]]]></title>
+        <id>https://v.daum.net/v/20231209125501052</id>
+        <link href="https://v.daum.net/v/20231209125501052"/>
+        <updated>2023-12-09T04:22:00.747Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중학생 포경수술 보여주더니…이번엔 ‘샤워 장면’ 방송 논란]]></title>
         <id>https://v.daum.net/v/20231209120302727</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231209113004508"/>
         <updated>2023-12-09T03:19:09.692Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아이가 10개월 지난 유산균을 먹었어요"…혼비백산 '엄빠'[하이, 육아]]]></title>
-        <id>https://v.daum.net/v/20231209111516381</id>
-        <link href="https://v.daum.net/v/20231209111516381"/>
-        <updated>2023-12-09T03:19:09.693Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
