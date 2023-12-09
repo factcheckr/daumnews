@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2023-12-09T12:31:35.915Z</updated>
+    <updated>2023-12-09T13:20:18.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] ‘재명이네 마을’ 개설자 “‘개딸’ 용어 파기…언론사 정정보도 청구 요청”]]></title>
+        <id>https://v.daum.net/v/20231209220414528</id>
+        <link href="https://v.daum.net/v/20231209220414528"/>
+        <updated>2023-12-09T13:18:31.843Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울서 모인 한미일 안보 수장…"새 대북정책 추진" 선언]]></title>
         <id>https://v.daum.net/v/20231209204212050</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231209175145895"/>
         <updated>2023-12-09T11:15:42.662Z</updated>
         <content type="html"><![CDATA[대전일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['위안부 피해자 승소' 확정…일 정부 실제 배상은 미지수]]></title>
-        <id>https://v.daum.net/v/20231209200905871</id>
-        <link href="https://v.daum.net/v/20231209200905871"/>
-        <updated>2023-12-09T11:15:42.666Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
