@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-12-09T06:23:32.558Z</updated>
+    <updated>2023-12-09T07:16:37.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디젤이 떠난 '1톤 트럭' 시장···'소상공인의 발'은 바로 나! [Car톡]]]></title>
+        <id>https://v.daum.net/v/20231209140017583</id>
+        <link href="https://v.daum.net/v/20231209140017583"/>
+        <updated>2023-12-09T07:15:26.256Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잠실 대단지마저 1억씩 내려…"과연 바닥은"]]></title>
         <id>https://v.daum.net/v/20231209140023586</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231209120020700"/>
         <updated>2023-12-09T04:21:23.153Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주유소 기름값 9주 연속 내려가…연말까지 약세 전망]]></title>
-        <id>https://v.daum.net/v/20231209121842833</id>
-        <link href="https://v.daum.net/v/20231209121842833"/>
-        <updated>2023-12-09T04:21:23.154Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>

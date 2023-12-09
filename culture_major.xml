@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-12-09T06:23:32.569Z</updated>
+    <updated>2023-12-09T07:16:37.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["인생이 왜 이래, 숨 좀 쉬자"...이제 당신이 해야할 것 [일단, 명상합니다]]]></title>
+        <id>https://v.daum.net/v/20231209140122597</id>
+        <link href="https://v.daum.net/v/20231209140122597"/>
+        <updated>2023-12-09T07:15:56.157Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유통기한 석 달 지난 밀키트… 바꿔 달랬더니 소비기한 표기 떼고 배송 [식약설명서]]]></title>
+        <id>https://v.daum.net/v/20231209140003573</id>
+        <link href="https://v.daum.net/v/20231209140003573"/>
+        <updated>2023-12-09T07:15:56.157Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["술 세지만 숙취 심해"...혹시 알코올 중독? 5가지 유형]]></title>
         <id>https://v.daum.net/v/20231209133024296</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231209111039338"/>
         <updated>2023-12-09T03:19:20.828Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스프] 뿌옇게 흐려진 우리 아이 눈, 어떻게 해야 할까]]></title>
-        <id>https://v.daum.net/v/20231209110300227</id>
-        <link href="https://v.daum.net/v/20231209110300227"/>
-        <updated>2023-12-09T03:19:20.828Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미술관이 벽돌 120장을 600만원에 샀다면? [영감 한 스푼]]]></title>
-        <id>https://v.daum.net/v/20231209110009186</id>
-        <link href="https://v.daum.net/v/20231209110009186"/>
-        <updated>2023-12-09T03:19:20.828Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
