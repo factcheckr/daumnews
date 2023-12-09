@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-12-09T19:15:15.064Z</updated>
+    <updated>2023-12-09T20:19:38.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봄날 같은 이상 고온 이틀째…제주 12월 관측 사상 최고]]></title>
+        <id>https://v.daum.net/v/20231209202724959</id>
+        <link href="https://v.daum.net/v/20231209202724959"/>
+        <updated>2023-12-09T20:18:34.842Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조선시대 서울은 ‘호랑이’ 소굴…중국 때문에 확 늘었다고? [서울지리지]]]></title>
         <id>https://v.daum.net/v/20231209200300817</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231209180108993"/>
         <updated>2023-12-09T10:17:59.627Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“비만한 관절염 환자, 살 너무 빨리 빼면…일찍 죽는다?”]]></title>
-        <id>https://v.daum.net/v/20231209181123101</id>
-        <link href="https://v.daum.net/v/20231209181123101"/>
-        <updated>2023-12-09T10:17:59.627Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
