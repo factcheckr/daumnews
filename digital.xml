@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-09T04:23:21.008Z</updated>
+    <updated>2023-12-09T05:18:42.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바람 잘 날 없는 오픈AI, 쿠데타에 이어진 도미노 악재…’뒤숭숭’]]></title>
+        <id>https://v.daum.net/v/20231209140010580</id>
+        <link href="https://v.daum.net/v/20231209140010580"/>
+        <updated>2023-12-09T05:17:42.884Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[달에 정착도 안 했는데 벌써 ‘달 인류세’? [달콤한 사이언스]]]></title>
+        <id>https://v.daum.net/v/20231209140102591</id>
+        <link href="https://v.daum.net/v/20231209140102591"/>
+        <updated>2023-12-09T05:17:42.885Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서비스는 그대로, 가격만 '쑥'···유튜브 뮤직 인기 시들해지나]]></title>
         <id>https://v.daum.net/v/20231209100017453</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231209110501266"/>
         <updated>2023-12-09T02:28:33.017Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[만나보니] 하늘에서 가방이 내린다면···진짜 '로켓 배송' 출동]]></title>
-        <id>https://v.daum.net/v/20231209105632133</id>
-        <link href="https://v.daum.net/v/20231209105632133"/>
-        <updated>2023-12-09T02:28:33.017Z</updated>
-        <content type="html"><![CDATA[대구MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글AI에 ‘이스라엘-하마스 전쟁’ 물었더니 돌아온 답…“구글 검색하세요”]]></title>
-        <id>https://v.daum.net/v/20231209093600201</id>
-        <link href="https://v.daum.net/v/20231209093600201"/>
-        <updated>2023-12-09T02:28:33.019Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
