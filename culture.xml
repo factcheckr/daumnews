@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-12-10T13:20:58.180Z</updated>
+    <updated>2023-12-10T14:17:00.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강풍에 천둥번개… 전국 요란한 겨울비]]></title>
+        <id>https://v.daum.net/v/20231210220232411</id>
+        <link href="https://v.daum.net/v/20231210220232411"/>
+        <updated>2023-12-10T14:15:53.652Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무한한 꿈보다 더 소중한 게 있었네… 박보검의 이유 있는 선택]]></title>
+        <id>https://v.daum.net/v/20231210224202700</id>
+        <link href="https://v.daum.net/v/20231210224202700"/>
+        <updated>2023-12-10T14:15:53.653Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 월요일 전국 비…당분간 한파 수준 추위 없어요]]></title>
         <id>https://v.daum.net/v/20231210211219011</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231210183501560"/>
         <updated>2023-12-10T10:18:15.881Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[건강메신저 메디TALK] 사물이 두 개로 보인다면…뇌가 보내는 SOS]]></title>
-        <id>https://v.daum.net/v/20231210174508869</id>
-        <link href="https://v.daum.net/v/20231210174508869"/>
-        <updated>2023-12-10T09:16:53.864Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[9988 프로젝트]"건강한 다이어트 어떻게 해요"]]></title>
-        <id>https://v.daum.net/v/20231210171052466</id>
-        <link href="https://v.daum.net/v/20231210171052466"/>
-        <updated>2023-12-10T08:21:33.600Z</updated>
-        <content type="html"><![CDATA[대전일보]]></content>
     </entry>
 </feed>
