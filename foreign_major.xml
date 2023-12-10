@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-12-10T16:23:54.455Z</updated>
+    <updated>2023-12-10T17:16:48.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[기시다 ‘비자금 스캔들’ 아베파 각료·당간부 손절나선다]]></title>
-        <id>https://v.daum.net/v/20231211000128101</id>
-        <link href="https://v.daum.net/v/20231211000128101"/>
-        <updated>2023-12-10T16:22:24.370Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[‘반 유대주의’에 모호한 답변 했다가…명문대 총장직 내려놨다]]></title>
         <id>https://v.daum.net/v/20231210234201018</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20231210221200511"/>
         <updated>2023-12-10T14:15:43.297Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이스라엘 군사작전 강화… 2024년까지 전쟁 장기화되나]]></title>
+        <id>https://v.daum.net/v/20231210220234413</id>
+        <link href="https://v.daum.net/v/20231210220234413"/>
+        <updated>2023-12-10T17:15:19.184Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
