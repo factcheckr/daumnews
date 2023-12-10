@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-10T02:34:21.514Z</updated>
+    <updated>2023-12-10T03:19:42.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231210104213688"/>
         <updated>2023-12-10T02:33:49.772Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["유튜브, 너마저" OTT 줄줄이 가격 인상...'배짱 장사'냐 '합리적 인상'이냐 [OTT온에어]]]></title>
+        <id>https://v.daum.net/v/20231210091531557</id>
+        <link href="https://v.daum.net/v/20231210091531557"/>
+        <updated>2023-12-10T03:19:16.561Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[표지로 읽는 과학] 덫에 갇힌 동료 구하는 돼지]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231210080013878"/>
         <updated>2023-12-10T01:23:04.304Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명왕성 퇴출과 직류의 재발견…앱처럼 연구도 ‘수시 업데이트’ 필요한 이유]]></title>
-        <id>https://v.daum.net/v/20231210080007870</id>
-        <link href="https://v.daum.net/v/20231210080007870"/>
-        <updated>2023-12-10T01:23:04.305Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
