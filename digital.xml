@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-11T18:24:36.169Z</updated>
+    <updated>2023-12-11T19:15:57.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플, 판매부진 아이패드 대대적 개편 추진…제품 업그레이드도]]></title>
+        <id>https://v.daum.net/v/20231212034343794</id>
+        <link href="https://v.daum.net/v/20231212034343794"/>
+        <updated>2023-12-11T19:15:19.089Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[생성형 AI를 전자기기마다 탑재, 신제품 쏟아진다]]></title>
         <id>https://v.daum.net/v/20231212030258510</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231211212203554"/>
         <updated>2023-12-11T12:35:19.897Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플이 9년 만에 내놓는 '비장의 新기기'…내년 초 나온다]]></title>
-        <id>https://v.daum.net/v/20231211210102309</id>
-        <link href="https://v.daum.net/v/20231211210102309"/>
-        <updated>2023-12-11T12:35:19.898Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
