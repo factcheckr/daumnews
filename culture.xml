@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-12-11T13:24:32.492Z</updated>
+    <updated>2023-12-11T14:19:27.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하루 '이 견과류' 한 주먹, 위암 유발 헬리코박터균 억제 도움]]></title>
+        <id>https://v.daum.net/v/20231211230026392</id>
+        <link href="https://v.daum.net/v/20231211230026392"/>
+        <updated>2023-12-11T14:18:27.202Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“3년 만에 온 반가운 손님”…백령도 임산부들, 출산하러 육지 안가도 된다]]></title>
+        <id>https://v.daum.net/v/20231211222101186</id>
+        <link href="https://v.daum.net/v/20231211222101186"/>
+        <updated>2023-12-11T14:18:27.203Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“이 악기는 카멜레온 같아”…세계적 ‘만돌린 전도사’ 아비탈, 한화클래식 10주년 무대]]></title>
         <id>https://v.daum.net/v/20231211220255010</id>
         <link href="https://v.daum.net/v/20231211220255010"/>
         <updated>2023-12-11T13:23:34.574Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백령도, 애 낳으러 육지 안가도 된다...산부인과 의사 3년 만에 구해]]></title>
-        <id>https://v.daum.net/v/20231211215739935</id>
-        <link href="https://v.daum.net/v/20231211215739935"/>
-        <updated>2023-12-11T13:23:34.576Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한 해 83조 삼키는 만성질환...사망자 74.3% 차지]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231211211213450"/>
         <updated>2023-12-11T12:35:02.338Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MZ가 붕어빵 사려고 줄만 선다고? 직접 차려 일냈다]]></title>
-        <id>https://v.daum.net/v/20231211210517377</id>
-        <link href="https://v.daum.net/v/20231211210517377"/>
-        <updated>2023-12-11T12:35:02.339Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
