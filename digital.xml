@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-11T15:20:58.725Z</updated>
+    <updated>2023-12-11T17:18:58.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이게 갤럭시 S24?"···출시 한 달 앞두고 대만서 유출된 사진 보니]]></title>
+        <id>https://v.daum.net/v/20231212012017221</id>
+        <link href="https://v.daum.net/v/20231212012017221"/>
+        <updated>2023-12-11T17:18:10.673Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[14일부터 도심 동물 체험 ‘금지’…동물 카페 운영자도 동물권 단체도 ‘성토’]]></title>
         <id>https://v.daum.net/v/20231211212203554</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231211180213948"/>
         <updated>2023-12-11T09:19:51.472Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘은 앱으로 즐기는 '아이러브스쿨'...흥행 성공할까]]></title>
-        <id>https://v.daum.net/v/20231211180103906</id>
-        <link href="https://v.daum.net/v/20231211180103906"/>
-        <updated>2023-12-11T15:20:22.394Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>

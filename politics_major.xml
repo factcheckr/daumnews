@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-12-11T15:20:58.729Z</updated>
+    <updated>2023-12-11T17:18:58.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[野 '1호 인재' 박지혜 "화력발전 줄여 기후위기대응 정상으로"(종합)]]></title>
+        <id>https://v.daum.net/v/20231211221120103</id>
+        <link href="https://v.daum.net/v/20231211221120103"/>
+        <updated>2023-12-11T17:16:59.886Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[나이트포커스] "기득권 내려놓겠다"...어떤 의미?]]></title>
         <id>https://v.daum.net/v/20231211225816379</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231211214214752"/>
         <updated>2023-12-11T13:22:52.571Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사쿠라’ ‘경선 불복’까지 등장…민주당 내부, ‘신당론’ 이낙연에 불만]]></title>
-        <id>https://v.daum.net/v/20231211213009645</id>
-        <link href="https://v.daum.net/v/20231211213009645"/>
-        <updated>2023-12-11T13:22:52.574Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
