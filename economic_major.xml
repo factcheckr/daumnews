@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-12-12T13:25:55.964Z</updated>
+    <updated>2023-12-12T14:23:08.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공급망 바꾸고·기술 개발…“중국 의존도를 낮춰라”]]></title>
+        <id>https://v.daum.net/v/20231212214809206</id>
+        <link href="https://v.daum.net/v/20231212214809206"/>
+        <updated>2023-12-12T14:21:47.166Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“요소·흑연은 일부에 불과”…반복되는 ‘중국 리스크’]]></title>
         <id>https://v.daum.net/v/20231212214636176</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231212210315572"/>
         <updated>2023-12-12T13:24:35.811Z</updated>
         <content type="html"><![CDATA[매경이코노미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["티켓 취소는 영업시간에만" 수수료 '폭탄'…공정위 나섰다]]></title>
-        <id>https://v.daum.net/v/20231212210309566</id>
-        <link href="https://v.daum.net/v/20231212210309566"/>
-        <updated>2023-12-12T12:33:44.201Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
