@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-12-13T08:23:43.430Z</updated>
+    <updated>2023-12-13T09:19:13.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231213164456434"/>
         <updated>2023-12-13T08:22:57.215Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[같은 양파여도… '영양가' 더 높여서 먹는 법]]></title>
+        <id>https://v.daum.net/v/20231213165736885</id>
+        <link href="https://v.daum.net/v/20231213165736885"/>
+        <updated>2023-12-13T09:18:26.561Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“캐리어 없어도 1년치 충분하네”…달라진 올영어워즈[르포]]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231213153249595"/>
         <updated>2023-12-13T08:22:57.226Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미 질병예방특위, 6세 때부터 비만상담 권고]]></title>
-        <id>https://v.daum.net/v/20231213153959893</id>
-        <link href="https://v.daum.net/v/20231213153959893"/>
-        <updated>2023-12-13T08:22:57.227Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
