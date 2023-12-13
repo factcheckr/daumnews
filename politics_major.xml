@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-12-13T16:23:35.691Z</updated>
+    <updated>2023-12-13T17:17:36.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[尹대통령, 6·25 참전 네덜란드 용사에 '영웅의 제복' 수여]]></title>
+        <id>https://v.daum.net/v/20231214015005023</id>
+        <link href="https://v.daum.net/v/20231214015005023"/>
+        <updated>2023-12-13T17:16:10.373Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 임재훈 "'중앙정부 네트워크' 갖췄다…안양동안갑에 새로운 탄력"]]></title>
+        <id>https://v.daum.net/v/20231214000000445</id>
+        <link href="https://v.daum.net/v/20231214000000445"/>
+        <updated>2023-12-13T17:16:10.373Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준석, 김기현 회동서 "김건희 특검 통과 대비해야" 당부도(종합)]]></title>
         <id>https://v.daum.net/v/20231213234807370</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231213222047687"/>
         <updated>2023-12-13T14:20:10.283Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이낙연, ‘이재명 민주당’ 개혁 요원 판단…금태섭 등과 연대 가능성도]]></title>
-        <id>https://v.daum.net/v/20231213221505633</id>
-        <link href="https://v.daum.net/v/20231213221505633"/>
-        <updated>2023-12-13T14:20:10.285Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아, 내 뒷목…12·12 뒤에 심박수 더 뛰게 할 일 생겨]]></title>
-        <id>https://v.daum.net/v/20231213215801397</id>
-        <link href="https://v.daum.net/v/20231213215801397"/>
-        <updated>2023-12-13T14:20:10.285Z</updated>
-        <content type="html"><![CDATA[한겨레21]]></content>
     </entry>
 </feed>
