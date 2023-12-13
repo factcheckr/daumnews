@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-13T14:21:53.416Z</updated>
+    <updated>2023-12-13T15:20:24.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글, 초강력 기업용 AI 서비스 ‘제미나이 프로’ 공개]]></title>
+        <id>https://v.daum.net/v/20231214000218508</id>
+        <link href="https://v.daum.net/v/20231214000218508"/>
+        <updated>2023-12-13T15:19:50.166Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[틴더 "韓 , 새 데이트 경험에 긍정적…카톡 연락 선호"]]></title>
         <id>https://v.daum.net/v/20231213222127700</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231213190001360"/>
         <updated>2023-12-13T10:20:14.783Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[테헤란로] '유리절벽'에 선 카카오 첫 여성 CEO]]></title>
-        <id>https://v.daum.net/v/20231213181737441</id>
-        <link href="https://v.daum.net/v/20231213181737441"/>
-        <updated>2023-12-13T10:20:14.783Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>

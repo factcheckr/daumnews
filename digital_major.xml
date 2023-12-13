@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-13T14:21:53.403Z</updated>
+    <updated>2023-12-13T15:20:24.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[STX, 디피코 인수의향서 제출…새주인 누가 될까]]></title>
+        <id>https://v.daum.net/v/20231214000558620</id>
+        <link href="https://v.daum.net/v/20231214000558620"/>
+        <updated>2023-12-13T15:19:58.199Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[테헤란로] '유리절벽'에 선 카카오 첫 여성 CEO]]></title>
+        <id>https://v.daum.net/v/20231213181737441</id>
+        <link href="https://v.daum.net/v/20231213181737441"/>
+        <updated>2023-12-13T15:19:58.201Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유튜브 구독료 인상에 늘어난 우회 결제…계정 정지 당할수도]]></title>
         <id>https://v.daum.net/v/20231213180905230</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231213170402179"/>
         <updated>2023-12-13T09:18:44.226Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FT “TSMC, 2나노 프로토타입 애플 제공…2025년 아이폰17 프로 첫 탑재”]]></title>
-        <id>https://v.daum.net/v/20231213143802642</id>
-        <link href="https://v.daum.net/v/20231213143802642"/>
-        <updated>2023-12-13T09:18:44.227Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꿈의 물질'로 남겨진 초전도체... 검증위, "LK-99, 초전도체 근거 없다" [앵커리포트]]]></title>
-        <id>https://v.daum.net/v/20231213165207715</id>
-        <link href="https://v.daum.net/v/20231213165207715"/>
-        <updated>2023-12-13T09:18:44.229Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
