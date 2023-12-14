@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-12-14T13:23:49.751Z</updated>
+    <updated>2023-12-14T14:18:16.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[외로운 청년들에게 서울의 따뜻함을 건네다]]></title>
+        <id>https://v.daum.net/v/20231214210302669</id>
+        <link href="https://v.daum.net/v/20231214210302669"/>
+        <updated>2023-12-14T14:17:35.530Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 전국 곳곳 비바람‥내일 더 강한 비, 밤사이 강원 폭설]]></title>
         <id>https://v.daum.net/v/20231214210108620</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231214190201673"/>
         <updated>2023-12-14T13:23:01.903Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그시절 소년·소녀들과 함께… 1박2일 가이드로 나선 유홍준 교수 [Weekend 레저]]]></title>
-        <id>https://v.daum.net/v/20231214190154672</id>
-        <link href="https://v.daum.net/v/20231214190154672"/>
-        <updated>2023-12-14T13:23:01.904Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
