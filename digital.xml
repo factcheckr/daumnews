@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-14T15:20:49.845Z</updated>
+    <updated>2023-12-14T16:21:45.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세계 첫 AI 노트북 ‘갤럭시 북4’ 내년 1월 나온다]]></title>
+        <id>https://v.daum.net/v/20231215000014468</id>
+        <link href="https://v.daum.net/v/20231215000014468"/>
+        <updated>2023-12-14T16:21:00.227Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최단거리 택시 우선 배차…카카오T 이용자 불만 없을까]]></title>
         <id>https://v.daum.net/v/20231215000015469</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231214185332533"/>
         <updated>2023-12-14T10:21:46.392Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이폰 'C타입' 어기면 과태료…삼성페이도 풀리나]]></title>
-        <id>https://v.daum.net/v/20231214182406968</id>
-        <link href="https://v.daum.net/v/20231214182406968"/>
-        <updated>2023-12-14T10:21:46.393Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
