@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-14T17:18:43.313Z</updated>
+    <updated>2023-12-14T18:24:53.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231214202342022"/>
         <updated>2023-12-14T15:20:12.562Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["공공SW 예산 증액 없으면 장애 또 발생…단가·사업방식 현실화해야"]]></title>
+        <id>https://v.daum.net/v/20231214185332533</id>
+        <link href="https://v.daum.net/v/20231214185332533"/>
+        <updated>2023-12-14T18:24:12.641Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이폰 'C타입' 어기면 과태료…삼성페이도 풀리나]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231214170001398"/>
         <updated>2023-12-14T09:18:48.116Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오엔터프라이즈, 비즈 사업부 물적분할…자회사 '케이이피' 설립]]></title>
-        <id>https://v.daum.net/v/20231214165819345</id>
-        <link href="https://v.daum.net/v/20231214165819345"/>
-        <updated>2023-12-14T09:18:48.117Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
