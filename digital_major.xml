@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-14T19:16:31.744Z</updated>
+    <updated>2023-12-14T20:21:04.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[선거 앞둔 나라마다 ‘AI 가짜 뉴스’ 몸살]]></title>
+        <id>https://v.daum.net/v/20231215041655670</id>
+        <link href="https://v.daum.net/v/20231215041655670"/>
+        <updated>2023-12-14T20:20:32.822Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[회원 480만 골프존, 해킹에 고객 정보 털렸다]]></title>
         <id>https://v.daum.net/v/20231214202342022</id>
         <link href="https://v.daum.net/v/20231214202342022"/>
         <updated>2023-12-14T15:20:12.562Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“대체 얼마만에 18만원이냐?” 지긋지긋 추락…셀트리온 상승 이제 시작?]]></title>
+        <id>https://v.daum.net/v/20231214193135145</id>
+        <link href="https://v.daum.net/v/20231214193135145"/>
+        <updated>2023-12-14T20:20:32.826Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정부 R&D 참여 외국인 비중 3.2%…중국·인도·베트남·미국·파키스탄 순]]></title>
+        <id>https://v.daum.net/v/20231214190417724</id>
+        <link href="https://v.daum.net/v/20231214190417724"/>
+        <updated>2023-12-14T20:20:32.828Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["공공SW 예산 증액 없으면 장애 또 발생…단가·사업방식 현실화해야"]]></title>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20231214171737991"/>
         <updated>2023-12-14T10:21:54.198Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["반전의 반전의 반전" 2023년 최악의 게임들의 대역습]]></title>
-        <id>https://v.daum.net/v/20231214170906781</id>
-        <link href="https://v.daum.net/v/20231214170906781"/>
-        <updated>2023-12-14T10:21:54.198Z</updated>
-        <content type="html"><![CDATA[게임동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[냉각제 누설된 한빛 5호기, 보완 작업 완료…안전 점검 추가 진행]]></title>
-        <id>https://v.daum.net/v/20231214170226556</id>
-        <link href="https://v.daum.net/v/20231214170226556"/>
-        <updated>2023-12-14T09:18:48.114Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI로 '라니냐' 분석, VR 콘텐츠 제작…선생님들의 특별한 수업]]></title>
-        <id>https://v.daum.net/v/20231214170001398</id>
-        <link href="https://v.daum.net/v/20231214170001398"/>
-        <updated>2023-12-14T09:18:48.116Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
