@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-14T12:34:30.356Z</updated>
+    <updated>2023-12-14T13:23:49.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“어쩌다 이 지경까지” 1위 국민 포털 처참한 몰락…충격적 사태 나온다?]]></title>
+        <id>https://v.daum.net/v/20231214215228298</id>
+        <link href="https://v.daum.net/v/20231214215228298"/>
+        <updated>2023-12-14T13:23:10.605Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[과·기·부] 밤하늘 수놓는 ‘유성우 현상’…왜 일어날까?]]></title>
         <id>https://v.daum.net/v/20231214202126997</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231214182406968"/>
         <updated>2023-12-14T10:21:46.393Z</updated>
         <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["공공 행정망 장애, 대기업 들어와도 예산 안 늘면 해결 안 된다"]]></title>
-        <id>https://v.daum.net/v/20231214180114410</id>
-        <link href="https://v.daum.net/v/20231214180114410"/>
-        <updated>2023-12-14T09:18:38.767Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
