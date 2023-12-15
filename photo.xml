@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-12-15T17:22:14.662Z</updated>
+    <updated>2023-12-15T18:23:44.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1682593/WYgZ1L5JHl"/>
         <updated>2023-12-15T16:24:10.401Z</updated>
         <content type="html"><![CDATA[대한민국 대통령실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[날아라 자전거]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/t83JmKrqI9</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/t83JmKrqI9"/>
+        <updated>2023-12-15T18:23:19.845Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[썰매 타고, 눈 치우고…대관령 눈 내린 날 두가지 풍경[청계천 옆 사진관]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1476/5C7tRuA0Uu"/>
         <updated>2023-12-15T07:18:11.339Z</updated>
         <content type="html"><![CDATA[미국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <가여운 것들> 시사회서 포즈 취하는 엠마 스톤]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/2329/QLb9c6lf7V</id>
-        <link href="https://gallery.v.daum.net/p/viewer/2329/QLb9c6lf7V"/>
-        <updated>2023-12-15T06:24:10.364Z</updated>
-        <content type="html"><![CDATA[영국은 지금]]></content>
     </entry>
 </feed>
