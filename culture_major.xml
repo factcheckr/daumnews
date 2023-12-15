@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-12-15T16:24:32.325Z</updated>
+    <updated>2023-12-15T17:22:14.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아내가 바람났다는데… 진실은 어디에]]></title>
+        <id>https://v.daum.net/v/20231215230903753</id>
+        <link href="https://v.daum.net/v/20231215230903753"/>
+        <updated>2023-12-15T17:21:23.272Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[생리 때면 꼭 질염이… 말 못할 고민 있다면?]]></title>
         <id>https://v.daum.net/v/20231215230016713</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231215194435070"/>
         <updated>2023-12-15T13:22:12.533Z</updated>
         <content type="html"><![CDATA[EBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[약국서 쉽게 살 수 있는 '비만약' 먹어보고 싶다면… [이게뭐약]]]></title>
-        <id>https://v.daum.net/v/20231215184514760</id>
-        <link href="https://v.daum.net/v/20231215184514760"/>
-        <updated>2023-12-15T13:22:12.534Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
