@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-15T02:34:00.113Z</updated>
+    <updated>2023-12-15T03:20:43.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["2025년 ‘사이언스미디어센터’ 설립…독립 기관으로"]]></title>
+        <id>https://v.daum.net/v/20231215102213857</id>
+        <link href="https://v.daum.net/v/20231215102213857"/>
+        <updated>2023-12-15T03:20:06.026Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["갤S24 탑재 ‘엑시노스2400’ GPU 성능, 애플 A17 프로 칩 능가"]]></title>
         <id>https://v.daum.net/v/20231215101657642</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231215090105851"/>
         <updated>2023-12-15T02:33:18.458Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DJI 첫 '물류' 드론 美 FAA 허가...시장 진입 '초읽기']]></title>
-        <id>https://v.daum.net/v/20231215085901753</id>
-        <link href="https://v.daum.net/v/20231215085901753"/>
-        <updated>2023-12-15T01:17:24.498Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
