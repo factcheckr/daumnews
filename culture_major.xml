@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-12-15T18:23:44.158Z</updated>
+    <updated>2023-12-15T19:16:06.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안 그래도 차가운데…한파 두려운 ‘수족냉증’ 원인은?]]></title>
+        <id>https://v.daum.net/v/20231216000038151</id>
+        <link href="https://v.daum.net/v/20231216000038151"/>
+        <updated>2023-12-15T19:15:19.085Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예술의전당에 웬 다이너마이트? 관객들 반응도 폭발]]></title>
         <id>https://v.daum.net/v/20231215235901114</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231215190028086"/>
         <updated>2023-12-15T14:17:28.919Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[치과가 싫어할 책, 독자가 좋아합니다[책과 책 사이]]]></title>
-        <id>https://v.daum.net/v/20231215165319912</id>
-        <link href="https://v.daum.net/v/20231215165319912"/>
-        <updated>2023-12-15T13:22:12.532Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
