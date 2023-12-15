@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-12-15T20:20:28.073Z</updated>
+    <updated>2023-12-15T21:17:00.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기간제 교사 딸의 죽음, 학부모 폭언 밝혀졌지만···]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/46lp3cUNXd</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/46lp3cUNXd"/>
+        <updated>2023-12-15T21:16:31.618Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[참군인 추모 열기]]></title>
         <id>https://gallery.v.daum.net/p/viewer/212305/Ka4pYiXeJO</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615618/Gn5sYcUNDv"/>
         <updated>2023-12-15T07:18:11.333Z</updated>
         <content type="html"><![CDATA[오마이포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈 쌓인 모스크바 뒤로 보이는 푸틴 러 대통령]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1471/uxhxGkujUh</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1471/uxhxGkujUh"/>
-        <updated>2023-12-15T07:18:11.333Z</updated>
-        <content type="html"><![CDATA[세계의 정상들]]></content>
     </entry>
 </feed>
