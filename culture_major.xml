@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-12-16T18:22:33.963Z</updated>
+    <updated>2023-12-16T19:14:57.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘베란다 목공’, 가능할까…수공구, 전동공구, 목공기계 그리고 공간[김기자의 주말목공]]]></title>
-        <id>https://v.daum.net/v/20231216153402427</id>
-        <link href="https://v.daum.net/v/20231216153402427"/>
-        <updated>2023-12-16T08:21:11.531Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[유기동물과의 첫 만남..."새로운 가족 맞이 준비해요"]]></title>
         <id>https://v.daum.net/v/20231216201611074</id>
         <link href="https://v.daum.net/v/20231216201611074"/>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20231216214158504"/>
         <updated>2023-12-16T18:21:46.627Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 전국 한파 특보, 서해안 폭설‥당분간 맹추위]]></title>
+        <id>https://v.daum.net/v/20231216203944213</id>
+        <link href="https://v.daum.net/v/20231216203944213"/>
+        <updated>2023-12-16T19:14:15.412Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
