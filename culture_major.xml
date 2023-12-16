@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-12-16T06:23:24.777Z</updated>
+    <updated>2023-12-16T07:17:18.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[춥다고 국물 요리 많이 먹다간, 혈압 높아진다]]></title>
+        <id>https://v.daum.net/v/20231216123015128</id>
+        <link href="https://v.daum.net/v/20231216123015128"/>
+        <updated>2023-12-16T07:16:27.057Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["54년 전 떠난 친모가 아들 목숨값 챙기는 게 말이 되나요"]]></title>
         <id>https://v.daum.net/v/20231216120003896</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231216110031356"/>
         <updated>2023-12-16T03:19:15.822Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국화와 컴퓨터는 현대미술을 어떻게 만날까?[영감 한 스푼]]]></title>
-        <id>https://v.daum.net/v/20231216110009344</id>
-        <link href="https://v.daum.net/v/20231216110009344"/>
-        <updated>2023-12-16T03:19:15.823Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
