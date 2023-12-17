@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-12-17T09:17:59.077Z</updated>
+    <updated>2023-12-17T10:19:04.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베토벤부터 버르토크까지…김선욱 ‘경기필’ 2024 라인업 발표]]></title>
+        <id>https://v.daum.net/v/20231217191136487</id>
+        <link href="https://v.daum.net/v/20231217191136487"/>
+        <updated>2023-12-17T10:18:15.286Z</updated>
+        <content type="html"><![CDATA[경기일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['가짜 농사 이야기' 읽어주셨던 독자님들, 감사합니다]]></title>
         <id>https://v.daum.net/v/20231217174501303</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231217171613805"/>
         <updated>2023-12-17T08:21:32.873Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[IR52 장영실상] 니켈 20% 줄이고도 성능은 30% 개선 효과]]></title>
-        <id>https://v.daum.net/v/20231217170019578</id>
-        <link href="https://v.daum.net/v/20231217170019578"/>
-        <updated>2023-12-17T08:21:32.875Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
