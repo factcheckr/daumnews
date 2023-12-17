@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-12-17T18:22:24.984Z</updated>
+    <updated>2023-12-17T19:15:05.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[르포] 유리장에 들어간 라쿤, 미어캣…폐업 위기에 업주들은 '하소연']]></title>
+        <id>https://v.daum.net/v/20231218000029500</id>
+        <link href="https://v.daum.net/v/20231218000029500"/>
+        <updated>2023-12-17T19:14:17.238Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[그 영화 어때] 열흘 남은 2023년... 구로사와 아키라 감독이 전하는 송년 인사, 영화 ‘리빙’]]></title>
         <id>https://v.daum.net/v/20231218001025702</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231217091530327"/>
         <updated>2023-12-17T15:17:55.926Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 내일도 강력한파‥아침까지 서해안 눈]]></title>
-        <id>https://v.daum.net/v/20231217203413188</id>
-        <link href="https://v.daum.net/v/20231217203413188"/>
-        <updated>2023-12-17T14:15:32.461Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>

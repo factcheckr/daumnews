@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-12-17T18:22:24.990Z</updated>
+    <updated>2023-12-17T19:15:05.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,20 +18,6 @@
         <link href="https://v.daum.net/v/20231218030126112"/>
         <updated>2023-12-17T18:21:19.216Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸틴, 핀란드와 긴장 경고…"북서부에 군사력 증강"]]></title>
-        <id>https://v.daum.net/v/20231218011358984</id>
-        <link href="https://v.daum.net/v/20231218011358984"/>
-        <updated>2023-12-17T18:21:19.217Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탄도미사일 쏜 북한 “연말연시 美 도발 좌시 안 해”]]></title>
-        <id>https://v.daum.net/v/20231217235706453</id>
-        <link href="https://v.daum.net/v/20231217235706453"/>
-        <updated>2023-12-17T18:21:19.219Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘사고 뭉치’ 헌터, 바이든의 아픈 손가락 [UPDATE 2024]]]></title>
@@ -74,5 +60,19 @@
         <link href="https://v.daum.net/v/20231217220502863"/>
         <updated>2023-12-17T15:17:38.930Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘겨울왕국’ 중국 헤이룽장성 최저 -40도…빙등제 개막]]></title>
+        <id>https://v.daum.net/v/20231217213752661</id>
+        <link href="https://v.daum.net/v/20231217213752661"/>
+        <updated>2023-12-17T19:14:00.317Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“쓰레기 담나” 덮밥 체인점까지…여전한 중국 식품 위생 논란]]></title>
+        <id>https://v.daum.net/v/20231217213755662</id>
+        <link href="https://v.daum.net/v/20231217213755662"/>
+        <updated>2023-12-17T19:14:00.318Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
