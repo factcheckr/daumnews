@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2023-12-17T15:18:49.281Z</updated>
+    <updated>2023-12-17T16:22:41.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://v.daum.net/v/20231218000617683"/>
         <updated>2023-12-17T15:16:47.240Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“돈 썼지만 정책 잘못, 인구 중대본 필요”… 정부 초비상]]></title>
+        <id>https://v.daum.net/v/20231218000413601</id>
+        <link href="https://v.daum.net/v/20231218000413601"/>
+        <updated>2023-12-17T16:20:43.093Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“가족 돈과 시간 이용해먹는 ‘장기백수’… 답답해요”]]></title>
+        <id>https://v.daum.net/v/20231218000412600</id>
+        <link href="https://v.daum.net/v/20231218000412600"/>
+        <updated>2023-12-17T16:20:43.094Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[르포] 유리장에 들어간 라쿤, 미어캣…폐업 위기에 업주들은 '하소연']]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231217221647957"/>
         <updated>2023-12-17T15:16:47.248Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 남동구 호텔서 불...42명 부상]]></title>
-        <id>https://v.daum.net/v/20231217220930903</id>
-        <link href="https://v.daum.net/v/20231217220930903"/>
-        <updated>2023-12-17T15:16:47.249Z</updated>
-        <content type="html"><![CDATA[경기일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한파 속 30cm 넘는 눈…전북 서해안 대설특보]]></title>
-        <id>https://v.daum.net/v/20231217214734731</id>
-        <link href="https://v.daum.net/v/20231217214734731"/>
-        <updated>2023-12-17T15:16:47.251Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
