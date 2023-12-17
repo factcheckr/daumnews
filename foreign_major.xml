@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-12-17T04:22:39.355Z</updated>
+    <updated>2023-12-17T05:17:39.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[“경제 안좋아” 입도 뻥긋못해...입단속 나선 中]]></title>
+        <title type="html"><![CDATA[홍해 틀어막는 반군…"수에즈 못 간다" 전세계 물류대란 비상]]></title>
+        <id>https://v.daum.net/v/20231217131729717</id>
+        <link href="https://v.daum.net/v/20231217131729717"/>
+        <updated>2023-12-17T05:16:37.233Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이스라엘 공습에 촬영기자 사망하자…알자지라 "ICC에 회부할 것"]]></title>
+        <id>https://v.daum.net/v/20231217131559698</id>
+        <link href="https://v.daum.net/v/20231217131559698"/>
+        <updated>2023-12-17T05:16:37.234Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“개처럼 끌려가 맞았어요” 팔레스타인 10명이 이스라엘군에 당한 일 증언]]></title>
+        <id>https://v.daum.net/v/20231217123601229</id>
+        <link href="https://v.daum.net/v/20231217123601229"/>
+        <updated>2023-12-17T05:16:37.235Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“먹고 살기 힘들어” 말했다간 잡혀갈판…국민 ‘입단속’ 나선 중국]]></title>
         <id>https://v.daum.net/v/20231217120601928</id>
         <link href="https://v.daum.net/v/20231217120601928"/>
         <updated>2023-12-17T04:21:33.122Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["중국 스파이, 유럽 정치인 매수해 서방 분열 작전"]]></title>
-        <id>https://v.daum.net/v/20231217115645603</id>
-        <link href="https://v.daum.net/v/20231217115645603"/>
-        <updated>2023-12-17T04:21:33.122Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["미국의 대만 군사장비 판매 승인, 대만 지지 보여주는 것"]]></title>
@@ -27,14 +41,14 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美 올해의 거짓말쟁이에 바이든·트럼프... 한국은 누굴까]]></title>
+        <title type="html"><![CDATA[“한국은 누구”…올해의 거짓말쟁이에 ‘두 남자’ 나란히 뽑힌 미국]]></title>
         <id>https://v.daum.net/v/20231217113300350</id>
         <link href="https://v.daum.net/v/20231217113300350"/>
         <updated>2023-12-17T04:21:33.126Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밀가루 한 포대 13만원...220만명 굶주린 가자지구, 어린이 5천명 ‘위험’]]></title>
+        <title type="html"><![CDATA[밀가루 한 포대가 13만원…‘굶어죽는 사람’ 진짜 속출할 판]]></title>
         <id>https://v.daum.net/v/20231217113600379</id>
         <link href="https://v.daum.net/v/20231217113600379"/>
         <updated>2023-12-17T04:21:33.127Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231217111200022"/>
         <updated>2023-12-17T03:18:29.290Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 65세 이상 5명 중 1명이 일한다… “美경제에 도움”]]></title>
-        <id>https://v.daum.net/v/20231217110359903</id>
-        <link href="https://v.daum.net/v/20231217110359903"/>
-        <updated>2023-12-17T03:18:29.291Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스라엘, '백기 흔든' 자국민 사살 파장…'휴전 협상' 재개될까]]></title>
-        <id>https://v.daum.net/v/20231217104952638</id>
-        <link href="https://v.daum.net/v/20231217104952638"/>
-        <updated>2023-12-17T03:18:29.293Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
