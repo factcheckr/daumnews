@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-18T13:23:48.121Z</updated>
+    <updated>2023-12-18T14:20:33.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA['플랫폼법' 내일 국무회의 논의…암참은 "깊은 우려" 표명]]></title>
-        <id>https://v.daum.net/v/20231218215921018</id>
-        <link href="https://v.daum.net/v/20231218215921018"/>
-        <updated>2023-12-18T13:23:07.782Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[OTT 요금발 스트림플레이션 본격화…“디지털 이민 떠나요”]]></title>
         <id>https://v.daum.net/v/20231218215620994</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20231218174604172"/>
         <updated>2023-12-18T11:16:30.623Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인텔, 코어 울트라로 AI PC 1위 노린다… “경쟁사보다 성능 40% 우수”]]></title>
+        <id>https://v.daum.net/v/20231218174159012</id>
+        <link href="https://v.daum.net/v/20231218174159012"/>
+        <updated>2023-12-18T14:19:47.834Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
