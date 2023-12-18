@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-18T09:23:24.885Z</updated>
+    <updated>2023-12-18T10:21:19.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["누가 지웠나" 범인찾기…연합뉴스 '통일 유튜브' 무단 비공개 조치 논란]]></title>
+        <id>https://v.daum.net/v/20231218190007777</id>
+        <link href="https://v.daum.net/v/20231218190007777"/>
+        <updated>2023-12-18T10:20:43.880Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[속도 제한 걸린 모바일 데이터로 유튜브 볼 수 있을까?]]></title>
         <id>https://v.daum.net/v/20231218180103628</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231218165804720"/>
         <updated>2023-12-18T08:24:27.445Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온난화 주범, 외양간서 배출되는 ‘메탄’ 제거법 찾았다]]></title>
-        <id>https://v.daum.net/v/20231218170013787</id>
-        <link href="https://v.daum.net/v/20231218170013787"/>
-        <updated>2023-12-18T08:24:27.447Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
