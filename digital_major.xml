@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-19T09:20:34.310Z</updated>
+    <updated>2023-12-19T10:20:18.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -13,7 +13,21 @@
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["안 그래도 기운 운동장인데…생성형AI 경쟁서 K-플랫폼 더 위축될 수도"]]></title>
+        <title type="html"><![CDATA[침팬지, 25년 이상 못본 동료 얼굴 알아본다]]></title>
+        <id>https://v.daum.net/v/20231219174612783</id>
+        <link href="https://v.daum.net/v/20231219174612783"/>
+        <updated>2023-12-19T10:19:48.755Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["알리 등 中기업 반사익···AI경쟁 타이밍 놓칠 것"]]></title>
+        <id>https://v.daum.net/v/20231219173305354</id>
+        <link href="https://v.daum.net/v/20231219173305354"/>
+        <updated>2023-12-19T10:19:48.756Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[`플랫폼 독과점` 막겠다지만… 업계 "지금도 규제많은데" 하소연]]></title>
         <id>https://v.daum.net/v/20231219172916211</id>
         <link href="https://v.daum.net/v/20231219172916211"/>
         <updated>2023-12-19T09:20:00.120Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231219165050907"/>
         <updated>2023-12-19T09:20:00.131Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美기업도 반대하는데…플랫폼법 강행에 업계 '허탈·반발']]></title>
-        <id>https://v.daum.net/v/20231219164830826</id>
-        <link href="https://v.daum.net/v/20231219164830826"/>
-        <updated>2023-12-19T08:23:13.377Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마구잡이로 세운 도로변 울타리 탓에 ‘멸종위기 산양’ 아사 위기]]></title>
-        <id>https://v.daum.net/v/20231219161809726</id>
-        <link href="https://v.daum.net/v/20231219161809726"/>
-        <updated>2023-12-19T08:23:13.379Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
