@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-19T18:20:15.111Z</updated>
+    <updated>2023-12-19T19:15:04.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[게임 사자후]  게임 과몰입, 불안·우울증 원인이 된다는 착각]]></title>
+        <id>https://v.daum.net/v/20231220040219101</id>
+        <link href="https://v.daum.net/v/20231220040219101"/>
+        <updated>2023-12-19T19:14:32.019Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휴대폰 요금 드디어 싸질까…‘4번째 통신사’ 도전장 내민 두 기업]]></title>
         <id>https://v.daum.net/v/20231219232700004</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231219191444717"/>
         <updated>2023-12-19T10:19:40.722Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5G 28㎓ 주파수 신청 '삼파전'…통신 독과점 깰 제4이통사 나올까]]></title>
-        <id>https://v.daum.net/v/20231219190654568</id>
-        <link href="https://v.daum.net/v/20231219190654568"/>
-        <updated>2023-12-19T10:19:40.722Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
