@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-12-19T12:34:52.661Z</updated>
+    <updated>2023-12-19T13:22:26.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강추위에 기계 녹여가며 작업…"경복궁 50% 복구"]]></title>
+        <id>https://v.daum.net/v/20231219202718059</id>
+        <link href="https://v.daum.net/v/20231219202718059"/>
+        <updated>2023-12-19T13:21:31.679Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[경남人] 목공예와 옻칠의 변주 50년…목칠공예가 유상목]]></title>
+        <id>https://v.daum.net/v/20231219200754588</id>
+        <link href="https://v.daum.net/v/20231219200754588"/>
+        <updated>2023-12-19T13:21:31.680Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추워지니 너무 자주 마려운 소변… 참아도 괜찮을까?]]></title>
         <id>https://v.daum.net/v/20231219200015399</id>
         <link href="https://v.daum.net/v/20231219200015399"/>
         <updated>2023-12-19T12:34:02.871Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 대구·경북 곳곳 내일 아침까지 눈…출근길 ‘도로 미끄럼 주의’]]></title>
-        <id>https://v.daum.net/v/20231219195036230</id>
-        <link href="https://v.daum.net/v/20231219195036230"/>
-        <updated>2023-12-19T12:34:02.874Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[詩로 풀어낸 육신의 필멸과 고통… “인간의 100년은 참 쓸쓸해”]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231219181915709"/>
         <updated>2023-12-19T11:15:34.813Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요절한 천재 화가 모딜리아니·실레…이들이 그린 세상을 뮤지컬로 보다]]></title>
-        <id>https://v.daum.net/v/20231219181701651</id>
-        <link href="https://v.daum.net/v/20231219181701651"/>
-        <updated>2023-12-19T10:19:31.889Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>

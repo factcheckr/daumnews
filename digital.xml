@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-19T12:34:52.665Z</updated>
+    <updated>2023-12-19T13:22:26.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘잘 터지는 5G’ 가능할까…소형 기지국 개발]]></title>
-        <id>https://v.daum.net/v/20231219201715815</id>
-        <link href="https://v.daum.net/v/20231219201715815"/>
-        <updated>2023-12-19T12:34:13.088Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[7번 실패한 제4통신사 이번에도 대기업 지원 없이 마감…재무 능력 검증 통과할까]]></title>
         <id>https://v.daum.net/v/20231219191444717</id>
         <link href="https://v.daum.net/v/20231219191444717"/>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20231219190654568"/>
         <updated>2023-12-19T10:19:40.722Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대기업 도전 없는 `제4이통`…재무건전성 확보여부 관건]]></title>
+        <id>https://v.daum.net/v/20231219184026156</id>
+        <link href="https://v.daum.net/v/20231219184026156"/>
+        <updated>2023-12-19T13:21:39.302Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
