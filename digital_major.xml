@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-19T05:19:59.121Z</updated>
+    <updated>2023-12-19T06:23:52.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안철수 "과학기술, 외교·안보와 병합…美국무부, 데이터과학자 채용"]]></title>
+        <id>https://v.daum.net/v/20231219140812883</id>
+        <link href="https://v.daum.net/v/20231219140812883"/>
+        <updated>2023-12-19T06:23:27.302Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“나 언제쯤 죽을까”…AI에 물어봤더니 정확도가 ‘깜짝’]]></title>
+        <id>https://v.daum.net/v/20231219135716419</id>
+        <link href="https://v.daum.net/v/20231219135716419"/>
+        <updated>2023-12-19T06:23:27.302Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中화웨이 5G폰 또 공개했다…판매량 폭증하며 애플 추격]]></title>
+        <id>https://v.daum.net/v/20231219131011292</id>
+        <link href="https://v.daum.net/v/20231219131011292"/>
+        <updated>2023-12-19T06:23:27.303Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알뜰폰에서 이통사로…스테이지파이브·세종텔 제4이통 도전]]></title>
+        <id>https://v.daum.net/v/20231219132217538</id>
+        <link href="https://v.daum.net/v/20231219132217538"/>
+        <updated>2023-12-19T06:23:27.304Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["공룡 플랫폼 사전 규제, 이유는"…입법화는 '산 넘어 산']]></title>
+        <id>https://v.daum.net/v/20231219120102907</id>
+        <link href="https://v.daum.net/v/20231219120102907"/>
+        <updated>2023-12-19T06:23:27.305Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네카오 독점력 남용에 “강력한 법 집행”… 사전규제 논란도]]></title>
+        <id>https://v.daum.net/v/20231219120613118</id>
+        <link href="https://v.daum.net/v/20231219120613118"/>
+        <updated>2023-12-19T06:23:27.307Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전기 만들고 촬영까지 한 소자로…KIST, 유기물 광전자장치 개발]]></title>
         <id>https://v.daum.net/v/20231219120044869</id>
@@ -20,13 +62,6 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]28㎓ 제4이통에 마이모바일·세종텔레콤 신청…스테이지파이브 고심]]></title>
-        <id>https://v.daum.net/v/20231219113403520</id>
-        <link href="https://v.daum.net/v/20231219113403520"/>
-        <updated>2023-12-19T05:19:27.096Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GPT-5,  질병과 싸우는 모기, 중성자 질량 규명… 2024년 기대되는 과학성과]]></title>
         <id>https://v.daum.net/v/20231219103335512</id>
         <link href="https://v.daum.net/v/20231219103335512"/>
@@ -39,40 +74,5 @@
         <link href="https://v.daum.net/v/20231219102932317"/>
         <updated>2023-12-19T04:22:24.041Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["애플, 아이폰16 프로 카메라에 더 힘준다"]]></title>
-        <id>https://v.daum.net/v/20231219102427107</id>
-        <link href="https://v.daum.net/v/20231219102427107"/>
-        <updated>2023-12-19T04:22:24.043Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IPO 성공했지만…주가 희비 갈린 '바이오']]></title>
-        <id>https://v.daum.net/v/20231219102003887</id>
-        <link href="https://v.daum.net/v/20231219102003887"/>
-        <updated>2023-12-19T03:20:34.095Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ICT 2023 결산④] 이통3사 순위 지각변동...안정적인 SKT, 희비 교차한 KT·LGU+]]></title>
-        <id>https://v.daum.net/v/20231219095008593</id>
-        <link href="https://v.daum.net/v/20231219095008593"/>
-        <updated>2023-12-19T03:20:34.096Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제임스웹으로 본 ‘별의 주검’…죽어서도 찬란한 초신성]]></title>
-        <id>https://v.daum.net/v/20231219093508990</id>
-        <link href="https://v.daum.net/v/20231219093508990"/>
-        <updated>2023-12-19T02:30:47.549Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["갤럭시S24는 8GB 램.. S24+·S24울트라 12GB 램" [1일IT템]]]></title>
-        <id>https://v.daum.net/v/20231219060039759</id>
-        <link href="https://v.daum.net/v/20231219060039759"/>
-        <updated>2023-12-19T02:30:47.550Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
