@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-12-19T15:19:44.769Z</updated>
+    <updated>2023-12-19T16:21:40.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[겨울이라지만 입가 유난히 잘 튼다면… ‘이 영양소’ 부족한 탓일 수도]]></title>
+        <id>https://v.daum.net/v/20231219220015512</id>
+        <link href="https://v.daum.net/v/20231219220015512"/>
+        <updated>2023-12-19T16:20:52.035Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4인가족 공연 관람 60만원… 펀(Fun)플레이션에 “연말이 두렵다”]]></title>
         <id>https://v.daum.net/v/20231219210309677</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231219185913441"/>
         <updated>2023-12-19T12:34:02.877Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아픈 엄마 돌보면 오히려 우울증 나아진다?...왜일까?]]></title>
-        <id>https://v.daum.net/v/20231219181039521</id>
-        <link href="https://v.daum.net/v/20231219181039521"/>
-        <updated>2023-12-19T12:34:02.879Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>

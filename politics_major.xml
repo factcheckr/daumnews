@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-12-19T15:19:44.764Z</updated>
+    <updated>2023-12-19T16:21:40.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20231220000137221"/>
         <updated>2023-12-19T15:18:14.990Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尹 검찰총장 정직 징계 취소… 계속되는 정치권 논란]]></title>
+        <id>https://v.daum.net/v/20231219230026882</id>
+        <link href="https://v.daum.net/v/20231219230026882"/>
+        <updated>2023-12-19T16:19:56.994Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아직도 이런 일이…“우리 남편 선거 잘 부탁해요” 돈 건넨 후보 배우자]]></title>
+        <id>https://v.daum.net/v/20231219222100685</id>
+        <link href="https://v.daum.net/v/20231219222100685"/>
+        <updated>2023-12-19T16:19:56.995Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[송영길 구속…여 "운동권의 윤리적 몰락", 야 "탈당한 사람"]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231219212752095"/>
         <updated>2023-12-19T13:20:36.746Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스하이킥] 용혜인 "한동훈 비대위? 잘 되면 노태우 못 되면 이기붕"]]></title>
-        <id>https://v.daum.net/v/20231219212630074</id>
-        <link href="https://v.daum.net/v/20231219212630074"/>
-        <updated>2023-12-19T13:20:36.749Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소 '시민 참여' 정치인 소셜인터뷰 눈길]]></title>
-        <id>https://v.daum.net/v/20231219212232016</id>
-        <link href="https://v.daum.net/v/20231219212232016"/>
-        <updated>2023-12-19T13:20:36.753Z</updated>
-        <content type="html"><![CDATA[기자협회보]]></content>
     </entry>
 </feed>
