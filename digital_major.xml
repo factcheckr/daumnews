@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-19T17:15:12.376Z</updated>
+    <updated>2023-12-19T18:20:15.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플, 美서 애플워치 일부 제품 판매 일시 중단]]></title>
+        <id>https://v.daum.net/v/20231220030239875</id>
+        <link href="https://v.daum.net/v/20231220030239875"/>
+        <updated>2023-12-19T18:19:42.494Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대기업 도전 없는 `제4이통`…재무건전성 확보여부 관건]]></title>
         <id>https://v.daum.net/v/20231219184026156</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231219171239689"/>
         <updated>2023-12-19T09:20:00.121Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[끊김 없는 풀HD 화질…네이버 '치지직' 출격]]></title>
-        <id>https://v.daum.net/v/20231219170204347</id>
-        <link href="https://v.daum.net/v/20231219170204347"/>
-        <updated>2023-12-19T09:20:00.123Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
