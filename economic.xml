@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-12-19T16:21:40.476Z</updated>
+    <updated>2023-12-19T17:15:12.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금리 인하 기대에 美 주택 착공 15% 증가]]></title>
+        <id>https://v.daum.net/v/20231220020247727</id>
+        <link href="https://v.daum.net/v/20231220020247727"/>
+        <updated>2023-12-19T17:13:35.622Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘홍해 위기’ 속 국제 유가 오름세 지속]]></title>
         <id>https://v.daum.net/v/20231220010236629</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231220000139224"/>
         <updated>2023-12-19T15:18:22.818Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내년 실적에 쏠리는 눈…산타랠리 후에도 버틸 종목은]]></title>
-        <id>https://v.daum.net/v/20231220000102212</id>
-        <link href="https://v.daum.net/v/20231220000102212"/>
-        <updated>2023-12-19T15:18:22.820Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
