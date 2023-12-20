@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-12-20T16:22:59.735Z</updated>
+    <updated>2023-12-20T17:17:43.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서방, 러시아  자산 2600억 유로 동결]]></title>
+        <id>https://v.daum.net/v/20231221000259911</id>
+        <link href="https://v.daum.net/v/20231221000259911"/>
+        <updated>2023-12-20T17:16:32.346Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국 간쑤성 지진 1단계 구조작업 종료…부상자 치료 집중]]></title>
+        <id>https://v.daum.net/v/20231221001826081</id>
+        <link href="https://v.daum.net/v/20231221001826081"/>
+        <updated>2023-12-20T17:16:32.348Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[때리고 물고문… 구독자 250만 ‘엄마 유튜버’ 두 얼굴]]></title>
         <id>https://v.daum.net/v/20231221000605004</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231220231435530"/>
         <updated>2023-12-20T15:15:49.428Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU 이민 문턱 더 높아진다…생체 판독에 구금 기간도 길어져(종합)]]></title>
-        <id>https://v.daum.net/v/20231220231018505</id>
-        <link href="https://v.daum.net/v/20231220231018505"/>
-        <updated>2023-12-20T15:15:49.429Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美국방, 중동 주둔 항공모함 깜짝 방문…갈등 고조 경계]]></title>
-        <id>https://v.daum.net/v/20231220225620381</id>
-        <link href="https://v.daum.net/v/20231220225620381"/>
-        <updated>2023-12-20T15:15:49.430Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
