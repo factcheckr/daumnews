@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-20T12:34:04.609Z</updated>
+    <updated>2023-12-20T13:18:12.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘갤럭시S24’ 공개 한달 앞으로…‘AI’ 어디까지 적용되나]]></title>
+        <id>https://v.daum.net/v/20231220175823739</id>
+        <link href="https://v.daum.net/v/20231220175823739"/>
+        <updated>2023-12-20T13:17:41.378Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IRA에 울고 웃은 1년...배터리 '혼조세' 정유업 세밑 '직격탄']]></title>
         <id>https://v.daum.net/v/20231220170208843</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231220160104413"/>
         <updated>2023-12-20T08:20:44.325Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제4 이통사에 어떤 ‘도깨비 방망이’가 있을까]]></title>
-        <id>https://v.daum.net/v/20231220104033359</id>
-        <link href="https://v.daum.net/v/20231220104033359"/>
-        <updated>2023-12-20T08:20:44.326Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>

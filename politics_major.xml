@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-12-20T12:34:04.598Z</updated>
+    <updated>2023-12-20T13:18:12.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231220205908971"/>
         <updated>2023-12-20T12:32:20.101Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴스하이킥] 박지원 "한동훈 = 이순신? 오히려 원균된다"]]></title>
+        <id>https://v.daum.net/v/20231220205722936</id>
+        <link href="https://v.daum.net/v/20231220205722936"/>
+        <updated>2023-12-20T13:16:32.175Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[민주당 “한동훈, 김건희 여사 대변인인가…방탄 열심”]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231220202209385"/>
         <updated>2023-12-20T12:32:20.113Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤 대통령, 사흘 연속 대북 메시지‥야당 "허세이자 안보 무능"]]></title>
-        <id>https://v.daum.net/v/20231220202204383</id>
-        <link href="https://v.daum.net/v/20231220202204383"/>
-        <updated>2023-12-20T12:32:20.114Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
