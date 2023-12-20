@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-20T14:15:41.056Z</updated>
+    <updated>2023-12-20T15:17:02.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘태양광 죽이기’ 영향?… 올 하반기 태양광 발전 설비 입찰률 6%]]></title>
+        <id>https://v.daum.net/v/20231220234007712</id>
+        <link href="https://v.daum.net/v/20231220234007712"/>
+        <updated>2023-12-20T15:16:18.310Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“이러면 다들 아이폰 산다” 애플 접는폰 출시 윤곽…삼성 초비상?]]></title>
         <id>https://v.daum.net/v/20231220221357099</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231220180610050"/>
         <updated>2023-12-20T09:15:31.153Z</updated>
         <content type="html"><![CDATA[농민신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글·네이버보다 女직원 비중 높은 ‘카카오’… 인재 다양성 모범 기업으로]]></title>
-        <id>https://v.daum.net/v/20231220175837747</id>
-        <link href="https://v.daum.net/v/20231220175837747"/>
-        <updated>2023-12-20T09:15:31.155Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
