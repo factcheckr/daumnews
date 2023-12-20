@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-12-20T18:23:33.776Z</updated>
+    <updated>2023-12-20T19:15:00.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['암 전이'에 영향 주는 화학물질, 집안 물건 중 조심해야 할 것은?]]></title>
+        <id>https://v.daum.net/v/20231221000115848</id>
+        <link href="https://v.daum.net/v/20231221000115848"/>
+        <updated>2023-12-20T19:14:13.786Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머리 민 의사·한약사들 "한약에 건보 적용 확대 안 돼" vs 한의사들 "추태"]]></title>
         <id>https://v.daum.net/v/20231220225104352</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231220210148027"/>
         <updated>2023-12-20T14:14:46.808Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“평생 마실 소주 1만병 한계”…남은 소주가 몇 병입니까]]></title>
-        <id>https://v.daum.net/v/20231220202308419</id>
-        <link href="https://v.daum.net/v/20231220202308419"/>
-        <updated>2023-12-20T12:33:12.545Z</updated>
-        <content type="html"><![CDATA[한겨레21]]></content>
     </entry>
 </feed>
