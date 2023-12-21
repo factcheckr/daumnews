@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-12-21T20:19:54.219Z</updated>
+    <updated>2023-12-21T21:19:03.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바다까지 얼린 '최강 추위']]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/VioV70S4Yk</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/VioV70S4Yk"/>
+        <updated>2023-12-21T21:18:34.984Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한파 취약 가구 챙기는 尹]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1682593/q5tENLVsmS</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5030466/xodP8Zsb7W"/>
         <updated>2023-12-21T07:17:19.326Z</updated>
         <content type="html"><![CDATA[독일은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투표소 나서며 지지자들에 손 흔드는 민주콩고 대통령]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1471/xlknJuyPzR</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1471/xlknJuyPzR"/>
-        <updated>2023-12-21T07:17:19.328Z</updated>
-        <content type="html"><![CDATA[세계의 정상들]]></content>
     </entry>
 </feed>
