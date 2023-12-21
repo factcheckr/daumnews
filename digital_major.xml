@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-21T18:22:00.299Z</updated>
+    <updated>2023-12-21T19:17:59.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["K팝 팬들, 사흘에 한 번 '위버스' 찾았다"]]></title>
+        <id>https://v.daum.net/v/20231221203423562</id>
+        <link href="https://v.daum.net/v/20231221203423562"/>
+        <updated>2023-12-21T19:17:18.822Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 50%·유튜브 78%...토종 OTT는 숨 쉴 공간이 없다]]></title>
         <id>https://v.daum.net/v/20231221200102081</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231221173003327"/>
         <updated>2023-12-21T10:19:56.190Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["원진레이온 산재 피해, 문화·예술로 치유해요"]]></title>
-        <id>https://v.daum.net/v/20231221171217659</id>
-        <link href="https://v.daum.net/v/20231221171217659"/>
-        <updated>2023-12-21T09:18:27.719Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
