@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-22T11:16:40.521Z</updated>
+    <updated>2023-12-22T12:32:57.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231222173602445"/>
         <updated>2023-12-22T09:18:32.797Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[산타는 어디쯤 왔을까?"... 노라드, 올해 첫 '한글 산타 추적 서비스' [앵커리포트]]]></title>
+        <id>https://v.daum.net/v/20231222173116349</id>
+        <link href="https://v.daum.net/v/20231222173116349"/>
+        <updated>2023-12-22T12:32:30.488Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[출연연과학자들 “예산삭감에 현장만 혼란…도전적 연구하려면 제도 개선 먼저”]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231222144415251"/>
         <updated>2023-12-22T08:22:43.626Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코인 자체운용 괜찮을까?…델리오 주장 살펴보니]]></title>
-        <id>https://v.daum.net/v/20231222142403534</id>
-        <link href="https://v.daum.net/v/20231222142403534"/>
-        <updated>2023-12-22T10:24:15.811Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>
