@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-12-23T14:16:37.899Z</updated>
+    <updated>2023-12-23T15:17:37.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[비즈토크<상>] '2024 경제계 신년인사회' 중기중앙회 개최…"특별 의미는 뭐죠?"]]></title>
+        <id>https://v.daum.net/v/20231224000040535</id>
+        <link href="https://v.daum.net/v/20231224000040535"/>
+        <updated>2023-12-23T15:16:14.911Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미·중 기술전쟁 2라운드… 반도체 vs 희토류]]></title>
+        <id>https://v.daum.net/v/20231223210248951</id>
+        <link href="https://v.daum.net/v/20231223210248951"/>
+        <updated>2023-12-23T15:16:14.912Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영화로 읽는 세상] 재미없는 천국 재미있는 지옥 재미없는 지옥]]></title>
         <id>https://v.daum.net/v/20231223214300301</id>
         <link href="https://v.daum.net/v/20231223214300301"/>
         <updated>2023-12-23T14:15:15.221Z</updated>
         <content type="html"><![CDATA[더스쿠프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주식 '큰손' 양도세 기준 대폭 완화...득과 실은?]]></title>
-        <id>https://v.daum.net/v/20231223223428872</id>
-        <link href="https://v.daum.net/v/20231223223428872"/>
-        <updated>2023-12-23T14:15:15.225Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“정부 믿고 분양받았는데”…실거주 폐지 지연에 혼돈]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231223220118499"/>
         <updated>2023-12-23T13:18:52.859Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘제주 한달살이’ 年 3만5000여명… ‘워라밸’ 수도권 청년 다수]]></title>
-        <id>https://v.daum.net/v/20231223214927341</id>
-        <link href="https://v.daum.net/v/20231223214927341"/>
-        <updated>2023-12-23T13:18:52.859Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
