@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-23T03:19:16.910Z</updated>
+    <updated>2023-12-23T04:23:10.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[위클리 스마트] 유료화라는 '역설적' 전략 선택한 메타]]></title>
+        <id>https://v.daum.net/v/20231223100006177</id>
+        <link href="https://v.daum.net/v/20231223100006177"/>
+        <updated>2023-12-23T04:22:35.027Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["애플, 생성 AI 학습 위해 언론사 접촉…최소 651억원 규모 제안”]]></title>
         <id>https://v.daum.net/v/20231223100018196</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쌍둥이 실험으로 확인한 채식의 효과]]></title>
+        <title type="html"><![CDATA[쌍둥이 실험했더니…채식이 심혈관 건강 개선에 효과]]></title>
         <id>https://v.daum.net/v/20231223091502784</id>
         <link href="https://v.daum.net/v/20231223091502784"/>
         <updated>2023-12-23T02:25:36.998Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231223080012067"/>
         <updated>2023-12-23T01:12:34.421Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 국가고시 시험장 확 바뀐다…메타버스부터 웹브라우저까지]]></title>
-        <id>https://v.daum.net/v/20231223075502020</id>
-        <link href="https://v.daum.net/v/20231223075502020"/>
-        <updated>2023-12-22T23:21:47.087Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>

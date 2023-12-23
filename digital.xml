@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-23T03:19:16.908Z</updated>
+    <updated>2023-12-23T04:23:10.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘크리스마스 식물’ 포인세티아·호랑가시나무의 위험성 너무 과대평가 됐다]]></title>
+        <id>https://v.daum.net/v/20231223122027462</id>
+        <link href="https://v.daum.net/v/20231223122027462"/>
+        <updated>2023-12-23T04:22:24.423Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘크리에이터’ 잡기 나선 유튜브·인스타·틱톡… 후원 시스템·구독 모델 도입]]></title>
         <id>https://v.daum.net/v/20231223060042101</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231223101029358"/>
         <updated>2023-12-23T01:12:21.693Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[위클리 스마트] 유료화라는 '역설적' 전략 선택한 메타]]></title>
-        <id>https://v.daum.net/v/20231223100006177</id>
-        <link href="https://v.daum.net/v/20231223100006177"/>
-        <updated>2023-12-23T01:12:21.695Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
