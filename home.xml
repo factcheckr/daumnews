@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2023-12-23T16:22:14.508Z</updated>
+    <updated>2023-12-23T17:16:16.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[WHO "4주간 코로나19 확진자 52% 증가…사망자는 8% 감소"]]></title>
-        <id>https://v.daum.net/v/20231224005422776</id>
-        <link href="https://v.daum.net/v/20231224005422776"/>
-        <updated>2023-12-23T16:20:01.118Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 눈 내리는 크리스마스이브‥낮은 영상권]]></title>
         <id>https://v.daum.net/v/20231224002208682</id>
@@ -144,5 +137,12 @@
         <link href="https://v.daum.net/v/20231223193158486"/>
         <updated>2023-12-23T13:17:58.529Z</updated>
         <content type="html"><![CDATA[경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프랑스 도서관서 잠자던 ‘광개토왕비 탁본’, 백여 년 만에 공개]]></title>
+        <id>https://v.daum.net/v/20231223214129295</id>
+        <link href="https://v.daum.net/v/20231223214129295"/>
+        <updated>2023-12-23T17:14:10.685Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
     </entry>
 </feed>

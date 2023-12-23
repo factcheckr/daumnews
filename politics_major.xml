@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-12-23T16:22:14.498Z</updated>
+    <updated>2023-12-23T17:16:16.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다시 천안함…13년 만에 서해 해역으로]]></title>
+        <id>https://v.daum.net/v/20231223212348182</id>
+        <link href="https://v.daum.net/v/20231223212348182"/>
+        <updated>2023-12-23T17:14:40.048Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[26년 만에 순직 인정됐지만‥보상금으로 또 '눈물']]></title>
         <id>https://v.daum.net/v/20231223202507256</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231223185405253"/>
         <updated>2023-12-23T11:14:14.550Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여야 '김건희 특검법' 공방…"총선용 선동" "반대 안했으면 이미 처리"]]></title>
-        <id>https://v.daum.net/v/20231223182122073</id>
-        <link href="https://v.daum.net/v/20231223182122073"/>
-        <updated>2023-12-23T10:17:27.333Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
