@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-24T01:20:02.285Z</updated>
+    <updated>2023-12-24T02:31:09.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[투자 확대하며 회사채 찍어낸 게임사 어쩌나]]></title>
+        <id>https://v.daum.net/v/20231224110003012</id>
+        <link href="https://v.daum.net/v/20231224110003012"/>
+        <updated>2023-12-24T02:30:30.869Z</updated>
+        <content type="html"><![CDATA[비즈워치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손톱만한 크기가 두근두근…심장질환 치료의 꿈]]></title>
         <id>https://v.daum.net/v/20231224100502490</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231224090507845"/>
         <updated>2023-12-24T01:19:21.971Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국정원 '간첩수사' 손 뗀다? 간첩 추적·정보분석은 여전히 가능]]></title>
-        <id>https://v.daum.net/v/20231224091001889</id>
-        <link href="https://v.daum.net/v/20231224091001889"/>
-        <updated>2023-12-24T01:19:21.972Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
