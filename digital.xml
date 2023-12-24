@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-24T02:31:09.263Z</updated>
+    <updated>2023-12-24T03:19:39.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[판도라TV 악몽 잊었나…中 기업에 안방 내주는 플랫폼법[사이다IT]]]></title>
+        <id>https://v.daum.net/v/20231224120013654</id>
+        <link href="https://v.daum.net/v/20231224120013654"/>
+        <updated>2023-12-24T03:18:54.314Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투자 확대하며 회사채 찍어낸 게임사 어쩌나]]></title>
         <id>https://v.daum.net/v/20231224110003012</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231224093002056"/>
         <updated>2023-12-24T01:19:21.969Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영상] 우주에 ‘크리스마스 트리’가 있었다]]></title>
-        <id>https://v.daum.net/v/20231224090507845</id>
-        <link href="https://v.daum.net/v/20231224090507845"/>
-        <updated>2023-12-24T01:19:21.971Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
