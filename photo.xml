@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-12-24T13:20:14.452Z</updated>
+    <updated>2023-12-24T14:16:27.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[성탄대축일 미사 참석한 윤석열 대통령]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1682593/6PcgwwdYbq</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1682593/6PcgwwdYbq"/>
+        <updated>2023-12-24T14:15:59.553Z</updated>
+        <content type="html"><![CDATA[대한민국 대통령실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쌀케이크 어때요[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/09RACCg1vl</id>
@@ -53,6 +60,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033571/Wf06mSj3F2"/>
         <updated>2023-12-24T08:21:02.974Z</updated>
         <content type="html"><![CDATA[군 제공 포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘서울광장서 스케이트 즐겨요’...개장 첫 주말 풍경 [정동길 옆 사진관]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/661278/GpbSOTcpW2</id>
+        <link href="https://gallery.v.daum.net/p/viewer/661278/GpbSOTcpW2"/>
+        <updated>2023-12-24T14:15:59.563Z</updated>
+        <content type="html"><![CDATA[정동길 옆 사진관]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[부활한 ‘서해수호신’… 13년 만에 돌아온 천안함[원대연의 잡학사진]]]></title>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2329/poq5VofOVr"/>
         <updated>2023-12-23T03:18:55.326Z</updated>
         <content type="html"><![CDATA[영국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["산타는 오토바이지"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5035359/1ZvYBdbDqC</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5035359/1ZvYBdbDqC"/>
-        <updated>2023-12-23T03:18:55.326Z</updated>
-        <content type="html"><![CDATA[루마니아는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이 '우쭈쭈'하는 룰라 대통령]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1471/Gpy2oCg1VT</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1471/Gpy2oCg1VT"/>
-        <updated>2023-12-23T03:18:55.327Z</updated>
-        <content type="html"><![CDATA[세계의 정상들]]></content>
     </entry>
 </feed>
