@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-24T21:15:53.222Z</updated>
+    <updated>2023-12-24T22:18:42.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[7번 실패 끝에 재모집 나선 제4 이동통신…"성공 조건은 '자금력'"]]></title>
+        <id>https://v.daum.net/v/20231225063009083</id>
+        <link href="https://v.daum.net/v/20231225063009083"/>
+        <updated>2023-12-24T22:17:58.545Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["北 김영철 복귀… 내년 南 총선 겨냥 '영향력 공작' 벌일 듯"]]></title>
         <id>https://v.daum.net/v/20231225060011662</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231225060007655"/>
         <updated>2023-12-24T21:15:15.965Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주인 말 안 듣는 인공지능? 머스크는 우파, 머스크의 AI는 좌파]]></title>
-        <id>https://v.daum.net/v/20231225034359274</id>
-        <link href="https://v.daum.net/v/20231225034359274"/>
-        <updated>2023-12-24T20:18:06.746Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
