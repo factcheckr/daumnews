@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-12-25T14:17:30.602Z</updated>
+    <updated>2023-12-25T15:23:46.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/377110/UTjtLofOhl"/>
         <updated>2023-12-25T12:32:35.324Z</updated>
         <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성탄전야 미사 열린 우크라 키이우]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5033399/Bh9dedbDUs</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5033399/Bh9dedbDUs"/>
+        <updated>2023-12-25T15:23:20.895Z</updated>
+        <content type="html"><![CDATA[우크라이나는 지금]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[성탄 새벽 덮친 화재... 그 현장은 [포토多이슈]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1476/zcl0U3lfqK"/>
         <updated>2023-12-25T02:30:33.286Z</updated>
         <content type="html"><![CDATA[미국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성탄 조형물 설치 공원서 노는 모스크바 시민들]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/6637/Bo6d8VtnKK</id>
-        <link href="https://gallery.v.daum.net/p/viewer/6637/Bo6d8VtnKK"/>
-        <updated>2023-12-25T02:30:33.287Z</updated>
-        <content type="html"><![CDATA[러시아는 지금]]></content>
     </entry>
 </feed>
