@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-12-25T13:21:32.489Z</updated>
+    <updated>2023-12-25T14:17:30.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20231225214127732"/>
         <updated>2023-12-25T13:20:03.843Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저출생 여파?…유모차보다 더 많이 팔린 '개모차']]></title>
+        <id>https://v.daum.net/v/20231225210512394</id>
+        <link href="https://v.daum.net/v/20231225210512394"/>
+        <updated>2023-12-25T14:16:21.664Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국 기업 ‘초비상’…“바닷길 싹 다 막혔다” 해상운송료 폭등 조짐]]></title>
@@ -48,7 +55,7 @@
         <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[400가구 모집, 계약은 딱 2건…수도권도 '아파트 미분양' 속출]]></title>
+        <title type="html"><![CDATA[400가구 모집, 계약은 딱 2건…수도권도 '미분양 아파트' 속출]]></title>
         <id>https://v.daum.net/v/20231225203312091</id>
         <link href="https://v.daum.net/v/20231225203312091"/>
         <updated>2023-12-25T12:31:36.031Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231225201422869"/>
         <updated>2023-12-25T12:31:36.033Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[깐깐한 프랑스도 뚫었다…6년 만에 확 달라진 '정의선 車' [최수진의 나우앤카]]]></title>
-        <id>https://v.daum.net/v/20231225200401717</id>
-        <link href="https://v.daum.net/v/20231225200401717"/>
-        <updated>2023-12-25T12:31:36.035Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
