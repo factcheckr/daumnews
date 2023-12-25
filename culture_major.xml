@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-12-25T05:18:47.092Z</updated>
+    <updated>2023-12-25T06:24:40.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여의도순복음교회 성탄전야축제 '거룩한 기다림'…1800여 명 참여]]></title>
+        <id>https://v.daum.net/v/20231225122422099</id>
+        <link href="https://v.daum.net/v/20231225122422099"/>
+        <updated>2023-12-25T06:23:51.271Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[올해의 문화 인물] 가장 한국적인 서사로 세계인 사로잡은 한강 작가]]></title>
         <id>https://v.daum.net/v/20231225120810001</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231225105409805"/>
         <updated>2023-12-25T03:19:43.458Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남편이 돌아왔다, 잔소리도 함께]]></title>
-        <id>https://v.daum.net/v/20231225103902613</id>
-        <link href="https://v.daum.net/v/20231225103902613"/>
-        <updated>2023-12-25T03:19:43.458Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
