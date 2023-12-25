@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-12-25T18:25:23.036Z</updated>
+    <updated>2023-12-25T19:16:36.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/2438/4Po61i9rpv"/>
         <updated>2023-12-25T16:23:41.631Z</updated>
         <content type="html"><![CDATA[바티칸은 지금]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올빼미 친구]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/3E2kFi9rEq</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/3E2kFi9rEq"/>
+        <updated>2023-12-25T19:16:07.991Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[성탄절 연휴 마지막 날 서울 도심 인파 [뉴시스Pic]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033138/3M99kjPl03"/>
         <updated>2023-12-25T06:24:13.883Z</updated>
         <content type="html"><![CDATA[이스라엘은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 법무부에서 발언하는 리사 모나코 법무차관]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1476/zcl0U3lfqK</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1476/zcl0U3lfqK"/>
-        <updated>2023-12-25T02:30:33.286Z</updated>
-        <content type="html"><![CDATA[미국은 지금]]></content>
     </entry>
 </feed>

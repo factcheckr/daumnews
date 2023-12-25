@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-25T18:25:23.027Z</updated>
+    <updated>2023-12-25T19:16:36.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[통신3사, 3만원대 5G요금 잇단 출시 … 알뜰폰과 격돌]]></title>
+        <id>https://v.daum.net/v/20231225174513569</id>
+        <link href="https://v.daum.net/v/20231225174513569"/>
+        <updated>2023-12-25T19:16:01.490Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“쿠팡 드라마 망한다” 99%가 장담했는데…충격적인 대반전]]></title>
+        <id>https://v.daum.net/v/20231225185143982</id>
+        <link href="https://v.daum.net/v/20231225185143982"/>
+        <updated>2023-12-25T19:16:01.493Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[스페셜리포트] 통신요금 잡아도 OTT 비용은 40% 폭등…최소 관리장치 시급]]></title>
         <id>https://v.daum.net/v/20231225175304760</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231225172945082"/>
         <updated>2023-12-25T10:19:37.293Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아듀 2023-IT]가계 통신비 인하 압박…요금제 다변화·제4이통 진입]]></title>
-        <id>https://v.daum.net/v/20231225170001334</id>
-        <link href="https://v.daum.net/v/20231225170001334"/>
-        <updated>2023-12-25T18:24:48.342Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] IPTV 콘텐츠 사용료 '메이저리그·마이너리그' 나눈다]]></title>
-        <id>https://v.daum.net/v/20231225163852758</id>
-        <link href="https://v.daum.net/v/20231225163852758"/>
-        <updated>2023-12-25T18:24:48.343Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
