@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-12-25T15:23:46.589Z</updated>
+    <updated>2023-12-25T16:24:09.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中관영 "24일, 크리스마스 이브 아냐…장진호전투 승리의 날"]]></title>
+        <id>https://v.daum.net/v/20231226011535191</id>
+        <link href="https://v.daum.net/v/20231226011535191"/>
+        <updated>2023-12-25T16:22:49.624Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[호텔서 “도와달라, 살인자” 소리…일본 공개‘DJ 납치 그날’]]></title>
         <id>https://v.daum.net/v/20231226000146801</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231225224247358"/>
         <updated>2023-12-25T14:16:29.238Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스라엘, 성탄절에도 가자지구 폭격…“전쟁 시작된 이후 최악의 공격”]]></title>
-        <id>https://v.daum.net/v/20231225223501290</id>
-        <link href="https://v.daum.net/v/20231225223501290"/>
-        <updated>2023-12-25T14:16:29.240Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
