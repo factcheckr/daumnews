@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-12-26T13:23:08.670Z</updated>
+    <updated>2023-12-26T14:18:24.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스하이킥] 전용기 "한동훈, 당정 관계 궤변만" vs 김재섭 "하루 만에 다 풀 수 없어"]]></title>
+        <id>https://v.daum.net/v/20231226212621400</id>
+        <link href="https://v.daum.net/v/20231226212621400"/>
+        <updated>2023-12-26T14:16:40.643Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["은퇴 노인에게 부담"…윤 대통령, 건강보험료 개선 지시]]></title>
         <id>https://v.daum.net/v/20231226212405384</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231226210100131"/>
         <updated>2023-12-26T12:31:02.251Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송영길 "검찰, 증거 차고 넘치는 김건희 범죄는 소환커녕 서면 조사도 못해"]]></title>
-        <id>https://v.daum.net/v/20231226205714112</id>
-        <link href="https://v.daum.net/v/20231226205714112"/>
-        <updated>2023-12-26T12:31:02.253Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
     </entry>
 </feed>
