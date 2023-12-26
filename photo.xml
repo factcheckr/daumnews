@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-12-26T12:32:42.439Z</updated>
+    <updated>2023-12-26T13:23:08.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동장군·눈 떠나니…미세먼지 불청객[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/p4eOAuyPWB</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/p4eOAuyPWB"/>
+        <updated>2023-12-26T13:22:40.846Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주한오만대사 접견하는 행정안전부 재난안전관리본부장]]></title>
         <id>https://gallery.v.daum.net/p/viewer/321090/VTU6CPUNq4</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5840472/Uz71l80g9V"/>
         <updated>2023-12-26T07:17:21.612Z</updated>
         <content type="html"><![CDATA[포토스토리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중흥그룹 "협력업체 여러분 수고많으셨습니다"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5612596/uzwxXJKw9L</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5612596/uzwxXJKw9L"/>
-        <updated>2023-12-26T07:17:21.617Z</updated>
-        <content type="html"><![CDATA[머니S포토]]></content>
     </entry>
 </feed>
