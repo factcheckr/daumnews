@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-12-26T15:18:54.234Z</updated>
+    <updated>2023-12-26T16:23:24.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘역대급 경제난’ 아르헨, 최고액권 10배로 발행 검토]]></title>
+        <id>https://v.daum.net/v/20231226232620190</id>
+        <link href="https://v.daum.net/v/20231226232620190"/>
+        <updated>2023-12-26T16:22:16.057Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日, 자위대 패트리엇 美에 수출...中 "주변국 신뢰얻어야"]]></title>
         <id>https://v.daum.net/v/20231226233110248</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231226214939616"/>
         <updated>2023-12-26T14:17:17.297Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유해물질 계속 나오는데…일 “오염수 삼중수소 분석 횟수 축소”]]></title>
-        <id>https://v.daum.net/v/20231226213904508</id>
-        <link href="https://v.daum.net/v/20231226213904508"/>
-        <updated>2023-12-26T13:21:57.901Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
