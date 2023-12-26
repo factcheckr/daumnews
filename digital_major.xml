@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-26T17:18:00.057Z</updated>
+    <updated>2023-12-26T18:23:39.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20231226214345546"/>
         <updated>2023-12-26T13:22:33.547Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 저가발주 탓에 '행정망 먹통' 되풀이···통합발주로 사업 완성도 높인다]]></title>
+        <id>https://v.daum.net/v/20231226181525034</id>
+        <link href="https://v.daum.net/v/20231226181525034"/>
+        <updated>2023-12-26T18:23:12.312Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“중년 올빼미형 인간, 심장질환 사망 위험 아침형 인간의 2배”]]></title>
+        <id>https://v.daum.net/v/20231226180337785</id>
+        <link href="https://v.daum.net/v/20231226180337785"/>
+        <updated>2023-12-26T18:23:12.315Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글, 3만명 구조조정 추진설…커지는 AI發 해고 공포 [팩플]]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231226173101914"/>
         <updated>2023-12-26T09:18:58.930Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뿌리에 전기 자극하면, 식물 성장 속도 빨라져]]></title>
-        <id>https://v.daum.net/v/20231226173012892</id>
-        <link href="https://v.daum.net/v/20231226173012892"/>
-        <updated>2023-12-26T09:18:58.932Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[풀링제로 젊은연구자 인건비 수혈…대학 교수들 "갈등만 조장할 것"]]></title>
-        <id>https://v.daum.net/v/20231226171213494</id>
-        <link href="https://v.daum.net/v/20231226171213494"/>
-        <updated>2023-12-26T09:18:58.935Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>

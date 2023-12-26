@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-26T17:18:00.070Z</updated>
+    <updated>2023-12-26T18:23:39.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해외직구 IP캠 보안 취약… “사생활 영상 한번에 8000건 유출 시도”]]></title>
+        <id>https://v.daum.net/v/20231227030202014</id>
+        <link href="https://v.daum.net/v/20231227030202014"/>
+        <updated>2023-12-26T18:23:04.784Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올 과학계 최대이슈 ‘R&D 예산 삭감’… 챗GPT發 ‘AI전쟁’도 꼽혀]]></title>
+        <id>https://v.daum.net/v/20231227030352147</id>
+        <link href="https://v.daum.net/v/20231227030352147"/>
+        <updated>2023-12-26T18:23:04.785Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“이대로 나오면 대박?” 뜻밖에 소식…삼성 모험 ‘오렌지빛’ 등장]]></title>
         <id>https://v.daum.net/v/20231226220106761</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231226175710608"/>
         <updated>2023-12-26T10:19:28.021Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 저가발주 탓에 '행정망 먹통' 되풀이···통합발주로 사업 완성도 높인다]]></title>
-        <id>https://v.daum.net/v/20231226181525034</id>
-        <link href="https://v.daum.net/v/20231226181525034"/>
-        <updated>2023-12-26T09:18:51.816Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“중년 올빼미형 인간, 심장질환 사망 위험 아침형 인간의 2배”]]></title>
-        <id>https://v.daum.net/v/20231226180337785</id>
-        <link href="https://v.daum.net/v/20231226180337785"/>
-        <updated>2023-12-26T09:18:51.817Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
