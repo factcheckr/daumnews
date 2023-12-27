@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-12-27T19:15:53.539Z</updated>
+    <updated>2023-12-27T20:20:25.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하늘 나는 산천어]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/4azNNAQSDg</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/4azNNAQSDg"/>
+        <updated>2023-12-27T20:19:55.826Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본대사관 앞에서 “한·일 합의 폐기 판결 이행하라”]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/zv3RMdbDyD</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5840500/V5KXgIo5vh"/>
         <updated>2023-12-27T07:17:26.801Z</updated>
         <content type="html"><![CDATA[포토뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 이선균, 서울 와룡공원 인근서 숨진 채 발견 [청계천 옆 사진관]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/344179/9kaAqMzcDR</id>
-        <link href="https://gallery.v.daum.net/p/viewer/344179/9kaAqMzcDR"/>
-        <updated>2023-12-27T07:17:26.802Z</updated>
-        <content type="html"><![CDATA[청계천 옆 사진관]]></content>
     </entry>
 </feed>
