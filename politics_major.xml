@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2023-12-28T15:18:42.278Z</updated>
+    <updated>2023-12-28T16:24:45.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베일 벗은 한동훈 비대위…비정치인·40대 전진 배치]]></title>
+        <id>https://v.daum.net/v/20231228210012443</id>
+        <link href="https://v.daum.net/v/20231228210012443"/>
+        <updated>2023-12-28T16:22:58.856Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] "뼛속까지 고향 사람" 문자 돌린 검사…'총선 출마']]></title>
+        <id>https://v.daum.net/v/20231228211818701</id>
+        <link href="https://v.daum.net/v/20231228211818701"/>
+        <updated>2023-12-28T16:22:58.859Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민원과 무관하다더니…"JTBC 보도 민원 있나" 직접 챙긴 류희림]]></title>
         <id>https://v.daum.net/v/20231228211242648</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231228210036455"/>
         <updated>2023-12-28T12:31:18.223Z</updated>
         <content type="html"><![CDATA[대구MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘김건희 특검법’…거부권 → 폐기 공식, 이번엔 ‘수’ 틀릴까]]></title>
-        <id>https://v.daum.net/v/20231228210040456</id>
-        <link href="https://v.daum.net/v/20231228210040456"/>
-        <updated>2023-12-28T12:31:18.224Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野 "이태원특별법 내달 9일 처리…與와 합의 안되면 원안 의결"(종합2보)]]></title>
-        <id>https://v.daum.net/v/20231228205511364</id>
-        <link href="https://v.daum.net/v/20231228205511364"/>
-        <updated>2023-12-28T12:31:18.228Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>

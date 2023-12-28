@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2023-12-28T15:18:42.296Z</updated>
+    <updated>2023-12-28T16:24:45.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘양치질’ 귀찮은데 ‘구강청결제’로 대신하면 안 될까?]]></title>
+        <id>https://v.daum.net/v/20231229000005883</id>
+        <link href="https://v.daum.net/v/20231229000005883"/>
+        <updated>2023-12-28T16:23:43.695Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김진형의 책·읽·기] “모르면 물어라” 죽는 날까지 바라봤던 선승의 일갈]]></title>
         <id>https://v.daum.net/v/20231229000543035</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231229000228955"/>
         <updated>2023-12-28T15:17:52.859Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 날씨] 전국 포근한 겨울…낮 최고 4~12도]]></title>
-        <id>https://v.daum.net/v/20231229000051909</id>
-        <link href="https://v.daum.net/v/20231229000051909"/>
-        <updated>2023-12-28T15:17:52.861Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
