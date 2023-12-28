@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-28T12:32:56.655Z</updated>
+    <updated>2023-12-28T13:21:00.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[미생물은 좋든 싫든 우리는 영원히 함께야, 지구에서 살아가는 한[전문가의 세계 - 김응빈의 미생물 ‘수다’]]]></title>
+        <title type="html"><![CDATA[한국 비하·갈등 조장…“중국 댓글 조작 의심”]]></title>
+        <id>https://v.daum.net/v/20231228214108935</id>
+        <link href="https://v.daum.net/v/20231228214108935"/>
+        <updated>2023-12-28T13:20:18.338Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미생물은 좋든 싫든 우리는 영원히 함께야, 지구에서 살아가는 한[전문가의 세계-김응빈의 미생물 ‘수다’]]]></title>
         <id>https://v.daum.net/v/20231228212930817</id>
         <link href="https://v.daum.net/v/20231228212930817"/>
         <updated>2023-12-28T12:32:19.591Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231228194009414"/>
         <updated>2023-12-28T11:15:33.629Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["투자한 돈이 얼만데 뉴스 훔쳐가나"…NYT '오픈AI'와 전면전]]></title>
-        <id>https://v.daum.net/v/20231228175403305</id>
-        <link href="https://v.daum.net/v/20231228175403305"/>
-        <updated>2023-12-28T10:19:38.717Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
