@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2023-12-29T12:30:48.460Z</updated>
+    <updated>2023-12-29T13:22:03.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NXC 지분매각 또 유찰···'상속세법 개정' 목소리 커진다]]></title>
+        <id>https://v.daum.net/v/20231229174555506</id>
+        <link href="https://v.daum.net/v/20231229174555506"/>
+        <updated>2023-12-29T13:21:31.159Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“미국·유럽, AI 규범 주도권 경쟁 중”… 한국은 어디쯤?]]></title>
         <id>https://v.daum.net/v/20231229174001336</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231229154503449"/>
         <updated>2023-12-29T08:22:13.032Z</updated>
         <content type="html"><![CDATA[게임동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“칩 하나에 트랜지스터 1조개”… 인텔·TSMC 공세에 투자 부담 커진 삼성전자]]></title>
-        <id>https://v.daum.net/v/20231229145826247</id>
-        <link href="https://v.daum.net/v/20231229145826247"/>
-        <updated>2023-12-29T08:22:13.035Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
