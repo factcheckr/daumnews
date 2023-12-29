@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-12-29T10:20:35.733Z</updated>
+    <updated>2023-12-29T11:17:24.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이 아침의 예술가] 리움의 '불문율' 깬 설치미술가 서도호]]></title>
+        <id>https://v.daum.net/v/20231229180702882</id>
+        <link href="https://v.daum.net/v/20231229180702882"/>
+        <updated>2023-12-29T11:16:32.600Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["호흡기질환 동시 유행"...면역력 지키는 성분 필요해]]></title>
+        <id>https://v.daum.net/v/20231229180115802</id>
+        <link href="https://v.daum.net/v/20231229180115802"/>
+        <updated>2023-12-29T11:16:32.601Z</updated>
+        <content type="html"><![CDATA[하이닥]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쳇바퀴 속에서 절망하는 우리네 모습]]></title>
         <id>https://v.daum.net/v/20231229174804541</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231229161800336"/>
         <updated>2023-12-29T09:18:42.464Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“문화예술만큼은 정치 입김 최소화해야”[만나고 싶었습니다](2)]]></title>
-        <id>https://v.daum.net/v/20231229160214953</id>
-        <link href="https://v.daum.net/v/20231229160214953"/>
-        <updated>2023-12-29T09:18:42.464Z</updated>
-        <content type="html"><![CDATA[주간경향]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[춥다고 전기장판 위에 반려동물 앉히지 마세요!]]></title>
-        <id>https://v.daum.net/v/20231229160114912</id>
-        <link href="https://v.daum.net/v/20231229160114912"/>
-        <updated>2023-12-29T09:18:42.466Z</updated>
-        <content type="html"><![CDATA[하이닥]]></content>
     </entry>
 </feed>

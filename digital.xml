@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-29T10:20:35.729Z</updated>
+    <updated>2023-12-29T11:17:24.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[집게손 논란 스튜디오뿌리 "유저 만나고 싶다...오해 충분히 해명하고파"]]></title>
+        <id>https://v.daum.net/v/20231229193102465</id>
+        <link href="https://v.daum.net/v/20231229193102465"/>
+        <updated>2023-12-29T11:16:41.884Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민연금, KT 이어 결국 포스코에도 입김]]></title>
         <id>https://v.daum.net/v/20231229181201954</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231229174001336"/>
         <updated>2023-12-29T09:18:51.811Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태양계 밖에도 생명체 있나? CO2 비율로 확인한다]]></title>
-        <id>https://v.daum.net/v/20231229173012135</id>
-        <link href="https://v.daum.net/v/20231229173012135"/>
-        <updated>2023-12-29T09:18:51.812Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
