@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-12-29T14:17:53.114Z</updated>
+    <updated>2023-12-29T15:18:52.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러 공습 받은 우크라이나 아파트]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5033399/3WQyfZsb7h</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5033399/3WQyfZsb7h"/>
+        <updated>2023-12-29T15:18:24.889Z</updated>
+        <content type="html"><![CDATA[우크라이나는 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우 이선균씨 발인…편안함에 이르기를[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/5MLtYAQSyW</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5030473/7Tqn7Vtnp9"/>
         <updated>2023-12-29T07:17:26.549Z</updated>
         <content type="html"><![CDATA[홍콩은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칠레 시위 현장에 등장한 바다사자]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5032336/0YVD8dbD7l</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5032336/0YVD8dbD7l"/>
-        <updated>2023-12-29T07:17:26.549Z</updated>
-        <content type="html"><![CDATA[칠레는 지금]]></content>
     </entry>
 </feed>
