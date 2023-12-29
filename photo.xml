@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-12-29T19:16:49.472Z</updated>
+    <updated>2023-12-29T20:18:54.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[굳건한 등대처럼]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/7AZnfjPlRg</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/7AZnfjPlRg"/>
+        <updated>2023-12-29T20:18:33.214Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안전한 세상을 위해서]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1573204/BssTjQuj7s</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615618/0UgdMofOOg"/>
         <updated>2023-12-29T08:22:19.528Z</updated>
         <content type="html"><![CDATA[오마이포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동해안 해맞이 행사 안전하게']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1075022/PvnjIWEuF8</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1075022/PvnjIWEuF8"/>
-        <updated>2023-12-29T08:22:19.529Z</updated>
-        <content type="html"><![CDATA[경찰 제공 포토]]></content>
     </entry>
 </feed>
