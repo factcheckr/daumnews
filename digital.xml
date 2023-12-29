@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-29T11:17:24.346Z</updated>
+    <updated>2023-12-29T12:30:48.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[음성 채팅만 하면 음질 떨어지는 블루투스 이어폰...왜? [IT 잡학다식]]]></title>
+        <id>https://v.daum.net/v/20231229180103797</id>
+        <link href="https://v.daum.net/v/20231229180103797"/>
+        <updated>2023-12-29T12:30:12.788Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[반도체 업계, 새해에도 'RISC-V' 생태계 구축 활발]]></title>
+        <id>https://v.daum.net/v/20231229095910900</id>
+        <link href="https://v.daum.net/v/20231229095910900"/>
+        <updated>2023-12-29T12:30:12.789Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[집게손 논란 스튜디오뿌리 "유저 만나고 싶다...오해 충분히 해명하고파"]]></title>
         <id>https://v.daum.net/v/20231229193102465</id>
@@ -20,13 +34,6 @@
         <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['챗GPT' 맞서는 남매·반중 독립후보 … 2024 세계를 뒤집을 '7인']]></title>
-        <id>https://v.daum.net/v/20231229175115632</id>
-        <link href="https://v.daum.net/v/20231229175115632"/>
-        <updated>2023-12-29T09:18:51.806Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[거세지는 AI '일자리 습격'···글로벌 테크기업 올 26만명 해고]]></title>
         <id>https://v.daum.net/v/20231229175119635</id>
         <link href="https://v.daum.net/v/20231229175119635"/>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231229174555506"/>
         <updated>2023-12-29T09:18:51.809Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“미국·유럽, AI 규범 주도권 경쟁 중”… 한국은 어디쯤?]]></title>
-        <id>https://v.daum.net/v/20231229174001336</id>
-        <link href="https://v.daum.net/v/20231229174001336"/>
-        <updated>2023-12-29T09:18:51.811Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
