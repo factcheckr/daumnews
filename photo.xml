@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-12-29T20:18:54.881Z</updated>
+    <updated>2023-12-29T21:17:01.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[멈춰진 흔적 뒤로하고 다시 '희망 2024']]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/1H5uDZsbGf</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/1H5uDZsbGf"/>
+        <updated>2023-12-29T21:16:38.172Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[굳건한 등대처럼]]></title>
         <id>https://gallery.v.daum.net/p/viewer/212305/7AZnfjPlRg</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5610796/2fWrq43opr"/>
         <updated>2023-12-29T08:22:19.527Z</updated>
         <content type="html"><![CDATA[모멘트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 예방한 한동훈]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5615618/0UgdMofOOg</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5615618/0UgdMofOOg"/>
-        <updated>2023-12-29T08:22:19.528Z</updated>
-        <content type="html"><![CDATA[오마이포토]]></content>
     </entry>
 </feed>
