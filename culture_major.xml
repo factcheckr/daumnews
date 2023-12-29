@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-12-29T18:23:00.963Z</updated>
+    <updated>2023-12-29T19:16:49.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비열한 질투에 희생, 유대인 작곡가 마이어베어 아시나요]]></title>
+        <id>https://v.daum.net/v/20231230000159055</id>
+        <link href="https://v.daum.net/v/20231230000159055"/>
+        <updated>2023-12-29T19:16:01.455Z</updated>
+        <content type="html"><![CDATA[중앙SUNDAY]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매력적인 ‘설산’ 놓칠 수 없다면 ‘이것’만은 유의하고]]></title>
         <id>https://v.daum.net/v/20231230000056035</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231229180115802"/>
         <updated>2023-12-29T11:16:32.601Z</updated>
         <content type="html"><![CDATA[하이닥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쳇바퀴 속에서 절망하는 우리네 모습]]></title>
-        <id>https://v.daum.net/v/20231229174804541</id>
-        <link href="https://v.daum.net/v/20231229174804541"/>
-        <updated>2023-12-29T10:19:37.167Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
