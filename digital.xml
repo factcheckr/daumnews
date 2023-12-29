@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-29T07:17:55.849Z</updated>
+    <updated>2023-12-29T08:22:46.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["생성형 AI가 '인간 기자'를 대체할 순 없다"]]></title>
+        <id>https://v.daum.net/v/20231229164501092</id>
+        <link href="https://v.daum.net/v/20231229164501092"/>
+        <updated>2023-12-29T08:22:05.743Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘비통신’ 선언한 통신3사, 내년에도 ‘AI·DX·보안’ 퍼스트 전략 이어간다]]></title>
+        <id>https://v.daum.net/v/20231229162932631</id>
+        <link href="https://v.daum.net/v/20231229162932631"/>
+        <updated>2023-12-29T08:22:05.744Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스튜디오 뿌리, 허위사실·직원 신상 유포자에 법적 조치 예고]]></title>
         <id>https://v.daum.net/v/20231229160914138</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20231229160031872"/>
         <updated>2023-12-29T07:17:10.138Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게임동아 기자들이 뽑은 2023년 최고의 게임]]></title>
-        <id>https://v.daum.net/v/20231229154503449</id>
-        <link href="https://v.daum.net/v/20231229154503449"/>
-        <updated>2023-12-29T07:17:10.139Z</updated>
-        <content type="html"><![CDATA[게임동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“칩 하나에 트랜지스터 1조개”… 인텔·TSMC 공세에 투자 부담 커진 삼성전자]]></title>
-        <id>https://v.daum.net/v/20231229145826247</id>
-        <link href="https://v.daum.net/v/20231229145826247"/>
-        <updated>2023-12-29T06:23:38.479Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
