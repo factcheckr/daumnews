@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-12-30T17:17:31.577Z</updated>
+    <updated>2023-12-30T18:22:28.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빈 살만 만나도 佛에 뺐겼다... 일장춘몽 된 中 전투기 수출]]></title>
+        <id>https://v.daum.net/v/20231231000025077</id>
+        <link href="https://v.daum.net/v/20231231000025077"/>
+        <updated>2023-12-30T18:21:29.470Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알바니아 법원, '부패 혐의' 베리샤 제1야당 대표 가택연금]]></title>
         <id>https://v.daum.net/v/20231230232515904</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231230210801683"/>
         <updated>2023-12-30T14:15:25.508Z</updated>
         <content type="html"><![CDATA[한겨레21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가자지구 남부서 질병 확산…"약 18만명 상기도감염"]]></title>
-        <id>https://v.daum.net/v/20231230210443655</id>
-        <link href="https://v.daum.net/v/20231230210443655"/>
-        <updated>2023-12-30T14:15:25.510Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
