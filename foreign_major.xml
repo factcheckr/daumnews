@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2023-12-30T09:21:20.889Z</updated>
+    <updated>2023-12-30T10:21:36.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“올해가 역사상 가장 더웠던 해…온난화 가속화”]]></title>
+        <id>https://v.daum.net/v/20231230170001707</id>
+        <link href="https://v.daum.net/v/20231230170001707"/>
+        <updated>2023-12-30T10:20:37.512Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나발니 측근, 극단주의 혐의로 징역 9년 선고…주변인 탄압 계속]]></title>
+        <id>https://v.daum.net/v/20231230164826635</id>
+        <link href="https://v.daum.net/v/20231230164826635"/>
+        <updated>2023-12-30T10:20:37.515Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국, 내년부터 미국 관광객 비자 신청 단순화…관광 활성화 대책]]></title>
         <id>https://v.daum.net/v/20231230163649569</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20231230151540047"/>
         <updated>2023-12-30T07:16:52.641Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라에 '18시간 최악의 공습'…휴가중 바이든 "푸틴 막아야"]]></title>
-        <id>https://v.daum.net/v/20231230142234615</id>
-        <link href="https://v.daum.net/v/20231230142234615"/>
-        <updated>2023-12-30T07:16:52.642Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폴란드 영공 날아든 러시아 미사일... “바이든도 상황 예의주시”]]></title>
-        <id>https://v.daum.net/v/20231230145704905</id>
-        <link href="https://v.daum.net/v/20231230145704905"/>
-        <updated>2023-12-30T07:16:52.644Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
