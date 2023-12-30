@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2023-12-30T15:18:30.116Z</updated>
+    <updated>2023-12-30T16:24:44.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://v.daum.net/v/20231231000025077"/>
         <updated>2023-12-30T15:17:02.086Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라, 최대 규모 공습 받은 다음날 반격 나서]]></title>
-        <id>https://v.daum.net/v/20231230232824917</id>
-        <link href="https://v.daum.net/v/20231230232824917"/>
-        <updated>2023-12-30T15:17:02.088Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[알바니아 법원, '부패 혐의' 베리샤 제1야당 대표 가택연금]]></title>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20231230225651744"/>
         <updated>2023-12-30T14:15:18.025Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘최대 규모 공습’ 당한 우크라이나, 러시아에 반격…“부상자 다수 발생”]]></title>
+        <id>https://v.daum.net/v/20231230223624602</id>
+        <link href="https://v.daum.net/v/20231230223624602"/>
+        <updated>2023-12-30T16:23:31.191Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
