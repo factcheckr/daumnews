@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2023-12-30T06:22:48.400Z</updated>
+    <updated>2023-12-30T07:17:52.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“테마주 열풍 뜨겁다 했지만”…실제 수익률이 이정도일줄 몰랐다]]></title>
+        <id>https://v.daum.net/v/20231230140300476</id>
+        <link href="https://v.daum.net/v/20231230140300476"/>
+        <updated>2023-12-30T07:16:38.950Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소리 없이 강하다. 쉿! 레간자'···이거 알면 당신은 아재? [Car톡]]]></title>
         <id>https://v.daum.net/v/20231230140022450</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231230130003038"/>
         <updated>2023-12-30T05:17:10.244Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주택 경매, 매매사업자가 무조건 유리할까?[도와줘요 자산관리]]]></title>
-        <id>https://v.daum.net/v/20231230123019867</id>
-        <link href="https://v.daum.net/v/20231230123019867"/>
-        <updated>2023-12-30T05:17:10.246Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>

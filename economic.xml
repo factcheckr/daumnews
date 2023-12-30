@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2023-12-30T06:22:48.438Z</updated>
+    <updated>2023-12-30T07:17:52.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“엔비디아 보다 주가 더 많이 올랐다”...복고 열풍 타고 화려하게 부활한 ‘이 회사’]]></title>
+        <id>https://v.daum.net/v/20231230161402446</id>
+        <link href="https://v.daum.net/v/20231230161402446"/>
+        <updated>2023-12-30T07:16:33.015Z</updated>
+        <content type="html"><![CDATA[한경비즈니스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수입차 치열한 순위 경쟁…중국차는 '세계 진출'[2023 자동차 10대 뉴스②]]]></title>
         <id>https://v.daum.net/v/20231230150111953</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231230130015042"/>
         <updated>2023-12-30T05:17:01.206Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“테마주 열풍 뜨겁다 했지만”…실제 수익률이 이정도일줄 몰랐다]]></title>
-        <id>https://v.daum.net/v/20231230140300476</id>
-        <link href="https://v.daum.net/v/20231230140300476"/>
-        <updated>2023-12-30T05:17:01.206Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
