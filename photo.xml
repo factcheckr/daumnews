@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2023-12-30T12:31:46.908Z</updated>
+    <updated>2023-12-30T13:20:12.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[함박눈 내리는 화랑대 철도공원]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5847810/pDgC4OLZu2</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5847810/pDgC4OLZu2"/>
+        <updated>2023-12-30T13:19:42.895Z</updated>
+        <content type="html"><![CDATA[지자체 제공 포토]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[눈길에 신호등 들이받은 트럭]]></title>
         <id>https://gallery.v.daum.net/p/viewer/386/xtXpN43ouf</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033571/qOGPLfFLrL"/>
         <updated>2023-12-29T18:22:34.479Z</updated>
         <content type="html"><![CDATA[군 제공 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해변의 눈사람]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5029578/3TfHyERyDC</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5029578/3TfHyERyDC"/>
-        <updated>2023-12-29T18:22:34.482Z</updated>
-        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
 </feed>
