@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2023-12-31T18:22:42.489Z</updated>
+    <updated>2023-12-31T19:18:10.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[2024 신춘문예] 배꼽이 사라졌다]]></title>
+        <id>https://v.daum.net/v/20240101030101049</id>
+        <link href="https://v.daum.net/v/20240101030101049"/>
+        <updated>2023-12-31T19:17:18.883Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2024 신춘문예] ‘속도’가 소멸시킨 것들 살피며 기술문화·미술의 접속점 정확히 짚어내]]></title>
         <id>https://v.daum.net/v/20240101030051043</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20231231230015320"/>
         <updated>2023-12-31T18:21:47.775Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만민중앙교회 이재록, 형집행정지 중 80세 사망]]></title>
-        <id>https://v.daum.net/v/20231231220407737</id>
-        <link href="https://v.daum.net/v/20231231220407737"/>
-        <updated>2023-12-31T18:21:47.776Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
