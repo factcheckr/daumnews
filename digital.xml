@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2023-12-31T09:18:14.534Z</updated>
+    <updated>2023-12-31T10:19:20.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새해 반도체 시장 패권 '3C'에 달렸다]]></title>
+        <id>https://v.daum.net/v/20231231180004705</id>
+        <link href="https://v.daum.net/v/20231231180004705"/>
+        <updated>2023-12-31T10:18:40.934Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['따르릉' 집전화 없어진 가정...시내전화 1100만 회선 붕괴 임박]]></title>
         <id>https://v.daum.net/v/20231231180535761</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20231231160937402"/>
         <updated>2023-12-31T07:16:16.041Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해 첫 일출 독도서 7시26분...동해안·제주 빼고 전국서 볼 수 있을 듯]]></title>
-        <id>https://v.daum.net/v/20231231152805066</id>
-        <link href="https://v.daum.net/v/20231231152805066"/>
-        <updated>2023-12-31T07:16:16.043Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
