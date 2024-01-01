@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-01-01T14:19:30.559Z</updated>
+    <updated>2024-01-01T15:18:53.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://v.daum.net/v/20240101190101710</id>
         <link href="https://v.daum.net/v/20240101190101710"/>
         <updated>2024-01-01T10:20:21.748Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["슈퍼AI, 인간을 지배종서 끌어내릴 수도"…살벌한 메시지]]></title>
+        <id>https://v.daum.net/v/20240101182401266</id>
+        <link href="https://v.daum.net/v/20240101182401266"/>
+        <updated>2024-01-01T15:18:24.227Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
@@ -46,13 +53,6 @@
         <link href="https://v.daum.net/v/20240101181039114"/>
         <updated>2024-01-01T10:20:21.749Z</updated>
         <content type="html"><![CDATA[이코노미조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2024 신년기획]대한민국 대전환, AX에 달렸다]]></title>
-        <id>https://v.daum.net/v/20240101180106926</id>
-        <link href="https://v.daum.net/v/20240101180106926"/>
-        <updated>2024-01-01T10:20:21.750Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[홍석준 의원, `위치정보법` 개정안 발의…사업자 분류체계 일원화 추진]]></title>

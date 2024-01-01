@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-01T14:19:30.550Z</updated>
+    <updated>2024-01-01T15:18:54.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“지역 오면 지역뉴스 봐야… AI시대 ‘데이터 자치권’ 필수”]]></title>
+        <id>https://v.daum.net/v/20240102000505841</id>
+        <link href="https://v.daum.net/v/20240102000505841"/>
+        <updated>2024-01-01T15:18:17.370Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“실물 ‘사진’까지 등장” 삼성 난리난 ‘최고폰’ 유출 알고보니…실수?]]></title>
         <id>https://v.daum.net/v/20240101205416651</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240101180353979"/>
         <updated>2024-01-01T10:20:13.361Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["슈퍼AI, 인간을 지배종서 끌어내릴 수도"…살벌한 메시지]]></title>
-        <id>https://v.daum.net/v/20240101182401266</id>
-        <link href="https://v.daum.net/v/20240101182401266"/>
-        <updated>2024-01-01T10:20:13.361Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
