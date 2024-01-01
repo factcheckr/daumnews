@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-01-01T15:18:53.996Z</updated>
+    <updated>2024-01-01T16:23:21.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20240102000610883"/>
         <updated>2024-01-01T15:17:23.420Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北을 ‘적’이라 표현했다고 호통 쳤던 국방차관 [유용원의 밀리터리 시크릿]]]></title>
+        <id>https://v.daum.net/v/20240102000136771</id>
+        <link href="https://v.daum.net/v/20240102000136771"/>
+        <updated>2024-01-01T16:21:36.793Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[총선 D-100, 여야 지지율 초접전…한동훈·이재명 대권 경쟁도 치열]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240101214416992"/>
         <updated>2024-01-01T13:20:37.269Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['자기네 땅도 아닌데'...독도에 해일주의보 내린 일본]]></title>
-        <id>https://v.daum.net/v/20240101213816968</id>
-        <link href="https://v.daum.net/v/20240101213816968"/>
-        <updated>2024-01-01T14:17:37.976Z</updated>
-        <content type="html"><![CDATA[경기일보]]></content>
     </entry>
 </feed>
