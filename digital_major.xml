@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-01-01T22:18:56.646Z</updated>
+    <updated>2024-01-01T23:20:21.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 K콘텐츠 저력…'오징어 게임' 비영미권 콘텐츠 압도적 1위]]></title>
+        <id>https://v.daum.net/v/20240102062005599</id>
+        <link href="https://v.daum.net/v/20240102062005599"/>
+        <updated>2024-01-01T23:19:49.737Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[살림 팍팍하니 알뜰폰…이통3사 "가지 마세요, 잘해 드릴게"]]></title>
+        <id>https://v.daum.net/v/20240102061501555</id>
+        <link href="https://v.daum.net/v/20240102061501555"/>
+        <updated>2024-01-01T23:19:49.737Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[르포] “고성능 GPU로 4개 국어하는 ‘디지털 휴먼’ 구현”… ‘AI 칩’ 절대강자 美 엔비디아 본사 가보니]]></title>
         <id>https://v.daum.net/v/20240102061458553</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240102030413474"/>
         <updated>2024-01-01T21:19:18.441Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빗썸 하루 ‘반짝 1위’… 가상화폐 시장 격동]]></title>
-        <id>https://v.daum.net/v/20240102030114286</id>
-        <link href="https://v.daum.net/v/20240102030114286"/>
-        <updated>2024-01-01T18:23:59.723Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“지역 오면 지역뉴스 봐야… AI시대 ‘데이터 자치권’ 필수”]]></title>
-        <id>https://v.daum.net/v/20240102000505841</id>
-        <link href="https://v.daum.net/v/20240102000505841"/>
-        <updated>2024-01-01T21:19:18.444Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
