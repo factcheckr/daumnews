@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-01-02T15:20:09.220Z</updated>
+    <updated>2024-01-02T16:23:38.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[돈 부을 땐 4.5%, 빌릴 땐 2.2% 금리…청년 위한 꿈의 청약통장]]></title>
+        <id>https://v.daum.net/v/20240103001624691</id>
+        <link href="https://v.daum.net/v/20240103001624691"/>
+        <updated>2024-01-02T16:21:53.677Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태영건설 워크아웃 살얼음판…채권단 설득할 자구안 나올까]]></title>
         <id>https://v.daum.net/v/20240103000254538</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240102211509178"/>
         <updated>2024-01-02T14:17:07.684Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이례적 매도 보고서…화들짝 놀란 KT, ‘통신 공룡’ LG유플에 따라잡히나]]></title>
-        <id>https://v.daum.net/v/20240102210312022</id>
-        <link href="https://v.daum.net/v/20240102210312022"/>
-        <updated>2024-01-02T13:20:40.498Z</updated>
-        <content type="html"><![CDATA[매경이코노미]]></content>
     </entry>
 </feed>
