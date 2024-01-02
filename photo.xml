@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-01-02T19:18:17.866Z</updated>
+    <updated>2024-01-02T20:20:15.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[4-4-2 포메이션]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/XQAat4ZwIJ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/XQAat4ZwIJ"/>
+        <updated>2024-01-02T20:19:51.025Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[독도를 품은 해]]></title>
         <id>https://gallery.v.daum.net/p/viewer/7156/1EU7Nvo9wG</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5611584/tJKFpyaVz1"/>
         <updated>2024-01-02T07:17:34.065Z</updated>
         <content type="html"><![CDATA[쿡 정치포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기도 국민안전체험관서 어린이 '지진 대피교육' [포토뉴스]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5840500/7kNsWwQ0TX</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5840500/7kNsWwQ0TX"/>
-        <updated>2024-01-02T07:17:34.069Z</updated>
-        <content type="html"><![CDATA[포토뉴스]]></content>
     </entry>
 </feed>

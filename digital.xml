@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-02T19:18:17.843Z</updated>
+    <updated>2024-01-02T20:20:15.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[본격적인 AI 시대 열린다?…2024년에 주목할 테크 트렌드 [트랜D]]]></title>
+        <id>https://v.daum.net/v/20240103050230003</id>
+        <link href="https://v.daum.net/v/20240103050230003"/>
+        <updated>2024-01-02T20:19:34.353Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원신 시위 총대 "모금액  한 푼도 횡령하지 않았다"]]></title>
         <id>https://v.daum.net/v/20240103033452414</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240102201624180"/>
         <updated>2024-01-02T12:33:39.231Z</updated>
         <content type="html"><![CDATA[EBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“아무도 몰랐다” ‘사진속’ 이렇게 기다렸다간…‘이 병’ 생긴다?]]></title>
-        <id>https://v.daum.net/v/20240102195129754</id>
-        <link href="https://v.daum.net/v/20240102195129754"/>
-        <updated>2024-01-02T19:17:26.874Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
