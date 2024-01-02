@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-01-02T11:16:49.562Z</updated>
+    <updated>2024-01-02T12:34:23.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日·싱가포르 '미술 국가대표' 감독 된 한국인들]]></title>
+        <id>https://v.daum.net/v/20240102183902467</id>
+        <link href="https://v.daum.net/v/20240102183902467"/>
+        <updated>2024-01-02T12:33:26.867Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디트뉴스노조 "노사합의 파괴, 인사전횡 중단하라"]]></title>
         <id>https://v.daum.net/v/20240102183602405</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“당신의 몸은 몇 살인가요?” 신체나이 어려지는 법 4]]></title>
+        <title type="html"><![CDATA[“내 몸 나이 몇 살?”...신체나이 젊게 돌리는 4가지 방법]]></title>
         <id>https://v.daum.net/v/20240102183041306</id>
         <link href="https://v.daum.net/v/20240102183041306"/>
         <updated>2024-01-02T11:15:52.052Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240102172059441"/>
         <updated>2024-01-02T09:18:33.172Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알아두면 유용한 관광 데이터 제공 채널 5]]></title>
-        <id>https://v.daum.net/v/20240102170805055</id>
-        <link href="https://v.daum.net/v/20240102170805055"/>
-        <updated>2024-01-02T09:18:33.173Z</updated>
-        <content type="html"><![CDATA[트래비]]></content>
     </entry>
 </feed>

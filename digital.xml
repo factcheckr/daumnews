@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-02T11:16:49.537Z</updated>
+    <updated>2024-01-02T12:34:23.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<뉴스브릿지> 밤하늘을 사랑한다면 주목! 2024년 주요 천문현상]]></title>
+        <id>https://v.daum.net/v/20240102201624180</id>
+        <link href="https://v.daum.net/v/20240102201624180"/>
+        <updated>2024-01-02T12:33:39.231Z</updated>
+        <content type="html"><![CDATA[EBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“아! 아무도 몰랐다” 이렇게 기다렸다간…‘이 병’ 생긴다?]]></title>
         <id>https://v.daum.net/v/20240102195129754</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240102185135730"/>
         <updated>2024-01-02T11:16:03.938Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외계인 뼈 닮은 우주선 부품…"사람이 만든 것보다 10배 강력"]]></title>
-        <id>https://v.daum.net/v/20240102185101707</id>
-        <link href="https://v.daum.net/v/20240102185101707"/>
-        <updated>2024-01-02T11:16:03.939Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>

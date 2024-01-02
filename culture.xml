@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-01-02T11:16:49.536Z</updated>
+    <updated>2024-01-02T12:34:23.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손에 자꾸 땀차는 다한증 환자, 당뇨병 위험 2배 높다?]]></title>
+        <id>https://v.daum.net/v/20240102210015963</id>
+        <link href="https://v.daum.net/v/20240102210015963"/>
+        <updated>2024-01-02T12:33:13.737Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“한국인들 검색량 1670%나 증가했다” 어떤 것 찾았길래 [여행가중계]]]></title>
         <id>https://v.daum.net/v/20240102200300941</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240102190100916"/>
         <updated>2024-01-02T11:15:41.977Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日·싱가포르 '미술 국가대표' 감독 된 한국인들]]></title>
-        <id>https://v.daum.net/v/20240102183902467</id>
-        <link href="https://v.daum.net/v/20240102183902467"/>
-        <updated>2024-01-02T11:15:41.979Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
