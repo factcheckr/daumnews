@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-01-03T13:23:19.601Z</updated>
+    <updated>2024-01-03T14:23:13.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240103213425258"/>
         <updated>2024-01-03T13:21:51.140Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 “정당한 영업… 소송 불사”… 마시모 “손해나도 끝까지 간다”]]></title>
+        <id>https://v.daum.net/v/20240103210408943</id>
+        <link href="https://v.daum.net/v/20240103210408943"/>
+        <updated>2024-01-03T14:21:43.184Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[매출 신기록 잔치 벌이지만…사람만 붐빌 뿐, 웃지 못하는 백화점 3사]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240103203906626"/>
         <updated>2024-01-03T12:32:30.083Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 자동차 판매량, 800만대 넘었다]]></title>
-        <id>https://v.daum.net/v/20240103192804608</id>
-        <link href="https://v.daum.net/v/20240103192804608"/>
-        <updated>2024-01-03T12:32:30.085Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
