@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-01-03T18:24:03.517Z</updated>
+    <updated>2024-01-03T19:19:39.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[날개 만들기]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/ZtbqgAf5DI</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/ZtbqgAf5DI"/>
+        <updated>2024-01-03T19:19:15.767Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이태원 참사 집중 조문의 날[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/HMxs10OJCV</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1489/pZVaitrRFS"/>
         <updated>2024-01-03T06:24:15.540Z</updated>
         <content type="html"><![CDATA[북한은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[까맣게 전소된 일본항공 여객기]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1407/9KJoVlnbzE</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1407/9KJoVlnbzE"/>
-        <updated>2024-01-03T06:24:15.542Z</updated>
-        <content type="html"><![CDATA[일본은 지금]]></content>
     </entry>
 </feed>
