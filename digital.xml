@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-03T11:17:00.827Z</updated>
+    <updated>2024-01-03T12:33:51.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현대바이오 "제프티 임상, 탐색 아닌 긴급승인위한 통합임상"]]></title>
+        <id>https://v.daum.net/v/20240103212209138</id>
+        <link href="https://v.daum.net/v/20240103212209138"/>
+        <updated>2024-01-03T12:33:12.191Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“누워서 유튜브 보다잤다” 이런 사람 많다 했더니…카카오 ‘발칵’ 뒤집혔다]]></title>
         <id>https://v.daum.net/v/20240103195055918</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240103180047992"/>
         <updated>2024-01-03T10:19:21.681Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2024 신년기획]위기의 대한민국, AI로 해법 모색]]></title>
-        <id>https://v.daum.net/v/20240103180115013</id>
-        <link href="https://v.daum.net/v/20240103180115013"/>
-        <updated>2024-01-03T09:19:35.890Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
