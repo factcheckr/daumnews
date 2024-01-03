@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2024-01-03T16:22:57.525Z</updated>
+    <updated>2024-01-03T17:17:05.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240104002906511"/>
         <updated>2024-01-03T16:21:16.765Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“강원대 총장 선거 반영비율 내달 4일까지 확정해야”]]></title>
+        <id>https://v.daum.net/v/20240104000628402</id>
+        <link href="https://v.daum.net/v/20240104000628402"/>
+        <updated>2024-01-03T17:14:51.635Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[목요단상] 관동팔경 백미 죽서루의 국보 승격을 축하하며]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240104000134260"/>
         <updated>2024-01-03T15:17:33.099Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이 이름도 기억하는 '친절 기사님'…'아이편한택시' 인기만점]]></title>
-        <id>https://v.daum.net/v/20240104000047237</id>
-        <link href="https://v.daum.net/v/20240104000047237"/>
-        <updated>2024-01-03T15:17:33.101Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
