@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-01-03T15:19:52.749Z</updated>
+    <updated>2024-01-03T16:22:57.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240104000550365"/>
         <updated>2024-01-03T15:19:16.316Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지치고 힘들 때 언제든 '109'로 전화해 [영상]]]></title>
+        <id>https://v.daum.net/v/20240103180047992</id>
+        <link href="https://v.daum.net/v/20240103180047992"/>
+        <updated>2024-01-03T16:22:29.853Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[2024 신년기획]위기의 대한민국, AI로 해법 모색]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240103171406190"/>
         <updated>2024-01-03T09:19:44.800Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메신저 피싱공격 펼치는 北…물가분석 자료로 '위장']]></title>
-        <id>https://v.daum.net/v/20240103170800990</id>
-        <link href="https://v.daum.net/v/20240103170800990"/>
-        <updated>2024-01-03T09:19:44.800Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

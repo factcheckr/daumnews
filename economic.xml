@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-01-03T15:19:52.801Z</updated>
+    <updated>2024-01-03T16:22:57.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[작년 채권투자 급증…블랙록 ETF에 작년 393조원 유입]]></title>
+        <id>https://v.daum.net/v/20240104001718464</id>
+        <link href="https://v.daum.net/v/20240104001718464"/>
+        <updated>2024-01-03T16:21:37.479Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정우진의 집중조명] 공공주택·동해이씨티 여파 경매시장 요동…주거시설 낙찰률 전국 최저]]></title>
         <id>https://v.daum.net/v/20240104000540358</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240104000141265"/>
         <updated>2024-01-03T15:18:02.513Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 물가 올랐다지만…'사과 한 개에 1만5000원' 실화냐]]></title>
-        <id>https://v.daum.net/v/20240103220101514</id>
-        <link href="https://v.daum.net/v/20240103220101514"/>
-        <updated>2024-01-03T15:18:02.514Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>

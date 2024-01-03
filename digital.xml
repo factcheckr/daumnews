@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-03T15:19:52.359Z</updated>
+    <updated>2024-01-03T16:22:57.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘너 차단!’… 알고리즘 일감 갑질에 플랫폼 노동자들 눈물]]></title>
+        <id>https://v.daum.net/v/20240104000411325</id>
+        <link href="https://v.daum.net/v/20240104000411325"/>
+        <updated>2024-01-03T16:22:22.608Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현대바이오 "제프티 임상, 탐색 아닌 긴급승인위한 통합임상"]]></title>
         <id>https://v.daum.net/v/20240103212209138</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240103182201568"/>
         <updated>2024-01-03T10:19:21.680Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지치고 힘들 때 언제든 '109'로 전화해 [영상]]]></title>
-        <id>https://v.daum.net/v/20240103180047992</id>
-        <link href="https://v.daum.net/v/20240103180047992"/>
-        <updated>2024-01-03T10:19:21.681Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
