@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-01-04T12:34:38.507Z</updated>
+    <updated>2024-01-04T13:22:28.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["게임만 하니까 공부 못하지!"…엄마 말이 맞았다]]></title>
+        <id>https://v.daum.net/v/20240104214754267</id>
+        <link href="https://v.daum.net/v/20240104214754267"/>
+        <updated>2024-01-04T13:21:23.264Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잠 부족한 30·40대, 10년 뒤 ‘이 기능’ 떨어져]]></title>
         <id>https://v.daum.net/v/20240104210015661</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240104200015763"/>
         <updated>2024-01-04T11:16:09.694Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<뉴스브릿지> "나는 왜 꾸물거릴까?" 미루는 습관의 이유]]></title>
-        <id>https://v.daum.net/v/20240104195531679</id>
-        <link href="https://v.daum.net/v/20240104195531679"/>
-        <updated>2024-01-04T11:16:09.695Z</updated>
-        <content type="html"><![CDATA[EBS]]></content>
     </entry>
 </feed>
