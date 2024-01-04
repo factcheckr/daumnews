@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-04T22:19:10.814Z</updated>
+    <updated>2024-01-04T23:19:50.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[알리바바 "사진 올리면 춤추는 영상으로 바꿔줘요"]]></title>
+        <id>https://v.daum.net/v/20240105080917605</id>
+        <link href="https://v.daum.net/v/20240105080917605"/>
+        <updated>2024-01-04T23:19:12.417Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유튜브·X 가짜뉴스 차단…"법으로 규제 독일 참고해야"]]></title>
+        <id>https://v.daum.net/v/20240105073001073</id>
+        <link href="https://v.daum.net/v/20240105073001073"/>
+        <updated>2024-01-04T23:19:12.418Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“새해라고 키보드 새로 샀는데”…30년만에 ‘새로운 키’ 추가된다고?]]></title>
         <id>https://v.daum.net/v/20240105070901913</id>
         <link href="https://v.daum.net/v/20240105070901913"/>
         <updated>2024-01-04T22:18:23.038Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["마흔에 다시 시작한 영어…10년간 공부해 실리콘밸리 갔죠"]]></title>
-        <id>https://v.daum.net/v/20240105070017780</id>
-        <link href="https://v.daum.net/v/20240105070017780"/>
-        <updated>2024-01-04T22:18:23.040Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넥슨 ‘확률 조작’ 과징금 제재… 게임 업계 파장 촉각]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240105060105149"/>
         <updated>2024-01-04T21:16:55.648Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[테크톡톡] 긴 잠에서 깬 ‘거인’ 인텔, 올해 세계 반도체 시장 판세 흔든다]]></title>
-        <id>https://v.daum.net/v/20240105060055137</id>
-        <link href="https://v.daum.net/v/20240105060055137"/>
-        <updated>2024-01-04T21:16:55.656Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
