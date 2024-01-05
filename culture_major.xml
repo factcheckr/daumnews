@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-01-05T13:22:25.185Z</updated>
+    <updated>2024-01-05T14:18:10.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[똑똑한 개, 멍청한 개는 없다]]></title>
+        <id>https://v.daum.net/v/20240105200900566</id>
+        <link href="https://v.daum.net/v/20240105200900566"/>
+        <updated>2024-01-05T14:17:19.991Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<뉴스브릿지> "90년생 넘어 2000년생이 온다"]]></title>
         <id>https://v.daum.net/v/20240105194611174</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240105181322003"/>
         <updated>2024-01-05T10:19:38.951Z</updated>
         <content type="html"><![CDATA[더스쿠프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노인들 생명 위협하는 ‘낙상’…미리 예방하려면?]]></title>
-        <id>https://v.daum.net/v/20240105180802907</id>
-        <link href="https://v.daum.net/v/20240105180802907"/>
-        <updated>2024-01-05T10:19:38.951Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
     </entry>
 </feed>

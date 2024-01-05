@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-01-05T13:22:25.184Z</updated>
+    <updated>2024-01-05T14:18:10.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[감기약 품귀 현상에… 먹다 남은 약 먹어도 될까?]]></title>
+        <id>https://v.daum.net/v/20240105230014581</id>
+        <link href="https://v.daum.net/v/20240105230014581"/>
+        <updated>2024-01-05T14:17:11.104Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[문화가K] 인간과 황새의 공존, 그 10년의 기록]]></title>
         <id>https://v.daum.net/v/20240105220804263</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240105162833682"/>
         <updated>2024-01-05T12:35:35.329Z</updated>
         <content type="html"><![CDATA[전주MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[똑똑한 개, 멍청한 개는 없다]]></title>
-        <id>https://v.daum.net/v/20240105200900566</id>
-        <link href="https://v.daum.net/v/20240105200900566"/>
-        <updated>2024-01-05T11:16:17.978Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
