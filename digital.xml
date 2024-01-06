@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-06T11:16:15.188Z</updated>
+    <updated>2024-01-06T12:32:24.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“이러면 다들 아이폰 산다?” 172만→184만원…삼성 ‘12만원’ 전격 인상]]></title>
+        <id>https://v.daum.net/v/20240106184110435</id>
+        <link href="https://v.daum.net/v/20240106184110435"/>
+        <updated>2024-01-06T12:31:42.910Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美연구진 "초창기 우주는 원형 아닌 길쭉한 바나나 모양"]]></title>
         <id>https://v.daum.net/v/20240106194556830</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240106152501815"/>
         <updated>2024-01-06T07:16:39.156Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강성주 세종대 교수, 'AI 디지털 국가전략' 북콘서트 8일 개최]]></title>
-        <id>https://v.daum.net/v/20240106135833989</id>
-        <link href="https://v.daum.net/v/20240106135833989"/>
-        <updated>2024-01-06T05:17:01.078Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
