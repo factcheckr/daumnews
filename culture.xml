@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-01-06T19:15:36.946Z</updated>
+    <updated>2024-01-06T20:24:45.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김치에 깨 뿌린 줄… 배추에 나타난 검은 점, 먹어도 될까?]]></title>
+        <id>https://v.daum.net/v/20240107050016400</id>
+        <link href="https://v.daum.net/v/20240107050016400"/>
+        <updated>2024-01-06T20:23:51.048Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[녹아내리는 빙하..."2050년 우리 해안선  모습 바뀐다"]]></title>
         <id>https://v.daum.net/v/20240107032811335</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240106203815283"/>
         <updated>2024-01-06T12:31:23.505Z</updated>
         <content type="html"><![CDATA[대구MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“설탕, 사탕 드세요”... 아침 공복 운동이 위험한 사람은?]]></title>
-        <id>https://v.daum.net/v/20240106202631162</id>
-        <link href="https://v.daum.net/v/20240106202631162"/>
-        <updated>2024-01-06T12:31:23.507Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
