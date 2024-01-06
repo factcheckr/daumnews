@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2024-01-06T17:17:16.920Z</updated>
+    <updated>2024-01-06T18:22:40.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한, 불량국가들의 병참기지 되나]]></title>
+        <id>https://v.daum.net/v/20240107030001322</id>
+        <link href="https://v.daum.net/v/20240107030001322"/>
+        <updated>2024-01-06T18:20:46.782Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹, '쌍특검' 거부…김건희 여사 '조용한 내조' 돌입하나]]></title>
         <id>https://v.daum.net/v/20240107000129010</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240107000001969"/>
         <updated>2024-01-06T15:16:20.803Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문 전 대통령 “민주주의 다시 위태롭고 민생 어려워져”]]></title>
-        <id>https://v.daum.net/v/20240106220302251</id>
-        <link href="https://v.daum.net/v/20240106220302251"/>
-        <updated>2024-01-06T14:15:14.691Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
