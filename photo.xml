@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-01-06T20:24:45.063Z</updated>
+    <updated>2024-01-06T21:16:41.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ICBM 발사대 공장에 김정은과 나타난 김주애[노동신문 사진]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5611950/VLSU04ZwF1</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5611950/VLSU04ZwF1"/>
+        <updated>2024-01-06T21:16:11.151Z</updated>
+        <content type="html"><![CDATA[노동신문 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한미일 첫 인도·태평양 대화 개최]]></title>
         <id>https://gallery.v.daum.net/p/viewer/321090/HclObQFO0Q</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615613/F25ZLZEQo3"/>
         <updated>2024-01-05T08:23:11.629Z</updated>
         <content type="html"><![CDATA[노컷한컷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선생님도 받으세요']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5610796/q7ZdZduSUn</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5610796/q7ZdZduSUn"/>
-        <updated>2024-01-05T08:23:11.630Z</updated>
-        <content type="html"><![CDATA[모멘트]]></content>
     </entry>
 </feed>
