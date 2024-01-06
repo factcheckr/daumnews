@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-01-06T08:22:30.999Z</updated>
+    <updated>2024-01-06T09:17:43.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["부동산PF 최대 70조 부실 우려…부실사업장 정리 필요"]]></title>
+        <id>https://v.daum.net/v/20240106142648265</id>
+        <link href="https://v.daum.net/v/20240106142648265"/>
+        <updated>2024-01-06T09:16:19.318Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘세컨드 별장’ 사도 1주택...3주택부터 다주택, 농촌 소멸 돌파구 되나 [부동산 아토즈]]]></title>
         <id>https://v.daum.net/v/20240106140014009</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240106103258512"/>
         <updated>2024-01-06T04:21:01.128Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맥주 24캔 한 상자 6300원?…日 유통사도 고객도 ‘소비기한의 마법’]]></title>
-        <id>https://v.daum.net/v/20240106115400174</id>
-        <link href="https://v.daum.net/v/20240106115400174"/>
-        <updated>2024-01-06T04:21:01.130Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>

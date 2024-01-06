@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-01-06T08:22:30.998Z</updated>
+    <updated>2024-01-06T09:17:43.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[컵라면 쓰레기는 왜 책임 안 져?…팔 때는 신나게 팔더니 재활용은 절반만 [지구, 뭐래?]]]></title>
+        <id>https://v.daum.net/v/20240106115106156</id>
+        <link href="https://v.daum.net/v/20240106115106156"/>
+        <updated>2024-01-06T09:17:09.798Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[육식으로 몸속 미생물 주류 교체…인간을 역습하다]]></title>
         <id>https://v.daum.net/v/20240106110502798</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240106083004407"/>
         <updated>2024-01-06T01:16:03.200Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5명 중 1명은 고령자…디지털 헬스케어 사각지대 놓인 노령층]]></title>
-        <id>https://v.daum.net/v/20240106080503253</id>
-        <link href="https://v.daum.net/v/20240106080503253"/>
-        <updated>2024-01-06T01:16:03.202Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
