@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-01-06T01:16:40.788Z</updated>
+    <updated>2024-01-06T02:29:15.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 법무부, '애플 생태계' 독점 혐의 조사]]></title>
+        <id>https://v.daum.net/v/20240106090016590</id>
+        <link href="https://v.daum.net/v/20240106090016590"/>
+        <updated>2024-01-06T02:28:46.208Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용인시, 반도체클러스터 내 '컨벤션·호텔→상업시설' 변경 추진]]></title>
+        <id>https://v.daum.net/v/20240106090014587</id>
+        <link href="https://v.daum.net/v/20240106090014587"/>
+        <updated>2024-01-06T02:28:46.209Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요금제 낮추고 장기가입 데이터 쿠폰 써볼까[슬기로운 통신생활]]]></title>
         <id>https://v.daum.net/v/20240106083004407</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240106080003137"/>
         <updated>2024-01-05T23:18:58.228Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 IP 활용한 모바일 게임 플레이…퀄리티 '천차만별'[토요리뷰]]]></title>
-        <id>https://v.daum.net/v/20240106073009937</id>
-        <link href="https://v.daum.net/v/20240106073009937"/>
-        <updated>2024-01-05T23:18:58.230Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우리도 안심 못해"…열도 뒤흔든 7.6 강진에 바빠진 한국, 왜?]]></title>
-        <id>https://v.daum.net/v/20240106070001655</id>
-        <link href="https://v.daum.net/v/20240106070001655"/>
-        <updated>2024-01-05T23:18:58.232Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
