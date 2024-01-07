@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-07T09:18:46.643Z</updated>
+    <updated>2024-01-07T10:20:19.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“콧대 높은 애플이 정말?” 30만→10만원, 반값 ‘에어팟’ 드디어 등장]]></title>
+        <id>https://v.daum.net/v/20240107185033725</id>
+        <link href="https://v.daum.net/v/20240107185033725"/>
+        <updated>2024-01-07T10:19:33.532Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재송[테크&포커스]AI의 역습…국내외 가리지 않고 `일자리 소멸` 시작됐다]]></title>
+        <id>https://v.daum.net/v/20240107184052615</id>
+        <link href="https://v.daum.net/v/20240107184052615"/>
+        <updated>2024-01-07T10:19:33.533Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] '쇄신' 카카오엔터프라이즈, 클라우드 빼곤 정리한다]]></title>
         <id>https://v.daum.net/v/20240107175116869</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240107171003074"/>
         <updated>2024-01-07T08:22:26.688Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DX시대, 선박도 해킹 예외 아니다…1600여곳 사이버위협 노출]]></title>
-        <id>https://v.daum.net/v/20240107170106833</id>
-        <link href="https://v.daum.net/v/20240107170106833"/>
-        <updated>2024-01-07T08:22:26.689Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["챗GPT로 현대판 러다이트 운동 생길 수도" [미국경제학회 2024]]]></title>
-        <id>https://v.daum.net/v/20240107162202058</id>
-        <link href="https://v.daum.net/v/20240107162202058"/>
-        <updated>2024-01-07T08:22:26.690Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
