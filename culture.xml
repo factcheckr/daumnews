@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-01-07T18:22:51.028Z</updated>
+    <updated>2024-01-07T19:16:01.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아침 영하 10도 밑으로 '뚝'…내일부턴 눈 소식도 [날씨]]]></title>
+        <id>https://v.daum.net/v/20240108033125294</id>
+        <link href="https://v.daum.net/v/20240108033125294"/>
+        <updated>2024-01-07T19:14:59.810Z</updated>
+        <content type="html"><![CDATA[경기일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몸짓으로 치매·자폐 그린 연극… 대사 없이도 관객들이 운다]]></title>
         <id>https://v.daum.net/v/20240108030049067</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240108000602743"/>
         <updated>2024-01-07T15:17:57.988Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[녹유 오늘의 운세] 03년생 온다했던 약속 메아리가 되어요]]></title>
-        <id>https://v.daum.net/v/20240108000014597</id>
-        <link href="https://v.daum.net/v/20240108000014597"/>
-        <updated>2024-01-07T15:17:57.990Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
