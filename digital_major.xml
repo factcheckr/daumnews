@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-01-07T21:17:05.648Z</updated>
+    <updated>2024-01-07T22:18:29.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[VC, AI와 만나다] 병실 ‘쿵’ 소리에 AI 낙상 발생 경고… 기계, 보는 것 넘어 이제 듣는다]]></title>
+        <id>https://v.daum.net/v/20240108060049157</id>
+        <link href="https://v.daum.net/v/20240108060049157"/>
+        <updated>2024-01-07T22:17:58.044Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[CES 2024] ‘AI’가 강타한 지상 최대 테크쇼… 반도체·자율주행·PC·뷰티테크 신기술 총출동]]></title>
         <id>https://v.daum.net/v/20240108060115194</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240108050239774"/>
         <updated>2024-01-07T21:16:27.623Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[와, 저게 뭐야… CES에 놀라고 ‘스피어’에 또 놀라고]]></title>
-        <id>https://v.daum.net/v/20240108034325311</id>
-        <link href="https://v.daum.net/v/20240108034325311"/>
-        <updated>2024-01-07T21:16:27.625Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
