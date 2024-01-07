@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-01-07T15:19:03.566Z</updated>
+    <updated>2024-01-07T16:22:56.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20240108000621756"/>
         <updated>2024-01-07T15:18:06.340Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신의 흔한 문장에는 ‘낯섦’이 있는가]]></title>
+        <id>https://v.daum.net/v/20240107220812083</id>
+        <link href="https://v.daum.net/v/20240107220812083"/>
+        <updated>2024-01-07T16:22:00.046Z</updated>
+        <content type="html"><![CDATA[한겨레21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시진핑도 언급했던 '노량해전'의 이순신과 진린]]></title>
+        <id>https://v.daum.net/v/20240107215604993</id>
+        <link href="https://v.daum.net/v/20240107215604993"/>
+        <updated>2024-01-07T16:22:00.047Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[주말앤문화] 한국화를 바라보는 두 가지 시선]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240107190010808"/>
         <updated>2024-01-07T12:31:55.076Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생기자마자 랜드마크로…"라스베이거스 가면 꼭 봐요"]]></title>
-        <id>https://v.daum.net/v/20240107182502439</id>
-        <link href="https://v.daum.net/v/20240107182502439"/>
-        <updated>2024-01-07T12:31:55.077Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스B] '생일카페'를 아시나요…BTS 뷔·뉴턴 없어도 "행복해"]]></title>
-        <id>https://v.daum.net/v/20240107182554450</id>
-        <link href="https://v.daum.net/v/20240107182554450"/>
-        <updated>2024-01-07T12:31:55.078Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
