@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-01-08T15:20:12.627Z</updated>
+    <updated>2024-01-08T16:24:24.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[초대 과기수석에 김형숙 거명…이용훈 유지상 등도 후보군 거론]]></title>
+        <id>https://v.daum.net/v/20240108222417129</id>
+        <link href="https://v.daum.net/v/20240108222417129"/>
+        <updated>2024-01-08T16:23:00.392Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민주 "특검법 거부는 직권남용" 권한쟁의심판 정쟁으로 번지나]]></title>
         <id>https://v.daum.net/v/20240108192447071</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240108213816694"/>
         <updated>2024-01-08T13:21:45.044Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주당 "총리실은 이재명 건강상태 유포된 경위 공개하라"]]></title>
-        <id>https://v.daum.net/v/20240108192215041</id>
-        <link href="https://v.daum.net/v/20240108192215041"/>
-        <updated>2024-01-08T13:21:45.045Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>

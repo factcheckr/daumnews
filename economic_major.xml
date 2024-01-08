@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-01-08T15:20:12.627Z</updated>
+    <updated>2024-01-08T16:24:24.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["작년에도 올리더니 또 올려?···이번엔 얼마나 올리려나"···서울시민 한숨 '푹푹']]></title>
+        <id>https://v.daum.net/v/20240108222404127</id>
+        <link href="https://v.daum.net/v/20240108222404127"/>
+        <updated>2024-01-08T16:23:15.132Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해 CES 기선 제압은 '투명 디스플레이']]></title>
         <id>https://v.daum.net/v/20240108194447332</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240108201850829"/>
         <updated>2024-01-08T14:17:29.466Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이러다 현대·기아차만 타겠네"…중견 3사 '회심의 반격']]></title>
-        <id>https://v.daum.net/v/20240108210102294</id>
-        <link href="https://v.daum.net/v/20240108210102294"/>
-        <updated>2024-01-08T13:22:00.985Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
