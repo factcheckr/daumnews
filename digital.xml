@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-08T18:24:29.176Z</updated>
+    <updated>2024-01-08T19:16:19.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["가짜뉴스 위협, 민·관 합동대응으로 대응해야"]]></title>
+        <id>https://v.daum.net/v/20240109040007705</id>
+        <link href="https://v.daum.net/v/20240109040007705"/>
+        <updated>2024-01-08T19:15:45.381Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CES2024 참가 안하는 애플, 개막 하루 앞두고 꼼수 발표]]></title>
         <id>https://v.daum.net/v/20240109031849619</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240108221014015"/>
         <updated>2024-01-08T13:22:46.684Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5개월째 '2인 방통위'…공무원노조 "상임위원 조속히 구성하라"]]></title>
-        <id>https://v.daum.net/v/20240108220958010</id>
-        <link href="https://v.daum.net/v/20240108220958010"/>
-        <updated>2024-01-08T13:22:46.688Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
 </feed>
