@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-10T10:20:45.359Z</updated>
+    <updated>2024-01-10T11:18:08.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[복지부 “의대 증원 속도낼 것… ‘350명 증원 의견’ 의미 안 둬”]]></title>
+        <id>https://v.daum.net/v/20240110201346144</id>
+        <link href="https://v.daum.net/v/20240110201346144"/>
+        <updated>2024-01-10T11:17:19.420Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[CES 2024] 올해 최고혁신상 받은 이색 제품은?]]></title>
         <id>https://v.daum.net/v/20240110185703828</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240110172843467"/>
         <updated>2024-01-10T09:19:26.954Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[CES 2024] 인텔, 소비자용 AI 칩부터 차량용 솔루션까지 대거 공개]]></title>
-        <id>https://v.daum.net/v/20240110143005273</id>
-        <link href="https://v.daum.net/v/20240110143005273"/>
-        <updated>2024-01-10T09:19:26.955Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>

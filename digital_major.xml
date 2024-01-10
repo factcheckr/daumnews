@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-01-10T10:20:45.352Z</updated>
+    <updated>2024-01-10T11:18:08.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[CES 2024] 인텔, 소비자용 AI 칩부터 차량용 솔루션까지 대거 공개]]></title>
+        <id>https://v.daum.net/v/20240110143005273</id>
+        <link href="https://v.daum.net/v/20240110143005273"/>
+        <updated>2024-01-10T11:17:27.381Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[CES 2024] CTA가 추구하는 스타트업 트렌드는 'AI·디지털 헬스·푸드테크']]></title>
         <id>https://v.daum.net/v/20240110130000109</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240110172504339"/>
         <updated>2024-01-10T09:19:38.398Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["정유사, SAF 생산 근거 마련됐다"...상용화 핵심은 경제성·수요 확대]]></title>
-        <id>https://v.daum.net/v/20240110171525040</id>
-        <link href="https://v.daum.net/v/20240110171525040"/>
-        <updated>2024-01-10T09:19:38.400Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
