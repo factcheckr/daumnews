@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-01-11T11:16:47.961Z</updated>
+    <updated>2024-01-11T12:34:50.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["새벽 4시에 나와도…" 불경기·중고 거래에 '시들해진' 꽃 대목]]></title>
+        <id>https://v.daum.net/v/20240111204112298</id>
+        <link href="https://v.daum.net/v/20240111204112298"/>
+        <updated>2024-01-11T12:33:46.857Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[막힌 코 뚫겠다고 한쪽 막고 ‘흥’, 고막에 구멍 난다?]]></title>
         <id>https://v.daum.net/v/20240111200015600</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240111190015493"/>
         <updated>2024-01-11T10:19:53.164Z</updated>
         <content type="html"><![CDATA[농민신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난해 항공승객 4년만에 1억명 돌파… 코로나 이전 81.5% 도달]]></title>
-        <id>https://v.daum.net/v/20240111182317714</id>
-        <link href="https://v.daum.net/v/20240111182317714"/>
-        <updated>2024-01-11T10:19:53.168Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
