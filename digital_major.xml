@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-01-11T15:25:02.318Z</updated>
+    <updated>2024-01-11T16:25:29.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔진 본체 스스로 해체하는 로켓 개발…"우주쓰레기 줄여"]]></title>
+        <id>https://v.daum.net/v/20240111174612574</id>
+        <link href="https://v.daum.net/v/20240111174612574"/>
+        <updated>2024-01-11T16:24:51.437Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[희토류 공급망 新동맹 떠오른 몽골·베트남·인니...“중국 의존도 낮춘다”]]></title>
         <id>https://v.daum.net/v/20240111172923992</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240111160854666"/>
         <updated>2024-01-11T08:23:31.120Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성가 세 모녀 상속세 거의 다 냈다...매년 2조원 넘게 납부]]></title>
-        <id>https://v.daum.net/v/20240111160153348</id>
-        <link href="https://v.daum.net/v/20240111160153348"/>
-        <updated>2024-01-11T08:23:31.121Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
