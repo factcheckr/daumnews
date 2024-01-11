@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-11T03:20:56.134Z</updated>
+    <updated>2024-01-11T04:23:48.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블룸버그 “오픈AI, CNN·폭스·타임지와 콘텐츠 사용계약 논의 중”]]></title>
+        <id>https://v.daum.net/v/20240111111034573</id>
+        <link href="https://v.daum.net/v/20240111111034573"/>
+        <updated>2024-01-11T04:23:06.017Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개인정보위 "개인정보 분야 국제 허브로 도약하는 원년 삼을 것"]]></title>
         <id>https://v.daum.net/v/20240111120021839</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240111114103047"/>
         <updated>2024-01-11T03:20:18.212Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알뜰폰 내년 고비 온다…전파료·개별협상 이중고]]></title>
-        <id>https://v.daum.net/v/20240111111204661</id>
-        <link href="https://v.daum.net/v/20240111111204661"/>
-        <updated>2024-01-11T03:20:18.213Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
