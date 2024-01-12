@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-01-12T02:33:56.131Z</updated>
+    <updated>2024-01-12T03:21:25.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[똑똑해질수록 위험한 AI…혁신과 통제의 균형이 답]]></title>
+        <id>https://v.daum.net/v/20240112103459132</id>
+        <link href="https://v.daum.net/v/20240112103459132"/>
+        <updated>2024-01-12T03:20:44.380Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中, 바다서 로켓 쐈다…중국 상업용 로켓 탑재량 기록 경신 [우주로 간다]]]></title>
         <id>https://v.daum.net/v/20240112103126004</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240112090034961"/>
         <updated>2024-01-12T01:17:43.242Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글클라우드, 데이터 이전 비용 면제 프로그램 시행]]></title>
-        <id>https://v.daum.net/v/20240112085924898</id>
-        <link href="https://v.daum.net/v/20240112085924898"/>
-        <updated>2024-01-12T01:17:43.244Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>

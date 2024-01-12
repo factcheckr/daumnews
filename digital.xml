@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-12T02:33:56.141Z</updated>
+    <updated>2024-01-12T03:21:25.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바퀴달린 신발부터 아기울음 번역까지...CES 이색 기술 '눈길']]></title>
+        <id>https://v.daum.net/v/20240112113549592</id>
+        <link href="https://v.daum.net/v/20240112113549592"/>
+        <updated>2024-01-12T03:20:32.123Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NIA, 조직 재편···DPG 확대하고 AI정책본부 등 신설]]></title>
         <id>https://v.daum.net/v/20240112110745453</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240112070501028"/>
         <updated>2024-01-12T02:33:12.051Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[똑똑해질수록 위험한 AI…혁신과 통제의 균형이 답]]></title>
-        <id>https://v.daum.net/v/20240112103459132</id>
-        <link href="https://v.daum.net/v/20240112103459132"/>
-        <updated>2024-01-12T02:33:12.052Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
