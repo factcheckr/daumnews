@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2024-01-12T13:22:34.134Z</updated>
+    <updated>2024-01-12T14:18:51.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[혐의 부인 노웅래, 법원엔 “‘부스럭’ 그날 돈 받았지만 합법 후원금”]]></title>
+        <id>https://v.daum.net/v/20240112224914782</id>
+        <link href="https://v.daum.net/v/20240112224914782"/>
+        <updated>2024-01-12T14:16:43.515Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준석, 한동훈 직격 “비대위원장이 공천하는 건 당헌·당규 위반”]]></title>
         <id>https://v.daum.net/v/20240112220731547</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240112214121279"/>
         <updated>2024-01-12T13:20:35.175Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령실, 설 맞아 '특별사면' 검토…서민·소상공인, 정치인 등]]></title>
-        <id>https://v.daum.net/v/20240112213900267</id>
-        <link href="https://v.daum.net/v/20240112213900267"/>
-        <updated>2024-01-12T13:20:35.176Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
 </feed>
