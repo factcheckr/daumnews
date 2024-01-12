@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-01-12T18:24:30.980Z</updated>
+    <updated>2024-01-12T19:18:28.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[굿바이 만나분식]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1573204/teu9aIxp3G</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1573204/teu9aIxp3G"/>
+        <updated>2024-01-12T19:18:02.051Z</updated>
+        <content type="html"><![CDATA[[아무튼, 주말] 오종찬 기자의 Oh!컷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[든든한 레드라인]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/82u03WLKI4</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5611568/WWIrM7OJGF"/>
         <updated>2024-01-12T06:25:26.213Z</updated>
         <content type="html"><![CDATA[사진잇슈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주당 공관위 첫 회의]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5610796/pPxeL2TNpg</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5610796/pPxeL2TNpg"/>
-        <updated>2024-01-12T06:25:26.214Z</updated>
-        <content type="html"><![CDATA[모멘트]]></content>
     </entry>
 </feed>
