@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-01-12T14:18:51.428Z</updated>
+    <updated>2024-01-12T15:20:00.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[강원 항만·물류 활성화, 강원항만공사 설립이 해법?]]></title>
-        <id>https://v.daum.net/v/20240112215231390</id>
-        <link href="https://v.daum.net/v/20240112215231390"/>
-        <updated>2024-01-12T14:17:13.893Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[“4대 보험도 밀려”…위니아 구제 대안 나오나]]></title>
         <id>https://v.daum.net/v/20240112215222389</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20240112212411169"/>
         <updated>2024-01-12T13:21:01.619Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[소멸시계 빨라졌다] 제주 떠나는  청년들]]></title>
+        <id>https://v.daum.net/v/20240112210207979</id>
+        <link href="https://v.daum.net/v/20240112210207979"/>
+        <updated>2024-01-12T15:18:21.236Z</updated>
+        <content type="html"><![CDATA[JIBS]]></content>
     </entry>
 </feed>
