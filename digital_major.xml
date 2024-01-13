@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-01-13T10:19:36.627Z</updated>
+    <updated>2024-01-13T11:16:13.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제약바이오업계가 평가한 성장 잠재력 순위...암 >희귀질환 >비만]]></title>
+        <id>https://v.daum.net/v/20240113150015444</id>
+        <link href="https://v.daum.net/v/20240113150015444"/>
+        <updated>2024-01-13T11:15:44.304Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["제2의 AI스피커 vs 스마트폰 15년만의 진화"…AI갤럭시 미래는]]></title>
         <id>https://v.daum.net/v/20240113142001156</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240113110008764"/>
         <updated>2024-01-13T05:18:04.558Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI로 만든 ‘그놈 목소리’ 잡는 ‘AI 보안관’ 등장… “정확도 90%”]]></title>
-        <id>https://v.daum.net/v/20240113014050922</id>
-        <link href="https://v.daum.net/v/20240113014050922"/>
-        <updated>2024-01-13T04:22:52.305Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
