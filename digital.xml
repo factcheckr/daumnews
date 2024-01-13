@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-13T08:22:43.794Z</updated>
+    <updated>2024-01-13T09:17:53.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CES2024 나흘간 대장정 마무리…AI·디지털헬스케어 기술 향연]]></title>
+        <id>https://v.daum.net/v/20240113172018468</id>
+        <link href="https://v.daum.net/v/20240113172018468"/>
+        <updated>2024-01-13T09:17:17.988Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영상]"CG가 필요없죠"…소니의 야심작 'AI 가상 촬영'[CES 2024]]]></title>
         <id>https://v.daum.net/v/20240113164106165</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240113140001983"/>
         <updated>2024-01-13T05:17:57.425Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오픈AI, 연초부터 법정 공방 ‘가시밭길’…출판계-언론계 ‘정조준’]]></title>
-        <id>https://v.daum.net/v/20240113140005988</id>
-        <link href="https://v.daum.net/v/20240113140005988"/>
-        <updated>2024-01-13T05:17:57.427Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
