@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-14T11:16:43.209Z</updated>
+    <updated>2024-01-14T12:32:51.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진화하는 AI 로봇, K 헬스케어‥세계무대 도전장]]></title>
+        <id>https://v.daum.net/v/20240114202213367</id>
+        <link href="https://v.daum.net/v/20240114202213367"/>
+        <updated>2024-01-14T12:32:04.132Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["비싸지만 푹 빠져"…월 1만2000원에도 인기 폭발한 OTT]]></title>
+        <id>https://v.daum.net/v/20240114190005672</id>
+        <link href="https://v.daum.net/v/20240114190005672"/>
+        <updated>2024-01-14T12:32:04.132Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[CES 2024]전자신문 좌담회 “거를 수 없는 대세 AI, 규제 혁파로 생태계 활성화해야”]]></title>
         <id>https://v.daum.net/v/20240114160130571</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240114185034564"/>
         <updated>2024-01-14T10:19:07.317Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘쿠키’ 이제 끊습니다?...광고업계가 후덜덜 떠는 이유 [뉴스 쉽게보기]]]></title>
-        <id>https://v.daum.net/v/20240114184505507</id>
-        <link href="https://v.daum.net/v/20240114184505507"/>
-        <updated>2024-01-14T10:19:07.318Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI로 바뀐 경쟁구도, 플랫폼법에 흔들리는 IT보국 [김현아의 IT세상읽기]]]></title>
-        <id>https://v.daum.net/v/20240114175349822</id>
-        <link href="https://v.daum.net/v/20240114175349822"/>
-        <updated>2024-01-14T10:19:07.320Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
