@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-01-14T14:18:30.640Z</updated>
+    <updated>2024-01-14T15:21:29.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연초 CES 대신 사우디 찾은 네이버]]></title>
-        <id>https://v.daum.net/v/20240114171800053</id>
-        <link href="https://v.daum.net/v/20240114171800053"/>
-        <updated>2024-01-14T10:19:14.652Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[애플·구글 플랫폼 허물어뜨릴까 … AI제국 MS의 부상]]></title>
         <id>https://v.daum.net/v/20240114165400427</id>
         <link href="https://v.daum.net/v/20240114165400427"/>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20240114164859361"/>
         <updated>2024-01-14T10:19:14.657Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, AI조직 `구조조정`...AI 큰 그림 바뀌나]]></title>
+        <id>https://v.daum.net/v/20240114163713190</id>
+        <link href="https://v.daum.net/v/20240114163713190"/>
+        <updated>2024-01-14T15:21:01.995Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
