@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-01-14T16:23:11.317Z</updated>
+    <updated>2024-01-14T17:16:34.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -10,6 +10,20 @@
         <id>https://v.daum.net/v/20240115004522486</id>
         <link href="https://v.daum.net/v/20240115004522486"/>
         <updated>2024-01-14T16:21:57.326Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“한국, 트럼프가 흥미를 느낄만한 제안해보라” [UPDATE 2024]]]></title>
+        <id>https://v.daum.net/v/20240115000121134</id>
+        <link href="https://v.daum.net/v/20240115000121134"/>
+        <updated>2024-01-14T17:15:35.205Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[83세 덴마크 여왕의 용퇴 결단, 북유럽 왕실 문화 바꿀까]]></title>
+        <id>https://v.daum.net/v/20240114223418681</id>
+        <link href="https://v.daum.net/v/20240114223418681"/>
+        <updated>2024-01-14T17:15:35.206Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
     </entry>
     <entry>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240114213207033"/>
         <updated>2024-01-14T14:17:30.065Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“2번 한표” 외치면 수작업으로 ‘正’ 적는 대만의 개표 문화…누구나 관람 가능]]></title>
-        <id>https://v.daum.net/v/20240114201910352</id>
-        <link href="https://v.daum.net/v/20240114201910352"/>
-        <updated>2024-01-14T14:17:30.067Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이슬란드 화산, 한달만에 다시 분출…용암 흘러]]></title>
-        <id>https://v.daum.net/v/20240114211941922</id>
-        <link href="https://v.daum.net/v/20240114211941922"/>
-        <updated>2024-01-14T14:17:30.069Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
