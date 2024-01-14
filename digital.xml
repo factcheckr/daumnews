@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-14T02:36:12.616Z</updated>
+    <updated>2024-01-14T03:20:23.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 카카오 ‘애플 베끼기’ 결국 실패하나…상표권 소송 또 패배 [법조인싸]]]></title>
+        <id>https://v.daum.net/v/20240114112100736</id>
+        <link href="https://v.daum.net/v/20240114112100736"/>
+        <updated>2024-01-14T03:19:46.771Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[CES 2024] 라스베이거스를 미래도시로 꾸며준 ‘루프’와 ‘스피어’]]></title>
         <id>https://v.daum.net/v/20240114110510426</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240114095505241"/>
         <updated>2024-01-14T01:22:22.952Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플코리아 작년 영업익 650%↑…김영식 "한국만 높은 출고가"]]></title>
-        <id>https://v.daum.net/v/20240114093201960</id>
-        <link href="https://v.daum.net/v/20240114093201960"/>
-        <updated>2024-01-14T01:22:22.953Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
