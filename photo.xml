@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-01-15T18:24:04.545Z</updated>
+    <updated>2024-01-15T19:15:52.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가방도 외투도, 놀 때는 안녕]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/QniBEDf5Dd</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/QniBEDf5Dd"/>
+        <updated>2024-01-15T19:15:31.225Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[횡성 주택에서 화재]]></title>
         <id>https://gallery.v.daum.net/p/viewer/386/PxqbVfWAzh</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5611584/P9liSCMUzy"/>
         <updated>2024-01-15T06:29:26.313Z</updated>
         <content type="html"><![CDATA[쿡 정치포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한파에 활짝 핀 소양강 상고대]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5610796/z2SxdM1m0R</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5610796/z2SxdM1m0R"/>
-        <updated>2024-01-15T06:29:26.315Z</updated>
-        <content type="html"><![CDATA[모멘트]]></content>
     </entry>
 </feed>
