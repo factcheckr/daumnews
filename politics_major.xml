@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-01-15T15:25:35.941Z</updated>
+    <updated>2024-01-15T16:25:04.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘김용 재판 위증교사’ 前 이재명 캠프 인사 2명 구속]]></title>
+        <id>https://v.daum.net/v/20240115215730498</id>
+        <link href="https://v.daum.net/v/20240115215730498"/>
+        <updated>2024-01-15T16:23:18.583Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['김용 재판 위증' 이재명 대선 캠프 관계자 2명 구속]]></title>
         <id>https://v.daum.net/v/20240115220300612</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240115203122191"/>
         <updated>2024-01-15T13:26:02.152Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부정적 여론에 김희현 결국  사퇴]]></title>
-        <id>https://v.daum.net/v/20240115210448720</id>
-        <link href="https://v.daum.net/v/20240115210448720"/>
-        <updated>2024-01-15T13:26:02.155Z</updated>
-        <content type="html"><![CDATA[JIBS]]></content>
     </entry>
 </feed>
