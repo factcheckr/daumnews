@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-01-16T18:24:11.815Z</updated>
+    <updated>2024-01-16T19:16:34.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20240117030313177"/>
         <updated>2024-01-16T18:23:42.560Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성 언팩 D-1…'첫 AI폰' 갤럭시S24 어떤 기능 탑재했나]]></title>
+        <id>https://v.daum.net/v/20240117000115350</id>
+        <link href="https://v.daum.net/v/20240117000115350"/>
+        <updated>2024-01-16T19:16:02.402Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라오어2 리마스터 "분명 같은 스토린데 훨씬 풍성해졌다"]]></title>
+        <id>https://v.daum.net/v/20240117000012323</id>
+        <link href="https://v.daum.net/v/20240117000012323"/>
+        <updated>2024-01-16T19:16:02.403Z</updated>
+        <content type="html"><![CDATA[게임톡]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“AI 댓글, 백만 원이면 제작”…‘선거 여론 조작’ 대책은? [정치개혁 K 2024]]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240116170019317"/>
         <updated>2024-01-16T14:19:22.952Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 울산과기원(UNIST) 병원 생긴다…동남권원자력의학원과 통합 추진]]></title>
-        <id>https://v.daum.net/v/20240116165049907</id>
-        <link href="https://v.daum.net/v/20240116165049907"/>
-        <updated>2024-01-16T13:22:33.276Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["5G 28㎓ 사업성 낮아...경매 참가 3곳 재정 우려"]]></title>
-        <id>https://v.daum.net/v/20240116161054102</id>
-        <link href="https://v.daum.net/v/20240116161054102"/>
-        <updated>2024-01-16T13:22:33.278Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
