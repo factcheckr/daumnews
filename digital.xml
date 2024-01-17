@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-17T15:20:22.117Z</updated>
+    <updated>2024-01-17T16:25:00.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“수학올림피아드 금메달도 따 놓은 당상” 딥마인드, 이번엔 수학영재 AI 내놨다]]></title>
+        <id>https://v.daum.net/v/20240118010012665</id>
+        <link href="https://v.daum.net/v/20240118010012665"/>
+        <updated>2024-01-17T16:24:26.278Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인사 태풍' 불어오는 카카오, 이번에는 '회전문 인사' 논란 끊어낼까]]></title>
         <id>https://v.daum.net/v/20240118000127254</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240117165708239"/>
         <updated>2024-01-17T10:20:37.423Z</updated>
         <content type="html"><![CDATA[게임동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뇌 깊은 곳, 신경세포 하나의 활동까지 잡아내는 '뇌 전극' 개발]]></title>
-        <id>https://v.daum.net/v/20240117190001021</id>
-        <link href="https://v.daum.net/v/20240117190001021"/>
-        <updated>2024-01-17T10:20:37.425Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
