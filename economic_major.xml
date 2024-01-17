@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-01-17T16:25:00.745Z</updated>
+    <updated>2024-01-17T17:18:18.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금투세 폐지·거래세 인하…영향은?]]></title>
+        <id>https://v.daum.net/v/20240117233013036</id>
+        <link href="https://v.daum.net/v/20240117233013036"/>
+        <updated>2024-01-17T17:16:35.028Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 연말 소비 호조…12월 소매판매, 시장 예상치 넘겼다]]></title>
         <id>https://v.daum.net/v/20240117231620898</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240117212353560"/>
         <updated>2024-01-17T14:17:38.675Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['새 주인 찾기' 나선 위니아, 조기 정상화될까?]]></title>
-        <id>https://v.daum.net/v/20240117211642432</id>
-        <link href="https://v.daum.net/v/20240117211642432"/>
-        <updated>2024-01-17T13:21:37.285Z</updated>
-        <content type="html"><![CDATA[kbc광주방송]]></content>
     </entry>
 </feed>

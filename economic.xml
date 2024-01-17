@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-01-17T16:25:00.668Z</updated>
+    <updated>2024-01-17T17:18:18.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴욕 증시, 소폭 하락세…멀어진 금리 인하]]></title>
+        <id>https://v.daum.net/v/20240118011739730</id>
+        <link href="https://v.daum.net/v/20240118011739730"/>
+        <updated>2024-01-17T17:16:26.057Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 크리스마스에도 아낌없이 썼다…"잘가요, 금리인하"]]></title>
         <id>https://v.daum.net/v/20240118010158673</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240117234205115"/>
         <updated>2024-01-17T15:18:50.426Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금투세 폐지·거래세 인하…영향은?]]></title>
-        <id>https://v.daum.net/v/20240117233013036</id>
-        <link href="https://v.daum.net/v/20240117233013036"/>
-        <updated>2024-01-17T15:18:50.427Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
