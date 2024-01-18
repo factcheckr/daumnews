@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-01-18T19:16:34.744Z</updated>
+    <updated>2024-01-18T20:20:48.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -10,6 +10,20 @@
         <id>https://v.daum.net/v/20240119040014749</id>
         <link href="https://v.daum.net/v/20240119040014749"/>
         <updated>2024-01-18T19:16:02.277Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2030년까지 저궤도 위성 5만 개… 별 보기, 하늘의 별 따기 되면 어쩌나]]></title>
+        <id>https://v.daum.net/v/20240119030117354</id>
+        <link href="https://v.daum.net/v/20240119030117354"/>
+        <updated>2024-01-18T20:20:16.848Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조직 채취 없이 혈액으로 암 진단 시대 올까]]></title>
+        <id>https://v.daum.net/v/20240119030114351</id>
+        <link href="https://v.daum.net/v/20240119030114351"/>
+        <updated>2024-01-18T20:20:16.850Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240118203016538"/>
         <updated>2024-01-18T18:23:14.457Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 '치사율 100%' 변종 코로나 연구... "무의미하고 끔찍"]]></title>
-        <id>https://v.daum.net/v/20240118200139918</id>
-        <link href="https://v.daum.net/v/20240118200139918"/>
-        <updated>2024-01-18T15:19:53.510Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘M87 블랙홀’ 그후 1년 뒤…“크기는 똑같고 밝기 분포는 변해!”]]></title>
-        <id>https://v.daum.net/v/20240118181309628</id>
-        <link href="https://v.daum.net/v/20240118181309628"/>
-        <updated>2024-01-18T12:35:14.053Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
