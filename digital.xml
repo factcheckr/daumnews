@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-18T03:20:47.690Z</updated>
+    <updated>2024-01-18T04:25:04.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청문회에서 혼나던 메타의 샌드버그, 12년만에 이사회도 떠난다]]></title>
+        <id>https://v.daum.net/v/20240118131507488</id>
+        <link href="https://v.daum.net/v/20240118131507488"/>
+        <updated>2024-01-18T04:24:25.058Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전세계 2100명 모인 갤S24 데뷔 무대…AI 통역콜·링 공개에 '환호성']]></title>
         <id>https://v.daum.net/v/20240118121007336</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240118120012893"/>
         <updated>2024-01-18T03:20:13.330Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["8일만에 모두 죽었다"…중국, 전인류 멸망 부를 위험천만 '코로나 실험']]></title>
-        <id>https://v.daum.net/v/20240118105751129</id>
-        <link href="https://v.daum.net/v/20240118105751129"/>
-        <updated>2024-01-18T03:20:13.332Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
