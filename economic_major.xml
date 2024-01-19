@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-01-19T18:24:31.545Z</updated>
+    <updated>2024-01-19T19:20:35.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20240120030235889"/>
         <updated>2024-01-19T18:22:57.947Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“김 수출 1조 시대”… 세계인 입맛 사로잡은 ‘검은 황금’]]></title>
+        <id>https://v.daum.net/v/20240120014150682</id>
+        <link href="https://v.daum.net/v/20240120014150682"/>
+        <updated>2024-01-19T19:18:37.698Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“따따블 잡자” 청약 경쟁률 2707대 1…‘김유미 팀장’ 피싱도]]></title>
+        <id>https://v.daum.net/v/20240120004723438</id>
+        <link href="https://v.daum.net/v/20240120004723438"/>
+        <updated>2024-01-19T19:18:37.698Z</updated>
+        <content type="html"><![CDATA[중앙SUNDAY]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연료 효율은 도요타 RAV4, 정숙성은 렉서스 NX 뛰어나]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240119220323937"/>
         <updated>2024-01-19T16:23:31.491Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이번만 구해준다”…지지부진 삼전, 최대 경쟁자 ‘이 종목’ 덕분에 방긋]]></title>
-        <id>https://v.daum.net/v/20240119220301918</id>
-        <link href="https://v.daum.net/v/20240119220301918"/>
-        <updated>2024-01-19T16:23:31.491Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["월요병? 월요일을 기다려요"…고령층 일자리의 해법은?]]></title>
-        <id>https://v.daum.net/v/20240119212105270</id>
-        <link href="https://v.daum.net/v/20240119212105270"/>
-        <updated>2024-01-19T15:22:27.533Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
