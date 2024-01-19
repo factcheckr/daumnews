@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-01-19T13:22:59.213Z</updated>
+    <updated>2024-01-19T14:19:16.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI로 UAM 수십만대 통제…양자 네트워크가 해결한다]]></title>
+        <id>https://v.daum.net/v/20240119195801943</id>
+        <link href="https://v.daum.net/v/20240119195801943"/>
+        <updated>2024-01-19T14:18:48.978Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 알파폴드, 환각 분자 수십만 개 발견…항우울제 개발 돌파구]]></title>
+        <id>https://v.daum.net/v/20240119180012111</id>
+        <link href="https://v.daum.net/v/20240119180012111"/>
+        <updated>2024-01-19T14:18:48.979Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“맛있어 즐겨 먹었는데” 점점 사라져…귀한 안주 된 오징어 [지구, 뭐래?]]]></title>
         <id>https://v.daum.net/v/20240119185126033</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["'치사율 100%' 변이 만들어" 中연구에…전문가 "신뢰 떨어져", 왜?]]></title>
+        <title type="html"><![CDATA["코로나 신종 변이, 치사율 100%" 중국 실험에…"신뢰 떨어져", 왜?]]></title>
         <id>https://v.daum.net/v/20240119181858489</id>
         <link href="https://v.daum.net/v/20240119181858489"/>
         <updated>2024-01-19T11:17:14.699Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240119162700572"/>
         <updated>2024-01-19T10:20:24.642Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다음뉴스 검색차별 논란에도 이용자 증가… 네카오 뉴스 서비스 개선 ‘속도’]]></title>
-        <id>https://v.daum.net/v/20240119160747029</id>
-        <link href="https://v.daum.net/v/20240119160747029"/>
-        <updated>2024-01-19T10:20:24.643Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넝쿨 줄기처럼 자라나는 로봇 나왔다…재난재해 지역 탐색 기대]]></title>
-        <id>https://v.daum.net/v/20240119154612369</id>
-        <link href="https://v.daum.net/v/20240119154612369"/>
-        <updated>2024-01-19T09:18:59.437Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
