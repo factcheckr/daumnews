@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-19T14:19:16.887Z</updated>
+    <updated>2024-01-19T15:23:59.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[500만원짜리 애플 비전 프로 초기 물량 모두 매진됐다]]></title>
+        <id>https://v.daum.net/v/20240119232400719</id>
+        <link href="https://v.daum.net/v/20240119232400719"/>
+        <updated>2024-01-19T15:23:13.325Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팬데믹 2주전...美, 中서 코로나 유전정보 받고도 놓쳤다]]></title>
         <id>https://v.daum.net/v/20240119225410471</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240119193759567"/>
         <updated>2024-01-19T11:17:01.141Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위기 속 카카오 새 선장의 데뷔 무대...멀티모달 AI도 첫선 보였다]]></title>
-        <id>https://v.daum.net/v/20240119190014146</id>
-        <link href="https://v.daum.net/v/20240119190014146"/>
-        <updated>2024-01-19T10:20:17.422Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
