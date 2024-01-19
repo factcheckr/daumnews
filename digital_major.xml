@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-01-19T19:20:35.235Z</updated>
+    <updated>2024-01-19T20:22:10.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘AI 시대’ 작사·작곡·보컬 ‘5분이면 뚝딱’…저작권은?]]></title>
+        <id>https://v.daum.net/v/20240119194207654</id>
+        <link href="https://v.daum.net/v/20240119194207654"/>
+        <updated>2024-01-19T20:21:35.521Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日 달 탐사선, 오늘 밤 착륙 도전…"'공포의 20분' 극복이 관건"]]></title>
         <id>https://v.daum.net/v/20240119193759567</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240119165856398"/>
         <updated>2024-01-19T10:20:24.639Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI로 만든 가짜 목소리·얼굴…보이스피싱 더 치밀해진다]]></title>
-        <id>https://v.daum.net/v/20240119164307028</id>
-        <link href="https://v.daum.net/v/20240119164307028"/>
-        <updated>2024-01-19T10:20:24.640Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
