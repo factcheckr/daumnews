@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-01-20T03:20:30.701Z</updated>
+    <updated>2024-01-20T04:25:21.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['빨라지는 시계'…저가 요금제 내놓는 통신사들]]></title>
+        <id>https://v.daum.net/v/20240120102903159</id>
+        <link href="https://v.daum.net/v/20240120102903159"/>
+        <updated>2024-01-20T04:24:46.663Z</updated>
+        <content type="html"><![CDATA[비즈워치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 방통위, '지상파 재허가' 청문절차 착수…기준점 미달자 나온 듯]]></title>
         <id>https://v.daum.net/v/20240120101518012</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240120091111392"/>
         <updated>2024-01-20T01:16:19.549Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가상현실 헤드셋 재부흥?...디스플레이에 달렸다]]></title>
-        <id>https://v.daum.net/v/20240120091101387</id>
-        <link href="https://v.daum.net/v/20240120091101387"/>
-        <updated>2024-01-20T03:20:04.002Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
