@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-21T14:17:09.153Z</updated>
+    <updated>2024-01-21T15:18:39.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“재판 지연 해결”-“믿을 수 있나”… AI도입, 기대·우려 교차]]></title>
+        <id>https://v.daum.net/v/20240122000419142</id>
+        <link href="https://v.daum.net/v/20240122000419142"/>
+        <updated>2024-01-21T15:17:56.232Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동학판 촛불 시위, 공주 '수운 최제우 신원 운동']]></title>
         <id>https://v.daum.net/v/20240121192715292</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240121183513794"/>
         <updated>2024-01-21T10:21:23.378Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["생각·취향 읽고 구현하는 AI폰 만들 것"]]></title>
-        <id>https://v.daum.net/v/20240121171204259</id>
-        <link href="https://v.daum.net/v/20240121171204259"/>
-        <updated>2024-01-21T14:16:28.028Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
