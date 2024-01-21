@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-21T10:21:55.664Z</updated>
+    <updated>2024-01-21T11:16:05.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동학판 촛불 시위, 공주 '수운 최제우 신원 운동']]></title>
+        <id>https://v.daum.net/v/20240121192715292</id>
+        <link href="https://v.daum.net/v/20240121192715292"/>
+        <updated>2024-01-21T11:15:21.669Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 법원에 AI가 뜬다…올해 9월 ‘판결문 추천 AI’ 첫 도입]]></title>
+        <id>https://v.daum.net/v/20240121191919220</id>
+        <link href="https://v.daum.net/v/20240121191919220"/>
+        <updated>2024-01-21T11:15:21.670Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“너도나도 탕후루 먹더니 결국 사달?” 20대 당뇨 환자…이렇게 많다니]]></title>
         <id>https://v.daum.net/v/20240121184055844</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[2024, `AI와의 삶` 원년] 신약개발부터 진단·맞춤치료까지… AI발 `바이오빅뱅` 시작됐다]]></title>
+        <title type="html"><![CDATA[[2024, `AI와의 삶` 원년] 신약개발부터 진단·맞춤치료까지… AI發 `바이오빅뱅` 시작됐다]]></title>
         <id>https://v.daum.net/v/20240121143614632</id>
         <link href="https://v.daum.net/v/20240121143614632"/>
         <updated>2024-01-21T10:21:23.377Z</updated>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240121180102254"/>
         <updated>2024-01-21T09:17:48.053Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["생각·취향 읽고 구현하는 AI폰 만들 것"]]></title>
-        <id>https://v.daum.net/v/20240121171204259</id>
-        <link href="https://v.daum.net/v/20240121171204259"/>
-        <updated>2024-01-21T09:17:48.054Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI폰 꺼낸 삼성, 안드로이드앱 생태계 흔든다]]></title>
-        <id>https://v.daum.net/v/20240121172044418</id>
-        <link href="https://v.daum.net/v/20240121172044418"/>
-        <updated>2024-01-21T09:17:48.056Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
