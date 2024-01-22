@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-22T17:18:24.451Z</updated>
+    <updated>2024-01-22T18:24:36.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI인재 쟁탈전… 오픈AI “연봉 130억원” 구글 “스톡옵션 수십억”]]></title>
+        <id>https://v.daum.net/v/20240123030218151</id>
+        <link href="https://v.daum.net/v/20240123030218151"/>
+        <updated>2024-01-22T18:23:53.899Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["日시장 역이용"…'매출 1위' 카카오 픽코마의 '신의 한 수']]></title>
         <id>https://v.daum.net/v/20240122162804455</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240122183813221"/>
         <updated>2024-01-22T13:25:33.193Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단통법, 10년 만에 ‘백지화’…통신사 ‘보조금 경쟁’ 다시 불붙나]]></title>
-        <id>https://v.daum.net/v/20240122203459032</id>
-        <link href="https://v.daum.net/v/20240122203459032"/>
-        <updated>2024-01-22T13:25:33.196Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>

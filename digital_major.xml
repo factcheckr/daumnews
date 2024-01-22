@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-01-22T17:18:24.450Z</updated>
+    <updated>2024-01-22T18:24:36.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노키아, 화웨이 합작사 지분 매각]]></title>
+        <id>https://v.daum.net/v/20240123030529325</id>
+        <link href="https://v.daum.net/v/20240123030529325"/>
+        <updated>2024-01-22T18:24:02.708Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단통법, 10년 만에 ‘백지화’…통신사 ‘보조금 경쟁’ 다시 불붙나]]></title>
+        <id>https://v.daum.net/v/20240122203459032</id>
+        <link href="https://v.daum.net/v/20240122203459032"/>
+        <updated>2024-01-22T18:24:02.709Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[생활규제 혁파] 보조금 경쟁으로 단말기값 인하 기대···'호갱' 막을 보완책 필요]]></title>
         <id>https://v.daum.net/v/20240122191627828</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240122182327883"/>
         <updated>2024-01-22T10:20:51.654Z</updated>
         <content type="html"><![CDATA[베이비뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘기기값 0원’ 시대 다시 오나… ‘10년 우여곡절’ 단통법 손본다]]></title>
-        <id>https://v.daum.net/v/20240122182203837</id>
-        <link href="https://v.daum.net/v/20240122182203837"/>
-        <updated>2024-01-22T10:20:51.655Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["갤S24 싸게 살 수 있나요"…기대반 우려반]]></title>
-        <id>https://v.daum.net/v/20240122180549411</id>
-        <link href="https://v.daum.net/v/20240122180549411"/>
-        <updated>2024-01-22T10:20:51.657Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>
