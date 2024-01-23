@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-01-23T16:25:28.196Z</updated>
+    <updated>2024-01-23T17:18:25.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[5G 가입자 정체기…통신사들 ‘보조금 경쟁’ 미지수]]></title>
+        <id>https://v.daum.net/v/20240123205433184</id>
+        <link href="https://v.daum.net/v/20240123205433184"/>
+        <updated>2024-01-23T17:17:51.043Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“60만원 싸게 준다고 했더니” 삼성 직원들 ‘우르르’ 난리난 제품]]></title>
         <id>https://v.daum.net/v/20240123204040977</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240123182714683"/>
         <updated>2024-01-23T11:16:20.758Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이커머스 추천도 개인정보보호법 위반?"…자동화 결정 대응법 '논란']]></title>
-        <id>https://v.daum.net/v/20240123181750349</id>
-        <link href="https://v.daum.net/v/20240123181750349"/>
-        <updated>2024-01-23T10:23:39.560Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
