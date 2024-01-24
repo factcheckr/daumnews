@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-01-24T20:21:36.835Z</updated>
+    <updated>2024-01-24T21:17:58.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033571/tqesrIc6SP"/>
         <updated>2024-01-24T20:21:09.590Z</updated>
         <content type="html"><![CDATA[군 제공 포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[깔맞춤]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/PkGRPmNfDy</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/PkGRPmNfDy"/>
+        <updated>2024-01-24T21:17:25.813Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신원식 국방 장관, F-35 스텔스 전투기 부대 점검]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/344179/uuEe2CkPmw"/>
         <updated>2024-01-24T08:24:17.594Z</updated>
         <content type="html"><![CDATA[청계천 옆 사진관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오르반 헝가리 총리와 크리스테르손 스웨덴 총리]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1471/FooojuZwFM</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1471/FooojuZwFM"/>
-        <updated>2024-01-24T07:18:43.105Z</updated>
-        <content type="html"><![CDATA[세계의 정상들]]></content>
     </entry>
 </feed>
