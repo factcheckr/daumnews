@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-01-24T15:22:14.829Z</updated>
+    <updated>2024-01-24T16:26:55.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["경제적 능력 보고 학생선발"…美명문대, 1천억원대 합의금 지급]]></title>
+        <id>https://v.daum.net/v/20240125012054800</id>
+        <link href="https://v.daum.net/v/20240125012054800"/>
+        <updated>2024-01-24T16:25:01.130Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['남한점령' 운운한 북한, '직접 도발' 가능성은 낮다?]]></title>
+        <id>https://v.daum.net/v/20240125000003178</id>
+        <link href="https://v.daum.net/v/20240125000003178"/>
+        <updated>2024-01-24T16:25:01.130Z</updated>
+        <content type="html"><![CDATA[정치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갈등 봉합한 한동훈, 당 재정비·대학생 공약 마련 '광폭행보']]></title>
         <id>https://v.daum.net/v/20240125000007187</id>
         <link href="https://v.daum.net/v/20240125000007187"/>
         <updated>2024-01-24T15:19:45.135Z</updated>
         <content type="html"><![CDATA[정치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금주 국가' 사우디 수도에 첫 주류 매장 곧 개장]]></title>
-        <id>https://v.daum.net/v/20240125000750459</id>
-        <link href="https://v.daum.net/v/20240125000750459"/>
-        <updated>2024-01-24T15:19:45.137Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카카오, 2년 넘게 '계열사 다이어트'…비핵심 사업 정리 성공할까]]></title>
@@ -76,7 +83,7 @@
         <content type="html"><![CDATA[경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘항소심 당선무효형’ 이은주, 정의당 6석 지키려 내일 사퇴]]></title>
+        <title type="html"><![CDATA[‘항소심 당선무효형’ 이은주, 정의당 6석 지키려 오늘 사퇴]]></title>
         <id>https://v.daum.net/v/20240124214005447</id>
         <link href="https://v.daum.net/v/20240124214005447"/>
         <updated>2024-01-24T15:19:45.161Z</updated>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20240124195955810"/>
         <updated>2024-01-24T14:18:00.944Z</updated>
         <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘오송 참사 대응 부실’ 충북도 공무원 2명 구속영장 기각]]></title>
-        <id>https://v.daum.net/v/20240124213503384</id>
-        <link href="https://v.daum.net/v/20240124213503384"/>
-        <updated>2024-01-24T14:18:00.946Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
     </entry>
 </feed>
