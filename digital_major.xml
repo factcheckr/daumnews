@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-01-25T19:16:51.840Z</updated>
+    <updated>2024-01-25T20:19:27.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20240126030257223"/>
         <updated>2024-01-25T18:24:59.152Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사이테크+] "공룡 깃털의 초기 용도는…사냥 때 먹잇감 놀라게 하는 것"]]></title>
+        <id>https://v.daum.net/v/20240126010011791</id>
+        <link href="https://v.daum.net/v/20240126010011791"/>
+        <updated>2024-01-25T20:18:51.031Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“풀HD 영화 1초에 5.6편 전송”…초고속 광원소자 개발]]></title>
+        <id>https://v.daum.net/v/20240125220203698</id>
+        <link href="https://v.daum.net/v/20240125220203698"/>
+        <updated>2024-01-25T20:18:51.032Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[과·기·부] 인공지능 일자리 침공 현실화?…“내 밥그릇 내놔!”]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240125173603825"/>
         <updated>2024-01-25T12:35:05.251Z</updated>
         <content type="html"><![CDATA[쿠키뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 '쿠키리스' 정책, 언론사 광고매출 급감 대위기 온다]]></title>
-        <id>https://v.daum.net/v/20240125182913699</id>
-        <link href="https://v.daum.net/v/20240125182913699"/>
-        <updated>2024-01-25T11:17:05.895Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혼술 즐기다 통풍 얻는다]]></title>
-        <id>https://v.daum.net/v/20240125182405513</id>
-        <link href="https://v.daum.net/v/20240125182405513"/>
-        <updated>2024-01-25T10:20:35.481Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
