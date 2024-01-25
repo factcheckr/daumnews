@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-01-25T13:26:41.677Z</updated>
+    <updated>2024-01-25T14:19:34.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이슈대담] 미국 식품회사 해남 방문, 왜?]]></title>
+        <id>https://v.daum.net/v/20240125200720214</id>
+        <link href="https://v.daum.net/v/20240125200720214"/>
+        <updated>2024-01-25T14:18:03.864Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[광역버스 확충·전용차로 도입…‘김골라’ 대책 효과 날까?]]></title>
         <id>https://v.daum.net/v/20240125212959063</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240125204040877"/>
         <updated>2024-01-25T12:34:24.330Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["중계기 임차료 깎자"…막걸리 회동하며 통신3사 담합]]></title>
-        <id>https://v.daum.net/v/20240125203905847</id>
-        <link href="https://v.daum.net/v/20240125203905847"/>
-        <updated>2024-01-25T12:34:24.331Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
