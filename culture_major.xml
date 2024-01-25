@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-01-25T20:19:27.590Z</updated>
+    <updated>2024-01-25T21:16:44.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘국가유산’ 가상현실로 생생하게]]></title>
+        <id>https://v.daum.net/v/20240126050127866</id>
+        <link href="https://v.daum.net/v/20240126050127866"/>
+        <updated>2024-01-25T21:15:56.052Z</updated>
+        <content type="html"><![CDATA[농민신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화가 난다… 또 보고 싶다!]]></title>
         <id>https://v.daum.net/v/20240126030040097</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240126000204338"/>
         <updated>2024-01-25T20:18:30.229Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[악마와 천사 키스 도발…스위스 '퀴어 작가' 제레미, 亞 첫 개인전]]></title>
-        <id>https://v.daum.net/v/20240126000209343</id>
-        <link href="https://v.daum.net/v/20240126000209343"/>
-        <updated>2024-01-25T18:24:40.179Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
