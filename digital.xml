@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-25T17:18:06.947Z</updated>
+    <updated>2024-01-25T18:25:36.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“딥페이크 판별-유전자 가위 등… 올해 흥미로운 혁신 일어날 것”]]></title>
+        <id>https://v.daum.net/v/20240126030055100</id>
+        <link href="https://v.daum.net/v/20240126030055100"/>
+        <updated>2024-01-25T18:24:50.478Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘인간 의식의 기원’은 어디에 있을까… 신경 작용의 산물 vs 주관적 정신 활동 개입]]></title>
+        <id>https://v.daum.net/v/20240126030057101</id>
+        <link href="https://v.daum.net/v/20240126030057101"/>
+        <updated>2024-01-25T18:24:50.480Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사이테크+] "공룡 깃털의 초기 용도는…사냥 때 먹잇감 놀라게 하는 것"]]></title>
         <id>https://v.daum.net/v/20240126010011791</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240125185646476"/>
         <updated>2024-01-25T11:16:56.723Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“하이볼 즐겨먹더니” 발가락이 미칠듯 욱신욱신…김 대리 통풍 걸렸대]]></title>
-        <id>https://v.daum.net/v/20240125194132649</id>
-        <link href="https://v.daum.net/v/20240125194132649"/>
-        <updated>2024-01-25T11:16:56.724Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘기적의 항암제’ CAR-T치료제…"악성종양 유발 가능성" 경고문 추가]]></title>
-        <id>https://v.daum.net/v/20240125193017393</id>
-        <link href="https://v.daum.net/v/20240125193017393"/>
-        <updated>2024-01-25T11:16:56.725Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
