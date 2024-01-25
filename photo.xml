@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-01-25T21:16:44.951Z</updated>
+    <updated>2024-01-25T22:16:10.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최강 한파에도 일감 찾아 나선 사람들]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1270177/GfQoHWOJUG</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1270177/GfQoHWOJUG"/>
+        <updated>2024-01-25T22:15:49.539Z</updated>
+        <content type="html"><![CDATA[C컷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고속도로 막은 이스라엘 시위대 “인질 석방 위해 즉각 나서라”]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5033138/08QSGf7vwd</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615618/HnYUOOA8rx"/>
         <updated>2024-01-25T08:27:26.657Z</updated>
         <content type="html"><![CDATA[오마이포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기특수대응단 '동계 수난 구조 훈련']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/386/8IcAMM2XbI</id>
-        <link href="https://gallery.v.daum.net/p/viewer/386/8IcAMM2XbI"/>
-        <updated>2024-01-25T08:27:26.658Z</updated>
-        <content type="html"><![CDATA[소방본부 제공 포토]]></content>
     </entry>
 </feed>
