@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-01-26T16:24:33.322Z</updated>
+    <updated>2024-01-26T17:16:46.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[雪國,울릉도[전승훈 기자의 아트로드]]]></title>
+        <id>https://v.daum.net/v/20240127014224068</id>
+        <link href="https://v.daum.net/v/20240127014224068"/>
+        <updated>2024-01-26T17:15:42.986Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유혹의 기술자' 이상남…'마음의 형태'로 썸타는 글로벌 화랑 페로탕[박현주 아트클럽]]]></title>
         <id>https://v.daum.net/v/20240127010113936</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240127000013576"/>
         <updated>2024-01-26T15:19:56.782Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[토요일 대체로 맑고 포근...추위 잘 타면 '건강 이상' 신호?]]></title>
-        <id>https://v.daum.net/v/20240127000001565</id>
-        <link href="https://v.daum.net/v/20240127000001565"/>
-        <updated>2024-01-26T15:19:56.783Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
