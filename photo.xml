@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-01-26T20:18:42.228Z</updated>
+    <updated>2024-01-26T21:17:27.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['사법농단 의혹' 양승태 47개 혐의 모두 무죄]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/1DMWNd41Gd</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/1DMWNd41Gd"/>
+        <updated>2024-01-26T21:16:50.209Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추상화 같은 눈썰매 풍경]]></title>
         <id>https://gallery.v.daum.net/p/viewer/212305/7P9nKGCnLh</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033571/Ylb5VraVUv"/>
         <updated>2024-01-26T08:21:58.461Z</updated>
         <content type="html"><![CDATA[군 제공 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오리 날다 [포토뉴스]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5840500/X1T1KELKWM</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5840500/X1T1KELKWM"/>
-        <updated>2024-01-26T08:21:58.465Z</updated>
-        <content type="html"><![CDATA[포토뉴스]]></content>
     </entry>
 </feed>
