@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-27T15:16:43.602Z</updated>
+    <updated>2024-01-27T16:21:32.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[R&D삭감에 어렵지만 항공우주 덕후들 북적인 이유[우주이야기]]]></title>
+        <id>https://v.daum.net/v/20240128003017383</id>
+        <link href="https://v.daum.net/v/20240128003017383"/>
+        <updated>2024-01-27T16:20:57.691Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["무선으로 1.8km 전력 전송 성공"...우주태양광 첫걸음]]></title>
         <id>https://v.daum.net/v/20240127233426117</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240127175913344"/>
         <updated>2024-01-27T11:13:42.833Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나델라 "스위프트 가짜 이미지 확산, 놀랍고 끔찍하다"]]></title>
-        <id>https://v.daum.net/v/20240127171409750</id>
-        <link href="https://v.daum.net/v/20240127171409750"/>
-        <updated>2024-01-27T09:16:17.999Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
