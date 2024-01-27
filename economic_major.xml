@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-01-27T09:17:09.124Z</updated>
+    <updated>2024-01-27T10:18:31.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비트코인 ETF 금지령'이 코인거래소엔 호재?[이지영의 코인세상]]]></title>
+        <id>https://v.daum.net/v/20240127160019791</id>
+        <link href="https://v.daum.net/v/20240127160019791"/>
+        <updated>2024-01-27T10:17:01.721Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["주말에 가득 넣어야겠네"…기름값 16주 연속 하락세, 이제 끝?]]></title>
         <id>https://v.daum.net/v/20240127155239680</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240127140117617"/>
         <updated>2024-01-27T07:16:15.485Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뒷북경제] AI용 메모리반도체 R&D···최대 50% 세제혜택]]></title>
-        <id>https://v.daum.net/v/20240127140035609</id>
-        <link href="https://v.daum.net/v/20240127140035609"/>
-        <updated>2024-01-27T09:15:33.121Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
