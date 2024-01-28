@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-01-28T19:14:16.232Z</updated>
+    <updated>2024-01-28T20:18:16.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/386/zq5WP9ph7h"/>
         <updated>2024-01-28T16:22:54.708Z</updated>
         <content type="html"><![CDATA[소방본부 제공 포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[약 뚜껑도 다둥이[고양이 눈]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/ZacBzFWAIA</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/ZacBzFWAIA"/>
+        <updated>2024-01-28T20:17:53.205Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[설날 열흘 앞 ‘미리 성묘’[포토뉴스]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5611950/VrgnINe77w"/>
         <updated>2024-01-27T22:17:28.230Z</updated>
         <content type="html"><![CDATA[노동신문 사진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이태원서 강제종료 된 네 청춘…” 엄마는 또다시 1만5900배 [만리재사진첩]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1629566/qCSIqwg28I</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1629566/qCSIqwg28I"/>
-        <updated>2024-01-27T17:18:03.655Z</updated>
-        <content type="html"><![CDATA[만리재사진첩]]></content>
     </entry>
 </feed>
