@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-01-29T12:35:21.584Z</updated>
+    <updated>2024-01-29T13:23:43.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기술이 부족해도, 일이 아니어도 괜찮은 목공[김기자의 주말목공](연재 종료)]]></title>
+        <id>https://v.daum.net/v/20231230100106360</id>
+        <link href="https://v.daum.net/v/20231230100106360"/>
+        <updated>2024-01-29T13:22:52.312Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해외 갤러리가 찾은 ‘숨은 보석’ 한국 작가들···소수자 서사부터 재난 이후까지]]></title>
         <id>https://v.daum.net/v/20240129183939779</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240129180046626"/>
         <updated>2024-01-29T10:20:57.353Z</updated>
         <content type="html"><![CDATA[이코노미조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백반증 앓던 흑인女...뇌졸중 2번 겪고 다시 흑인 피부로, 어떻게?]]></title>
-        <id>https://v.daum.net/v/20240129175443372</id>
-        <link href="https://v.daum.net/v/20240129175443372"/>
-        <updated>2024-01-29T10:20:57.354Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
