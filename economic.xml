@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-01-29T16:22:09.320Z</updated>
+    <updated>2024-01-29T17:17:53.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아마존, 아이로봇 인수계획 철회...EU 벽에 막혀]]></title>
+        <id>https://v.daum.net/v/20240130012947660</id>
+        <link href="https://v.daum.net/v/20240130012947660"/>
+        <updated>2024-01-29T17:16:31.095Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조선업 일자리 6000개 늘고, 섬유업은 소폭 감소할 듯]]></title>
         <id>https://v.daum.net/v/20240130000328162</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240129230057477"/>
         <updated>2024-01-29T14:15:43.168Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“빈티지는 또 다른 프리미엄”… ‘중고 명품’ 전성시대]]></title>
-        <id>https://v.daum.net/v/20240129225110374</id>
-        <link href="https://v.daum.net/v/20240129225110374"/>
-        <updated>2024-01-29T14:15:43.168Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>

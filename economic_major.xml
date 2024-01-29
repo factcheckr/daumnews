@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-01-29T16:22:09.333Z</updated>
+    <updated>2024-01-29T17:17:53.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240130000254134"/>
         <updated>2024-01-29T16:20:40.062Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“빈티지는 또 다른 프리미엄”… ‘중고 명품’ 전성시대]]></title>
+        <id>https://v.daum.net/v/20240129225110374</id>
+        <link href="https://v.daum.net/v/20240129225110374"/>
+        <updated>2024-01-29T17:16:38.672Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[마켓인]'법정관리' 매물 늘어나는데...새 주인 찾기는 안갯속]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240129203212678"/>
         <updated>2024-01-29T13:22:16.949Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[암모니아 운반선에 웃는 K 조선…수주 싹쓸이]]></title>
-        <id>https://v.daum.net/v/20240129202926630</id>
-        <link href="https://v.daum.net/v/20240129202926630"/>
-        <updated>2024-01-29T12:33:53.028Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
