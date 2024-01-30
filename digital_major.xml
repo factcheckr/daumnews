@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-01-30T13:20:20.804Z</updated>
+    <updated>2024-01-30T14:17:36.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수명 끝나가는 한빛 1·2호기…연장 어떻게?]]></title>
+        <id>https://v.daum.net/v/20240130202035034</id>
+        <link href="https://v.daum.net/v/20240130202035034"/>
+        <updated>2024-01-30T14:17:05.128Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차량 언어 개발·아이돌과 직접 대화… 게임사도 ‘AI 열풍’]]></title>
         <id>https://v.daum.net/v/20240130193811237</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240130180613005"/>
         <updated>2024-01-30T10:20:20.966Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국거버넌스학회 내달 2일 동계학술대회…김용민 신임 회장 취임]]></title>
-        <id>https://v.daum.net/v/20240130181019133</id>
-        <link href="https://v.daum.net/v/20240130181019133"/>
-        <updated>2024-01-30T10:20:20.966Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
