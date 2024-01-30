@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-30T21:18:24.031Z</updated>
+    <updated>2024-01-30T22:17:45.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['개방vs 폐쇄'…MS-오픈AI에 '구글-허깅페이스' 동맹 맞불]]></title>
+        <id>https://v.daum.net/v/20240131070112753</id>
+        <link href="https://v.daum.net/v/20240131070112753"/>
+        <updated>2024-01-30T22:16:57.935Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["한-UAE 우주협력 확대"…정부는 월면차 공동개발 예산 불수용]]></title>
+        <id>https://v.daum.net/v/20240131070007684</id>
+        <link href="https://v.daum.net/v/20240131070007684"/>
+        <updated>2024-01-30T22:16:57.937Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버·카카오 AI 사업 '앞서거니 뒤서거니']]></title>
+        <id>https://v.daum.net/v/20240131065903656</id>
+        <link href="https://v.daum.net/v/20240131065903656"/>
+        <updated>2024-01-30T22:16:57.939Z</updated>
+        <content type="html"><![CDATA[비즈워치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔비디아, 대화형 AI 플랫폼 'Kore.ai'에 투자 [글로벌 비즈]]]></title>
+        <id>https://v.daum.net/v/20240131062405091</id>
+        <link href="https://v.daum.net/v/20240131062405091"/>
+        <updated>2024-01-30T22:16:57.941Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["올해 아이폰 출하량 크게 감소"…'비전프로' 내달 2일 출시]]></title>
         <id>https://v.daum.net/v/20240131061501985</id>
@@ -18,33 +46,5 @@
         <link href="https://v.daum.net/v/20240131061002921"/>
         <updated>2024-01-30T21:17:46.659Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SKT, 5G주파수 추가 할당될까…정부, 주파수 스펙트럼 플랜 공개]]></title>
-        <id>https://v.daum.net/v/20240131060107754</id>
-        <link href="https://v.daum.net/v/20240131060107754"/>
-        <updated>2024-01-30T21:17:46.661Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['밀실 심의 논란 사라질까'···민간에서 게임 '청불' 결정]]></title>
-        <id>https://v.daum.net/v/20240131060056733</id>
-        <link href="https://v.daum.net/v/20240131060056733"/>
-        <updated>2024-01-30T21:17:46.663Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하늘 별따기 같은 200인...'한국판 NASA' 인재 충원 해 넘길 수도 [팩플]]]></title>
-        <id>https://v.daum.net/v/20240131060039686</id>
-        <link href="https://v.daum.net/v/20240131060039686"/>
-        <updated>2024-01-30T21:17:46.664Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['자율경영 끝'…SM엔터에 칼 빼든 카카오 '강도 높은 구조조정' 신호탄]]></title>
-        <id>https://v.daum.net/v/20240131053003330</id>
-        <link href="https://v.daum.net/v/20240131053003330"/>
-        <updated>2024-01-30T21:17:46.665Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
