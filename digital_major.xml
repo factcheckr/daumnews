@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-01-31T17:16:23.845Z</updated>
+    <updated>2024-01-31T18:18:51.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[22년 만에 성공한 제4이통 찾기…통신시장 '메기' 될까]]></title>
+        <id>https://v.daum.net/v/20240131220111844</id>
+        <link href="https://v.daum.net/v/20240131220111844"/>
+        <updated>2024-01-31T18:18:13.462Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["5G 쓰다가 LTE 요금제 갈아탔습니다"…가입 폭증한 이유]]></title>
+        <id>https://v.daum.net/v/20240131220101841</id>
+        <link href="https://v.daum.net/v/20240131220101841"/>
+        <updated>2024-01-31T18:18:13.462Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 이통 3사도 본인 인증 과정 허술했다…“긴급 점검”]]></title>
         <id>https://v.daum.net/v/20240131214551565</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240131170605165"/>
         <updated>2024-01-31T12:31:02.373Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 첫 첨단재생의료 심의위…임상연구계획 4건 중 1건 '적합']]></title>
-        <id>https://v.daum.net/v/20240131200517809</id>
-        <link href="https://v.daum.net/v/20240131200517809"/>
-        <updated>2024-01-31T12:31:02.374Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[항공기 엔진 국산화 가능할까?…“핵심은 냉각기술”[오상현의 무기큐브]]]></title>
-        <id>https://v.daum.net/v/20240131195941694</id>
-        <link href="https://v.daum.net/v/20240131195941694"/>
-        <updated>2024-01-31T12:31:02.376Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
