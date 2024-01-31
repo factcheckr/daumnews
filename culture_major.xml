@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-01-31T16:21:51.124Z</updated>
+    <updated>2024-01-31T17:16:23.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240201000552348"/>
         <updated>2024-01-31T15:17:56.440Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 날씨] 낮 최고 10도 '포근'…강원·경북동해안엔 많은 눈]]></title>
+        <id>https://v.daum.net/v/20240201000042232</id>
+        <link href="https://v.daum.net/v/20240201000042232"/>
+        <updated>2024-01-31T17:15:27.983Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[녹유 오늘의 운세] 4년생 어렵게 얻은 허락 귀함을 지켜요]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240131210010767"/>
         <updated>2024-01-31T14:16:05.823Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생리 때 아닌데 출혈… 걱정 안 해도 될 때는?]]></title>
-        <id>https://v.daum.net/v/20240131210016769</id>
-        <link href="https://v.daum.net/v/20240131210016769"/>
-        <updated>2024-01-31T14:16:05.823Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
