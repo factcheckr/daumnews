@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-01-31T15:18:51.414Z</updated>
+    <updated>2024-01-31T16:21:51.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[과학기술 출연연구원, 공공기관 해제···예산·인력·R&D 자율성 높아진다]]></title>
+        <id>https://v.daum.net/v/20240131161636997</id>
+        <link href="https://v.daum.net/v/20240131161636997"/>
+        <updated>2024-01-31T16:21:14.906Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[행정전산망 장애 막기 위해 '사이버 장애지원단' 신설]]></title>
         <id>https://v.daum.net/v/20240131233712031</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240131220101841"/>
         <updated>2024-01-31T15:18:06.686Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 이통 3사도 본인 인증 과정 허술했다…“긴급 점검”]]></title>
-        <id>https://v.daum.net/v/20240131214551565</id>
-        <link href="https://v.daum.net/v/20240131214551565"/>
-        <updated>2024-01-31T13:19:11.871Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
