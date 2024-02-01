@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-02-01T11:16:30.338Z</updated>
+    <updated>2024-02-01T12:31:58.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240201184001950"/>
         <updated>2024-02-01T10:20:20.207Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["김어준 무기한 출연정지…공신력 떨어뜨려" TBS 최고 수위 제재 의결]]></title>
+        <id>https://v.daum.net/v/20240201183229718</id>
+        <link href="https://v.daum.net/v/20240201183229718"/>
+        <updated>2024-02-01T12:31:23.273Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“해커에 뚫린 본인인증”…이동통신 3사도 무방비였다! [취재후]]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240201175407318"/>
         <updated>2024-02-01T09:19:04.412Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리뷰] “재밌는걸 다 집어넣으니 마리오 파티가 나왔다.” ‘용과 같이 8’]]></title>
-        <id>https://v.daum.net/v/20240201164803302</id>
-        <link href="https://v.daum.net/v/20240201164803302"/>
-        <updated>2024-02-01T10:20:20.216Z</updated>
-        <content type="html"><![CDATA[게임동아]]></content>
     </entry>
 </feed>
