@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-02-01T13:20:19.156Z</updated>
+    <updated>2024-02-01T14:17:19.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240201214703814"/>
         <updated>2024-02-01T13:19:44.751Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[발굴 과학사] 기후변화의 기준 찾는 기후 고고학의 개척자들]]></title>
+        <id>https://v.daum.net/v/20240201190809527</id>
+        <link href="https://v.daum.net/v/20240201190809527"/>
+        <updated>2024-02-01T14:16:47.589Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['챗GPT 원팀' MS·오픈AI…이번엔 인간 닮은 로봇에 공동투자]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240201180305737"/>
         <updated>2024-02-01T10:20:20.208Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조립컴 '램(RAM)' 어떻게 골라야 할까 [우당탕 컴조립]]]></title>
-        <id>https://v.daum.net/v/20240201180103639</id>
-        <link href="https://v.daum.net/v/20240201180103639"/>
-        <updated>2024-02-01T10:20:20.209Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
