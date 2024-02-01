@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-02-01T19:16:24.255Z</updated>
+    <updated>2024-02-01T20:19:01.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정체가 뭐냐]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/H1XPZSnbD5</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/H1XPZSnbD5"/>
+        <updated>2024-02-01T20:18:36.943Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기념촬영하는 조태열 장관-민주주의 정책 전문가들]]></title>
         <id>https://gallery.v.daum.net/p/viewer/321090/1nBHf7hLu9</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1112079/84pCVHA8yK"/>
         <updated>2024-02-01T07:17:39.668Z</updated>
         <content type="html"><![CDATA[포토多이슈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이영수 공군참모총장, 코프 노스 훈련 참가장병들과 기념촬영]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033571/bSpXHcf50Z</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033571/bSpXHcf50Z"/>
-        <updated>2024-02-01T07:17:39.669Z</updated>
-        <content type="html"><![CDATA[군 제공 포토]]></content>
     </entry>
 </feed>
