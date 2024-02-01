@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-02-01T12:31:58.398Z</updated>
+    <updated>2024-02-01T13:20:19.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘짝퉁’ 의료정보 차단…유튜브, 의료진 채널에 ‘인증 라벨’ 붙인다]]></title>
+        <id>https://v.daum.net/v/20240201214703814</id>
+        <link href="https://v.daum.net/v/20240201214703814"/>
+        <updated>2024-02-01T13:19:44.751Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['챗GPT 원팀' MS·오픈AI…이번엔 인간 닮은 로봇에 공동투자]]></title>
         <id>https://v.daum.net/v/20240201184001950</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240201180103639"/>
         <updated>2024-02-01T10:20:20.209Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3월엔 못 내린다는 파월 "인플레 2% 도달 확신못해"]]></title>
-        <id>https://v.daum.net/v/20240201175407318</id>
-        <link href="https://v.daum.net/v/20240201175407318"/>
-        <updated>2024-02-01T09:19:04.412Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
