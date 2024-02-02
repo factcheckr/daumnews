@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-02-02T11:16:22.214Z</updated>
+    <updated>2024-02-02T12:30:55.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20240202182149244"/>
         <updated>2024-02-02T10:19:06.564Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[S24 가격 내린다…이통3사 공시지원금 '백기']]></title>
+        <id>https://v.daum.net/v/20240202181822192</id>
+        <link href="https://v.daum.net/v/20240202181822192"/>
+        <updated>2024-02-02T12:30:28.514Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오톡 이모지 다시 돌아온다]]></title>
+        <id>https://v.daum.net/v/20240202180913018</id>
+        <link href="https://v.daum.net/v/20240202180913018"/>
+        <updated>2024-02-02T12:30:28.515Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[IT애정남] VR, AR, MR, XR…의미와 차이는?]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240202170052219"/>
         <updated>2024-02-02T09:19:14.726Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 이번엔 연구지원시스템 ‘접속 장애’...행정망 먹통 방지대책 발표 이틀 만]]></title>
-        <id>https://v.daum.net/v/20240202170501367</id>
-        <link href="https://v.daum.net/v/20240202170501367"/>
-        <updated>2024-02-02T09:19:14.728Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한주의게임소식] 한국 PC방에도 입성한 글로벌 논란작 '팰월드']]></title>
-        <id>https://v.daum.net/v/20240202163300412</id>
-        <link href="https://v.daum.net/v/20240202163300412"/>
-        <updated>2024-02-02T09:19:14.729Z</updated>
-        <content type="html"><![CDATA[게임동아]]></content>
     </entry>
 </feed>
