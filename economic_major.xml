@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-02-02T16:21:10.977Z</updated>
+    <updated>2024-02-02T17:19:10.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국 1월 고용 또 서프라이즈…예상치 두 배 35.3만개]]></title>
+        <id>https://v.daum.net/v/20240203000144046</id>
+        <link href="https://v.daum.net/v/20240203000144046"/>
+        <updated>2024-02-02T17:17:46.159Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[독일, 농민 트랙터 시위에도 농가 보조금 삭감 강행]]></title>
         <id>https://v.daum.net/v/20240202230625678</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240202202413226"/>
         <updated>2024-02-02T13:18:33.717Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람 돕는 AI…장애인 행동 살피고, 보일러 고장 상담도 척척]]></title>
-        <id>https://v.daum.net/v/20240202195624832</id>
-        <link href="https://v.daum.net/v/20240202195624832"/>
-        <updated>2024-02-02T13:18:33.717Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
