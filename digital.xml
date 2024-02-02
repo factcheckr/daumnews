@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-02-02T13:20:02.907Z</updated>
+    <updated>2024-02-02T14:17:24.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["제4이통 안착 가능성 우려, 정책 실패 대비해야"]]></title>
+        <id>https://v.daum.net/v/20240202180023854</id>
+        <link href="https://v.daum.net/v/20240202180023854"/>
+        <updated>2024-02-02T14:16:43.632Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갤럭시 S24 홍보에 ‘아이폰 애용자’가?···또 불거진 셀럽 리스크]]></title>
         <id>https://v.daum.net/v/20240202210301622</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240202175049614"/>
         <updated>2024-02-02T10:18:58.759Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S24 가격 내린다…이통3사 공시지원금 '백기']]></title>
-        <id>https://v.daum.net/v/20240202181822192</id>
-        <link href="https://v.daum.net/v/20240202181822192"/>
-        <updated>2024-02-02T13:19:19.710Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
