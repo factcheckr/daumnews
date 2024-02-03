@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-02-03T13:19:59.134Z</updated>
+    <updated>2024-02-03T14:15:37.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["노사 간 신뢰 높지 않아도, 협력해서 ESG 논의해야"]]></title>
+        <id>https://v.daum.net/v/20240203202701243</id>
+        <link href="https://v.daum.net/v/20240203202701243"/>
+        <updated>2024-02-03T14:14:24.485Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[17주 만에 유가 상승전환‥2~3주 계속 오를 듯]]></title>
         <id>https://v.daum.net/v/20240203202206216</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240203181521186"/>
         <updated>2024-02-03T11:13:52.156Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빈손 청약경보 발령…주당 20만원짜리 알짜 공모주 나온다]]></title>
-        <id>https://v.daum.net/v/20240203180600116</id>
-        <link href="https://v.daum.net/v/20240203180600116"/>
-        <updated>2024-02-03T11:13:52.158Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
