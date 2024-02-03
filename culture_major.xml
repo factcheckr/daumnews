@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-02-03T19:18:54.423Z</updated>
+    <updated>2024-02-03T20:19:46.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잠 안 와서 명상·요가했더니… 오히려 '역효과']]></title>
+        <id>https://v.daum.net/v/20240203230015786</id>
+        <link href="https://v.daum.net/v/20240203230015786"/>
+        <updated>2024-02-03T20:18:51.600Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가슴 불편하고 뻐근...체한 줄 알았더니 심근경색 신호였다 [건강한 가족]]]></title>
         <id>https://v.daum.net/v/20240203204223375</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240203172144714"/>
         <updated>2024-02-03T12:30:54.190Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 감염도 결국 유전? "환경보다 결정적"]]></title>
-        <id>https://v.daum.net/v/20240203171623683</id>
-        <link href="https://v.daum.net/v/20240203171623683"/>
-        <updated>2024-02-03T12:30:54.191Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
