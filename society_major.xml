@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2024-02-04T13:20:39.278Z</updated>
+    <updated>2024-02-04T14:15:52.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[명절 대목 맞은 한과.."전통 방식 그대로"]]></title>
+        <id>https://v.daum.net/v/20240204211729440</id>
+        <link href="https://v.daum.net/v/20240204211729440"/>
+        <updated>2024-02-04T14:13:46.676Z</updated>
+        <content type="html"><![CDATA[kbc광주방송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“너 안 놔줄 거야” 10대 女수강생 몸에 손 댄 학원장]]></title>
         <id>https://v.daum.net/v/20240204214207627</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240204212908517"/>
         <updated>2024-02-04T13:19:01.339Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 초중생 농촌유학 참가자 최다]]></title>
-        <id>https://v.daum.net/v/20240204212701505</id>
-        <link href="https://v.daum.net/v/20240204212701505"/>
-        <updated>2024-02-04T13:19:01.342Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
