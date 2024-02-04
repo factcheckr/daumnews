@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-02-04T10:18:29.804Z</updated>
+    <updated>2024-02-04T11:14:37.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대만 미디어텍 약진에…애플·삼성, 中서 '눈물']]></title>
+        <id>https://v.daum.net/v/20240204174402221</id>
+        <link href="https://v.daum.net/v/20240204174402221"/>
+        <updated>2024-02-04T11:14:06.161Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[좌표 찍고 대놓고 야당에 유리한 댓글… 네이버는 ‘뒷짐’]]></title>
         <id>https://v.daum.net/v/20240204174007154</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240204150047259"/>
         <updated>2024-02-04T08:20:51.923Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NYT “우주에 차단막 띄워 햇빛 2%만 줄여도 지구 기온 1.5도 내려”]]></title>
-        <id>https://v.daum.net/v/20240204145626163</id>
-        <link href="https://v.daum.net/v/20240204145626163"/>
-        <updated>2024-02-04T08:20:51.925Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
