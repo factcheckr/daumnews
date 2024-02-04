@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-02-04T17:16:33.944Z</updated>
+    <updated>2024-02-04T18:23:14.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 1위 앱 유튜브, 뉴스·쇼핑까지 흔든다]]></title>
+        <id>https://v.daum.net/v/20240205030855658</id>
+        <link href="https://v.daum.net/v/20240205030855658"/>
+        <updated>2024-02-04T18:22:37.722Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[완치되기 어렵던 자가면역질환 ‘T세포’로 잡는다]]></title>
+        <id>https://v.daum.net/v/20240205030326618</id>
+        <link href="https://v.daum.net/v/20240205030326618"/>
+        <updated>2024-02-04T18:22:37.723Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비정규직 지워버린 윤석열 정부 방통위에 쏟아진 비판]]></title>
         <id>https://v.daum.net/v/20240204222704015</id>
         <link href="https://v.daum.net/v/20240204222704015"/>
         <updated>2024-02-04T14:15:08.386Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왕좌 뺏긴 카톡, 유튜브에 1위 자리 내놨다]]></title>
-        <id>https://v.daum.net/v/20240204220922850</id>
-        <link href="https://v.daum.net/v/20240204220922850"/>
-        <updated>2024-02-04T13:20:05.593Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘첩약 보험 적용’ 확대에 필요한 것들[알아두면 쓸모 있는 한의과학]]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240204214937700"/>
         <updated>2024-02-04T13:20:05.598Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세계를 보다]‘뇌 안에 칩’ 심어 컴퓨터와 소통 경쟁]]></title>
-        <id>https://v.daum.net/v/20240204195906840</id>
-        <link href="https://v.daum.net/v/20240204195906840"/>
-        <updated>2024-02-04T11:13:58.613Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
     </entry>
 </feed>

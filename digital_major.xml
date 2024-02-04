@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-02-04T17:16:33.949Z</updated>
+    <updated>2024-02-04T18:23:14.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세계를 보다]‘뇌 안에 칩’ 심어 컴퓨터와 소통 경쟁]]></title>
+        <id>https://v.daum.net/v/20240204195906840</id>
+        <link href="https://v.daum.net/v/20240204195906840"/>
+        <updated>2024-02-04T18:22:45.073Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“내 배 속에 뭐가 든거야” 장내 미생물이 건강 좌지우지한다 [사이언스라운지]]]></title>
         <id>https://v.daum.net/v/20240204181807753</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240204170658553"/>
         <updated>2024-02-04T09:17:46.282Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 정부, 네카오 등 AI 개발사 개인정보결정권 침해 점검]]></title>
-        <id>https://v.daum.net/v/20240204170152409</id>
-        <link href="https://v.daum.net/v/20240204170152409"/>
-        <updated>2024-02-04T09:17:46.284Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
