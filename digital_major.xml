@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-02-04T09:18:20.547Z</updated>
+    <updated>2024-02-04T10:18:29.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[좌표 찍고 대놓고 야당에 유리한 댓글… 네이버는 ‘뒷짐’]]></title>
+        <id>https://v.daum.net/v/20240204174007154</id>
+        <link href="https://v.daum.net/v/20240204174007154"/>
+        <updated>2024-02-04T10:18:00.433Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 보이스피싱 키우는 ‘문자메시지 발송업체’...해외 서버 기반은 ‘법망 사각지대’ 악용]]></title>
         <id>https://v.daum.net/v/20240204171902740</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240204145626163"/>
         <updated>2024-02-04T08:20:51.925Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부작용 없앤 '인공혈액' 대량생산길 튼다…"혈액형 구분 없이 수혈"]]></title>
-        <id>https://v.daum.net/v/20240204143854836</id>
-        <link href="https://v.daum.net/v/20240204143854836"/>
-        <updated>2024-02-04T07:19:01.541Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
