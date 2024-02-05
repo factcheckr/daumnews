@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-02-05T21:17:31.654Z</updated>
+    <updated>2024-02-05T22:19:45.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[설 대목만 같아라[렌즈로 본 세상]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/8034/7d48MR0Cyf</id>
+        <link href="https://gallery.v.daum.net/p/viewer/8034/7d48MR0Cyf"/>
+        <updated>2024-02-05T22:19:22.622Z</updated>
+        <content type="html"><![CDATA[렌즈로 본 세상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재용 '경영권 불법 승계' 1심서 19개 혐의 무죄]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5032452/6cVpaN9HHt</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1629566/FXkf5P1m6g"/>
         <updated>2024-02-05T08:22:22.591Z</updated>
         <content type="html"><![CDATA[만리재사진첩]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[풍랑경보 속 해경 안전조치]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1075022/8WghLTo97D</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1075022/8WghLTo97D"/>
-        <updated>2024-02-05T07:18:00.975Z</updated>
-        <content type="html"><![CDATA[경찰 제공 포토]]></content>
     </entry>
 </feed>
