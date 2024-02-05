@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-02-05T22:19:45.398Z</updated>
+    <updated>2024-02-05T23:20:26.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 공유 계정 이용자 절반 "무료 공유 막으면 구독해지"]]></title>
+        <id>https://v.daum.net/v/20240206060107219</id>
+        <link href="https://v.daum.net/v/20240206060107219"/>
+        <updated>2024-02-05T23:19:52.256Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“이 정도일 줄은···” 페트병 당장 멀리 해야 할 이유[헬시타임]]]></title>
         <id>https://v.daum.net/v/20240206060137246</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240206030129572"/>
         <updated>2024-02-05T21:16:53.093Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플라스틱 쓰레기에서 수소를 뽑아냈다]]></title>
-        <id>https://v.daum.net/v/20240206010004340</id>
-        <link href="https://v.daum.net/v/20240206010004340"/>
-        <updated>2024-02-05T20:20:08.070Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
