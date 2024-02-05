@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-02-05T04:23:01.297Z</updated>
+    <updated>2024-02-05T05:20:10.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[16990원, 23990원... 이러니까 더 못 사겠어요]]></title>
+        <id>https://v.daum.net/v/20240205140301703</id>
+        <link href="https://v.daum.net/v/20240205140301703"/>
+        <updated>2024-02-05T05:19:05.938Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“밤을 즐기러 우리 지역으로 오세요”…지자체들, 야간 관광객 유치전 후끈]]></title>
         <id>https://v.daum.net/v/20240205130901972</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240205120300592"/>
         <updated>2024-02-05T03:21:09.135Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쉬어도 그대로인 ‘만성 피로’…어떻게 대처할까]]></title>
-        <id>https://v.daum.net/v/20240205120803743</id>
-        <link href="https://v.daum.net/v/20240205120803743"/>
-        <updated>2024-02-05T03:21:09.137Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
     </entry>
 </feed>
