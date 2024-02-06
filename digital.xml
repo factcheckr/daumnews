@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-02-06T17:16:44.274Z</updated>
+    <updated>2024-02-06T18:20:21.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성 사법리스크 7년… TSMC는 1위로, 인텔도 대약진]]></title>
+        <id>https://v.daum.net/v/20240207030524405</id>
+        <link href="https://v.daum.net/v/20240207030524405"/>
+        <updated>2024-02-06T18:19:38.005Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모로코서 10만년된 인류 발자국 발견…"조개 찾던 사람들인듯"]]></title>
         <id>https://v.daum.net/v/20240207014939612</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240206220000398"/>
         <updated>2024-02-06T14:17:08.747Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갤럭시S24, Z플립4 반납시 한국 실구매가 가장 저렴]]></title>
-        <id>https://v.daum.net/v/20240206181303192</id>
-        <link href="https://v.daum.net/v/20240206181303192"/>
-        <updated>2024-02-06T13:21:59.050Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
