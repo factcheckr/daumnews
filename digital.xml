@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-02-07T11:16:35.660Z</updated>
+    <updated>2024-02-07T12:31:20.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“끌려왔어”·부고 문자…교묘해져도 잡는다!]]></title>
+        <id>https://v.daum.net/v/20240207212423754</id>
+        <link href="https://v.daum.net/v/20240207212423754"/>
+        <updated>2024-02-07T12:30:40.516Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["조산 산모의 10%가 영향"…美 연구진 경고한 생활 속 플라스틱]]></title>
         <id>https://v.daum.net/v/20240207180023001</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240207184255096"/>
         <updated>2024-02-07T10:19:35.045Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSAP 전면 시행…공공 클라우드 새로운 기회될까]]></title>
-        <id>https://v.daum.net/v/20240207170112918</id>
-        <link href="https://v.daum.net/v/20240207170112918"/>
-        <updated>2024-02-07T10:19:35.047Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
