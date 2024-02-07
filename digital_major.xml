@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-02-07T15:18:01.626Z</updated>
+    <updated>2024-02-07T16:24:00.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메타, AI이미지에 꼬리표… 딥페이크와 전쟁 신호탄]]></title>
+        <id>https://v.daum.net/v/20240207161119850</id>
+        <link href="https://v.daum.net/v/20240207161119850"/>
+        <updated>2024-02-07T16:23:34.464Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“사람보다 AI가 더 위로되네”···챗봇 도입시 정신과 상담 신청 증가]]></title>
         <id>https://v.daum.net/v/20240207181800465</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240207174301438"/>
         <updated>2024-02-07T10:19:43.568Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 자성 발견 임박…컴퓨터 메모리 혁신 가져올까]]></title>
-        <id>https://v.daum.net/v/20240207174013345</id>
-        <link href="https://v.daum.net/v/20240207174013345"/>
-        <updated>2024-02-07T10:19:43.570Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
