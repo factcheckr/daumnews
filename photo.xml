@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-02-08T20:20:51.737Z</updated>
+    <updated>2024-02-08T21:20:20.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지금 만나러 갑니다]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/pBF61bTNHl</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/pBF61bTNHl"/>
+        <updated>2024-02-08T21:19:54.940Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美드론 공격받은 헤즈볼라 차량]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5001772/32ijRnzTDq</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615618/zWKIOk41mw"/>
         <updated>2024-02-08T07:18:32.156Z</updated>
         <content type="html"><![CDATA[오마이포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑 가득한 설 되세요]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5750948/5xrbnxFOea</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5750948/5xrbnxFOea"/>
-        <updated>2024-02-08T07:18:32.160Z</updated>
-        <content type="html"><![CDATA[포토에세이]]></content>
     </entry>
 </feed>
