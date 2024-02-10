@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-02-10T09:17:28.859Z</updated>
+    <updated>2024-02-10T10:18:42.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“200만원 삼성폰에 불 붙여, 충격!” 이래도 버텼다…아이폰은 이게 가능?]]></title>
+        <id>https://v.daum.net/v/20240210184110303</id>
+        <link href="https://v.daum.net/v/20240210184110303"/>
+        <updated>2024-02-10T10:17:59.836Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍콩, 쥐 잡는데 AI 활용한다]]></title>
         <id>https://v.daum.net/v/20240210171855710</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240210140026107"/>
         <updated>2024-02-10T05:15:44.463Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클럽 마약 ‘케타민’은 상습 복용?…일상화된 ‘머스크’ 마약 스캔들]]></title>
-        <id>https://v.daum.net/v/20240210140015095</id>
-        <link href="https://v.daum.net/v/20240210140015095"/>
-        <updated>2024-02-10T05:15:44.464Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
