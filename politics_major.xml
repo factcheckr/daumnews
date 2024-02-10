@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-02-10T16:21:53.290Z</updated>
+    <updated>2024-02-10T17:17:05.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올해 국회의원 세비, 1억5700만 원으로 인상돼 논란…“1인당 GDP 4배 넘어 과도”]]></title>
+        <id>https://v.daum.net/v/20240210222106400</id>
+        <link href="https://v.daum.net/v/20240210222106400"/>
+        <updated>2024-02-10T17:15:21.725Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빅 텐트' 성사 영향 촉각...공천 잡음 최소화 안간힘]]></title>
         <id>https://v.daum.net/v/20240210221624358</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240210204549979"/>
         <updated>2024-02-10T13:18:55.932Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[총선 최대 변수 ‘미결정자들’ 누구?]]></title>
-        <id>https://v.daum.net/v/20240210211303094</id>
-        <link href="https://v.daum.net/v/20240210211303094"/>
-        <updated>2024-02-10T13:18:55.933Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
