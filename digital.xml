@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-02-10T06:21:55.945Z</updated>
+    <updated>2024-02-10T07:16:36.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["한국인 거는 널렸다" 떨이 판매…'다크웹' 올라온 개인정보 충격]]></title>
+        <id>https://v.daum.net/v/20240210160001999</id>
+        <link href="https://v.daum.net/v/20240210160001999"/>
+        <updated>2024-02-10T07:16:00.277Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아폴로 이후 50년, 달 착륙은 왜 여전히 어렵나]]></title>
         <id>https://v.daum.net/v/20240210140134146</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240210131004750"/>
         <updated>2024-02-10T04:21:45.843Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[제4이통②]이통3社→4社 경쟁체제 '초읽기'…통신비 확 내릴까]]></title>
-        <id>https://v.daum.net/v/20240210130011678</id>
-        <link href="https://v.daum.net/v/20240210130011678"/>
-        <updated>2024-02-10T04:21:45.843Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
