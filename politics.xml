@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2024-02-12T13:21:04.586Z</updated>
+    <updated>2024-02-12T14:20:11.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["그분 결단 곱씹어야"…한동훈, '건국전쟁' 관람평 남겼다]]></title>
+        <id>https://v.daum.net/v/20240212221202580</id>
+        <link href="https://v.daum.net/v/20240212221202580"/>
+        <updated>2024-02-12T14:18:12.868Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민주, 비공개 최고위서 "국민분노·정권심판론 확산 확인"]]></title>
         <id>https://v.daum.net/v/20240212220716553</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240212211828234"/>
         <updated>2024-02-12T12:30:08.021Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여야, ‘총선 시대정신’ 공방…공천 전쟁 돌입]]></title>
-        <id>https://v.daum.net/v/20240212212434276</id>
-        <link href="https://v.daum.net/v/20240212212434276"/>
-        <updated>2024-02-12T12:30:08.020Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

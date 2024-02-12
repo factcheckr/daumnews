@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-02-12T13:21:04.579Z</updated>
+    <updated>2024-02-12T14:20:11.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여야, ‘총선 시대정신’ 공방…공천 전쟁 돌입]]></title>
+        <id>https://v.daum.net/v/20240212212434276</id>
+        <link href="https://v.daum.net/v/20240212212434276"/>
+        <updated>2024-02-12T14:18:22.293Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저출산위 부위원장에 '불도저 장관'…주형환 "특단의 대책"]]></title>
         <id>https://v.daum.net/v/20240212205105022</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240212204504970"/>
         <updated>2024-02-12T12:30:17.558Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설 민심이 풍향계?… 뚜껑 열어봐야 [갑진년 설 민심]]]></title>
-        <id>https://v.daum.net/v/20240212210348125</id>
-        <link href="https://v.daum.net/v/20240212210348125"/>
-        <updated>2024-02-12T12:30:17.556Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
