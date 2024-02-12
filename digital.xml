@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-02-12T03:21:35.746Z</updated>
+    <updated>2024-02-12T04:22:14.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이렇게 아름다웠나?"...미러볼처럼 빛나는 수성]]></title>
+        <id>https://v.daum.net/v/20240210195109657</id>
+        <link href="https://v.daum.net/v/20240210195109657"/>
+        <updated>2024-02-12T04:21:29.324Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실제 뇌기능 구현한 '오가노이드', 3D프린팅으로 개발]]></title>
+        <id>https://v.daum.net/v/20240212122211001</id>
+        <link href="https://v.daum.net/v/20240212122211001"/>
+        <updated>2024-02-12T04:21:29.324Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유튜브공화국③] "날 닮은 넌 누구?" 딥페이크 영상…선거 경고등]]></title>
         <id>https://v.daum.net/v/20240212121018900</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240212112022196"/>
         <updated>2024-02-12T02:24:07.800Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]중기부 산하기관, AWS 클라우드 도입하나…보안인증제 무력화 '논란']]></title>
-        <id>https://v.daum.net/v/20240212111123039</id>
-        <link href="https://v.daum.net/v/20240212111123039"/>
-        <updated>2024-02-12T02:24:07.801Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 ‘쥬라기 공원’에 없었던 쥐라기 익룡 발견 [달콤한 사이언스]]]></title>
-        <id>https://v.daum.net/v/20240212110104856</id>
-        <link href="https://v.daum.net/v/20240212110104856"/>
-        <updated>2024-02-12T02:24:07.803Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
