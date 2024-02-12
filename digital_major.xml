@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-02-12T14:20:11.286Z</updated>
+    <updated>2024-02-12T15:19:40.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20240212212445277"/>
         <updated>2024-02-12T12:31:29.549Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["통신업계의 AI 활용 규모 2032년까지 9.4배 증가"]]></title>
+        <id>https://v.daum.net/v/20240212200007630</id>
+        <link href="https://v.daum.net/v/20240212200007630"/>
+        <updated>2024-02-12T15:19:07.636Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고글 끼고 운전하고 타자까지…애플 헤드셋 웨어러블 판도 바꿀까?]]></title>
+        <id>https://v.daum.net/v/20240212195628595</id>
+        <link href="https://v.daum.net/v/20240212195628595"/>
+        <updated>2024-02-12T15:19:07.637Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[설마했는데…“진짜 이렇게 나온다?” 삼성 파격 ‘제품’ 예고]]></title>
@@ -41,7 +55,7 @@
         <content type="html"><![CDATA[대전일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영업비밀 침해 의혹에도 버젓이 수출…法 개정 목소리]]></title>
+        <title type="html"><![CDATA[영업비밀 침해 공방에도 버젓이 수출…法 개정 목소리]]></title>
         <id>https://v.daum.net/v/20240212173909996</id>
         <link href="https://v.daum.net/v/20240212173909996"/>
         <updated>2024-02-12T09:19:28.314Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240212170016232"/>
         <updated>2024-02-12T11:15:35.895Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스마트폰 보호필름 선택은 이렇게![이럴땐 이렇게!]]]></title>
-        <id>https://v.daum.net/v/20240212165706194</id>
-        <link href="https://v.daum.net/v/20240212165706194"/>
-        <updated>2024-02-12T10:21:39.585Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제4 이동통신사 내년 출범…리얼 '초고속 5G' 시대 열리나]]></title>
-        <id>https://v.daum.net/v/20240212161102580</id>
-        <link href="https://v.daum.net/v/20240212161102580"/>
-        <updated>2024-02-12T09:19:28.317Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
