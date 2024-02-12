@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-02-12T10:22:10.151Z</updated>
+    <updated>2024-02-12T11:16:09.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<뉴스브릿지>여자 하기 좋은 직업의 함정…'직업을 때려치운 여자들']]></title>
+        <id>https://v.daum.net/v/20240212195759607</id>
+        <link href="https://v.daum.net/v/20240212195759607"/>
+        <updated>2024-02-12T11:15:10.514Z</updated>
+        <content type="html"><![CDATA[EBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아버지 부고에 십리를 걸었다, 막노동을 접기로 다짐했다 [이게 이슈]]]></title>
         <id>https://v.daum.net/v/20240212185400044</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240212181007560"/>
         <updated>2024-02-12T09:19:01.248Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["정해놓고 세상을 바라 보죠. 하지만 실제는 그것과 다를 수 있습니다"]]></title>
-        <id>https://v.daum.net/v/20240212180152420</id>
-        <link href="https://v.daum.net/v/20240212180152420"/>
-        <updated>2024-02-12T09:19:01.249Z</updated>
-        <content type="html"><![CDATA[대전일보]]></content>
     </entry>
 </feed>
