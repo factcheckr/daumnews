@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-02-13T16:25:07.269Z</updated>
+    <updated>2024-02-13T17:16:21.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20240214001135020"/>
         <updated>2024-02-13T15:17:50.624Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[두 달 연속 예상치 웃돈 美 CPI…금리 인하 기대감 '찬물']]></title>
+        <id>https://v.daum.net/v/20240214000049830</id>
+        <link href="https://v.daum.net/v/20240214000049830"/>
+        <updated>2024-02-13T17:14:54.782Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시장이 충격 안긴 1월 CPI…낙관적 전망 뒤집혔다]]></title>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20240213215905979</id>
         <link href="https://v.daum.net/v/20240213215905979"/>
         <updated>2024-02-13T15:17:50.632Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[치킨에 편의점 더해야 카페…‘10만 카페’ 시대]]></title>
-        <id>https://v.daum.net/v/20240213214602837</id>
-        <link href="https://v.daum.net/v/20240213214602837"/>
-        <updated>2024-02-13T14:18:50.608Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
