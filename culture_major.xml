@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-02-13T21:17:29.458Z</updated>
+    <updated>2024-02-13T22:19:55.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 尹 정부, 韓-日 바이오 협력 첫 성과...韓 AI·항암제 기업 다케다가 키운다]]></title>
+        <id>https://v.daum.net/v/20240214050027292</id>
+        <link href="https://v.daum.net/v/20240214050027292"/>
+        <updated>2024-02-13T22:18:58.516Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브루크너 탄생 200주년…국내 교향악단 연주 열풍]]></title>
         <id>https://v.daum.net/v/20240214043208074</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240214030234663"/>
         <updated>2024-02-13T20:20:50.660Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사는게 죄’ 조선 여인들, 살기 위해 붓을 들다]]></title>
-        <id>https://v.daum.net/v/20240214030109565</id>
-        <link href="https://v.daum.net/v/20240214030109565"/>
-        <updated>2024-02-13T18:22:48.985Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
