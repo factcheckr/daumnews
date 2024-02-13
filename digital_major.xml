@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-02-13T14:20:18.162Z</updated>
+    <updated>2024-02-13T15:19:16.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“삼성, 난리 나겠네” 한국인, 190만원 비싼 아이폰 타령 ‘역대급’]]></title>
+        <id>https://v.daum.net/v/20240213195116246</id>
+        <link href="https://v.daum.net/v/20240213195116246"/>
+        <updated>2024-02-13T15:18:42.444Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4년 전 폐암 AI는 알았다…속도·정확도 실시간 진단 수준]]></title>
         <id>https://v.daum.net/v/20240213195631355</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240213173029503"/>
         <updated>2024-02-13T10:18:51.312Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구닥다리 기술' LTE의 부활…작년 273만회선 '순증']]></title>
-        <id>https://v.daum.net/v/20240213172925398</id>
-        <link href="https://v.daum.net/v/20240213172925398"/>
-        <updated>2024-02-13T10:18:51.314Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
