@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-02-14T12:34:11.578Z</updated>
+    <updated>2024-02-14T13:20:17.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["사람이 아니었어?"…우리가 알던 로봇이 아니다 '충격'[영상]]]></title>
+        <id>https://v.daum.net/v/20240214210102918</id>
+        <link href="https://v.daum.net/v/20240214210102918"/>
+        <updated>2024-02-14T13:19:32.428Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“싼 맛에 보는 드라마, 무시 했는데” 망할 줄 알았던 쿠팡, 충격 대반전]]></title>
         <id>https://v.daum.net/v/20240214185101491</id>
@@ -20,20 +27,6 @@
         <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국내 발견 조류인플루엔자 인체 감염 가능성 있다!]]></title>
-        <id>https://v.daum.net/v/20240214194640367</id>
-        <link href="https://v.daum.net/v/20240214194640367"/>
-        <updated>2024-02-14T11:17:30.584Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[집중취재] 고준위 폐기물 특별법은 국회 계류 중…폐기 위기]]></title>
-        <id>https://v.daum.net/v/20240214190951761</id>
-        <link href="https://v.daum.net/v/20240214190951761"/>
-        <updated>2024-02-14T11:17:30.585Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[기술특례 위축·세무사회 반발 겹쳐···제4 인뱅 신사업까지 타격]]></title>
         <id>https://v.daum.net/v/20240214173638746</id>
         <link href="https://v.daum.net/v/20240214173638746"/>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20240214104533193"/>
         <updated>2024-02-14T11:17:30.588Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빛으로 질병 유발 mRNA만 '싹둑'···유전자가위 치료 새 길 '거위아빠']]></title>
+        <id>https://v.daum.net/v/20240214184352356</id>
+        <link href="https://v.daum.net/v/20240214184352356"/>
+        <updated>2024-02-14T13:19:32.436Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
