@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-02-14T18:24:44.277Z</updated>
+    <updated>2024-02-14T19:15:18.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[움직임 없던 정자가 다시 살아났다]]></title>
+        <id>https://v.daum.net/v/20240215040218024</id>
+        <link href="https://v.daum.net/v/20240215040218024"/>
+        <updated>2024-02-14T19:14:38.196Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[열을 잡아야 AI가 산다… 데이터센터 열 식히는 기술들]]></title>
         <id>https://v.daum.net/v/20240215030115717</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240215010014410"/>
         <updated>2024-02-14T17:16:50.977Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 최초로 쇠고기쌀 만들었다...'영양 만점']]></title>
-        <id>https://v.daum.net/v/20240215010008405</id>
-        <link href="https://v.daum.net/v/20240215010008405"/>
-        <updated>2024-02-14T17:16:50.978Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
