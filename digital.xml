@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-02-15T14:17:10.992Z</updated>
+    <updated>2024-02-15T15:18:50.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밥인가 쇠고기인가…핑크빛 쌀의 정체]]></title>
+        <id>https://v.daum.net/v/20240216001030059</id>
+        <link href="https://v.daum.net/v/20240216001030059"/>
+        <updated>2024-02-15T15:18:09.479Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[WE+] 화천의 밤이 들려준 별들의 속삭임 반짝이는 추억이 되다]]></title>
+        <id>https://v.daum.net/v/20240216000520941</id>
+        <link href="https://v.daum.net/v/20240216000520941"/>
+        <updated>2024-02-15T15:18:09.479Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누리호 제작 한화에어로 순천 공장 착공]]></title>
         <id>https://v.daum.net/v/20240215220316023</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240215182209990"/>
         <updated>2024-02-15T10:19:24.973Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인공지능 악용 막을 ‘AISIC’ 출범한다]]></title>
-        <id>https://v.daum.net/v/20240215182704104</id>
-        <link href="https://v.daum.net/v/20240215182704104"/>
-        <updated>2024-02-15T10:19:24.975Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["주 4일제 조기 도입 등…AI시대, 일하는 방식 파격적으로 바꿔야"]]></title>
-        <id>https://v.daum.net/v/20240215183604294</id>
-        <link href="https://v.daum.net/v/20240215183604294"/>
-        <updated>2024-02-15T13:24:48.483Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
