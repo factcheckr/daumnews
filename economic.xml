@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-02-15T15:18:50.080Z</updated>
+    <updated>2024-02-15T16:25:00.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청정에너지 신산업 ‘선점경쟁’에 대비해야]]></title>
+        <id>https://v.daum.net/v/20240216012027423</id>
+        <link href="https://v.daum.net/v/20240216012027423"/>
+        <updated>2024-02-15T16:23:21.032Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 성장률 25년만에 일본에 역전 “일회성 아닌 구조적”]]></title>
         <id>https://v.daum.net/v/20240216001205102</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240216000021867"/>
         <updated>2024-02-15T15:17:25.508Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[간추린 뉴스] ‘홍콩 ELS’ 공익감사 청구 외]]></title>
-        <id>https://v.daum.net/v/20240215235042787</id>
-        <link href="https://v.daum.net/v/20240215235042787"/>
-        <updated>2024-02-15T15:17:25.509Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
