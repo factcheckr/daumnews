@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-02-15T19:16:02.152Z</updated>
+    <updated>2024-02-15T20:19:27.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1075022/KgpyHutsup"/>
         <updated>2024-02-15T17:17:50.363Z</updated>
         <content type="html"><![CDATA[경찰 제공 포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[판다ㅇ난감]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/xdY9ee6Fwj</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/xdY9ee6Fwj"/>
+        <updated>2024-02-15T20:19:02.599Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘홍콩H지수 ELS 사태’ 공익감사 촉구하는 시민들[포토뉴스]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615616/xDmSUKuSp8"/>
         <updated>2024-02-15T08:21:55.699Z</updated>
         <content type="html"><![CDATA[뉴스1 PICK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시총 1조 달러 넘어선 비트코인]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5610796/YNFEnALKpo</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5610796/YNFEnALKpo"/>
-        <updated>2024-02-15T08:21:55.701Z</updated>
-        <content type="html"><![CDATA[모멘트]]></content>
     </entry>
 </feed>
