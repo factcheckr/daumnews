@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-02-15T18:24:21.434Z</updated>
+    <updated>2024-02-15T19:16:02.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[폴란드 총리·대통령, 내달 12일 방미…바이든과 우크라戰 논의]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1471/PisPdco9z3</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1471/PisPdco9z3"/>
+        <updated>2024-02-15T19:15:36.989Z</updated>
+        <content type="html"><![CDATA[세계의 정상들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사고 화물선 구조 나선 해경]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1075022/KgpyHutsup</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5610796/YNFEnALKpo"/>
         <updated>2024-02-15T08:21:55.701Z</updated>
         <content type="html"><![CDATA[모멘트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가파른 계단 사고 방지, 서울 첫 '모노레일' 개통]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5612596/2SamkOEQBr</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5612596/2SamkOEQBr"/>
-        <updated>2024-02-15T08:21:55.701Z</updated>
-        <content type="html"><![CDATA[머니S포토]]></content>
     </entry>
 </feed>
