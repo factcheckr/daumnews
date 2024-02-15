@@ -2,29 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-02-15T12:31:37.794Z</updated>
+    <updated>2024-02-15T13:25:30.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누리호 제작 한화에어로 순천 공장 착공]]></title>
+        <id>https://v.daum.net/v/20240215220316023</id>
+        <link href="https://v.daum.net/v/20240215220316023"/>
+        <updated>2024-02-15T13:24:48.475Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계 최초 '소고기 쌀' 개발…한국 연구진 일냈다]]></title>
         <id>https://v.daum.net/v/20240215201901363</id>
         <link href="https://v.daum.net/v/20240215201901363"/>
         <updated>2024-02-15T12:30:52.716Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 특허상표청 “AI는 발명품 특허 낼 수 없다”]]></title>
-        <id>https://v.daum.net/v/20240215193125386</id>
-        <link href="https://v.daum.net/v/20240215193125386"/>
-        <updated>2024-02-15T12:30:52.717Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구조물 결함 한 번에 찾는 ‘메타물질’ 개발]]></title>
-        <id>https://v.daum.net/v/20240215201041207</id>
-        <link href="https://v.daum.net/v/20240215201041207"/>
-        <updated>2024-02-15T12:30:52.719Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[X선으로 관측한 우주 데이터 분석 결과 공개…"우주론 벗어나지 않았다"]]></title>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20240215182704104"/>
         <updated>2024-02-15T10:19:24.975Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["주 4일제 조기 도입 등…AI시대, 일하는 방식 파격적으로 바꿔야"]]></title>
+        <id>https://v.daum.net/v/20240215183604294</id>
+        <link href="https://v.daum.net/v/20240215183604294"/>
+        <updated>2024-02-15T13:24:48.483Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
