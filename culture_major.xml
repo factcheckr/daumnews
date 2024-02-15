@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-02-15T13:25:30.177Z</updated>
+    <updated>2024-02-15T14:17:10.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쿠바 여행 연 1만4천명…업계 ‘관광 붐’ 기대]]></title>
+        <id>https://v.daum.net/v/20240215205010900</id>
+        <link href="https://v.daum.net/v/20240215205010900"/>
+        <updated>2024-02-15T14:16:20.041Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<뉴스브릿지>성장과 행복의 열쇠 '호르몬'…어떻게 관리하나?]]></title>
         <id>https://v.daum.net/v/20240215203018541</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240215182919148"/>
         <updated>2024-02-15T12:30:43.718Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[냉장고에 보관하면 오히려 '독' 되는 식품]]></title>
-        <id>https://v.daum.net/v/20240215193515454</id>
-        <link href="https://v.daum.net/v/20240215193515454"/>
-        <updated>2024-02-15T13:24:41.627Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
