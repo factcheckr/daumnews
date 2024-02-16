@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-02-16T16:22:49.142Z</updated>
+    <updated>2024-02-16T17:17:37.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사회적 약자 위한 로봇 개발, 서울 전역을 테스트베드로]]></title>
+        <id>https://v.daum.net/v/20240217014247747</id>
+        <link href="https://v.daum.net/v/20240217014247747"/>
+        <updated>2024-02-16T17:16:58.923Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 골드러시 시대 ‘청바지와 곡괭이’ 없는 기업 생존의 길]]></title>
         <id>https://v.daum.net/v/20240217003516542</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240216205043848"/>
         <updated>2024-02-16T12:30:48.141Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“50개 모은다고?” 안 쓰면서 자랑만 하는 텀블러 수집 열풍…다 쓰레기 됩니다 [지구, 뭐래?]]]></title>
-        <id>https://v.daum.net/v/20240216205105855</id>
-        <link href="https://v.daum.net/v/20240216205105855"/>
-        <updated>2024-02-16T12:30:48.142Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
