@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-02-16T15:19:31.246Z</updated>
+    <updated>2024-02-16T16:22:49.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“열불나서 못해먹겠다” 270억짜리 ‘통합연구지원시스템’ 먹통…대체 왜이러나]]></title>
+        <id>https://v.daum.net/v/20240216195056144</id>
+        <link href="https://v.daum.net/v/20240216195056144"/>
+        <updated>2024-02-16T16:22:14.702Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[만능 챗GPT, '숏폼 영상'도 뚝딱…구글은 '제미나이 1.5' 공개]]></title>
         <id>https://v.daum.net/v/20240216191254429</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240216165002326"/>
         <updated>2024-02-16T09:17:50.607Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밥에서 고기맛이? 국내 '쇠고기 쌀' 개발 성공]]></title>
-        <id>https://v.daum.net/v/20240216162002559</id>
-        <link href="https://v.daum.net/v/20240216162002559"/>
-        <updated>2024-02-16T09:17:50.608Z</updated>
-        <content type="html"><![CDATA[키즈맘]]></content>
     </entry>
 </feed>
