@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-02-16T17:17:37.645Z</updated>
+    <updated>2024-02-16T18:26:36.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1013249/0T1tQhrRBM"/>
         <updated>2024-02-16T16:22:22.262Z</updated>
         <content type="html"><![CDATA[세계의 외교현장]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘우정’의 윙크]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/ZFJjMSsdrI</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/ZFJjMSsdrI"/>
+        <updated>2024-02-16T18:26:09.852Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[광명성절 즐기는 북한 주민들]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1106239/x32C2KuSFI"/>
         <updated>2024-02-16T06:22:21.300Z</updated>
         <content type="html"><![CDATA[인도네시아는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['듄2' 세계 초연 행사 참석한 샬라메]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/2329/qAdmwEaVuQ</id>
-        <link href="https://gallery.v.daum.net/p/viewer/2329/qAdmwEaVuQ"/>
-        <updated>2024-02-16T06:22:21.303Z</updated>
-        <content type="html"><![CDATA[영국은 지금]]></content>
     </entry>
 </feed>
