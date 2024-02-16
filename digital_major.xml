@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-02-16T12:31:34.345Z</updated>
+    <updated>2024-02-16T13:20:12.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[20대 '아이폰' vs 40대 '갤럭시' 나이따라 '선호 폰' 달라진다]]></title>
+        <id>https://v.daum.net/v/20240216160401043</id>
+        <link href="https://v.daum.net/v/20240216160401043"/>
+        <updated>2024-02-16T13:19:38.916Z</updated>
+        <content type="html"><![CDATA[한경비즈니스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 빼고…토종OTT에 짐 지운 '디지털 바우처']]></title>
         <id>https://v.daum.net/v/20240216180006176</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240216162121602"/>
         <updated>2024-02-16T08:21:48.022Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의료데이터 중심병원, 임상데이터 활용시 병원 간 주요항목 서식 표준화]]></title>
-        <id>https://v.daum.net/v/20240216161228328</id>
-        <link href="https://v.daum.net/v/20240216161228328"/>
-        <updated>2024-02-16T08:21:48.023Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
