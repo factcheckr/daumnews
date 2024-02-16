@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-02-16T18:26:36.999Z</updated>
+    <updated>2024-02-16T19:16:29.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[명절에 여행을 떠나보니]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1573204/VMkEcp5r3F</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1573204/VMkEcp5r3F"/>
+        <updated>2024-02-16T19:16:06.622Z</updated>
+        <content type="html"><![CDATA[[아무튼, 주말] 오종찬 기자의 Oh!컷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美블링컨·中왕이, 뮌헨서 4개월 만에 회담]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1013249/0T1tQhrRBM</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/386/9sUTQ69HFo"/>
         <updated>2024-02-16T06:22:21.296Z</updated>
         <content type="html"><![CDATA[소방본부 제공 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프라보워, 인니 대선 승리 선언]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1106239/x32C2KuSFI</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1106239/x32C2KuSFI"/>
-        <updated>2024-02-16T06:22:21.300Z</updated>
-        <content type="html"><![CDATA[인도네시아는 지금]]></content>
     </entry>
 </feed>
