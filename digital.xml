@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-02-17T06:22:49.522Z</updated>
+    <updated>2024-02-17T07:16:29.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[외신이 주목한 韓 연구 '소고기 쌀'…”탄소 배출 줄일 미래식량”]]></title>
+        <id>https://v.daum.net/v/20240217155102732</id>
+        <link href="https://v.daum.net/v/20240217155102732"/>
+        <updated>2024-02-17T07:15:46.817Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["기업 40% AI 도입 여전히 검토 중…전문성 부족·윤리 문제 해결돼야"]]></title>
         <id>https://v.daum.net/v/20240217144512105</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240217130049419"/>
         <updated>2024-02-17T04:25:44.815Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온디바이스 AI 시대 열린다…스마트폰→노트북→자율차?]]></title>
-        <id>https://v.daum.net/v/20240217123009287</id>
-        <link href="https://v.daum.net/v/20240217123009287"/>
-        <updated>2024-02-17T04:25:44.817Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>

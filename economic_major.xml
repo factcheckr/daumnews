@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-02-17T06:22:49.518Z</updated>
+    <updated>2024-02-17T07:16:29.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[목동 11단지 안전진단 통과…14개 단지 재건축 본격화]]></title>
+        <id>https://v.daum.net/v/20240217140902893</id>
+        <link href="https://v.daum.net/v/20240217140902893"/>
+        <updated>2024-02-17T07:15:02.451Z</updated>
+        <content type="html"><![CDATA[비즈워치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“터질 게 터졌다”…뿔난 군중에 불타버린 완전자율주행]]></title>
         <id>https://v.daum.net/v/20240217140003806</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240217125902398"/>
         <updated>2024-02-17T05:15:55.044Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[땅속 깊이 질소비료 줬더니…미세먼지 줄고 생산량은 증가]]></title>
-        <id>https://v.daum.net/v/20240217123813314</id>
-        <link href="https://v.daum.net/v/20240217123813314"/>
-        <updated>2024-02-17T05:15:55.045Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
