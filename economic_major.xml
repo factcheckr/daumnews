@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-02-17T07:16:29.594Z</updated>
+    <updated>2024-02-17T08:20:56.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전기차 둔화에 실적 직격탄…동박 3사 “하반기는 다르다” [비즈360]]]></title>
+        <id>https://v.daum.net/v/20240217143758054</id>
+        <link href="https://v.daum.net/v/20240217143758054"/>
+        <updated>2024-02-17T08:19:41.365Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[목동 11단지 안전진단 통과…14개 단지 재건축 본격화]]></title>
         <id>https://v.daum.net/v/20240217140902893</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240217130300429"/>
         <updated>2024-02-17T05:15:55.042Z</updated>
         <content type="html"><![CDATA[매경이코노미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['직원 평가'와 '블랙 리스트' 사이…쿠팡 둘러싼 논란]]></title>
-        <id>https://v.daum.net/v/20240217125902398</id>
-        <link href="https://v.daum.net/v/20240217125902398"/>
-        <updated>2024-02-17T05:15:55.044Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>
