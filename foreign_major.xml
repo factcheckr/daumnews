@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-02-17T03:19:41.333Z</updated>
+    <updated>2024-02-17T04:26:27.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["美 물가 안 떨어진다…금리인하가 아니라 '인상'에 대비하라" [나수지의 뉴욕리포트]]]></title>
+        <id>https://v.daum.net/v/20240217114102954</id>
+        <link href="https://v.daum.net/v/20240217114102954"/>
+        <updated>2024-02-17T04:25:16.654Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英 외무부, 푸틴 정적 나발니 옥중사망에 주영 러 외교관들 초치]]></title>
         <id>https://v.daum.net/v/20240217115121029</id>
@@ -20,25 +27,11 @@
         <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“악수할 때 조심, 아직 많이 아파”…손가락에 보호대 찬 손흥민 [영상]]]></title>
-        <id>https://v.daum.net/v/20240217111800787</id>
-        <link href="https://v.daum.net/v/20240217111800787"/>
-        <updated>2024-02-17T03:18:29.587Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[365일 지진 공포...일본인들은 어떻게 살아갈까 [김경민의 도쿄 혼네]]]></title>
         <id>https://v.daum.net/v/20240217111530772</id>
         <link href="https://v.daum.net/v/20240217111530772"/>
         <updated>2024-02-17T03:18:29.588Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나발니 아내 “러시아의 끔찍한 정권 물리쳐야”]]></title>
-        <id>https://v.daum.net/v/20240217111050723</id>
-        <link href="https://v.daum.net/v/20240217111050723"/>
-        <updated>2024-02-17T03:18:29.590Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['64년 형제' 뒤통수쳤다…의리 대신 실리 택한 쿠바 대통령]]></title>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20240217100204970"/>
         <updated>2024-02-17T02:21:36.484Z</updated>
         <content type="html"><![CDATA[시사저널]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['북한 형제국’ 쿠바와 수교 맺다]]></title>
+        <id>https://v.daum.net/v/20240217100147966</id>
+        <link href="https://v.daum.net/v/20240217100147966"/>
+        <updated>2024-02-17T04:25:16.665Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
