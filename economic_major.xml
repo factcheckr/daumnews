@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-02-17T09:17:17.926Z</updated>
+    <updated>2024-02-17T10:18:14.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[취업자 수 30만명대 회복… 실업자는 2년來 최대]]></title>
+        <id>https://v.daum.net/v/20240217142344964</id>
+        <link href="https://v.daum.net/v/20240217142344964"/>
+        <updated>2024-02-17T10:16:40.575Z</updated>
+        <content type="html"><![CDATA[대전일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["엔·달러 환율, 연말엔 140엔 아래로? 글쎄…"]]></title>
+        <id>https://v.daum.net/v/20240217141815942</id>
+        <link href="https://v.daum.net/v/20240217141815942"/>
+        <updated>2024-02-17T10:16:40.577Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전기차 둔화에 실적 직격탄…동박 3사 “하반기는 다르다” [비즈360]]]></title>
         <id>https://v.daum.net/v/20240217143758054</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240217140008810"/>
         <updated>2024-02-17T05:15:55.039Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“피같은 돈 날아간다”…주담대 금리 내려가는데 갈아타지도 못하는 중도금 대출]]></title>
-        <id>https://v.daum.net/v/20240217131201461</id>
-        <link href="https://v.daum.net/v/20240217131201461"/>
-        <updated>2024-02-17T05:15:55.041Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“불법 리딩방 범죄 수익 빼돌린다”···‘은행 계좌 지급 정지법’은 하세월 [국회 방청석]]]></title>
-        <id>https://v.daum.net/v/20240217130300429</id>
-        <link href="https://v.daum.net/v/20240217130300429"/>
-        <updated>2024-02-17T05:15:55.042Z</updated>
-        <content type="html"><![CDATA[매경이코노미]]></content>
     </entry>
 </feed>
