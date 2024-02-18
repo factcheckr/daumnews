@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-02-18T13:20:22.190Z</updated>
+    <updated>2024-02-18T14:16:05.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[尹, ‘오징어 게임2’ 이정재·넷플릭스 CEO와 오찬…김여사도 참석]]></title>
+        <id>https://v.daum.net/v/20240218213306707</id>
+        <link href="https://v.daum.net/v/20240218213306707"/>
+        <updated>2024-02-18T14:14:21.192Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[본선행 경선 앞두고 지지 호소]]></title>
         <id>https://v.daum.net/v/20240218212305623</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240218210813514"/>
         <updated>2024-02-18T12:28:12.486Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1주일 만에 찢어진 제3지대 빅텐트]]></title>
-        <id>https://v.daum.net/v/20240218204301332</id>
-        <link href="https://v.daum.net/v/20240218204301332"/>
-        <updated>2024-02-18T12:28:12.487Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
