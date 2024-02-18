@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-02-18T18:21:23.828Z</updated>
+    <updated>2024-02-18T19:14:52.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“음악은 장애와 상관없어… 모든 걸 다 표현하니까”]]></title>
+        <id>https://v.daum.net/v/20240219030026270</id>
+        <link href="https://v.daum.net/v/20240219030026270"/>
+        <updated>2024-02-18T19:14:00.784Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나전칠기함 만져보고 범종소리 눈으로 보고, 박물관서 부는 오감 체험 ‘배리어 프리’ 바람]]></title>
         <id>https://v.daum.net/v/20240219030020267</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240218205623425"/>
         <updated>2024-02-18T16:21:44.523Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[제보가 뉴스다]멸종위기 담비 한 쌍, 서울서 첫 포착]]></title>
-        <id>https://v.daum.net/v/20240218195557968</id>
-        <link href="https://v.daum.net/v/20240218195557968"/>
-        <updated>2024-02-18T13:19:28.745Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
     </entry>
 </feed>
