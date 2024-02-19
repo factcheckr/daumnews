@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-02-19T15:21:21.502Z</updated>
+    <updated>2024-02-19T16:26:14.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[근육 키우는 단백질도 과유불급…美 연구진 "열량 22% 단백질이면 동맥 굳는다"]]></title>
+        <id>https://v.daum.net/v/20240220010002420</id>
+        <link href="https://v.daum.net/v/20240220010002420"/>
+        <updated>2024-02-19T16:25:39.510Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['전방 압박' 받는 카카오, 공정위와 갈등 심화…줄줄이 행정소송]]></title>
         <id>https://v.daum.net/v/20240220000023997</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240219194112345"/>
         <updated>2024-02-19T11:15:33.520Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌 빅테크, 유권자 속이는 ‘AI 페이크’ 공동 대응]]></title>
-        <id>https://v.daum.net/v/20240219103008599</id>
-        <link href="https://v.daum.net/v/20240219103008599"/>
-        <updated>2024-02-19T11:15:33.524Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
