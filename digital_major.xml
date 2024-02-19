@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-02-19T12:32:39.157Z</updated>
+    <updated>2024-02-19T13:19:53.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차세대 메모리는 하이브리드 반도체]]></title>
+        <id>https://v.daum.net/v/20240219181907847</id>
+        <link href="https://v.daum.net/v/20240219181907847"/>
+        <updated>2024-02-19T13:19:27.841Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하루 7건꼴… 딥페이크, 총선 파고들다]]></title>
         <id>https://v.daum.net/v/20240219184302384</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240219174117543"/>
         <updated>2024-02-19T09:20:56.495Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["어르신, 댁 어디세요" 묻지않아도 5분내 확인]]></title>
-        <id>https://v.daum.net/v/20240219152503276</id>
-        <link href="https://v.daum.net/v/20240219152503276"/>
-        <updated>2024-02-19T09:20:56.496Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
