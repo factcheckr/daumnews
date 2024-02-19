@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2024-02-19T14:19:25.421Z</updated>
+    <updated>2024-02-19T15:21:21.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[北, 방송·웹사이트서 통일 상징 ‘한반도’ 이미지도 지웠다]]></title>
+        <id>https://v.daum.net/v/20240219215152964</id>
+        <link href="https://v.daum.net/v/20240219215152964"/>
+        <updated>2024-02-19T15:19:31.541Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선거 50일 남았는데 후보도 선거구도 안갯속]]></title>
+        <id>https://v.daum.net/v/20240220000614124</id>
+        <link href="https://v.daum.net/v/20240220000614124"/>
+        <updated>2024-02-19T15:19:31.543Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[4·10총선 핫플레이스] 당이냐 인물이냐, 부산 낙동강벨트 표심은 예측불허]]></title>
         <id>https://v.daum.net/v/20240219211530595</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240219222301325"/>
         <updated>2024-02-19T14:17:47.142Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘투명인간’ 위한 큰 이야기 던지는 정치]]></title>
-        <id>https://v.daum.net/v/20240219222302327</id>
-        <link href="https://v.daum.net/v/20240219222302327"/>
-        <updated>2024-02-19T14:17:47.144Z</updated>
-        <content type="html"><![CDATA[한겨레21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤 대통령 "의료, 국방·치안처럼 위중한 문제"(종합)]]></title>
-        <id>https://v.daum.net/v/20240219221824283</id>
-        <link href="https://v.daum.net/v/20240219221824283"/>
-        <updated>2024-02-19T14:17:47.145Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
