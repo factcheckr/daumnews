@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-02-19T13:19:53.924Z</updated>
+    <updated>2024-02-19T14:19:25.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240219181907847"/>
         <updated>2024-02-19T13:19:27.841Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노트북도 AI 시대... 인텔 '코어 울트라'로 시장 장악력 높인다]]></title>
+        <id>https://v.daum.net/v/20240219143254586</id>
+        <link href="https://v.daum.net/v/20240219143254586"/>
+        <updated>2024-02-19T14:18:56.259Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하루 7건꼴… 딥페이크, 총선 파고들다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240219174748746"/>
         <updated>2024-02-19T09:20:56.493Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“월 700만원 넘게 버는 인기 작가도 당했다” 너도나도 훔쳐보더니 결국]]></title>
-        <id>https://v.daum.net/v/20240219174117543</id>
-        <link href="https://v.daum.net/v/20240219174117543"/>
-        <updated>2024-02-19T09:20:56.495Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-02-19T13:19:53.913Z</updated>
+    <updated>2024-02-19T14:19:25.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잘나가던 애플에 7000억 과징금 ‘날벼락’…참다 참다 칼 빼든 EU, 왜]]></title>
+        <id>https://v.daum.net/v/20240219224800497</id>
+        <link href="https://v.daum.net/v/20240219224800497"/>
+        <updated>2024-02-19T14:18:50.107Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메타버스는 게임? 가이드라인 마련 언제쯤]]></title>
         <id>https://v.daum.net/v/20240219181519684</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240219190822846"/>
         <updated>2024-02-19T10:20:06.132Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노트북도 AI 시대... 인텔 '코어 울트라'로 시장 장악력 높인다]]></title>
-        <id>https://v.daum.net/v/20240219143254586</id>
-        <link href="https://v.daum.net/v/20240219143254586"/>
-        <updated>2024-02-19T10:20:06.133Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
