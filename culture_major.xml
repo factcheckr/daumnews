@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-02-19T03:22:16.255Z</updated>
+    <updated>2024-02-19T04:24:47.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<6> 조선 최대의 항구, 삼개[이기봉의 우리땅이야기]]]></title>
+        <id>https://v.daum.net/v/20240219113910748</id>
+        <link href="https://v.daum.net/v/20240219113910748"/>
+        <updated>2024-02-19T04:23:51.344Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한류 품격 높이는 고궁[오후여담]]]></title>
         <id>https://v.daum.net/v/20240219113907745</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240219105115618"/>
         <updated>2024-02-19T03:21:23.630Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오락가락 날씨, 나비가 너무 일찍 깨는 것 아니냐고요]]></title>
-        <id>https://v.daum.net/v/20240219105004545</id>
-        <link href="https://v.daum.net/v/20240219105004545"/>
-        <updated>2024-02-19T03:21:23.631Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
