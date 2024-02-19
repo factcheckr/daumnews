@@ -2,20 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-02-19T18:23:10.991Z</updated>
+    <updated>2024-02-19T19:15:48.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[EU, 애플에 7200억 벌금 폭탄… ‘인앱결제’ 反독점 위반 철퇴]]></title>
+        <id>https://v.daum.net/v/20240220030116627</id>
+        <link href="https://v.daum.net/v/20240220030116627"/>
+        <updated>2024-02-19T19:14:45.582Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시아 국방부 "아우디이우카 완전 통제…마지막 공장도 장악"]]></title>
+        <id>https://v.daum.net/v/20240220022613589</id>
+        <link href="https://v.daum.net/v/20240220022613589"/>
+        <updated>2024-02-19T19:14:45.583Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비욘드 유토피아' 출연진·탈북민, 주영 北대사관서 합동 시위]]></title>
         <id>https://v.daum.net/v/20240220013948525</id>
         <link href="https://v.daum.net/v/20240220013948525"/>
-        <updated>2024-02-19T18:22:05.062Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[적십자 "우크라 전쟁 중 실종자 2만3천명 소재추적 중"]]></title>
-        <id>https://v.daum.net/v/20240220011225469</id>
-        <link href="https://v.daum.net/v/20240220011225469"/>
         <updated>2024-02-19T18:22:05.062Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240219235234893"/>
         <updated>2024-02-19T15:20:14.387Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이소 전 창업자, 심부전으로 별세…향년 80세]]></title>
-        <id>https://v.daum.net/v/20240219233646780</id>
-        <link href="https://v.daum.net/v/20240219233646780"/>
-        <updated>2024-02-19T15:20:14.387Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

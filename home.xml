@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-02-19T18:23:11.014Z</updated>
+    <updated>2024-02-19T19:15:48.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안보리, 가자 휴전 결의안 20일 표결…美는 '휴전' 뺀 대안 제시]]></title>
+        <id>https://v.daum.net/v/20240220040646998</id>
+        <link href="https://v.daum.net/v/20240220040646998"/>
+        <updated>2024-02-19T19:13:40.621Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전북대병원 전공의 189명 전원 사직서… “의료 인프라 취약한 지방이 더 큰 타격”]]></title>
+        <id>https://v.daum.net/v/20240220030047609</id>
+        <link href="https://v.daum.net/v/20240220030047609"/>
+        <updated>2024-02-19T19:13:40.623Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 LA 등 캘리포니아에 또 폭풍우…3천700만명 홍수 '위험']]></title>
+        <id>https://v.daum.net/v/20240220031850906</id>
+        <link href="https://v.daum.net/v/20240220031850906"/>
+        <updated>2024-02-19T19:13:40.624Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍상수, 제74회 베를린영화제 기자회견 참석…김민희는 불참]]></title>
         <id>https://v.daum.net/v/20240220025944601</id>
@@ -27,20 +48,6 @@
         <content type="html"><![CDATA[국제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美 금융사 캐피털원, '다이너스클럽' 모회사 인수 타진]]></title>
-        <id>https://v.daum.net/v/20240220030615871</id>
-        <link href="https://v.daum.net/v/20240220030615871"/>
-        <updated>2024-02-19T18:20:55.597Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트럼프 "볼수록 미국 같다"…나발니 죽음을 본인 재판과 연결]]></title>
-        <id>https://v.daum.net/v/20240220030452833</id>
-        <link href="https://v.daum.net/v/20240220030452833"/>
-        <updated>2024-02-19T18:20:55.597Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['비욘드 유토피아' 출연진·탈북민, 주영 北대사관서 합동 시위]]></title>
         <id>https://v.daum.net/v/20240220013948525</id>
         <link href="https://v.daum.net/v/20240220013948525"/>
@@ -60,13 +67,6 @@
         <link href="https://v.daum.net/v/20240220000342049"/>
         <updated>2024-02-19T17:14:47.691Z</updated>
         <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[적십자 "우크라 전쟁 중 실종자 2만3천명 소재추적 중"]]></title>
-        <id>https://v.daum.net/v/20240220011225469</id>
-        <link href="https://v.daum.net/v/20240220011225469"/>
-        <updated>2024-02-19T16:24:16.857Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중진간 '데스매치' 시작됐다…속속 채워지는 PK '낙동강 벨트' 대진표 [정국 기상대]]]></title>
@@ -94,13 +94,6 @@
         <id>https://v.daum.net/v/20240219230600618</id>
         <link href="https://v.daum.net/v/20240219230600618"/>
         <updated>2024-02-19T16:24:16.865Z</updated>
-        <content type="html"><![CDATA[정치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“임종석, 동향 기업인에게 특혜 받았다”…전셋집 의혹 제기한 김경율]]></title>
-        <id>https://v.daum.net/v/20240220000001970</id>
-        <link href="https://v.daum.net/v/20240220000001970"/>
-        <updated>2024-02-19T16:24:16.866Z</updated>
         <content type="html"><![CDATA[정치]]></content>
     </entry>
     <entry>
@@ -144,5 +137,12 @@
         <link href="https://v.daum.net/v/20240220000030000"/>
         <updated>2024-02-19T15:19:05.564Z</updated>
         <content type="html"><![CDATA[사회]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北, 방송·웹사이트서 통일 상징 ‘한반도’ 이미지도 지웠다]]></title>
+        <id>https://v.daum.net/v/20240219215152964</id>
+        <link href="https://v.daum.net/v/20240219215152964"/>
+        <updated>2024-02-19T19:13:40.661Z</updated>
+        <content type="html"><![CDATA[정치]]></content>
     </entry>
 </feed>
