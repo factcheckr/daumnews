@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-02-20T04:23:42.447Z</updated>
+    <updated>2024-02-20T05:19:12.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[과기정통부 해외 협력 R&D에 196억원 투입…4월까지 공모]]></title>
+        <id>https://v.daum.net/v/20240220120033127</id>
+        <link href="https://v.daum.net/v/20240220120033127"/>
+        <updated>2024-02-20T05:18:43.732Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남자와 여자의 뇌 “AI로 보니 다르네”]]></title>
         <id>https://v.daum.net/v/20240220111200715</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240220101800241"/>
         <updated>2024-02-20T02:22:36.410Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한화에어로 vs KAI, '차세대 발사체' 누가 승기 쥘까]]></title>
-        <id>https://v.daum.net/v/20240220063227551</id>
-        <link href="https://v.daum.net/v/20240220063227551"/>
-        <updated>2024-02-20T02:22:36.413Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
