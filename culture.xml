@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-02-20T15:21:55.143Z</updated>
+    <updated>2024-02-20T16:23:04.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강릉시 관심 안보이는 ‘강릉 솔올미술관’ 개관]]></title>
+        <id>https://v.daum.net/v/20240221005716364</id>
+        <link href="https://v.daum.net/v/20240221005716364"/>
+        <updated>2024-02-20T16:22:04.211Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘무언가 다른’ 감동의 합창, 춘천 이야기로 부른다]]></title>
         <id>https://v.daum.net/v/20240221000607042</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240220210022222"/>
         <updated>2024-02-20T15:20:51.306Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“떠나는 푸바오, 잘 지내야 해”… 3월 3일까지만 공개]]></title>
-        <id>https://v.daum.net/v/20240220195109957</id>
-        <link href="https://v.daum.net/v/20240220195109957"/>
-        <updated>2024-02-20T15:20:51.307Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>

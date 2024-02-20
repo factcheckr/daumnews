@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-02-20T15:21:55.126Z</updated>
+    <updated>2024-02-20T16:23:04.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“떠나는 푸바오, 잘 지내야 해”… 3월 3일까지만 공개]]></title>
+        <id>https://v.daum.net/v/20240220195109957</id>
+        <link href="https://v.daum.net/v/20240220195109957"/>
+        <updated>2024-02-20T16:22:12.020Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[용산 어느 집서 발견됐다…이건희가 찾은 ‘전설의 女화가’]]></title>
         <id>https://v.daum.net/v/20240220230038542</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240220191836401"/>
         <updated>2024-02-20T14:16:32.928Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이 정도 흥행은 드문 일"…예술의전당도 혀 내둘렀다]]></title>
-        <id>https://v.daum.net/v/20240220182905292</id>
-        <link href="https://v.daum.net/v/20240220182905292"/>
-        <updated>2024-02-20T11:16:20.171Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
