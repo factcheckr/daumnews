@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-02-21T18:23:25.560Z</updated>
+    <updated>2024-02-21T19:15:04.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20240222030309018"/>
         <updated>2024-02-21T18:22:49.724Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 간 친구 부르니 눈앞에 ‘두둥’…차원이 다른 ‘6G 세상’]]></title>
+        <id>https://v.daum.net/v/20240222000124259</id>
+        <link href="https://v.daum.net/v/20240222000124259"/>
+        <updated>2024-02-21T19:14:37.322Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자율주행차 등 혁신산업 기반 위치정보…방통위, 규제 빗장 푼다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240221182108137"/>
         <updated>2024-02-21T15:18:47.162Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30년간 우주 떠돌던 2t 인공위성, 22일 새벽 지구로 떨어진다]]></title>
-        <id>https://v.daum.net/v/20240221160729505</id>
-        <link href="https://v.daum.net/v/20240221160729505"/>
-        <updated>2024-02-21T15:18:47.163Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
