@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-02-21T11:19:11.752Z</updated>
+    <updated>2024-02-21T12:32:01.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] "딥페이크 유해 콘텐츠입니다"… 네이버, 경고문 붙인다]]></title>
+        <id>https://v.daum.net/v/20240221180000483</id>
+        <link href="https://v.daum.net/v/20240221180000483"/>
+        <updated>2024-02-21T12:31:33.702Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["불행한 연구자의 길, 석사 때 이탈"…정부 "신진 연구자 성장 사다리 지원"]]></title>
         <id>https://v.daum.net/v/20240221175613361</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240221170551825"/>
         <updated>2024-02-21T09:20:34.591Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한미家 소송전 막 올라…'사익편취' vs '미래준비']]></title>
-        <id>https://v.daum.net/v/20240221170111579</id>
-        <link href="https://v.daum.net/v/20240221170111579"/>
-        <updated>2024-02-21T09:20:34.592Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
