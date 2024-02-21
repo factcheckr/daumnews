@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-02-21T15:19:21.119Z</updated>
+    <updated>2024-02-21T16:23:59.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20240222000526328"/>
         <updated>2024-02-21T15:18:05.863Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['金테크' 그만해야 하나…금값 하락세에 펀드 수익률도↓]]></title>
+        <id>https://v.daum.net/v/20240222000140263</id>
+        <link href="https://v.daum.net/v/20240222000140263"/>
+        <updated>2024-02-21T16:22:20.936Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[회원사 늘리고 회장단 손질…경제단체, 조직 재정비 시동]]></title>
+        <id>https://v.daum.net/v/20240222000130260</id>
+        <link href="https://v.daum.net/v/20240222000130260"/>
+        <updated>2024-02-21T16:22:20.938Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KT&G 사장 최종 후보 확정 초읽기…'내부냐 외부냐' 전망은 [TF초점]]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240221214805928"/>
         <updated>2024-02-21T15:18:05.871Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍해 폐쇄보다 중국 패스트패션이 항공수송 최대변수]]></title>
-        <id>https://v.daum.net/v/20240221214701918</id>
-        <link href="https://v.daum.net/v/20240221214701918"/>
-        <updated>2024-02-21T15:18:05.872Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“3개월 연속 손실? 알빠노”…편의점 심야영업 강제에 과징금 ‘철퇴’]]></title>
-        <id>https://v.daum.net/v/20240221212702672</id>
-        <link href="https://v.daum.net/v/20240221212702672"/>
-        <updated>2024-02-21T13:18:57.868Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
