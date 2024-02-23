@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-02-23T17:17:30.838Z</updated>
+    <updated>2024-02-23T18:24:09.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 무인우주선 '달 착륙' 이틀째…"살아있고 건강, 충전도 양호"]]></title>
+        <id>https://v.daum.net/v/20240224031639513</id>
+        <link href="https://v.daum.net/v/20240224031639513"/>
+        <updated>2024-02-23T18:23:25.626Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민간 기업으로 주도권 넘어간 달 탐사]]></title>
+        <id>https://v.daum.net/v/20240224030538486</id>
+        <link href="https://v.daum.net/v/20240224030538486"/>
+        <updated>2024-02-23T18:23:25.627Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“웰컴 투 더 문”… 美기업, 달을 개척하다]]></title>
         <id>https://v.daum.net/v/20240224014057177</id>
         <link href="https://v.daum.net/v/20240224014057177"/>
         <updated>2024-02-23T17:16:52.629Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민간 우주선, 처음으로 달을 밟다…“인류 거대한 도약”]]></title>
-        <id>https://v.daum.net/v/20240224005748038</id>
-        <link href="https://v.daum.net/v/20240224005748038"/>
-        <updated>2024-02-23T16:21:50.024Z</updated>
-        <content type="html"><![CDATA[중앙SUNDAY]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[초조하게 지켜보다 "와!"…반세기 만에 드디어 닿았다]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240223230251247"/>
         <updated>2024-02-23T14:16:43.246Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴퓨터의 미래'라던 비전 프로, 2주 후 줄줄이 '반품'…왜?]]></title>
-        <id>https://v.daum.net/v/20240223203307905</id>
-        <link href="https://v.daum.net/v/20240223203307905"/>
-        <updated>2024-02-23T14:16:43.248Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>
