@@ -2,21 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-02-23T18:24:09.296Z</updated>
+    <updated>2024-02-23T19:17:04.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아르헨 찾은 블링컨 "밀레이 정부 달러화 도입, 기다려볼 것"]]></title>
+        <id>https://v.daum.net/v/20240224025726390</id>
+        <link href="https://v.daum.net/v/20240224025726390"/>
+        <updated>2024-02-23T19:16:06.532Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바이든, 우크라 전쟁 2주년 하루 앞두고 "지금 물러설 수 없다"]]></title>
+        <id>https://v.daum.net/v/20240224024008385</id>
+        <link href="https://v.daum.net/v/20240224024008385"/>
+        <updated>2024-02-23T19:16:06.533Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[푸틴 "군수산업 다음 차례는 AI 도입"]]></title>
+        <id>https://v.daum.net/v/20240224020146329</id>
+        <link href="https://v.daum.net/v/20240224020146329"/>
+        <updated>2024-02-23T19:16:06.535Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["헝가리, EU '우크라전 2주년' 공동성명 반대"]]></title>
         <id>https://v.daum.net/v/20240224021230364</id>
         <link href="https://v.daum.net/v/20240224021230364"/>
         <updated>2024-02-23T18:22:58.360Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英서 2차대전 때 떨어진 500㎏ 불발탄 이송…수천명 대피]]></title>
-        <id>https://v.daum.net/v/20240224020437338</id>
-        <link href="https://v.daum.net/v/20240224020437338"/>
-        <updated>2024-02-23T18:22:58.362Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240224014057176"/>
         <updated>2024-02-23T17:16:29.660Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[올댓차이나] 시진핑 "제조업 지원·물류비용 경감·경쟁력 강화" 지시]]></title>
-        <id>https://v.daum.net/v/20240224011300079</id>
-        <link href="https://v.daum.net/v/20240224011300079"/>
-        <updated>2024-02-23T17:16:29.661Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유니세프 "우크라 아동, 공습 피해 수개월 지하 생활… 심리적 상처 커"]]></title>
-        <id>https://v.daum.net/v/20240224005519026</id>
-        <link href="https://v.daum.net/v/20240224005519026"/>
-        <updated>2024-02-23T17:16:29.662Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
