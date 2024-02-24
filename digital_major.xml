@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-02-24T19:14:36.507Z</updated>
+    <updated>2024-02-24T20:18:03.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[태양보다 500조배 밝은 천체 '퀘이사' 발견]]></title>
+        <id>https://v.daum.net/v/20240224162104263</id>
+        <link href="https://v.daum.net/v/20240224162104263"/>
+        <updated>2024-02-24T20:17:30.455Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 민간 달 착륙선에 붙은 의류기업 ‘컬럼비아’ 로고…우주 광고 시장 열리나]]></title>
         <id>https://v.daum.net/v/20240224194709076</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240224162018256"/>
         <updated>2024-02-24T11:14:47.103Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국, 새로운 통신기술 실험 위성 발사 성공]]></title>
-        <id>https://v.daum.net/v/20240224153204746</id>
-        <link href="https://v.daum.net/v/20240224153204746"/>
-        <updated>2024-02-24T10:20:11.583Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
