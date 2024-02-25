@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-02-25T15:17:19.714Z</updated>
+    <updated>2024-02-25T16:21:47.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신생아 면역력 성인보다 미숙하다? “다른 방식으로 작동할 뿐”]]></title>
+        <id>https://v.daum.net/v/20240225143045030</id>
+        <link href="https://v.daum.net/v/20240225143045030"/>
+        <updated>2024-02-25T16:21:10.249Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이게 프로의 위엄이다" 광동 프릭스, 2024 첫 ATL 우승]]></title>
         <id>https://v.daum.net/v/20240225235513876</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240225220134219"/>
         <updated>2024-02-25T13:18:32.155Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재활용 선별 처리장의 ‘거미손’…잘못 분류된 쓰레기만 쏙쏙, 1분당 80회 선방쇼]]></title>
-        <id>https://v.daum.net/v/20240225213649998</id>
-        <link href="https://v.daum.net/v/20240225213649998"/>
-        <updated>2024-02-25T13:18:32.157Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>

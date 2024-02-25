@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-02-25T15:17:19.668Z</updated>
+    <updated>2024-02-25T16:21:47.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[재활용 선별 처리장의 ‘거미손’…잘못 분류된 쓰레기만 쏙쏙, 1분당 80회 선방쇼]]></title>
+        <id>https://v.daum.net/v/20240225213649998</id>
+        <link href="https://v.daum.net/v/20240225213649998"/>
+        <updated>2024-02-25T16:21:16.208Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[음파 탐지 안 걸리는 ‘스텔스 잠수함’ 머잖아 볼 수 있을까[소리과학의 미래]]]></title>
         <id>https://v.daum.net/v/20240225213643996</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240225183142379"/>
         <updated>2024-02-25T12:30:33.389Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[솔선수법] 생성형 AI와 저작권법]]></title>
-        <id>https://v.daum.net/v/20240225174731782</id>
-        <link href="https://v.daum.net/v/20240225174731782"/>
-        <updated>2024-02-25T12:30:33.392Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
