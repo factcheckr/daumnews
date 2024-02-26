@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-02-26T12:31:43.357Z</updated>
+    <updated>2024-02-26T13:20:38.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스마트 반지·AI…인류 혁신 한 자리에!]]></title>
+        <id>https://v.daum.net/v/20240226220009870</id>
+        <link href="https://v.daum.net/v/20240226220009870"/>
+        <updated>2024-02-26T13:20:03.672Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MWC] 6G 시대 도래...위성통신 존재감 커졌다]]></title>
         <id>https://v.daum.net/v/20240226212050452</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240226194413885"/>
         <updated>2024-02-26T11:13:59.238Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘엔비디아·애플 대항’ 빅테크 거물들 방한… ‘연합전선’ 구축]]></title>
-        <id>https://v.daum.net/v/20240226192925617</id>
-        <link href="https://v.daum.net/v/20240226192925617"/>
-        <updated>2024-02-26T11:13:59.241Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
