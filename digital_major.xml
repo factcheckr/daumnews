@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-02-26T16:25:29.081Z</updated>
+    <updated>2024-02-26T17:20:38.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MWC 오픈런…최태원, 1시간 일찍 전시장 찾아 '열공' [MWC 2024]]]></title>
+        <id>https://v.daum.net/v/20240226194802987</id>
+        <link href="https://v.daum.net/v/20240226194802987"/>
+        <updated>2024-02-26T17:20:04.976Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MWC24] '갤럭시 링' 실물 전시에 삼성 부스 북적…'착용샷' 목격도]]></title>
         <id>https://v.daum.net/v/20240226231019437</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240226205101061"/>
         <updated>2024-02-26T14:19:46.295Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유튜브 망명' 막히나…구글, 국가 우회 접속자들에 경고 [60초 뉴스]]]></title>
-        <id>https://v.daum.net/v/20240226194601932</id>
-        <link href="https://v.daum.net/v/20240226194601932"/>
-        <updated>2024-02-26T14:19:46.297Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
     </entry>
 </feed>
