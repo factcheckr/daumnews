@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-02-28T13:19:58.599Z</updated>
+    <updated>2024-02-28T14:19:36.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[당근뿐인 ‘밸류업’, 시장은 ‘갸우뚱’]]></title>
+        <id>https://v.daum.net/v/20240228213225280</id>
+        <link href="https://v.daum.net/v/20240228213225280"/>
+        <updated>2024-02-28T14:18:22.130Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[끝내 출시 못하고…애플, 10년 공들인 전기차 ‘플러그 아웃’]]></title>
         <id>https://v.daum.net/v/20240228213207274</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240228202802270"/>
         <updated>2024-02-28T12:29:43.781Z</updated>
         <content type="html"><![CDATA[전주MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[늘어나는 고령운전자 추돌사고…'비상제동' 효과 있나?]]></title>
-        <id>https://v.daum.net/v/20240228204205504</id>
-        <link href="https://v.daum.net/v/20240228204205504"/>
-        <updated>2024-02-28T12:29:43.782Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
