@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-02-29T12:32:06.503Z</updated>
+    <updated>2024-02-29T13:19:19.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[물범이 연좌시위 나섰어요, 박수는 소리가 나지 않지만]]></title>
+        <id>https://v.daum.net/v/20240229183305485</id>
+        <link href="https://v.daum.net/v/20240229183305485"/>
+        <updated>2024-02-29T13:18:51.406Z</updated>
+        <content type="html"><![CDATA[한겨레21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["총선 과반 당은?" 묻자 '금지'…네카오, AI 단속]]></title>
         <id>https://v.daum.net/v/20240229183157459</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240229172802689"/>
         <updated>2024-02-29T09:19:12.699Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[못생긴 캐릭터 싫어요! 외모 바꿔 즐기는 게이머들]]></title>
-        <id>https://v.daum.net/v/20240229172403564</id>
-        <link href="https://v.daum.net/v/20240229172403564"/>
-        <updated>2024-02-29T09:19:12.700Z</updated>
-        <content type="html"><![CDATA[게임동아]]></content>
     </entry>
 </feed>
