@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-02-29T17:17:11.086Z</updated>
+    <updated>2024-02-29T18:23:20.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플, '셀프 수리' 최신 고급 노트북·일체형 PC까지 확대]]></title>
+        <id>https://v.daum.net/v/20240301025702292</id>
+        <link href="https://v.daum.net/v/20240301025702292"/>
+        <updated>2024-02-29T18:22:38.883Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MWC 2024] 턱 만지면 꼬리 살랑살랑...이색 로봇 눈길]]></title>
         <id>https://v.daum.net/v/20240301010333067</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240229210015789"/>
         <updated>2024-02-29T13:18:45.005Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이건 삼성도 못 한다” 100만원짜리  ‘손바닥’ 휴대폰…뭐길래 난리]]></title>
-        <id>https://v.daum.net/v/20240229204055486</id>
-        <link href="https://v.daum.net/v/20240229204055486"/>
-        <updated>2024-02-29T12:31:25.347Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
