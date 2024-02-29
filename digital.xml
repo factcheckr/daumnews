@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-02-29T13:19:19.582Z</updated>
+    <updated>2024-02-29T14:20:33.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[월간자동차] 24년 1월, 수입 신차 판매량 급감...BMW 5시리즈 1위 수성]]></title>
+        <id>https://v.daum.net/v/20240229223001956</id>
+        <link href="https://v.daum.net/v/20240229223001956"/>
+        <updated>2024-02-29T14:19:52.527Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밥 먹은 후엔 왼쪽, 약 먹은 후엔 오른쪽 누워라… 사실일까?]]></title>
         <id>https://v.daum.net/v/20240229210015789</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240229185921881"/>
         <updated>2024-02-29T10:21:17.089Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] '국가경쟁력' 핵심기술 136개, 중국에 첫 역전]]></title>
-        <id>https://v.daum.net/v/20240229183306486</id>
-        <link href="https://v.daum.net/v/20240229183306486"/>
-        <updated>2024-02-29T10:21:17.090Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
