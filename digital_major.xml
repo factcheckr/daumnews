@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-03-02T02:22:14.435Z</updated>
+    <updated>2024-03-02T03:18:36.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['클라우드'·'제로트러스트'·'글로벌'로 금맥 캐는 보안업계]]></title>
+        <id>https://v.daum.net/v/20240302100108775</id>
+        <link href="https://v.daum.net/v/20240302100108775"/>
+        <updated>2024-03-02T03:18:02.066Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[위클리 스마트] "사이버 보안 위협의 핵심은 스텔스 기능"]]></title>
+        <id>https://v.daum.net/v/20240302100010741</id>
+        <link href="https://v.daum.net/v/20240302100010741"/>
+        <updated>2024-03-02T03:18:02.067Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["美쳐야 통한다" 삼성 갤럭시링 혁신의 전제 [IT+]]]></title>
         <id>https://v.daum.net/v/20240302095742708</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240302080903715"/>
         <updated>2024-03-02T01:09:07.895Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표지로 읽는 과학] 인간·유인원 꼬리 퇴화시킨 '트랜스포존']]></title>
-        <id>https://v.daum.net/v/20240302080055615</id>
-        <link href="https://v.daum.net/v/20240302080055615"/>
-        <updated>2024-03-02T01:09:07.897Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람처럼 자는 문어, 꿈도 꿀까]]></title>
-        <id>https://v.daum.net/v/20240302080048612</id>
-        <link href="https://v.daum.net/v/20240302080048612"/>
-        <updated>2024-03-02T01:09:07.898Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
