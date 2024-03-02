@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-03-02T03:18:36.392Z</updated>
+    <updated>2024-03-02T04:21:17.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[산업 판도 바꾸는 AI 시장…한국 'HBM' 주목]]></title>
+        <id>https://v.daum.net/v/20240302100446826</id>
+        <link href="https://v.daum.net/v/20240302100446826"/>
+        <updated>2024-03-02T04:20:46.407Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['클라우드'·'제로트러스트'·'글로벌'로 금맥 캐는 보안업계]]></title>
         <id>https://v.daum.net/v/20240302100108775</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240302083103906"/>
         <updated>2024-03-02T01:09:07.894Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['퇴출될라'…385개 의약품 급여재평가에 업계 '긴장']]></title>
-        <id>https://v.daum.net/v/20240302080903715</id>
-        <link href="https://v.daum.net/v/20240302080903715"/>
-        <updated>2024-03-02T01:09:07.895Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>
