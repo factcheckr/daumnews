@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-02T09:16:52.352Z</updated>
+    <updated>2024-03-02T10:17:39.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인류의 우주 활동영역은 어떻게 될까[우주이야기]]]></title>
+        <id>https://v.daum.net/v/20240302190005862</id>
+        <link href="https://v.daum.net/v/20240302190005862"/>
+        <updated>2024-03-02T10:16:58.337Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대여섯 시간, 30만원 들이던 콘티가 척…존재를 위협받았다 [ESC]]]></title>
         <id>https://v.daum.net/v/20240302173002003</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240302140004005"/>
         <updated>2024-03-02T05:17:40.332Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음원 갈등 불똥… 틱톡서 BTS정국-블핑 노래 일부 못들어]]></title>
-        <id>https://v.daum.net/v/20240302014149616</id>
-        <link href="https://v.daum.net/v/20240302014149616"/>
-        <updated>2024-03-02T03:17:53.048Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>

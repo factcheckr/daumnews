@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-03-02T09:16:52.357Z</updated>
+    <updated>2024-03-02T10:17:39.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[음원 갈등 불똥… 틱톡서 BTS정국-블핑 노래 일부 못들어]]></title>
+        <id>https://v.daum.net/v/20240302014149616</id>
+        <link href="https://v.daum.net/v/20240302014149616"/>
+        <updated>2024-03-02T10:17:07.167Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MWC가 남긴 것④]"무인도에도 유튜브 보는 시대"…6G 핵심 '위성통신' 뜬다]]></title>
         <id>https://v.daum.net/v/20240302120112164</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240302093103438"/>
         <updated>2024-03-02T02:21:46.476Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MWC가 남긴 것③]"진화는 이제 시작"…스마트반지·로봇·UAM 신기술 대전]]></title>
-        <id>https://v.daum.net/v/20240302091009262</id>
-        <link href="https://v.daum.net/v/20240302091009262"/>
-        <updated>2024-03-02T01:09:07.892Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
