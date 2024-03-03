@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-03-03T15:18:57.277Z</updated>
+    <updated>2024-03-03T16:21:41.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[무인기로 ‘불임 수컷’ 비 오듯 살포…모기 씨 말린다]]></title>
+        <id>https://v.daum.net/v/20240303212817076</id>
+        <link href="https://v.daum.net/v/20240303212817076"/>
+        <updated>2024-03-03T16:21:01.005Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소닉붐 없이 ‘슝’…초음속 항공기 시험 비행 눈앞]]></title>
         <id>https://v.daum.net/v/20240303212811075</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240303184528889"/>
         <updated>2024-03-03T11:18:40.952Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알리·테무의 습격… 고민 커진 네이버]]></title>
-        <id>https://v.daum.net/v/20240303181706597</id>
-        <link href="https://v.daum.net/v/20240303181706597"/>
-        <updated>2024-03-03T10:23:26.657Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>

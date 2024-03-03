@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-03T15:18:57.293Z</updated>
+    <updated>2024-03-03T16:21:41.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“-80도에 전기차 작동” 中서 전해질 개발 “문제는…”]]></title>
+        <id>https://v.daum.net/v/20240304000520973</id>
+        <link href="https://v.daum.net/v/20240304000520973"/>
+        <updated>2024-03-03T16:20:52.026Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘부터 미복귀 전공의 행정처분 “의료현장 한계 도달”]]></title>
         <id>https://v.daum.net/v/20240304000615028</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240303213633143"/>
         <updated>2024-03-03T13:18:11.209Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무인기로 ‘불임 수컷’ 비 오듯 살포…모기 씨 말린다]]></title>
-        <id>https://v.daum.net/v/20240303212817076</id>
-        <link href="https://v.daum.net/v/20240303212817076"/>
-        <updated>2024-03-03T13:18:11.210Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>

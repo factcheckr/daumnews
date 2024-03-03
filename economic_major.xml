@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-03-03T15:18:57.284Z</updated>
+    <updated>2024-03-03T16:21:41.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://v.daum.net/v/20240304000632043"/>
         <updated>2024-03-03T15:17:43.663Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["편의점에서 물 대신 '차' 산다"..연간 매출 3천억 넘어서]]></title>
+        <id>https://v.daum.net/v/20240303230802714</id>
+        <link href="https://v.daum.net/v/20240303230802714"/>
+        <updated>2024-03-03T16:20:03.740Z</updated>
+        <content type="html"><![CDATA[kbc광주방송]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“회복 국면 접어든 韓 경제, 부동산에 발목”]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240303220124356"/>
         <updated>2024-03-03T14:15:43.821Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고흥에서 서울로 ‘속도내는 UAM’ 실증…핵심 2가지는?]]></title>
-        <id>https://v.daum.net/v/20240303214207203</id>
-        <link href="https://v.daum.net/v/20240303214207203"/>
-        <updated>2024-03-03T14:15:43.823Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

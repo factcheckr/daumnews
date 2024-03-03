@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-03-03T15:18:57.262Z</updated>
+    <updated>2024-03-03T16:21:41.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트럼프, 여론조사서 또 바이든에 우세…유권자 20% "이민 문제 가장 중요"]]></title>
+        <id>https://v.daum.net/v/20240304003533233</id>
+        <link href="https://v.daum.net/v/20240304003533233"/>
+        <updated>2024-03-03T16:19:54.795Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘만년 3등’ 마이크론의 반란…‘이 없이 잇몸으로’ 삼성 제쳤다]]></title>
         <id>https://v.daum.net/v/20240304001144102</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240303232403761"/>
         <updated>2024-03-03T15:17:36.115Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["편의점에서 물 대신 '차' 산다"..연간 매출 3천억 넘어서]]></title>
-        <id>https://v.daum.net/v/20240303230802714</id>
-        <link href="https://v.daum.net/v/20240303230802714"/>
-        <updated>2024-03-03T14:15:34.377Z</updated>
-        <content type="html"><![CDATA[kbc광주방송]]></content>
     </entry>
 </feed>
