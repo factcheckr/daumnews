@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-03-03T18:21:40.805Z</updated>
+    <updated>2024-03-03T19:14:04.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[총선 ‘싸움’ 보도 치우쳐, 선거구 등 직무유기 더 다뤘어야]]></title>
+        <id>https://v.daum.net/v/20240304001108095</id>
+        <link href="https://v.daum.net/v/20240304001108095"/>
+        <updated>2024-03-03T19:13:21.760Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나한과 나무로 다시 찾는 미술의 뿌리]]></title>
         <id>https://v.daum.net/v/20240304000546996</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240303203302722"/>
         <updated>2024-03-03T14:16:16.454Z</updated>
         <content type="html"><![CDATA[한겨레21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요양원 가신 어머니... 과정은 복잡했지만 마음 놓입니다]]></title>
-        <id>https://v.daum.net/v/20240303195100430</id>
-        <link href="https://v.daum.net/v/20240303195100430"/>
-        <updated>2024-03-03T13:18:02.451Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>

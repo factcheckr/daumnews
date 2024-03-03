@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-03-03T18:21:40.813Z</updated>
+    <updated>2024-03-03T19:14:04.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공포 영화 보면 '살 빠진다' 속설, 사실일까?]]></title>
+        <id>https://v.daum.net/v/20240304034104709</id>
+        <link href="https://v.daum.net/v/20240304034104709"/>
+        <updated>2024-03-03T19:13:14.161Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계가 러시아 예술 퇴출하는데… 서울 무대 오르는 ‘푸틴 측근’ 발레리나]]></title>
         <id>https://v.daum.net/v/20240304030219462</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240304000712049"/>
         <updated>2024-03-03T16:20:34.728Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[총선 ‘싸움’ 보도 치우쳐, 선거구 등 직무유기 더 다뤘어야]]></title>
-        <id>https://v.daum.net/v/20240304001108095</id>
-        <link href="https://v.daum.net/v/20240304001108095"/>
-        <updated>2024-03-03T15:18:06.252Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
