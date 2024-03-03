@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-03-03T11:19:12.660Z</updated>
+    <updated>2024-03-03T12:30:03.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍범도 장군 만나러 오세요[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/f1qdt1A8SU</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/f1qdt1A8SU"/>
+        <updated>2024-03-03T12:29:37.452Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[의대정원 증원 반대 집회]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5932052/8D8TMxZw38</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1471/xniPWjBW2b"/>
         <updated>2024-03-02T02:21:52.837Z</updated>
         <content type="html"><![CDATA[세계의 정상들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아 진영으로 발사되는 우크라이나 자주포]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033399/ZAMQYAbYBA</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033399/ZAMQYAbYBA"/>
-        <updated>2024-03-02T08:20:27.776Z</updated>
-        <content type="html"><![CDATA[우크라이나는 지금]]></content>
     </entry>
 </feed>

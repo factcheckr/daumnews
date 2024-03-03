@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-03-03T11:19:12.640Z</updated>
+    <updated>2024-03-03T12:30:03.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[거짓에 혼란스러운 AI사회… 그들과 편안한 공존 `숙제`]]></title>
+        <id>https://v.daum.net/v/20240303184539893</id>
+        <link href="https://v.daum.net/v/20240303184539893"/>
+        <updated>2024-03-03T12:29:30.598Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창간기획] "10분 산책하며 혈당 낮춰요"… 알아서 건강 챙겨주는 AI 주치의]]></title>
         <id>https://v.daum.net/v/20240303184528889</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240303172303805"/>
         <updated>2024-03-03T10:23:26.662Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["달 자원 선점"… 민간 우주기업 '문러시']]></title>
-        <id>https://v.daum.net/v/20240303171200600</id>
-        <link href="https://v.daum.net/v/20240303171200600"/>
-        <updated>2024-03-03T09:18:18.047Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
