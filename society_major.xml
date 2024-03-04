@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2024-03-04T16:24:14.917Z</updated>
+    <updated>2024-03-04T17:20:05.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://v.daum.net/v/20240305001145412</id>
         <link href="https://v.daum.net/v/20240305001145412"/>
         <updated>2024-03-04T15:18:28.686Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강진서 쓴 돈 절반 돌려줬더니…열흘간 20만명 다녀갔다]]></title>
+        <id>https://v.daum.net/v/20240305001111399</id>
+        <link href="https://v.daum.net/v/20240305001111399"/>
+        <updated>2024-03-04T17:18:03.068Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240305000411242"/>
         <updated>2024-03-04T16:22:25.097Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4.10총선, 강원의선택] “이재명 대표 언제 오나…”  각개전투 유세 속타는 민주 후보]]></title>
-        <id>https://v.daum.net/v/20240305000629346</id>
-        <link href="https://v.daum.net/v/20240305000629346"/>
-        <updated>2024-03-04T15:18:28.694Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
