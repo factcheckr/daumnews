@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-04T18:21:41.028Z</updated>
+    <updated>2024-03-04T19:14:59.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“흑인 교황” 엉뚱한 AI… 편향 고치려다 사실 왜곡]]></title>
+        <id>https://v.daum.net/v/20240305040814231</id>
+        <link href="https://v.daum.net/v/20240305040814231"/>
+        <updated>2024-03-04T19:14:20.059Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 대세에 뒤처진 애플, 2등 기업 되나]]></title>
         <id>https://v.daum.net/v/20240305030530012</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240305010002610"/>
         <updated>2024-03-04T16:23:35.847Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플, EU서 2조7천억원 과징금 '폭탄']]></title>
-        <id>https://v.daum.net/v/20240304224652746</id>
-        <link href="https://v.daum.net/v/20240304224652746"/>
-        <updated>2024-03-04T14:16:50.539Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
