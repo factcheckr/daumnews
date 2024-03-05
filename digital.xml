@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-05T09:18:30.802Z</updated>
+    <updated>2024-03-05T10:21:44.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["AI, 완성도 높이려면 정부 역할 중요"]]></title>
+        <id>https://v.daum.net/v/20240305190114106</id>
+        <link href="https://v.daum.net/v/20240305190114106"/>
+        <updated>2024-03-05T10:21:01.916Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU에서 '인앱결제' 철퇴 맞은 애플, 한국 제재는 지지부진]]></title>
+        <id>https://v.daum.net/v/20240305190053087</id>
+        <link href="https://v.daum.net/v/20240305190053087"/>
+        <updated>2024-03-05T10:21:01.917Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[자동차와 法] 전기차 충전시설 의무 설치 관련 법률 살펴보니]]></title>
         <id>https://v.daum.net/v/20240305181504351</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240305180251932"/>
         <updated>2024-03-05T09:17:47.796Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘청불 게임’ 이제 구글, 애플 등 민간이 자체 심의한다]]></title>
-        <id>https://v.daum.net/v/20240305152103605</id>
-        <link href="https://v.daum.net/v/20240305152103605"/>
-        <updated>2024-03-05T09:17:47.797Z</updated>
-        <content type="html"><![CDATA[게임동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닌텐도 유즈 소송, ‘에뮬 배포 중단 및 240만 달러 벌금으로 합의’]]></title>
-        <id>https://v.daum.net/v/20240305165406614</id>
-        <link href="https://v.daum.net/v/20240305165406614"/>
-        <updated>2024-03-05T09:17:47.799Z</updated>
-        <content type="html"><![CDATA[게임동아]]></content>
     </entry>
 </feed>
