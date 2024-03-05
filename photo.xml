@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-03-05T20:19:13.320Z</updated>
+    <updated>2024-03-05T21:17:06.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5917011/9lNKiwc69u"/>
         <updated>2024-03-05T16:22:20.639Z</updated>
         <content type="html"><![CDATA[전국 폭설]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하얀 날개도 초록물 들겠네]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/7156/xhKJz5GksR</id>
+        <link href="https://gallery.v.daum.net/p/viewer/7156/xhKJz5GksR"/>
+        <updated>2024-03-05T21:16:41.570Z</updated>
+        <content type="html"><![CDATA[포토 에세이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뭐가 보이니?[고양이 눈]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5031018/6byrdQ41KR"/>
         <updated>2024-03-05T08:24:33.409Z</updated>
         <content type="html"><![CDATA[아르헨티나는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진보정치 선수교체' 외치는 조국-용혜인]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5615618/WKpqtHyjOk</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5615618/WKpqtHyjOk"/>
-        <updated>2024-03-05T07:16:49.184Z</updated>
-        <content type="html"><![CDATA[오마이포토]]></content>
     </entry>
 </feed>
