@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-05T12:32:18.192Z</updated>
+    <updated>2024-03-05T13:20:19.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문어와 오징어도 성별 있어... '암컷 수컷' 어떻게 결정될까?]]></title>
+        <id>https://v.daum.net/v/20240305221020358</id>
+        <link href="https://v.daum.net/v/20240305221020358"/>
+        <updated>2024-03-05T13:19:47.633Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[IT애정남] DDR4, LPDDR5 램을 탑재한 노트북, 뭐가 더 좋나요?]]></title>
+        <id>https://v.daum.net/v/20240305213901952</id>
+        <link href="https://v.daum.net/v/20240305213901952"/>
+        <updated>2024-03-05T13:19:47.634Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[점유율 방전 막아라…국내 배터리업계, ‘보급형’으로 반격]]></title>
         <id>https://v.daum.net/v/20240305211352544</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240305200103317"/>
         <updated>2024-03-05T11:17:33.482Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“설비 투자? 요금인하?…이젠 ICT 생태계 글로벌 경쟁”]]></title>
-        <id>https://v.daum.net/v/20240305195836259</id>
-        <link href="https://v.daum.net/v/20240305195836259"/>
-        <updated>2024-03-05T11:17:33.484Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["국내 SaaS 전환은 생존문제"… "CSAP 인증문제 등 살펴볼 것"]]></title>
-        <id>https://v.daum.net/v/20240305161313130</id>
-        <link href="https://v.daum.net/v/20240305161313130"/>
-        <updated>2024-03-05T11:17:33.486Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
