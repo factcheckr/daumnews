@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-03-06T12:35:29.424Z</updated>
+    <updated>2024-03-06T13:20:39.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,41 @@
         <link href="https://v.daum.net/v/20240306211315433"/>
         <updated>2024-03-06T12:34:20.929Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[니키 헤일리, 공화당 대선 경선 레이스 중도하차]]></title>
+        <id>https://v.daum.net/v/20240306211203417</id>
+        <link href="https://v.daum.net/v/20240306211203417"/>
+        <updated>2024-03-06T13:19:29.437Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“환자 사망 선언을 제가 해요?” 의사도 아닌데…간호사는 무슨 죄]]></title>
+        <id>https://v.daum.net/v/20240306205141130</id>
+        <link href="https://v.daum.net/v/20240306205141130"/>
+        <updated>2024-03-06T13:19:29.439Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["헤일리, 경선 하차 결정"…트럼프, 공화당 대선후보 확정]]></title>
+        <id>https://v.daum.net/v/20240306210455332</id>
+        <link href="https://v.daum.net/v/20240306210455332"/>
+        <updated>2024-03-06T13:19:29.440Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헤일리 경선 하차···바이든 트럼프 리턴매치 확정]]></title>
+        <id>https://v.daum.net/v/20240306202044608</id>
+        <link href="https://v.daum.net/v/20240306202044608"/>
+        <updated>2024-03-06T13:19:29.442Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["총리 물러나지 않으면 대량 학살"…무장 갱단이 점령한 아이티]]></title>
+        <id>https://v.daum.net/v/20240306204913098</id>
+        <link href="https://v.daum.net/v/20240306204913098"/>
+        <updated>2024-03-06T13:19:29.444Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오픈AI, 머스크의 "계약 위반" 소송에 "영리추구 합의 있었다" 반격]]></title>
@@ -39,40 +74,5 @@
         <link href="https://v.daum.net/v/20240306204014959"/>
         <updated>2024-03-06T12:34:20.936Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 국민 앱 '라인', 한국 네이버 지분 줄여라‥일본 정부 이례적 대응]]></title>
-        <id>https://v.daum.net/v/20240306204016960</id>
-        <link href="https://v.daum.net/v/20240306204016960"/>
-        <updated>2024-03-06T12:34:20.938Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외환 위기 이집트, 금리 깜짝인상에 환율도 시장에 맡기기로]]></title>
-        <id>https://v.daum.net/v/20240306202933768</id>
-        <link href="https://v.daum.net/v/20240306202933768"/>
-        <updated>2024-03-06T12:34:20.940Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美대선 판도 가를 ‘스윙 스테이트’… 환경·이민·낙태권 공약이 변수 [바이든·트럼프 '슈퍼화요일' 압승]]]></title>
-        <id>https://v.daum.net/v/20240306202725735</id>
-        <link href="https://v.daum.net/v/20240306202725735"/>
-        <updated>2024-03-06T12:34:20.941Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 대선 ‘바이든 vs 트럼프’… 112년 만에 전·현 ‘리턴매치’]]></title>
-        <id>https://v.daum.net/v/20240306202715732</id>
-        <link href="https://v.daum.net/v/20240306202715732"/>
-        <updated>2024-03-06T12:34:20.942Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한 방' 없었던 중국 경기부양책…총리 위상 축소도 주목]]></title>
-        <id>https://v.daum.net/v/20240306201235477</id>
-        <link href="https://v.daum.net/v/20240306201235477"/>
-        <updated>2024-03-06T12:34:20.944Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>

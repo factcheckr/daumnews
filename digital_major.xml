@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-03-06T12:35:29.425Z</updated>
+    <updated>2024-03-06T13:20:39.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장] “단통법 폐지 기대” 현장 호응에...강도현 과기부 차관 화색]]></title>
+        <id>https://v.daum.net/v/20240306165328280</id>
+        <link href="https://v.daum.net/v/20240306165328280"/>
+        <updated>2024-03-06T13:20:04.506Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 맥 끊긴 조선시대 ‘쇳물빼기’ 기술 복원 눈앞]]></title>
         <id>https://v.daum.net/v/20240306192440693</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240306181501387"/>
         <updated>2024-03-06T10:18:58.958Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 과학계도 홍역...NSF·NASA  등 주요 연구기관 예산 삭감]]></title>
-        <id>https://v.daum.net/v/20240306181445379</id>
-        <link href="https://v.daum.net/v/20240306181445379"/>
-        <updated>2024-03-06T10:18:58.959Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
