@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-03-06T16:23:25.258Z</updated>
+    <updated>2024-03-06T17:22:45.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240307000538205"/>
         <updated>2024-03-06T15:19:34.252Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['먹튀' 장본인을 CTO로?…카카오 개미들 "주가 부양한다더니" 원성 폭발]]></title>
+        <id>https://v.daum.net/v/20240307000022098</id>
+        <link href="https://v.daum.net/v/20240307000022098"/>
+        <updated>2024-03-06T17:21:24.414Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[옥시찬 방심위원 해촉 효력 유지..."청부민원 의혹은 수사기관이 밝힐 일"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240306214616958"/>
         <updated>2024-03-06T14:15:29.667Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부동산PF 수수료 문제 없나…금감원, 검사 착수]]></title>
-        <id>https://v.daum.net/v/20240306212453594</id>
-        <link href="https://v.daum.net/v/20240306212453594"/>
-        <updated>2024-03-06T14:15:29.670Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>

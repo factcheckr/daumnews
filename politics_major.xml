@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-03-06T16:23:25.266Z</updated>
+    <updated>2024-03-06T17:22:45.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[총선] ‘국민추천’ 남 갑…‘깜깜이 공천’에 혼란]]></title>
+        <id>https://v.daum.net/v/20240307001246344</id>
+        <link href="https://v.daum.net/v/20240307001246344"/>
+        <updated>2024-03-06T17:21:07.757Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강원여권 총선 ‘마지막 퍼즐’ 오늘 춘천 선거구 경선 돌입]]></title>
         <id>https://v.daum.net/v/20240307000605230</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240306232700818"/>
         <updated>2024-03-06T15:19:17.440Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멸종 위기종 된 '친문'···노영민·뱍광온·윤영찬·강병원 경선 탈락]]></title>
-        <id>https://v.daum.net/v/20240306232128784</id>
-        <link href="https://v.daum.net/v/20240306232128784"/>
-        <updated>2024-03-06T15:19:17.442Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
