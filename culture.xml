@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-03-07T18:22:24.783Z</updated>
+    <updated>2024-03-07T19:14:11.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3대 실명 질환 ‘녹내장’…‘안압’을 사수하라]]></title>
+        <id>https://v.daum.net/v/20240308040136695</id>
+        <link href="https://v.daum.net/v/20240308040136695"/>
+        <updated>2024-03-07T19:13:18.651Z</updated>
+        <content type="html"><![CDATA[농민신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지휘자들에게 인정받는 전설적 지휘를 꿈꾼다]]></title>
         <id>https://v.daum.net/v/20240308030351545</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240308001050743"/>
         <updated>2024-03-07T15:17:42.329Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불룩한 뱃살에 ‘스트레스’도 한 몫… 어떻게 뺄까?]]></title>
-        <id>https://v.daum.net/v/20240308000116582</id>
-        <link href="https://v.daum.net/v/20240308000116582"/>
-        <updated>2024-03-07T15:17:42.331Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
