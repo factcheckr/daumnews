@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-03-07T15:18:32.576Z</updated>
+    <updated>2024-03-07T16:21:56.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[채소, 생으로 VS 익혀서… 몸에 더 좋은 건?]]></title>
+        <id>https://v.daum.net/v/20240307230016175</id>
+        <link href="https://v.daum.net/v/20240307230016175"/>
+        <updated>2024-03-07T16:21:14.449Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KBS "전국노래자랑 김신영, 시청자 불만 616건 칭찬 38건"]]></title>
         <id>https://v.daum.net/v/20240307225136104</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240307160214202"/>
         <updated>2024-03-07T12:30:48.286Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전 세계적으로 00인구 10억명]]></title>
-        <id>https://v.daum.net/v/20240307135601202</id>
-        <link href="https://v.daum.net/v/20240307135601202"/>
-        <updated>2024-03-07T11:15:05.861Z</updated>
-        <content type="html"><![CDATA[키즈맘]]></content>
     </entry>
 </feed>
