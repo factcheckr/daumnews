@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-07T14:18:17.489Z</updated>
+    <updated>2024-03-07T15:18:32.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘AI 저작권 침해’ 테스트해 보니…챗GPT-4 가장 심했다]]></title>
+        <id>https://v.daum.net/v/20240308001149774</id>
+        <link href="https://v.daum.net/v/20240308001149774"/>
+        <updated>2024-03-07T15:17:57.895Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['김범수 전권' 받은 카카오 준신위, 실효성 시험대...'회전문 인사' 제재 나설까]]></title>
+        <id>https://v.daum.net/v/20240308000131585</id>
+        <link href="https://v.daum.net/v/20240308000131585"/>
+        <updated>2024-03-07T15:17:57.898Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["혈관에 미세플라스틱 둥둥"...3년 내 심장마비 2배 높다]]></title>
         <id>https://v.daum.net/v/20240307220553767</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240307204623746"/>
         <updated>2024-03-07T12:30:55.742Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사표수리·임금지급·취업도 금지 ‘3중 제재’ 전공의들…“마음 불편하지만 그래도 안 돌아갈 것”]]></title>
-        <id>https://v.daum.net/v/20240307203425530</id>
-        <link href="https://v.daum.net/v/20240307203425530"/>
-        <updated>2024-03-07T12:30:55.744Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU, 빅테크 잡는 DMA 시행…꼼수 논란 이어질 듯]]></title>
-        <id>https://v.daum.net/v/20240307203002463</id>
-        <link href="https://v.daum.net/v/20240307203002463"/>
-        <updated>2024-03-07T12:30:55.746Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
