@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-03-07T19:14:11.654Z</updated>
+    <updated>2024-03-07T20:18:42.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일주일 빨리 올라온 꽃소식…꾸물대면 ‘벚꽃 엔딩’]]></title>
+        <id>https://v.daum.net/v/20240308001050743</id>
+        <link href="https://v.daum.net/v/20240308001050743"/>
+        <updated>2024-03-07T20:17:51.367Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불룩한 뱃살에 ‘스트레스’도 한 몫… 어떻게 뺄까?]]></title>
         <id>https://v.daum.net/v/20240308000116582</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240307204112657"/>
         <updated>2024-03-07T15:17:50.691Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만번의 응시, 붓질로 ‘사계’ 피어나다]]></title>
-        <id>https://v.daum.net/v/20240307210415965</id>
-        <link href="https://v.daum.net/v/20240307210415965"/>
-        <updated>2024-03-07T14:17:25.311Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>

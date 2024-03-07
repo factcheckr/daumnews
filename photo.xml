@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-03-07T19:14:11.612Z</updated>
+    <updated>2024-03-07T20:18:42.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5932052/06i6LLdzD0"/>
         <updated>2024-03-07T18:22:03.389Z</updated>
         <content type="html"><![CDATA[[이슈] 의사파업_포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김치, 아니 물고∼기![고양이 눈]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/1zJ5egiBsn</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/1zJ5egiBsn"/>
+        <updated>2024-03-07T20:18:15.465Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이한경 재난안전관리본부장, 순천의료원 현장 점검]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033399/HLg54Q41V3"/>
         <updated>2024-03-07T08:20:20.508Z</updated>
         <content type="html"><![CDATA[우크라이나는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노조 파업으로 공항에 묶인 루프트한자 항공기들]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5030466/Zf6nhThLFA</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5030466/Zf6nhThLFA"/>
-        <updated>2024-03-07T08:20:20.509Z</updated>
-        <content type="html"><![CDATA[독일은 지금]]></content>
     </entry>
 </feed>
