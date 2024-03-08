@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-03-08T21:17:10.762Z</updated>
+    <updated>2024-03-08T22:19:45.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[“적대국 앱서 美보호” 中 다른 앱도 금지 가능성]]></title>
+        <title type="html"><![CDATA[[강민성의 헬스토리] `콜록콜록` 괴로운 잔기침, 어찌해야 하나]]></title>
+        <id>https://v.daum.net/v/20240309034110083</id>
+        <link href="https://v.daum.net/v/20240309034110083"/>
+        <updated>2024-03-08T22:19:17.426Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 하원 “中 틱톡, 팔든지 나가든지”]]></title>
+        <id>https://v.daum.net/v/20240309030241960</id>
+        <link href="https://v.daum.net/v/20240309030241960"/>
+        <updated>2024-03-08T22:19:17.426Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“적대국 앱서 美보호”… 美, 틱톡 넘어 다른 중국 앱도 금지 가능성]]></title>
         <id>https://v.daum.net/v/20240309030019909</id>
         <link href="https://v.daum.net/v/20240309030019909"/>
         <updated>2024-03-08T21:16:39.376Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240308183307834"/>
         <updated>2024-03-08T17:15:56.007Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["초진 환자도 비대면 진료" 2배 급증…의료현장 혼란 줄였다]]></title>
-        <id>https://v.daum.net/v/20240308183103817</id>
-        <link href="https://v.daum.net/v/20240308183103817"/>
-        <updated>2024-03-08T16:22:01.660Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[생성 AI 길라잡이] 챗GPT와 자동차의 만남]]></title>
-        <id>https://v.daum.net/v/20240308174503821</id>
-        <link href="https://v.daum.net/v/20240308174503821"/>
-        <updated>2024-03-08T14:17:48.486Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
