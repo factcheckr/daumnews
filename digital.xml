@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-08T14:18:14.682Z</updated>
+    <updated>2024-03-08T16:22:37.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지프 몰며 SNS도 열심인 86세 청년, 픽셀 마술사 황규태]]></title>
+        <id>https://v.daum.net/v/20240309002526545</id>
+        <link href="https://v.daum.net/v/20240309002526545"/>
+        <updated>2024-03-08T16:21:51.465Z</updated>
+        <content type="html"><![CDATA[중앙SUNDAY]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더 강해지는 슈퍼 태풍…“12월에도 발생 우려”]]></title>
         <id>https://v.daum.net/v/20240308221755804</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240308183307834"/>
         <updated>2024-03-08T10:21:35.028Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["초진 환자도 비대면 진료" 2배 급증…의료현장 혼란 줄였다]]></title>
-        <id>https://v.daum.net/v/20240308183103817</id>
-        <link href="https://v.daum.net/v/20240308183103817"/>
-        <updated>2024-03-08T10:21:35.030Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
