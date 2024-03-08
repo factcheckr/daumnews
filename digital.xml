@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-08T13:20:23.901Z</updated>
+    <updated>2024-03-08T14:18:14.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더 강해지는 슈퍼 태풍…“12월에도 발생 우려”]]></title>
+        <id>https://v.daum.net/v/20240308221755804</id>
+        <link href="https://v.daum.net/v/20240308221755804"/>
+        <updated>2024-03-08T14:17:40.958Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[총선 투표율 높이려면…"페북보다 포털·유튜브가 영향 커"]]></title>
         <id>https://v.daum.net/v/20240308210102966</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240308183103817"/>
         <updated>2024-03-08T10:21:35.030Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[생성 AI 길라잡이] 챗GPT와 자동차의 만남]]></title>
-        <id>https://v.daum.net/v/20240308174503821</id>
-        <link href="https://v.daum.net/v/20240308174503821"/>
-        <updated>2024-03-08T09:17:40.829Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
