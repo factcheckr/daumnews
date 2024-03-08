@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-03-08T17:16:23.365Z</updated>
+    <updated>2024-03-08T18:23:45.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["비만은 유전"… 부모가 모두 비만이면 비만 확률 6배 높아]]></title>
+        <id>https://v.daum.net/v/20240308230049069</id>
+        <link href="https://v.daum.net/v/20240308230049069"/>
+        <updated>2024-03-08T18:22:59.388Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갑자기 꾸벅꾸벅, 사흘간 꼬박 잠들어…'수면 질환'입니다]]></title>
         <id>https://v.daum.net/v/20240308213306281</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240308180159256"/>
         <updated>2024-03-08T12:31:04.178Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뚱뚱한 간' 뱃살만큼 위험해...비만이 간에 끼치는 영향]]></title>
-        <id>https://v.daum.net/v/20240308180116230</id>
-        <link href="https://v.daum.net/v/20240308180116230"/>
-        <updated>2024-03-08T12:31:04.178Z</updated>
-        <content type="html"><![CDATA[하이닥]]></content>
     </entry>
 </feed>

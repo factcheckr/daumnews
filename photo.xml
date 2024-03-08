@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-03-08T17:16:23.356Z</updated>
+    <updated>2024-03-08T18:23:45.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5917011/9QMdYGTNSB"/>
         <updated>2024-03-08T16:22:11.618Z</updated>
         <content type="html"><![CDATA[전국 폭설]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리 언제 가요?]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/plSAXZYcDL</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/plSAXZYcDL"/>
+        <updated>2024-03-08T18:23:22.915Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제1차 민간투자집행 점검회의 주재하는 김윤상 차관]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1112079/1KXu1XWAl5"/>
         <updated>2024-03-08T08:22:57.862Z</updated>
         <content type="html"><![CDATA[포토多이슈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日 도쿄 드래곤볼 동상 앞에서 사진찍는 관광객]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1407/bG1DaLdz7t</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1407/bG1DaLdz7t"/>
-        <updated>2024-03-08T08:22:57.864Z</updated>
-        <content type="html"><![CDATA[일본은 지금]]></content>
     </entry>
 </feed>
