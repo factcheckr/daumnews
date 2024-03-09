@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-03-09T14:18:39.090Z</updated>
+    <updated>2024-03-09T15:17:49.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘날씨, 아침 영하권 ‘쌀쌀’...서울 낮 기온 10도 큰 일교차]]></title>
+        <id>https://v.daum.net/v/20240310000204548</id>
+        <link href="https://v.daum.net/v/20240310000204548"/>
+        <updated>2024-03-09T15:16:45.214Z</updated>
+        <content type="html"><![CDATA[bnt뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[아하!] '푸바오' 안 가면 안되나요? "네, 안 됩니다" 왜냐면… (영상)]]></title>
+        <id>https://v.daum.net/v/20240310000125540</id>
+        <link href="https://v.daum.net/v/20240310000125540"/>
+        <updated>2024-03-09T15:16:45.216Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘오래 살지만 더 아플 수도’…여성의 건강]]></title>
         <id>https://v.daum.net/v/20240309215048905</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240309192156752"/>
         <updated>2024-03-09T12:29:13.730Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["HIV 감염 신생아, 조기 치료하면 관해 가능"]]></title>
-        <id>https://v.daum.net/v/20240309200121020</id>
-        <link href="https://v.daum.net/v/20240309200121020"/>
-        <updated>2024-03-09T12:29:13.732Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구콘서트하우스, 지역 클래식 음악인 위한 무대 마련]]></title>
-        <id>https://v.daum.net/v/20240309203408427</id>
-        <link href="https://v.daum.net/v/20240309203408427"/>
-        <updated>2024-03-09T12:29:13.734Z</updated>
-        <content type="html"><![CDATA[대구MBC]]></content>
     </entry>
 </feed>
