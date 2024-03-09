@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2024-03-09T18:22:44.988Z</updated>
+    <updated>2024-03-09T19:14:16.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대진연 “이토 히로부미 논란 성일종 사퇴”…與 “선거 방해행위 엄단해야”]]></title>
+        <id>https://v.daum.net/v/20240310040917914</id>
+        <link href="https://v.daum.net/v/20240310040917914"/>
+        <updated>2024-03-09T19:12:35.271Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국힘 위성정당, '비례대표 공천' 총 530명 신청…22일까지 명부 확정]]></title>
         <id>https://v.daum.net/v/20240310005330691</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240310000104535"/>
         <updated>2024-03-09T15:15:42.149Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청주흥덕' 김동원 "청주 4개 지역구 싹쓸이 충분히 가능"]]></title>
-        <id>https://v.daum.net/v/20240309220758009</id>
-        <link href="https://v.daum.net/v/20240309220758009"/>
-        <updated>2024-03-09T15:15:42.147Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
