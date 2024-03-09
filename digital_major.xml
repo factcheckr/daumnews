@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-03-09T08:21:22.883Z</updated>
+    <updated>2024-03-09T09:22:02.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[불붙은 AI 반도체 전쟁…인력·기술 유출 우려]]></title>
+        <id>https://v.daum.net/v/20240309132532962</id>
+        <link href="https://v.daum.net/v/20240309132532962"/>
+        <updated>2024-03-09T09:21:30.249Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[광고, 스포츠… 넷플릭스와 쿠팡의 길 '티빙'에도 꽃길 될까]]></title>
         <id>https://v.daum.net/v/20240309125843738</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240309092156344"/>
         <updated>2024-03-09T03:21:53.625Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["화려하네" 스페이스X 팰컨9 로켓의 지구 귀환 모습 [영상]]]></title>
-        <id>https://v.daum.net/v/20240309093019418</id>
-        <link href="https://v.daum.net/v/20240309093019418"/>
-        <updated>2024-03-09T03:21:53.627Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>

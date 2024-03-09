@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-09T08:21:22.888Z</updated>
+    <updated>2024-03-09T09:22:02.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[갤럭시 워치는 둥글고, 애플 워치는 네모난 이유 [별별테크]]]></title>
+        <id>https://v.daum.net/v/20240309180103146</id>
+        <link href="https://v.daum.net/v/20240309180103146"/>
+        <updated>2024-03-09T09:21:21.575Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日 소형 로켓 발사 연기…"13일 이후 재시도"(상보)]]></title>
         <id>https://v.daum.net/v/20240309170654669</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240309135119322"/>
         <updated>2024-03-09T05:23:40.177Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불붙은 AI 반도체 전쟁…인력·기술 유출 우려]]></title>
-        <id>https://v.daum.net/v/20240309132532962</id>
-        <link href="https://v.daum.net/v/20240309132532962"/>
-        <updated>2024-03-09T05:23:40.180Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
