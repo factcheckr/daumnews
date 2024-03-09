@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-03-09T12:30:12.365Z</updated>
+    <updated>2024-03-09T13:20:17.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[감독이 영화의 허리를 끊었다, 파묘]]></title>
+        <id>https://v.daum.net/v/20240309202804258</id>
+        <link href="https://v.daum.net/v/20240309202804258"/>
+        <updated>2024-03-09T13:19:26.049Z</updated>
+        <content type="html"><![CDATA[한겨레21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가는 변이 대장 이상 신호? 적정 대변 굵기는…]]></title>
         <id>https://v.daum.net/v/20240309180015138</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240309180203151"/>
         <updated>2024-03-09T10:20:35.239Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새 학기 공부 잘 따라가고 있을까… ‘세 가지’ 점검하세요]]></title>
-        <id>https://v.daum.net/v/20240309180017139</id>
-        <link href="https://v.daum.net/v/20240309180017139"/>
-        <updated>2024-03-09T10:20:35.240Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>

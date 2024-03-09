@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-03-09T12:30:12.373Z</updated>
+    <updated>2024-03-09T13:20:17.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘형설지공’ 반딧불이 어떻게 빛내는지 봤더니 [달콤한 사이언스]]]></title>
+        <id>https://v.daum.net/v/20240309140105436</id>
+        <link href="https://v.daum.net/v/20240309140105436"/>
+        <updated>2024-03-09T13:19:43.639Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머스크 vs 올트먼, 오픈AI 설립 취지 놓고 격화된 ‘난타전’]]></title>
         <id>https://v.daum.net/v/20240309140021421</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240309103005203"/>
         <updated>2024-03-09T05:23:48.842Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개와 산책하다 발견한 '험한 것'…7천만 년 전 공룡 뼈였다]]></title>
-        <id>https://v.daum.net/v/20240309101200989</id>
-        <link href="https://v.daum.net/v/20240309101200989"/>
-        <updated>2024-03-09T04:20:18.723Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>

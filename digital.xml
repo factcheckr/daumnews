@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-09T12:30:12.386Z</updated>
+    <updated>2024-03-09T13:20:17.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘좀비 바이러스’ 전염된 인간 나올까…美 전역 사슴병 확산 경고 [핵잼 사이언스]]]></title>
+        <id>https://v.daum.net/v/20240309212701789</id>
+        <link href="https://v.daum.net/v/20240309212701789"/>
+        <updated>2024-03-09T13:19:34.849Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아침에 빵 먹으면 ‘얼굴’ 못나진다…“황당 넘어 충격”]]></title>
         <id>https://v.daum.net/v/20240309194111898</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240309162019145"/>
         <updated>2024-03-09T08:20:40.174Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘형설지공’ 반딧불이 어떻게 빛내는지 봤더니 [달콤한 사이언스]]]></title>
-        <id>https://v.daum.net/v/20240309140105436</id>
-        <link href="https://v.daum.net/v/20240309140105436"/>
-        <updated>2024-03-09T05:23:40.173Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
