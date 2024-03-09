@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-03-09T15:17:49.369Z</updated>
+    <updated>2024-03-09T16:25:56.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오전엔 영하권 낮부터 기온 올라...환절기 호흡기질환 예방법]]></title>
+        <id>https://v.daum.net/v/20240310002459631</id>
+        <link href="https://v.daum.net/v/20240310002459631"/>
+        <updated>2024-03-09T16:24:52.055Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘날씨, 아침 영하권 ‘쌀쌀’...서울 낮 기온 10도 큰 일교차]]></title>
         <id>https://v.daum.net/v/20240310000204548</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240309153825737"/>
         <updated>2024-03-09T12:29:13.729Z</updated>
         <content type="html"><![CDATA[농민신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["어릴 때 약시, 어른 돼 만성질환 위험 ↑"]]></title>
-        <id>https://v.daum.net/v/20240309192156752</id>
-        <link href="https://v.daum.net/v/20240309192156752"/>
-        <updated>2024-03-09T12:29:13.730Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
