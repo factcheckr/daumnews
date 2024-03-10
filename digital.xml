@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-10T02:28:46.327Z</updated>
+    <updated>2024-03-10T03:19:09.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샘 올트먼, 오픈AI 이사회 복귀…전 빌게이츠재단 CEO도 합류]]></title>
+        <id>https://v.daum.net/v/20240310115548681</id>
+        <link href="https://v.daum.net/v/20240310115548681"/>
+        <updated>2024-03-10T03:18:31.546Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대세가 된 숏폼…쇼츠가 떠야 유튜브 채널도 뜬다]]></title>
         <id>https://v.daum.net/v/20240310111401099</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240310094049672"/>
         <updated>2024-03-10T01:16:22.064Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영하의 날씨 ‘밤새 별 보는 메시에 마라톤’]]></title>
-        <id>https://v.daum.net/v/20240310093407584</id>
-        <link href="https://v.daum.net/v/20240310093407584"/>
-        <updated>2024-03-10T01:16:22.065Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
