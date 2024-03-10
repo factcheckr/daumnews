@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-10T22:18:36.399Z</updated>
+    <updated>2024-03-10T23:19:14.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김홍일 방통위원장 취임 후 이통3사 CEO 첫 회동...포스트 단통법 논의할 듯]]></title>
+        <id>https://v.daum.net/v/20240311075744308</id>
+        <link href="https://v.daum.net/v/20240311075744308"/>
+        <updated>2024-03-10T23:18:30.420Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“살인 자율 로봇 병기 10년 안 등장” AI 개척자의 경고]]></title>
         <id>https://v.daum.net/v/20240311070907571</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240311060513884"/>
         <updated>2024-03-10T21:14:46.621Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[같은 삼성 OLED TV인데 화질 다르다?... LG 패널 혼용에 소비자 혼선 우려]]></title>
-        <id>https://v.daum.net/v/20240311060202826</id>
-        <link href="https://v.daum.net/v/20240311060202826"/>
-        <updated>2024-03-10T21:14:46.622Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
