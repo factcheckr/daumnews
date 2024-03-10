@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-03-10T16:21:25.693Z</updated>
+    <updated>2024-03-10T17:17:05.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백남준이 테크노클럽 DJ가 된다면? [여기 힙해]]]></title>
+        <id>https://v.daum.net/v/20240311000628787</id>
+        <link href="https://v.daum.net/v/20240311000628787"/>
+        <updated>2024-03-10T17:16:06.535Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[도민시론] 삼척 오금잠제와 로컬 콘텐츠]]></title>
         <id>https://v.daum.net/v/20240311000508679</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240310195003594"/>
         <updated>2024-03-10T13:18:30.647Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고려거란전쟁' 은 어쩌다 '나라 망신' 소리까지 듣게 됐나]]></title>
-        <id>https://v.daum.net/v/20240310212918573</id>
-        <link href="https://v.daum.net/v/20240310212918573"/>
-        <updated>2024-03-10T13:18:30.648Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-03-10T16:21:25.693Z</updated>
+    <updated>2024-03-10T17:17:05.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240311000541715"/>
         <updated>2024-03-10T16:20:40.981Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고려거란전쟁' 은 어쩌다 '나라 망신' 소리까지 듣게 됐나]]></title>
+        <id>https://v.daum.net/v/20240310212918573</id>
+        <link href="https://v.daum.net/v/20240310212918573"/>
+        <updated>2024-03-10T17:16:15.436Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["장기 나이 측정해 질병 예측"…장수의학 유망 분야로 주목]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240310185901930"/>
         <updated>2024-03-10T12:28:20.447Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몰라서 미안하고 알지못해 신비한, 숨은 여행지3]]></title>
-        <id>https://v.daum.net/v/20240310183153404</id>
-        <link href="https://v.daum.net/v/20240310183153404"/>
-        <updated>2024-03-10T12:28:20.447Z</updated>
-        <content type="html"><![CDATA[스포츠경향]]></content>
     </entry>
 </feed>
