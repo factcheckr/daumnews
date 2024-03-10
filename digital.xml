@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-10T10:18:13.697Z</updated>
+    <updated>2024-03-10T11:15:15.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://v.daum.net/v/20240310184601694"/>
         <updated>2024-03-10T10:17:38.662Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[테크&포커스] 자금난관에 뒤쳐진 SaaS·사이버보안… 정부펀드로 유니콘 발굴]]></title>
-        <id>https://v.daum.net/v/20240310182538274</id>
-        <link href="https://v.daum.net/v/20240310182538274"/>
-        <updated>2024-03-10T10:17:38.664Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스트레스가 암세포 '4배' 더 빨리 키운다?...유방암 폐 전이 촉진]]></title>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20240310180957992"/>
         <updated>2024-03-10T09:18:55.819Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제4이동통신 망 운영을 위탁한다고요?[김현아의 IT세상읽기]]]></title>
+        <id>https://v.daum.net/v/20240310175727752</id>
+        <link href="https://v.daum.net/v/20240310175727752"/>
+        <updated>2024-03-10T11:14:39.662Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

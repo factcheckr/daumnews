@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-03-10T10:18:13.693Z</updated>
+    <updated>2024-03-10T11:15:15.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손 저림, 혈액순환 문제보다 다른 원인도 많아]]></title>
+        <id>https://v.daum.net/v/20240310183002359</id>
+        <link href="https://v.daum.net/v/20240310183002359"/>
+        <updated>2024-03-10T11:14:32.448Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조수미 국제 콩쿠르 열리는 프랑스 고성은 어떤 곳?]]></title>
         <id>https://v.daum.net/v/20240310160000139</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240310165135214"/>
         <updated>2024-03-10T09:18:47.738Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실명 유발하는 ‘포도막염’, 무시하면 안 되는 증상은?]]></title>
-        <id>https://v.daum.net/v/20240310163015822</id>
-        <link href="https://v.daum.net/v/20240310163015822"/>
-        <updated>2024-03-10T09:18:47.738Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
