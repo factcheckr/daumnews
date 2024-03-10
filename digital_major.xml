@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-03-10T14:16:25.210Z</updated>
+    <updated>2024-03-10T16:21:25.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유튜브에 도전장 내민 머스크 “스마트TV용 동영상 앱 출시”]]></title>
+        <id>https://v.daum.net/v/20240311001136872</id>
+        <link href="https://v.daum.net/v/20240311001136872"/>
+        <updated>2024-03-10T16:20:57.733Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[숏폼 이끈 틱톡…성공 비결은 '6 대 4 콘텐츠']]></title>
         <id>https://v.daum.net/v/20240310184601694</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240310163810992"/>
         <updated>2024-03-10T09:19:03.343Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 “로봇 전용 OS 시장 선점”…연내 100대에 시범 적용]]></title>
-        <id>https://v.daum.net/v/20240310134603413</id>
-        <link href="https://v.daum.net/v/20240310134603413"/>
-        <updated>2024-03-10T14:15:56.730Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
