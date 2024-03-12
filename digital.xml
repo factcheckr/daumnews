@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-12T13:19:56.753Z</updated>
+    <updated>2024-03-12T14:17:26.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[은밀한 비밀대화방…사용자 9억명 돌파한 ‘이 앱’]]></title>
+        <id>https://v.daum.net/v/20240312224800080</id>
+        <link href="https://v.daum.net/v/20240312224800080"/>
+        <updated>2024-03-12T14:16:42.879Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로스트아크 "밸패 후 점화 소서는 정말 신이 됐을까?"]]></title>
         <id>https://v.daum.net/v/20240312214719448</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240312205251494"/>
         <updated>2024-03-12T12:31:19.608Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플, iOS18서 에어팟 프로 '보청기 모드' 지원한다]]></title>
-        <id>https://v.daum.net/v/20240312195103137</id>
-        <link href="https://v.daum.net/v/20240312195103137"/>
-        <updated>2024-03-12T12:31:19.609Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
