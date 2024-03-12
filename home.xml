@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-03-12T18:23:58.181Z</updated>
+    <updated>2024-03-12T19:17:24.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["영국 탄소 배출, 빅토리아시대 수준…비싼 에너지값 영향"]]></title>
+        <id>https://v.daum.net/v/20240313035608707</id>
+        <link href="https://v.daum.net/v/20240313035608707"/>
+        <updated>2024-03-12T19:15:35.176Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[의협 비대위 집행부 고강도 조사..."전공의 사직, 선동 아냐"]]></title>
         <id>https://v.daum.net/v/20240313031010622</id>
@@ -55,13 +62,6 @@
         <content type="html"><![CDATA[국제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 "AI 챗봇 제미나이에 가능한 선거 관련 질문 유형 제한"]]></title>
-        <id>https://v.daum.net/v/20240313024813279</id>
-        <link href="https://v.daum.net/v/20240313024813279"/>
-        <updated>2024-03-12T18:21:50.119Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[인터뷰] 與 '경제통 1호' 영입인재 강철호 "민주당 앗아간 '용인의 8년' 되찾겠다"]]></title>
         <id>https://v.daum.net/v/20240313005000024</id>
         <link href="https://v.daum.net/v/20240313005000024"/>
@@ -76,24 +76,10 @@
         <content type="html"><![CDATA[사회]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국제우주정거장 우주인 4명, 스페이스X 캡슐 타고 지구로 귀환]]></title>
-        <id>https://v.daum.net/v/20240313022406266</id>
-        <link href="https://v.daum.net/v/20240313022406266"/>
-        <updated>2024-03-12T18:21:50.120Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[수단 정부군, 반군에 빼앗긴 국영방송 건물 되찾아]]></title>
         <id>https://v.daum.net/v/20240313020342244</id>
         <link href="https://v.daum.net/v/20240313020342244"/>
         <updated>2024-03-12T17:15:29.827Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BBC "가자 의료진, 병원서 이스라엘군에 학대당해"]]></title>
-        <id>https://v.daum.net/v/20240313015631232</id>
-        <link href="https://v.daum.net/v/20240313015631232"/>
-        <updated>2024-03-12T17:15:29.828Z</updated>
         <content type="html"><![CDATA[국제]]></content>
     </entry>
     <entry>
@@ -144,5 +130,19 @@
         <link href="https://v.daum.net/v/20240313002000847"/>
         <updated>2024-03-12T16:22:15.949Z</updated>
         <content type="html"><![CDATA[정치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아르헨 중앙은행 기준금리 연110%→80%로 한꺼번에 30%p 낮춰]]></title>
+        <id>https://v.daum.net/v/20240313005152029</id>
+        <link href="https://v.daum.net/v/20240313005152029"/>
+        <updated>2024-03-12T19:15:35.206Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“줘도 문제, 안줘도 문제”···배임 소송 당할까 은행들 ‘홍콩ELS 배상’ 골치]]></title>
+        <id>https://v.daum.net/v/20240312234800460</id>
+        <link href="https://v.daum.net/v/20240312234800460"/>
+        <updated>2024-03-12T19:15:35.207Z</updated>
+        <content type="html"><![CDATA[경제]]></content>
     </entry>
 </feed>
