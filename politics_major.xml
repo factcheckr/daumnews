@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-03-13T15:19:48.171Z</updated>
+    <updated>2024-03-13T16:22:26.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240314001052414"/>
         <updated>2024-03-13T15:17:57.874Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐스팅보트 퇴계동 주목… 각기 다른 요충지별 표심 공략]]></title>
+        <id>https://v.daum.net/v/20240314000559342</id>
+        <link href="https://v.daum.net/v/20240314000559342"/>
+        <updated>2024-03-13T16:20:30.921Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비명소리마저 끊긴 민주당, 눈물 흘릴 비명조차 안 남겼다 [정국 기상대]]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240313210443580"/>
         <updated>2024-03-13T15:17:57.885Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주 `올드보이` 박지원 정동영 공천…친문 전해철 고배]]></title>
-        <id>https://v.daum.net/v/20240313211216729</id>
-        <link href="https://v.daum.net/v/20240313211216729"/>
-        <updated>2024-03-13T15:17:57.886Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>

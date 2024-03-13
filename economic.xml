@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-03-13T15:19:48.156Z</updated>
+    <updated>2024-03-13T16:22:26.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전기차 성장둔화에 美완성차 업체의 전기차 전환도 속도 조절]]></title>
+        <id>https://v.daum.net/v/20240314005134641</id>
+        <link href="https://v.daum.net/v/20240314005134641"/>
+        <updated>2024-03-13T16:20:53.652Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Editor’s Note] GDP 16% 차지하는데 건설업 회복은 언제쯤…]]></title>
         <id>https://v.daum.net/v/20240314001152435</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240313195837590"/>
         <updated>2024-03-13T13:18:40.620Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건설업 비중 높은 광주, 건설경기 위축에 직격탄]]></title>
-        <id>https://v.daum.net/v/20240313211222734</id>
-        <link href="https://v.daum.net/v/20240313211222734"/>
-        <updated>2024-03-13T12:32:35.906Z</updated>
-        <content type="html"><![CDATA[kbc광주방송]]></content>
     </entry>
 </feed>

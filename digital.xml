@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-13T15:19:48.175Z</updated>
+    <updated>2024-03-13T16:22:26.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더 파이널스 "다양한 전략과 대중성 다 잡은 파워시프트"]]></title>
+        <id>https://v.daum.net/v/20240314010008668</id>
+        <link href="https://v.daum.net/v/20240314010008668"/>
+        <updated>2024-03-13T16:21:47.076Z</updated>
+        <content type="html"><![CDATA[게임톡]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["웨어러블 기기 혁신"…美 연구진, 피부에 입혀도 작동하는 집적회로 개발]]></title>
+        <id>https://v.daum.net/v/20240314010002664</id>
+        <link href="https://v.daum.net/v/20240314010002664"/>
+        <updated>2024-03-13T16:21:47.079Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[용석우 삼성전자 사장 “올해 OLED TV 라인업 확대… LG와 점유율 차이 줄일 것”]]></title>
         <id>https://v.daum.net/v/20240313150409804</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240313200426695"/>
         <updated>2024-03-13T11:22:58.421Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] “한국에서는 딱 한 곳”…‘딥페이크 방지’ 글로벌 전선에 합류한 ‘이 기업’]]></title>
-        <id>https://v.daum.net/v/20240313200600718</id>
-        <link href="https://v.daum.net/v/20240313200600718"/>
-        <updated>2024-03-13T11:22:58.422Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 인프라 수요에 전통 IT강자들도 `화색`]]></title>
-        <id>https://v.daum.net/v/20240313170719456</id>
-        <link href="https://v.daum.net/v/20240313170719456"/>
-        <updated>2024-03-13T11:22:58.425Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
