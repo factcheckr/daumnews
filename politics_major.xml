@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-03-13T16:22:26.040Z</updated>
+    <updated>2024-03-13T17:18:52.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240314001052414"/>
         <updated>2024-03-13T15:17:57.874Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[창당 후 호남 첫 방문 조국… “여권, 중전마마 방탄 연대”]]></title>
+        <id>https://v.daum.net/v/20240314000521308</id>
+        <link href="https://v.daum.net/v/20240314000521308"/>
+        <updated>2024-03-13T17:17:08.453Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[캐스팅보트 퇴계동 주목… 각기 다른 요충지별 표심 공략]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240313231800907"/>
         <updated>2024-03-13T15:17:57.883Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘文의 남자’ 전해철 탈락, ‘대장동 변호사들’은 또 본선行]]></title>
-        <id>https://v.daum.net/v/20240313210443580</id>
-        <link href="https://v.daum.net/v/20240313210443580"/>
-        <updated>2024-03-13T15:17:57.885Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
