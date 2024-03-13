@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-03-13T12:34:10.170Z</updated>
+    <updated>2024-03-13T13:20:03.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://v.daum.net/v/20240313210853663"/>
         <updated>2024-03-13T12:33:38.784Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LCK, 오프라인 서버로 무관중 생중계…이달 20일 공개 경기 검토]]></title>
-        <id>https://v.daum.net/v/20240313182736933</id>
-        <link href="https://v.daum.net/v/20240313182736933"/>
-        <updated>2024-03-13T12:33:38.786Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“생각만으로 사물을 움직인다”...IBS, 생체 통합 ‘뉴럴 인터페이스’ 개발]]></title>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20240313172444023"/>
         <updated>2024-03-13T09:19:08.164Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["올해 美 대선서 바이든이 이길까?"…제미나이에 물었더니]]></title>
+        <id>https://v.daum.net/v/20240313171328666</id>
+        <link href="https://v.daum.net/v/20240313171328666"/>
+        <updated>2024-03-13T13:19:33.276Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>

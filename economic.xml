@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-03-13T12:34:10.156Z</updated>
+    <updated>2024-03-13T13:20:03.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['깜깜속' 결혼비용 낮춘다…스드메 가격표시 의무화]]></title>
+        <id>https://v.daum.net/v/20240313195837590</id>
+        <link href="https://v.daum.net/v/20240313195837590"/>
+        <updated>2024-03-13T13:18:40.620Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘도심 대심도 급행철도’ GTX 기술에 해외도 관심]]></title>
         <id>https://v.daum.net/v/20240313213011979</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240313210906674"/>
         <updated>2024-03-13T12:32:35.910Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WELCOME TO 초고령화 시대 ‘케어 이코노미’]]></title>
-        <id>https://v.daum.net/v/20240313210301546</id>
-        <link href="https://v.daum.net/v/20240313210301546"/>
-        <updated>2024-03-13T12:32:35.911Z</updated>
-        <content type="html"><![CDATA[매경이코노미]]></content>
     </entry>
 </feed>

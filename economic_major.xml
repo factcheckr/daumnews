@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-03-13T12:34:10.185Z</updated>
+    <updated>2024-03-13T13:20:03.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WELCOME TO 초고령화 시대 ‘케어 이코노미’]]></title>
+        <id>https://v.daum.net/v/20240313210301546</id>
+        <link href="https://v.daum.net/v/20240313210301546"/>
+        <updated>2024-03-13T13:18:48.401Z</updated>
+        <content type="html"><![CDATA[매경이코노미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“3천원짜리 로봇청소기 일회용이었네”…환불 귀찮아 없는 셈쳤다, 1년새 5배]]></title>
         <id>https://v.daum.net/v/20240313210300542</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240313201913904"/>
         <updated>2024-03-13T12:32:45.069Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스프라임] 내일부터 휴대전화 번호이동 지원금…시장 들썩]]></title>
-        <id>https://v.daum.net/v/20240313201204812</id>
-        <link href="https://v.daum.net/v/20240313201204812"/>
-        <updated>2024-03-13T12:32:45.070Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
