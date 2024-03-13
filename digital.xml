@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-13T13:20:03.045Z</updated>
+    <updated>2024-03-13T14:18:00.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[EU, 최초의 AI 규제법 승인…올해 말 발효 예정]]></title>
+        <id>https://v.daum.net/v/20240313222953601</id>
+        <link href="https://v.daum.net/v/20240313222953601"/>
+        <updated>2024-03-13T14:17:28.602Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“삼각 체제 구축으로 우주강국…1조 집중 투자”]]></title>
         <id>https://v.daum.net/v/20240313212805949</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240313150827976"/>
         <updated>2024-03-13T10:19:14.644Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LCK, 오프라인 서버로 무관중 생중계…이달 20일 공개 경기 검토]]></title>
-        <id>https://v.daum.net/v/20240313182736933</id>
-        <link href="https://v.daum.net/v/20240313182736933"/>
-        <updated>2024-03-13T13:19:24.871Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
