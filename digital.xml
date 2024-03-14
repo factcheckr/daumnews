@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-14T14:17:43.920Z</updated>
+    <updated>2024-03-14T15:19:14.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[인류 최대 로켓 '스타십', 지구 궤도 비행 시작한 듯]]></title>
-        <id>https://v.daum.net/v/20240314230331500</id>
-        <link href="https://v.daum.net/v/20240314230331500"/>
-        <updated>2024-03-14T14:16:59.947Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
+        <title type="html"><![CDATA[[속보] 스페이스X 우주선 스타십, 지구궤도 비행 후 낙하 중 교신 끊겨]]></title>
+        <id>https://v.daum.net/v/20240314233326775</id>
+        <link href="https://v.daum.net/v/20240314233326775"/>
+        <updated>2024-03-14T15:18:40.608Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스페이스X 우주선 스타십, 지구궤도 비행 후 낙하중 파손된듯]]></title>
+        <id>https://v.daum.net/v/20240315000419120</id>
+        <link href="https://v.daum.net/v/20240315000419120"/>
+        <updated>2024-03-14T15:18:40.608Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI 커버곡과 함께 뜬 '밤양갱'…저작권 문제 재점화]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240314223612254"/>
         <updated>2024-03-14T14:16:59.951Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보] 스페이스X의 화성 우주선 스타십, 지구궤도 시험비행 3번째 발사]]></title>
-        <id>https://v.daum.net/v/20240314223037174</id>
-        <link href="https://v.daum.net/v/20240314223037174"/>
-        <updated>2024-03-14T14:16:59.953Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
