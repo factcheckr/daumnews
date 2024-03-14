@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2024-03-14T16:22:58.428Z</updated>
+    <updated>2024-03-14T17:17:05.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영국 법원 "호주 프로그래머 라이트, 비트코인 창시자 아냐"]]></title>
+        <id>https://v.daum.net/v/20240315013708638</id>
+        <link href="https://v.daum.net/v/20240315013708638"/>
+        <updated>2024-03-14T17:15:47.586Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일본 후쿠시마현 규모 5.8 지진…도쿄전력 "원전이상 확인중"(종합)]]></title>
+        <id>https://v.daum.net/v/20240315012247617</id>
+        <link href="https://v.daum.net/v/20240315012247617"/>
+        <updated>2024-03-14T17:15:47.587Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스페이스X, 달·화성 우주선 3번째 시험비행 또 실패]]></title>
         <id>https://v.daum.net/v/20240315011659601</id>
@@ -20,13 +34,6 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지중해서 이주민 보트 표류사고…최소 60명 사망 추정]]></title>
-        <id>https://v.daum.net/v/20240315005533509</id>
-        <link href="https://v.daum.net/v/20240315005533509"/>
-        <updated>2024-03-14T16:21:51.763Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[美, 이스라엘인에 제재…여당중진은 사실상 네타냐후 교체 촉구]]></title>
         <id>https://v.daum.net/v/20240315003618426</id>
         <link href="https://v.daum.net/v/20240315003618426"/>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240315000237100"/>
         <updated>2024-03-14T16:21:51.768Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주영 대사관서 순국 외교관 이한응 열사 임명 123주년 기념식]]></title>
-        <id>https://v.daum.net/v/20240315002017337</id>
-        <link href="https://v.daum.net/v/20240315002017337"/>
-        <updated>2024-03-14T16:21:51.769Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
