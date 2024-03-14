@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-03-14T11:19:39.338Z</updated>
+    <updated>2024-03-14T12:32:55.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[이정희 유한양행 이사회 의장,"회장직 대신 이사회 멤버로 남겠다"]]></title>
+        <title type="html"><![CDATA[연구원들 근무 ‘길어야 10년’…이륙부터 불안한 우주항공청]]></title>
+        <id>https://v.daum.net/v/20240314211854978</id>
+        <link href="https://v.daum.net/v/20240314211854978"/>
+        <updated>2024-03-14T12:32:27.509Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이정희 유한양행 이사회 의장 “이사회 멤버로 남을 순 있어”]]></title>
         <id>https://v.daum.net/v/20240314192707314</id>
         <link href="https://v.daum.net/v/20240314192707314"/>
         <updated>2024-03-14T11:19:04.601Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240314180445185"/>
         <updated>2024-03-14T11:19:04.611Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블루투스 이어폰, 아무거나 사지 말아야 할 이유는?]]></title>
-        <id>https://v.daum.net/v/20240314180104080</id>
-        <link href="https://v.daum.net/v/20240314180104080"/>
-        <updated>2024-03-14T10:19:11.319Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
