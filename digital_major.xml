@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-03-15T21:16:43.402Z</updated>
+    <updated>2024-03-15T22:18:43.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20240316060033985"/>
         <updated>2024-03-15T21:16:08.842Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“엄청난 중력 이겨내”... 100명 타는 스타십,  ‘화성 이주시대’ 첫 문턱 넘다]]></title>
+        <id>https://v.daum.net/v/20240316033753338</id>
+        <link href="https://v.daum.net/v/20240316033753338"/>
+        <updated>2024-03-15T22:18:09.332Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[달보다 600배 먼 화성, 물도 산소도 없어]]></title>
+        <id>https://v.daum.net/v/20240316033711336</id>
+        <link href="https://v.daum.net/v/20240316033711336"/>
+        <updated>2024-03-15T22:18:09.333Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[복잡한 인허가에 투자 발목잡힌 한국]]></title>
@@ -27,7 +41,7 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[번호이동 지원금 준다면서요?… “아직 준비 안 됐어요”]]></title>
+        <title type="html"><![CDATA[50만원 번호이동 지원금 준다더니… “아직 준비 안 됐어요”]]></title>
         <id>https://v.daum.net/v/20240316030100220</id>
         <link href="https://v.daum.net/v/20240316030100220"/>
         <updated>2024-03-15T18:23:21.750Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240315224258859"/>
         <updated>2024-03-15T19:15:39.789Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[행안부, 메가시티·지자체 통합 논의하는 자문위원회 4월 출범 [오늘의 행정 이슈]]]></title>
-        <id>https://v.daum.net/v/20240315191843440</id>
-        <link href="https://v.daum.net/v/20240315191843440"/>
-        <updated>2024-03-15T19:15:39.790Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전공의 빠지자 경증환자 안찾는 대형병원...복지부 “지금이 ‘빅5’ 쏠림 해결할 절호의 기회”]]></title>
-        <id>https://v.daum.net/v/20240315205830670</id>
-        <link href="https://v.daum.net/v/20240315205830670"/>
-        <updated>2024-03-15T19:15:39.792Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
