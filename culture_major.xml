@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-03-16T06:22:06.039Z</updated>
+    <updated>2024-03-16T07:17:08.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[저지리 예술 투어하고 저지오름 오르고… ‘제주시 뉴저지’를 아시나요?]]></title>
+        <id>https://v.daum.net/v/20240316030319253</id>
+        <link href="https://v.daum.net/v/20240316030319253"/>
+        <updated>2024-03-16T07:16:26.231Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라면, ‘이렇게’ 먹으면 나트륨 확 낮춘다]]></title>
         <id>https://v.daum.net/v/20240316133016438</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240316120004650"/>
         <updated>2024-03-16T04:21:40.559Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(여자)아이들 ‘아딱질’ 역주행, ‘밤양갱’ 열풍 [하재근의 이슈분석]]]></title>
-        <id>https://v.daum.net/v/20240316070708800</id>
-        <link href="https://v.daum.net/v/20240316070708800"/>
-        <updated>2024-03-16T04:21:40.559Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
