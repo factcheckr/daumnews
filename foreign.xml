@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2024-03-16T13:19:40.373Z</updated>
+    <updated>2024-03-16T14:17:05.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[PA 인선 놓고 하마스·파타 갈등…팔 정파 분열 심화[이-팔 전쟁]]]></title>
+        <id>https://v.daum.net/v/20240316225449951</id>
+        <link href="https://v.daum.net/v/20240316225449951"/>
+        <updated>2024-03-16T14:15:43.598Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“오늘 처음 이용”…김정은, 푸틴 선물 ‘아우루스’ 공개]]></title>
         <id>https://v.daum.net/v/20240316194202467</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240316203127897"/>
         <updated>2024-03-16T12:33:53.850Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“엔비디아 제2 고향으로” 젠슨 황  반했네…반도체 생산기지 야심 드러내는 ‘이 나라’ [신짜오 베트남]]]></title>
-        <id>https://v.daum.net/v/20240316203001878</id>
-        <link href="https://v.daum.net/v/20240316203001878"/>
-        <updated>2024-03-16T12:33:53.851Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
