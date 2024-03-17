@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-03-17T16:21:08.967Z</updated>
+    <updated>2024-03-17T17:16:30.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[투표율 높은 러시아 대선…푸틴 종신집권 후 전쟁 더 키우나]]></title>
+        <id>https://v.daum.net/v/20240317230600048</id>
+        <link href="https://v.daum.net/v/20240317230600048"/>
+        <updated>2024-03-17T17:15:35.949Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러 ‘북한 핵 보유국 인정’ 시사… NPT 무력화 우려]]></title>
         <id>https://v.daum.net/v/20240317194018259</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240317192408022"/>
         <updated>2024-03-17T12:29:38.750Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘반미 우군’ 모으는 시진핑…아프리카 앙골라와 ‘전면적 동반자 관계’ 격상]]></title>
-        <id>https://v.daum.net/v/20240317190202759</id>
-        <link href="https://v.daum.net/v/20240317190202759"/>
-        <updated>2024-03-17T11:15:47.860Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
