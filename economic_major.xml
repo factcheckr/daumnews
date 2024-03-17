@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-03-17T13:20:38.645Z</updated>
+    <updated>2024-03-17T14:15:49.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240317212230672"/>
         <updated>2024-03-17T12:29:21.057Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독도 지키는 ‘독도평화호’ 예산 동결에 운항 반토막]]></title>
+        <id>https://v.daum.net/v/20240317193006099</id>
+        <link href="https://v.daum.net/v/20240317193006099"/>
+        <updated>2024-03-17T14:14:21.480Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[싼 미국 주식을 찾는다면? [MONEY톡]]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240317174658592"/>
         <updated>2024-03-17T12:29:21.059Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아버지가 사장인 직장인과 그냥 직장인의 차이]]></title>
-        <id>https://v.daum.net/v/20240317192702061</id>
-        <link href="https://v.daum.net/v/20240317192702061"/>
-        <updated>2024-03-17T12:29:21.061Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
