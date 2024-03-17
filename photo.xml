@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-03-17T17:16:30.841Z</updated>
+    <updated>2024-03-17T18:22:09.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내 마음이 보이니]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/GqYZsftsI8</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/GqYZsftsI8"/>
+        <updated>2024-03-17T18:21:44.246Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고창담양고속도로서 4중 추돌…30대 엄마와 5살 아들 등 3명 숨져]]></title>
         <id>https://gallery.v.daum.net/p/viewer/386/UlK1WdBWuh</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1489/yS95fa41UW"/>
         <updated>2024-03-16T22:17:09.706Z</updated>
         <content type="html"><![CDATA[북한은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["남부럽지 않은 온실 창조"…국방보다 먼저였던 민생 챙기기[노동신문 사진]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5611950/t9usGbHEzH</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5611950/t9usGbHEzH"/>
-        <updated>2024-03-16T21:15:51.732Z</updated>
-        <content type="html"><![CDATA[노동신문 사진]]></content>
     </entry>
 </feed>

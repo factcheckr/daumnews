@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-03-17T17:16:30.844Z</updated>
+    <updated>2024-03-17T18:22:09.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[꽃샘 추위에 전날보다 5~10도 ‘뚝’…“감기 조심하세요” [날씨]]]></title>
+        <id>https://v.daum.net/v/20240318030118993</id>
+        <link href="https://v.daum.net/v/20240318030118993"/>
+        <updated>2024-03-17T18:21:11.710Z</updated>
+        <content type="html"><![CDATA[경기일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갤러리에서 다시 새기는 역사 속 표정들]]></title>
         <id>https://v.daum.net/v/20240318000551504</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240317223002748"/>
         <updated>2024-03-17T14:14:48.503Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바흐 때 악기·주법으로 살아난 ‘마태 수난곡’]]></title>
-        <id>https://v.daum.net/v/20240317220438373</id>
-        <link href="https://v.daum.net/v/20240317220438373"/>
-        <updated>2024-03-17T13:19:51.381Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
