@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-17T12:30:43.837Z</updated>
+    <updated>2024-03-17T13:20:38.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1초면 얼굴로 결제 끝…간편한 '생체인증' 확산하려면]]></title>
+        <id>https://v.daum.net/v/20240317205713389</id>
+        <link href="https://v.daum.net/v/20240317205713389"/>
+        <updated>2024-03-17T13:20:03.005Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사람 잡는 ‘포트홀’ AI 로봇이 잡는다]]></title>
         <id>https://v.daum.net/v/20240317211856631</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240317190601805"/>
         <updated>2024-03-17T10:17:16.002Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제약업계, ESG경영·M&A 겨냥… 사외이사가 바뀐다]]></title>
-        <id>https://v.daum.net/v/20240317160710640</id>
-        <link href="https://v.daum.net/v/20240317160710640"/>
-        <updated>2024-03-17T10:17:16.002Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
