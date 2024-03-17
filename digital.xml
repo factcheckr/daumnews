@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-17T19:15:30.897Z</updated>
+    <updated>2024-03-17T20:19:39.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메타버스, AI로 급부상…연평균 36%성장, 세계최초 법 8월 시행]]></title>
+        <id>https://v.daum.net/v/20240318051113794</id>
+        <link href="https://v.daum.net/v/20240318051113794"/>
+        <updated>2024-03-17T20:19:04.483Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비트코인 다음 대박은 이것? ‘코인 개미’ 5월 노리는 이유]]></title>
+        <id>https://v.daum.net/v/20240318050052629</id>
+        <link href="https://v.daum.net/v/20240318050052629"/>
+        <updated>2024-03-17T20:19:04.485Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IT 부품·원자재 최고 30% 뛰었다… 전자업계 ‘한숨’]]></title>
         <id>https://v.daum.net/v/20240318040854370</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240318021501942"/>
         <updated>2024-03-17T18:21:28.772Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['AGI 시대' 주도할 올트먼 …"삼성·SK와 AI칩 만들고싶다"]]></title>
-        <id>https://v.daum.net/v/20240317230303024</id>
-        <link href="https://v.daum.net/v/20240317230303024"/>
-        <updated>2024-03-17T14:15:05.586Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올트먼 “진심으로 AGI 만들고 싶다, 할 수 있는 모든 일 할 것”]]></title>
-        <id>https://v.daum.net/v/20240317230014994</id>
-        <link href="https://v.daum.net/v/20240317230014994"/>
-        <updated>2024-03-17T14:15:05.587Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
