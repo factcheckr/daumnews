@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-03-18T20:19:57.835Z</updated>
+    <updated>2024-03-18T21:23:40.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[365일 허공에 외치다[렌즈로 본 세상]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/8034/KKl86ftsyN</id>
+        <link href="https://gallery.v.daum.net/p/viewer/8034/KKl86ftsyN"/>
+        <updated>2024-03-18T21:23:14.206Z</updated>
+        <content type="html"><![CDATA[렌즈로 본 세상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전공의 6415명 사직 한 달…"신분 유지" vs "자유의 몸"]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5932052/6d8IZGDxqA</id>
         <link href="https://gallery.v.daum.net/p/viewer/5932052/6d8IZGDxqA"/>
         <updated>2024-03-18T20:19:33.045Z</updated>
         <content type="html"><![CDATA[의대 정원 확대]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5선 푸틴 "더 강한 러시아"… 멀어지는 우크라의 봄]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/0lBIexuSGo</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/0lBIexuSGo"/>
+        <updated>2024-03-18T21:23:14.208Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[그리운 푸바오]]></title>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5610796/XFWP55sd0q"/>
         <updated>2024-03-18T08:22:37.703Z</updated>
         <content type="html"><![CDATA[모멘트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광주시 겨울철 재난기간 종료…"인명·시설 피해 없어"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5917011/2aENSSNfpj</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5917011/2aENSSNfpj"/>
-        <updated>2024-03-18T08:22:37.706Z</updated>
-        <content type="html"><![CDATA[전국 폭설]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라 폭격에 초토화된 벨고로드]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/6637/GcwDVV1m3E</id>
-        <link href="https://gallery.v.daum.net/p/viewer/6637/GcwDVV1m3E"/>
-        <updated>2024-03-18T08:22:37.713Z</updated>
-        <content type="html"><![CDATA[러시아는 지금]]></content>
     </entry>
 </feed>
