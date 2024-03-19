@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-03-19T15:20:41.659Z</updated>
+    <updated>2024-03-19T16:23:40.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://v.daum.net/v/20240320001144896"/>
         <updated>2024-03-19T15:19:30.097Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비트코인, 하루 만에 8% 급락…장기보유자 이익실현 영향]]></title>
+        <id>https://v.daum.net/v/20240319223302092</id>
+        <link href="https://v.daum.net/v/20240319223302092"/>
+        <updated>2024-03-19T16:22:30.815Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1200조원 엔캐리 자금 어디로 가나…엔화값 오르면 글로벌 시장 지각변동]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240319212034351"/>
         <updated>2024-03-19T15:19:30.104Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OCI 통합이냐 저지냐 … 한미약품 ‘母子전쟁’]]></title>
-        <id>https://v.daum.net/v/20240319211517256</id>
-        <link href="https://v.daum.net/v/20240319211517256"/>
-        <updated>2024-03-19T13:18:49.020Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
