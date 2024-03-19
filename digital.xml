@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-19T17:17:50.082Z</updated>
+    <updated>2024-03-19T18:23:02.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔비디아 ‘괴물 AI칩’ 보러 1만여명 몰려… 젠슨 황 “AI發 새로운 산업혁명 시작”]]></title>
+        <id>https://v.daum.net/v/20240320030141290</id>
+        <link href="https://v.daum.net/v/20240320030141290"/>
+        <updated>2024-03-19T18:22:22.252Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“인간아, 너 떨고 있니?”…30배 강력해진 ‘엄청난 놈’ 온다]]></title>
         <id>https://v.daum.net/v/20240319233600507</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240319220127794"/>
         <updated>2024-03-19T13:19:25.985Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“싸다고 해서 덥썩 19만원에 샀다” “난 20만원이다” 성토장된 ‘국민 포털’]]></title>
-        <id>https://v.daum.net/v/20240319205419944</id>
-        <link href="https://v.daum.net/v/20240319205419944"/>
-        <updated>2024-03-19T12:32:21.176Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>

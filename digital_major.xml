@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-03-19T17:17:50.066Z</updated>
+    <updated>2024-03-19T18:23:02.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240320001059878"/>
         <updated>2024-03-19T15:20:14.532Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“싸다고 해서 덥썩 19만원에 샀다” “난 20만원이다” 성토장된 ‘국민 포털’]]></title>
+        <id>https://v.daum.net/v/20240319205419944</id>
+        <link href="https://v.daum.net/v/20240319205419944"/>
+        <updated>2024-03-19T18:22:30.420Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스줌인] 최신 보급형폰, 6년 전 고급형폰, 뭐가 더 좋을까?]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240319180108929"/>
         <updated>2024-03-19T11:16:06.938Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[녹화방송인데 주문폭주?…방심위, 신세계라이브쇼핑 제재수위 고민]]></title>
-        <id>https://v.daum.net/v/20240319175258627</id>
-        <link href="https://v.daum.net/v/20240319175258627"/>
-        <updated>2024-03-19T10:18:55.873Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
