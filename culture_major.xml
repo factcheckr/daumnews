@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-03-19T18:23:02.079Z</updated>
+    <updated>2024-03-19T19:16:35.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘ 동서남북’ 각지에 새긴 조각가의 꿈]]></title>
+        <id>https://v.daum.net/v/20240320000623807</id>
+        <link href="https://v.daum.net/v/20240320000623807"/>
+        <updated>2024-03-19T19:15:44.067Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘츄니’·‘토니’·‘퍼니’]]></title>
         <id>https://v.daum.net/v/20240320000621806</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240319203014441"/>
         <updated>2024-03-19T13:19:18.727Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퇴근 후 술 한잔이 노화 앞당긴다…술이 노화에 끼치는 영향은]]></title>
-        <id>https://v.daum.net/v/20240319200117586</id>
-        <link href="https://v.daum.net/v/20240319200117586"/>
-        <updated>2024-03-19T13:19:18.728Z</updated>
-        <content type="html"><![CDATA[하이닥]]></content>
     </entry>
 </feed>
