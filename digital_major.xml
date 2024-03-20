@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-03-20T12:31:27.591Z</updated>
+    <updated>2024-03-20T13:23:24.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美·日 민간 주도 우주탐사 활발… 선두는 머스크]]></title>
+        <id>https://v.daum.net/v/20240320185902245</id>
+        <link href="https://v.daum.net/v/20240320185902245"/>
+        <updated>2024-03-20T13:22:51.287Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷마블 방준혁 의장, '연봉 동결'…지난해 14억원 수령]]></title>
         <id>https://v.daum.net/v/20240320183317687</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240320174508893"/>
         <updated>2024-03-20T09:19:44.267Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 BOE, 8.6세대 OLED 증착기 선익시스템 낙점…토키 독점 구도 깨졌다]]></title>
-        <id>https://v.daum.net/v/20240320144207333</id>
-        <link href="https://v.daum.net/v/20240320144207333"/>
-        <updated>2024-03-20T09:19:44.271Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
