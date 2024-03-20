@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-03-20T13:23:24.740Z</updated>
+    <updated>2024-03-20T14:17:50.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KBS "LG家 장녀 구연경 대표, 미공개정보 이용 주식 취득 의혹"]]></title>
+        <id>https://v.daum.net/v/20240320230631464</id>
+        <link href="https://v.daum.net/v/20240320230631464"/>
+        <updated>2024-03-20T14:16:15.839Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘이노베이션 럿’에 빠진 애플, AI 시대에 어쩌다… [경영전략노트]]]></title>
         <id>https://v.daum.net/v/20240320220301336</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240320211724599"/>
         <updated>2024-03-20T12:30:10.345Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빨리 피는 과수 꽃…"생산량 우려" 냉해 피해 줄이려면]]></title>
-        <id>https://v.daum.net/v/20240320211207475</id>
-        <link href="https://v.daum.net/v/20240320211207475"/>
-        <updated>2024-03-20T12:30:10.347Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
