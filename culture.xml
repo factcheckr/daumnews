@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-03-20T10:19:00.702Z</updated>
+    <updated>2024-03-20T11:16:29.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 속 자애로운 마리 앙투아네트·소박한 루이 16세···역사가들의 평가는?]]></title>
+        <id>https://v.daum.net/v/20240320195402689</id>
+        <link href="https://v.daum.net/v/20240320195402689"/>
+        <updated>2024-03-20T11:15:30.097Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[통영에서, 예당에서, 고택에서 "라라라~" 봄바람 타고 오는 봄 클래식 축제]]></title>
         <id>https://v.daum.net/v/20240320190046296</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240320174448864"/>
         <updated>2024-03-20T09:19:18.078Z</updated>
         <content type="html"><![CDATA[농민신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알리에선 ‘햇반’ 검색하면 즉석밥이 안나온다]]></title>
-        <id>https://v.daum.net/v/20240320174449865</id>
-        <link href="https://v.daum.net/v/20240320174449865"/>
-        <updated>2024-03-20T09:19:18.079Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
