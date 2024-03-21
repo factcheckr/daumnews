@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-21T19:17:12.200Z</updated>
+    <updated>2024-03-21T20:22:57.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독점의 아이콘 '애플'…미국마저 등 돌린 5가지 이유]]></title>
+        <id>https://v.daum.net/v/20240322030534285</id>
+        <link href="https://v.daum.net/v/20240322030534285"/>
+        <updated>2024-03-21T20:22:10.415Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전신 마비 환자, 생각만으로 체스 뒀다]]></title>
         <id>https://v.daum.net/v/20240322030238154</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240322000043093"/>
         <updated>2024-03-21T19:16:32.180Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이론으로만 알던 '소금이 물에 녹는 순간' 관찰했다]]></title>
-        <id>https://v.daum.net/v/20240321173612028</id>
-        <link href="https://v.daum.net/v/20240321173612028"/>
-        <updated>2024-03-21T19:16:32.181Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
