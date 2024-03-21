@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-21T12:31:22.184Z</updated>
+    <updated>2024-03-21T13:22:43.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차세대 'CXL' 힘주는 삼성전자…엔비디아 GTC서 기술 뽐내]]></title>
+        <id>https://v.daum.net/v/20240321215425245</id>
+        <link href="https://v.daum.net/v/20240321215425245"/>
+        <updated>2024-03-21T13:21:58.460Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저탄고지 식단, 초기 기억력 감퇴에 좋아]]></title>
         <id>https://v.daum.net/v/20240321170601920</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240321194503375"/>
         <updated>2024-03-21T11:15:56.694Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 천체사진] 봄을 알리는 ‘사자 삼총사’]]></title>
-        <id>https://v.daum.net/v/20240321181046073</id>
-        <link href="https://v.daum.net/v/20240321181046073"/>
-        <updated>2024-03-21T11:15:56.696Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
