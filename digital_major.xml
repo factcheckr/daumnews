@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-03-21T16:31:58.328Z</updated>
+    <updated>2024-03-21T17:19:14.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[저탄고지 식단, 초기 기억력 감퇴에 좋아]]></title>
+        <id>https://v.daum.net/v/20240321170601920</id>
+        <link href="https://v.daum.net/v/20240321170601920"/>
+        <updated>2024-03-21T17:18:36.220Z</updated>
+        <content type="html"><![CDATA[키즈맘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방통위, 연내 AI서비스 이용자보호 강화법 제정…"위험성 평가"]]></title>
         <id>https://v.daum.net/v/20240321203534736</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240321181531205"/>
         <updated>2024-03-21T11:16:04.570Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조립컴 견적 짤 때 필수! '호환성 체크' 어떻게 할까 [우당탕 컴조립]]]></title>
-        <id>https://v.daum.net/v/20240321180103827</id>
-        <link href="https://v.daum.net/v/20240321180103827"/>
-        <updated>2024-03-21T11:16:04.570Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>

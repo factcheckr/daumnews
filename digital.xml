@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-21T16:31:58.323Z</updated>
+    <updated>2024-03-21T17:19:14.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["EU, 애플·구글 '디지털시장법 위반' 조사 예정"]]></title>
+        <id>https://v.daum.net/v/20240322015013923</id>
+        <link href="https://v.daum.net/v/20240322015013923"/>
+        <updated>2024-03-21T17:18:26.091Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투자자·금융 당국 반발에도 'GO'…카카오, 인적 쇄신 진정성 '물음표']]></title>
         <id>https://v.daum.net/v/20240322000152119</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240321215425245"/>
         <updated>2024-03-21T13:21:58.460Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저탄고지 식단, 초기 기억력 감퇴에 좋아]]></title>
-        <id>https://v.daum.net/v/20240321170601920</id>
-        <link href="https://v.daum.net/v/20240321170601920"/>
-        <updated>2024-03-21T12:30:48.632Z</updated>
-        <content type="html"><![CDATA[키즈맘]]></content>
     </entry>
 </feed>
