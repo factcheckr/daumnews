@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-03-23T11:14:40.727Z</updated>
+    <updated>2024-03-23T12:32:46.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노화 촉진하는 임신…출산하면 회춘할까?]]></title>
+        <id>https://v.daum.net/v/20240323162837207</id>
+        <link href="https://v.daum.net/v/20240323162837207"/>
+        <updated>2024-03-23T12:32:11.585Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["얼마나 다급하면"…AI 경쟁 뒤처진 애플, 구글 이어 中 바이두에 SOS]]></title>
         <id>https://v.daum.net/v/20240323153924311</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240323100503205"/>
         <updated>2024-03-23T04:23:49.423Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장 오가노이드 연구로 장 건강의 비밀을]]></title>
-        <id>https://v.daum.net/v/20240323100509207</id>
-        <link href="https://v.daum.net/v/20240323100509207"/>
-        <updated>2024-03-23T02:25:10.235Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
