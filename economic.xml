@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-03-23T06:27:09.879Z</updated>
+    <updated>2024-03-23T07:19:57.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재용도 반한 '회장님 차'…벤츠 S클래스 마저 제쳤다]]></title>
+        <id>https://v.daum.net/v/20240323154501441</id>
+        <link href="https://v.daum.net/v/20240323154501441"/>
+        <updated>2024-03-23T07:18:11.613Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“배럴당 90달러 갈 수도” … 중동 리스크에 국제유가 더 오르나]]></title>
         <id>https://v.daum.net/v/20240323150202724</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240323140530605"/>
         <updated>2024-03-23T05:22:32.141Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["작년 연말에 집 사자고 그랬지"...바닥 또 놓쳤나, 2월 지수보니 [부동산 아토즈]]]></title>
-        <id>https://v.daum.net/v/20240323140008545</id>
-        <link href="https://v.daum.net/v/20240323140008545"/>
-        <updated>2024-03-23T05:22:32.147Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>

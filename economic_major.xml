@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-03-23T06:27:09.899Z</updated>
+    <updated>2024-03-23T07:19:57.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["작년 연말에 집 사자고 그랬지"...바닥 또 놓쳤나, 2월 지수보니 [부동산 아토즈]]]></title>
+        <id>https://v.daum.net/v/20240323140008545</id>
+        <link href="https://v.daum.net/v/20240323140008545"/>
+        <updated>2024-03-23T07:18:20.275Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[16주 만에 멈춘 서울 아파트값 하락…여기가 바닥?]]></title>
         <id>https://v.daum.net/v/20240323121104561</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240323110115803"/>
         <updated>2024-03-23T03:20:55.542Z</updated>
         <content type="html"><![CDATA[경기일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[롯데마트 황도 캔 세균 검출, 다이소 컵 총용출량 부적합…판매중단·회수]]></title>
-        <id>https://v.daum.net/v/20240323104147598</id>
-        <link href="https://v.daum.net/v/20240323104147598"/>
-        <updated>2024-03-23T03:20:55.543Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
