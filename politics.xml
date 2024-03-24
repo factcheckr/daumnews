@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2024-03-24T13:19:58.641Z</updated>
+    <updated>2024-03-24T14:16:09.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명, 1인당 25만원 지급 제안하며 "무식한 양반들아" 발언 논란]]></title>
+        <id>https://v.daum.net/v/20240324230050867</id>
+        <link href="https://v.daum.net/v/20240324230050867"/>
+        <updated>2024-03-24T14:14:41.835Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[민생경제·인구소멸 대책은?] 문대림 '소상공인 지원' 고광철 '국책사업 유치']]></title>
         <id>https://v.daum.net/v/20240324220709580</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240324195232265"/>
         <updated>2024-03-24T13:18:11.996Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[총선/공약 맞수K] 부산 중·영도 ‘교통 확충·관광 육성’ 방안은?]]></title>
-        <id>https://v.daum.net/v/20240324214144362</id>
-        <link href="https://v.daum.net/v/20240324214144362"/>
-        <updated>2024-03-24T13:18:11.997Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
