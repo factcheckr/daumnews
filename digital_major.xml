@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-03-24T04:23:49.471Z</updated>
+    <updated>2024-03-24T05:21:14.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인스타그램에서 정치 콘텐츠 보고 싶으면 설정 변경해야]]></title>
+        <id>https://v.daum.net/v/20240324102218546</id>
+        <link href="https://v.daum.net/v/20240324102218546"/>
+        <updated>2024-03-24T05:20:39.766Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플, 中 판매 아이폰에 바이두 AI '어니봇' 탑재 검토]]></title>
         <id>https://v.daum.net/v/20240324102006531</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240324080024797"/>
         <updated>2024-03-24T01:20:16.802Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과학자들 "생성AI 인종·성차별 문제 개선 위해 AI시스템 공개해야"]]></title>
-        <id>https://v.daum.net/v/20240324080013771</id>
-        <link href="https://v.daum.net/v/20240324080013771"/>
-        <updated>2024-03-23T23:17:00.164Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
