@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-03-24T15:17:20.524Z</updated>
+    <updated>2024-03-24T16:23:12.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[난소의 기능은 오직 번식뿐?…놓쳤던 '항노화 단서' 찾는다]]></title>
+        <id>https://v.daum.net/v/20240324182904475</id>
+        <link href="https://v.daum.net/v/20240324182904475"/>
+        <updated>2024-03-24T16:22:43.143Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이러다 인류에 재앙 찾아올 것"…노화 연구자의 '경고']]></title>
         <id>https://v.daum.net/v/20240324183101505</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240324151247615"/>
         <updated>2024-03-24T08:20:56.639Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성, 보급형 폴더블폰 가을 출시 전망… 100만원대 예상]]></title>
-        <id>https://v.daum.net/v/20240324135539105</id>
-        <link href="https://v.daum.net/v/20240324135539105"/>
-        <updated>2024-03-24T08:20:56.642Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>

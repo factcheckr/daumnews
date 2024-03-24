@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-03-24T15:17:20.494Z</updated>
+    <updated>2024-03-24T16:23:12.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“싸니까, 재밌으니까” 10대·60대 C커머스로 발 돌렸다]]></title>
+        <id>https://v.daum.net/v/20240325001156324</id>
+        <link href="https://v.daum.net/v/20240325001156324"/>
+        <updated>2024-03-24T16:21:46.823Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[격동의 황제주⑪] 삼성전자, 스스로 반납한 타이틀…응답 없는 '국민주']]></title>
         <id>https://v.daum.net/v/20240325000218159</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240324221054603"/>
         <updated>2024-03-24T13:18:28.131Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘마이더스 손’에서 ‘마이너스 손’ 추락한 머스크]]></title>
-        <id>https://v.daum.net/v/20240324214506415</id>
-        <link href="https://v.daum.net/v/20240324214506415"/>
-        <updated>2024-03-24T13:18:28.131Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
 </feed>
