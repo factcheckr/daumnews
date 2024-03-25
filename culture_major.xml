@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-03-25T12:31:51.596Z</updated>
+    <updated>2024-03-25T13:20:42.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 출근길 우산 챙기세요…강원산지 오전까지 많은 눈]]></title>
+        <id>https://v.daum.net/v/20240325210025866</id>
+        <link href="https://v.daum.net/v/20240325210025866"/>
+        <updated>2024-03-25T13:20:02.553Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노란 봄빛에 흠뻑 물든 산골마을..활짝 핀 3천 그루 산수유꽃 장관]]></title>
         <id>https://v.daum.net/v/20240325205819823</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240325182701333"/>
         <updated>2024-03-25T11:19:14.233Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[80년 만에 돌아온 ‘백제의 미소’, 딱 40일 뒤 일본 가는 ‘석가탄생도’]]></title>
-        <id>https://v.daum.net/v/20240325182358265</id>
-        <link href="https://v.daum.net/v/20240325182358265"/>
-        <updated>2024-03-25T11:19:14.237Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
