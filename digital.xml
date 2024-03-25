@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-25T19:20:12.976Z</updated>
+    <updated>2024-03-25T20:19:28.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[애플 팀 쿡 CEO "비전 프로 연내 中에 출시 예정"]]></title>
-        <id>https://v.daum.net/v/20240326035634669</id>
-        <link href="https://v.daum.net/v/20240326035634669"/>
-        <updated>2024-03-25T19:19:29.893Z</updated>
+        <title type="html"><![CDATA["사고확률 10억년 1번"…빌 게이츠가 동네 원전 꽂힌 이유]]></title>
+        <id>https://v.daum.net/v/20240326050045109</id>
+        <link href="https://v.daum.net/v/20240326050045109"/>
+        <updated>2024-03-25T20:18:53.535Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사이테크+] "인간발 바이러스 동물 감염, 동물발 인간 감염의 2배"]]></title>
+        <id>https://v.daum.net/v/20240326050018053</id>
+        <link href="https://v.daum.net/v/20240326050018053"/>
+        <updated>2024-03-25T20:18:53.537Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['쿠다'가 뭐길래…구글·인텔·퀄컴 뭉쳐 '킹비디아'에 맞선다]]></title>
+        <id>https://v.daum.net/v/20240326043301856</id>
+        <link href="https://v.daum.net/v/20240326043301856"/>
+        <updated>2024-03-25T20:18:53.538Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[AI와 일자리] 블루칼라 안전지대 아냐...휴머노이드 비약적 발전]]></title>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240326030354440"/>
         <updated>2024-03-25T18:22:59.045Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지구서 '활활' 무덤에 '툭'…"1만 톤 우주 쓰레기 없앤다"]]></title>
-        <id>https://v.daum.net/v/20240325205407760</id>
-        <link href="https://v.daum.net/v/20240325205407760"/>
-        <updated>2024-03-25T15:19:58.516Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빅테크 갑질' 칼빼든 EU 구글·애플·메타 첫 조사]]></title>
-        <id>https://v.daum.net/v/20240325231500268</id>
-        <link href="https://v.daum.net/v/20240325231500268"/>
-        <updated>2024-03-25T14:17:08.298Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
