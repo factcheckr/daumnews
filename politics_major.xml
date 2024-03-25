@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-03-25T16:23:18.335Z</updated>
+    <updated>2024-03-25T17:17:43.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240326001042829"/>
         <updated>2024-03-25T15:18:59.043Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[춘천 갑·원주 갑 초접전…영동 국민의힘 우위]]></title>
+        <id>https://v.daum.net/v/20240326000634792</id>
+        <link href="https://v.daum.net/v/20240326000634792"/>
+        <updated>2024-03-25T17:15:59.989Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[선관위 홈피·마스코트, K리그 유니폼까지… 까칠한 장외 ‘색깔전쟁’]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240325220812826"/>
         <updated>2024-03-25T15:18:59.058Z</updated>
         <content type="html"><![CDATA[대전일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조국혁신당, 고발 이어 '국정조사' 카드…제3지대 잰걸음]]></title>
-        <id>https://v.daum.net/v/20240325205937841</id>
-        <link href="https://v.daum.net/v/20240325205937841"/>
-        <updated>2024-03-25T15:18:59.058Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
