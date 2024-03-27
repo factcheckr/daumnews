@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-03-27T12:33:00.516Z</updated>
+    <updated>2024-03-27T13:20:23.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[YTN·연합뉴스TV·채널A, 4년간 재승인...'사적 이용 금지' 주문받아]]></title>
+        <id>https://v.daum.net/v/20240327183614744</id>
+        <link href="https://v.daum.net/v/20240327183614744"/>
+        <updated>2024-03-27T13:19:56.711Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中폴드 더 얇고 가볍다… 폴더블 선두 ‘삼성’ 위협]]></title>
         <id>https://v.daum.net/v/20240327182017221</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240327171137594"/>
         <updated>2024-03-27T10:19:46.760Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애벌레도 60초면 출혈 멈춰…"지혈 약물 개발에 활용"]]></title>
-        <id>https://v.daum.net/v/20240327170812471</id>
-        <link href="https://v.daum.net/v/20240327170812471"/>
-        <updated>2024-03-27T09:19:08.918Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
