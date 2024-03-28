@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-03-28T16:24:22.259Z</updated>
+    <updated>2024-03-28T18:23:05.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사면초가 애플… 국내서도 시민단체가 신고]]></title>
+        <id>https://v.daum.net/v/20240329030311648</id>
+        <link href="https://v.daum.net/v/20240329030311648"/>
+        <updated>2024-03-28T18:22:31.877Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성전자 반도체 3위로 하락…인텔·엔비디아에 자리내줘]]></title>
         <id>https://v.daum.net/v/20240328200415350</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240328182424145"/>
         <updated>2024-03-28T11:16:13.357Z</updated>
         <content type="html"><![CDATA[기자협회보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[르포]'쇄신'도 '새 얼굴'도 없었던 카카오 주총]]></title>
-        <id>https://v.daum.net/v/20240328181703935</id>
-        <link href="https://v.daum.net/v/20240328181703935"/>
-        <updated>2024-03-28T11:16:13.359Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>

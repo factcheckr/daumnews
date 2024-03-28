@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-03-28T16:24:22.256Z</updated>
+    <updated>2024-03-28T18:23:05.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[혈액 속 황금비율 되찾으니… 나이 든 면역체계 젊어졌다]]></title>
+        <id>https://v.daum.net/v/20240329030119542</id>
+        <link href="https://v.daum.net/v/20240329030119542"/>
+        <updated>2024-03-28T18:22:22.896Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["초미세플라스틱 섞인 모유, 아이 비만 유발"…연구 결과 보니]]></title>
         <id>https://v.daum.net/v/20240328205113366</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240328220009633"/>
         <updated>2024-03-28T13:19:54.224Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 학습시키고 주민-여권번호 제거 안해…정부 “개인정보 보호 취약점 보완하라”]]></title>
-        <id>https://v.daum.net/v/20240328214330302</id>
-        <link href="https://v.daum.net/v/20240328214330302"/>
-        <updated>2024-03-28T13:19:54.225Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
