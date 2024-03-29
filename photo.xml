@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-03-29T16:23:15.655Z</updated>
+    <updated>2024-03-29T20:20:37.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여러분의 한 문장은?]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/zYrd51Gkn0</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/zYrd51Gkn0"/>
+        <updated>2024-03-29T20:20:09.233Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[토요일 아침, 서울에서 가장 바쁜 곳]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1573204/YbAk862X7Q</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1573204/YbAk862X7Q"/>
+        <updated>2024-03-29T20:20:09.236Z</updated>
+        <content type="html"><![CDATA[[아무튼, 주말] 오종찬 기자의 Oh!컷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로저 마샬 상원의원과 악수하는 윤석열 대통령]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1682593/3IPmmwA8zT</id>
         <link href="https://gallery.v.daum.net/p/viewer/1682593/3IPmmwA8zT"/>
         <updated>2024-03-29T16:22:52.838Z</updated>
         <content type="html"><![CDATA[대한민국 대통령실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새 주인 찾아요]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/2Qx1hIwMwE</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/2Qx1hIwMwE"/>
+        <updated>2024-03-29T20:20:09.238Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['용기상' 부상 전달받는 기시다 후미오 일본 총리]]></title>
@@ -123,26 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5620091/8M0RvbuS0N"/>
         <updated>2024-03-29T08:22:12.405Z</updated>
         <content type="html"><![CDATA[쿠키포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전남농협 "농기계 점검 미리 받으세요"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5612596/FwuqoyhL9H</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5612596/FwuqoyhL9H"/>
-        <updated>2024-03-29T07:17:50.398Z</updated>
-        <content type="html"><![CDATA[머니S포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양산 사전투표소에서 발견된 '불법 카메라']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1075022/9KSw3R6F0M</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1075022/9KSw3R6F0M"/>
-        <updated>2024-03-29T07:17:50.400Z</updated>
-        <content type="html"><![CDATA[경찰 제공 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선거기간 법원 출석한 이재명 "정치 검찰이 노린 결과"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5615616/QiV1AXyjU7</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5615616/QiV1AXyjU7"/>
-        <updated>2024-03-29T06:22:59.341Z</updated>
-        <content type="html"><![CDATA[뉴스1 PICK]]></content>
     </entry>
 </feed>
