@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-03-30T10:18:59.585Z</updated>
+    <updated>2024-03-30T11:16:37.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수원시립미술관, 만지며 즐기는 ‘쿵짝공원 속 친친’ 展 [전시리뷰]]]></title>
+        <id>https://v.daum.net/v/20240330170130908</id>
+        <link href="https://v.daum.net/v/20240330170130908"/>
+        <updated>2024-03-30T11:15:48.586Z</updated>
+        <content type="html"><![CDATA[경기일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소리 없이 밀려나는 잉글랜드 축구의 주역들]]></title>
         <id>https://v.daum.net/v/20240330180723732</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“개성일 뿐, 품평 말라”… 문신족, ‘타투 지우라’ 조언에 격분]]></title>
+        <title type="html"><![CDATA[“품평 말세요”… 문신족, ‘타투 지우라’ 조언에 격분]]></title>
         <id>https://v.daum.net/v/20240330162324468</id>
         <link href="https://v.daum.net/v/20240330162324468"/>
         <updated>2024-03-30T10:18:11.827Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240330151030747"/>
         <updated>2024-03-30T09:16:05.156Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["덕분에" 덕분에... 별 말 아닌데 상황을 바꾸는 단어]]></title>
-        <id>https://v.daum.net/v/20240330160002231</id>
-        <link href="https://v.daum.net/v/20240330160002231"/>
-        <updated>2024-03-30T08:23:55.208Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
