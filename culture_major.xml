@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-03-30T15:19:37.285Z</updated>
+    <updated>2024-03-30T16:22:34.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[달걀 알레르기 어린이, ‘스크램블’보다 ‘오래 구운란’이 안전]]></title>
+        <id>https://v.daum.net/v/20240330215302755</id>
+        <link href="https://v.daum.net/v/20240330215302755"/>
+        <updated>2024-03-30T16:21:42.064Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쉬지 않고 코카인 흡입하며 서울을 거니는 남자…대한민국의 ‘하이라이프’]]></title>
         <id>https://v.daum.net/v/20240330120003074</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240330190001284"/>
         <updated>2024-03-30T12:29:02.699Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["부활 축복 온 국민에 넘치길"…서울 도심서 대규모 퍼레이드]]></title>
-        <id>https://v.daum.net/v/20240330190009288</id>
-        <link href="https://v.daum.net/v/20240330190009288"/>
-        <updated>2024-03-30T12:29:02.699Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
