@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-03-31T01:20:39.862Z</updated>
+    <updated>2024-03-31T02:28:39.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데미스 하사비스 구글 딥마인드 CEO, 英 기사 작위 획득]]></title>
+        <id>https://v.daum.net/v/20240331084306952</id>
+        <link href="https://v.daum.net/v/20240331084306952"/>
+        <updated>2024-03-31T02:28:07.986Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온난화에 느려진 지구 자전…역사상 첫 마이너스 윤초 3년 뒤로]]></title>
+        <id>https://v.daum.net/v/20240331083003833</id>
+        <link href="https://v.daum.net/v/20240331083003833"/>
+        <updated>2024-03-31T02:28:07.987Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“주가 부양 쉽지 않네”… 주주 눈치 보는 IT경영진들[사이다IT]]]></title>
         <id>https://v.daum.net/v/20240331080112543</id>
@@ -25,13 +39,6 @@
         <link href="https://v.daum.net/v/20240331080038513"/>
         <updated>2024-03-31T01:20:05.455Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBO 효과로 1분기 티빙 이용자 급증…넷플릭스와 격차 줄였다]]></title>
-        <id>https://v.daum.net/v/20240331080036512</id>
-        <link href="https://v.daum.net/v/20240331080036512"/>
-        <updated>2024-03-31T01:20:05.459Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사람에 돼지 장기 이식 잇따라…국내 핵심기업은 존속 위기]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240331060139358"/>
         <updated>2024-03-30T23:17:14.515Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지원금 33만원 뿌려도 "번호이동 안 해요"…왜?]]></title>
-        <id>https://v.daum.net/v/20240331060102334</id>
-        <link href="https://v.daum.net/v/20240331060102334"/>
-        <updated>2024-03-30T23:17:14.515Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
