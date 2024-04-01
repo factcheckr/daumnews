@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-04-01T04:22:32.518Z</updated>
+    <updated>2024-04-01T05:23:01.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[옛 인제군농업기술센터, 숲과 쉼이 있는 공원으로 '탈바꿈']]></title>
+        <id>https://v.daum.net/v/20240401112027585</id>
+        <link href="https://v.daum.net/v/20240401112027585"/>
+        <updated>2024-04-01T05:22:22.553Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[운동은 사실 '소화'에 도움이 되지 않는다? [뽀얀거탑 의료상담]]]></title>
         <id>https://v.daum.net/v/20240401111832484</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240401094659950"/>
         <updated>2024-04-01T02:32:34.381Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“차별과 고립이 건강에 어떻게 작용하는지 데이터화할 것”]]></title>
-        <id>https://v.daum.net/v/20240401060405108</id>
-        <link href="https://v.daum.net/v/20240401060405108"/>
-        <updated>2024-04-01T02:32:34.383Z</updated>
-        <content type="html"><![CDATA[주간경향]]></content>
     </entry>
 </feed>
