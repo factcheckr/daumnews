@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-04-02T10:20:36.225Z</updated>
+    <updated>2024-04-02T11:16:54.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파우스트' 넘어 인간 괴테···그 위대한 정신에 빠지다]]></title>
+        <id>https://v.daum.net/v/20240402175156759</id>
+        <link href="https://v.daum.net/v/20240402175156759"/>
+        <updated>2024-04-02T11:16:02.809Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시판 후 조사서 불순물 초과…대웅바이오·광동제약 의약품 회수]]></title>
         <id>https://v.daum.net/v/20240402173305167</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240402144840153"/>
         <updated>2024-04-02T09:18:38.947Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잠 잘 자려면 고기보다는 ‘이것’ 통해 단백질 섭취해야]]></title>
-        <id>https://v.daum.net/v/20240402162120267</id>
-        <link href="https://v.daum.net/v/20240402162120267"/>
-        <updated>2024-04-02T09:18:38.948Z</updated>
-        <content type="html"><![CDATA[하이닥]]></content>
     </entry>
 </feed>

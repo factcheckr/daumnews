@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-04-02T10:20:36.222Z</updated>
+    <updated>2024-04-02T11:16:54.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["아들, 학교에서 엄마라 부르지 마"... 마음이 아픕니다]]></title>
+        <id>https://v.daum.net/v/20240402200603170</id>
+        <link href="https://v.daum.net/v/20240402200603170"/>
+        <updated>2024-04-02T11:15:54.923Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나를 건들지 마라…외국 작가들의 해방일지]]></title>
         <id>https://v.daum.net/v/20240402185403461</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240402181105379"/>
         <updated>2024-04-02T09:18:32.480Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파우스트' 넘어 인간 괴테···그 위대한 정신에 빠지다]]></title>
-        <id>https://v.daum.net/v/20240402175156759</id>
-        <link href="https://v.daum.net/v/20240402175156759"/>
-        <updated>2024-04-02T09:18:32.483Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
