@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-04-03T13:24:45.904Z</updated>
+    <updated>2024-04-03T14:17:44.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반팔 입을 때 거슬리는 닭살·뱀살, 여름 오기 전에 없애려면?]]></title>
+        <id>https://v.daum.net/v/20240403220015241</id>
+        <link href="https://v.daum.net/v/20240403220015241"/>
+        <updated>2024-04-03T14:16:45.999Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["난 원래 운이 없어"…스스로 자존감 깎아내리는 혼잣말 6]]></title>
         <id>https://v.daum.net/v/20240403183115488</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240403205709188"/>
         <updated>2024-04-03T12:31:36.307Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 내일, 전국에 흐린 하늘‥남부 안개·비]]></title>
-        <id>https://v.daum.net/v/20240403205520167</id>
-        <link href="https://v.daum.net/v/20240403205520167"/>
-        <updated>2024-04-03T12:31:36.312Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
