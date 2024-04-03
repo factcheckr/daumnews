@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-04-03T16:22:10.852Z</updated>
+    <updated>2024-04-03T17:20:12.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[설리번, 사우디행 연기…백악관 "갈비뼈에 금이 가서"]]></title>
+        <id>https://v.daum.net/v/20240404000805326</id>
+        <link href="https://v.daum.net/v/20240404000805326"/>
+        <updated>2024-04-03T17:19:06.269Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불법 이민 강공' 트럼프, "살인 피해자 가족과 얘기" 거짓 논란]]></title>
         <id>https://v.daum.net/v/20240404000237208</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240403223911627"/>
         <updated>2024-04-03T16:21:12.335Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美공화 "덜레스공항을 트럼프공항으로"…민주 "감옥에나 붙여라"]]></title>
-        <id>https://v.daum.net/v/20240403222834562</id>
-        <link href="https://v.daum.net/v/20240403222834562"/>
-        <updated>2024-04-03T16:21:12.336Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
