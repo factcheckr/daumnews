@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-04-05T19:16:52.267Z</updated>
+    <updated>2024-04-05T20:22:04.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[플리토 번역 써보니··· 'AI·집단지성·전문 번역가 선택지로 완성도 높여']]></title>
+        <id>https://v.daum.net/v/20240405193209668</id>
+        <link href="https://v.daum.net/v/20240405193209668"/>
+        <updated>2024-04-05T20:21:32.803Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버제트, 주 4회 출근제 한시 도입...재택근무 없앨까]]></title>
         <id>https://v.daum.net/v/20240405192114430</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240405174650282"/>
         <updated>2024-04-05T09:17:57.806Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비수도권 전공의 늘린다…의료계 "지역 인구 그대론데 걱정"]]></title>
-        <id>https://v.daum.net/v/20240405173013835</id>
-        <link href="https://v.daum.net/v/20240405173013835"/>
-        <updated>2024-04-05T09:17:57.807Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
