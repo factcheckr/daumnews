@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-04-05T07:17:56.466Z</updated>
+    <updated>2024-04-05T08:26:07.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[단독] 과기정통부, 항우연 노조 무더기 징계…우주청 이관 앞두고 ‘술렁’]]></title>
+        <title type="html"><![CDATA[보안 사각지대 '제로데이' 취약점 97개…전년比 50%↑]]></title>
+        <id>https://v.daum.net/v/20240405164943468</id>
+        <link href="https://v.daum.net/v/20240405164943468"/>
+        <updated>2024-04-05T08:25:29.955Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아파트 게시판, 닉네임에 동·호수 필수?…분쟁조정위 "하지 마"]]></title>
+        <id>https://v.daum.net/v/20240405161748477</id>
+        <link href="https://v.daum.net/v/20240405161748477"/>
+        <updated>2024-04-05T08:25:29.956Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 과기정통부, 항우연 노조 무더기 징계 요구…우주청 이관 앞두고 ‘술렁’]]></title>
         <id>https://v.daum.net/v/20240405161310301</id>
         <link href="https://v.daum.net/v/20240405161310301"/>
         <updated>2024-04-05T07:17:14.043Z</updated>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240405154310153"/>
         <updated>2024-04-05T07:17:14.046Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2030년 달에서 우주비행사가 타고 달릴 차량 만든다]]></title>
-        <id>https://v.daum.net/v/20240405153612837</id>
-        <link href="https://v.daum.net/v/20240405153612837"/>
-        <updated>2024-04-05T07:17:14.048Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인류 최대 로켓 '스타십' 4차 발사 준비 중 [우주로 간다]]]></title>
-        <id>https://v.daum.net/v/20240405152245285</id>
-        <link href="https://v.daum.net/v/20240405152245285"/>
-        <updated>2024-04-05T07:17:14.049Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
