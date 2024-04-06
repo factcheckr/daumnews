@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-04-06T03:20:38.005Z</updated>
+    <updated>2024-04-06T04:24:33.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["기존 의대에서 의과학자 키운다"는데…가르칠 교수가 없다]]></title>
+        <id>https://v.daum.net/v/20240406123002065</id>
+        <link href="https://v.daum.net/v/20240406123002065"/>
+        <updated>2024-04-06T04:23:50.127Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일자리 위협하는 AI, 대안 모색 나선 글로벌 빅테크]]></title>
         <id>https://v.daum.net/v/20240406120050725</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240406110003987"/>
         <updated>2024-04-06T02:23:20.020Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["갤럭시Z폴드6, 배터리 용량은 전작 그대로"]]></title>
-        <id>https://v.daum.net/v/20240406100025244</id>
-        <link href="https://v.daum.net/v/20240406100025244"/>
-        <updated>2024-04-06T02:23:20.021Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
