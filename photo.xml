@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-04-07T19:15:26.700Z</updated>
+    <updated>2024-04-07T20:18:37.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봄날의 연주[고양이 눈]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/Q61u8vwMOs</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/Q61u8vwMOs"/>
+        <updated>2024-04-07T20:18:15.847Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진관사 방문 뒤 인사하는 윤석열 대통령]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1682593/GRCicz5r7K</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1476/tOA3hkiB3G"/>
         <updated>2024-04-06T07:17:05.318Z</updated>
         <content type="html"><![CDATA[미국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구 동구 식품제조업체서 불…진화 중]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/386/GYhMjLP3Iy</id>
-        <link href="https://gallery.v.daum.net/p/viewer/386/GYhMjLP3Iy"/>
-        <updated>2024-04-06T06:22:51.615Z</updated>
-        <content type="html"><![CDATA[소방본부 제공 포토]]></content>
     </entry>
 </feed>
