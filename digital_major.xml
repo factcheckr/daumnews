@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-04-07T17:17:23.710Z</updated>
+    <updated>2024-04-07T18:22:25.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[당신이 왜 ‘몸치’인지 AI는 알고 있다[신경과학 저널클럽]]]></title>
+        <id>https://v.daum.net/v/20240407213233722</id>
+        <link href="https://v.daum.net/v/20240407213233722"/>
+        <updated>2024-04-07T18:21:58.158Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화성에서 찾아낸 ‘물에 잠겼던 암석’, 생명 흔적 품었나]]></title>
         <id>https://v.daum.net/v/20240407213227721</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240407175700522"/>
         <updated>2024-04-07T09:17:50.249Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“15층 아파트 절반 덮었다” 대단한 선거 현수막…최대 크기 누구? [지구, 뭐래?]]]></title>
-        <id>https://v.daum.net/v/20240407175132423</id>
-        <link href="https://v.daum.net/v/20240407175132423"/>
-        <updated>2024-04-07T13:25:44.420Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
