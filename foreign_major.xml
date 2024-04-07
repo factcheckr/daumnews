@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-04-07T10:18:19.009Z</updated>
+    <updated>2024-04-07T11:16:20.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘일본을 글로벌 리더로 세우라’는 美 보고서[윤홍우의 워싱턴 24시]]]></title>
+        <id>https://v.daum.net/v/20240407184237170</id>
+        <link href="https://v.daum.net/v/20240407184237170"/>
+        <updated>2024-04-07T11:15:15.372Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권도형, 美 궐석 민사재판서 패소…“투자자에게 테라 안정성 속여”]]></title>
         <id>https://v.daum.net/v/20240407171010467</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240407160926251"/>
         <updated>2024-04-07T09:17:14.556Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주민들 사라지기 시작하자…“안 자고 갈 거면 돈 내라”는 도시]]></title>
-        <id>https://v.daum.net/v/20240407165801205</id>
-        <link href="https://v.daum.net/v/20240407165801205"/>
-        <updated>2024-04-07T09:17:14.558Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
