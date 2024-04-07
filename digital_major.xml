@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-04-07T14:16:52.755Z</updated>
+    <updated>2024-04-07T15:19:28.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[온몸으로, 날아가오리다]]></title>
+        <id>https://v.daum.net/v/20240407213220720</id>
+        <link href="https://v.daum.net/v/20240407213220720"/>
+        <updated>2024-04-07T15:19:00.494Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로봇 개 풀어 새 쫓는다…미국서 나온 버드 스트라이크 새 해법]]></title>
         <id>https://v.daum.net/v/20240407213207718</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240407174507259"/>
         <updated>2024-04-07T10:17:44.778Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]'라인의 아버지' 스톡옵션 3천만주 포기...일본 압력 탓?]]></title>
-        <id>https://v.daum.net/v/20240407173002870</id>
-        <link href="https://v.daum.net/v/20240407173002870"/>
-        <updated>2024-04-07T10:17:44.784Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
