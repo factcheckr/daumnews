@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-04-09T18:21:20.179Z</updated>
+    <updated>2024-04-09T19:14:10.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20240410030032201"/>
         <updated>2024-04-09T18:20:45.667Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시아 앙가라-A5 로켓 발사 2분 전 취소…"내일 다시 쏜다"]]></title>
+        <id>https://v.daum.net/v/20240410000304637</id>
+        <link href="https://v.daum.net/v/20240410000304637"/>
+        <updated>2024-04-09T19:13:43.465Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['인적쇄신' 작업 반년차 접어든 카카오, '회전문 인사'는 여전]]></title>
+        <id>https://v.daum.net/v/20240410000111609</id>
+        <link href="https://v.daum.net/v/20240410000111609"/>
+        <updated>2024-04-09T19:13:43.467Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[손목닥터 또 '삐끗'…이용자 급증에 식단미션 오류]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240409201924425"/>
         <updated>2024-04-09T12:33:22.818Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“카톡 쓰세요? 아재네요”...‘숏폼’ 빠진 요즘 애들 바라만보는 ‘국민 메신저’]]></title>
-        <id>https://v.daum.net/v/20240409200000082</id>
-        <link href="https://v.daum.net/v/20240409200000082"/>
-        <updated>2024-04-09T12:33:22.820Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“연봉 1억원? 옛날만큼 못 줘요” 그래도 줄섰다…얼마나 좋길래]]></title>
-        <id>https://v.daum.net/v/20240409195138933</id>
-        <link href="https://v.daum.net/v/20240409195138933"/>
-        <updated>2024-04-09T12:33:22.822Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
