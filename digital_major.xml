@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-04-09T19:14:10.342Z</updated>
+    <updated>2024-04-09T20:18:57.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240410030032201"/>
         <updated>2024-04-09T18:20:45.667Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 서버용 중앙처리장치 공개…아마존·MS와 클라우드 경쟁(종합)]]></title>
+        <id>https://v.daum.net/v/20240410020926147</id>
+        <link href="https://v.daum.net/v/20240410020926147"/>
+        <updated>2024-04-09T20:18:26.778Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[러시아 앙가라-A5 로켓 발사 2분 전 취소…"내일 다시 쏜다"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240409204128876"/>
         <updated>2024-04-09T13:19:57.196Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사전투표함 먼저 개표‥개표 초반 판세 사전투표가 좌우할 듯]]></title>
-        <id>https://v.daum.net/v/20240409201924425</id>
-        <link href="https://v.daum.net/v/20240409201924425"/>
-        <updated>2024-04-09T12:33:22.818Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
