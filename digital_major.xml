@@ -2,22 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-04-09T16:22:25.670Z</updated>
+    <updated>2024-04-09T18:21:20.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인도·유럽도 반도체 러시]]></title>
+        <id>https://v.daum.net/v/20240410030032201</id>
+        <link href="https://v.daum.net/v/20240410030032201"/>
+        <updated>2024-04-09T18:20:45.667Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손목닥터 또 '삐끗'…이용자 급증에 식단미션 오류]]></title>
+        <id>https://v.daum.net/v/20240410000029571</id>
+        <link href="https://v.daum.net/v/20240410000029571"/>
+        <updated>2024-04-09T18:20:45.669Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러, 안가라-A5 로켓 발사 직전 중단…내일 재시도]]></title>
+        <id>https://v.daum.net/v/20240409223743997</id>
+        <link href="https://v.daum.net/v/20240409223743997"/>
+        <updated>2024-04-09T18:20:45.669Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전기차도 에너지효율 표시…‘5단계 연비등급제’ 전면 시행]]></title>
+        <id>https://v.daum.net/v/20240409213001004</id>
+        <link href="https://v.daum.net/v/20240409213001004"/>
+        <updated>2024-04-09T18:20:45.669Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["내년에 인간 능가한다"…'오픈AI 원년 멤버' 머스크 깜짝 예언]]></title>
+        <id>https://v.daum.net/v/20240409210918501</id>
+        <link href="https://v.daum.net/v/20240409210918501"/>
+        <updated>2024-04-09T18:20:45.670Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["티빙만 유일하다고?"…'야구중계' 뛰어든 이유 있었네]]></title>
         <id>https://v.daum.net/v/20240409210107317</id>
         <link href="https://v.daum.net/v/20240409210107317"/>
         <updated>2024-04-09T15:19:37.340Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, 서버 CPU ‘악시온’ 공개...AI 인프라 구축 경쟁 돌입]]></title>
-        <id>https://v.daum.net/v/20240409210011300</id>
-        <link href="https://v.daum.net/v/20240409210011300"/>
-        <updated>2024-04-09T14:17:35.553Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“낯익은 ‘얼굴’, 실물보다 낫다?” 요즘 20대 빠지더니…일냈다]]></title>
@@ -46,33 +74,5 @@
         <link href="https://v.daum.net/v/20240409195138933"/>
         <updated>2024-04-09T12:33:22.822Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[농협은행 스마트뱅킹 20분간 지연‥"일시적 접속 증가"]]></title>
-        <id>https://v.daum.net/v/20240409194014722</id>
-        <link href="https://v.daum.net/v/20240409194014722"/>
-        <updated>2024-04-09T12:33:22.823Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['늘었다 VS 줄었다'…카카오톡 MAU 분석 엇갈린 이유는]]></title>
-        <id>https://v.daum.net/v/20240409192307348</id>
-        <link href="https://v.daum.net/v/20240409192307348"/>
-        <updated>2024-04-09T11:15:33.570Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실물 신분증 없어도…PASS 등록 신분증으로 총선 투표 가능]]></title>
-        <id>https://v.daum.net/v/20240409182229127</id>
-        <link href="https://v.daum.net/v/20240409182229127"/>
-        <updated>2024-04-09T12:33:22.826Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스마트폰 카툭튀는 왜 사라지지 않는 걸까 [IT 잡학다식]]]></title>
-        <id>https://v.daum.net/v/20240409180103434</id>
-        <link href="https://v.daum.net/v/20240409180103434"/>
-        <updated>2024-04-09T16:21:53.114Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
