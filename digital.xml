@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-04-09T09:25:14.263Z</updated>
+    <updated>2024-04-09T10:23:21.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[실물 신분증 없어도…PASS 등록 신분증으로 총선 투표 가능]]></title>
+        <id>https://v.daum.net/v/20240409182229127</id>
+        <link href="https://v.daum.net/v/20240409182229127"/>
+        <updated>2024-04-09T10:22:32.883Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스마트폰 카툭튀는 왜 사라지지 않는 걸까 [IT 잡학다식]]]></title>
         <id>https://v.daum.net/v/20240409180103434</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240409173523670"/>
         <updated>2024-04-09T09:24:29.322Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["췌장암 원인 95% 규명"… 치료 길 '성큼']]></title>
-        <id>https://v.daum.net/v/20240409172709451</id>
-        <link href="https://v.daum.net/v/20240409172709451"/>
-        <updated>2024-04-09T09:24:29.324Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>

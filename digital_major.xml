@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-04-09T09:25:14.264Z</updated>
+    <updated>2024-04-09T10:23:21.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["췌장암 원인 95% 규명"… 치료 길 '성큼']]></title>
+        <id>https://v.daum.net/v/20240409172709451</id>
+        <link href="https://v.daum.net/v/20240409172709451"/>
+        <updated>2024-04-09T10:22:42.372Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지도 앱의 진화 '계단 없는 경로 안내, 쇼핑몰 내부도 보여드림']]></title>
         <id>https://v.daum.net/v/20240409171024956</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240409161122551"/>
         <updated>2024-04-09T08:23:19.653Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[EV 시대] 미래 모빌리티 핵심 '전동화와 SDV']]></title>
-        <id>https://v.daum.net/v/20240409163309401</id>
-        <link href="https://v.daum.net/v/20240409163309401"/>
-        <updated>2024-04-09T08:23:19.654Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
