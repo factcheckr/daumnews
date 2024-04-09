@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-04-09T12:33:49.645Z</updated>
+    <updated>2024-04-09T13:20:23.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오픈AI 손잡고 날아오른 MS…구글, 동맹社 총동원해 추격]]></title>
+        <id>https://v.daum.net/v/20240409214808355</id>
+        <link href="https://v.daum.net/v/20240409214808355"/>
+        <updated>2024-04-09T13:19:47.443Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전기차도 에너지효율 표시…‘5단계 연비등급제’ 전면 시행]]></title>
         <id>https://v.daum.net/v/20240409213001004</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240409210011300"/>
         <updated>2024-04-09T12:33:16.914Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“낯익은 ‘얼굴’, 실물보다 낫다?” 요즘 20대 빠지더니…일냈다]]></title>
-        <id>https://v.daum.net/v/20240409204128876</id>
-        <link href="https://v.daum.net/v/20240409204128876"/>
-        <updated>2024-04-09T12:33:16.915Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
