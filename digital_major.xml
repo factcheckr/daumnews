@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-04-10T15:20:27.193Z</updated>
+    <updated>2024-04-10T16:25:42.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[“탄소중립도 중요하긴 한데” 올 여름 폭염·폭우는 어떡할꺼야? [지구, 뭐래?]]]></title>
-        <id>https://v.daum.net/v/20240410185134467</id>
-        <link href="https://v.daum.net/v/20240410185134467"/>
-        <updated>2024-04-10T14:17:16.203Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[美 빅테크 '新무기' 줄줄이 출격…달아오르는 AI 전쟁]]></title>
         <id>https://v.daum.net/v/20240410181346183</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20240410135801093"/>
         <updated>2024-04-10T06:24:14.551Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지난달 지구 가장 '핫' 했다…10달째 사상 최고치 경신]]></title>
+        <id>https://v.daum.net/v/20240410120006331</id>
+        <link href="https://v.daum.net/v/20240410120006331"/>
+        <updated>2024-04-10T16:25:16.352Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
