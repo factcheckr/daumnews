@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-04-10T02:26:42.370Z</updated>
+    <updated>2024-04-10T03:21:48.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이제 동물병원도 전문화 추세]]></title>
+        <id>https://v.daum.net/v/20240410090116500</id>
+        <link href="https://v.daum.net/v/20240410090116500"/>
+        <updated>2024-04-10T03:20:54.511Z</updated>
+        <content type="html"><![CDATA[주간동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여행honey] 부처님 계신 곳…영축산과 통도사]]></title>
         <id>https://v.daum.net/v/20240410090018466</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240410070806696"/>
         <updated>2024-04-10T01:12:09.314Z</updated>
         <content type="html"><![CDATA[시사저널]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘세월호, 잊지 않겠다는 마음’ 무대 위로]]></title>
-        <id>https://v.daum.net/v/20240410070536673</id>
-        <link href="https://v.daum.net/v/20240410070536673"/>
-        <updated>2024-04-09T23:18:50.037Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
