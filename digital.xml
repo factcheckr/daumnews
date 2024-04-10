@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-04-10T12:33:20.193Z</updated>
+    <updated>2024-04-10T13:21:20.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["치명적 암을 혈액검사로?"...초기 췌장암 97% 정확하게 잡아내]]></title>
+        <id>https://v.daum.net/v/20240410220420287</id>
+        <link href="https://v.daum.net/v/20240410220420287"/>
+        <updated>2024-04-10T13:20:36.960Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[설마했는데…“이건 쇼크다” 발칵 뒤집힌 ‘국민 메신저’]]></title>
         <id>https://v.daum.net/v/20240410204128988</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240410181346183"/>
         <updated>2024-04-10T10:20:53.754Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김영욱의 `AI 그까이꺼`] 온디바이스AI 시대 연 갤럭시...직접 써보니]]></title>
-        <id>https://v.daum.net/v/20240410173310590</id>
-        <link href="https://v.daum.net/v/20240410173310590"/>
-        <updated>2024-04-10T10:20:53.756Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
