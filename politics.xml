@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2024-04-11T15:20:28.618Z</updated>
+    <updated>2024-04-11T17:18:42.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준석 "홍준표를 총리로"…"그래도 괜찮은 정치인" 칭찬 화답?]]></title>
+        <id>https://v.daum.net/v/20240411234920185</id>
+        <link href="https://v.daum.net/v/20240411234920185"/>
+        <updated>2024-04-11T17:16:47.880Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김준혁 지역구, 무효표 4696표 쏟아진 이유는?]]></title>
         <id>https://v.daum.net/v/20240412000608430</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240412001042479"/>
         <updated>2024-04-11T15:18:30.455Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘더 특별한 강원특별자치도’ 초당적 협력 다짐]]></title>
-        <id>https://v.daum.net/v/20240412000600419</id>
-        <link href="https://v.daum.net/v/20240412000600419"/>
-        <updated>2024-04-11T15:18:30.455Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
