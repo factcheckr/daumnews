@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-04-11T18:22:41.575Z</updated>
+    <updated>2024-04-11T20:24:40.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스톡옵션 대박? 판교의 절규…5대장 ‘평균 연봉 1억’ 깨졌다]]></title>
+        <id>https://v.daum.net/v/20240412050044723</id>
+        <link href="https://v.daum.net/v/20240412050044723"/>
+        <updated>2024-04-11T20:23:54.530Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사이테크+] "오존에 노출된 초파리, 다른 종 간 짝짓기…불임 잡종 증가"]]></title>
+        <id>https://v.daum.net/v/20240412050008656</id>
+        <link href="https://v.daum.net/v/20240412050008656"/>
+        <updated>2024-04-11T20:23:54.532Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한반도 ‘판 내 지진’ 안전지대 아냐… 장소-시기 예측 못해 더 위험]]></title>
         <id>https://v.daum.net/v/20240412030148108</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240411170402089"/>
         <updated>2024-04-11T14:20:36.193Z</updated>
         <content type="html"><![CDATA[키즈맘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오픈AI에 자극 받은 어도비…'소라' 위협할 동영상 생성기 만든다]]></title>
-        <id>https://v.daum.net/v/20240411092307882</id>
-        <link href="https://v.daum.net/v/20240411092307882"/>
-        <updated>2024-04-11T12:32:27.700Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러, 달 연구 프로그램 주요 발사체 앙가라-A5 로켓 시험발사 성공]]></title>
-        <id>https://v.daum.net/v/20240411190210646</id>
-        <link href="https://v.daum.net/v/20240411190210646"/>
-        <updated>2024-04-11T10:21:27.958Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
