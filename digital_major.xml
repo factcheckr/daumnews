@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-04-12T18:19:43.604Z</updated>
+    <updated>2024-04-12T20:18:43.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20240413030419332"/>
         <updated>2024-04-12T18:19:14.453Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[숨고르기 들어간 의료 현장…의사 대화 창구 단일화 왜 어렵나]]></title>
+        <id>https://v.daum.net/v/20240412172437526</id>
+        <link href="https://v.daum.net/v/20240412172437526"/>
+        <updated>2024-04-12T20:18:11.142Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 초신성의 엄청난 빛은 제트 때문?[알송달송 과학]]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240412155412634"/>
         <updated>2024-04-12T08:22:56.886Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KAI, '미래 먹거리' 우주 모빌리티 시장 진출 박차]]></title>
-        <id>https://v.daum.net/v/20240412154703429</id>
-        <link href="https://v.daum.net/v/20240412154703429"/>
-        <updated>2024-04-12T07:20:10.088Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>
