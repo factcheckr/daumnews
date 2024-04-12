@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-04-12T09:20:34.653Z</updated>
+    <updated>2024-04-12T10:20:24.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일상이 된 '구독플레이션'…OTT 요금, 6개월간 40% 올랐다]]></title>
+        <id>https://v.daum.net/v/20240412151701426</id>
+        <link href="https://v.daum.net/v/20240412151701426"/>
+        <updated>2024-04-12T10:19:41.786Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[통신 정책 대규모 손질…"단말기·요금제 묶음 판매 안된다"]]></title>
         <id>https://v.daum.net/v/20240412181317180</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240412170006614"/>
         <updated>2024-04-12T08:22:49.459Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘과학의 달’ 뭐하고 놀까?…가족·연인과 함께 가볼만한 전국 행사]]></title>
-        <id>https://v.daum.net/v/20240412164037973</id>
-        <link href="https://v.daum.net/v/20240412164037973"/>
-        <updated>2024-04-12T08:22:49.461Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
