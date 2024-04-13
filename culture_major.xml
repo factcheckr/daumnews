@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-04-13T12:29:19.560Z</updated>
+    <updated>2024-04-13T13:18:41.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그렇게 열 번째 봄이 왔다]]></title>
+        <id>https://v.daum.net/v/20240413200803647</id>
+        <link href="https://v.daum.net/v/20240413200803647"/>
+        <updated>2024-04-13T13:17:50.291Z</updated>
+        <content type="html"><![CDATA[한겨레21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잇몸 질환 방치했더니 심장에 이상이?]]></title>
         <id>https://v.daum.net/v/20240413170639416</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240413180135165"/>
         <updated>2024-04-13T11:13:01.812Z</updated>
         <content type="html"><![CDATA[경기일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[춘천 낮 최고 ‘30도’… 일요일 초여름 더위 계속]]></title>
-        <id>https://v.daum.net/v/20240413173011669</id>
-        <link href="https://v.daum.net/v/20240413173011669"/>
-        <updated>2024-04-13T11:13:01.813Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
