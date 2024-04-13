@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-04-13T02:17:38.119Z</updated>
+    <updated>2024-04-13T03:16:50.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["中, 통신사에 외국 CPU 퇴출 지시"WSJ...인텔·AMD 급락]]></title>
+        <id>https://v.daum.net/v/20240413030537344</id>
+        <link href="https://v.daum.net/v/20240413030537344"/>
+        <updated>2024-04-13T03:16:18.803Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨쏙 과학쏙] 달에서 살 수 있을까…달 기지 건설 기술 어디까지 왔나?]]></title>
+        <id>https://v.daum.net/v/20240413093242110</id>
+        <link href="https://v.daum.net/v/20240413093242110"/>
+        <updated>2024-04-13T03:16:18.804Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디아4 "PTR 서버가 알려주는 차기 시즌 핵심 빌드"]]></title>
         <id>https://v.daum.net/v/20240413091518919</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240413082510383"/>
         <updated>2024-04-13T01:01:13.247Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[배터리완전정복](32)ESS, 전기차 캐즘 극복할 돌파구될까]]></title>
-        <id>https://v.daum.net/v/20240413080108228</id>
-        <link href="https://v.daum.net/v/20240413080108228"/>
-        <updated>2024-04-13T01:01:13.249Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표지로 읽는 과학] 위기에 직면한 곤충]]></title>
-        <id>https://v.daum.net/v/20240413080052215</id>
-        <link href="https://v.daum.net/v/20240413080052215"/>
-        <updated>2024-04-13T01:01:13.251Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
