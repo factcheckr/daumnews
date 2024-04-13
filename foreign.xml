@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2024-04-13T13:18:41.869Z</updated>
+    <updated>2024-04-13T14:16:53.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[6명 사망 시드니 공포의 칼부림… 여성 경찰관이 끝냈다]]></title>
+        <title type="html"><![CDATA[“이란 미사일 이동”…美 이지스함 긴급 배치]]></title>
+        <id>https://v.daum.net/v/20240413193805261</id>
+        <link href="https://v.daum.net/v/20240413193805261"/>
+        <updated>2024-04-13T14:15:34.494Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[호주 시드니 6명 사망 '공포의 칼부림'…여성 경찰관이 끝냈다]]></title>
         <id>https://v.daum.net/v/20240413214843474</id>
         <link href="https://v.daum.net/v/20240413214843474"/>
         <updated>2024-04-13T13:17:21.521Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240413203108878"/>
         <updated>2024-04-13T12:28:05.429Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 고위급 5년 만에 방북…북·중 밀월 재개?]]></title>
-        <id>https://v.daum.net/v/20240413203906938</id>
-        <link href="https://v.daum.net/v/20240413203906938"/>
-        <updated>2024-04-13T12:28:05.430Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>

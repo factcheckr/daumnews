@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-04-13T13:18:41.874Z</updated>
+    <updated>2024-04-13T14:16:53.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[AI 한입뉴스]성능 넘어 효율성 경쟁...빅테크 '칩 독립선언']]></title>
+        <title type="html"><![CDATA[“이게 뭔가 했더니” 보름만에 떼는 선거 현수막…이 정도야? [지구,뭐래?]]]></title>
+        <id>https://v.daum.net/v/20240413155054353</id>
+        <link href="https://v.daum.net/v/20240413155054353"/>
+        <updated>2024-04-13T14:16:21.828Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["아무도 믿지말라" 보안업계, 제로 트러스트 사업 합종연횡]]></title>
+        <id>https://v.daum.net/v/20240413141014358</id>
+        <link href="https://v.daum.net/v/20240413141014358"/>
+        <updated>2024-04-13T14:16:21.830Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성능 넘어 효율성 경쟁...빅테크 '칩 독립선언'[AI 한입뉴스]]]></title>
         <id>https://v.daum.net/v/20240413140023272</id>
         <link href="https://v.daum.net/v/20240413140023272"/>
         <updated>2024-04-13T13:18:10.131Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240413101238514"/>
         <updated>2024-04-13T04:19:41.026Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["中, 통신사에 외국 CPU 퇴출 지시"WSJ...인텔·AMD 급락]]></title>
-        <id>https://v.daum.net/v/20240413030537344</id>
-        <link href="https://v.daum.net/v/20240413030537344"/>
-        <updated>2024-04-13T03:16:18.803Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨쏙 과학쏙] 달에서 살 수 있을까…달 기지 건설 기술 어디까지 왔나?]]></title>
-        <id>https://v.daum.net/v/20240413093242110</id>
-        <link href="https://v.daum.net/v/20240413093242110"/>
-        <updated>2024-04-13T03:16:18.804Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
