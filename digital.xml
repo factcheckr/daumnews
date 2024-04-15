@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-04-15T17:16:12.348Z</updated>
+    <updated>2024-04-15T18:23:21.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美, 반도체 설계·생산라인 다 품었다]]></title>
+        <id>https://v.daum.net/v/20240416031507272</id>
+        <link href="https://v.daum.net/v/20240416031507272"/>
+        <updated>2024-04-15T18:22:37.970Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["월요일엔 야구 안하는데 웬 알람?"…100만 야구팬 몰렸다]]></title>
         <id>https://v.daum.net/v/20240415200101984</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240415204142002"/>
         <updated>2024-04-15T12:33:00.200Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[겜덕연구소] 어떤 보스라도 4명이 모이면 두렵지 않았어! 오락실 4인용 게임들!]]></title>
-        <id>https://v.daum.net/v/20240415202700597</id>
-        <link href="https://v.daum.net/v/20240415202700597"/>
-        <updated>2024-04-15T12:33:00.201Z</updated>
-        <content type="html"><![CDATA[게임동아]]></content>
     </entry>
 </feed>
