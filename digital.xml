@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-04-16T17:23:14.936Z</updated>
+    <updated>2024-04-16T18:22:55.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국, AI 특허 수는 1위지만 작년 개발 모델 없고 인재 유출]]></title>
+        <id>https://v.daum.net/v/20240417024318495</id>
+        <link href="https://v.daum.net/v/20240417024318495"/>
+        <updated>2024-04-16T18:22:22.071Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Why] 뉴스 서비스 없앤 페북, 왜 가짜 뉴스는 더 많아졌나]]></title>
         <id>https://v.daum.net/v/20240416154013547</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240416180212157"/>
         <updated>2024-04-16T12:32:36.553Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[자동차와 法] 공공기관의 친환경차 의무구매제도 현황에 대하여]]></title>
-        <id>https://v.daum.net/v/20240416210901516</id>
-        <link href="https://v.daum.net/v/20240416210901516"/>
-        <updated>2024-04-16T12:32:36.555Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
