@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-04-16T16:27:19.923Z</updated>
+    <updated>2024-04-16T17:23:14.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -13,11 +13,25 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[세월호 10년, 해양사고는 여전… 매해 100명씩 사망·실종]]></title>
+        <id>https://v.daum.net/v/20240417000625901</id>
+        <link href="https://v.daum.net/v/20240417000625901"/>
+        <updated>2024-04-16T17:21:47.620Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[지역소멸 위기 양양, 인구감소폭 심상찮다]]></title>
         <id>https://v.daum.net/v/20240417000531854</id>
         <link href="https://v.daum.net/v/20240417000531854"/>
         <updated>2024-04-16T16:25:53.657Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[적격비용 재산정 앞둔 카드사…수수료율 올해는 다를까]]></title>
+        <id>https://v.daum.net/v/20240417000101762</id>
+        <link href="https://v.daum.net/v/20240417000101762"/>
+        <updated>2024-04-16T17:21:47.622Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3년 연속 적자 행보 전자랜드…김형영號 올해는 다를까 [TF초점]]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240416220506654"/>
         <updated>2024-04-16T16:25:53.667Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IMF, 한국 성장률 전망 2.3% 유지…'중동 리스크'는 미반영]]></title>
-        <id>https://v.daum.net/v/20240416220029541</id>
-        <link href="https://v.daum.net/v/20240416220029541"/>
-        <updated>2024-04-16T16:25:53.669Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 성장률 오르는데 韓은 제자리···美에 2년 연속 역전 우려]]></title>
-        <id>https://v.daum.net/v/20240416220019534</id>
-        <link href="https://v.daum.net/v/20240416220019534"/>
-        <updated>2024-04-16T16:25:53.670Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
