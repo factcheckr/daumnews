@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-04-16T03:22:01.714Z</updated>
+    <updated>2024-04-16T04:21:52.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI 패권 '쩐의 전쟁'에…밀려나는 빅테크 직원들]]></title>
+        <id>https://v.daum.net/v/20240416104849597</id>
+        <link href="https://v.daum.net/v/20240416104849597"/>
+        <updated>2024-04-16T04:21:25.660Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["애플, iOS18부터 아이폰에 AI 기능 넣는다"]]></title>
         <id>https://v.daum.net/v/20240416103425867</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240416092800763"/>
         <updated>2024-04-16T02:25:46.935Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키아누 리브스, 소닉3 '섀도우' 역 맡아]]></title>
-        <id>https://v.daum.net/v/20240416090851956</id>
-        <link href="https://v.daum.net/v/20240416090851956"/>
-        <updated>2024-04-16T01:14:14.427Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-04-16T03:22:01.711Z</updated>
+    <updated>2024-04-16T04:21:52.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“갤S24, 빠르다 싶더니”…전작보다 ‘5G 속도’ 15%나 앞선다]]></title>
+        <id>https://v.daum.net/v/20240416110901656</id>
+        <link href="https://v.daum.net/v/20240416110901656"/>
+        <updated>2024-04-16T04:21:18.465Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공식 평가 기준 없는 AI…“어떤 제품이 더 뛰어난지 알 수 없어”]]></title>
         <id>https://v.daum.net/v/20240416120528927</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240416110647553"/>
         <updated>2024-04-16T02:25:39.463Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 패권 '쩐의 전쟁'에…밀려나는 빅테크 직원들]]></title>
-        <id>https://v.daum.net/v/20240416104849597</id>
-        <link href="https://v.daum.net/v/20240416104849597"/>
-        <updated>2024-04-16T02:25:39.464Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
