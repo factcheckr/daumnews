@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-04-16T11:16:35.073Z</updated>
+    <updated>2024-04-16T12:33:10.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘푸른 하늘을 보고 싶어’[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/tcitu3VZCf</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/tcitu3VZCf"/>
+        <updated>2024-04-16T12:32:50.315Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[군포는 지금 분홍빛 물결... 철쭉축제 20일  '팡파르']]></title>
         <id>https://gallery.v.daum.net/p/viewer/5612596/tQPVvC5rf4</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5840472/2JwcWnrRKE"/>
         <updated>2024-04-16T06:23:49.170Z</updated>
         <content type="html"><![CDATA[포토스토리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호주 교회 흉기난동 동기는 종교적 테러]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033350/z8Z5SekPui</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033350/z8Z5SekPui"/>
-        <updated>2024-04-16T05:21:04.902Z</updated>
-        <content type="html"><![CDATA[호주는 지금]]></content>
     </entry>
 </feed>
