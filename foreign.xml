@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2024-04-17T12:33:16.880Z</updated>
+    <updated>2024-04-17T13:20:52.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미·유럽, 엇갈린 금리 발언…달러 6개월 만에 최고]]></title>
+        <id>https://v.daum.net/v/20240417215627162</id>
+        <link href="https://v.daum.net/v/20240417215627162"/>
+        <updated>2024-04-17T13:19:47.427Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[두바이서 12시간에 1년치 강수량 퍼부어…"비행기가 물에 둥둥 떠다녀"]]></title>
         <id>https://v.daum.net/v/20240417183326305</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240417181433801"/>
         <updated>2024-04-17T12:32:13.500Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베르사유도 경기장으로…'G-100' 파리 올림픽 준비 한창]]></title>
-        <id>https://v.daum.net/v/20240417203307381</id>
-        <link href="https://v.daum.net/v/20240417203307381"/>
-        <updated>2024-04-17T12:32:13.501Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
