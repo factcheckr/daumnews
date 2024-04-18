@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2024-04-18T18:23:51.904Z</updated>
+    <updated>2024-04-18T19:16:49.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['직회부' 카드 쥔 野, 특검에 제2양곡법까지 '민생' 앞세워 강공]]></title>
+        <id>https://v.daum.net/v/20240419040300830</id>
+        <link href="https://v.daum.net/v/20240419040300830"/>
+        <updated>2024-04-18T19:15:02.826Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘거부권’ 거부 나선 野, 양곡법 또 강행]]></title>
         <id>https://v.daum.net/v/20240419030226599</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240419030110527"/>
         <updated>2024-04-18T18:21:55.932Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巨野 ‘입법 독주’ 더 세진다]]></title>
-        <id>https://v.daum.net/v/20240419030029498</id>
-        <link href="https://v.daum.net/v/20240419030029498"/>
-        <updated>2024-04-18T18:21:55.933Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
