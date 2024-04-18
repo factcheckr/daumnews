@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-04-18T09:19:49.618Z</updated>
+    <updated>2024-04-18T10:22:37.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔비디아의 새로운 괴물 AI 반도체, 블랙웰]]></title>
+        <id>https://v.daum.net/v/20240418181629412</id>
+        <link href="https://v.daum.net/v/20240418181629412"/>
+        <updated>2024-04-18T10:22:01.670Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조립컴에 '윈도우' 셀프 설치하려면 알아야 할 것들 [우당탕 컴조립]]]></title>
         <id>https://v.daum.net/v/20240418180103969</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240418173320042"/>
         <updated>2024-04-18T09:19:06.608Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이폰족, 갤럭시족보다 월 통신비 지출 많았다…10대·여성 사용률 높아]]></title>
-        <id>https://v.daum.net/v/20240418173014931</id>
-        <link href="https://v.daum.net/v/20240418173014931"/>
-        <updated>2024-04-18T09:19:06.610Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
