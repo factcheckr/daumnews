@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-04-18T19:16:49.881Z</updated>
+    <updated>2024-04-18T20:24:24.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5932052/y1xP53VZL5"/>
         <updated>2024-04-18T16:23:25.477Z</updated>
         <content type="html"><![CDATA[의대 정원 확대]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[창문이 생겼어요]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/zdq1H1KGmk</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/zdq1H1KGmk"/>
+        <updated>2024-04-18T20:23:59.800Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4·19 혁명 64돌…떠난 남편 추모[포토뉴스]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/386/HgFWWdEQ9L"/>
         <updated>2024-04-18T08:23:41.206Z</updated>
         <content type="html"><![CDATA[소방본부 제공 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흉기난동 호주 시드니 쇼핑몰 방문한 NSW 주지사]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033350/fcaqqmGkpD</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033350/fcaqqmGkpD"/>
-        <updated>2024-04-18T08:23:41.206Z</updated>
-        <content type="html"><![CDATA[호주는 지금]]></content>
     </entry>
 </feed>
