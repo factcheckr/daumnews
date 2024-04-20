@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-04-20T08:20:51.095Z</updated>
+    <updated>2024-04-20T09:17:40.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준석 “尹대통령 지지층, 무직·은퇴층… 회사선 다 욕해”]]></title>
+        <id>https://v.daum.net/v/20240420142210070</id>
+        <link href="https://v.daum.net/v/20240420142210070"/>
+        <updated>2024-04-20T09:16:02.731Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹대통령, 6월 G7 정상회의 초청 못받아…'글로벌 중추국가' 무색]]></title>
         <id>https://v.daum.net/v/20240420150207476</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240420131239421"/>
         <updated>2024-04-20T05:16:38.739Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주, 장애인의 날 맞아 "차별 없는 삶 위해 입법으로 함께할 것"]]></title>
-        <id>https://v.daum.net/v/20240420124204217</id>
-        <link href="https://v.daum.net/v/20240420124204217"/>
-        <updated>2024-04-20T05:16:38.743Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
