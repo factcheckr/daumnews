@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-04-20T18:25:20.714Z</updated>
+    <updated>2024-04-20T19:15:58.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국 221년만에 매미떼 수백兆 마리 출현예고…"제트기급 소음"]]></title>
+        <id>https://v.daum.net/v/20240421035308108</id>
+        <link href="https://v.daum.net/v/20240421035308108"/>
+        <updated>2024-04-20T19:13:33.106Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["관광객 너무 많다"…스페인 카나리아 제도서 시위]]></title>
         <id>https://v.daum.net/v/20240421023610049</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20240420203303577"/>
         <updated>2024-04-20T13:20:46.573Z</updated>
         <content type="html"><![CDATA[경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['교수 사직' 25일부터…"원점 재논의 결단해야"]]></title>
-        <id>https://v.daum.net/v/20240420202704556</id>
-        <link href="https://v.daum.net/v/20240420202704556"/>
-        <updated>2024-04-20T18:22:59.343Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
     </entry>
 </feed>

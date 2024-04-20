@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-04-20T18:25:20.722Z</updated>
+    <updated>2024-04-20T19:15:58.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240420231802607"/>
         <updated>2024-04-20T15:17:57.267Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[운동 후 찾아온 통증, 근육통일까? 관절통일까?]]></title>
+        <id>https://v.daum.net/v/20240420130114328</id>
+        <link href="https://v.daum.net/v/20240420130114328"/>
+        <updated>2024-04-20T19:15:06.459Z</updated>
+        <content type="html"><![CDATA[하이닥]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아산 초대형 튤립정원, 네덜란드·튀르키예가 울고 간다[함영훈의 멋·맛·쉼]]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240420165052677"/>
         <updated>2024-04-20T13:22:34.899Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주말 PICK!] 자전거 타기 좋은 봄날...20~22일 따릉이 ‘공짜’]]></title>
-        <id>https://v.daum.net/v/20240420100006856</id>
-        <link href="https://v.daum.net/v/20240420100006856"/>
-        <updated>2024-04-20T13:22:34.901Z</updated>
-        <content type="html"><![CDATA[농민신문]]></content>
     </entry>
 </feed>

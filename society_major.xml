@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2024-04-20T18:25:20.704Z</updated>
+    <updated>2024-04-20T19:15:58.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[폭행 용의자가 휘두른 흉기에 경찰 3명 중상···공포탄 등 쏴서 겨우 잡았다]]></title>
+        <id>https://v.daum.net/v/20240420221344314</id>
+        <link href="https://v.daum.net/v/20240420221344314"/>
+        <updated>2024-04-20T19:13:54.760Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김해시,  이상기온속 ‘녹조 발생 예방 및 대응계획’ 수립 돌입]]></title>
         <id>https://v.daum.net/v/20240420205510718</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240420214743158"/>
         <updated>2024-04-20T15:16:57.124Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지자체마다 내놓는 ‘빈집’ 활용법 통할까?]]></title>
-        <id>https://v.daum.net/v/20240420214143109</id>
-        <link href="https://v.daum.net/v/20240420214143109"/>
-        <updated>2024-04-20T16:23:24.697Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
