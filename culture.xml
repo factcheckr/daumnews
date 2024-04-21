@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-04-21T19:18:11.679Z</updated>
+    <updated>2024-04-21T20:19:33.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청도의 달빛·묵향, 베네치아를 물들이다]]></title>
+        <id>https://v.daum.net/v/20240422050318859</id>
+        <link href="https://v.daum.net/v/20240422050318859"/>
+        <updated>2024-04-21T20:18:43.214Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“XAI, 인간의 노화 멈추는 법도 알려줄 것”]]></title>
         <id>https://v.daum.net/v/20240422030240189</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240422014955924"/>
         <updated>2024-04-21T17:19:46.685Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일제시대 건물서 개인전 일본 작가 “아픈 역사, 문화로 승화시켜야”]]></title>
-        <id>https://v.daum.net/v/20240422001126615</id>
-        <link href="https://v.daum.net/v/20240422001126615"/>
-        <updated>2024-04-21T15:19:45.031Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
