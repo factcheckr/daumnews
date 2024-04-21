@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-04-21T16:22:55.661Z</updated>
+    <updated>2024-04-21T17:20:48.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퇴근하고 밤 9시, 74살 치매부모 돌봄 시작…휴가제도 있지만]]></title>
+        <id>https://v.daum.net/v/20240421221502804</id>
+        <link href="https://v.daum.net/v/20240421221502804"/>
+        <updated>2024-04-21T17:19:55.874Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“초등학생인데 고혈압이?”…소아 고혈압, 왜 생기는 걸까?]]></title>
         <id>https://v.daum.net/v/20240421180115723</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240421201016608"/>
         <updated>2024-04-21T13:19:28.085Z</updated>
         <content type="html"><![CDATA[경기일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뻔한 관람매너는 잊어라… 편한 객석에서 즐기는 ‘펀한 무대’]]></title>
-        <id>https://v.daum.net/v/20240421200344515</id>
-        <link href="https://v.daum.net/v/20240421200344515"/>
-        <updated>2024-04-21T13:19:28.086Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
