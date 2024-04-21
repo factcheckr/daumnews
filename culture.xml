@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-04-21T18:23:45.341Z</updated>
+    <updated>2024-04-21T19:18:11.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“XAI, 인간의 노화 멈추는 법도 알려줄 것”]]></title>
+        <id>https://v.daum.net/v/20240422030240189</id>
+        <link href="https://v.daum.net/v/20240422030240189"/>
+        <updated>2024-04-21T19:17:08.222Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김은선, 아시아 여성 첫 베를린 필 지휘… “관객 반응 모를 정도로 집중”]]></title>
         <id>https://v.daum.net/v/20240422030240190</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240422001126615"/>
         <updated>2024-04-21T15:19:45.031Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비주류가 주인공이 된 비엔날레… 마오리족 여성작가팀이 황금사자상]]></title>
-        <id>https://v.daum.net/v/20240422000729559</id>
-        <link href="https://v.daum.net/v/20240422000729559"/>
-        <updated>2024-04-21T15:19:45.032Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
