@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-04-21T08:21:41.057Z</updated>
+    <updated>2024-04-21T09:19:30.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사이버안보 비상등] 사이버 통제탑 없는 한국···해커들 앞다퉈 '경유지'로 택했다]]></title>
+        <id>https://v.daum.net/v/20240421174429429</id>
+        <link href="https://v.daum.net/v/20240421174429429"/>
+        <updated>2024-04-21T09:18:55.116Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“한국, 알고 있나?”…삼성, 미국에 반도체 공장 짓는 진짜 이유 [위클리반도체]]]></title>
         <id>https://v.daum.net/v/20240421170930834</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240421140101558"/>
         <updated>2024-04-21T05:18:20.202Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MBC '바이든-날리면' 보도에 과징금…KT 최대주주되는 현대차 [뉴스잇(IT)쥬]]]></title>
-        <id>https://v.daum.net/v/20240421132824889</id>
-        <link href="https://v.daum.net/v/20240421132824889"/>
-        <updated>2024-04-21T05:18:20.203Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
