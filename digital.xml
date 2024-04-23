@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-04-23T13:20:56.661Z</updated>
+    <updated>2024-04-23T14:19:08.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[EV 시대] 내연기관 제조사와 전기차 제조사의 디자인]]></title>
+        <id>https://v.daum.net/v/20240423223900305</id>
+        <link href="https://v.daum.net/v/20240423223900305"/>
+        <updated>2024-04-23T14:18:30.819Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국핀테크학회 "가상자산 이상거래 탐지 시스템 공유해야"]]></title>
         <id>https://v.daum.net/v/20240423213721476</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240423193802489"/>
         <updated>2024-04-23T11:19:11.791Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추상적인 ‘공정성’ 조항...방심위가 MBC 폭풍 징계하는 근거였다]]></title>
-        <id>https://v.daum.net/v/20240423193003285</id>
-        <link href="https://v.daum.net/v/20240423193003285"/>
-        <updated>2024-04-23T11:19:11.797Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
