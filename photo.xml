@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-04-25T19:16:11.898Z</updated>
+    <updated>2024-04-25T20:20:17.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1013249/5UdFDzQ0m3"/>
         <updated>2024-04-25T18:23:17.686Z</updated>
         <content type="html"><![CDATA[세계의 외교현장]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나무의 괴력?]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/bEkK0aIirQ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/bEkK0aIirQ"/>
+        <updated>2024-04-25T20:19:51.400Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘최악의 살인기업상’ 배달 왔어요[포토뉴스]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033138/UQteC0f53H"/>
         <updated>2024-04-25T08:24:24.210Z</updated>
         <content type="html"><![CDATA[이스라엘은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AP와 인터뷰하는 하마스 지도자 칼릴 알하이야]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1493/WOvLcYuSK7</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1493/WOvLcYuSK7"/>
-        <updated>2024-04-25T08:24:24.210Z</updated>
-        <content type="html"><![CDATA[튀르키예는 지금]]></content>
     </entry>
 </feed>

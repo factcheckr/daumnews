@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-04-25T19:16:11.912Z</updated>
+    <updated>2024-04-25T20:20:17.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[4월에 벌써 ‘윙~’ 모기야 잠 좀 자자]]></title>
+        <id>https://v.daum.net/v/20240426041353613</id>
+        <link href="https://v.daum.net/v/20240426041353613"/>
+        <updated>2024-04-25T20:19:35.698Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“존리, 韓과 2년째 ‘태양 탐사’ 협업… 美-獨 등과 국제협력 성사”]]></title>
         <id>https://v.daum.net/v/20240426030437102</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240426001159139"/>
         <updated>2024-04-25T15:19:47.015Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["심장과 최대한 비슷하게"...IBS, 이식 수준 배양 성공]]></title>
-        <id>https://v.daum.net/v/20240425234751661</id>
-        <link href="https://v.daum.net/v/20240425234751661"/>
-        <updated>2024-04-25T15:19:47.017Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
