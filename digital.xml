@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-04-25T03:20:18.291Z</updated>
+    <updated>2024-04-25T04:22:28.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[허블망원경에 달린 ‘사진 쓰레기통’ 뒤져 소행성 1000여개 발견]]></title>
+        <id>https://v.daum.net/v/20240425130249027</id>
+        <link href="https://v.daum.net/v/20240425130249027"/>
+        <updated>2024-04-25T04:21:44.854Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지난겨울 고병원성 AI 혈청형 2종 검출…"인체감염 가능성 작아"]]></title>
         <id>https://v.daum.net/v/20240425120046702</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240425115857558"/>
         <updated>2024-04-25T03:19:44.324Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드시론] K-팝 시상식, 범람에서 새로운 지평을 향해]]></title>
-        <id>https://v.daum.net/v/20240425112055009</id>
-        <link href="https://v.daum.net/v/20240425112055009"/>
-        <updated>2024-04-25T02:28:41.475Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
