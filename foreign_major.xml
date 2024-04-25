@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-04-25T16:23:48.961Z</updated>
+    <updated>2024-04-25T17:21:39.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[“젤라또를 사수하라”… 밀라노 ‘심야 판매금지’ 조례 논란]]></title>
-        <id>https://v.daum.net/v/20240426000713055</id>
-        <link href="https://v.daum.net/v/20240426000713055"/>
-        <updated>2024-04-25T16:22:53.839Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[美·英 등 18개국 하마스에 인질 석방·가자 위기 종식 촉구]]></title>
         <id>https://v.daum.net/v/20240426000456944</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20240425224502022"/>
         <updated>2024-04-25T15:19:20.787Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미 1분기 경제, 연율 1.6% 성장에 그쳐…소비 둔화(종합)]]></title>
+        <id>https://v.daum.net/v/20240425220945668</id>
+        <link href="https://v.daum.net/v/20240425220945668"/>
+        <updated>2024-04-25T17:20:38.350Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
