@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-04-25T15:20:36.135Z</updated>
+    <updated>2024-04-25T16:23:48.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가맹 본부 협의 불응 땐 제재 가능… 점주들은 ‘환영’]]></title>
+        <id>https://v.daum.net/v/20240426011234537</id>
+        <link href="https://v.daum.net/v/20240426011234537"/>
+        <updated>2024-04-25T16:22:31.100Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Editor’s Note] 깜짝 성장인데 찜찜하다…걱정되는 ‘반도체 쏠림’]]></title>
         <id>https://v.daum.net/v/20240426001235156</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240426000018840"/>
         <updated>2024-04-25T15:18:56.012Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고개든 `스태그플레이션` 조짐…복잡해진 연준 금리인하]]></title>
-        <id>https://v.daum.net/v/20240425235034687</id>
-        <link href="https://v.daum.net/v/20240425235034687"/>
-        <updated>2024-04-25T15:18:56.013Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
