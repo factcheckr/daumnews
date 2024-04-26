@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-04-26T20:21:05.554Z</updated>
+    <updated>2024-04-26T21:18:04.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240427033356449"/>
         <updated>2024-04-26T19:16:22.611Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[생성 AI 길라잡이] ‘정부용 생성 AI’ 활용 방안 살펴보니]]></title>
+        <id>https://v.daum.net/v/20240426201202457</id>
+        <link href="https://v.daum.net/v/20240426201202457"/>
+        <updated>2024-04-26T21:17:33.032Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“점수보다 성장 따지는 美문화 덕에 성공”]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240426180854980"/>
         <updated>2024-04-26T11:15:49.663Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“한 순간 ‘57만원’ 날릴 뻔” 야놀자 믿고 떠난 방콕여행서 ‘날벼락’…어땠길래]]></title>
-        <id>https://v.daum.net/v/20240426175058502</id>
-        <link href="https://v.daum.net/v/20240426175058502"/>
-        <updated>2024-04-26T10:21:00.148Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
