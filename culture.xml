@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-04-27T09:18:09.929Z</updated>
+    <updated>2024-04-27T10:20:45.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1500회의 깨달음, 반려견은 보호자의 '거울'이구나]]></title>
+        <id>https://v.daum.net/v/20240427190601554</id>
+        <link href="https://v.daum.net/v/20240427190601554"/>
+        <updated>2024-04-27T10:19:48.396Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일요일 '낮 최고기온 30도' 초여름 날씨 지속… 전국 대체로 맑아]]></title>
         <id>https://v.daum.net/v/20240427180955044</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240427151242075"/>
         <updated>2024-04-27T07:15:34.904Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음식물·과자봉지 NO... 남양주 ‘음료컵 수거함’ 수난시대]]></title>
-        <id>https://v.daum.net/v/20240427153130305</id>
-        <link href="https://v.daum.net/v/20240427153130305"/>
-        <updated>2024-04-27T07:15:34.906Z</updated>
-        <content type="html"><![CDATA[경기일보]]></content>
     </entry>
 </feed>
