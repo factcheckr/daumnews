@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2024-04-27T15:20:27.714Z</updated>
+    <updated>2024-04-27T16:21:38.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 이어 유럽에도 한국전쟁·역사 체계적으로 알린다]]></title>
+        <id>https://v.daum.net/v/20240428001946987</id>
+        <link href="https://v.daum.net/v/20240428001946987"/>
+        <updated>2024-04-27T16:20:25.205Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무알콜 와인도 OK·블렌딩도 OK...영국, 와인 규제 대폭 완화]]></title>
         <id>https://v.daum.net/v/20240428001307960</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240427224813311"/>
         <updated>2024-04-27T14:16:44.279Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경찰 vs 학생 간 충돌로 번진 미국 대학 반전시위]]></title>
-        <id>https://v.daum.net/v/20240427220538036</id>
-        <link href="https://v.daum.net/v/20240427220538036"/>
-        <updated>2024-04-27T13:21:22.407Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
