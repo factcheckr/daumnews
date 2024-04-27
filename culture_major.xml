@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-04-27T17:19:07.964Z</updated>
+    <updated>2024-04-27T18:23:48.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제주마도 봄맞이....한라산 중턱 방목]]></title>
+        <id>https://v.daum.net/v/20240427211711553</id>
+        <link href="https://v.daum.net/v/20240427211711553"/>
+        <updated>2024-04-27T18:22:59.438Z</updated>
+        <content type="html"><![CDATA[JIBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국인 손에서 탄생한 시각효과…더 화려해진 혹성탈출]]></title>
         <id>https://v.daum.net/v/20240427204815206</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240427174500811"/>
         <updated>2024-04-27T11:14:37.569Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["자연으로 나가라"...몸 속 염증 수치에 이런 변화가]]></title>
-        <id>https://v.daum.net/v/20240427170531407</id>
-        <link href="https://v.daum.net/v/20240427170531407"/>
-        <updated>2024-04-27T11:14:37.572Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
