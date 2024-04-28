@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-04-28T19:15:24.659Z</updated>
+    <updated>2024-04-28T20:20:05.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]인텔·삼성·네이버 ‘AI 생태계’ 연합]]></title>
+        <id>https://v.daum.net/v/20240429050016825</id>
+        <link href="https://v.daum.net/v/20240429050016825"/>
+        <updated>2024-04-28T20:19:22.191Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최적의 기술은 협력과 융합에서 나온다 [알송달송 과학]]]></title>
+        <id>https://v.daum.net/v/20240429050012819</id>
+        <link href="https://v.daum.net/v/20240429050012819"/>
+        <updated>2024-04-28T20:19:22.192Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하루 5분 햇빛 쐬니… 암 이기는 장내 미생물 늘어]]></title>
         <id>https://v.daum.net/v/20240429030558346</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240428210019270"/>
         <updated>2024-04-28T12:33:14.173Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CO₂ 먹는 콘크리트 국내 첫 개발]]></title>
-        <id>https://v.daum.net/v/20240428161909198</id>
-        <link href="https://v.daum.net/v/20240428161909198"/>
-        <updated>2024-04-28T12:33:14.174Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10m 이내 초근접한 미·러 위성, 가까스로 충돌 피했다…북적이는 지구 궤도의 암초 ‘우주 파편’]]></title>
-        <id>https://v.daum.net/v/20240428201406923</id>
-        <link href="https://v.daum.net/v/20240428201406923"/>
-        <updated>2024-04-28T12:33:14.176Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>

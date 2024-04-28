@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-04-28T19:15:24.641Z</updated>
+    <updated>2024-04-28T20:20:05.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바다가 지울 수 없는 것[고양이 눈]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/1JEog0TNsq</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/1JEog0TNsq"/>
+        <updated>2024-04-28T20:19:38.396Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전공의 이탈 70일만에… 尹-李, 해법 처음 논의]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5932052/ZtgmwK1mmb</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1476/VUVjRP7vVi"/>
         <updated>2024-04-27T04:20:54.668Z</updated>
         <content type="html"><![CDATA[미국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["어린이병원 공격 위험" 환자 대피시키는 의료진]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033399/zYMrPf0Cf4</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033399/zYMrPf0Cf4"/>
-        <updated>2024-04-27T01:13:41.774Z</updated>
-        <content type="html"><![CDATA[우크라이나는 지금]]></content>
     </entry>
 </feed>
