@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-04-28T14:16:02.436Z</updated>
+    <updated>2024-04-28T16:23:02.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“저 화면으로 굳이 게임을?” 코웃음쳤는데…삼성이 한방 먹었다]]></title>
+        <id>https://v.daum.net/v/20240428184052960</id>
+        <link href="https://v.daum.net/v/20240428184052960"/>
+        <updated>2024-04-28T16:22:27.659Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이준기의 과·알·세] 반도체 `소부장` 국산화 산실… 소재·장비 성능평가 `한곳서`]]></title>
         <id>https://v.daum.net/v/20240428154721561</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240428150112274"/>
         <updated>2024-04-28T09:20:11.676Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] 챗GPT? 온디바이스?…‘뒷북’ 애플의 AI는 어떤 모습일까]]></title>
-        <id>https://v.daum.net/v/20240428171233408</id>
-        <link href="https://v.daum.net/v/20240428171233408"/>
-        <updated>2024-04-28T09:20:11.681Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>

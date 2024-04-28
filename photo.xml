@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-04-28T14:16:02.460Z</updated>
+    <updated>2024-04-28T16:23:02.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5847810/FCGgh3vazM"/>
         <updated>2024-04-28T09:20:17.719Z</updated>
         <content type="html"><![CDATA[지자체 제공 포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아직 4월인데, 벌써 여름입니다 [만리재사진첩]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1629566/fbR5bJ2X4S</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1629566/fbR5bJ2X4S"/>
+        <updated>2024-04-28T16:22:34.584Z</updated>
+        <content type="html"><![CDATA[만리재사진첩]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기세 눌리지 않는 치와와]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033399/zYMrPf0Cf4"/>
         <updated>2024-04-27T01:13:41.774Z</updated>
         <content type="html"><![CDATA[우크라이나는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 방문 마치고 워싱턴 행 전용기 타는 블링컨 국무]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1013249/9ktHsDJqUm</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1013249/9ktHsDJqUm"/>
-        <updated>2024-04-27T01:13:41.774Z</updated>
-        <content type="html"><![CDATA[세계의 외교현장]]></content>
     </entry>
 </feed>
