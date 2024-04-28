@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-04-28T20:20:05.514Z</updated>
+    <updated>2024-04-28T21:17:25.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]엔비디아 독주에 맞서… 인텔·삼성·네이버 ‘AI 생태계’ 연합]]></title>
+        <id>https://v.daum.net/v/20240429050016825</id>
+        <link href="https://v.daum.net/v/20240429050016825"/>
+        <updated>2024-04-28T21:16:57.492Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최적의 기술은 협력과 융합에서 나온다 [알송달송 과학]]]></title>
+        <id>https://v.daum.net/v/20240429050012819</id>
+        <link href="https://v.daum.net/v/20240429050012819"/>
+        <updated>2024-04-28T21:16:57.493Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지원금 브로커 활개, 과학계 1년간 혼선]]></title>
         <id>https://v.daum.net/v/20240429031326390</id>
@@ -20,6 +34,34 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[하루 5분 햇빛 쐬니… 암 이기는 장내 미생물 늘어]]></title>
+        <id>https://v.daum.net/v/20240429030558346</id>
+        <link href="https://v.daum.net/v/20240429030558346"/>
+        <updated>2024-04-28T21:16:57.498Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세계의 골칫덩이 ‘폐플라스틱’… 가스-액화 원료로 만들어 다시 쓴다]]></title>
+        <id>https://v.daum.net/v/20240429030554344</id>
+        <link href="https://v.daum.net/v/20240429030554344"/>
+        <updated>2024-04-28T21:16:57.500Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오, '사법리스크' 불씨 여전…'피의자' 김범수, 검찰 소환되나]]></title>
+        <id>https://v.daum.net/v/20240429000034470</id>
+        <link href="https://v.daum.net/v/20240429000034470"/>
+        <updated>2024-04-28T21:16:57.501Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C#12, 신규 기능 '기본 생성자’ 혹평..."역대 최악의 기능"]]></title>
+        <id>https://v.daum.net/v/20240428210019270</id>
+        <link href="https://v.daum.net/v/20240428210019270"/>
+        <updated>2024-04-28T21:16:57.503Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CO₂ 먹는 콘크리트 국내 첫 개발]]></title>
         <id>https://v.daum.net/v/20240428161909198</id>
         <link href="https://v.daum.net/v/20240428161909198"/>
@@ -32,47 +74,5 @@
         <link href="https://v.daum.net/v/20240428201406923"/>
         <updated>2024-04-28T20:19:30.837Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일상 속 ‘AI 로봇’ 시대…아이들 호기심 키워 국가경쟁력으로[찌릿찌릿(知it智it) 전기 교실]]]></title>
-        <id>https://v.daum.net/v/20240428201353920</id>
-        <link href="https://v.daum.net/v/20240428201353920"/>
-        <updated>2024-04-28T18:21:44.242Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“단통법 폐지보단 단말기 가격 인하 유도...외산폰 유치도 고려해야”]]></title>
-        <id>https://v.daum.net/v/20240428103434318</id>
-        <link href="https://v.daum.net/v/20240428103434318"/>
-        <updated>2024-04-28T18:21:44.244Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“저 화면으로 굳이 게임을?” 코웃음쳤는데…삼성이 한방 먹었다]]></title>
-        <id>https://v.daum.net/v/20240428184052960</id>
-        <link href="https://v.daum.net/v/20240428184052960"/>
-        <updated>2024-04-28T16:22:27.659Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이준기의 과·알·세] 반도체 `소부장` 국산화 산실… 소재·장비 성능평가 `한곳서`]]></title>
-        <id>https://v.daum.net/v/20240428154721561</id>
-        <link href="https://v.daum.net/v/20240428154721561"/>
-        <updated>2024-04-28T12:33:24.600Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“통신 대기업들 우리 동네 가게 달려들더니”…사장님 반응이]]></title>
-        <id>https://v.daum.net/v/20240428183604916</id>
-        <link href="https://v.daum.net/v/20240428183604916"/>
-        <updated>2024-04-28T12:33:24.600Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뻣뻣한 무릎 골관절염, 8년 전에 발병 예측하는 방법?]]></title>
-        <id>https://v.daum.net/v/20240428181104539</id>
-        <link href="https://v.daum.net/v/20240428181104539"/>
-        <updated>2024-04-28T12:33:24.604Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
