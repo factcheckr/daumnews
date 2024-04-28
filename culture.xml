@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-04-28T17:20:20.238Z</updated>
+    <updated>2024-04-28T18:22:24.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[6·25때 전남 교인 수백명 순교의 현장… “원수 갚는다, 사랑과 용서로”]]></title>
+        <id>https://v.daum.net/v/20240429030308279</id>
+        <link href="https://v.daum.net/v/20240429030308279"/>
+        <updated>2024-04-28T18:21:17.972Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘날씨, 전국 흐리고 비... 더위 한풀 꺾여 낮 기온 14∼27도]]></title>
         <id>https://v.daum.net/v/20240429000202506</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240428232356276"/>
         <updated>2024-04-28T16:22:03.697Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[녹유 오늘의 운세] 83년생 달라지지 않는 처음을 지켜요]]></title>
-        <id>https://v.daum.net/v/20240429000004440</id>
-        <link href="https://v.daum.net/v/20240429000004440"/>
-        <updated>2024-04-28T16:22:03.698Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
