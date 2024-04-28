@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-04-28T05:19:04.903Z</updated>
+    <updated>2024-04-28T06:23:54.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한라산 초원 질주하는 제주마]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5610796/zxipX9ts0W</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5610796/zxipX9ts0W"/>
+        <updated>2024-04-28T06:23:33.896Z</updated>
+        <content type="html"><![CDATA[모멘트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이관람객과 인사나누는 유인촌 장관]]></title>
         <id>https://gallery.v.daum.net/p/viewer/321090/fJIoqd9Hqw</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5032452/Y2Ek9Sc61V"/>
         <updated>2024-04-26T21:17:39.484Z</updated>
         <content type="html"><![CDATA[오늘의 1면 사진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[관람료는 힘찬 박수뿐]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/212305/p33J4b5rel</id>
-        <link href="https://gallery.v.daum.net/p/viewer/212305/p33J4b5rel"/>
-        <updated>2024-04-26T20:20:38.308Z</updated>
-        <content type="html"><![CDATA[포토 카페]]></content>
     </entry>
 </feed>
