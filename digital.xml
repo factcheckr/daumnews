@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-04-29T15:21:57.245Z</updated>
+    <updated>2024-04-29T16:28:17.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글 "최근 2년새 '사기 앱' 급증…악성앱 228만개 퇴출"]]></title>
+        <id>https://v.daum.net/v/20240430010005323</id>
+        <link href="https://v.daum.net/v/20240430010005323"/>
+        <updated>2024-04-29T16:27:32.324Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인공지능 서비스 기업의 투자 확대, 시장 흐름은?]]></title>
         <id>https://v.daum.net/v/20240429231500479</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240429205402105"/>
         <updated>2024-04-29T12:34:00.625Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세가의 미친 3D 기술력! 모델2 기판으로 오락실을 주름잡던 게임들!]]></title>
-        <id>https://v.daum.net/v/20240429203002761</id>
-        <link href="https://v.daum.net/v/20240429203002761"/>
-        <updated>2024-04-29T15:21:23.298Z</updated>
-        <content type="html"><![CDATA[게임동아]]></content>
     </entry>
 </feed>
