@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-04-29T02:29:53.444Z</updated>
+    <updated>2024-04-29T03:22:20.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“아이폰에 챗GPT 탑재?…애플, 오픈AI와 논의 재개”]]></title>
+        <id>https://v.daum.net/v/20240429104009910</id>
+        <link href="https://v.daum.net/v/20240429104009910"/>
+        <updated>2024-04-29T03:21:46.888Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인하대, 나노소재 기반 인공 시냅스 반도체 소자 개발]]></title>
+        <id>https://v.daum.net/v/20240429104034930</id>
+        <link href="https://v.daum.net/v/20240429104034930"/>
+        <updated>2024-04-29T03:21:46.889Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[말초신경 손상 치료 효과 큰 생체 재료 개발]]></title>
         <id>https://v.daum.net/v/20240429103234575</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240429094422267"/>
         <updated>2024-04-29T01:15:40.149Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[힘 못쓰는 비트코인…고점 이미 찍었다?]]></title>
-        <id>https://v.daum.net/v/20240429094237198</id>
-        <link href="https://v.daum.net/v/20240429094237198"/>
-        <updated>2024-04-29T01:15:40.150Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주정거장 박테리아 돌연변이…항생제에도 죽지 않았다]]></title>
-        <id>https://v.daum.net/v/20240429093509848</id>
-        <link href="https://v.daum.net/v/20240429093509848"/>
-        <updated>2024-04-29T01:15:40.151Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
