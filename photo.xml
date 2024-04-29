@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-04-29T21:18:04.749Z</updated>
+    <updated>2024-04-29T22:20:14.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고궁에 펼친 봄밤의 운치]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1270177/KD9fGUWA7u</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1270177/KD9fGUWA7u"/>
+        <updated>2024-04-29T22:19:48.863Z</updated>
+        <content type="html"><![CDATA[C컷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['갈팡질팡' 의대정원 증원…수험생들 "혼란스러워"]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5932052/XhtPIIaVgZ</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5029623/7MZznaP3UC"/>
         <updated>2024-04-29T08:24:26.939Z</updated>
         <content type="html"><![CDATA[조지아는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블링컨, GCC 사무국서 사우디 외교 회담]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1013249/WLq1CvkP3K</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1013249/WLq1CvkP3K"/>
-        <updated>2024-04-29T08:24:26.951Z</updated>
-        <content type="html"><![CDATA[세계의 외교현장]]></content>
     </entry>
 </feed>
