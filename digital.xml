@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-04-30T10:20:19.693Z</updated>
+    <updated>2024-04-30T11:18:23.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“새로운 AI 생태계 구축”…‘네이버·인텔·카이스트’ 공동연구]]></title>
+        <id>https://v.daum.net/v/20240430193958699</id>
+        <link href="https://v.daum.net/v/20240430193958699"/>
+        <updated>2024-04-30T11:17:50.763Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[충북 글로벌 혁신특구 확정…“난치병 치료 기대”]]></title>
+        <id>https://v.daum.net/v/20240430193756652</id>
+        <link href="https://v.daum.net/v/20240430193756652"/>
+        <updated>2024-04-30T11:17:50.764Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우주산업 뛰어든 제주…‘국가 계획·주민 수용성’ 과제]]></title>
         <id>https://v.daum.net/v/20240430190914930</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240430180044314"/>
         <updated>2024-04-30T09:21:19.450Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여기저기 보이는 ‘밀스펙’, 무슨 뜻이야? [IT 잡학다식]]]></title>
-        <id>https://v.daum.net/v/20240430180105328</id>
-        <link href="https://v.daum.net/v/20240430180105328"/>
-        <updated>2024-04-30T09:21:19.451Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["엔비디아 독주 막자", 네이버·인텔·KAIST `의기투합`…`K-AI반도체` 생태계 조성]]></title>
-        <id>https://v.daum.net/v/20240430163917523</id>
-        <link href="https://v.daum.net/v/20240430163917523"/>
-        <updated>2024-04-30T09:21:19.453Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
