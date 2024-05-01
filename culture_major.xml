@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-05-01T04:22:16.755Z</updated>
+    <updated>2024-05-01T05:19:05.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네잎클로버 구매기[유희경의 시:선(詩:選)]]]></title>
+        <id>https://v.daum.net/v/20240501113609350</id>
+        <link href="https://v.daum.net/v/20240501113609350"/>
+        <updated>2024-05-01T05:18:21.138Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이색적인 경찰서 토끼 사육…동물단체 '개체수 급증' 우려]]></title>
         <id>https://v.daum.net/v/20240501112942162</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240501101639235"/>
         <updated>2024-05-01T02:32:24.726Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[밀당365] 아무것도 안 먹었는데 공복혈당이 쭉쭉 올라요!]]></title>
-        <id>https://v.daum.net/v/20240501084016927</id>
-        <link href="https://v.daum.net/v/20240501084016927"/>
-        <updated>2024-05-01T02:32:24.729Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
