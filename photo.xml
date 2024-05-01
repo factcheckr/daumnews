@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-05-01T18:24:48.414Z</updated>
+    <updated>2024-05-01T19:17:43.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5847810/1dwIWMBW76"/>
         <updated>2024-05-01T13:20:01.278Z</updated>
         <content type="html"><![CDATA[지자체 제공 포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어디에 핀들]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/b9OHVIaVD9</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/b9OHVIaVD9"/>
+        <updated>2024-05-01T19:17:20.914Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[메뉴판에서 안 오른 건 라면사리뿐…민생은 뒷전인 불편한 만남 속 말없이 허기를 채운다[금주의 B컷]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1476/KZLSj4phuX"/>
         <updated>2024-05-01T06:25:47.457Z</updated>
         <content type="html"><![CDATA[미국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍기현 경기남부청장 "현장 대응력 강화, 치안 불안 해소"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1075022/KYx3lf0CBl</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1075022/KYx3lf0CBl"/>
-        <updated>2024-05-01T02:32:44.974Z</updated>
-        <content type="html"><![CDATA[경찰 제공 포토]]></content>
     </entry>
 </feed>
