@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-02T10:21:09.408Z</updated>
+    <updated>2024-05-02T11:18:16.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성의 발상 전환...AI칩 ‘마하’은 엔비디아와 정반대 전략]]></title>
+        <id>https://v.daum.net/v/20240502183342615</id>
+        <link href="https://v.daum.net/v/20240502183342615"/>
+        <updated>2024-05-02T11:17:42.904Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["왜 안 울렸지?" 英 아이폰 '무음 알람' 논란]]></title>
         <id>https://v.daum.net/v/20240502170902841</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240502173607897"/>
         <updated>2024-05-02T09:19:40.166Z</updated>
         <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초대 우주항공청장 "선진국 도약 위한 필수 산업"]]></title>
-        <id>https://v.daum.net/v/20240502171803213</id>
-        <link href="https://v.daum.net/v/20240502171803213"/>
-        <updated>2024-05-02T09:19:40.167Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>
