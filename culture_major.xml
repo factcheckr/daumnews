@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-05-02T11:18:16.840Z</updated>
+    <updated>2024-05-02T12:36:33.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박물관은 '지식쇼를 위한 실험실'…英 서펜타인은 게임과 손잡았다]]></title>
+        <id>https://v.daum.net/v/20240502193401027</id>
+        <link href="https://v.daum.net/v/20240502193401027"/>
+        <updated>2024-05-02T12:35:34.571Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[침몰하는 백악관 모습에 '소름'…"미국은 망했다"]]></title>
         <id>https://v.daum.net/v/20240502192609837</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“정치가 내부결속 못 이끌면 ‘17·19세기 실패’ 재연될 수도”]]></title>
+        <title type="html"><![CDATA[“미-중 충돌 지각변동기…정치는 ‘19세기의 실패’를 기억하라”]]></title>
         <id>https://v.daum.net/v/20240502192004691</id>
         <link href="https://v.daum.net/v/20240502192004691"/>
         <updated>2024-05-02T11:17:26.161Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240502173325793"/>
         <updated>2024-05-02T11:17:26.172Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선방위 “윤 대통령 부부 보도만 과잉 징계했다? 대단히 모욕적”]]></title>
-        <id>https://v.daum.net/v/20240502181117979</id>
-        <link href="https://v.daum.net/v/20240502181117979"/>
-        <updated>2024-05-02T11:17:26.174Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
