@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-05-03T17:19:26.243Z</updated>
+    <updated>2024-05-03T19:16:00.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노원구 통째로 뺐다넣은 수준…주택정책 신뢰 와르르]]></title>
+        <id>https://v.daum.net/v/20240504040300566</id>
+        <link href="https://v.daum.net/v/20240504040300566"/>
+        <updated>2024-05-03T19:14:39.765Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현대차, 자율주행에 1.2조 추가 투자… 테슬라 등과 경쟁]]></title>
         <id>https://v.daum.net/v/20240504014241271</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240504000002727"/>
         <updated>2024-05-03T16:24:27.814Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘슈링크플레이션’ 제동…“용량 변경 알려야”]]></title>
-        <id>https://v.daum.net/v/20240503232010352</id>
-        <link href="https://v.daum.net/v/20240503232010352"/>
-        <updated>2024-05-03T16:24:27.814Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
