@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-05-03T03:23:32.148Z</updated>
+    <updated>2024-05-03T04:24:17.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[IBS 자문위원회에 노벨상 수상자 2명 합류…연구원 운영 자문 맡는다]]></title>
+        <id>https://v.daum.net/v/20240503112456909</id>
+        <link href="https://v.daum.net/v/20240503112456909"/>
+        <updated>2024-05-03T04:23:38.700Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日연구진, ‘치아 자라게 하는 약’ 세계최초 개발... 임플란트 대안 되나]]></title>
         <id>https://v.daum.net/v/20240503121634599</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240503112501917"/>
         <updated>2024-05-03T02:32:10.633Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["박사 고용률 높지만 학위 걸맞은 일자리 부족"]]></title>
-        <id>https://v.daum.net/v/20240503112442895</id>
-        <link href="https://v.daum.net/v/20240503112442895"/>
-        <updated>2024-05-03T02:32:10.634Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
