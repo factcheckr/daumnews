@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-05-04T17:16:45.698Z</updated>
+    <updated>2024-05-04T18:22:30.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5847810/WueaPiVZ08"/>
         <updated>2024-05-04T13:21:17.381Z</updated>
         <content type="html"><![CDATA[지자체 제공 포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보이나요? 지구의 비명]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/584149/fLl6CyDxpo</id>
+        <link href="https://gallery.v.daum.net/p/viewer/584149/fLl6CyDxpo"/>
+        <updated>2024-05-04T18:22:08.691Z</updated>
+        <content type="html"><![CDATA[한 컷의 울림]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이탈리아 외교부 차관과 대화하는 유인촌 장관]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033350/5sdTIqXDuI"/>
         <updated>2024-05-03T08:22:10.208Z</updated>
         <content type="html"><![CDATA[호주는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라 키이우, 전쟁하는 나라 맞나]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033399/tjMSwpyj0P</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033399/tjMSwpyj0P"/>
-        <updated>2024-05-03T08:22:10.209Z</updated>
-        <content type="html"><![CDATA[우크라이나는 지금]]></content>
     </entry>
 </feed>
