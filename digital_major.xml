@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-04T05:21:22.102Z</updated>
+    <updated>2024-05-04T06:26:17.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이폰16, 이렇게 나올까…렌더링 영상 공개]]></title>
+        <id>https://v.daum.net/v/20240504110218416</id>
+        <link href="https://v.daum.net/v/20240504110218416"/>
+        <updated>2024-05-04T06:25:41.029Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["구글이 보낸 메일이 아니네?"…교묘해진 北 해킹에 美 정부 사이버보안 '경고']]></title>
         <id>https://v.daum.net/v/20240504110018387</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240504080038366"/>
         <updated>2024-05-04T01:13:53.659Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[배터리완전정복](35)전고체는 각형 or 파우치형?… 끝나지 않는 폼펙터 논란]]></title>
-        <id>https://v.daum.net/v/20240504080034362</id>
-        <link href="https://v.daum.net/v/20240504080034362"/>
-        <updated>2024-05-04T01:13:53.660Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
