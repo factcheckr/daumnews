@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-04T08:21:49.684Z</updated>
+    <updated>2024-05-04T09:20:05.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잡스는 떠났지만…MS-오픈AI ‘막후 실세’로 건재함 과시한 게이츠]]></title>
+        <id>https://v.daum.net/v/20240504140002912</id>
+        <link href="https://v.daum.net/v/20240504140002912"/>
+        <updated>2024-05-04T09:19:32.251Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이폰16 시리즈 금형 유출…전작과 비교해 봤더니]]></title>
         <id>https://v.daum.net/v/20240504132634640</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240504100056689"/>
         <updated>2024-05-04T02:25:57.615Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[우주경쟁①]뉴스페이스 영토 싸움…美中日 패권 누가 잡나]]></title>
-        <id>https://v.daum.net/v/20240504093016294</id>
-        <link href="https://v.daum.net/v/20240504093016294"/>
-        <updated>2024-05-04T02:25:57.617Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
