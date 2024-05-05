@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-05-05T09:21:07.306Z</updated>
+    <updated>2024-05-05T10:20:23.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정명훈·조성진·손열음 … 5월 클래식은 뜨겁다]]></title>
+        <id>https://v.daum.net/v/20240505171508539</id>
+        <link href="https://v.daum.net/v/20240505171508539"/>
+        <updated>2024-05-05T10:19:36.253Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“에이 설마~” 할 수 있는 ‘미니 뇌졸중’ 신호]]></title>
         <id>https://v.daum.net/v/20240505170016227</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240505160016567"/>
         <updated>2024-05-05T08:21:56.326Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“50~60대 여성의 암 너무 많아”...가장 좋은 식습관은?]]></title>
-        <id>https://v.daum.net/v/20240505155055449</id>
-        <link href="https://v.daum.net/v/20240505155055449"/>
-        <updated>2024-05-05T08:21:56.327Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
