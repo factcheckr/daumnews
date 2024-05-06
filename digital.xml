@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-05-06T14:19:50.517Z</updated>
+    <updated>2024-05-06T15:20:44.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI 돌풍에 흔들리는 ‘구글 왕국’…검색점유율 5년9개월만에 최저]]></title>
+        <id>https://v.daum.net/v/20240507001431949</id>
+        <link href="https://v.daum.net/v/20240507001431949"/>
+        <updated>2024-05-06T15:20:01.042Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메신저 넘어 인프라로…네이버, 라인 경영권 넘길 수 없는 이유]]></title>
+        <id>https://v.daum.net/v/20240507000103729</id>
+        <link href="https://v.daum.net/v/20240507000103729"/>
+        <updated>2024-05-06T15:20:01.047Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부품 바꿨는데 하루만에 또 고장…한빛원전 ‘제어카드’ 말썽]]></title>
         <id>https://v.daum.net/v/20240506215513919</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240506183525158"/>
         <updated>2024-05-06T10:21:48.097Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新골드러시…우주 대항해시대 열렸다]]></title>
-        <id>https://v.daum.net/v/20240506182901075</id>
-        <link href="https://v.daum.net/v/20240506182901075"/>
-        <updated>2024-05-06T10:21:48.099Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소행성 채굴전쟁…10년내 달 가로지르는 철도 깔린다]]></title>
-        <id>https://v.daum.net/v/20240506181601885</id>
-        <link href="https://v.daum.net/v/20240506181601885"/>
-        <updated>2024-05-06T12:34:37.966Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
