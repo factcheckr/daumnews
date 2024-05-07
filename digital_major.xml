@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-07T16:22:27.073Z</updated>
+    <updated>2024-05-07T17:17:55.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240508001238126"/>
         <updated>2024-05-07T15:20:52.264Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“이렇게 무너질 줄이야” 점유율 고작 3%…국민 포털 처참한 ‘몰락’]]></title>
+        <id>https://v.daum.net/v/20240507204242972</id>
+        <link href="https://v.daum.net/v/20240507204242972"/>
+        <updated>2024-05-07T17:17:20.980Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[독일산 이불이 더 우수?…방심위, 롯데홈쇼핑 등 '권고']]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240507184101256"/>
         <updated>2024-05-07T11:18:05.182Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]"개인정보유출 없다더니"…성심당 홈페이지 해킹, 최소 191개 유출 확인]]></title>
-        <id>https://v.daum.net/v/20240507184037245</id>
-        <link href="https://v.daum.net/v/20240507184037245"/>
-        <updated>2024-05-07T11:18:05.184Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
