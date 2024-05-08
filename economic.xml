@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-05-08T15:20:09.530Z</updated>
+    <updated>2024-05-08T16:24:21.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[탄소중립 향한 새 도전 ‘그린-알코올’ 경제]]></title>
+        <id>https://v.daum.net/v/20240509011003070</id>
+        <link href="https://v.daum.net/v/20240509011003070"/>
+        <updated>2024-05-08T16:22:56.608Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더는 못버티는 자영업자…5대은행 연체액 37% 늘었다]]></title>
         <id>https://v.daum.net/v/20240509001200748</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240508234947450"/>
         <updated>2024-05-08T15:18:33.732Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사라지는 한국 1호 원전 [김태훈의 의미 또는 재미]]]></title>
-        <id>https://v.daum.net/v/20240508231044126</id>
-        <link href="https://v.daum.net/v/20240508231044126"/>
-        <updated>2024-05-08T15:18:33.733Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
