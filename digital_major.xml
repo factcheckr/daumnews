@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-08T16:24:21.621Z</updated>
+    <updated>2024-05-08T17:17:33.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20240509000129551"/>
         <updated>2024-05-08T15:19:35.992Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["신차 뽑았는데, 새 차 냄새"... 생식기능 해치는 독성 숨어있다고?]]></title>
+        <id>https://v.daum.net/v/20240508223104694</id>
+        <link href="https://v.daum.net/v/20240508223104694"/>
+        <updated>2024-05-08T17:16:53.490Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["중1 때부터 봤어요"…20대女 '동성애 웹툰'에 푹 빠졌다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240508201802376"/>
         <updated>2024-05-08T13:29:04.999Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“알뜰폰 경쟁력 상실 우려...정부 도매대가 협상 개입해야”]]></title>
-        <id>https://v.daum.net/v/20240508103736748</id>
-        <link href="https://v.daum.net/v/20240508103736748"/>
-        <updated>2024-05-08T12:41:20.331Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
