@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-05-09T18:23:23.758Z</updated>
+    <updated>2024-05-09T19:16:12.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20240510030214457"/>
         <updated>2024-05-09T18:22:29.581Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[커피는 안 마셔도 카페에서 쉬고 싶어]]></title>
+        <id>https://v.daum.net/v/20240510012505224</id>
+        <link href="https://v.daum.net/v/20240510012505224"/>
+        <updated>2024-05-09T19:15:19.972Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“철의 역사, 문화로 타오르다”…미리보는 울산쇠부리축제]]></title>
+        <id>https://v.daum.net/v/20240510001602807</id>
+        <link href="https://v.daum.net/v/20240510001602807"/>
+        <updated>2024-05-09T19:15:19.973Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[해무 속 아련한 노을…철새도 반해 자고 간다]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240510000022498"/>
         <updated>2024-05-09T15:21:36.218Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유석재의 돌발史전] ‘대도(大盜)’의 시대는 정녕 지나갔는가]]></title>
-        <id>https://v.daum.net/v/20240510000019493</id>
-        <link href="https://v.daum.net/v/20240510000019493"/>
-        <updated>2024-05-09T15:21:36.220Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[약 없는 '중독 치료'의 게임체인저? 하루 30분 집에서 '이것' 활용]]></title>
-        <id>https://v.daum.net/v/20240509230015068</id>
-        <link href="https://v.daum.net/v/20240509230015068"/>
-        <updated>2024-05-09T15:21:36.222Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
