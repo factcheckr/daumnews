@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-05-09T03:22:47.125Z</updated>
+    <updated>2024-05-09T04:26:31.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대기 덮인 ‘슈퍼 지구’ 첫 발견…그런데 생명체 못 사는 이유는?]]></title>
+        <id>https://v.daum.net/v/20240509125415094</id>
+        <link href="https://v.daum.net/v/20240509125415094"/>
+        <updated>2024-05-09T04:25:47.881Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[항생제·위산억제제 함께 쓰면?…항생제 내성균 감염 위험 ‘증가’]]></title>
         <id>https://v.daum.net/v/20240509121426983</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240509114412784"/>
         <updated>2024-05-09T03:22:05.109Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["中 도약하는 車산업…SDV 경쟁 뒤쳐지면 생존 위협"]]></title>
-        <id>https://v.daum.net/v/20240509113941563</id>
-        <link href="https://v.daum.net/v/20240509113941563"/>
-        <updated>2024-05-09T03:22:05.111Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
