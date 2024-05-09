@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-05-09T14:21:10.531Z</updated>
+    <updated>2024-05-09T15:22:36.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“IT 경술국치” 부글부글… 네이버 침묵 놓고도 반감 확산]]></title>
+        <id>https://v.daum.net/v/20240510000544606</id>
+        <link href="https://v.daum.net/v/20240510000544606"/>
+        <updated>2024-05-09T15:21:49.574Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[두꺼비 독도 잘 쓰면 약, 우울증과 불안 치료한다]]></title>
         <id>https://v.daum.net/v/20240509151234065</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240509203714074"/>
         <updated>2024-05-09T13:23:51.340Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SK하이닉스, HBM 이어 AI폰 메모리서도 주도권 잡는다]]></title>
-        <id>https://v.daum.net/v/20240509201234608</id>
-        <link href="https://v.daum.net/v/20240509201234608"/>
-        <updated>2024-05-09T11:18:43.531Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
