@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-09T04:26:31.582Z</updated>
+    <updated>2024-05-09T05:21:41.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["中 도약하는 車산업…SDV 경쟁 뒤쳐지면 생존 위협"]]></title>
+        <title type="html"><![CDATA[개인 맞춤형 정밀 의료 앞당기는 '데이터 렌즈']]></title>
+        <id>https://v.daum.net/v/20240509114812959</id>
+        <link href="https://v.daum.net/v/20240509114812959"/>
+        <updated>2024-05-09T05:21:08.270Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[육아하는 아빠 과학자]② "육아휴직 1년이 복귀 후 연구의 동력"]]></title>
+        <id>https://v.daum.net/v/20240509114412784</id>
+        <link href="https://v.daum.net/v/20240509114412784"/>
+        <updated>2024-05-09T05:21:08.271Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["中 車산업 도약…SDV 경쟁 뒤처지면 생존 위협"]]></title>
         <id>https://v.daum.net/v/20240509113941563</id>
         <link href="https://v.daum.net/v/20240509113941563"/>
         <updated>2024-05-09T04:25:56.671Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240509102615921"/>
         <updated>2024-05-09T02:34:07.723Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['27년 생성AI 노트북 75%달할 것..생태계 중심은 MS]]></title>
-        <id>https://v.daum.net/v/20240509102610919</id>
-        <link href="https://v.daum.net/v/20240509102610919"/>
-        <updated>2024-05-09T02:34:07.724Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유전자 빅데이터서 단 3%… 유용한 정보만 쏙쏙 골라내는 도구 개발]]></title>
-        <id>https://v.daum.net/v/20240509102553907</id>
-        <link href="https://v.daum.net/v/20240509102553907"/>
-        <updated>2024-05-09T02:34:07.726Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
