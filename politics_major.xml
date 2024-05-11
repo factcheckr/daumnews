@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-05-11T16:26:05.571Z</updated>
+    <updated>2024-05-11T17:18:17.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["윤 정권의 매국 행위, 마치 '일본 총리실의 용산 출장소' 같아"]]></title>
+        <id>https://v.daum.net/v/20240511220854833</id>
+        <link href="https://v.daum.net/v/20240511220854833"/>
+        <updated>2024-05-11T17:16:49.562Z</updated>
+        <content type="html"><![CDATA[프레시안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[탐사보도 뉴스프리즘] '각국도생' 군비 경쟁…'세계 경찰'은 없다]]></title>
         <id>https://v.daum.net/v/20240511220150783</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240511203116802"/>
         <updated>2024-05-11T13:19:41.951Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외교부 “‘사도광산에 강제동원 사실 반영’ 요구 일관”…산케이 보도 반박]]></title>
-        <id>https://v.daum.net/v/20240511202425748</id>
-        <link href="https://v.daum.net/v/20240511202425748"/>
-        <updated>2024-05-11T12:30:44.467Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
