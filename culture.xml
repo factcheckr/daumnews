@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-05-11T19:16:24.462Z</updated>
+    <updated>2024-05-11T20:20:36.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[달달해서 마시기 편한 '하이볼'이 더 치명적인 이유]]></title>
+        <id>https://v.daum.net/v/20240512050015490</id>
+        <link href="https://v.daum.net/v/20240512050015490"/>
+        <updated>2024-05-11T20:19:45.185Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전통이냐 파격이냐...발레 '로미오와 줄리엣' 격돌]]></title>
         <id>https://v.daum.net/v/20240512023417234</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240511221826942"/>
         <updated>2024-05-11T14:18:22.277Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비바람 뚫고 형형색색 연등행렬…우비입은 관람객 '탄성'(종합)]]></title>
-        <id>https://v.daum.net/v/20240511221057860</id>
-        <link href="https://v.daum.net/v/20240511221057860"/>
-        <updated>2024-05-11T13:20:28.763Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
