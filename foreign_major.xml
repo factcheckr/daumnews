@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-05-11T12:32:04.295Z</updated>
+    <updated>2024-05-11T13:21:33.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["미국, 중국산 전기차 관세 4배 인상"…'중국 때리기' 경쟁]]></title>
+        <id>https://v.daum.net/v/20240511201152670</id>
+        <link href="https://v.daum.net/v/20240511201152670"/>
+        <updated>2024-05-11T13:20:18.915Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본 정부 뒷배 믿고…경영권 뺏고 지분도 헐값에?]]></title>
         <id>https://v.daum.net/v/20240511202706774</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240511190433052"/>
         <updated>2024-05-11T11:14:40.853Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인플레이션에 카드 사용↑…빚의 늪에 빠진 美 Z세대]]></title>
-        <id>https://v.daum.net/v/20240511190014017</id>
-        <link href="https://v.daum.net/v/20240511190014017"/>
-        <updated>2024-05-11T11:14:40.853Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>

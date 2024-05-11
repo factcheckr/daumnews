@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2024-05-11T12:32:04.297Z</updated>
+    <updated>2024-05-11T13:21:33.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["푸바오 낙천적, 적응 잘해"…중국 판다센터, 최신영상 공개]]></title>
+        <id>https://v.daum.net/v/20240511214916686</id>
+        <link href="https://v.daum.net/v/20240511214916686"/>
+        <updated>2024-05-11T13:20:09.906Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폴란드 총리, '러 동맹' 벨라루스 국경 찾아 "경계 강화"]]></title>
         <id>https://v.daum.net/v/20240511211356317</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240511203912846"/>
         <updated>2024-05-11T12:31:07.013Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["미국, 중국산 전기차 관세 4배 인상"…'중국 때리기' 경쟁]]></title>
-        <id>https://v.daum.net/v/20240511201152670</id>
-        <link href="https://v.daum.net/v/20240511201152670"/>
-        <updated>2024-05-11T12:31:07.014Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
