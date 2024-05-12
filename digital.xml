@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-05-12T14:17:28.112Z</updated>
+    <updated>2024-05-12T15:19:50.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대통령실 "지분매각 제외 모든 대책 지원"… 對日 협상력 키우기]]></title>
+        <id>https://v.daum.net/v/20240512232700990</id>
+        <link href="https://v.daum.net/v/20240512232700990"/>
+        <updated>2024-05-12T15:19:06.075Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[더 보다] 예술램프 인공지능?!]]></title>
         <id>https://v.daum.net/v/20240512231042886</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240512213059975"/>
         <updated>2024-05-12T13:18:43.703Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“신입 초봉 6500만원, 휴가 한달” 역대급 ‘공고’…우르르 줄섰다]]></title>
-        <id>https://v.daum.net/v/20240512184101054</id>
-        <link href="https://v.daum.net/v/20240512184101054"/>
-        <updated>2024-05-12T12:33:29.972Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
