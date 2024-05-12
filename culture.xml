@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-05-12T18:26:27.715Z</updated>
+    <updated>2024-05-12T19:15:58.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[맑은 하늘…황사 사라지고 미세먼지 '보통' [날씨]]]></title>
+        <id>https://v.daum.net/v/20240513033121339</id>
+        <link href="https://v.daum.net/v/20240513033121339"/>
+        <updated>2024-05-12T19:14:59.257Z</updated>
+        <content type="html"><![CDATA[경기일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[육아·돌봄 법안 서둘러 처리해야]]></title>
         <id>https://v.daum.net/v/20240513030506224</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240513015248790"/>
         <updated>2024-05-12T17:15:29.333Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대가의 관록' 자랑한 정명훈…흔들림 없이 도쿄필 이끌어]]></title>
-        <id>https://v.daum.net/v/20240512183601958</id>
-        <link href="https://v.daum.net/v/20240512183601958"/>
-        <updated>2024-05-12T16:21:40.850Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>

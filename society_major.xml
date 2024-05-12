@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2024-05-12T18:26:27.685Z</updated>
+    <updated>2024-05-12T19:15:58.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -31,6 +31,13 @@
         <id>https://v.daum.net/v/20240513030317119</id>
         <link href="https://v.daum.net/v/20240513030317119"/>
         <updated>2024-05-12T18:24:07.487Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중대재해법 재유예 법안, 결국 21대국회 폐기 수순… ‘로톡법’도 처리 어려울듯]]></title>
+        <id>https://v.daum.net/v/20240513030125042</id>
+        <link href="https://v.daum.net/v/20240513030125042"/>
+        <updated>2024-05-12T19:13:58.624Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240513021342855"/>
         <updated>2024-05-12T18:24:07.492Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“무허가 영업 신고해줘?”…고령 노점상 협박·행패 60대 검거 [사건수첩]]]></title>
-        <id>https://v.daum.net/v/20240513010651658</id>
-        <link href="https://v.daum.net/v/20240513010651658"/>
-        <updated>2024-05-12T18:24:07.495Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
