@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-05-13T15:21:17.081Z</updated>
+    <updated>2024-05-13T16:29:40.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보름만 참으면 되는데… 김남국, 1억원어치 코인 송금]]></title>
+        <id>https://v.daum.net/v/20240514000713048</id>
+        <link href="https://v.daum.net/v/20240514000713048"/>
+        <updated>2024-05-13T16:28:20.191Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트램 1호선 ‘윤곽’…정차역 15곳, 출·퇴근 배차간격 10분]]></title>
         <id>https://v.daum.net/v/20240514001519172</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240513220001011"/>
         <updated>2024-05-13T13:22:35.259Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[농업 판도 바꾸는 스마트팜…교육생 북적]]></title>
-        <id>https://v.daum.net/v/20240513215710981</id>
-        <link href="https://v.daum.net/v/20240513215710981"/>
-        <updated>2024-05-13T13:22:35.260Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
