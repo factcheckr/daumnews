@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2024-05-13T18:25:40.618Z</updated>
+    <updated>2024-05-13T19:18:42.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240514030335848"/>
         <updated>2024-05-13T18:23:39.648Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글로컬 예비대학들 “혁신 전략 세워 최종 통과할 것”]]></title>
+        <id>https://v.daum.net/v/20240514030230781</id>
+        <link href="https://v.daum.net/v/20240514030230781"/>
+        <updated>2024-05-13T19:17:04.573Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“희생자 가족도 국가폭력 피해자… 모두 함께 어우러지는 5·18 되길”]]></title>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20240514020742617</id>
         <link href="https://v.daum.net/v/20240514020742617"/>
         <updated>2024-05-13T18:23:39.656Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교육부 “의사 국가시험 일정 연기, 복지부와 협의할 것”]]></title>
-        <id>https://v.daum.net/v/20240514013444546</id>
-        <link href="https://v.daum.net/v/20240514013444546"/>
-        <updated>2024-05-13T18:23:39.657Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
