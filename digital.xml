@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-05-15T18:28:33.448Z</updated>
+    <updated>2024-05-15T19:16:51.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[왜 그러나 했더니… 라인, 일본 사회 인프라였다]]></title>
+        <id>https://v.daum.net/v/20240516032550816</id>
+        <link href="https://v.daum.net/v/20240516032550816"/>
+        <updated>2024-05-15T19:16:08.135Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영상 편집, 음악 제작 등 창작자에게 필수 AI툴 개발 전쟁]]></title>
         <id>https://v.daum.net/v/20240516030303713</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240516000708832"/>
         <updated>2024-05-15T15:21:30.494Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오픈AI 천재개발자 일리야 수츠케버 회사 떠난다]]></title>
-        <id>https://v.daum.net/v/20240515234649560</id>
-        <link href="https://v.daum.net/v/20240515234649560"/>
-        <updated>2024-05-15T15:21:30.496Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
