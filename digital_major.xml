@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-15T10:20:48.281Z</updated>
+    <updated>2024-05-15T11:16:59.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["신발 작아서 반품할래" AI에 말했더니…놀라운 일 벌어졌다]]></title>
+        <id>https://v.daum.net/v/20240515181105661</id>
+        <link href="https://v.daum.net/v/20240515181105661"/>
+        <updated>2024-05-15T11:16:31.012Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부, '초거대 AI 플래그십 프로젝트' 성과 분석 나선다]]></title>
         <id>https://v.daum.net/v/20240515140341506</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[전자신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“괴물급 소녀 꽂히더니” 시끌벅적…요즘 20대 10배 올라도 산다]]></title>
+        <title type="html"><![CDATA[“괴물급 소녀 꽂히더니” 요즘 20대 난리…10배 올라도 산다]]></title>
         <id>https://v.daum.net/v/20240515174244300</id>
         <link href="https://v.daum.net/v/20240515174244300"/>
         <updated>2024-05-15T10:20:22.473Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240515170109717"/>
         <updated>2024-05-15T09:22:32.046Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓 슈퍼컴 보유 대수 세계 7위…성능은 한 계단 하락]]></title>
-        <id>https://v.daum.net/v/20240515163141173</id>
-        <link href="https://v.daum.net/v/20240515163141173"/>
-        <updated>2024-05-15T09:22:32.048Z</updated>
-        <content type="html"><![CDATA[대전일보]]></content>
     </entry>
 </feed>
