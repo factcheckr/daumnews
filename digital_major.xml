@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-15T02:34:55.153Z</updated>
+    <updated>2024-05-15T03:24:21.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 44조원 규모 ‘AI 규제 로드맵’… 일자리 피해 최소화 조항 등 담겼다]]></title>
+        <id>https://v.daum.net/v/20240515050253629</id>
+        <link href="https://v.daum.net/v/20240515050253629"/>
+        <updated>2024-05-15T03:23:54.973Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 학습에 딥러닝 말고 딴 방법이 있다?...초차원연산 세계 첫 실용화]]></title>
         <id>https://v.daum.net/v/20240515100307105</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240515080054179"/>
         <updated>2024-05-15T01:17:00.525Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙홀에 빨려 들어가면 어떻게 될까…“사건의 지평선 너머는”]]></title>
-        <id>https://v.daum.net/v/20240515072845786</id>
-        <link href="https://v.daum.net/v/20240515072845786"/>
-        <updated>2024-05-15T01:17:00.527Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>

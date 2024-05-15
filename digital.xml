@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-05-15T02:34:55.135Z</updated>
+    <updated>2024-05-15T03:24:21.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ICT 수출액 6개월 연속 증가세...25개월 만에 30%대 증가율]]></title>
+        <id>https://v.daum.net/v/20240515115742281</id>
+        <link href="https://v.daum.net/v/20240515115742281"/>
+        <updated>2024-05-15T03:23:47.789Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뇌졸중 환자 손 재활 돕는다…KAIST, AI 기반 고정확도 손동작 의도파악 기술 구현]]></title>
         <id>https://v.daum.net/v/20240515112119694</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240515103654770"/>
         <updated>2024-05-15T02:34:13.615Z</updated>
         <content type="html"><![CDATA[스포츠조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 44조원 규모 ‘AI 규제 로드맵’… 일자리 피해 최소화 조항 등 담겼다]]></title>
-        <id>https://v.daum.net/v/20240515050253629</id>
-        <link href="https://v.daum.net/v/20240515050253629"/>
-        <updated>2024-05-15T02:34:13.616Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
