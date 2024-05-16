@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-16T13:22:53.309Z</updated>
+    <updated>2024-05-16T14:19:13.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[韓 로봇공학자들, 세계 최대 로봇학회서 상 휩쓸었다]]></title>
+        <id>https://v.daum.net/v/20240516202148129</id>
+        <link href="https://v.daum.net/v/20240516202148129"/>
+        <updated>2024-05-16T14:18:44.770Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도이치텔레콤, 3년 만에 메타와 망대가 소송서 승소]]></title>
         <id>https://v.daum.net/v/20240516201306984</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240516182401062"/>
         <updated>2024-05-16T10:19:59.810Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["케이블TV 쇠퇴에도 지상파 재송신료 3배로…재논의해야"]]></title>
-        <id>https://v.daum.net/v/20240516182142989</id>
-        <link href="https://v.daum.net/v/20240516182142989"/>
-        <updated>2024-05-16T10:19:59.813Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
