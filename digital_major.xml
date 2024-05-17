@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-17T10:20:22.231Z</updated>
+    <updated>2024-05-17T11:18:03.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://v.daum.net/v/20240517183003310"/>
         <updated>2024-05-17T10:19:49.610Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이탈 ‘전공의’, 20일부터 복귀해야 내년 전문의 자격 취득 가능해]]></title>
+        <id>https://v.daum.net/v/20240517175645437</id>
+        <link href="https://v.daum.net/v/20240517175645437"/>
+        <updated>2024-05-17T11:17:36.964Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[약배송 허용 비대면진료 법안 국회 제출돼]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240517162457826"/>
         <updated>2024-05-17T09:21:26.058Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[애니멀리포트] 해달, 부드러운 먹이 사라지자 도구 들었다]]></title>
-        <id>https://v.daum.net/v/20240517162441816</id>
-        <link href="https://v.daum.net/v/20240517162441816"/>
-        <updated>2024-05-17T09:21:26.059Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
