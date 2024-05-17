@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-05-17T11:18:03.045Z</updated>
+    <updated>2024-05-17T12:34:11.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어느 도파민 중독자의 변명 #여자읽는여자]]></title>
+        <id>https://v.daum.net/v/20240517185157695</id>
+        <link href="https://v.daum.net/v/20240517185157695"/>
+        <updated>2024-05-17T12:33:21.257Z</updated>
+        <content type="html"><![CDATA[엘르]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기자 출신 화가가 그린 시간에 갇힌 ‘고독한 거인들’]]></title>
         <id>https://v.daum.net/v/20240517184800627</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240517174222096"/>
         <updated>2024-05-17T09:21:08.421Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먹거리, 볼거리... 최명희 <혼불>로 가득찬 전주 여행]]></title>
-        <id>https://v.daum.net/v/20240517165700779</id>
-        <link href="https://v.daum.net/v/20240517165700779"/>
-        <updated>2024-05-17T09:21:08.423Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
