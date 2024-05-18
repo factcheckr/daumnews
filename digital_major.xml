@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-18T07:20:08.513Z</updated>
+    <updated>2024-05-18T08:22:49.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오픈AI, 슈퍼얼라이언먼트 팀 해체…팀원들 줄줄이 퇴사]]></title>
+        <id>https://v.daum.net/v/20240518141800324</id>
+        <link href="https://v.daum.net/v/20240518141800324"/>
+        <updated>2024-05-18T08:22:17.517Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인공지능 챗봇이 알려주는 정보 믿어도 될까 [달콤한 사이언스]]]></title>
         <id>https://v.daum.net/v/20240518140245118</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240518112941483"/>
         <updated>2024-05-18T05:19:24.236Z</updated>
         <content type="html"><![CDATA[게임톡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[게임위드인] 네오위즈 DJMAX, 리듬게임 넘어 음악 레이블로 '드라이브']]></title>
-        <id>https://v.daum.net/v/20240518110018049</id>
-        <link href="https://v.daum.net/v/20240518110018049"/>
-        <updated>2024-05-18T05:19:24.238Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
