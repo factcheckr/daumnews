@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-05-18T03:21:17.175Z</updated>
+    <updated>2024-05-18T04:22:50.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오픈AI, 올트먼과 대립한 ‘안전팀’ 해체… 내전 사태 후폭풍?]]></title>
+        <id>https://v.daum.net/v/20240518114341627</id>
+        <link href="https://v.daum.net/v/20240518114341627"/>
+        <updated>2024-05-18T04:21:51.427Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제정 러시아 식민지 계획의 상징… 푸틴, 하얼빈 행보 주목]]></title>
         <id>https://v.daum.net/v/20240518110048061</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240518110012046"/>
         <updated>2024-05-18T02:30:11.442Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아프가니스탄서 스페인 관광객 3명 등 4명 피격 사망]]></title>
-        <id>https://v.daum.net/v/20240518105943033</id>
-        <link href="https://v.daum.net/v/20240518105943033"/>
-        <updated>2024-05-18T02:30:11.442Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
