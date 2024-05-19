@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-05-19T03:23:16.272Z</updated>
+    <updated>2024-05-19T04:23:13.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[르포] K-반도체, 엔비디아 넘는 고성능·저전력 AI반도체 개발한다]]></title>
+        <id>https://v.daum.net/v/20240519124637639</id>
+        <link href="https://v.daum.net/v/20240519124637639"/>
+        <updated>2024-05-19T04:22:32.549Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓 주도 '디지털 심화 대응' OECD 협의체 발족…각국 사례 정기 공유]]></title>
         <id>https://v.daum.net/v/20240519120111146</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240519111047193"/>
         <updated>2024-05-19T02:33:25.704Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인간 몸에서 두 달 넘지 못한 돼지 장기, “교훈은 컸다”]]></title>
-        <id>https://v.daum.net/v/20240519103211481</id>
-        <link href="https://v.daum.net/v/20240519103211481"/>
-        <updated>2024-05-19T02:33:25.707Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
