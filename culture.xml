@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-05-19T17:20:27.208Z</updated>
+    <updated>2024-05-19T18:25:25.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일제때 훼손 ‘화성행궁’, 119년 만에 제모습 찾았다]]></title>
+        <id>https://v.daum.net/v/20240520030129450</id>
+        <link href="https://v.daum.net/v/20240520030129450"/>
+        <updated>2024-05-19T18:24:32.556Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“시와 서예가 어우러지는 담채 수묵화”…한국경기시인협회, 시인 56인 ‘2024 시서전’]]></title>
         <id>https://v.daum.net/v/20240519150056125</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240519233047278"/>
         <updated>2024-05-19T15:18:19.648Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혈당 높으면 '눈'을 살펴라… 왜?]]></title>
-        <id>https://v.daum.net/v/20240519220019610</id>
-        <link href="https://v.daum.net/v/20240519220019610"/>
-        <updated>2024-05-19T14:16:35.790Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
