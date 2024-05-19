@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-05-19T18:25:25.816Z</updated>
+    <updated>2024-05-19T19:15:40.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240520030035420"/>
         <updated>2024-05-19T18:24:38.574Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[덕수궁 시체더미서 가져갔다…어느 미군의 '양말 속 국새']]></title>
+        <id>https://v.daum.net/v/20240519233047278</id>
+        <link href="https://v.daum.net/v/20240519233047278"/>
+        <updated>2024-05-19T19:14:52.721Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[혈당 높으면 '눈'을 살펴라… 왜?]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240519171741113"/>
         <updated>2024-05-19T14:16:41.913Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“밥 무꼬 하자!” 주민 80명 사는 섬에서 열린 첫 영화제]]></title>
-        <id>https://v.daum.net/v/20240519201247667</id>
-        <link href="https://v.daum.net/v/20240519201247667"/>
-        <updated>2024-05-19T12:32:51.528Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
