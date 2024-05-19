@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-05-19T12:33:31.373Z</updated>
+    <updated>2024-05-19T13:19:32.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“농기계 수리는 농번기 지나서?”…수리도, 교환도 곤란]]></title>
+        <id>https://v.daum.net/v/20240519214744522</id>
+        <link href="https://v.daum.net/v/20240519214744522"/>
+        <updated>2024-05-19T13:18:17.773Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘고향사랑 지정 기부’…기부 참여 늘어날까?]]></title>
         <id>https://v.daum.net/v/20240519212758373</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240519205102022"/>
         <updated>2024-05-19T12:32:12.585Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["귀국 축하금 쏜다" 100만 가입…과열되자 여행보험 점검]]></title>
-        <id>https://v.daum.net/v/20240519204204954</id>
-        <link href="https://v.daum.net/v/20240519204204954"/>
-        <updated>2024-05-19T12:32:12.586Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
