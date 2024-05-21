@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-05-21T13:27:00.927Z</updated>
+    <updated>2024-05-21T14:19:24.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[EU, 세계 첫 'AI법' 확정…이사회 최종 승인]]></title>
+        <id>https://v.daum.net/v/20240521222826867</id>
+        <link href="https://v.daum.net/v/20240521222826867"/>
+        <updated>2024-05-21T14:18:37.032Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["골든타임 중요한 뇌졸중"...피 검사로 치명적인지 빠르게 진단]]></title>
         <id>https://v.daum.net/v/20240521210031168</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240521150307217"/>
         <updated>2024-05-21T08:23:32.205Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최수연 대표, 英장관 만나 "네이버는 AI 안정성 가장 고민하는 기업"]]></title>
-        <id>https://v.daum.net/v/20240521163252043</id>
-        <link href="https://v.daum.net/v/20240521163252043"/>
-        <updated>2024-05-21T08:23:32.205Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
