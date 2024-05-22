@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-05-22T18:27:30.848Z</updated>
+    <updated>2024-05-22T19:16:34.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[낮 기온 25도 '훌쩍'…수도권 일부는 이슬비 [날씨]]]></title>
+        <id>https://v.daum.net/v/20240523033130463</id>
+        <link href="https://v.daum.net/v/20240523033130463"/>
+        <updated>2024-05-22T19:15:39.626Z</updated>
+        <content type="html"><![CDATA[경기일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[볼쇼이 수석무용수-지휘자 이승원… ‘월드클래스 스타 초청 콘서트’ 무대]]></title>
         <id>https://v.daum.net/v/20240523030336274</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240523003700630"/>
         <updated>2024-05-22T16:26:20.865Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MZ들은 왜 비영리를 떠나려 했을까]]></title>
-        <id>https://v.daum.net/v/20240523003613624</id>
-        <link href="https://v.daum.net/v/20240523003613624"/>
-        <updated>2024-05-22T16:26:20.868Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
