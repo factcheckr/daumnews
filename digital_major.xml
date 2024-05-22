@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-22T21:21:03.245Z</updated>
+    <updated>2024-05-22T22:18:41.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20240522181201446"/>
         <updated>2024-05-22T21:20:34.709Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한양대, 고무처럼 늘려도 RF통신되는 E-스킨 세계 첫 개발]]></title>
+        <id>https://v.daum.net/v/20240523000645302</id>
+        <link href="https://v.daum.net/v/20240523000645302"/>
+        <updated>2024-05-22T22:18:08.043Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고무처럼 늘어나도 통신 성능 그대로…신축성 기판소재 개발]]></title>
+        <id>https://v.daum.net/v/20240523000011091</id>
+        <link href="https://v.daum.net/v/20240523000011091"/>
+        <updated>2024-05-22T22:18:08.046Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공장업무 관찰해 조립 따라하는 로봇 나온다]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240522185239400"/>
         <updated>2024-05-22T15:23:19.723Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“가짜뉴스 만드는 AI 막아라”...한·스위스 전문가들 아이디어 모았다]]></title>
-        <id>https://v.daum.net/v/20240522181926692</id>
-        <link href="https://v.daum.net/v/20240522181926692"/>
-        <updated>2024-05-22T15:23:19.725Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["한국, 땅 부족한데 잘됐네"…'꿈의 기술' 개발 뛰어들었다]]></title>
-        <id>https://v.daum.net/v/20240522174904762</id>
-        <link href="https://v.daum.net/v/20240522174904762"/>
-        <updated>2024-05-22T14:22:14.014Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
