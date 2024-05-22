@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-22T08:25:39.129Z</updated>
+    <updated>2024-05-22T09:22:17.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나델라 MS CEO "AI는 인간지능 아닌 도구"…알트먼과 미묘한 입장차]]></title>
+        <id>https://v.daum.net/v/20240522101445682</id>
+        <link href="https://v.daum.net/v/20240522101445682"/>
+        <updated>2024-05-22T09:21:50.770Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["AI는 전기와 비슷한 역할 할 것…정전 없게 선제 대응해야"]]></title>
         <id>https://v.daum.net/v/20240522163556061</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240522134612877"/>
         <updated>2024-05-22T06:27:03.361Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 삼성 갤럭시버즈3, 콩나물처럼 길어진다...음질·AI 기능 강화]]></title>
-        <id>https://v.daum.net/v/20240522114117846</id>
-        <link href="https://v.daum.net/v/20240522114117846"/>
-        <updated>2024-05-22T06:27:03.363Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
