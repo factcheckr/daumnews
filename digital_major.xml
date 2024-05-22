@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-22T02:33:01.166Z</updated>
+    <updated>2024-05-22T03:23:42.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글, 핵심 매출원 '광고'에 생성형 AI 대거 적용]]></title>
+        <id>https://v.daum.net/v/20240522061650794</id>
+        <link href="https://v.daum.net/v/20240522061650794"/>
+        <updated>2024-05-22T03:23:07.809Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["갤럭시Z폴드 6 카메라 모듈, 이렇게 바뀐다"]]></title>
         <id>https://v.daum.net/v/20240522090942954</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240522062407858"/>
         <updated>2024-05-22T01:20:27.071Z</updated>
         <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건설 현장에 이식한 AI, 죽음을 걷어낸다]]></title>
-        <id>https://v.daum.net/v/20240522063603996</id>
-        <link href="https://v.daum.net/v/20240522063603996"/>
-        <updated>2024-05-22T01:20:27.072Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>
