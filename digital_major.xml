@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-22T20:20:59.015Z</updated>
+    <updated>2024-05-22T21:21:03.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MS, 사람같은 AI 비서 공개 유럽, 세계최초 규제법 승인]]></title>
+        <id>https://v.daum.net/v/20240522181201446</id>
+        <link href="https://v.daum.net/v/20240522181201446"/>
+        <updated>2024-05-22T21:20:34.709Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공장업무 관찰해 조립 따라하는 로봇 나온다]]></title>
+        <id>https://v.daum.net/v/20240522180602260</id>
+        <link href="https://v.daum.net/v/20240522180602260"/>
+        <updated>2024-05-22T21:20:34.709Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 블랙박스 해독 … 문장 생성 원리 발견]]></title>
         <id>https://v.daum.net/v/20240522180605267</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240522174904762"/>
         <updated>2024-05-22T14:22:14.014Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["AI가 만든 답변 탐지"…구글 콘텐츠 추적 기술 하반기 공개]]></title>
-        <id>https://v.daum.net/v/20240522163850180</id>
-        <link href="https://v.daum.net/v/20240522163850180"/>
-        <updated>2024-05-22T13:21:47.269Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[보죠, 배터리]수십개월 햇볕에 말리던 리튬추출법의 진화]]></title>
-        <id>https://v.daum.net/v/20240522170014878</id>
-        <link href="https://v.daum.net/v/20240522170014878"/>
-        <updated>2024-05-22T13:21:47.270Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>

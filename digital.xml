@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-05-22T20:20:59.014Z</updated>
+    <updated>2024-05-22T21:21:03.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔비디아 AI랠리 지속..매출 2.6배 순이익 7배 늘고 액면분할 [뉴욕마감]]]></title>
+        <id>https://v.daum.net/v/20240523054741479</id>
+        <link href="https://v.daum.net/v/20240523054741479"/>
+        <updated>2024-05-22T21:20:25.760Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EU, 세계 첫 ‘AI 규제법’ 11월 시행… 韓은 AI기본법도 못만들어]]></title>
         <id>https://v.daum.net/v/20240523030145185</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240523000011091"/>
         <updated>2024-05-22T15:23:10.193Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공장업무 관찰해 조립 따라하는 로봇 나온다]]></title>
-        <id>https://v.daum.net/v/20240522180602260</id>
-        <link href="https://v.daum.net/v/20240522180602260"/>
-        <updated>2024-05-22T15:23:10.195Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
