@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-23T15:21:59.041Z</updated>
+    <updated>2024-05-23T16:25:52.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[전자신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 기재부까지 ‘부실’ 걱정한 ‘한국판 뉴딜’ 2.5조 데이터 사업]]></title>
-        <id>https://v.daum.net/v/20240523172327245</id>
-        <link href="https://v.daum.net/v/20240523172327245"/>
-        <updated>2024-05-23T10:24:21.466Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[얀 르쿤 "현존하는 AI 뛰어넘는 새 모델 연구 중"]]></title>
         <id>https://v.daum.net/v/20240523172931443</id>
         <link href="https://v.daum.net/v/20240523172931443"/>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20240523171044816"/>
         <updated>2024-05-23T10:24:21.470Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“우주인 보내기 쉽지 않네”…보잉 ‘스타라이너’ 발사 또 연기]]></title>
+        <id>https://v.daum.net/v/20240523154942098</id>
+        <link href="https://v.daum.net/v/20240523154942098"/>
+        <updated>2024-05-23T16:25:17.178Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
