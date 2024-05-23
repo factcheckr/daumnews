@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-05-23T14:21:37.227Z</updated>
+    <updated>2024-05-23T15:21:59.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SNS도 세대차이 MZ는 '인스타' 베이비부머는 '밴드']]></title>
+        <id>https://v.daum.net/v/20240523221324381</id>
+        <link href="https://v.daum.net/v/20240523221324381"/>
+        <updated>2024-05-23T15:21:13.241Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[덱빌딩과 실시간 대결이 만났다! 플레이엑스포 이색 작품 '강한토끼만이 살아남는다']]></title>
         <id>https://v.daum.net/v/20240523183302644</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240523191201836"/>
         <updated>2024-05-23T11:18:42.244Z</updated>
         <content type="html"><![CDATA[키즈맘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅테크, 디지털 가상도시 세워 6G 실험]]></title>
-        <id>https://v.daum.net/v/20240523175805583</id>
-        <link href="https://v.daum.net/v/20240523175805583"/>
-        <updated>2024-05-23T11:18:42.246Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
