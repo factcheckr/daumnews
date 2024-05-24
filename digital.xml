@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-05-24T12:39:38.227Z</updated>
+    <updated>2024-05-24T13:26:12.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“이렇게 나오면 무조건 산다” 애플, 드디어 나온다…삼성도 긴장?]]></title>
+        <id>https://v.daum.net/v/20240524194056516</id>
+        <link href="https://v.daum.net/v/20240524194056516"/>
+        <updated>2024-05-24T13:25:23.012Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[범람하는 딥페이크‥가짜 목소리를 찾아라]]></title>
         <id>https://v.daum.net/v/20240524202822351</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240524110413399"/>
         <updated>2024-05-24T08:24:19.268Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람 줄이고 건물 팔더니 너구리까지?…'이 악문' 엔씨]]></title>
-        <id>https://v.daum.net/v/20240524153708443</id>
-        <link href="https://v.daum.net/v/20240524153708443"/>
-        <updated>2024-05-24T10:21:10.465Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>

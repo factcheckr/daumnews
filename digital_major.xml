@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-24T12:39:38.246Z</updated>
+    <updated>2024-05-24T13:26:12.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사람 줄이고 건물 팔더니 너구리까지?…'이 악문' 엔씨]]></title>
+        <id>https://v.daum.net/v/20240524153708443</id>
+        <link href="https://v.daum.net/v/20240524153708443"/>
+        <updated>2024-05-24T13:25:32.298Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성 당황케 한 메모리반도체 'HBM'…AI 구현에 필수]]></title>
         <id>https://v.daum.net/v/20240524135211987</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240524093504947"/>
         <updated>2024-05-24T10:21:17.918Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 증시]]></title>
-        <id>https://v.daum.net/v/20240524094907442</id>
-        <link href="https://v.daum.net/v/20240524094907442"/>
-        <updated>2024-05-24T12:39:05.879Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
