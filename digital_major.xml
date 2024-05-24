@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-24T15:23:00.239Z</updated>
+    <updated>2024-05-24T17:19:20.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다음뉴스 1100여개 검색제휴 언론 배제, 카카오 손 들어준 법원]]></title>
+        <id>https://v.daum.net/v/20240524172846849</id>
+        <link href="https://v.daum.net/v/20240524172846849"/>
+        <updated>2024-05-24T17:18:47.332Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유미's 픽] "LG-메가존 뭉쳐도 안되네"…비틀대는 클라우드그램, 청산 절차 밟을까]]></title>
         <id>https://v.daum.net/v/20240524165044774</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240524061501094"/>
         <updated>2024-05-24T06:26:42.146Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성 "엔비디아 테스트 실패 아니다"…네이버 협업 갈등]]></title>
-        <id>https://v.daum.net/v/20240524114607311</id>
-        <link href="https://v.daum.net/v/20240524114607311"/>
-        <updated>2024-05-24T05:19:42.104Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>

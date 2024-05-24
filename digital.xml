@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-05-24T15:23:00.237Z</updated>
+    <updated>2024-05-24T17:19:20.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[와인 저장고, 알고 보니 ‘매머드 덫’ 설치했던 곳?]]></title>
+        <id>https://v.daum.net/v/20240525000744403</id>
+        <link href="https://v.daum.net/v/20240525000744403"/>
+        <updated>2024-05-24T17:18:38.444Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI와 사랑에 빠진 사람들, 이대로 괜찮을까]]></title>
         <id>https://v.daum.net/v/20240524221004114</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240524202822351"/>
         <updated>2024-05-24T12:38:56.941Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다음뉴스 1100여개 검색제휴 언론 배제, 카카오 손 들어준 법원]]></title>
-        <id>https://v.daum.net/v/20240524172846849</id>
-        <link href="https://v.daum.net/v/20240524172846849"/>
-        <updated>2024-05-24T09:20:58.220Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
 </feed>
