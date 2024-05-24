@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-05-24T17:19:20.779Z</updated>
+    <updated>2024-05-24T18:26:04.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["오바마는 미국 무슬림 대통령"…구글의 새 검색엔진 오답 논란]]></title>
+        <id>https://v.daum.net/v/20240525025012237</id>
+        <link href="https://v.daum.net/v/20240525025012237"/>
+        <updated>2024-05-24T18:25:16.925Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[와인 저장고, 알고 보니 ‘매머드 덫’ 설치했던 곳?]]></title>
         <id>https://v.daum.net/v/20240525000744403</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240524194056516"/>
         <updated>2024-05-24T13:25:23.012Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범람하는 딥페이크‥가짜 목소리를 찾아라]]></title>
-        <id>https://v.daum.net/v/20240524202822351</id>
-        <link href="https://v.daum.net/v/20240524202822351"/>
-        <updated>2024-05-24T12:38:56.941Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
