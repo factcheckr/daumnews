@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-25T10:22:18.336Z</updated>
+    <updated>2024-05-25T11:17:52.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[젠슨 황 엔비디아 CEO, 5년새 자산 30배↑]]></title>
+        <id>https://v.daum.net/v/20240525080632566</id>
+        <link href="https://v.daum.net/v/20240525080632566"/>
+        <updated>2024-05-25T11:17:18.636Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표지로 읽는 과학] "태양 자기장 시작점 기존 이론 틀렸다"]]></title>
         <id>https://v.daum.net/v/20240525080054461</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240525072806120"/>
         <updated>2024-05-25T10:21:52.155Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사이테크+] "134억년 전 초기 우주서 형성 중인 은하 3개 포착"]]></title>
-        <id>https://v.daum.net/v/20240525060201535</id>
-        <link href="https://v.daum.net/v/20240525060201535"/>
-        <updated>2024-05-25T10:21:52.156Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
