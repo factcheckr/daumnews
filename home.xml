@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-05-25T16:22:34.607Z</updated>
+    <updated>2024-05-25T17:20:01.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["머스크 AI스타트업, 그록 차기버전 구동위해 슈퍼컴 구축 계획"]]></title>
+        <id>https://v.daum.net/v/20240526021343663</id>
+        <link href="https://v.daum.net/v/20240526021343663"/>
+        <updated>2024-05-25T17:17:23.802Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[푸틴 "미사일 생산 22배 증가…효과적 군 경제 구축해야"]]></title>
+        <id>https://v.daum.net/v/20240526020348653</id>
+        <link href="https://v.daum.net/v/20240526020348653"/>
+        <updated>2024-05-25T17:17:23.816Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[과학 한스푼] 우주가 '돈' 된다...내일 우주항공청 개청]]></title>
         <id>https://v.daum.net/v/20240526001011184</id>
@@ -130,19 +144,5 @@
         <link href="https://v.daum.net/v/20240525213251981"/>
         <updated>2024-05-25T13:18:14.834Z</updated>
         <content type="html"><![CDATA[경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘의대 증원’에 초등생까지 들썩…‘지방 유학’ 문의 쇄도]]></title>
-        <id>https://v.daum.net/v/20240525212902938</id>
-        <link href="https://v.daum.net/v/20240525212902938"/>
-        <updated>2024-05-25T13:18:14.835Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슈퍼챗' 받은 장예찬 근황, 결국 검찰에 '기소의견' 송치될 듯]]></title>
-        <id>https://v.daum.net/v/20240525212529905</id>
-        <link href="https://v.daum.net/v/20240525212529905"/>
-        <updated>2024-05-25T12:31:22.707Z</updated>
-        <content type="html"><![CDATA[정치]]></content>
     </entry>
 </feed>
