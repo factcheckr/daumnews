@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-25T17:20:01.682Z</updated>
+    <updated>2024-05-25T18:24:37.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[동의 없이 권리 침해, 문제 터지면 돈으로? 오픈AI의 ‘위험한 질주’]]></title>
-        <id>https://v.daum.net/v/20240525110515169</id>
-        <link href="https://v.daum.net/v/20240525110515169"/>
-        <updated>2024-05-25T14:17:25.980Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[보잉 우주선 ‘스타라이너’, 6월 유인 비행 다시 시도한다]]></title>
         <id>https://v.daum.net/v/20240525120959690</id>
         <link href="https://v.daum.net/v/20240525120959690"/>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20240525055006308"/>
         <updated>2024-05-25T17:19:21.326Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“생성형 AI 새 먹거리”… 통신사들 ‘LLM’ 개발 힘 쏟는다 [심층기획]]]></title>
+        <id>https://v.daum.net/v/20240525200130145</id>
+        <link href="https://v.daum.net/v/20240525200130145"/>
+        <updated>2024-05-25T18:23:56.431Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
