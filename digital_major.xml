@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-26T05:20:23.241Z</updated>
+    <updated>2024-05-26T06:25:55.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[알리바바, `중국판 오픈AI` 문샷에 8억달러 투자…지분 36% 보유]]></title>
+        <title type="html"><![CDATA[한국판 NASA '우주청' 내일 개청, 우주 항해 '준비 완료']]></title>
+        <id>https://v.daum.net/v/20240526120317393</id>
+        <link href="https://v.daum.net/v/20240526120317393"/>
+        <updated>2024-05-26T06:25:11.883Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IMF 총재에게 이메일을 받았다]]></title>
+        <id>https://v.daum.net/v/20240526115541972</id>
+        <link href="https://v.daum.net/v/20240526115541972"/>
+        <updated>2024-05-26T06:25:11.884Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[`중국판 오픈AI`에 몰리는 돈…알리바바, 1조 투자]]></title>
         <id>https://v.daum.net/v/20240526110910234</id>
         <link href="https://v.daum.net/v/20240526110910234"/>
         <updated>2024-05-26T05:19:42.217Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240526090004258"/>
         <updated>2024-05-26T01:23:10.354Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호출하면 달려오는 ‘택시형 기차’…신개념 출퇴근 수단 부상]]></title>
-        <id>https://v.daum.net/v/20240526090007265</id>
-        <link href="https://v.daum.net/v/20240526090007265"/>
-        <updated>2024-05-26T01:23:10.356Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내일 문 여는 우주항공청…2032년 달 착륙 여정 첫발]]></title>
-        <id>https://v.daum.net/v/20240526090109319</id>
-        <link href="https://v.daum.net/v/20240526090109319"/>
-        <updated>2024-05-26T01:23:10.357Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
