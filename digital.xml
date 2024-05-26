@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-05-26T09:21:45.076Z</updated>
+    <updated>2024-05-26T10:23:25.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드럼 치는 휴머노이드부터 로봇개 '스폿'까지]]></title>
+        <id>https://v.daum.net/v/20240526190704698</id>
+        <link href="https://v.daum.net/v/20240526190704698"/>
+        <updated>2024-05-26T10:22:34.883Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 AI “하루 하나씩 돌 섭취하세요”… 오류 속출에 곤욕]]></title>
+        <id>https://v.daum.net/v/20240526183534331</id>
+        <link href="https://v.daum.net/v/20240526183534331"/>
+        <updated>2024-05-26T10:22:34.884Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['돌 먹어라' '피자에 접착제 발라라'…챗봇들 엉뚱한 답하는 이유]]></title>
         <id>https://v.daum.net/v/20240526154743383</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240526170003491"/>
         <updated>2024-05-26T09:20:57.157Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["오바마는 무슬림 대통령"…구글 AI도 '환각'에 빠졌다 [팩플]]]></title>
-        <id>https://v.daum.net/v/20240526163945147</id>
-        <link href="https://v.daum.net/v/20240526163945147"/>
-        <updated>2024-05-26T08:23:18.161Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[머스크의 xAI, H100 10만개 규모 슈퍼컴 구축 추진]]></title>
-        <id>https://v.daum.net/v/20240526163145038</id>
-        <link href="https://v.daum.net/v/20240526163145038"/>
-        <updated>2024-05-26T08:23:18.162Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
