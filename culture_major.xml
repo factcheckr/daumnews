@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-05-27T18:25:21.584Z</updated>
+    <updated>2024-05-27T19:18:30.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영유아 수족구병 환자 3주새 배 급증]]></title>
+        <id>https://v.daum.net/v/20240528030448647</id>
+        <link href="https://v.daum.net/v/20240528030448647"/>
+        <updated>2024-05-27T19:17:33.986Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송광사 ‘영산회상도-팔상도’ 국보 지정]]></title>
         <id>https://v.daum.net/v/20240528030415629</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240528001105651"/>
         <updated>2024-05-27T17:20:58.973Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[따뜻한 삶의 조각 모으는 여성 작가들]]></title>
-        <id>https://v.daum.net/v/20240528000745576</id>
-        <link href="https://v.daum.net/v/20240528000745576"/>
-        <updated>2024-05-27T16:23:35.931Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
