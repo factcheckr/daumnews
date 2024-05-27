@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-27T14:19:12.543Z</updated>
+    <updated>2024-05-27T15:22:44.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://v.daum.net/v/20240527191502498"/>
         <updated>2024-05-27T13:22:27.526Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 천체사진] 어둡고 찬란한 ‘별의 고향’ 분자 구름]]></title>
-        <id>https://v.daum.net/v/20240527162923989</id>
-        <link href="https://v.daum.net/v/20240527162923989"/>
-        <updated>2024-05-27T13:22:27.527Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[부실한 'AI 허브' 데이터 품질..."연합학습·입찰 방식 간소화 필요"]]></title>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20240527120057967"/>
         <updated>2024-05-27T10:21:24.747Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['AI 메모리 격차 더 벌린다'…SK하이닉스, 연산하는 HBM 개발]]></title>
+        <id>https://v.daum.net/v/20240527144449552</id>
+        <link href="https://v.daum.net/v/20240527144449552"/>
+        <updated>2024-05-27T15:22:12.859Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
