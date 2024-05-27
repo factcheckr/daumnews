@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-05-27T16:24:38.562Z</updated>
+    <updated>2024-05-27T17:22:05.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국 천주교 사제 7019명…작년보다 98명 증가]]></title>
+        <id>https://v.daum.net/v/20240528015909309</id>
+        <link href="https://v.daum.net/v/20240528015909309"/>
+        <updated>2024-05-27T17:20:49.946Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[출근길 '쌀쌀'·일교차 10도↑…환절기 피부 가려움증, '속질환' 의심해야]]></title>
         <id>https://v.daum.net/v/20240528010825072</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240528001614720"/>
         <updated>2024-05-27T15:21:45.446Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[홍진기 창조인상] 고전·현대음악 넘나드는 혁신가]]></title>
-        <id>https://v.daum.net/v/20240528001105651</id>
-        <link href="https://v.daum.net/v/20240528001105651"/>
-        <updated>2024-05-27T15:21:45.446Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
