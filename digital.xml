@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-05-29T11:17:46.400Z</updated>
+    <updated>2024-05-29T12:36:30.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["프로그램 실행 임박"...'AI 지각생' 애플의 짝꿍은 누구일까]]></title>
+        <id>https://v.daum.net/v/20240529190010399</id>
+        <link href="https://v.daum.net/v/20240529190010399"/>
+        <updated>2024-05-29T12:35:47.319Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리메이크의 교과서 '페이퍼 마리오 천 년의 문']]></title>
         <id>https://v.daum.net/v/20240529175115648</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240529165409508"/>
         <updated>2024-05-29T08:27:18.529Z</updated>
         <content type="html"><![CDATA[게임동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“4600년 전 사람 두개골에서 뇌암 수술·연구 증거 발견”]]></title>
-        <id>https://v.daum.net/v/20240529160741994</id>
-        <link href="https://v.daum.net/v/20240529160741994"/>
-        <updated>2024-05-29T08:27:18.530Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
