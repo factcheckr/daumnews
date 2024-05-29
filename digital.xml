@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-05-29T22:20:27.022Z</updated>
+    <updated>2024-05-29T23:21:52.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘살인 예측’가능?… ‘마이너리티 리포트’가 현실로]]></title>
+        <id>https://v.daum.net/v/20240530004127688</id>
+        <link href="https://v.daum.net/v/20240530004127688"/>
+        <updated>2024-05-29T23:21:04.834Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이 시각 세계] 일본, 세계 첫 초소형 목조 인공위성 완성]]></title>
         <id>https://v.daum.net/v/20240530070052711</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240530060805111"/>
         <updated>2024-05-29T22:19:43.810Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘면봉’으로 부인암 진단 가능… 어떻게?]]></title>
-        <id>https://v.daum.net/v/20240530000116178</id>
-        <link href="https://v.daum.net/v/20240530000116178"/>
-        <updated>2024-05-29T22:19:43.812Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
