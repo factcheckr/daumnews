@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-05-29T12:36:30.062Z</updated>
+    <updated>2024-05-29T13:22:45.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["AI 반도체는 팹리스가 핵심···메모리에만 안주해선 안돼"[서울포럼 2024]]]></title>
+        <id>https://v.daum.net/v/20240529193046160</id>
+        <link href="https://v.daum.net/v/20240529193046160"/>
+        <updated>2024-05-29T13:22:00.837Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["프로그램 실행 임박"...'AI 지각생' 애플의 짝꿍은 누구일까]]></title>
         <id>https://v.daum.net/v/20240529190010399</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240529161455475"/>
         <updated>2024-05-29T08:27:18.527Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[겜덕연구소] 가정용 CRT TV 버리지 마세요, 고화질의 오락실 모니터로 변신!]]></title>
-        <id>https://v.daum.net/v/20240529165409508</id>
-        <link href="https://v.daum.net/v/20240529165409508"/>
-        <updated>2024-05-29T08:27:18.529Z</updated>
-        <content type="html"><![CDATA[게임동아]]></content>
     </entry>
 </feed>
