@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-05-29T18:28:46.073Z</updated>
+    <updated>2024-05-29T19:18:03.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[매독 환자 여전히 1만명… 절제가 病 막는다]]></title>
+        <id>https://v.daum.net/v/20240530003637644</id>
+        <link href="https://v.daum.net/v/20240530003637644"/>
+        <updated>2024-05-29T19:17:02.723Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[일사일언] 태풍이 사라졌다]]></title>
         <id>https://v.daum.net/v/20240530003520628</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240530000017149"/>
         <updated>2024-05-29T15:23:53.787Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["바퀴벌레 똥 때문에?" 내 콧물과 재채기 의외의 주범 4가지]]></title>
-        <id>https://v.daum.net/v/20240529220204129</id>
-        <link href="https://v.daum.net/v/20240529220204129"/>
-        <updated>2024-05-29T15:23:53.792Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
