@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-05-29T09:22:57.727Z</updated>
+    <updated>2024-05-29T10:22:57.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[리메이크의 교과서 '페이퍼 마리오 천 년의 문']]></title>
+        <id>https://v.daum.net/v/20240529175115648</id>
+        <link href="https://v.daum.net/v/20240529175115648"/>
+        <updated>2024-05-29T10:22:23.866Z</updated>
+        <content type="html"><![CDATA[게임톡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["위성영상도 '뉴스페이스' 추세 따라야…국가위성 데이터 민간에 열어야 기술 발전"]]></title>
         <id>https://v.daum.net/v/20240529172212680</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240529160741994"/>
         <updated>2024-05-29T08:27:18.530Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소통 창구 대세 ‘디스코드’, 왜?]]></title>
-        <id>https://v.daum.net/v/20240529164206955</id>
-        <link href="https://v.daum.net/v/20240529164206955"/>
-        <updated>2024-05-29T08:27:18.532Z</updated>
-        <content type="html"><![CDATA[게임동아]]></content>
     </entry>
 </feed>
