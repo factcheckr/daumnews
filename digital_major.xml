@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-05-30T03:22:22.409Z</updated>
+    <updated>2024-05-30T04:26:37.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["갤럭시Z 플립 6, 배터리 용량 늘어난다"]]></title>
+        <id>https://v.daum.net/v/20240530090230453</id>
+        <link href="https://v.daum.net/v/20240530090230453"/>
+        <updated>2024-05-30T04:26:06.042Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["갤럭시링, 분실방지 기능 탑재…불빛으로 쉽게 찾는다"]]></title>
         <id>https://v.daum.net/v/20240530084341778</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240530000116178"/>
         <updated>2024-05-29T23:21:14.564Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['합병은 함흥차사'…티빙·웨이브 언제 뭉쳐서 보나]]></title>
-        <id>https://v.daum.net/v/20240530060003797</id>
-        <link href="https://v.daum.net/v/20240530060003797"/>
-        <updated>2024-05-30T03:21:49.618Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-05-30T03:22:22.362Z</updated>
+    <updated>2024-05-30T04:26:37.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴테크] 원자력 우주선 만들 슈퍼메탈 GRX-810]]></title>
+        <id>https://v.daum.net/v/20240530112223392</id>
+        <link href="https://v.daum.net/v/20240530112223392"/>
+        <updated>2024-05-30T04:25:57.199Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“국내 AI 노트북 3대 중 2대는 삼성이 될 것” [이동수는 이동중]]]></title>
         <id>https://v.daum.net/v/20240530110912797</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240530052246346"/>
         <updated>2024-05-30T01:20:03.987Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["갤럭시Z 플립 6, 배터리 용량 늘어난다"]]></title>
-        <id>https://v.daum.net/v/20240530090230453</id>
-        <link href="https://v.daum.net/v/20240530090230453"/>
-        <updated>2024-05-30T01:20:03.987Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
