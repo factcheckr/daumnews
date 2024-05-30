@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-05-30T16:26:02.429Z</updated>
+    <updated>2024-05-30T17:18:12.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“보험 데이터 한해 90억건 쌓여… 디지털 혁신 마중물 될 것”]]></title>
+        <id>https://v.daum.net/v/20240531003609239</id>
+        <link href="https://v.daum.net/v/20240531003609239"/>
+        <updated>2024-05-30T17:16:46.400Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 아파트 가격 10주 연속 오름세]]></title>
         <id>https://v.daum.net/v/20240531003555234</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240531001150035"/>
         <updated>2024-05-30T16:24:05.977Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4월 198명 순유출…‘탈울산’ 규모 두 달 연속 줄어]]></title>
-        <id>https://v.daum.net/v/20240531001047001</id>
-        <link href="https://v.daum.net/v/20240531001047001"/>
-        <updated>2024-05-30T16:24:05.978Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
