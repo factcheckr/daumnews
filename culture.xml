@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-05-30T17:18:12.580Z</updated>
+    <updated>2024-05-30T18:31:57.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더 넓어지고 깊어진 ‘세계 박물관 한국실’]]></title>
+        <id>https://v.daum.net/v/20240531030109646</id>
+        <link href="https://v.daum.net/v/20240531030109646"/>
+        <updated>2024-05-30T18:30:53.497Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“신내림 소녀 통해 세계의 넋 달래주고 싶어”]]></title>
+        <id>https://v.daum.net/v/20240531030105643</id>
+        <link href="https://v.daum.net/v/20240531030105643"/>
+        <updated>2024-05-30T18:30:53.500Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'학전' 새 이름 3개 중 뽑아주세요" 예술위, 대국민 투표]]></title>
         <id>https://v.daum.net/v/20240531010605448</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240531001050002"/>
         <updated>2024-05-30T15:21:49.101Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[명경대] 신라의 빛 ‘금동보살입상’]]></title>
-        <id>https://v.daum.net/v/20240531000806929</id>
-        <link href="https://v.daum.net/v/20240531000806929"/>
-        <updated>2024-05-30T15:21:49.102Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘모시나방 유충 기승’ 동면 소양강로 벚나무 피해]]></title>
-        <id>https://v.daum.net/v/20240531000726897</id>
-        <link href="https://v.daum.net/v/20240531000726897"/>
-        <updated>2024-05-30T15:21:49.104Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
