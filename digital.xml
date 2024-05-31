@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-05-31T21:22:26.565Z</updated>
+    <updated>2024-05-31T22:20:36.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["지난해 넷플릭스 오리지널 한국 드라마 절반은 네이버웹툰 원작"]]></title>
+        <id>https://v.daum.net/v/20240601064028651</id>
+        <link href="https://v.daum.net/v/20240601064028651"/>
+        <updated>2024-05-31T22:20:01.061Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["AI 안전은 뒷전"…美 빅테크, 잇따른 구설수로 명성 '흔들']]></title>
         <id>https://v.daum.net/v/20240601060142341</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240531210600132"/>
         <updated>2024-05-31T12:35:39.186Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디플정 추진단장 교체···서보람 전 행안부 디지털정부실장 부임]]></title>
-        <id>https://v.daum.net/v/20240531204941875</id>
-        <link href="https://v.daum.net/v/20240531204941875"/>
-        <updated>2024-05-31T12:35:39.190Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
