@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-01T07:18:54.616Z</updated>
+    <updated>2024-06-01T08:24:02.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국임상종양학회 개막, 올해도 주인공은 ADC…FDA 승인 눈앞 '렉라자' 관심 모아]]></title>
+        <id>https://v.daum.net/v/20240601080024289</id>
+        <link href="https://v.daum.net/v/20240601080024289"/>
+        <updated>2024-06-01T08:23:30.110Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공룡 200년]⑥ “티라노 이빨 화석 얼마에요?”…도쿄 한 복판에 공룡 마니아 모였다]]></title>
         <id>https://v.daum.net/v/20240601060125334</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240601100514764"/>
         <updated>2024-06-01T02:40:35.006Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日원자력규제위 “쓰루가원전 내 활단층 부정 못해”…폐로 가능성]]></title>
-        <id>https://v.daum.net/v/20240601094031359</id>
-        <link href="https://v.daum.net/v/20240601094031359"/>
-        <updated>2024-06-01T07:18:24.551Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
