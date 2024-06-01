@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-06-01T10:22:10.663Z</updated>
+    <updated>2024-06-01T11:20:32.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“갑자기 사라졌다?” 낯익은 ‘얼굴’…심상찮은 근황]]></title>
+        <id>https://v.daum.net/v/20240601184052762</id>
+        <link href="https://v.daum.net/v/20240601184052762"/>
+        <updated>2024-06-01T11:19:53.445Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[핵융합연 조직개편 들여다보니…기업 및 국제협력 대폭 강화 왜?]]></title>
         <id>https://v.daum.net/v/20240601190931203</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240601111805551"/>
         <updated>2024-06-01T03:23:12.185Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["엔비디아 독주체제? 커스텀반도체가 재편할 수 있어"…AI 다음 사이클은]]></title>
-        <id>https://v.daum.net/v/20240601073002072</id>
-        <link href="https://v.daum.net/v/20240601073002072"/>
-        <updated>2024-06-01T02:40:26.015Z</updated>
-        <content type="html"><![CDATA[한경비즈니스]]></content>
     </entry>
 </feed>
