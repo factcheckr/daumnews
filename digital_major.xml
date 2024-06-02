@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-02T22:19:00.054Z</updated>
+    <updated>2024-06-02T23:20:56.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[불쑥 튀어나온 보행자 감지해 차량내 경고… 운전자 88% ‘감속’]]></title>
+        <id>https://v.daum.net/v/20240603030322354</id>
+        <link href="https://v.daum.net/v/20240603030322354"/>
+        <updated>2024-06-02T23:20:22.830Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔비디아, AI 가속 위한 차세대 GPU·솔루션 대거 공개]]></title>
+        <id>https://v.daum.net/v/20240603013046082</id>
+        <link href="https://v.daum.net/v/20240603013046082"/>
+        <updated>2024-06-02T23:20:22.834Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포털이 뉴스에 ‘사용료’ 내면 오히려 언론 생태계 망가진다?]]></title>
         <id>https://v.daum.net/v/20240602151010214</id>
@@ -18,13 +32,6 @@
         <link href="https://v.daum.net/v/20240602203322928"/>
         <updated>2024-06-02T21:18:47.822Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바다 위 첨단 과학 연구소 탐해 3호‥항해 시작]]></title>
-        <id>https://v.daum.net/v/20240602202816881</id>
-        <link href="https://v.daum.net/v/20240602202816881"/>
-        <updated>2024-06-02T20:19:42.591Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한땀 한땀 데이터 라벨링, 누가 일 시켰나]]></title>
@@ -62,17 +69,10 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“VR은 사회로 향하는 통로”…美 교도소의 테크 바람[원호연의 PIP]]]></title>
-        <id>https://v.daum.net/v/20240602165741124</id>
-        <link href="https://v.daum.net/v/20240602165741124"/>
-        <updated>2024-06-02T12:34:30.419Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돼지 간 이식 환자, 2주 넘게 생존 첫 확인]]></title>
-        <id>https://v.daum.net/v/20240602180013778</id>
-        <link href="https://v.daum.net/v/20240602180013778"/>
-        <updated>2024-06-02T12:34:30.420Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
+        <title type="html"><![CDATA[바다 위 첨단 과학 연구소 탐해 3호‥항해 시작]]></title>
+        <id>https://v.daum.net/v/20240602202816881</id>
+        <link href="https://v.daum.net/v/20240602202816881"/>
+        <updated>2024-06-02T20:19:42.591Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
