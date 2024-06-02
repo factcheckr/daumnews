@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-06-02T18:26:05.790Z</updated>
+    <updated>2024-06-02T19:17:17.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올여름, 밤하늘에 빛이 번쩍… 3000광년 밖 별의 눈부신 폭발]]></title>
+        <id>https://v.daum.net/v/20240603030220311</id>
+        <link href="https://v.daum.net/v/20240603030220311"/>
+        <updated>2024-06-02T19:16:28.253Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불쑥 튀어나온 보행자 감지해 차량내 경고… 운전자 88% ‘감속’]]></title>
         <id>https://v.daum.net/v/20240603030322354</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240602202816881"/>
         <updated>2024-06-02T12:34:18.683Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한땀 한땀 데이터 라벨링, 누가 일 시켰나]]></title>
-        <id>https://v.daum.net/v/20240602202301832</id>
-        <link href="https://v.daum.net/v/20240602202301832"/>
-        <updated>2024-06-02T12:34:18.684Z</updated>
-        <content type="html"><![CDATA[한겨레21]]></content>
     </entry>
 </feed>

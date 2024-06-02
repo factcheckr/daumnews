@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-06-02T18:26:05.788Z</updated>
+    <updated>2024-06-02T19:17:17.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[낮 최고기온 30도 육박…맑은 하늘 속 초여름더위 [날씨]]]></title>
+        <id>https://v.daum.net/v/20240603033135445</id>
+        <link href="https://v.daum.net/v/20240603033135445"/>
+        <updated>2024-06-02T19:16:07.797Z</updated>
+        <content type="html"><![CDATA[경기일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[치매, 결코 남의 일이 아니다]]></title>
         <id>https://v.daum.net/v/20240603030308342</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240603001437791"/>
         <updated>2024-06-02T15:19:08.049Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 전국에 가끔 구름‥ 남부지방에 한 때 소나기]]></title>
-        <id>https://v.daum.net/v/20240603001307788</id>
-        <link href="https://v.daum.net/v/20240603001307788"/>
-        <updated>2024-06-02T15:19:08.051Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
