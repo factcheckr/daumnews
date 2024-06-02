@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-06-02T13:21:12.459Z</updated>
+    <updated>2024-06-02T14:17:37.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[北 “쓰레기 살포 잠정 중단…삐라 발견시 다시 살포”]]></title>
+        <id>https://v.daum.net/v/20240602222024996</id>
+        <link href="https://v.daum.net/v/20240602222024996"/>
+        <updated>2024-06-02T14:15:52.524Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내보다 국외 증시로 눈 돌리는 까닭]]></title>
+        <id>https://v.daum.net/v/20240602221504933</id>
+        <link href="https://v.daum.net/v/20240602221504933"/>
+        <updated>2024-06-02T14:15:52.530Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한은 "금리인하 너무 빨라도, 늦어도 문제"…천천히 서둘러야]]></title>
         <id>https://v.daum.net/v/20240602220947895</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240602215435754"/>
         <updated>2024-06-02T13:19:14.941Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[농어업용 지하수 사용량 따라 요금 부과]]></title>
-        <id>https://v.daum.net/v/20240602215229741</id>
-        <link href="https://v.daum.net/v/20240602215229741"/>
-        <updated>2024-06-02T13:19:14.942Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강원도, 이달 신청사 공모·편입 토지 보상 추진]]></title>
-        <id>https://v.daum.net/v/20240602214930732</id>
-        <link href="https://v.daum.net/v/20240602214930732"/>
-        <updated>2024-06-02T13:19:14.944Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
