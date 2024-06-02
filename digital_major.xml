@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-02T21:19:20.934Z</updated>
+    <updated>2024-06-02T22:19:00.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[포털이 뉴스에 ‘사용료’ 내면 오히려 언론 생태계 망가진다?]]></title>
+        <id>https://v.daum.net/v/20240602151010214</id>
+        <link href="https://v.daum.net/v/20240602151010214"/>
+        <updated>2024-06-02T22:18:24.579Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바닷속 찍는 MRI…상상은 현실이 된다]]></title>
         <id>https://v.daum.net/v/20240602203322928</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240602180013778"/>
         <updated>2024-06-02T12:34:30.420Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성D·LGD, 아이폰16 OLED 패널 1.3억대 맡는다]]></title>
-        <id>https://v.daum.net/v/20240602160253391</id>
-        <link href="https://v.daum.net/v/20240602160253391"/>
-        <updated>2024-06-02T11:18:35.337Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
