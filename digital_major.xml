@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-02T12:35:08.694Z</updated>
+    <updated>2024-06-02T13:21:12.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[항암제 주사 '혁신'…5분이면 투약 완료]]></title>
+        <id>https://v.daum.net/v/20240602180803975</id>
+        <link href="https://v.daum.net/v/20240602180803975"/>
+        <updated>2024-06-02T13:20:31.857Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“VR은 사회로 향하는 통로”…美 교도소의 테크 바람[원호연의 PIP]]]></title>
         <id>https://v.daum.net/v/20240602165741124</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240602113541603"/>
         <updated>2024-06-02T08:23:01.786Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스페인, 유럽의회 선거 앞두고 페북·인스타 선거 관련 기능 차단]]></title>
-        <id>https://v.daum.net/v/20240602111301226</id>
-        <link href="https://v.daum.net/v/20240602111301226"/>
-        <updated>2024-06-02T07:18:45.560Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
