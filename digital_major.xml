@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-02T05:19:26.852Z</updated>
+    <updated>2024-06-02T06:28:13.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩] 'AI 서울선언'으로 잡은 기회, 고삐 조여야]]></title>
+        <id>https://v.daum.net/v/20240602061645200</id>
+        <link href="https://v.daum.net/v/20240602061645200"/>
+        <updated>2024-06-02T06:27:36.377Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“창어 6호, 달 뒷면에 착륙한 뒤 샘플 채취 작업 시작”]]></title>
         <id>https://v.daum.net/v/20240602082646544</id>
         <link href="https://v.daum.net/v/20240602082646544"/>
         <updated>2024-06-02T01:23:50.791Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“세계 최초”…中 창어 6호, 달 뒷면 착륙]]></title>
+        <id>https://v.daum.net/v/20240602081102436</id>
+        <link href="https://v.daum.net/v/20240602081102436"/>
+        <updated>2024-06-02T06:27:36.380Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中 화웨이, 세계 폴더블폰 판매량 1위…삼성 제쳤다]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240602055109872"/>
         <updated>2024-06-02T01:23:50.796Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 달 탐사선 ‘창어 6호’, 달 뒷면 착륙 성공]]></title>
-        <id>https://v.daum.net/v/20240602083006595</id>
-        <link href="https://v.daum.net/v/20240602083006595"/>
-        <updated>2024-06-02T04:22:36.566Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'떴다방' 문자 사라질까"…올 하반기부터 삼성 '갤럭시폰'서 스팸문자 걸러준다]]></title>
-        <id>https://v.daum.net/v/20240602120020969</id>
-        <link href="https://v.daum.net/v/20240602120020969"/>
-        <updated>2024-06-02T04:22:36.564Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
