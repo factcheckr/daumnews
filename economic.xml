@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-06-03T16:26:32.077Z</updated>
+    <updated>2024-06-03T17:19:31.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시 전산오류로 버크셔 주가 한때 99.97% 급락 표시]]></title>
+        <id>https://v.daum.net/v/20240604015042098</id>
+        <link href="https://v.daum.net/v/20240604015042098"/>
+        <updated>2024-06-03T17:17:54.832Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하, 손절도 못하고… 카카오, 출가한 코인 ‘클레이’ 속앓이]]></title>
         <id>https://v.daum.net/v/20240604011318968</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240604011230943"/>
         <updated>2024-06-03T16:24:39.846Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닻 올린 스타트업코리아펀드, 8075억원 규모 자펀드 결성이 목표]]></title>
-        <id>https://v.daum.net/v/20240604010817918</id>
-        <link href="https://v.daum.net/v/20240604010817918"/>
-        <updated>2024-06-03T16:24:39.847Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
