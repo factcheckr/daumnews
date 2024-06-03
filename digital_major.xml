@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-03T07:19:43.233Z</updated>
+    <updated>2024-06-03T08:26:31.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스마트폰 충전을 1분 만에?… 美 콜로라도대 연구팀 기술 개발 성공]]></title>
+        <id>https://v.daum.net/v/20240603150743601</id>
+        <link href="https://v.daum.net/v/20240603150743601"/>
+        <updated>2024-06-03T08:25:57.866Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[두꺼운 얼음도 순식간에 제거…전기저항 세계 최고 수준 자율차 발열필름 개발]]></title>
+        <id>https://v.daum.net/v/20240603120250996</id>
+        <link href="https://v.daum.net/v/20240603120250996"/>
+        <updated>2024-06-03T08:25:57.866Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누구있나요?…화성서 거대 동굴 추정 ‘신비한 구멍’ 발견 [우주를 보다]]]></title>
         <id>https://v.daum.net/v/20240603141301635</id>
         <link href="https://v.daum.net/v/20240603141301635"/>
         <updated>2024-06-03T07:19:12.242Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PSN 계정 없으면 PC에서 갓오브워 라그나로크 못한다]]></title>
-        <id>https://v.daum.net/v/20240603131742651</id>
-        <link href="https://v.daum.net/v/20240603131742651"/>
-        <updated>2024-06-03T07:19:12.242Z</updated>
-        <content type="html"><![CDATA[게임톡]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[K저작권 권리장전]전자신문 좌담회 “K콘텐츠 저작권 침해 대응 기술 수준 높여야”]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240603110644938"/>
         <updated>2024-06-03T04:25:37.424Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1분기 OLED TV 시장 6%↓…LG 49%·삼성 24% 차지]]></title>
-        <id>https://v.daum.net/v/20240603104203686</id>
-        <link href="https://v.daum.net/v/20240603104203686"/>
-        <updated>2024-06-03T04:25:37.425Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
