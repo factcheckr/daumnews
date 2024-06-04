@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-06-04T05:24:35.988Z</updated>
+    <updated>2024-06-04T06:27:56.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[네이버 뉴스 댓글 누가 쓸까…10명 중 6명이 ‘중년 남성’]]></title>
-        <id>https://v.daum.net/v/20240604140701131</id>
-        <link href="https://v.daum.net/v/20240604140701131"/>
-        <updated>2024-06-04T05:23:50.795Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[AI에 올인하는 구글…'효자 사업' 클라우드 인력도 감축]]></title>
         <id>https://v.daum.net/v/20240604115702658</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20240604115547634"/>
         <updated>2024-06-04T05:23:50.804Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PS독점 기기라더니! 안팔리니 PC 어댑터 출시하는 PS VR2]]></title>
+        <id>https://v.daum.net/v/20240604113003791</id>
+        <link href="https://v.daum.net/v/20240604113003791"/>
+        <updated>2024-06-04T06:27:08.426Z</updated>
+        <content type="html"><![CDATA[게임동아]]></content>
     </entry>
 </feed>
