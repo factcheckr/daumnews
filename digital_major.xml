@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-04T20:21:38.227Z</updated>
+    <updated>2024-06-04T21:19:17.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[동영상] 게임 속 오물 공격들]]></title>
+        <id>https://v.daum.net/v/20240604193901392</id>
+        <link href="https://v.daum.net/v/20240604193901392"/>
+        <updated>2024-06-04T21:18:43.896Z</updated>
+        <content type="html"><![CDATA[게임동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["지질구조 석유 매장 가능성 커 … 역대 탐사중 최대규모"]]></title>
         <id>https://v.daum.net/v/20240604180302831</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240604165741445"/>
         <updated>2024-06-04T10:21:21.689Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이터센터 전력계통영향평가, 비기술적 항목 대거 포함 논란]]></title>
-        <id>https://v.daum.net/v/20240604160107241</id>
-        <link href="https://v.daum.net/v/20240604160107241"/>
-        <updated>2024-06-04T09:22:51.409Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>

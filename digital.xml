@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-06-04T20:21:38.183Z</updated>
+    <updated>2024-06-04T21:19:17.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['AI 올인'...구글·MS, 또 감원]]></title>
+        <title type="html"><![CDATA[[스페이스K] “지구는 좁다...기업의 다음 무대는 우주” 경영학자의 ‘행성경제론’]]></title>
+        <id>https://v.daum.net/v/20240605060058093</id>
+        <link href="https://v.daum.net/v/20240605060058093"/>
+        <updated>2024-06-04T21:18:36.318Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['AI 올인'…구글·MS, 또 감원]]></title>
         <id>https://v.daum.net/v/20240605043300229</id>
         <link href="https://v.daum.net/v/20240605043300229"/>
         <updated>2024-06-04T20:20:47.759Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240604230541124"/>
         <updated>2024-06-04T15:21:24.824Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[동영상] 게임 속 오물 공격들]]></title>
-        <id>https://v.daum.net/v/20240604193901392</id>
-        <link href="https://v.daum.net/v/20240604193901392"/>
-        <updated>2024-06-04T13:22:33.202Z</updated>
-        <content type="html"><![CDATA[게임동아]]></content>
     </entry>
 </feed>
