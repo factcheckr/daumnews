@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-04T12:37:19.912Z</updated>
+    <updated>2024-06-04T13:23:14.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장미꽃 향기성분, ‘세포배양’으로 얻는다…국내서 세계 첫 기술개발]]></title>
+        <id>https://v.daum.net/v/20240604163015451</id>
+        <link href="https://v.daum.net/v/20240604163015451"/>
+        <updated>2024-06-04T13:22:41.979Z</updated>
+        <content type="html"><![CDATA[농민신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버클라우드, 기업용 메신저 네이버웍스에 하이퍼클로바X 도입..."이용자 편익 기대"]]></title>
         <id>https://v.daum.net/v/20240604161750968</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240604160102237"/>
         <updated>2024-06-04T08:25:14.143Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI의 도움을 받은 기사가 퓰리처상을 받았다]]></title>
-        <id>https://v.daum.net/v/20240604090541067</id>
-        <link href="https://v.daum.net/v/20240604090541067"/>
-        <updated>2024-06-04T08:25:14.147Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
 </feed>
