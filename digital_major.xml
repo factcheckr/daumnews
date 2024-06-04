@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-04T15:22:05.937Z</updated>
+    <updated>2024-06-04T16:26:36.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['선업튀' 막방 때 티빙 일간 사용시간 넷플 뛰어넘었다]]></title>
+        <id>https://v.daum.net/v/20240604170828003</id>
+        <link href="https://v.daum.net/v/20240604170828003"/>
+        <updated>2024-06-04T16:25:55.648Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MSD 면역항암제 '키트루다' 일부 대장암 치료 '게임 체인저' 가능성]]></title>
         <id>https://v.daum.net/v/20240604180212802</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240604161310808"/>
         <updated>2024-06-04T08:25:14.143Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['알리·테무 열풍 식었나'…두달 연속 한국 이용자 줄어]]></title>
-        <id>https://v.daum.net/v/20240604160102237</id>
-        <link href="https://v.daum.net/v/20240604160102237"/>
-        <updated>2024-06-04T08:25:14.143Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
