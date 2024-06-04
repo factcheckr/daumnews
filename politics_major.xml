@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-06-04T18:27:03.286Z</updated>
+    <updated>2024-06-04T19:19:09.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://v.daum.net/v/20240605030059656"/>
         <updated>2024-06-04T18:25:03.208Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앞글자만 읽어보니 '탄핵만답이다'…尹 겨냥 추미애 6행시]]></title>
+        <id>https://v.daum.net/v/20240605011330287</id>
+        <link href="https://v.daum.net/v/20240605011330287"/>
+        <updated>2024-06-04T19:16:57.578Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[새마을운동으로 통했다… 아프리카 정상들 ‘발전모델’ 관심]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240605010541257"/>
         <updated>2024-06-04T18:25:03.219Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]北, 남북철도 아예 못쓰게 동해선 선로 침목 뽑았다]]></title>
-        <id>https://v.daum.net/v/20240605030041650</id>
-        <link href="https://v.daum.net/v/20240605030041650"/>
-        <updated>2024-06-04T18:25:03.220Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
