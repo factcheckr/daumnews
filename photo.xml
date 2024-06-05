@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-06-05T15:22:48.831Z</updated>
+    <updated>2024-06-05T16:25:45.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/321090/PtS2SoCnup"/>
         <updated>2024-06-05T14:21:09.758Z</updated>
         <content type="html"><![CDATA[정부 부처 제공 포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼색 고무신]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/254Xg9nbOD</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/254Xg9nbOD"/>
+        <updated>2024-06-05T16:25:17.431Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 대통령, 한-코모로 정상회담]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2329/QhObEO1mUw"/>
         <updated>2024-06-05T07:19:39.964Z</updated>
         <content type="html"><![CDATA[영국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구의역 김군에게 부치는 편지 [옵스큐라]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/182540/XST5ml0CQL</id>
-        <link href="https://gallery.v.daum.net/p/viewer/182540/XST5ml0CQL"/>
-        <updated>2024-06-05T07:19:39.967Z</updated>
-        <content type="html"><![CDATA[옵스큐라]]></content>
     </entry>
 </feed>
