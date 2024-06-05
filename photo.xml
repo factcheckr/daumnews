@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-06-05T22:20:17.377Z</updated>
+    <updated>2024-06-05T23:21:27.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5932052/38Xwnh3IFa"/>
         <updated>2024-06-05T22:19:44.064Z</updated>
         <content type="html"><![CDATA[의대 정원 확대]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“불법입국 이민자 망명 불허”]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1476/uBH2cMEQr2</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1476/uBH2cMEQr2"/>
+        <updated>2024-06-05T23:21:00.182Z</updated>
+        <content type="html"><![CDATA[미국은 지금]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2인3각 경기]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615616/uwTvJjva7D"/>
         <updated>2024-06-05T08:24:14.667Z</updated>
         <content type="html"><![CDATA[뉴스1 PICK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“모든 생물이 ‘공생’해야…” 도심 한복판에서 열린 환경의날 퍼포먼스[정동길 옆 사진관]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/661278/urmhiATNlg</id>
-        <link href="https://gallery.v.daum.net/p/viewer/661278/urmhiATNlg"/>
-        <updated>2024-06-05T08:24:14.668Z</updated>
-        <content type="html"><![CDATA[정동길 옆 사진관]]></content>
     </entry>
 </feed>
