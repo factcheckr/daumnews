@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-06-05T14:21:42.250Z</updated>
+    <updated>2024-06-05T15:22:48.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[찰스3세 얼굴 담긴 영국 새 지폐 유통 시작]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1520807/WXN0oKiBWS</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1520807/WXN0oKiBWS"/>
+        <updated>2024-06-05T15:22:08.458Z</updated>
+        <content type="html"><![CDATA[세계의 왕실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 상가주택 화재로 2명 부상]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/386/X2ICpCFO35</id>
+        <link href="https://gallery.v.daum.net/p/viewer/386/X2ICpCFO35"/>
+        <updated>2024-06-05T15:22:08.459Z</updated>
+        <content type="html"><![CDATA[소방본부 제공 포토]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한-세네갈 외교장관 회담]]></title>
         <id>https://gallery.v.daum.net/p/viewer/321090/PtS2SoCnup</id>
         <link href="https://gallery.v.daum.net/p/viewer/321090/PtS2SoCnup"/>
         <updated>2024-06-05T14:21:09.758Z</updated>
         <content type="html"><![CDATA[정부 부처 제공 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동두천 왕방계곡 안전컨설팅 나선 조선호 경기도소방재난본부장]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/386/PwXWWjvauP</id>
-        <link href="https://gallery.v.daum.net/p/viewer/386/PwXWWjvauP"/>
-        <updated>2024-06-05T14:21:09.758Z</updated>
-        <content type="html"><![CDATA[소방본부 제공 포토]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 대통령, 한-코모로 정상회담]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/182540/XST5ml0CQL"/>
         <updated>2024-06-05T07:19:39.967Z</updated>
         <content type="html"><![CDATA[옵스큐라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["가자 휴전안 받아들여라"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033138/X503MnOJ7X</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033138/X503MnOJ7X"/>
-        <updated>2024-06-05T07:19:39.968Z</updated>
-        <content type="html"><![CDATA[이스라엘은 지금]]></content>
     </entry>
 </feed>
