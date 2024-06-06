@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-06T11:18:06.496Z</updated>
+    <updated>2024-06-06T12:36:53.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['구글 인앱결제 강제' 음원 저작권료 상생안, 추가 연장 가닥]]></title>
+        <id>https://v.daum.net/v/20240606102306653</id>
+        <link href="https://v.daum.net/v/20240606102306653"/>
+        <updated>2024-06-06T12:36:21.023Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보잉 ‘스타라이너’ 첫 유인 발사 성공, NASA “우주 비행의 중대한 이정표”]]></title>
         <id>https://v.daum.net/v/20240606120132542</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240606091422509"/>
         <updated>2024-06-06T02:37:36.350Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아브레우 “깊게 연구된 적 없는 영일만 광구, 경제적 가치 높아”]]></title>
-        <id>https://v.daum.net/v/20240606014040273</id>
-        <link href="https://v.daum.net/v/20240606014040273"/>
-        <updated>2024-06-06T02:37:36.350Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-06-06T11:18:06.458Z</updated>
+    <updated>2024-06-06T12:36:53.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1만 배 선명하게 찍힌다…새 MRI로 치매 감별 앞당길까]]></title>
+        <id>https://v.daum.net/v/20240606203606074</id>
+        <link href="https://v.daum.net/v/20240606203606074"/>
+        <updated>2024-06-06T12:36:11.171Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“40% 파격 할인, 웬일이냐” 순식간에 동난 아이폰 알고보니]]></title>
         <id>https://v.daum.net/v/20240606194245425</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240606150244436"/>
         <updated>2024-06-06T06:27:29.277Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구글 인앱결제 강제' 음원 저작권료 상생안, 추가 연장 가닥]]></title>
-        <id>https://v.daum.net/v/20240606102306653</id>
-        <link href="https://v.daum.net/v/20240606102306653"/>
-        <updated>2024-06-06T05:20:21.787Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
