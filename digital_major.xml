@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-06T03:23:58.039Z</updated>
+    <updated>2024-06-06T04:23:36.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“찢기고 바랜 흑백사진, 생생한 컬러로”…나라 지킨 영웅 700명 되살아났다]]></title>
+        <id>https://v.daum.net/v/20240606100602355</id>
+        <link href="https://v.daum.net/v/20240606100602355"/>
+        <updated>2024-06-06T04:23:03.493Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['삼성전자 테스트 실패설' 반박한 젠슨 황…HBM 경쟁 불붙이는 이유]]></title>
         <id>https://v.daum.net/v/20240606091142456</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240606055114211"/>
         <updated>2024-06-05T23:20:54.689Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 온 액트지오 오너 "동해 유전, 명확히 답하러 왔다"]]></title>
-        <id>https://v.daum.net/v/20240606050128789</id>
-        <link href="https://v.daum.net/v/20240606050128789"/>
-        <updated>2024-06-05T23:20:54.689Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
