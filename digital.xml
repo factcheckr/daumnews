@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-06-06T07:20:40.780Z</updated>
+    <updated>2024-06-06T08:25:04.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[찬사 쏟아진 삼성 OLED TV…“테스트한 TV 중 최고”]]></title>
+        <id>https://v.daum.net/v/20240606133600656</id>
+        <link href="https://v.daum.net/v/20240606133600656"/>
+        <updated>2024-06-06T08:24:23.986Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알뜰폰 업계 불황에 평생요금제 철회 논란]]></title>
         <id>https://v.daum.net/v/20240606152638886</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240606120022485"/>
         <updated>2024-06-06T04:22:55.957Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쌀 한 톨 만한 ‘뇌 센서’… 수술 없이 넣고, 알아서 녹는다]]></title>
-        <id>https://v.daum.net/v/20240606112757975</id>
-        <link href="https://v.daum.net/v/20240606112757975"/>
-        <updated>2024-06-06T03:23:25.127Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
