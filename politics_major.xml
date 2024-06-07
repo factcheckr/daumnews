@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-06-07T16:24:45.914Z</updated>
+    <updated>2024-06-07T17:19:40.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명, 이번엔 “기후에너지부 만들자”]]></title>
+        <id>https://v.daum.net/v/20240608014109901</id>
+        <link href="https://v.daum.net/v/20240608014109901"/>
+        <updated>2024-06-07T17:17:26.061Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여당 “사필귀정” 야당 “2심서 검찰 조작수사 밝혀질 것”]]></title>
         <id>https://v.daum.net/v/20240608011011837</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240607212306234"/>
         <updated>2024-06-07T13:22:25.809Z</updated>
         <content type="html"><![CDATA[kbc광주방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“쌀·달러 담은 페트병 5백 개 북으로 보내”]]></title>
-        <id>https://v.daum.net/v/20240607213322345</id>
-        <link href="https://v.daum.net/v/20240607213322345"/>
-        <updated>2024-06-07T13:22:25.817Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
