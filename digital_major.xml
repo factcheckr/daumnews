@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-07T18:27:55.110Z</updated>
+    <updated>2024-06-07T19:19:01.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이러다 정말 다 털릴 판"…TSMC도 당했다 '발칵']]></title>
+        <id>https://v.daum.net/v/20240607181205344</id>
+        <link href="https://v.daum.net/v/20240607181205344"/>
+        <updated>2024-06-07T19:18:24.700Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전문가 판단도 제각각...카톡 오픈채팅 개인정보 유출 논란 핵심은?]]></title>
         <id>https://v.daum.net/v/20240607194447865</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240607150505250"/>
         <updated>2024-06-07T09:22:40.746Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["스페이스X, 우주선 비행 성공"…韓 저궤도 위성은? [엔터프라이스]]]></title>
-        <id>https://v.daum.net/v/20240607145112874</id>
-        <link href="https://v.daum.net/v/20240607145112874"/>
-        <updated>2024-06-07T09:22:40.747Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>
