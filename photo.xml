@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-06-07T13:24:21.187Z</updated>
+    <updated>2024-06-07T16:24:45.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사슴 가족의 나들이]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/6uKgx5kPm7</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/6uKgx5kPm7"/>
+        <updated>2024-06-07T16:24:17.450Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[속초 '설악무산문화축전' 개막]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5847810/0shcGA2X3e</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/382/WdXFcUQ0By"/>
         <updated>2024-06-07T03:25:49.558Z</updated>
         <content type="html"><![CDATA[중국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방북 러시아 청년친선대표단 '청년운동사적관' 참관]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1489/HKTh4CFOuJ</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1489/HKTh4CFOuJ"/>
-        <updated>2024-06-07T02:38:41.011Z</updated>
-        <content type="html"><![CDATA[북한은 지금]]></content>
     </entry>
 </feed>
