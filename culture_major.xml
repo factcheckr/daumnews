@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-06-08T15:21:30.664Z</updated>
+    <updated>2024-06-08T16:25:32.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인플루언서 프리즘] "어느새부터 힙합은 멋있어"…힙합 전문 영상 뜬다]]></title>
+        <id>https://v.daum.net/v/20240609000120774</id>
+        <link href="https://v.daum.net/v/20240609000120774"/>
+        <updated>2024-06-08T16:24:34.010Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아하!] AI와 인간의 일자리 경쟁?…그보다 '물 쟁탈전' (영상)]]></title>
         <id>https://v.daum.net/v/20240609000108770</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240608213509442"/>
         <updated>2024-06-08T13:20:49.542Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['붉은 인간'들, '호모 소비에티쿠스'는 살아있다.]]></title>
-        <id>https://v.daum.net/v/20240608210115991</id>
-        <link href="https://v.daum.net/v/20240608210115991"/>
-        <updated>2024-06-08T13:20:49.542Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
     </entry>
 </feed>

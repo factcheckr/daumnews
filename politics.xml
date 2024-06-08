@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2024-06-08T15:21:30.654Z</updated>
+    <updated>2024-06-08T16:25:32.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[속보] 합참 “북, 대남 오물풍선 또 다시 부양…南으로 이동 가능성”]]></title>
+        <title type="html"><![CDATA[北 또 오물풍선 공세...합참 "낙하 주의..비접촉, 군부대·경찰에 신고"(종합)]]></title>
+        <id>https://v.daum.net/v/20240609005132994</id>
+        <link href="https://v.daum.net/v/20240609005132994"/>
+        <updated>2024-06-08T16:23:21.471Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北, 엿새 만에 오물풍선 또 살포…합참 "남쪽으로 이동 가능성"]]></title>
         <id>https://v.daum.net/v/20240608230545184</id>
         <link href="https://v.daum.net/v/20240608230545184"/>
         <updated>2024-06-08T15:19:28.016Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240609000038760"/>
         <updated>2024-06-08T15:19:28.032Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보] 북한, 또 오물풍선 부양..."낙하물 주의"]]></title>
-        <id>https://v.daum.net/v/20240608231426250</id>
-        <link href="https://v.daum.net/v/20240608231426250"/>
-        <updated>2024-06-08T15:19:28.032Z</updated>
-        <content type="html"><![CDATA[경기일보]]></content>
     </entry>
 </feed>
