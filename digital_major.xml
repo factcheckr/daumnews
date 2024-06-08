@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-08T07:19:33.217Z</updated>
+    <updated>2024-06-08T08:22:53.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임시ID는 개인정보일까 아닐까…카톡 오픈채팅에 불붙은 논란]]></title>
+        <id>https://v.daum.net/v/20240608120145081</id>
+        <link href="https://v.daum.net/v/20240608120145081"/>
+        <updated>2024-06-08T08:22:16.637Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스페이스X '스타십' 귀환 성공…재사용 기술로 화성이주 '성큼']]></title>
         <id>https://v.daum.net/v/20240608090245524</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240608083018187"/>
         <updated>2024-06-08T01:19:09.115Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뇌에서 '수읽기' 일어나는 과정 밝혔다]]></title>
-        <id>https://v.daum.net/v/20240608080035888</id>
-        <link href="https://v.daum.net/v/20240608080035888"/>
-        <updated>2024-06-08T01:19:09.118Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
