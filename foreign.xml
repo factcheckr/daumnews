@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2024-06-08T12:33:56.067Z</updated>
+    <updated>2024-06-08T13:21:44.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차남 헌터 재판인데…'바이든가 여인들'에 시선집중]]></title>
+        <id>https://v.daum.net/v/20240608214003463</id>
+        <link href="https://v.daum.net/v/20240608214003463"/>
+        <updated>2024-06-08T13:20:18.032Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔비디아·MS·오픈AI…미국 AI 빅3 반독점 조사]]></title>
         <id>https://v.daum.net/v/20240608212830413</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240608210318014"/>
         <updated>2024-06-08T12:32:37.427Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계유산 보류 권고 사도광산…日, 강제동원 제대로 설명할까 [일본 속 우리문화재]]]></title>
-        <id>https://v.daum.net/v/20240608204421824</id>
-        <link href="https://v.daum.net/v/20240608204421824"/>
-        <updated>2024-06-08T12:32:37.428Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
