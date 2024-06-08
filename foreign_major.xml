@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-06-08T17:18:08.064Z</updated>
+    <updated>2024-06-08T18:25:40.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["인질 구출작전 과정에 팔레스타인인 210명 사망"]]></title>
+        <id>https://v.daum.net/v/20240609023301220</id>
+        <link href="https://v.daum.net/v/20240609023301220"/>
+        <updated>2024-06-08T18:24:21.581Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네타냐후 "모든 인질 구출할 때까지 계속 간다"]]></title>
         <id>https://v.daum.net/v/20240609012101089</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240608214003463"/>
         <updated>2024-06-08T15:20:17.551Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔비디아·MS·오픈AI…미국 AI 빅3 반독점 조사]]></title>
-        <id>https://v.daum.net/v/20240608212830413</id>
-        <link href="https://v.daum.net/v/20240608212830413"/>
-        <updated>2024-06-08T15:20:17.552Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
