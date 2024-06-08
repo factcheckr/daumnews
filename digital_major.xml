@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-08T03:22:18.975Z</updated>
+    <updated>2024-06-08T04:24:18.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사람이 하면 5시간 걸리던 증권사 리포트, AI는 5분 만에 뚝딱!]]></title>
+        <id>https://v.daum.net/v/20240608090121496</id>
+        <link href="https://v.daum.net/v/20240608090121496"/>
+        <updated>2024-06-08T04:23:45.797Z</updated>
+        <content type="html"><![CDATA[주간동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["GPT, 나 우울해서 빵샀어" 말했더니…남편보다 나은 AI와의 대화[잇:써봐]]]></title>
         <id>https://v.daum.net/v/20240608083005176</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240608014245933"/>
         <updated>2024-06-08T01:19:09.127Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['경제성 보증 수표' 탄화수소, 이번 7개 유망구조선 나올까]]></title>
-        <id>https://v.daum.net/v/20240607162745594</id>
-        <link href="https://v.daum.net/v/20240607162745594"/>
-        <updated>2024-06-08T03:21:41.416Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
