@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-06-08T09:21:56.287Z</updated>
+    <updated>2024-06-08T10:23:42.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[지자체 제공 포토]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[단오(端午)는 어떻게 사라지고 있는가 [청계천 옆 사진관]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/344179/2wecTIRuEd</id>
+        <link href="https://gallery.v.daum.net/p/viewer/344179/2wecTIRuEd"/>
+        <updated>2024-06-08T10:23:21.883Z</updated>
+        <content type="html"><![CDATA[청계천 옆 사진관]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[북한 호담당 의사들…"붉은 보건전사 영예 위해 분발"]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1489/9BIl5E410l</id>
         <link href="https://gallery.v.daum.net/p/viewer/1489/9BIl5E410l"/>
@@ -49,17 +56,17 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[보잉도 ISS 도킹 성공···'민간 우주 시대' 성큼]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5032452/PgRrjdphtI</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5032452/PgRrjdphtI"/>
-        <updated>2024-06-07T20:20:29.953Z</updated>
-        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보잉도 ISS 도킹 성공···'민간 우주 시대' 성큼]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1476/PgRrjdphtI</id>
         <link href="https://gallery.v.daum.net/p/viewer/1476/PgRrjdphtI"/>
         <updated>2024-06-07T21:21:27.849Z</updated>
         <content type="html"><![CDATA[미국은 지금]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보잉도 ISS 도킹 성공···'민간 우주 시대' 성큼]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/PgRrjdphtI</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/PgRrjdphtI"/>
+        <updated>2024-06-07T20:20:29.953Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[잊지 않겠습니다]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615616/8DBU5O1m3R"/>
         <updated>2024-06-07T07:19:42.648Z</updated>
         <content type="html"><![CDATA[뉴스1 PICK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안중근 의사 여동생 묘소 정비됐지만... "서훈은 언제쯤"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5615618/Xysiofg2rL</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5615618/Xysiofg2rL"/>
-        <updated>2024-06-07T07:19:42.649Z</updated>
-        <content type="html"><![CDATA[오마이포토]]></content>
     </entry>
 </feed>
