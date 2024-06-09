@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-06-09T09:21:40.133Z</updated>
+    <updated>2024-06-09T10:20:27.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[발상의 전환]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1127178/XyZV2FwM8u</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1127178/XyZV2FwM8u"/>
+        <updated>2024-06-09T10:20:00.275Z</updated>
+        <content type="html"><![CDATA[기자의 일상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[의협 "정부가 의대 증원 중단하면 집단휴진 없을 것"]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5932052/GqKAhj9Hz8</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5032452/PgRrjdphtI"/>
         <updated>2024-06-07T20:20:29.953Z</updated>
         <content type="html"><![CDATA[오늘의 1면 사진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잊지 않겠습니다]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/212305/uBH8LuIiMZ</id>
-        <link href="https://gallery.v.daum.net/p/viewer/212305/uBH8LuIiMZ"/>
-        <updated>2024-06-07T20:20:29.953Z</updated>
-        <content type="html"><![CDATA[포토 카페]]></content>
     </entry>
 </feed>
