@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-09T11:16:55.049Z</updated>
+    <updated>2024-06-09T12:35:21.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데이터 새는 데이터 플랫폼?...스노우플레이크 논란 확산]]></title>
+        <id>https://v.daum.net/v/20240609175143641</id>
+        <link href="https://v.daum.net/v/20240609175143641"/>
+        <updated>2024-06-09T12:34:43.660Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넥슨 엔믹스·크래프톤 뉴진스…게임사 '女돌 사랑']]></title>
         <id>https://v.daum.net/v/20240609153901994</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240609153144797"/>
         <updated>2024-06-09T08:22:36.127Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일루미나 “하루 1만명 유전정보 분석… 고객 데이터 저장하지 않는다” [2024 바이오USA]]]></title>
-        <id>https://v.daum.net/v/20240609150445133</id>
-        <link href="https://v.daum.net/v/20240609150445133"/>
-        <updated>2024-06-09T08:22:36.130Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
