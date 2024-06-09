@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-06-09T19:17:13.424Z</updated>
+    <updated>2024-06-09T20:24:06.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피아노 대가 2人의 ‘협주곡 전곡’ 선율, 초여름 수놓는다]]></title>
+        <id>https://v.daum.net/v/20240610030159117</id>
+        <link href="https://v.daum.net/v/20240610030159117"/>
+        <updated>2024-06-09T20:23:06.748Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘세계 7대 불가사의’ 브라질 예수상, ‘한복’ 입었다]]></title>
+        <id>https://v.daum.net/v/20240610004858859</id>
+        <link href="https://v.daum.net/v/20240610004858859"/>
+        <updated>2024-06-09T20:23:06.749Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 전국 대체로 맑고 가끔 구름‥오후 강원 등 일부 소나기]]></title>
+        <id>https://v.daum.net/v/20240610003111780</id>
+        <link href="https://v.daum.net/v/20240610003111780"/>
+        <updated>2024-06-09T20:23:06.749Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘(10일) 대체로 맑고 일부 짙은 안개...뜨거운 파스·차가운 파스 차이점은?]]></title>
         <id>https://v.daum.net/v/20240610002948759</id>
         <link href="https://v.daum.net/v/20240610002948759"/>
         <updated>2024-06-09T19:16:25.000Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘고래사냥’ ‘투캅스’ 찍은 정광석 촬영감독 별세]]></title>
-        <id>https://v.daum.net/v/20240610001036622</id>
-        <link href="https://v.daum.net/v/20240610001036622"/>
-        <updated>2024-06-09T18:24:13.928Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[명경대] 설계자의 명암]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240610000014429"/>
         <updated>2024-06-09T15:19:53.498Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지극히 사실적이고 개인적인, 스튜디오 언라벨]]></title>
-        <id>https://v.daum.net/v/20240610000002419</id>
-        <link href="https://v.daum.net/v/20240610000002419"/>
-        <updated>2024-06-09T15:19:53.498Z</updated>
-        <content type="html"><![CDATA[엘르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[녹유 오늘의 운세] 89년생 크기는 작아도 진짜를 가져요]]></title>
-        <id>https://v.daum.net/v/20240610000009427</id>
-        <link href="https://v.daum.net/v/20240610000009427"/>
-        <updated>2024-06-09T15:19:53.500Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
