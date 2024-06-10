@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-10T13:25:49.801Z</updated>
+    <updated>2024-06-10T14:21:32.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中 반도체 첨병 화웨이의 고백 "첨단공정 자립 어렵다"]]></title>
+        <id>https://v.daum.net/v/20240610180340292</id>
+        <link href="https://v.daum.net/v/20240610180340292"/>
+        <updated>2024-06-10T14:20:59.570Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국방부, 민간 클라우드 시대 연다]]></title>
         <id>https://v.daum.net/v/20240610151844474</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240610081109565"/>
         <updated>2024-06-10T09:22:59.521Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026년 달에서 이 우주복 입는다…NASA, 첫 실험]]></title>
-        <id>https://v.daum.net/v/20240610173044106</id>
-        <link href="https://v.daum.net/v/20240610173044106"/>
-        <updated>2024-06-10T09:22:59.521Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
