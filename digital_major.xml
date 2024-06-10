@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-10T09:23:32.983Z</updated>
+    <updated>2024-06-10T10:22:50.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어도비 "고객 작업물 열람·사용 안 해"…이용자는 여전히 '우려']]></title>
+        <id>https://v.daum.net/v/20240610174311572</id>
+        <link href="https://v.daum.net/v/20240610174311572"/>
+        <updated>2024-06-10T10:22:19.150Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돈 되는 기업용 AI…유료 서비스 고도화]]></title>
         <id>https://v.daum.net/v/20240610173338219</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240610164813256"/>
         <updated>2024-06-10T09:22:59.527Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['암흑물질' 유력 후보, 한국이 찾아낸다…8월 첫 실험 착수]]></title>
-        <id>https://v.daum.net/v/20240610161245796</id>
-        <link href="https://v.daum.net/v/20240610161245796"/>
-        <updated>2024-06-10T09:22:59.529Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
