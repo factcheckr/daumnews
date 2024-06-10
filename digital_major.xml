@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-10T14:21:32.968Z</updated>
+    <updated>2024-06-10T17:18:55.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["AI, 막을 수 없는 흐름… `모두가 패자` 로톡사태 반복 안돼"]]></title>
+        <id>https://v.daum.net/v/20240610190141556</id>
+        <link href="https://v.daum.net/v/20240610190141556"/>
+        <updated>2024-06-10T17:18:15.490Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SKT, 메타버스 이용자 '뚝'…KT는 베트남 사업 중단]]></title>
+        <id>https://v.daum.net/v/20240610181702622</id>
+        <link href="https://v.daum.net/v/20240610181702622"/>
+        <updated>2024-06-10T17:18:15.491Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中 반도체 첨병 화웨이의 고백 "첨단공정 자립 어렵다"]]></title>
         <id>https://v.daum.net/v/20240610180340292</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240610165621628"/>
         <updated>2024-06-10T09:22:59.512Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“생성형AI, 저작권 침해 논란…사회적 합의로 제도 정비 시급”]]></title>
-        <id>https://v.daum.net/v/20240610135102899</id>
-        <link href="https://v.daum.net/v/20240610135102899"/>
-        <updated>2024-06-10T09:22:59.513Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컴퓨텍스 2024 폐막, AI PC 신제품 전쟁 [월가의 돈이 되는 트렌드 '월렛']]]></title>
-        <id>https://v.daum.net/v/20240610081109565</id>
-        <link href="https://v.daum.net/v/20240610081109565"/>
-        <updated>2024-06-10T09:22:59.521Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>

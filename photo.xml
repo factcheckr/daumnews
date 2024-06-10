@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-06-10T14:21:32.965Z</updated>
+    <updated>2024-06-10T17:18:55.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1471/HRtbnTLK2T"/>
         <updated>2024-06-10T14:21:05.806Z</updated>
         <content type="html"><![CDATA[세계의 정상들]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[따뜻한 답장이 온대요]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/px9wtMFODX</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/px9wtMFODX"/>
+        <updated>2024-06-10T17:18:22.145Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인도 시크 교도라면…황금사원서 목욕재계]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1075022/pQkT2hdz3k"/>
         <updated>2024-06-10T07:19:16.517Z</updated>
         <content type="html"><![CDATA[경찰 제공 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세월호 유족의 외침 "국민 안 구한 책임 인정하라!"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5615618/ZSlJvMFOEZ</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5615618/ZSlJvMFOEZ"/>
-        <updated>2024-06-10T07:19:16.520Z</updated>
-        <content type="html"><![CDATA[오마이포토]]></content>
     </entry>
 </feed>
