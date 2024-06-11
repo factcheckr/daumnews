@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-06-11T02:36:54.491Z</updated>
+    <updated>2024-06-11T03:24:46.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일반 바이러스의 ‘125배’…거대 바이러스 발견이 희소식인 이유 [핵잼 사이언스]]]></title>
+        <id>https://v.daum.net/v/20240611114201154</id>
+        <link href="https://v.daum.net/v/20240611114201154"/>
+        <updated>2024-06-11T03:24:02.245Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[헤럴드비즈] ‘실리콘밸리 탄생’ 뒤의 수요와 공급]]></title>
         <id>https://v.daum.net/v/20240611111646141</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240611105548000"/>
         <updated>2024-06-11T02:36:11.380Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["서프라이즈는 없었다"…AI 아이폰, 이제 써봐야 안다]]></title>
-        <id>https://v.daum.net/v/20240611103854166</id>
-        <link href="https://v.daum.net/v/20240611103854166"/>
-        <updated>2024-06-11T02:36:11.381Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>

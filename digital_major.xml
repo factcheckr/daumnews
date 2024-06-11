@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-11T02:36:54.496Z</updated>
+    <updated>2024-06-11T03:24:46.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["서프라이즈는 없었다"…AI 아이폰, 이제 써봐야 안다]]></title>
+        <id>https://v.daum.net/v/20240611103854166</id>
+        <link href="https://v.daum.net/v/20240611103854166"/>
+        <updated>2024-06-11T03:24:11.896Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내서 가장 윤택한 삶이 가능한 곳은?]]></title>
         <id>https://v.daum.net/v/20240611102602526</id>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[샘 알트먼 무대 허용 않은 애플, “시리에 챗지피티 결합” 발표]]></title>
+        <title type="html"><![CDATA[애플의 인공지능 전략은 챗지피티 심기였다…혁신 아이콘에서 혁신 추종자로]]></title>
         <id>https://v.daum.net/v/20240611093007061</id>
         <link href="https://v.daum.net/v/20240611093007061"/>
         <updated>2024-06-11T02:36:20.226Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240611090120042"/>
         <updated>2024-06-11T01:21:10.627Z</updated>
         <content type="html"><![CDATA[우먼센스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전세계 ICS 및 OT 산업 잇따른 외부 위협 노출로 `비상상황`]]></title>
-        <id>https://v.daum.net/v/20240611090114035</id>
-        <link href="https://v.daum.net/v/20240611090114035"/>
-        <updated>2024-06-11T01:21:10.627Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
