@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-06-11T18:28:42.972Z</updated>
+    <updated>2024-06-11T19:17:33.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://v.daum.net/v/20240612003822195</id>
         <link href="https://v.daum.net/v/20240612003822195"/>
         <updated>2024-06-11T16:25:41.702Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10대 자녀 조언도 새겨… 안 그러면 옛날이야기 된다]]></title>
+        <id>https://v.daum.net/v/20240612003600174</id>
+        <link href="https://v.daum.net/v/20240612003600174"/>
+        <updated>2024-06-11T19:16:42.354Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240612000514736"/>
         <updated>2024-06-11T16:25:41.709Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 보면서 오케스트라 감상…강렬한 라이브, 관객을 홀리다]]></title>
-        <id>https://v.daum.net/v/20240612001126870</id>
-        <link href="https://v.daum.net/v/20240612001126870"/>
-        <updated>2024-06-11T16:25:41.710Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
