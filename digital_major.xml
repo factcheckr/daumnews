@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-12T08:25:16.929Z</updated>
+    <updated>2024-06-12T09:22:34.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ET시론] 'AI 패권 경쟁' 대응하려면]]></title>
+        <id>https://v.daum.net/v/20240612160248414</id>
+        <link href="https://v.daum.net/v/20240612160248414"/>
+        <updated>2024-06-12T09:21:57.551Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘놀라운 똑똑함, 충격적 어리석음’…AI 위험성 경고한 최예진 교수]]></title>
         <id>https://v.daum.net/v/20240612160116315</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240612145954344"/>
         <updated>2024-06-12T08:24:43.741Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘애플’ 브랜드 자산가치 세계 최초 ‘1조달러’]]></title>
-        <id>https://v.daum.net/v/20240612145100002</id>
-        <link href="https://v.daum.net/v/20240612145100002"/>
-        <updated>2024-06-12T08:24:43.742Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
