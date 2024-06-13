@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-13T11:18:20.459Z</updated>
+    <updated>2024-06-13T15:22:34.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[접착제로도 쓰는 만능 '유기물 유리'…물만 있으면 자가치유까지]]></title>
+        <id>https://v.daum.net/v/20240613175817305</id>
+        <link href="https://v.daum.net/v/20240613175817305"/>
+        <updated>2024-06-13T15:21:56.134Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우주청·천문연 "라그랑주점·소행성 탐사"]]></title>
         <id>https://v.daum.net/v/20240613172845330</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240613152613166"/>
         <updated>2024-06-13T08:24:55.397Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“반갑다 실외용 성인보행기”…수급자 ‘홀로 산책’ 도와]]></title>
-        <id>https://v.daum.net/v/20240613151815807</id>
-        <link href="https://v.daum.net/v/20240613151815807"/>
-        <updated>2024-06-13T08:24:55.400Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
