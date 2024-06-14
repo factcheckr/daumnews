@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-14T20:21:20.069Z</updated>
+    <updated>2024-06-14T21:23:03.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["월 1만7000원 넷플릭스를 반값에?"…난리난 이유 있었네 [이슈+]]]></title>
+        <id>https://v.daum.net/v/20240614200104417</id>
+        <link href="https://v.daum.net/v/20240614200104417"/>
+        <updated>2024-06-14T21:22:31.935Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['제4이통 백지화'에 쏟아지는 말말말…"환영", "참담한 일", "예고된 수순"(종합2보)]]></title>
         <id>https://v.daum.net/v/20240614185111915</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240614164000570"/>
         <updated>2024-06-14T12:36:11.901Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아마존, 직원들에 MS 클라우드 플랫폼 데이터 수집 지시"]]></title>
-        <id>https://v.daum.net/v/20240614164307669</id>
-        <link href="https://v.daum.net/v/20240614164307669"/>
-        <updated>2024-06-14T12:36:11.902Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
