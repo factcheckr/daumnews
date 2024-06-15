@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-06-15T16:24:53.767Z</updated>
+    <updated>2024-06-15T17:18:04.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 운세] 2024년 06월 16일 별자리 운세]]></title>
+        <id>https://v.daum.net/v/20240616000302255</id>
+        <link href="https://v.daum.net/v/20240616000302255"/>
+        <updated>2024-06-15T17:17:18.962Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인플루언서 프리즘] "본방보다 재밌다"…리액션 유튜브 콘텐츠 급부상]]></title>
         <id>https://v.daum.net/v/20240616000141236</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240615214354015"/>
         <updated>2024-06-15T16:24:05.200Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["매일 '지옥철'서 단체기합 받는 삶, 달라질 순 없나요?"]]></title>
-        <id>https://v.daum.net/v/20240615213449908</id>
-        <link href="https://v.daum.net/v/20240615213449908"/>
-        <updated>2024-06-15T14:17:43.402Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
     </entry>
 </feed>
