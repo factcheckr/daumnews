@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-15T11:19:13.790Z</updated>
+    <updated>2024-06-15T12:37:43.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“3일 간 우주여행” 민간인도 '잠깐' 젊어졌다]]></title>
+        <id>https://v.daum.net/v/20240615115104677</id>
+        <link href="https://v.daum.net/v/20240615115104677"/>
+        <updated>2024-06-15T12:37:10.001Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갤럭시Z폴드 6, 전체 사양 나왔다]]></title>
         <id>https://v.daum.net/v/20240615113018545</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240615090111055"/>
         <updated>2024-06-15T02:34:26.212Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로켓 엔진도 3일 만에 3D프린터로 뚝딱…로켓 발사도 성공]]></title>
-        <id>https://v.daum.net/v/20240615090033029</id>
-        <link href="https://v.daum.net/v/20240615090033029"/>
-        <updated>2024-06-15T11:18:38.468Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
