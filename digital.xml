@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-06-16T11:19:34.058Z</updated>
+    <updated>2024-06-16T12:37:46.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘화성에서 살기’ 최대 장애물…물도, 식량도 아닌 ‘우주 방사선’]]></title>
+        <id>https://v.daum.net/v/20240616201142550</id>
+        <link href="https://v.daum.net/v/20240616201142550"/>
+        <updated>2024-06-16T12:36:49.686Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세계를 보다]최첨단 기술 탑재한 군사 풍선]]></title>
         <id>https://v.daum.net/v/20240616194415189</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240616175932637"/>
         <updated>2024-06-16T09:21:19.828Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 천체사진] 허블망원경이 포착한 우주의 화석]]></title>
-        <id>https://v.daum.net/v/20240616170128538</id>
-        <link href="https://v.daum.net/v/20240616170128538"/>
-        <updated>2024-06-16T09:21:19.829Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
