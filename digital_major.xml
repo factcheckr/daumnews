@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-17T16:25:56.782Z</updated>
+    <updated>2024-06-17T19:21:44.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[갤럭시 신제품에 미디어텍·퀄컴 AP 탑재]]></title>
+        <id>https://v.daum.net/v/20240617180014445</id>
+        <link href="https://v.daum.net/v/20240617180014445"/>
+        <updated>2024-06-17T19:21:11.076Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["구글 때문?"…맥도날드, 드라이브 스루 AI 주문 중단]]></title>
+        <id>https://v.daum.net/v/20240617172617446</id>
+        <link href="https://v.daum.net/v/20240617172617446"/>
+        <updated>2024-06-17T19:21:11.076Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카카오 개인정보 유출 공방 쟁점은 '쉽게'…개인정보위, “해킹 시연했다”]]></title>
         <id>https://v.daum.net/v/20240617170328564</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240617160246372"/>
         <updated>2024-06-17T08:25:38.497Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌 게이츠 "소형원전 공급처 확보…러시아 제재 영향 없다"]]></title>
-        <id>https://v.daum.net/v/20240617154741691</id>
-        <link href="https://v.daum.net/v/20240617154741691"/>
-        <updated>2024-06-17T08:25:38.499Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뒤늦은 규제 기준 마련...가상자산-블록체인 산업 불안감↑]]></title>
-        <id>https://v.daum.net/v/20240617151741500</id>
-        <link href="https://v.daum.net/v/20240617151741500"/>
-        <updated>2024-06-17T08:25:38.500Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
