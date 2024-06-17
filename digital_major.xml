@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-17T19:21:44.029Z</updated>
+    <updated>2024-06-17T20:19:39.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[겜덕연구소] 아무리 3D 초기라도.. 이렇게 못생긴 게임 히로인은 싫다!]]></title>
+        <id>https://v.daum.net/v/20240617175110164</id>
+        <link href="https://v.daum.net/v/20240617175110164"/>
+        <updated>2024-06-17T20:19:07.571Z</updated>
+        <content type="html"><![CDATA[게임동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갤럭시 신제품에 미디어텍·퀄컴 AP 탑재]]></title>
         <id>https://v.daum.net/v/20240617180014445</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240617160926717"/>
         <updated>2024-06-17T08:25:38.495Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ET시론]첨단로봇·제조 전략기술과 AI 디지털 혁신]]></title>
-        <id>https://v.daum.net/v/20240617160246372</id>
-        <link href="https://v.daum.net/v/20240617160246372"/>
-        <updated>2024-06-17T08:25:38.497Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
