@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-17T03:24:04.977Z</updated>
+    <updated>2024-06-17T04:25:22.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["OTT로 충분"… 유료방송, 가입자수 감소에 휘청]]></title>
+        <id>https://v.daum.net/v/20240617110940249</id>
+        <link href="https://v.daum.net/v/20240617110940249"/>
+        <updated>2024-06-17T04:24:48.843Z</updated>
+        <content type="html"><![CDATA[기자협회보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["노예·약자만 골랐다"던 마야 인신공양…DNA 검사 '대반전']]></title>
         <id>https://v.daum.net/v/20240617102944228</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240617090325586"/>
         <updated>2024-06-17T02:39:01.949Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["애플 인텔리전스 일부 기능, 내년까지 안 나온다"]]></title>
-        <id>https://v.daum.net/v/20240617084948106</id>
-        <link href="https://v.daum.net/v/20240617084948106"/>
-        <updated>2024-06-17T02:39:01.949Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
