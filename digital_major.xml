@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-18T19:17:03.747Z</updated>
+    <updated>2024-06-18T20:21:47.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글·메타 ‘철퇴’ 이어 알리·테무 예의 주시]]></title>
+        <id>https://v.daum.net/v/20240618210307288</id>
+        <link href="https://v.daum.net/v/20240618210307288"/>
+        <updated>2024-06-18T20:21:17.842Z</updated>
+        <content type="html"><![CDATA[매경이코노미]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI에 열받고 인간 상담사에 화풀이‥짙어진 감정노동]]></title>
         <id>https://v.daum.net/v/20240618204610027</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240618174942656"/>
         <updated>2024-06-18T11:17:49.901Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라인야후 "시스템 분리 조기완료·자본관계 재검토 요청"(종합)]]></title>
-        <id>https://v.daum.net/v/20240618174525515</id>
-        <link href="https://v.daum.net/v/20240618174525515"/>
-        <updated>2024-06-18T10:21:15.306Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
