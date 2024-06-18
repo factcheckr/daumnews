@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-18T03:24:03.973Z</updated>
+    <updated>2024-06-18T04:24:06.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NASA 달 궤도선이 포착한 달 뒷면 中 탐사선 [우주로 간다]]]></title>
+        <id>https://v.daum.net/v/20240618094517014</id>
+        <link href="https://v.daum.net/v/20240618094517014"/>
+        <updated>2024-06-18T04:23:29.790Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["수년간 구독 수수료 정보 은폐"…美 법무부, 어도비 고소]]></title>
         <id>https://v.daum.net/v/20240618095324321</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240618075103577"/>
         <updated>2024-06-18T01:21:06.410Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[하이빔] '수입차 외면' 부산모터쇼, BMW만은 진심]]></title>
-        <id>https://v.daum.net/v/20240618080402827</id>
-        <link href="https://v.daum.net/v/20240618080402827"/>
-        <updated>2024-06-18T01:21:06.412Z</updated>
-        <content type="html"><![CDATA[오토타임즈]]></content>
     </entry>
 </feed>
