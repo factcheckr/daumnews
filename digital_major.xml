@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-18T01:21:45.962Z</updated>
+    <updated>2024-06-18T02:37:15.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KAIST, 네이처에 '팬데믹 조약' 준수 방안 게재…국내 법학자로는 처음]]></title>
+        <id>https://v.daum.net/v/20240618094932162</id>
+        <link href="https://v.daum.net/v/20240618094932162"/>
+        <updated>2024-06-18T02:36:42.416Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내 개인정보도 털렸다… 기업·공공기관, 문서보안시스템 강화 필요성 증대]]></title>
         <id>https://v.daum.net/v/20240618090021317</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240618052113621"/>
         <updated>2024-06-18T01:21:06.413Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“‘쇼핑 실패율 제로’에 도전”…AI 고객 도우미 성공할까]]></title>
-        <id>https://v.daum.net/v/20240618070513027</id>
-        <link href="https://v.daum.net/v/20240618070513027"/>
-        <updated>2024-06-18T01:21:06.415Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
