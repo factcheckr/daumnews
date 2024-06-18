@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2024-06-18T18:27:22.225Z</updated>
+    <updated>2024-06-18T19:17:03.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[푸틴 대통령, 북한 도착… 김정은 직접 마중나왔다]]></title>
+        <id>https://v.daum.net/v/20240619025450462</id>
+        <link href="https://v.daum.net/v/20240619025450462"/>
+        <updated>2024-06-18T19:15:09.508Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[속보]24년 만에 평양 땅 밟은 푸틴···김정은, 새벽에 공항 영접]]></title>
         <id>https://v.daum.net/v/20240619025613465</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240619012800091"/>
         <updated>2024-06-18T17:19:35.490Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 "푸틴 방북 환영"→"역내 안정 기여를"…韓 만나고 입장 바꿨다]]></title>
-        <id>https://v.daum.net/v/20240619011854032</id>
-        <link href="https://v.daum.net/v/20240619011854032"/>
-        <updated>2024-06-18T16:23:45.211Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>

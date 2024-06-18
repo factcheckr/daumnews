@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-06-18T18:27:22.228Z</updated>
+    <updated>2024-06-18T19:17:03.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240619030248533"/>
         <updated>2024-06-18T18:26:39.545Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해외배급은 릴레이 마지막 주자, 명확한 콘셉트가 ‘힘’]]></title>
+        <id>https://v.daum.net/v/20240619003345713</id>
+        <link href="https://v.daum.net/v/20240619003345713"/>
+        <updated>2024-06-18T19:16:12.275Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이탈리아 ‘조각의 성지’에 한국인 작가 이름 건 첫 미술관이 선다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240619000727445"/>
         <updated>2024-06-18T16:24:32.611Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘날씨, 오전 가시거리 200m 미만 안개... 전국 최고체감온도 31도 이상]]></title>
-        <id>https://v.daum.net/v/20240619000202331</id>
-        <link href="https://v.daum.net/v/20240619000202331"/>
-        <updated>2024-06-18T15:21:07.325Z</updated>
-        <content type="html"><![CDATA[bnt뉴스]]></content>
     </entry>
 </feed>
