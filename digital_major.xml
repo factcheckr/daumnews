@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-19T13:22:57.498Z</updated>
+    <updated>2024-06-19T14:18:34.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 천체사진] 제단자리의 용 성운]]></title>
+        <id>https://v.daum.net/v/20240619181023673</id>
+        <link href="https://v.daum.net/v/20240619181023673"/>
+        <updated>2024-06-19T14:18:08.342Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 미국에선 X로 뉴스 본다]]></title>
         <id>https://v.daum.net/v/20240619181941949</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240619171348741"/>
         <updated>2024-06-19T09:24:47.489Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[동영상] MS는 못해도 팀왈도는 한다! 스타필드 한글화로 관심UP]]></title>
-        <id>https://v.daum.net/v/20240619155709776</id>
-        <link href="https://v.daum.net/v/20240619155709776"/>
-        <updated>2024-06-19T09:24:47.490Z</updated>
-        <content type="html"><![CDATA[게임동아]]></content>
     </entry>
 </feed>
