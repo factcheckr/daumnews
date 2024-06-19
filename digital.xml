@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-06-19T02:38:44.289Z</updated>
+    <updated>2024-06-19T03:23:17.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이것이 노병의 관록…‘자이로 1개’ 허블망원경 정상 작동했다]]></title>
+        <id>https://v.daum.net/v/20240619121235136</id>
+        <link href="https://v.daum.net/v/20240619121235136"/>
+        <updated>2024-06-19T03:22:32.849Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[햄버거 주문도 못하는 IBM AI의 굴욕… 구글에 맥도날드 AI 챗봇 자리 내줘]]></title>
+        <id>https://v.daum.net/v/20240619114053067</id>
+        <link href="https://v.daum.net/v/20240619114053067"/>
+        <updated>2024-06-19T03:22:32.850Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[동영상] 이게 게임이야 코인이야? 바나나 게임 유행]]></title>
         <id>https://v.daum.net/v/20240619101803099</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240619102544404"/>
         <updated>2024-06-19T02:37:59.195Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[약손+] 디지털 기술로 날개 단 ‘디지털 헬스 케어’ ②3세대 의약품 ‘디지털 치료제’란?]]></title>
-        <id>https://v.daum.net/v/20240619100142308</id>
-        <link href="https://v.daum.net/v/20240619100142308"/>
-        <updated>2024-06-19T01:21:01.406Z</updated>
-        <content type="html"><![CDATA[대구MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 증시]]></title>
-        <id>https://v.daum.net/v/20240619094610516</id>
-        <link href="https://v.daum.net/v/20240619094610516"/>
-        <updated>2024-06-19T01:21:01.407Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
