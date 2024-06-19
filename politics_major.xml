@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-06-19T18:27:30.266Z</updated>
+    <updated>2024-06-19T19:17:35.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://v.daum.net/v/20240620030039463"/>
         <updated>2024-06-19T18:25:53.383Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尹 “나라 존망 걱정할 상황… 총력 대응”]]></title>
+        <id>https://v.daum.net/v/20240620011652023</id>
+        <link href="https://v.daum.net/v/20240620011652023"/>
+        <updated>2024-06-19T19:15:49.099Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘한반도 유사시 러시아 개입’ 길 열었다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240620010821969"/>
         <updated>2024-06-19T16:23:16.157Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주, 오늘 긴급 의원총회서 원 구성 논의…‘간호법’ 당론 채택 예정]]></title>
-        <id>https://v.daum.net/v/20240620010117933</id>
-        <link href="https://v.daum.net/v/20240620010117933"/>
-        <updated>2024-06-19T18:25:53.394Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
