@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-20T10:22:01.652Z</updated>
+    <updated>2024-06-20T11:18:35.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전 세계 화이트해커 '핵테온 세종'서 열띤 경쟁...대상 KAIST팀]]></title>
+        <id>https://v.daum.net/v/20240620143727365</id>
+        <link href="https://v.daum.net/v/20240620143727365"/>
+        <updated>2024-06-20T11:17:54.443Z</updated>
+        <content type="html"><![CDATA[대전일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘토성의 달’ 타이탄에 거센 메탄 파도 친다]]></title>
+        <id>https://v.daum.net/v/20240620165523626</id>
+        <link href="https://v.daum.net/v/20240620165523626"/>
+        <updated>2024-06-20T11:17:54.443Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빅테크끼리만 AI 합종연횡···韓기업 '변방의 스몰테크' 내몰려]]></title>
         <id>https://v.daum.net/v/20240620174009179</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240620163330794"/>
         <updated>2024-06-20T09:23:55.518Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2024 사이버보안] “AI 시대 사이버 위협, 국가 안보와 연결… 민·관·군 협력해야”(종합)]]></title>
-        <id>https://v.daum.net/v/20240620162848629</id>
-        <link href="https://v.daum.net/v/20240620162848629"/>
-        <updated>2024-06-20T09:23:55.520Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오픈AI·구글 넘은 KAIST `멀티모달 AI`]]></title>
-        <id>https://v.daum.net/v/20240620161614101</id>
-        <link href="https://v.daum.net/v/20240620161614101"/>
-        <updated>2024-06-20T09:23:55.522Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
