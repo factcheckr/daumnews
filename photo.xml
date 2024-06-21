@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-06-21T22:19:43.883Z</updated>
+    <updated>2024-06-21T23:19:17.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한, 구두 생산 '질' 제고 고심…"더 좋은 제품 생산"]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1489/4G1JNOf5Fa</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1489/4G1JNOf5Fa"/>
+        <updated>2024-06-21T23:18:50.776Z</updated>
+        <content type="html"><![CDATA[북한은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[낯선 6·25 전쟁의 흔적들]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1270177/Ge9wiEBWzd</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5612596/ypJ3ADbYVL"/>
         <updated>2024-06-21T06:28:30.685Z</updated>
         <content type="html"><![CDATA[머니S포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘무더위에 양산은 필수’ [쿠키포토]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5620091/Yxn0fPyj38</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5620091/Yxn0fPyj38"/>
-        <updated>2024-06-21T06:28:30.685Z</updated>
-        <content type="html"><![CDATA[쿠키포토]]></content>
     </entry>
 </feed>
