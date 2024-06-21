@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-21T10:25:05.596Z</updated>
+    <updated>2024-06-21T11:18:21.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI 열풍에 보안 우려도 급증…보안 스타트업 시장 '급성장']]></title>
+        <id>https://v.daum.net/v/20240621171708542</id>
+        <link href="https://v.daum.net/v/20240621171708542"/>
+        <updated>2024-06-21T11:17:55.635Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글맵·아마존을 넘어···'脫중앙화 인프라' 디핀이 온다]]></title>
+        <id>https://v.daum.net/v/20240621164642561</id>
+        <link href="https://v.daum.net/v/20240621164642561"/>
+        <updated>2024-06-21T11:17:55.636Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MS 과학용 AI플랫폼 출격…“분자 탐구부터 합성까지 며칠이면 끝”]]></title>
         <id>https://v.daum.net/v/20240621163900332</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240621144227893"/>
         <updated>2024-06-21T08:24:04.690Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓 '최악의 폭염' 경고…올해 한반도 평균 표면온도, 1850년 이후 가장 높아]]></title>
-        <id>https://v.daum.net/v/20240621142757308</id>
-        <link href="https://v.daum.net/v/20240621142757308"/>
-        <updated>2024-06-21T08:24:04.692Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국회, '2인체제' 방통위 압박…정쟁에 휩쓸리는 통신·방송업계 '불안']]></title>
-        <id>https://v.daum.net/v/20240621142500181</id>
-        <link href="https://v.daum.net/v/20240621142500181"/>
-        <updated>2024-06-21T08:24:04.693Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
