@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-06-22T14:25:04.738Z</updated>
+    <updated>2024-06-22T15:25:09.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조국혁신당 충북도당 창당준비위 발족]]></title>
+        <id>https://v.daum.net/v/20240622221046993</id>
+        <link href="https://v.daum.net/v/20240622221046993"/>
+        <updated>2024-06-22T15:23:41.478Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민의힘 진종오 "한동훈 제안으로 전당대회 청년최고위원 출마"]]></title>
         <id>https://v.daum.net/v/20240622205212358</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240622202713197"/>
         <updated>2024-06-22T12:32:40.050Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘당원권 강화’ 논쟁…‘팬덤정치 심화’ vs ‘민주주의 확대’ [정치개혁 K 2024]]]></title>
-        <id>https://v.daum.net/v/20240622212059582</id>
-        <link href="https://v.daum.net/v/20240622212059582"/>
-        <updated>2024-06-22T12:32:40.040Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

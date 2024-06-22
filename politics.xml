@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2024-06-22T14:25:04.716Z</updated>
+    <updated>2024-06-22T15:25:09.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어대한' 추격 나경원·원희룡…尹心 연대로 당권 노린다]]></title>
+        <id>https://v.daum.net/v/20240623000117721</id>
+        <link href="https://v.daum.net/v/20240623000117721"/>
+        <updated>2024-06-22T15:23:33.119Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남한 버스 수십 대, 개성 시내버스로...北, 또 재산권 침해]]></title>
         <id>https://v.daum.net/v/20240622231312492</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240622210502456"/>
         <updated>2024-06-22T12:32:32.384Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조국혁신당 충북도당 창당준비위 발족]]></title>
-        <id>https://v.daum.net/v/20240622221046993</id>
-        <link href="https://v.daum.net/v/20240622221046993"/>
-        <updated>2024-06-22T13:20:22.411Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
