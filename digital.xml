@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-06-22T11:16:01.959Z</updated>
+    <updated>2024-06-22T12:34:16.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“일본 너무 믿었다간” 공들인 삼성 충격…점유율 ‘폭락’]]></title>
+        <id>https://v.daum.net/v/20240622204119277</id>
+        <link href="https://v.daum.net/v/20240622204119277"/>
+        <updated>2024-06-22T12:33:36.430Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“알렉사 너마저...” 생성형AI 탑재하고 매달 5달러 요금 받는다]]></title>
         <id>https://v.daum.net/v/20240622181500094</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240622133136336"/>
         <updated>2024-06-22T07:20:46.246Z</updated>
         <content type="html"><![CDATA[게임톡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[훈련되지 않은 업무는 버벅…범용AI도 인간이 개입해야]]></title>
-        <id>https://v.daum.net/v/20240622150501249</id>
-        <link href="https://v.daum.net/v/20240622150501249"/>
-        <updated>2024-06-22T06:29:47.377Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
