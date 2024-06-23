@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-06-23T15:20:03.166Z</updated>
+    <updated>2024-06-23T16:23:14.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[와인은 오래될수록 맛있다?…로마서 '2000년 이상' 와인 발견]]></title>
+        <id>https://v.daum.net/v/20240623202526744</id>
+        <link href="https://v.daum.net/v/20240623202526744"/>
+        <updated>2024-06-23T16:22:30.033Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플, 메타와 AI 파트너십 검토…'애플 인텔리전스’ 생태계 확장 나선다]]></title>
         <id>https://v.daum.net/v/20240623211613084</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240623203023797"/>
         <updated>2024-06-23T12:34:09.949Z</updated>
         <content type="html"><![CDATA[대구MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SKT 대리점 통신가입만, 판매점은 단말기 판매…'절충형 완자제'급부상]]></title>
-        <id>https://v.daum.net/v/20240623193726262</id>
-        <link href="https://v.daum.net/v/20240623193726262"/>
-        <updated>2024-06-23T11:15:49.867Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
