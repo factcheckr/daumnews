@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-06-23T19:18:02.391Z</updated>
+    <updated>2024-06-23T20:20:59.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['망 무임승차' 구글...여전히, 막을 법 없다]]></title>
+        <id>https://v.daum.net/v/20240624043001278</id>
+        <link href="https://v.daum.net/v/20240624043001278"/>
+        <updated>2024-06-23T20:20:23.250Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[와인은 오래될수록 맛있다?…로마서 '2000년 이상' 와인 발견]]></title>
         <id>https://v.daum.net/v/20240623202526744</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240623204122858"/>
         <updated>2024-06-23T12:34:09.947Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['암세포만 노린다'···초음파 활용 레이저 치료 기술 개발]]></title>
-        <id>https://v.daum.net/v/20240623203023797</id>
-        <link href="https://v.daum.net/v/20240623203023797"/>
-        <updated>2024-06-23T12:34:09.949Z</updated>
-        <content type="html"><![CDATA[대구MBC]]></content>
     </entry>
 </feed>
