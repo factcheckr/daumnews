@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-06-24T13:21:55.979Z</updated>
+    <updated>2024-06-24T14:20:37.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['13년만에 내한' 웨스트라이프 공연 11월로 돌연 연기]]></title>
+        <id>https://v.daum.net/v/20240624221903854</id>
+        <link href="https://v.daum.net/v/20240624221903854"/>
+        <updated>2024-06-24T14:19:42.137Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양산시 원동습지 생태공원 내달 문 연다]]></title>
         <id>https://v.daum.net/v/20240624201751357</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240624210101954"/>
         <updated>2024-06-24T12:37:15.441Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 내일 대체로 맑아, 중부지방 장마는 언제?]]></title>
-        <id>https://v.daum.net/v/20240624205215816</id>
-        <link href="https://v.daum.net/v/20240624205215816"/>
-        <updated>2024-06-24T12:37:15.442Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
