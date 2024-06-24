@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-06-24T19:18:02.560Z</updated>
+    <updated>2024-06-24T20:21:13.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 가정집에 우주쓰레기 날벼락… NASA에 손배소]]></title>
+        <id>https://v.daum.net/v/20240625030223549</id>
+        <link href="https://v.daum.net/v/20240625030223549"/>
+        <updated>2024-06-24T20:20:29.669Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스줌인] 성능은 UP, 가격은 동결, ‘갤럭시 A35’ 이모저모]]></title>
         <id>https://v.daum.net/v/20240625010000211</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240624185540281"/>
         <updated>2024-06-24T14:19:59.758Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서상원 스테이지파이브 대표, 25일 국회 현안질의 불출석]]></title>
-        <id>https://v.daum.net/v/20240624214325403</id>
-        <link href="https://v.daum.net/v/20240624214325403"/>
-        <updated>2024-06-24T13:21:13.738Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
