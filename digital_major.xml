@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-27T22:20:26.520Z</updated>
+    <updated>2024-06-27T23:22:54.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세계 뒤흔드는 위고비의 살빼는 원리, 한국연구팀이 밝혔다]]></title>
+        <id>https://v.daum.net/v/20240628003216843</id>
+        <link href="https://v.daum.net/v/20240628003216843"/>
+        <updated>2024-06-27T23:22:10.483Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['확률형 아이템' 오류에 분노 쏟아지더니…게임사들 '발칵']]></title>
         <id>https://v.daum.net/v/20240627221702658</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240627181331759"/>
         <updated>2024-06-27T14:19:54.770Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["국내 기업간 AI투자·협력으로 빅테크 자본공세 맞서야"[제15회 퓨처ICT 포럼]]]></title>
-        <id>https://v.daum.net/v/20240627181248743</id>
-        <link href="https://v.daum.net/v/20240627181248743"/>
-        <updated>2024-06-27T13:22:55.131Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
