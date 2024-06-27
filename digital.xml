@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-06-27T12:37:55.453Z</updated>
+    <updated>2024-06-27T13:23:38.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["2032년 달, 2045년엔 화성 착륙…深우주 탐사 본격 확대"]]></title>
+        <id>https://v.daum.net/v/20240627180802598</id>
+        <link href="https://v.daum.net/v/20240627180802598"/>
+        <updated>2024-06-27T13:22:40.295Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공룡 멸종시킨 '행성킬러'…소행성, 110년 만에 지구 근접]]></title>
         <id>https://v.daum.net/v/20240627195104967</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240627181331759"/>
         <updated>2024-06-27T09:21:52.452Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["국내 기업간 AI투자·협력으로 빅테크 자본공세 맞서야"[제15회 퓨처ICT 포럼]]]></title>
-        <id>https://v.daum.net/v/20240627181248743</id>
-        <link href="https://v.daum.net/v/20240627181248743"/>
-        <updated>2024-06-27T09:21:52.454Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
