@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-28T11:18:29.058Z</updated>
+    <updated>2024-06-28T12:40:45.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마비노기 "엔진 교체 착실히 진행 중입니다"]]></title>
+        <id>https://v.daum.net/v/20240628161304613</id>
+        <link href="https://v.daum.net/v/20240628161304613"/>
+        <updated>2024-06-28T12:40:14.055Z</updated>
+        <content type="html"><![CDATA[게임톡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유료방송사 변경할 때 기존 회선 꼭 해지 신청하세요!]]></title>
         <id>https://v.daum.net/v/20240628160044248</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240628140659035"/>
         <updated>2024-06-28T07:20:05.660Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위성 파편으로 ISS 우주인들 긴급 대피…러 미사일 시험 때문?]]></title>
-        <id>https://v.daum.net/v/20240628133105851</id>
-        <link href="https://v.daum.net/v/20240628133105851"/>
-        <updated>2024-06-28T06:28:43.800Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
