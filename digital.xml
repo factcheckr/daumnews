@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-06-28T19:17:54.599Z</updated>
+    <updated>2024-06-28T20:21:14.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사이테크+] 화성 지진 분석해보니…"농구공 크기 운석 매년 300개 충돌"]]></title>
+        <id>https://v.daum.net/v/20240629050005462</id>
+        <link href="https://v.daum.net/v/20240629050005462"/>
+        <updated>2024-06-28T20:20:44.202Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버 이해진마저 엔비디아 젠슨 황 찾았다…AI 생태계 새 판 짜기]]></title>
         <id>https://v.daum.net/v/20240628225106597</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240628181015834"/>
         <updated>2024-06-28T09:21:33.582Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["교육·첨단산업 주도권 확보"… '춘천 미래형 복합도시' 방안 머리 맞대]]></title>
-        <id>https://v.daum.net/v/20240628180928817</id>
-        <link href="https://v.daum.net/v/20240628180928817"/>
-        <updated>2024-06-28T09:21:33.583Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
