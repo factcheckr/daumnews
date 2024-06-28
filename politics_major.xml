@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-06-28T17:19:38.598Z</updated>
+    <updated>2024-06-28T18:26:02.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -17,6 +17,20 @@
         <id>https://v.daum.net/v/20240629014149225</id>
         <link href="https://v.daum.net/v/20240629014149225"/>
         <updated>2024-06-28T17:17:54.229Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5인 체제 방통위, 어쩌다 ‘2인 체제’ 됐나]]></title>
+        <id>https://v.daum.net/v/20240629005703048</id>
+        <link href="https://v.daum.net/v/20240629005703048"/>
+        <updated>2024-06-28T18:24:23.058Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[野 “김홍일, 방송장악 쿠데타”  與 “특정정파 선동도구 막을것”]]></title>
+        <id>https://v.daum.net/v/20240629014138219</id>
+        <link href="https://v.daum.net/v/20240629014138219"/>
+        <updated>2024-06-28T18:24:23.061Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240628223914467"/>
         <updated>2024-06-28T16:23:17.134Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간政談<하>] 이번엔 '어대조?'…혁신당 전대 흥행 어쩌나]]></title>
-        <id>https://v.daum.net/v/20240629000019456</id>
-        <link href="https://v.daum.net/v/20240629000019456"/>
-        <updated>2024-06-28T16:23:17.134Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민통합 위한 김한길 프로젝트…이번엔 '도박중독' 심각성 알렸다]]></title>
-        <id>https://v.daum.net/v/20240629000000438</id>
-        <link href="https://v.daum.net/v/20240629000000438"/>
-        <updated>2024-06-28T16:23:17.137Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
