@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-29T06:26:16.695Z</updated>
+    <updated>2024-06-29T07:20:01.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[창어 6호가 가져온 달 뒷면 토양은 1.93kg]]></title>
+        <id>https://v.daum.net/v/20240629092005931</id>
+        <link href="https://v.daum.net/v/20240629092005931"/>
+        <updated>2024-06-29T07:19:26.482Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갤럭시 Z6 사전예약 혜택 '용량 2배 업그레이드' 혜택 사라지나]]></title>
         <id>https://v.daum.net/v/20240629123015905</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240629083015398"/>
         <updated>2024-06-29T02:34:39.169Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표지로 읽는 과학] 목성 크기에 해왕성 질량 가진 '팝콘 행성'의 비밀]]></title>
-        <id>https://v.daum.net/v/20240629080043125</id>
-        <link href="https://v.daum.net/v/20240629080043125"/>
-        <updated>2024-06-29T01:19:17.049Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>

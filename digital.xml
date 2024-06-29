@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-06-29T06:26:16.694Z</updated>
+    <updated>2024-06-29T07:20:01.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라인야후 '네이버와 결별' 속도전…"업무위탁 내년말 종료"]]></title>
+        <id>https://v.daum.net/v/20240629101033503</id>
+        <link href="https://v.daum.net/v/20240629101033503"/>
+        <updated>2024-06-29T07:19:17.461Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[AWS 서밋 2024]리암 맥스웰 AWS 정부 혁신 디렉터 "클라우드 혁신으로 공공부문 낡은 시스템 버려라"]]></title>
         <id>https://v.daum.net/v/20240629150128265</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240629140007738"/>
         <updated>2024-06-29T05:20:04.795Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[창어 6호가 가져온 달 뒷면 토양은 1.93kg]]></title>
-        <id>https://v.daum.net/v/20240629092005931</id>
-        <link href="https://v.daum.net/v/20240629092005931"/>
-        <updated>2024-06-29T04:24:38.757Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
