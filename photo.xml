@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-06-29T12:35:35.981Z</updated>
+    <updated>2024-06-29T13:22:40.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“못다 핀 꽃 한 송이 채해병을 살려내라!!”]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1629566/FzgI8YJq8J</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1629566/FzgI8YJq8J"/>
+        <updated>2024-06-29T13:22:16.067Z</updated>
+        <content type="html"><![CDATA[만리재사진첩]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘기근 위기’ 놓인 가자 지구]]></title>
         <id>https://gallery.v.daum.net/p/viewer/584149/UteMFkBWUK</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/212305/5SqfzSxpiB"/>
         <updated>2024-06-28T16:24:37.854Z</updated>
         <content type="html"><![CDATA[포토 카페]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[담벼락 기차]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5029578/tWzAlnFOsa</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5029578/tWzAlnFOsa"/>
-        <updated>2024-06-28T16:24:37.854Z</updated>
-        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
 </feed>
