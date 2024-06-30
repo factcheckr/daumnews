@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-06-30T14:18:06.577Z</updated>
+    <updated>2024-06-30T15:21:51.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해외 관광객 한복 입고 찰칵]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1127178/VJqA9tNf4J</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1127178/VJqA9tNf4J"/>
+        <updated>2024-06-30T15:21:21.533Z</updated>
+        <content type="html"><![CDATA[기자의 일상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['김정은 배지' 공식 석상에 최초 등장]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1489/ZPGIpye7pq</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5029622/1K5LSeZwpY"/>
         <updated>2024-06-29T14:18:52.893Z</updated>
         <content type="html"><![CDATA[프랑스는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“못다 핀 꽃 한 송이 채해병을 살려내라!!” [만리재사진첩]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1629566/FzgI8YJq8J</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1629566/FzgI8YJq8J"/>
-        <updated>2024-06-29T13:22:16.067Z</updated>
-        <content type="html"><![CDATA[만리재사진첩]]></content>
     </entry>
 </feed>
