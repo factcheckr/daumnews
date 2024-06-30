@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-06-30T13:21:16.243Z</updated>
+    <updated>2024-06-30T14:18:06.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보기 싫은 튼살, '이때' 보습만 잘 하면 없어지기도]]></title>
+        <id>https://v.daum.net/v/20240630230030207</id>
+        <link href="https://v.daum.net/v/20240630230030207"/>
+        <updated>2024-06-30T14:17:17.395Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[충북 전역 호우주의보 해제…“큰 피해 없어”]]></title>
         <id>https://v.daum.net/v/20240630221124956</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240630214634771"/>
         <updated>2024-06-30T13:20:17.554Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[울산 이틀간 46.6mm 비…내일 밤부터 다시 장맛비]]></title>
-        <id>https://v.daum.net/v/20240630214447752</id>
-        <link href="https://v.daum.net/v/20240630214447752"/>
-        <updated>2024-06-30T13:20:17.556Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
