@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-06-30T22:19:25.608Z</updated>
+    <updated>2024-06-30T23:21:25.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[Why&Next]‘딥페이크’ 범죄 등 생성형 인공지능 부작용…책임은 이용자만?]]></title>
+        <title type="html"><![CDATA[“월패드 없는데 관리비 더 내라니”…아파트 주민들 ‘황당’ [잇슈 키워드]]]></title>
+        <id>https://v.daum.net/v/20240701073738265</id>
+        <link href="https://v.daum.net/v/20240701073738265"/>
+        <updated>2024-06-30T23:20:49.610Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘딥페이크’ 범죄 등 생성형 AI 부작용…책임은 이용자만? [Why&Next]]]></title>
         <id>https://v.daum.net/v/20240701070027691</id>
         <link href="https://v.daum.net/v/20240701070027691"/>
         <updated>2024-06-30T22:18:42.371Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240701053022339"/>
         <updated>2024-06-30T21:20:50.130Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“쌓인 스팸만 3000통…못 참겠어서 직접 앱 만들었죠”]]></title>
-        <id>https://v.daum.net/v/20240701050512156</id>
-        <link href="https://v.daum.net/v/20240701050512156"/>
-        <updated>2024-06-30T20:20:46.398Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
