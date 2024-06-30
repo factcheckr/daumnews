@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-30T08:26:53.348Z</updated>
+    <updated>2024-06-30T09:23:46.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[AI로 무선망 저전력·효율 극대화...'AI RAN' 선점 경쟁]]></title>
+        <title type="html"><![CDATA[보행자보호·방범 등 일상 속 ICT 표준 27건 제정]]></title>
+        <id>https://v.daum.net/v/20240630155912938</id>
+        <link href="https://v.daum.net/v/20240630155912938"/>
+        <updated>2024-06-30T09:23:11.971Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성디스플레이, 신형 M14 OLED 구글 픽셀·애플 아이폰 공급]]></title>
+        <id>https://v.daum.net/v/20240630160137988</id>
+        <link href="https://v.daum.net/v/20240630160137988"/>
+        <updated>2024-06-30T09:23:11.971Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무선망 효율 극대화 'AI 랜' 기술 급부상]]></title>
         <id>https://v.daum.net/v/20240630151204304</id>
         <link href="https://v.daum.net/v/20240630151204304"/>
         <updated>2024-06-30T08:26:19.967Z</updated>
@@ -20,7 +34,7 @@
         <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[르포]빛은 보내고 열만 `꽉`…땡볕 아래 자동차 안이 `서늘`]]></title>
+        <title type="html"><![CDATA[[테크&포커스] 빛은 투과·열은 차단… 아프리카 비닐하우스에 배추 자라네]]></title>
         <id>https://v.daum.net/v/20240630143916562</id>
         <link href="https://v.daum.net/v/20240630143916562"/>
         <updated>2024-06-30T08:26:19.970Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240630120012658"/>
         <updated>2024-06-30T06:26:10.141Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화재 정전에서도 최대 2시간 이동통신 가능토록 건축 규제강화]]></title>
-        <id>https://v.daum.net/v/20240630120052788</id>
-        <link href="https://v.daum.net/v/20240630120052788"/>
-        <updated>2024-06-30T05:18:58.168Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“전세계 소비자들 난리”…삼성 ‘절대반지’ 용량 확 늘린 ‘갤 Z플립6’ 출격 초읽기]]></title>
-        <id>https://v.daum.net/v/20240630090901685</id>
-        <link href="https://v.daum.net/v/20240630090901685"/>
-        <updated>2024-06-30T05:18:58.168Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
