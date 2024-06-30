@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-06-30T11:16:22.202Z</updated>
+    <updated>2024-06-30T12:35:02.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩플] 먼저 손 내민 엔비디아…젠슨 황∙이해진 '소버린AI 연합' 만드나]]></title>
+        <id>https://v.daum.net/v/20240630164926733</id>
+        <link href="https://v.daum.net/v/20240630164926733"/>
+        <updated>2024-06-30T12:34:35.771Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보행자보호·방범 등 일상 속 ICT 표준 27건 제정]]></title>
         <id>https://v.daum.net/v/20240630155912938</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240630130105701"/>
         <updated>2024-06-30T06:26:10.141Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신이 '='의 의미를 모두 안다고 생각한다면 '착각']]></title>
-        <id>https://v.daum.net/v/20240630120012658</id>
-        <link href="https://v.daum.net/v/20240630120012658"/>
-        <updated>2024-06-30T06:26:10.141Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
