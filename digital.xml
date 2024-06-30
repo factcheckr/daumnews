@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-06-30T15:21:51.000Z</updated>
+    <updated>2024-06-30T16:25:08.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[총수들끼리 만남은 비밀?… 이젠 과시하듯 공개한다]]></title>
+        <id>https://v.daum.net/v/20240701003049666</id>
+        <link href="https://v.daum.net/v/20240701003049666"/>
+        <updated>2024-06-30T16:24:27.370Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북한의 천군만마?…“러시아 로켓기술 제공 우려”]]></title>
         <id>https://v.daum.net/v/20240630212249573</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240630172813555"/>
         <updated>2024-06-30T09:23:02.673Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방통위, 구글 등 주요 플랫폼 불법촬영물 8만건 삭제·차단]]></title>
-        <id>https://v.daum.net/v/20240630165613822</id>
-        <link href="https://v.daum.net/v/20240630165613822"/>
-        <updated>2024-06-30T08:26:10.777Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
