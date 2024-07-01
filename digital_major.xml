@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-01T16:29:02.624Z</updated>
+    <updated>2024-07-01T17:19:35.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫 휴머노이드 취업…물류창고에서 두 발로 걸어 상자 운반]]></title>
+        <id>https://v.daum.net/v/20240701200951422</id>
+        <link href="https://v.daum.net/v/20240701200951422"/>
+        <updated>2024-07-01T17:19:02.281Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[치사율 최대 90%… '니파 바이러스' 항체 개발]]></title>
         <id>https://v.daum.net/v/20240701220021709</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240701170657138"/>
         <updated>2024-07-01T11:17:21.746Z</updated>
         <content type="html"><![CDATA[게임톡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[겜덕연구소] 이렇게 충격적인 꼼수나 비기가 있었다니! 게임이 200% 재밌어진다!]]></title>
-        <id>https://v.daum.net/v/20240701172704854</id>
-        <link href="https://v.daum.net/v/20240701172704854"/>
-        <updated>2024-07-01T11:17:21.747Z</updated>
-        <content type="html"><![CDATA[게임동아]]></content>
     </entry>
 </feed>
