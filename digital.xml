@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-01T18:26:48.615Z</updated>
+    <updated>2024-07-01T19:18:33.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[음란물 합성·사이버 폭력...청소년 일탈, 놀잇감이 된 AI]]></title>
+        <id>https://v.daum.net/v/20240702040003180</id>
+        <link href="https://v.daum.net/v/20240702040003180"/>
+        <updated>2024-07-01T19:17:52.848Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴테크] 다리 절단 환자, 생각대로 걷는다…‘완전 신경 제어’ 로봇 의족]]></title>
         <id>https://v.daum.net/v/20240702020016851</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240702000134939"/>
         <updated>2024-07-01T15:20:51.146Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국립생태원 연구진, 한라산 곤충 조사하다 CPR로 등산객 목숨 살렸다]]></title>
-        <id>https://v.daum.net/v/20240701153844968</id>
-        <link href="https://v.daum.net/v/20240701153844968"/>
-        <updated>2024-07-01T15:20:51.148Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
