@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-07-01T12:38:31.444Z</updated>
+    <updated>2024-07-01T13:24:02.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엑스레이상 괜찮아도… 소아 골절, ‘이렇게’ 확인해야]]></title>
+        <id>https://v.daum.net/v/20240701210030986</id>
+        <link href="https://v.daum.net/v/20240701210030986"/>
+        <updated>2024-07-01T13:23:14.131Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김현 "갑질 논란? 방문증 못 받는 상황 누가 만들었나"]]></title>
         <id>https://v.daum.net/v/20240701205700957</id>
@@ -41,20 +48,6 @@
         <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 광주·전남 모레 오전까지 장맛비…해안 강풍 주의]]></title>
-        <id>https://v.daum.net/v/20240701202537625</id>
-        <link href="https://v.daum.net/v/20240701202537625"/>
-        <updated>2024-07-01T12:37:55.123Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 전북 내일 새벽부터 다시 강한 비…북서부 최대 100mm 이상]]></title>
-        <id>https://v.daum.net/v/20240701201433488</id>
-        <link href="https://v.daum.net/v/20240701201433488"/>
-        <updated>2024-07-01T12:37:55.124Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[예술의전당에 나무집이?…목공소ㆍ작가 협업 전시 열려]]></title>
         <id>https://v.daum.net/v/20240701201327478</id>
         <link href="https://v.daum.net/v/20240701201327478"/>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20240701194650093"/>
         <updated>2024-07-01T12:37:55.130Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐나다 국립공원 숙소, 빈자리 알림 서비스 개시]]></title>
+        <id>https://v.daum.net/v/20240701193623943</id>
+        <link href="https://v.daum.net/v/20240701193623943"/>
+        <updated>2024-07-01T13:23:14.140Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
