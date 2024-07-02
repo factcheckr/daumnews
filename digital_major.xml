@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-02T19:18:09.775Z</updated>
+    <updated>2024-07-02T20:23:14.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI 중심도시 광주, 어디까지 왔나?]]></title>
+        <id>https://v.daum.net/v/20240702192410345</id>
+        <link href="https://v.daum.net/v/20240702192410345"/>
+        <updated>2024-07-02T20:22:42.916Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반복되는 `방통위 잔혹사`…방치되는 `방송·미디어 혁신`]]></title>
         <id>https://v.daum.net/v/20240702185039529</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240702164856607"/>
         <updated>2024-07-02T09:21:23.698Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뇌에 칩 이식기술 경쟁…중국 칭화대, 일론 머스크의 ‘뉴럴링크’와 대결하나]]></title>
-        <id>https://v.daum.net/v/20240702162802802</id>
-        <link href="https://v.daum.net/v/20240702162802802"/>
-        <updated>2024-07-02T09:21:23.700Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>

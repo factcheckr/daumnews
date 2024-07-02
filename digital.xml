@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-02T19:18:09.767Z</updated>
+    <updated>2024-07-02T20:23:14.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[벌써 올해 목표 '초과달성'…네이버 클립, 유튜브 대항마 될까 [팩플]]]></title>
+        <id>https://v.daum.net/v/20240703050056873</id>
+        <link href="https://v.daum.net/v/20240703050056873"/>
+        <updated>2024-07-02T20:22:33.833Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘인재 적자’ 한국… 이공계 엘리트 年3만명 해외로]]></title>
         <id>https://v.daum.net/v/20240703030044882</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240702204312946"/>
         <updated>2024-07-02T12:35:11.473Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 중심도시 광주, 어디까지 왔나?]]></title>
-        <id>https://v.daum.net/v/20240702192410345</id>
-        <link href="https://v.daum.net/v/20240702192410345"/>
-        <updated>2024-07-02T11:17:24.352Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
