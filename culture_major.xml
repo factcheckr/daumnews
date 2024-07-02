@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-07-02T17:19:06.125Z</updated>
+    <updated>2024-07-02T18:26:55.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://v.daum.net/v/20240703014430780"/>
         <updated>2024-07-02T17:18:16.173Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 낮까지 전국에 강한 장맛비‥경기·강원 일부에선 저녁까지 비]]></title>
+        <id>https://v.daum.net/v/20240703002512390</id>
+        <link href="https://v.daum.net/v/20240703002512390"/>
+        <updated>2024-07-02T18:26:09.189Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꿈과 현실, 청춘의 결핍 ‘은밀한 연애’로 채운다]]></title>
+        <id>https://v.daum.net/v/20240703000602217</id>
+        <link href="https://v.daum.net/v/20240703000602217"/>
+        <updated>2024-07-02T18:26:09.191Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[경주 끝으로 여정 마친 ‘가객 박인환’]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240703000038076"/>
         <updated>2024-07-02T16:26:00.962Z</updated>
         <content type="html"><![CDATA[엘르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[녹유 오늘의 운세] 00년생 걱정거리 아니다. 마음을 편히 해요]]></title>
-        <id>https://v.daum.net/v/20240703000022063</id>
-        <link href="https://v.daum.net/v/20240703000022063"/>
-        <updated>2024-07-02T15:20:06.089Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘 날씨] 오전까지 전국 집중 호우...장마철 축농증 증상이 심해지는 이유]]></title>
-        <id>https://v.daum.net/v/20240703000004030</id>
-        <link href="https://v.daum.net/v/20240703000004030"/>
-        <updated>2024-07-02T15:20:06.089Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
