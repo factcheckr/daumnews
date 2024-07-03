@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-03T11:17:46.650Z</updated>
+    <updated>2024-07-03T12:37:25.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[단독] "한집배달인데 늦더라니"…배민, 오늘부터 '다건배차']]></title>
+        <title type="html"><![CDATA['5G 28㎓' B2C 가능할까?…노키아는 "아직은 어렵다" 답했다]]></title>
+        <id>https://v.daum.net/v/20240703211100166</id>
+        <link href="https://v.daum.net/v/20240703211100166"/>
+        <updated>2024-07-03T12:36:52.650Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“불화설 나오더니 삼각관계 됐다”…수십년 싸우던 경쟁사 한자리에 부른 오픈AI]]></title>
+        <id>https://v.daum.net/v/20240703204501615</id>
+        <link href="https://v.daum.net/v/20240703204501615"/>
+        <updated>2024-07-03T12:36:52.650Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] "돈 더 주고 한집배달만 시켰는데"…배민 '다건배차' 확대]]></title>
         <id>https://v.daum.net/v/20240703200101310</id>
         <link href="https://v.daum.net/v/20240703200101310"/>
         <updated>2024-07-03T11:17:12.467Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이건 진짜 소름 돋는다” 충격과 분노…연예인들 난리나더니]]></title>
-        <id>https://v.daum.net/v/20240703195107978</id>
-        <link href="https://v.daum.net/v/20240703195107978"/>
-        <updated>2024-07-03T11:17:12.468Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["K-직장인 10명중 9명 번아웃 경험"…생성형AI가 해법될까]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240703181256470"/>
         <updated>2024-07-03T10:22:34.187Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] “CEO 연락처 건당 7원”...해킹당한 개인정보, 텔레그램서 암거래]]></title>
-        <id>https://v.daum.net/v/20240703181500520</id>
-        <link href="https://v.daum.net/v/20240703181500520"/>
-        <updated>2024-07-03T10:22:34.191Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
