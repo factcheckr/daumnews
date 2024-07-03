@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-07-03T13:23:12.730Z</updated>
+    <updated>2024-07-03T14:21:06.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제주도민 91% “저출산 심각”…경제적 부담 원인]]></title>
+        <id>https://v.daum.net/v/20240703215553893</id>
+        <link href="https://v.daum.net/v/20240703215553893"/>
+        <updated>2024-07-03T14:19:42.926Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[줄줄이 ‘비상경영’…석유화학 “끝 모를 불황”]]></title>
         <id>https://v.daum.net/v/20240703215228834</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240703213531575"/>
         <updated>2024-07-03T13:21:46.341Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최대주주 감세안 다수…일반주주 위한 지배구조 개선은 부재]]></title>
-        <id>https://v.daum.net/v/20240703212011341</id>
-        <link href="https://v.daum.net/v/20240703212011341"/>
-        <updated>2024-07-03T13:21:46.343Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
