@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-04T12:36:28.130Z</updated>
+    <updated>2024-07-04T13:24:11.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[글로벌 제약사, 中 기업 신뢰도 낮아져… 원인은?]]></title>
+        <id>https://v.daum.net/v/20240704213047454</id>
+        <link href="https://v.daum.net/v/20240704213047454"/>
+        <updated>2024-07-04T13:23:29.321Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]삼성 반도체 100% 로봇이 만든다…로봇 투입 테스트]]></title>
         <id>https://v.daum.net/v/20240704194911245</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240704190851082"/>
         <updated>2024-07-04T10:20:48.858Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[`1200만 유저` 게임 플랫폼, 개인정보 유출 `비상`]]></title>
-        <id>https://v.daum.net/v/20240704182536931</id>
-        <link href="https://v.daum.net/v/20240704182536931"/>
-        <updated>2024-07-04T10:20:48.859Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
