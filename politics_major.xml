@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-07-05T17:19:03.593Z</updated>
+    <updated>2024-07-05T18:26:36.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240706013232872"/>
         <updated>2024-07-05T17:17:27.022Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국민의힘 당권주자들, 오늘(6일) 원외 당협위원장들과 타운홀 미팅]]></title>
+        <id>https://v.daum.net/v/20240706010328713</id>
+        <link href="https://v.daum.net/v/20240706010328713"/>
+        <updated>2024-07-05T18:24:51.299Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[검사들 불러 조사한다는 野… 승부수인가, 자충수인가]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240706000107306"/>
         <updated>2024-07-05T16:23:06.825Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공정 경선' 외친 與 당권주자 4인…'배신' '김건희 문자 무시' 공방 마침표 찍나]]></title>
-        <id>https://v.daum.net/v/20240706000000265</id>
-        <link href="https://v.daum.net/v/20240706000000265"/>
-        <updated>2024-07-05T16:23:06.828Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
