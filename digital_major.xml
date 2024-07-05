@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-05T16:24:46.148Z</updated>
+    <updated>2024-07-05T17:19:03.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日정부 '자본관계 재검토' 입장 바꿨나…네이버, 한숨 돌렸다]]></title>
+        <id>https://v.daum.net/v/20240705181723082</id>
+        <link href="https://v.daum.net/v/20240705181723082"/>
+        <updated>2024-07-05T17:18:32.166Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Z플립·폴드6·버즈3 … 내주 '갤럭시AI 언팩' 대거 출격]]></title>
         <id>https://v.daum.net/v/20240705174829445</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240705145507601"/>
         <updated>2024-07-05T09:22:47.156Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하마가 날았다'…달릴 때 0.3초 공중에 뜨는 하마]]></title>
-        <id>https://v.daum.net/v/20240705143613888</id>
-        <link href="https://v.daum.net/v/20240705143613888"/>
-        <updated>2024-07-05T08:24:28.224Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>

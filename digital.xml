@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-05T16:24:46.125Z</updated>
+    <updated>2024-07-05T17:19:03.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기후테크가 온다] 머스크가 1억달러 내건 탄소제거대회…최후 20팀 남았다]]></title>
+        <id>https://v.daum.net/v/20240705141137908</id>
+        <link href="https://v.daum.net/v/20240705141137908"/>
+        <updated>2024-07-05T17:18:22.917Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[생활제품 전자파 측정했더니…인형뽑기 기계 전자파 노출 가장 많아]]></title>
         <id>https://v.daum.net/v/20240705212615355</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240705194201853"/>
         <updated>2024-07-05T11:17:01.329Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日정부 '자본관계 재검토' 입장 바꿨나…네이버, 한숨 돌렸다]]></title>
-        <id>https://v.daum.net/v/20240705181723082</id>
-        <link href="https://v.daum.net/v/20240705181723082"/>
-        <updated>2024-07-05T09:22:38.024Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
