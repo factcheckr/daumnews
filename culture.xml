@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-07-05T19:16:24.598Z</updated>
+    <updated>2024-07-05T20:22:17.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[새 책] 두 번째 아이 외]]></title>
+        <id>https://v.daum.net/v/20240706043023688</id>
+        <link href="https://v.daum.net/v/20240706043023688"/>
+        <updated>2024-07-05T20:21:20.423Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서해안 따라 펼쳐진…상전벽해 현장 답사]]></title>
         <id>https://v.daum.net/v/20240706022803133</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240706014225984"/>
         <updated>2024-07-05T17:18:07.411Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상식 깬 우주기업 그 열정과 광기]]></title>
-        <id>https://v.daum.net/v/20240706011330756</id>
-        <link href="https://v.daum.net/v/20240706011330756"/>
-        <updated>2024-07-05T16:23:47.492Z</updated>
-        <content type="html"><![CDATA[중앙SUNDAY]]></content>
     </entry>
 </feed>
