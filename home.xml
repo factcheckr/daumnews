@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-07-05T18:26:36.004Z</updated>
+    <updated>2024-07-05T19:16:24.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울대 등 의과대학 교수들 "정부, 의평원 압박·흔들기 중단하라"]]></title>
+        <id>https://v.daum.net/v/20240706034906487</id>
+        <link href="https://v.daum.net/v/20240706034906487"/>
+        <updated>2024-07-05T19:14:11.216Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기상청 "경북 안동 동남동쪽서 규모 2.4 지진 발생"]]></title>
         <id>https://v.daum.net/v/20240706022419128</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20240706001505420"/>
         <updated>2024-07-05T18:24:17.148Z</updated>
         <content type="html"><![CDATA[정치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“가속 페달만 밟았다” ‘급발진 주장’ 블랙박스 반전]]></title>
-        <id>https://v.daum.net/v/20240705235105213</id>
-        <link href="https://v.daum.net/v/20240705235105213"/>
-        <updated>2024-07-05T18:24:17.150Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
     </entry>
 </feed>
