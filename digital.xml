@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-05T09:23:22.844Z</updated>
+    <updated>2024-07-05T10:21:56.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 천체사진] 4년 만에 분출한 이탈리아 에트나 화산과 은하수]]></title>
+        <id>https://v.daum.net/v/20240705172118735</id>
+        <link href="https://v.daum.net/v/20240705172118735"/>
+        <updated>2024-07-05T10:21:22.060Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日정부 '자본관계 재검토' 입장 바꿨나…네이버, 한숨 돌렸다]]></title>
         <id>https://v.daum.net/v/20240705181723082</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240705165114953"/>
         <updated>2024-07-05T08:24:17.643Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[야당 주도 '플랫폼법' 또 발의…"시장지배적지위 남용 행위 금지"]]></title>
-        <id>https://v.daum.net/v/20240705170831412</id>
-        <link href="https://v.daum.net/v/20240705170831412"/>
-        <updated>2024-07-05T08:24:17.644Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
