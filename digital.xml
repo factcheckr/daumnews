@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-06T04:23:57.484Z</updated>
+    <updated>2024-07-06T05:19:43.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[AI 한입뉴스]AI로 흥한 빅테크 AI로 망한다?…재무보고서에 등장한 새 리스크]]></title>
+        <id>https://v.daum.net/v/20240706140010704</id>
+        <link href="https://v.daum.net/v/20240706140010704"/>
+        <updated>2024-07-06T05:19:04.091Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비밀번호 유출? 간단하지만 강력한 철통보안 6가지]]></title>
         <id>https://v.daum.net/v/20240706123016953</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240706110003137"/>
         <updated>2024-07-06T02:33:52.566Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["갤럭시S25 시리즈, 기존대로 3개 모델로 출시"]]></title>
-        <id>https://v.daum.net/v/20240706102004684</id>
-        <link href="https://v.daum.net/v/20240706102004684"/>
-        <updated>2024-07-06T02:33:52.568Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
