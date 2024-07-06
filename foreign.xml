@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2024-07-06T16:26:26.243Z</updated>
+    <updated>2024-07-06T17:16:47.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['쿠데타' 사헬 3국 정상, 서아프리카공동체 탈퇴 재확인]]></title>
+        <id>https://v.daum.net/v/20240707020534573</id>
+        <link href="https://v.daum.net/v/20240707020534573"/>
+        <updated>2024-07-06T17:15:45.847Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헝가리 오르반 총리 "푸틴에게 휴전 가능성 제안…낙관적이지 않아"]]></title>
         <id>https://v.daum.net/v/20240707005626423</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240706200154200"/>
         <updated>2024-07-06T14:16:21.290Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인도 비하르주 낙뢰로 19명 사망]]></title>
-        <id>https://v.daum.net/v/20240706213245125</id>
-        <link href="https://v.daum.net/v/20240706213245125"/>
-        <updated>2024-07-06T13:19:41.938Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
