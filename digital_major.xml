@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-06T02:34:34.374Z</updated>
+    <updated>2024-07-06T03:26:24.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["전무님이 300억 보내라고 하셨잖아요"…보고도 속는 딥페이크 범죄]]></title>
+        <id>https://v.daum.net/v/20240706093016106</id>
+        <link href="https://v.daum.net/v/20240706093016106"/>
+        <updated>2024-07-06T03:25:57.462Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["좋았는데”...한국 넷플릭스 '베이직 요금제' 없앨까]]></title>
         <id>https://v.daum.net/v/20240706092059013</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240706081001409"/>
         <updated>2024-07-06T01:20:17.539Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물로 큐비트 생성 성공…국산 양자컴 실마리될까]]></title>
-        <id>https://v.daum.net/v/20240706080449383</id>
-        <link href="https://v.daum.net/v/20240706080449383"/>
-        <updated>2024-07-06T01:20:17.540Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
