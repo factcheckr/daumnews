@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-07-06T17:16:47.657Z</updated>
+    <updated>2024-07-06T18:25:19.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['천 원' 빵 '2천 원' 자장면...고물가에 '가성비' 승부]]></title>
+        <id>https://v.daum.net/v/20240707011318466</id>
+        <link href="https://v.daum.net/v/20240707011318466"/>
+        <updated>2024-07-06T18:23:06.061Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘 날씨] 전국 곳곳 비, 제주도는 폭염…에어컨 냉방·제습, 전기세 절감 효과는?]]></title>
         <id>https://v.daum.net/v/20240707011732500</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20240706201154337"/>
         <updated>2024-07-06T12:33:33.078Z</updated>
         <content type="html"><![CDATA[생활]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브레이크 없는 막말 국회…윤리위 구성도 전에 ‘쌍방 제소전’]]></title>
-        <id>https://v.daum.net/v/20240706211430867</id>
-        <link href="https://v.daum.net/v/20240706211430867"/>
-        <updated>2024-07-06T12:33:33.079Z</updated>
-        <content type="html"><![CDATA[정치]]></content>
     </entry>
 </feed>
