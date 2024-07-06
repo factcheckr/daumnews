@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-07-06T08:26:40.420Z</updated>
+    <updated>2024-07-06T09:23:40.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비가 이어지는 기간?…이젠 장마도 폭염·폭우 공존 ‘양극화’ [날씨+]]]></title>
+        <id>https://v.daum.net/v/20240706144745157</id>
+        <link href="https://v.daum.net/v/20240706144745157"/>
+        <updated>2024-07-06T09:22:53.072Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박나래가 전현무에 터놓은 속내…前연인 한혜진 소환]]></title>
         <id>https://v.daum.net/v/20240706141803863</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240706120006732"/>
         <updated>2024-07-06T05:18:56.321Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나 다음은 한국일까?]]></title>
-        <id>https://v.daum.net/v/20240706120140761</id>
-        <link href="https://v.daum.net/v/20240706120140761"/>
-        <updated>2024-07-06T04:23:08.230Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
     </entry>
 </feed>
