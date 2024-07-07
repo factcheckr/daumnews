@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-07-07T10:19:24.480Z</updated>
+    <updated>2024-07-07T11:18:17.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이효석 문학상] 사람을 위로하는 건 결국 사람…인간 관계에 대한 통찰]]></title>
+        <id>https://v.daum.net/v/20240707171808503</id>
+        <link href="https://v.daum.net/v/20240707171808503"/>
+        <updated>2024-07-07T11:17:41.447Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지리산 같은 엄니]]></title>
         <id>https://v.daum.net/v/20240707170802359</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240707143033809"/>
         <updated>2024-07-07T08:22:35.089Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍명보 감독, 10년 만에 축구 국가대표팀 맡는다]]></title>
-        <id>https://v.daum.net/v/20240707142918779</id>
-        <link href="https://v.daum.net/v/20240707142918779"/>
-        <updated>2024-07-07T08:22:35.090Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-07-07T10:19:24.490Z</updated>
+    <updated>2024-07-07T11:18:17.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[내일날씨] 중부지방 중심 전국 장맛비...낮 최고 32도]]></title>
+        <id>https://v.daum.net/v/20240707172506586</id>
+        <link href="https://v.daum.net/v/20240707172506586"/>
+        <updated>2024-07-07T11:17:35.055Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반려견, 사람이 울면 스트레스 엄청 받는다?]]></title>
         <id>https://v.daum.net/v/20240707181018343</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240707171202424"/>
         <updated>2024-07-07T09:21:09.126Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이효석 문학상] 사람을 위로하는 건 결국 사람…인간 관계에 대한 통찰]]></title>
-        <id>https://v.daum.net/v/20240707171808503</id>
-        <link href="https://v.daum.net/v/20240707171808503"/>
-        <updated>2024-07-07T08:22:28.669Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
