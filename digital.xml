@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-07T17:19:40.455Z</updated>
+    <updated>2024-07-07T18:25:11.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“우리의 언어-문화로”… 세계는 ‘소버린 AI’ 개발 붐]]></title>
+        <id>https://v.daum.net/v/20240708030216867</id>
+        <link href="https://v.daum.net/v/20240708030216867"/>
+        <updated>2024-07-07T18:24:32.445Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中은 더 크게, 삼성·애플은 섬세하게… 렌즈의 유혹]]></title>
         <id>https://v.daum.net/v/20240708003028378</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240707181738446"/>
         <updated>2024-07-07T09:21:22.030Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부, `가상융합산업 진흥 기본계획` 수립 착수]]></title>
-        <id>https://v.daum.net/v/20240707175712098</id>
-        <link href="https://v.daum.net/v/20240707175712098"/>
-        <updated>2024-07-07T09:21:22.031Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
