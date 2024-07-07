@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-07-07T18:25:11.373Z</updated>
+    <updated>2024-07-07T19:17:24.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['천둥·번개' 강한 비에도 더위는 안 꺾여…최고 31도[오늘날씨]]]></title>
+        <id>https://v.daum.net/v/20240708040015008</id>
+        <link href="https://v.daum.net/v/20240708040015008"/>
+        <updated>2024-07-07T19:15:12.250Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장마철 일주일새 쌈배추 26%-상추 17% 가격 급등]]></title>
         <id>https://v.daum.net/v/20240708030244880</id>
@@ -135,12 +142,5 @@
         <link href="https://v.daum.net/v/20240707231301839"/>
         <updated>2024-07-07T15:19:07.559Z</updated>
         <content type="html"><![CDATA[생활]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['탄핵 검사' 박상용 "이성윤, 이제 와 변명…탄핵사유 스스로 부정"]]></title>
-        <id>https://v.daum.net/v/20240707224211650</id>
-        <link href="https://v.daum.net/v/20240707224211650"/>
-        <updated>2024-07-07T15:19:07.560Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
     </entry>
 </feed>
