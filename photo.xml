@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-07-07T09:21:54.812Z</updated>
+    <updated>2024-07-07T10:19:24.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[충남 보령시 무창포해수욕장 개장]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5847810/8ZJrWj7vyG</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5847810/8ZJrWj7vyG"/>
+        <updated>2024-07-07T10:19:03.583Z</updated>
+        <content type="html"><![CDATA[지자체 제공 포토]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공중에 고립됐다 구조되는 여성 관광객]]></title>
         <id>https://gallery.v.daum.net/p/viewer/386/GlT1NVloUd</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5632532/XztVHPWAUx"/>
         <updated>2024-07-05T22:20:45.006Z</updated>
         <content type="html"><![CDATA[더 한장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영국 노동당 시대, 승리의 입맞춤]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5032452/fka1QL3IXu</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5032452/fka1QL3IXu"/>
-        <updated>2024-07-05T22:20:45.007Z</updated>
-        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
     </entry>
 </feed>
