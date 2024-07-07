@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-07-07T19:17:24.739Z</updated>
+    <updated>2024-07-07T20:20:01.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5847810/qCacTqmeDN"/>
         <updated>2024-07-07T18:24:48.317Z</updated>
         <content type="html"><![CDATA[지자체 제공 포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이란 대선 결선, 개혁파가 이겼다]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5031013/qucWpMHEDg</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5031013/qucWpMHEDg"/>
+        <updated>2024-07-07T20:19:38.011Z</updated>
+        <content type="html"><![CDATA[이란은 지금]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신임 네덜란드 외무·국방, 우크라 방문 '지지 확인']]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/171596/3xurPd5rzX"/>
         <updated>2024-07-07T03:22:58.879Z</updated>
         <content type="html"><![CDATA[태국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강풍 불면 화분은 실내로...[포토뉴스]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5840500/uVLK1UEQlQ</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5840500/uVLK1UEQlQ"/>
-        <updated>2024-07-07T01:28:05.102Z</updated>
-        <content type="html"><![CDATA[포토뉴스]]></content>
     </entry>
 </feed>
