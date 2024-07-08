@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-08T20:24:01.982Z</updated>
+    <updated>2024-07-08T21:20:48.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시작부터 주문 폭주 ‘3나노’… 하반기 ‘폰플레이션’ 온다]]></title>
+        <id>https://v.daum.net/v/20240709004019585</id>
+        <link href="https://v.daum.net/v/20240709004019585"/>
+        <updated>2024-07-08T21:20:15.721Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[43조 중고 거래 시장… AI 옷 입고 똑똑해진다]]></title>
         <id>https://v.daum.net/v/20240709003108506</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240708183906395"/>
         <updated>2024-07-08T12:37:49.189Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“60만원 애플워치 팔찌로 써요” 쓸모 없다더니...애플, 눈물의 '결단']]></title>
-        <id>https://v.daum.net/v/20240708175116259</id>
-        <link href="https://v.daum.net/v/20240708175116259"/>
-        <updated>2024-07-08T12:37:49.191Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
