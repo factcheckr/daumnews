@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-08T02:38:34.661Z</updated>
+    <updated>2024-07-08T03:24:18.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“정자 통해 전달”…남편 바가지 긁다간 태어날 자녀가 바뀐다]]></title>
+        <id>https://v.daum.net/v/20240708114702316</id>
+        <link href="https://v.daum.net/v/20240708114702316"/>
+        <updated>2024-07-08T03:23:40.663Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성D 이어 LGD도 상승세 탄다]]></title>
         <id>https://v.daum.net/v/20240708112313407</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240708103703298"/>
         <updated>2024-07-08T02:38:00.966Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연산 메모리'에 주목…"PIM으로 데이터 병목·전력소모 잡는다"]]></title>
-        <id>https://v.daum.net/v/20240708103919398</id>
-        <link href="https://v.daum.net/v/20240708103919398"/>
-        <updated>2024-07-08T02:38:00.967Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>

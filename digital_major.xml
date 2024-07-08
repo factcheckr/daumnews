@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-08T02:38:34.689Z</updated>
+    <updated>2024-07-08T03:24:18.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연산 메모리'에 주목…"PIM으로 데이터 병목·전력소모 잡는다"]]></title>
+        <id>https://v.daum.net/v/20240708103919398</id>
+        <link href="https://v.daum.net/v/20240708103919398"/>
+        <updated>2024-07-08T03:23:48.414Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NASA 화성 거주 모의실험 참가자 1년여 만에 복귀]]></title>
         <id>https://v.daum.net/v/20240708102411702</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240708090119218"/>
         <updated>2024-07-08T01:24:11.774Z</updated>
         <content type="html"><![CDATA[주간동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["애플, 저가형 애플워치SE 개발 중…플라스틱 케이스 채택"]]></title>
-        <id>https://v.daum.net/v/20240708085950124</id>
-        <link href="https://v.daum.net/v/20240708085950124"/>
-        <updated>2024-07-08T01:24:11.775Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
