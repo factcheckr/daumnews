@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-10T19:22:20.524Z</updated>
+    <updated>2024-07-10T20:24:21.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사이테크+] "1만8천광년 밖 ω켄타우리에서 태양 8천200배 블랙홀 발견"]]></title>
+        <id>https://v.daum.net/v/20240711050015877</id>
+        <link href="https://v.daum.net/v/20240711050015877"/>
+        <updated>2024-07-10T20:23:44.998Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[르포]중국의 거침없는 폴더블폰 공략...삼성전자는 'AI 방패'로 맞선다]]></title>
+        <id>https://v.daum.net/v/20240711043058639</id>
+        <link href="https://v.daum.net/v/20240711043058639"/>
+        <updated>2024-07-10T20:23:44.999Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반도체 업체들, 소프트웨어로 진검승부...AMD, 핀란드 AI스타트업 인수 [송경재의 새벽 증시]]]></title>
         <id>https://v.daum.net/v/20240711040849482</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240711000136735"/>
         <updated>2024-07-10T15:22:44.895Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퀄컴, 갤럭시Z폴드6·Z플립6에 스냅드래곤8 3세대 SoC 공급]]></title>
-        <id>https://v.daum.net/v/20240710232052337</id>
-        <link href="https://v.daum.net/v/20240710232052337"/>
-        <updated>2024-07-10T15:22:44.901Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["사진 찍어주세요" 필요 없네…셀카각 알아서 잡는 '갤Z폴드·플립6']]></title>
-        <id>https://v.daum.net/v/20240710232704383</id>
-        <link href="https://v.daum.net/v/20240710232704383"/>
-        <updated>2024-07-10T16:27:24.691Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>

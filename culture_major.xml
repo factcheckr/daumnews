@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-07-10T19:22:20.504Z</updated>
+    <updated>2024-07-10T20:24:21.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대구대교구 주교좌 범어대성당 [한국의 아름다운 성당 50선⑧]]]></title>
+        <id>https://v.daum.net/v/20240710140004047</id>
+        <link href="https://v.daum.net/v/20240710140004047"/>
+        <updated>2024-07-10T20:23:37.341Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노력해도 실패할 수 있다, 그래도 좋은 사람이 되자]]></title>
         <id>https://v.daum.net/v/20240710222802541</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240710175923376"/>
         <updated>2024-07-10T13:23:07.466Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잠시 보는 일은 접어두고···'듣는 재미'에 빠지다]]></title>
-        <id>https://v.daum.net/v/20240710175126096</id>
-        <link href="https://v.daum.net/v/20240710175126096"/>
-        <updated>2024-07-10T12:40:00.373Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
