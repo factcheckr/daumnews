@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-07-10T16:28:10.490Z</updated>
+    <updated>2024-07-10T17:18:46.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노력해도 실패할 수 있다, 그래도 좋은 사람이 되자]]></title>
+        <id>https://v.daum.net/v/20240710222802541</id>
+        <link href="https://v.daum.net/v/20240710222802541"/>
+        <updated>2024-07-10T17:17:55.010Z</updated>
+        <content type="html"><![CDATA[한겨레21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘성적 올리려’ ADHD 약 먹었다가는… 틱 장애, 환각 등 겪을 수도]]></title>
         <id>https://v.daum.net/v/20240710220032859</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240710175126096"/>
         <updated>2024-07-10T12:40:00.373Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름철 호흡기‧피부 위협하는 ‘실내 곰팡이’ 예방법은?]]></title>
-        <id>https://v.daum.net/v/20240710162830868</id>
-        <link href="https://v.daum.net/v/20240710162830868"/>
-        <updated>2024-07-10T12:40:00.373Z</updated>
-        <content type="html"><![CDATA[농민신문]]></content>
     </entry>
 </feed>
