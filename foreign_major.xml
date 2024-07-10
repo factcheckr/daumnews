@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-07-10T12:40:53.020Z</updated>
+    <updated>2024-07-10T13:24:02.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["아기 개복했는데 폭격…파편 박혀도 수술 멈출 수 없었다"]]></title>
+        <id>https://v.daum.net/v/20240710203312101</id>
+        <link href="https://v.daum.net/v/20240710203312101"/>
+        <updated>2024-07-10T13:22:49.944Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[익산시 용동·망성면 일대 2년 연속 폭우피해 발생]]></title>
         <id>https://v.daum.net/v/20240710192714717</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240710182404090"/>
         <updated>2024-07-10T11:17:23.571Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[급발진 논란이 쏘아올린 '페달 블랙박스' 효과와 현실성은?]]></title>
-        <id>https://v.daum.net/v/20240710182115022</id>
-        <link href="https://v.daum.net/v/20240710182115022"/>
-        <updated>2024-07-10T11:17:23.572Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
