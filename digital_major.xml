@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-10T10:23:21.803Z</updated>
+    <updated>2024-07-10T11:18:32.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["디지털 냉전, 사이버방산에 큰 기회"]]></title>
+        <id>https://v.daum.net/v/20240710172318112</id>
+        <link href="https://v.daum.net/v/20240710172318112"/>
+        <updated>2024-07-10T11:17:58.734Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[동영상] 요즘 오락실 보기 힘든데... 여기 쩐다]]></title>
         <id>https://v.daum.net/v/20240710171815885</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240710150657354"/>
         <updated>2024-07-10T07:20:48.816Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["3·4년제 이원화 물리치료학과, 4년제로 일원화돼야”]]></title>
-        <id>https://v.daum.net/v/20240710152012961</id>
-        <link href="https://v.daum.net/v/20240710152012961"/>
-        <updated>2024-07-10T07:20:48.820Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
