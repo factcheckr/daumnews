@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-10T18:29:28.040Z</updated>
+    <updated>2024-07-10T19:22:20.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국어로 말하니 뒷면서 영어로… 언어 장벽 사라진다]]></title>
+        <id>https://v.daum.net/v/20240710230214132</id>
+        <link href="https://v.daum.net/v/20240710230214132"/>
+        <updated>2024-07-10T19:21:46.063Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[갤럭시언팩] 외부 화면에서 카톡 답장…베일 벗은 첫 AI 폴더블폰]]></title>
         <id>https://v.daum.net/v/20240710224615890</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240710220448088"/>
         <updated>2024-07-10T18:28:53.937Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[체험기] 비슷한 줄 알았는데 ‘반전매력’…갤럭시 Z6, 미리 써보니]]></title>
-        <id>https://v.daum.net/v/20240710220315016</id>
-        <link href="https://v.daum.net/v/20240710220315016"/>
-        <updated>2024-07-10T18:28:53.938Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
