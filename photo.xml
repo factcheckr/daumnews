@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-07-11T21:22:14.279Z</updated>
+    <updated>2024-07-11T22:22:45.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1471/tO79HjXD2Q"/>
         <updated>2024-07-11T21:21:48.383Z</updated>
         <content type="html"><![CDATA[세계의 정상들]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나토 정상회의 백악관서 환영식]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/tiL2XAZwXu</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/tiL2XAZwXu"/>
+        <updated>2024-07-11T22:22:18.719Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[햇사과 첫 출하… 사과값 하락 기대]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1173214/zCrbzgYcFB"/>
         <updated>2024-07-11T07:21:02.741Z</updated>
         <content type="html"><![CDATA[헤럴드포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5회 일본-아랍 경제 포럼 도쿄 영빈관에서 개막]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1407/B5qPrpJqz3</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1407/B5qPrpJqz3"/>
-        <updated>2024-07-11T07:21:02.743Z</updated>
-        <content type="html"><![CDATA[일본은 지금]]></content>
     </entry>
 </feed>
