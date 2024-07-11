@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-11T18:27:26.683Z</updated>
+    <updated>2024-07-11T19:17:12.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이세돌 “AI 출현 후 창의성에 대한 경외심 사라져”]]></title>
+        <id>https://v.daum.net/v/20240711203110004</id>
+        <link href="https://v.daum.net/v/20240711203110004"/>
+        <updated>2024-07-11T19:16:46.580Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“LG폰 다시 나오면 안돼?” 삼성·아이폰 다 싫다…이런 사람 아직도 많다?]]></title>
         <id>https://v.daum.net/v/20240711195119299</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240711184203720"/>
         <updated>2024-07-11T11:18:21.677Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갤럭시 AI의 '하이브리드'는 두 가지 뜻이 있다 [이동수는 이동중]]]></title>
-        <id>https://v.daum.net/v/20240711182244310</id>
-        <link href="https://v.daum.net/v/20240711182244310"/>
-        <updated>2024-07-11T11:18:21.679Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-11T18:27:26.700Z</updated>
+    <updated>2024-07-11T19:17:12.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성전자 “모바일 AI 가 삶의 질 바꾼다…AI 규제에도 선제 대응”]]></title>
+        <id>https://v.daum.net/v/20240712035521079</id>
+        <link href="https://v.daum.net/v/20240712035521079"/>
+        <updated>2024-07-11T19:16:38.975Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사이테크+] 5만2천년 전 털매머드 염색체 화석 발견…염색체 3D 구조 복원"]]></title>
         <id>https://v.daum.net/v/20240712000010236</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240711214116352"/>
         <updated>2024-07-11T13:22:54.059Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이세돌 “AI 출현 후 창의성에 대한 경외심 사라져”]]></title>
-        <id>https://v.daum.net/v/20240711203110004</id>
-        <link href="https://v.daum.net/v/20240711203110004"/>
-        <updated>2024-07-11T12:37:21.608Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
