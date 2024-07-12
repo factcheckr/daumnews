@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-12T22:19:36.227Z</updated>
+    <updated>2024-07-12T23:20:01.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스페이스X 팰컨9 로켓, 발사 중 고장…美 FAA 조사 착수 [우주로 간다]]]></title>
+        <id>https://v.daum.net/v/20240713075542689</id>
+        <link href="https://v.daum.net/v/20240713075542689"/>
+        <updated>2024-07-12T23:19:27.855Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[야심차게 준비했지만… 애플 '비전프로' 빈수레가 요란했나]]></title>
         <id>https://v.daum.net/v/20240713054117697</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240712162708918"/>
         <updated>2024-07-12T17:19:13.618Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅테크 때리는 EU, 독점에 가짜뉴스·혐오 영상까지 제재]]></title>
-        <id>https://v.daum.net/v/20240713005044648</id>
-        <link href="https://v.daum.net/v/20240713005044648"/>
-        <updated>2024-07-12T17:19:13.619Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
