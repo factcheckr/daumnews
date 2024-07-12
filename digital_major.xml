@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-12T06:28:35.729Z</updated>
+    <updated>2024-07-12T07:20:13.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1454억원 규모 2024년 '제1차 정보자원 통합' 사업자에 세림·대신·쌍용 선정]]></title>
+        <id>https://v.daum.net/v/20240712140403909</id>
+        <link href="https://v.daum.net/v/20240712140403909"/>
+        <updated>2024-07-12T07:19:46.756Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["늘어나는 육류 소비…배양육 단가 낮추고 대량 생산 전략 필요"]]></title>
+        <id>https://v.daum.net/v/20240712135412607</id>
+        <link href="https://v.daum.net/v/20240712135412607"/>
+        <updated>2024-07-12T07:19:46.757Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성전자, 구글과 굳건한 연대… "올해 갤럭시 XR 출시"]]></title>
         <id>https://v.daum.net/v/20240712141040161</id>
@@ -41,13 +55,6 @@
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[화이자, 먹는 GLP-1 비만 치료제 개발 재개]]></title>
-        <id>https://v.daum.net/v/20240712123441641</id>
-        <link href="https://v.daum.net/v/20240712123441641"/>
-        <updated>2024-07-12T06:28:02.533Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[증시는 꿈과 신뢰를 먹고산다는데…[하영춘의 경제이슈 솎아보기]]]></title>
         <id>https://v.daum.net/v/20240712093402090</id>
         <link href="https://v.daum.net/v/20240712093402090"/>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240712121635256"/>
         <updated>2024-07-12T05:19:30.050Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성 갤Z6 사전판매 개시…가격 올랐지만 짠물 지원금]]></title>
-        <id>https://v.daum.net/v/20240712114810427</id>
-        <link href="https://v.daum.net/v/20240712114810427"/>
-        <updated>2024-07-12T05:19:30.052Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
