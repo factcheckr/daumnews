@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-07-13T03:22:22.530Z</updated>
+    <updated>2024-07-13T04:24:09.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[나토 무대서 존재감 밀린 젤렌스키…우크라 가입 논의 '빈손']]></title>
-        <id>https://v.daum.net/v/20240713114230008</id>
-        <link href="https://v.daum.net/v/20240713114230008"/>
-        <updated>2024-07-13T03:21:18.785Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[메타, 정지된 트럼프 SNS 복원한다…재선 가능성 의식?]]></title>
         <id>https://v.daum.net/v/20240713110459641</id>
@@ -34,7 +27,7 @@
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["화장실에 걸린 피카소 그림, 사실 내가 그려"…큐레이터의 황당한 고백]]></title>
+        <title type="html"><![CDATA['화장실에 피카소 그림' 홍보하더니…"다 가짜, 내가 그렸다"]]></title>
         <id>https://v.daum.net/v/20240713083348042</id>
         <link href="https://v.daum.net/v/20240713083348042"/>
         <updated>2024-07-13T03:21:18.791Z</updated>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20240713100909078"/>
         <updated>2024-07-13T02:35:37.010Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 민주당 비공개 회의서 ‘바이든 거취’ 논의…해리스 주가 급등]]></title>
+        <id>https://v.daum.net/v/20240713080001711</id>
+        <link href="https://v.daum.net/v/20240713080001711"/>
+        <updated>2024-07-13T04:22:59.032Z</updated>
+        <content type="html"><![CDATA[시사저널]]></content>
     </entry>
 </feed>
