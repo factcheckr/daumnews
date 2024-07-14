@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-07-14T18:36:47.095Z</updated>
+    <updated>2024-07-14T19:19:16.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배민 수수료 기습인상에… 음식점 “배달 끊거나, 가격 올려야”]]></title>
+        <id>https://v.daum.net/v/20240715030139682</id>
+        <link href="https://v.daum.net/v/20240715030139682"/>
+        <updated>2024-07-14T19:17:29.860Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[30년 대기업 경력 허사, 단순직 내몰리는 2차 베이비부머]]></title>
         <id>https://v.daum.net/v/20240715030100659</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20240715000003930"/>
         <updated>2024-07-14T15:27:33.802Z</updated>
         <content type="html"><![CDATA[정치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[70대 이상 취업자 최대폭 증가..."노동 수명 연장해야"]]></title>
-        <id>https://v.daum.net/v/20240714231915675</id>
-        <link href="https://v.daum.net/v/20240714231915675"/>
-        <updated>2024-07-14T15:27:33.809Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
     </entry>
 </feed>
