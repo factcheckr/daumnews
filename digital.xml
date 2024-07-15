@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-15T03:25:45.702Z</updated>
+    <updated>2024-07-15T04:27:29.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[르포] “게임하고 춤추고 사진도 찍고”…파리 샹젤리제 한복판 푸른 건물의 정체]]></title>
+        <id>https://v.daum.net/v/20240715124201358</id>
+        <link href="https://v.daum.net/v/20240715124201358"/>
+        <updated>2024-07-15T04:26:47.347Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수술 불가능했던 악성 뇌암, CAR-T세포 치료로 성공]]></title>
         <id>https://v.daum.net/v/20240715113603191</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240715112735695"/>
         <updated>2024-07-15T02:40:49.627Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["엔비디아, TSMC에 AI 칩 '블랙웰' 주문량 25% 확대"]]></title>
-        <id>https://v.daum.net/v/20240715110406374</id>
-        <link href="https://v.daum.net/v/20240715110406374"/>
-        <updated>2024-07-15T02:40:49.628Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
