@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-15T14:18:06.905Z</updated>
+    <updated>2024-07-15T15:26:29.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사이버보안 스타트업 ‘위즈’에 구글 31조원 배팅]]></title>
+        <id>https://v.daum.net/v/20240716000316947</id>
+        <link href="https://v.daum.net/v/20240716000316947"/>
+        <updated>2024-07-15T15:25:54.570Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["췌장암, 왜 특히 공격적인가 봤더니"...췌장 암세포 '이 유전자' 억제해]]></title>
         <id>https://v.daum.net/v/20240715223526294</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240715184532771"/>
         <updated>2024-07-15T10:21:37.635Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PTSD 원인인 '과도한 기억' 막는 단백질 알아냈다]]></title>
-        <id>https://v.daum.net/v/20240715163102649</id>
-        <link href="https://v.daum.net/v/20240715163102649"/>
-        <updated>2024-07-15T10:21:37.635Z</updated>
-        <content type="html"><![CDATA[키즈맘]]></content>
     </entry>
 </feed>
