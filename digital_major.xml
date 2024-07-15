@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-15T15:26:29.662Z</updated>
+    <updated>2024-07-15T16:25:35.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["플라즈마로 난분해성 오염물질 제거될까"]]></title>
+        <id>https://v.daum.net/v/20240715184532771</id>
+        <link href="https://v.daum.net/v/20240715184532771"/>
+        <updated>2024-07-15T16:25:08.617Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PTSD 원인인 '과도한 기억' 막는 단백질 알아냈다]]></title>
         <id>https://v.daum.net/v/20240715163102649</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240715174147240"/>
         <updated>2024-07-15T10:21:44.014Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자, 2세대 3나노 공정 반도체 갤워치7에 탑재…파운드리 승부수]]></title>
-        <id>https://v.daum.net/v/20240715172611776</id>
-        <link href="https://v.daum.net/v/20240715172611776"/>
-        <updated>2024-07-15T09:22:57.688Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>

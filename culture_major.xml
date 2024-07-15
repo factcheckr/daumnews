@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-07-15T15:26:29.653Z</updated>
+    <updated>2024-07-15T16:25:35.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[혼자 여행하는 남녀 몰린다는 이 도시 ‘어디’ [여행가중계]]]></title>
+        <id>https://v.daum.net/v/20240715230600498</id>
+        <link href="https://v.daum.net/v/20240715230600498"/>
+        <updated>2024-07-15T16:24:50.354Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“뇌졸중 환자, 앞으로 대형 병원에서 치료 못 받을 수도”]]></title>
         <id>https://v.daum.net/v/20240715224830375</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240715193801468"/>
         <updated>2024-07-15T12:39:57.961Z</updated>
         <content type="html"><![CDATA[한겨레21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLP-1 사용 환자, 수술 중 흡인 유발 가능성… EMA, 사전 고지 권고]]></title>
-        <id>https://v.daum.net/v/20240715161233892</id>
-        <link href="https://v.daum.net/v/20240715161233892"/>
-        <updated>2024-07-15T12:39:57.962Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
