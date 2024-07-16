@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-16T07:20:40.553Z</updated>
+    <updated>2024-07-16T08:26:28.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 북극해 누비던 ‘아라온호’, 북태평양에서 일본 방류 오염수도 조사]]></title>
+        <id>https://v.daum.net/v/20240716150032819</id>
+        <link href="https://v.daum.net/v/20240716150032819"/>
+        <updated>2024-07-16T08:25:58.994Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버·카카오페이-삼성페이 MST·NFC 충돌, SW로 해결했다]]></title>
+        <id>https://v.daum.net/v/20240716140902739</id>
+        <link href="https://v.daum.net/v/20240716140902739"/>
+        <updated>2024-07-16T08:25:58.996Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘생존율 10%대’ 췌장암 막을 유전자 찾았다]]></title>
         <id>https://v.daum.net/v/20240716144416050</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240716102705375"/>
         <updated>2024-07-16T06:29:47.465Z</updated>
         <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘친구도 내 연락이 반가울까?’...망설여질 때 쓰는 방법]]></title>
-        <id>https://v.daum.net/v/20240716093509813</id>
-        <link href="https://v.daum.net/v/20240716093509813"/>
-        <updated>2024-07-16T05:19:37.644Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 증시]]></title>
-        <id>https://v.daum.net/v/20240716094617330</id>
-        <link href="https://v.daum.net/v/20240716094617330"/>
-        <updated>2024-07-16T03:26:01.783Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
