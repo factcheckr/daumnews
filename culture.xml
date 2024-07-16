@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-07-16T02:39:43.234Z</updated>
+    <updated>2024-07-16T03:26:33.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마사지의 배신? “통증완화 효과, 증거 無”]]></title>
+        <id>https://v.daum.net/v/20240716112834509</id>
+        <link href="https://v.daum.net/v/20240716112834509"/>
+        <updated>2024-07-16T03:25:41.442Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["억울해 못 참겠네" 예비신랑·신부가 권익위 달려간 까닭은]]></title>
         <id>https://v.daum.net/v/20240716110009931</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240716100125099"/>
         <updated>2024-07-16T01:23:58.979Z</updated>
         <content type="html"><![CDATA[대구MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집단 질병 번져도 역학조사 의무 없는 반려동물]]></title>
-        <id>https://v.daum.net/v/20240716090120451</id>
-        <link href="https://v.daum.net/v/20240716090120451"/>
-        <updated>2024-07-16T01:23:58.983Z</updated>
-        <content type="html"><![CDATA[주간동아]]></content>
     </entry>
 </feed>
