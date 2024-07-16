@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-07-16T15:19:30.954Z</updated>
+    <updated>2024-07-16T16:26:58.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[투박함 속에 숨어 있는 따뜻한 시선... 이상국이 그린 우리네 풍경]]></title>
+        <id>https://v.daum.net/v/20240717004158527</id>
+        <link href="https://v.daum.net/v/20240717004158527"/>
+        <updated>2024-07-16T16:25:55.937Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 중부지방 돌풍 동반 많은 비‥시간당 30~60mm]]></title>
+        <id>https://v.daum.net/v/20240717001500378</id>
+        <link href="https://v.daum.net/v/20240717001500378"/>
+        <updated>2024-07-16T16:25:55.938Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 2024년 07월 17일 별자리 운세]]></title>
         <id>https://v.daum.net/v/20240717000308211</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240716210628493"/>
         <updated>2024-07-16T12:36:13.053Z</updated>
         <content type="html"><![CDATA[대구MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['베르사유의 장미' 日 원작자 "문화는 교류 통해 이어지는 것"]]></title>
-        <id>https://v.daum.net/v/20240716205617285</id>
-        <link href="https://v.daum.net/v/20240716205617285"/>
-        <updated>2024-07-16T12:36:13.055Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 내일 새벽~오전 수도권 폭우 위험]]></title>
-        <id>https://v.daum.net/v/20240716205817329</id>
-        <link href="https://v.daum.net/v/20240716205817329"/>
-        <updated>2024-07-16T12:36:13.057Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
