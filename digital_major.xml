@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-16T04:24:55.467Z</updated>
+    <updated>2024-07-16T05:20:04.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘친구도 내 연락이 반가울까?’...망설여질 때 쓰는 방법]]></title>
+        <id>https://v.daum.net/v/20240716093509813</id>
+        <link href="https://v.daum.net/v/20240716093509813"/>
+        <updated>2024-07-16T05:19:37.644Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 증시]]></title>
         <id>https://v.daum.net/v/20240716094617330</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240716043007197"/>
         <updated>2024-07-16T01:24:22.587Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 압박 벗은 네이버, '이해진 야심작' 라인야후 향방은]]></title>
-        <id>https://v.daum.net/v/20240716070015978</id>
-        <link href="https://v.daum.net/v/20240716070015978"/>
-        <updated>2024-07-16T01:24:22.589Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
