@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-07-17T13:23:56.814Z</updated>
+    <updated>2024-07-17T14:20:30.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“대장암 투병중에도 ‘광장’ 다시 손보려 고심”]]></title>
+        <id>https://v.daum.net/v/20240717193946561</id>
+        <link href="https://v.daum.net/v/20240717193946561"/>
+        <updated>2024-07-17T14:19:40.383Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여름 축제 ‘화려한 불꽃놀이’ 유독물질 주의보…안전하게 즐기려면?]]></title>
         <id>https://v.daum.net/v/20240717190116734</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240717195126775"/>
         <updated>2024-07-17T12:37:07.846Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“자전거 출퇴근, 조기사망 위험 47% 낮춰”…17년 추적관찰 결과]]></title>
-        <id>https://v.daum.net/v/20240717161826159</id>
-        <link href="https://v.daum.net/v/20240717161826159"/>
-        <updated>2024-07-17T11:17:34.007Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
