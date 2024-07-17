@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-17T09:24:44.493Z</updated>
+    <updated>2024-07-17T10:22:39.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정부, AI학습 공개데이터 기준 내놨지만…스타트업들 "대기업에 유리"]]></title>
+        <id>https://v.daum.net/v/20240717184018195</id>
+        <link href="https://v.daum.net/v/20240717184018195"/>
+        <updated>2024-07-17T10:21:59.843Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탄수화물 vs 단백질 vs 지방, 인슐린 분비 가장 많이 자극하는 영양소는?]]></title>
         <id>https://v.daum.net/v/20240717163228748</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240717174631623"/>
         <updated>2024-07-17T09:23:59.921Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[View & Insight] 방송법 정쟁에 AI입법 뒷전···과방위서 방송특위 분리해야]]></title>
-        <id>https://v.daum.net/v/20240717174516583</id>
-        <link href="https://v.daum.net/v/20240717174516583"/>
-        <updated>2024-07-17T09:23:59.922Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
