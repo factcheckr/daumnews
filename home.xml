@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-07-17T18:27:23.796Z</updated>
+    <updated>2024-07-17T19:16:24.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중대본 "집중호우로 604명 대피‥43명은 미귀가"]]></title>
+        <id>https://v.daum.net/v/20240718033409315</id>
+        <link href="https://v.daum.net/v/20240718033409315"/>
+        <updated>2024-07-17T19:14:06.308Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경기 파주시 만장교 지점 홍수주의보→홍수경보 격상]]></title>
         <id>https://v.daum.net/v/20240718030709288</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20240718000031350"/>
         <updated>2024-07-17T15:25:07.981Z</updated>
         <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 날씨] 수도권 많은 비…전남·제주 33도 무더위]]></title>
-        <id>https://v.daum.net/v/20240718000101367</id>
-        <link href="https://v.daum.net/v/20240718000101367"/>
-        <updated>2024-07-17T15:25:07.982Z</updated>
-        <content type="html"><![CDATA[문화]]></content>
     </entry>
 </feed>
