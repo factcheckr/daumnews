@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-17T19:16:25.008Z</updated>
+    <updated>2024-07-17T20:21:55.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“가장 얇고 가볍게”… 中 폴더블폰의 추격전]]></title>
+        <id>https://v.daum.net/v/20240718003533771</id>
+        <link href="https://v.daum.net/v/20240718003533771"/>
+        <updated>2024-07-17T20:21:27.721Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사람이 생각하면, 로봇이 말 대신 하는 기술 개발됐다… 어느 수준일까?]]></title>
         <id>https://v.daum.net/v/20240717220029532</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240717174612615"/>
         <updated>2024-07-17T12:37:36.204Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과학계 석학들 “출연연 우수인재 확보?”…정년환원·임피제 개선부터]]></title>
-        <id>https://v.daum.net/v/20240717174631623</id>
-        <link href="https://v.daum.net/v/20240717174631623"/>
-        <updated>2024-07-17T11:18:01.873Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
