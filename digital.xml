@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-18T15:25:16.740Z</updated>
+    <updated>2024-07-18T16:25:22.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카메라 이미지 센서 시장 장악… 소니의 화려한 부활]]></title>
+        <id>https://v.daum.net/v/20240719003529533</id>
+        <link href="https://v.daum.net/v/20240719003529533"/>
+        <updated>2024-07-18T16:24:41.894Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초기 반응 후끈…갤럭시Z폴드·플립6, AI로 '폴더블폰 원조' 자존심 지킨다]]></title>
         <id>https://v.daum.net/v/20240719000054174</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240718184013707"/>
         <updated>2024-07-18T10:21:24.847Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루닛·뷰노, 고위험군 분류에 '긴장 모드']]></title>
-        <id>https://v.daum.net/v/20240718181414057</id>
-        <link href="https://v.daum.net/v/20240718181414057"/>
-        <updated>2024-07-18T09:21:30.753Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>

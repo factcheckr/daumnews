@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-07-18T15:25:16.744Z</updated>
+    <updated>2024-07-18T16:25:22.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리 헬스] 방치하면 '불임'까지...'골반염' 의심증상은?]]></title>
+        <id>https://v.daum.net/v/20240719010246671</id>
+        <link href="https://v.daum.net/v/20240719010246671"/>
+        <updated>2024-07-18T16:24:24.279Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 남부지방 중심 강한 비 계속‥ 수도권은 소강상태]]></title>
         <id>https://v.daum.net/v/20240719001309391</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240718233301990"/>
         <updated>2024-07-18T15:24:30.601Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["1시간 넘게 기다렸어요"…뉴욕 한복판 기사식당 '핫플' 됐다]]></title>
-        <id>https://v.daum.net/v/20240718175802456</id>
-        <link href="https://v.daum.net/v/20240718175802456"/>
-        <updated>2024-07-18T15:24:30.602Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
