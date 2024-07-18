@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-18T11:19:00.595Z</updated>
+    <updated>2024-07-18T12:38:59.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국에서만 사라진 구글 실시간 검색어, 왜?]]></title>
+        <id>https://v.daum.net/v/20240718204541045</id>
+        <link href="https://v.daum.net/v/20240718204541045"/>
+        <updated>2024-07-18T12:38:17.441Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍수경보 지역 지날 때 알람…'車 내비게이션 고도화']]></title>
         <id>https://v.daum.net/v/20240718190601243</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240718180604764"/>
         <updated>2024-07-18T09:21:30.754Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음식물쓰레기 퇴비화, 친환경인 줄 알았는데…알고보니]]></title>
-        <id>https://v.daum.net/v/20240718170905570</id>
-        <link href="https://v.daum.net/v/20240718170905570"/>
-        <updated>2024-07-18T11:18:21.905Z</updated>
-        <content type="html"><![CDATA[농민신문]]></content>
     </entry>
 </feed>
