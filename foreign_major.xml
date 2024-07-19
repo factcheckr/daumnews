@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-07-19T21:19:27.433Z</updated>
+    <updated>2024-07-19T22:20:51.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美합참의장 "中과의 전쟁 승리 자신…미래전쟁은 대규모 분쟁"]]></title>
+        <id>https://v.daum.net/v/20240720041707425</id>
+        <link href="https://v.daum.net/v/20240720041707425"/>
+        <updated>2024-07-19T22:19:54.311Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IT 대란에 전 세계 3500 항공편 취소...금융 시장은 충격 없어]]></title>
         <id>https://v.daum.net/v/20240720040959413</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240720003905886"/>
         <updated>2024-07-19T17:19:01.500Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴욕 증시서 엔비디아 1% 테슬라 3% 하락 출발...크라우드스트라이크는 9% 급락]]></title>
-        <id>https://v.daum.net/v/20240720003511844</id>
-        <link href="https://v.daum.net/v/20240720003511844"/>
-        <updated>2024-07-19T17:19:01.501Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
