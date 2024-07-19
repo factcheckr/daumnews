@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-07-19T18:27:09.227Z</updated>
+    <updated>2024-07-19T19:18:48.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://v.daum.net/v/20240720014031156"/>
         <updated>2024-07-19T18:26:11.056Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아마존 "'글로벌 IT 대란' AWS는 정상…일부 연결 문제 가능성"]]></title>
-        <id>https://v.daum.net/v/20240720021349288</id>
-        <link href="https://v.daum.net/v/20240720021349288"/>
-        <updated>2024-07-19T18:26:11.058Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[블링컨 "북중러 군사 밀착…中, 현 상황 매우 불편할 것"]]></title>
@@ -73,6 +66,13 @@
         <id>https://v.daum.net/v/20240720002149778</id>
         <link href="https://v.daum.net/v/20240720002149778"/>
         <updated>2024-07-19T16:24:57.303Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT대란에 멕시코항공사 "19일 국제선 취소"…남미 항공사도 영향]]></title>
+        <id>https://v.daum.net/v/20240720001251733</id>
+        <link href="https://v.daum.net/v/20240720001251733"/>
+        <updated>2024-07-19T19:17:38.165Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
