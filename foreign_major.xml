@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-07-19T16:26:08.370Z</updated>
+    <updated>2024-07-19T17:20:07.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사퇴압박 바이든 가족·참모 '출구전략' 논의…선대위는 "완주"]]></title>
+        <id>https://v.daum.net/v/20240720003905886</id>
+        <link href="https://v.daum.net/v/20240720003905886"/>
+        <updated>2024-07-19T17:19:01.500Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴욕 증시서 엔비디아 1% 테슬라 3% 하락 출발...크라우드스트라이크는 9% 급락]]></title>
+        <id>https://v.daum.net/v/20240720003511844</id>
+        <link href="https://v.daum.net/v/20240720003511844"/>
+        <updated>2024-07-19T17:19:01.501Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[젤렌스키, 英 각료회의서 연설…클린턴 이후 27년만]]></title>
         <id>https://v.daum.net/v/20240720002149778</id>
@@ -25,13 +39,6 @@
         <link href="https://v.daum.net/v/20240719233001202"/>
         <updated>2024-07-19T16:24:57.305Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICJ "이스라엘의 정착촌 건설은 불법…중단돼야"]]></title>
-        <id>https://v.daum.net/v/20240720000202583</id>
-        <link href="https://v.daum.net/v/20240720000202583"/>
-        <updated>2024-07-19T16:24:57.305Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["트럼프 측근들, 바이든 하차 대비…대체후보군 약점캐기 나서"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240719221004045"/>
         <updated>2024-07-19T15:22:09.445Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[업데이트 한번에 전세계 마비…다시 불거진 MS 독점 및 취약성 논란]]></title>
-        <id>https://v.daum.net/v/20240719222339285</id>
-        <link href="https://v.daum.net/v/20240719222339285"/>
-        <updated>2024-07-19T15:22:09.446Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
