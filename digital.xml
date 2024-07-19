@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-19T22:20:51.641Z</updated>
+    <updated>2024-07-19T23:21:00.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노이즈 캔슬링 이어폰 착용해도  재채기 소리 들리는 이유]]></title>
+        <id>https://v.daum.net/v/20240720080016975</id>
+        <link href="https://v.daum.net/v/20240720080016975"/>
+        <updated>2024-07-19T23:20:20.596Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얇고 가벼워지니…'Z폴드6' 사전판매 비중 10%p↑]]></title>
         <id>https://v.daum.net/v/20240720060010855</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240719230600895"/>
         <updated>2024-07-19T15:22:32.129Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위기에도 주요 서비스 건재...작년 카톡·카카오T 이용률 압도적]]></title>
-        <id>https://v.daum.net/v/20240719170908568</id>
-        <link href="https://v.daum.net/v/20240719170908568"/>
-        <updated>2024-07-19T14:20:07.720Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
