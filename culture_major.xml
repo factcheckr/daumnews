@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-07-19T15:23:09.496Z</updated>
+    <updated>2024-07-19T16:26:08.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[80대에도 40대 건강…노화와 맞서는 과학]]></title>
+        <id>https://v.daum.net/v/20240720000123548</id>
+        <link href="https://v.daum.net/v/20240720000123548"/>
+        <updated>2024-07-19T16:25:15.432Z</updated>
+        <content type="html"><![CDATA[중앙SUNDAY]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시스템의 위기 된 은행 위기의 이유]]></title>
         <id>https://v.daum.net/v/20240720000120546</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240719200502050"/>
         <updated>2024-07-19T15:22:24.119Z</updated>
         <content type="html"><![CDATA[전주MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["코로나19 감염된 한국·일본인, 정신질환 위험 높았다"]]></title>
-        <id>https://v.daum.net/v/20240719200031948</id>
-        <link href="https://v.daum.net/v/20240719200031948"/>
-        <updated>2024-07-19T15:22:24.121Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>

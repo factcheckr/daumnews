@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-07-19T15:23:09.463Z</updated>
+    <updated>2024-07-19T16:26:08.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[역부족]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/WrhCI2c6Ok</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/WrhCI2c6Ok"/>
+        <updated>2024-07-19T16:25:42.653Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[채상병 1주기 군 사망 사건 피해자 추모 촛불 문화제]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5615618/ZQi0nZP3Ee</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5029579/5VLjcYf5Vy"/>
         <updated>2024-07-19T08:28:07.372Z</updated>
         <content type="html"><![CDATA[이탈리아는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수에즈 도로 뒤로 지는 넘어가는 해]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5840216/7EAvWBaVfP</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5840216/7EAvWBaVfP"/>
-        <updated>2024-07-19T05:26:04.859Z</updated>
-        <content type="html"><![CDATA[이집트는 지금]]></content>
     </entry>
 </feed>
