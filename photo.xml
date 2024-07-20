@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-07-20T06:28:47.858Z</updated>
+    <updated>2024-07-20T07:19:25.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["머드의 향연에 풍덩"]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5847810/tMeDP10CUB</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5847810/tMeDP10CUB"/>
+        <updated>2024-07-20T07:18:58.428Z</updated>
+        <content type="html"><![CDATA[지자체 제공 포토]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폭우로 침수됐던 세교지하차도]]></title>
         <id>https://gallery.v.daum.net/p/viewer/386/zvTy4zKGUR</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033350/uvAjUpJquP"/>
         <updated>2024-07-19T08:28:07.356Z</updated>
         <content type="html"><![CDATA[호주는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘부터 출생통보제·보호출산제 시행]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5610796/KU8WQPmeFB</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5610796/KU8WQPmeFB"/>
-        <updated>2024-07-19T08:28:07.358Z</updated>
-        <content type="html"><![CDATA[모멘트]]></content>
     </entry>
 </feed>
