@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-20T08:23:38.130Z</updated>
+    <updated>2024-07-20T09:21:05.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MS CEO "크라우드스트라이크와 긴밀히 협력…복구 지원"]]></title>
+        <id>https://v.daum.net/v/20240720114300225</id>
+        <link href="https://v.daum.net/v/20240720114300225"/>
+        <updated>2024-07-20T09:20:38.986Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카카오에 드리운 사법 리스크…경영쇄신 '만전']]></title>
         <id>https://v.daum.net/v/20240720120004369</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240720101217221"/>
         <updated>2024-07-20T02:35:27.538Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다음 태양 활동 주기 시작…’별 진동’으로 포착 [우주로 간다]]]></title>
-        <id>https://v.daum.net/v/20240720103022439</id>
-        <link href="https://v.daum.net/v/20240720103022439"/>
-        <updated>2024-07-20T02:35:27.538Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
