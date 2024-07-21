@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-21T08:24:12.238Z</updated>
+    <updated>2024-07-21T09:21:56.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[티빙·tvN도 해킹 당했다…"배후는 암호화폐 세력"]]></title>
-        <id>https://v.daum.net/v/20240721171002526</id>
-        <link href="https://v.daum.net/v/20240721171002526"/>
-        <updated>2024-07-21T08:23:27.356Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
+        <title type="html"><![CDATA[[팩플] 현실화 된 ‘클라우드 리스크’... 하나의 소프트웨어 결함이 전 세계 덮쳤다]]></title>
+        <id>https://v.daum.net/v/20240721180820380</id>
+        <link href="https://v.daum.net/v/20240721180820380"/>
+        <updated>2024-07-21T09:21:13.968Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해외 빅테크 쏠림에 'IT재난' 무방비···"멀티 클라우드로 대비를"]]></title>
+        <id>https://v.daum.net/v/20240721174344593</id>
+        <link href="https://v.daum.net/v/20240721174344593"/>
+        <updated>2024-07-21T09:21:13.969Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MS “우리 사고는 아니다”, AI 클라우드 시대 ‘먹통 공포’ 도래]]></title>
+        <id>https://v.daum.net/v/20240721174003509</id>
+        <link href="https://v.daum.net/v/20240721174003509"/>
+        <updated>2024-07-21T09:21:13.969Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT 대란 초래한 MS 윈도…WSJ “개방형 OS 설계가 근본적 원인”]]></title>
+        <id>https://v.daum.net/v/20240721173328286</id>
+        <link href="https://v.daum.net/v/20240721173328286"/>
+        <updated>2024-07-21T09:21:13.971Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["글로벌 공급망까지 타격…항공화물 정상화 수주 걸릴 것"]]></title>
+        <id>https://v.daum.net/v/20240721172310864</id>
+        <link href="https://v.daum.net/v/20240721172310864"/>
+        <updated>2024-07-21T09:21:13.974Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[보안 패치 하나로 세계 IT 셧다운…장애 지속]]></title>
@@ -18,33 +46,5 @@
         <link href="https://v.daum.net/v/20240721131103359"/>
         <updated>2024-07-21T08:23:27.356Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈플러스]전문가도 예상 못한 초유의 사태…SW 공급망 보안체계 점검해야]]></title>
-        <id>https://v.daum.net/v/20240721170117282</id>
-        <link href="https://v.daum.net/v/20240721170117282"/>
-        <updated>2024-07-21T08:23:27.358Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈플러스]클라우드 급성장에 '안전불감증' 노출…장애 예방하려면 구조적 문제 해결해야]]></title>
-        <id>https://v.daum.net/v/20240721170113276</id>
-        <link href="https://v.daum.net/v/20240721170113276"/>
-        <updated>2024-07-21T08:23:27.360Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조난객 발 묶는 홍수…'시간별 유량' 읽는 AI로 예방]]></title>
-        <id>https://v.daum.net/v/20240721070042579</id>
-        <link href="https://v.daum.net/v/20240721070042579"/>
-        <updated>2024-07-21T07:17:41.846Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이버 정전 사태...한국은 피해 기업 60% 복구]]></title>
-        <id>https://v.daum.net/v/20240721154500162</id>
-        <link href="https://v.daum.net/v/20240721154500162"/>
-        <updated>2024-07-21T07:17:41.847Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
