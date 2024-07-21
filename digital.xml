@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-21T19:16:37.193Z</updated>
+    <updated>2024-07-21T20:23:55.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전세계 흔든 최악의 IT 대란…"빅테크 의존 탈피해야"]]></title>
+        <id>https://v.daum.net/v/20240722050323198</id>
+        <link href="https://v.daum.net/v/20240722050323198"/>
+        <updated>2024-07-21T20:23:10.014Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["MS 한 기업에 너무 의존했다"... 'IT 대란' 미국의 뒤늦은 반성]]></title>
+        <id>https://v.daum.net/v/20240722043111773</id>
+        <link href="https://v.daum.net/v/20240722043111773"/>
+        <updated>2024-07-21T20:23:10.015Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IT보안, 빅테크만 믿었다가… 1% 오류에 세계가 멈춰]]></title>
         <id>https://v.daum.net/v/20240722012032340</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240721145437885"/>
         <updated>2024-07-21T11:18:04.104Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['IT 대란' 진정되면 다음은 보상 전쟁…"보안업체 상대 소송전"]]></title>
-        <id>https://v.daum.net/v/20240721163400588</id>
-        <link href="https://v.daum.net/v/20240721163400588"/>
-        <updated>2024-07-21T11:18:04.104Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[항공·금융 대혼란…IT대란에 MS 보안 취약성 '논란']]></title>
-        <id>https://v.daum.net/v/20240721174731715</id>
-        <link href="https://v.daum.net/v/20240721174731715"/>
-        <updated>2024-07-21T10:20:33.893Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-07-21T19:16:37.208Z</updated>
+    <updated>2024-07-21T20:23:55.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1471/y8x6K10C9u"/>
         <updated>2024-07-21T18:25:52.049Z</updated>
         <content type="html"><![CDATA[세계의 정상들]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꽃들에게 ‘비닐’을]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/Y5HlT07vDO</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/Y5HlT07vDO"/>
+        <updated>2024-07-21T20:23:28.490Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['레전드 총출동' 한일 드림 플레이어즈…김인식호 훗카이도 입성]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1476/ZY3ZrdLKuj"/>
         <updated>2024-07-21T09:21:30.759Z</updated>
         <content type="html"><![CDATA[미국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MZ세대 템플스테이, 진관사에서 열려…[청계천 옆 사진관]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/344179/3wsvHwOJOz</id>
-        <link href="https://gallery.v.daum.net/p/viewer/344179/3wsvHwOJOz"/>
-        <updated>2024-07-21T03:23:15.339Z</updated>
-        <content type="html"><![CDATA[청계천 옆 사진관]]></content>
     </entry>
 </feed>
