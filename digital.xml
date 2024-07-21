@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-21T02:39:28.227Z</updated>
+    <updated>2024-07-21T03:23:40.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 佛통신연맹회장 "구글·넷플릭스 등 5곳 CP 트래픽 80%…글로벌 차원 법·제도로 책임 분담해야"]]></title>
+        <id>https://v.daum.net/v/20240721120114547</id>
+        <link href="https://v.daum.net/v/20240721120114547"/>
+        <updated>2024-07-21T03:22:58.350Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["단통법 폐지, 소비자 후생 긍정적…25% 요금할인 축소 우려도"]]></title>
+        <id>https://v.daum.net/v/20240721120032481</id>
+        <link href="https://v.daum.net/v/20240721120032481"/>
+        <updated>2024-07-21T03:22:58.352Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 제안 AI데이터 품질평가 세계기구서 채택]]></title>
         <id>https://v.daum.net/v/20240721110611655</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240721102412894"/>
         <updated>2024-07-21T02:38:45.244Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ZD 브리핑] 삼성 준감위, 계열사 CEO와 만나...IT·테크 2분기 성적은]]></title>
-        <id>https://v.daum.net/v/20240721100835639</id>
-        <link href="https://v.daum.net/v/20240721100835639"/>
-        <updated>2024-07-21T01:28:27.274Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘세종대왕 맥북 던짐’ AI 헛소리는 기술의 본질일까]]></title>
-        <id>https://v.daum.net/v/20240721100505578</id>
-        <link href="https://v.daum.net/v/20240721100505578"/>
-        <updated>2024-07-21T01:28:27.275Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
