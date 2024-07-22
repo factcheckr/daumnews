@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-07-22T09:26:06.871Z</updated>
+    <updated>2024-07-22T10:22:32.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베개 vs 변기, 더 더러운 건?]]></title>
+        <id>https://v.daum.net/v/20240722170907545</id>
+        <link href="https://v.daum.net/v/20240722170907545"/>
+        <updated>2024-07-22T10:21:48.260Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민망한 발 냄새…올바른 신발 및 발 관리법]]></title>
         <id>https://v.daum.net/v/20240722133114181</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240722155043558"/>
         <updated>2024-07-22T08:26:30.480Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 수도권 곳곳 비바람‥중북부 많은 비]]></title>
-        <id>https://v.daum.net/v/20240722160425235</id>
-        <link href="https://v.daum.net/v/20240722160425235"/>
-        <updated>2024-07-22T08:26:30.481Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
