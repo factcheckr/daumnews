@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-07-23T16:28:13.159Z</updated>
+    <updated>2024-07-23T17:19:55.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 전국 대체로 흐림‥밤사이 중부·경북 비]]></title>
+        <id>https://v.daum.net/v/20240724010605216</id>
+        <link href="https://v.daum.net/v/20240724010605216"/>
+        <updated>2024-07-23T17:18:53.181Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘 날씨] 중부 최대 '80mm' 이상 소나기…제3호·4호 태풍, 현재 위치는?]]></title>
         <id>https://v.daum.net/v/20240724010059165</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240723180604388"/>
         <updated>2024-07-23T15:25:07.192Z</updated>
         <content type="html"><![CDATA[노컷뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[녹유 오늘의 운세] 73년생 애써봐야 헛거 주인공은 따로 있어요]]></title>
-        <id>https://v.daum.net/v/20240724000046464</id>
-        <link href="https://v.daum.net/v/20240724000046464"/>
-        <updated>2024-07-23T15:25:07.193Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
