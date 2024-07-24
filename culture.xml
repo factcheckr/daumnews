@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-07-24T15:24:32.069Z</updated>
+    <updated>2024-07-24T16:29:28.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“나 이제 가노라 저 거친 광야에”...눈물바다 된 故김민기 발인식]]></title>
+        <id>https://v.daum.net/v/20240724150306929</id>
+        <link href="https://v.daum.net/v/20240724150306929"/>
+        <updated>2024-07-24T16:28:26.906Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘날씨, 시간당 30mm 내외 강한 소나기... 체감온도 33도 이상]]></title>
         <id>https://v.daum.net/v/20240725000202227</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240724220023090"/>
         <updated>2024-07-24T13:24:03.989Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내일날씨, 밤까지 소나기 곳... 전국 가시거리 1km 미만 안개]]></title>
-        <id>https://v.daum.net/v/20240724171507503</id>
-        <link href="https://v.daum.net/v/20240724171507503"/>
-        <updated>2024-07-24T12:37:01.143Z</updated>
-        <content type="html"><![CDATA[bnt뉴스]]></content>
     </entry>
 </feed>

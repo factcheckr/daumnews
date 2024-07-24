@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-24T15:24:32.100Z</updated>
+    <updated>2024-07-24T16:29:28.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[혁신 없는 터줏대감… ‘네카오’가 흔들린다]]></title>
+        <id>https://v.daum.net/v/20240725003142595</id>
+        <link href="https://v.daum.net/v/20240725003142595"/>
+        <updated>2024-07-24T16:28:44.146Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양질 의료데이터 전자서비스 제공…국경 넘어 처방·치료]]></title>
         <id>https://v.daum.net/v/20240725000515306</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240724180115001"/>
         <updated>2024-07-24T11:17:31.866Z</updated>
         <content type="html"><![CDATA[하이닥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서버 쪼개는 멀티 클라우드, 비용도 덩달아 `껑충`]]></title>
-        <id>https://v.daum.net/v/20240724192456101</id>
-        <link href="https://v.daum.net/v/20240724192456101"/>
-        <updated>2024-07-24T11:17:31.867Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
