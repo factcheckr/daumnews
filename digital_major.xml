@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-24T17:18:47.633Z</updated>
+    <updated>2024-07-24T18:31:05.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[열릴 듯 열리지 않는 엔비디아…삼성 HBM '절반의 성공']]></title>
+        <id>https://v.daum.net/v/20240724180306077</id>
+        <link href="https://v.daum.net/v/20240724180306077"/>
+        <updated>2024-07-24T18:30:27.073Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[습한 날씨에 모기 급증…퇴치하려면? 모기 물림 예방법]]></title>
         <id>https://v.daum.net/v/20240724180115001</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240724180732235"/>
         <updated>2024-07-24T10:23:49.679Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허점 드러낸 SW 공급망… 사이버 복원력 키우기 `과제`]]></title>
-        <id>https://v.daum.net/v/20240724181042315</id>
-        <link href="https://v.daum.net/v/20240724181042315"/>
-        <updated>2024-07-24T10:23:49.679Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>

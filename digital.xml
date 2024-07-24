@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-24T17:18:47.618Z</updated>
+    <updated>2024-07-24T18:31:05.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[통신비 부담 낮춘다더니… 갤럭시 Z폴드-플립6 전환지원금 ‘0원’]]></title>
+        <id>https://v.daum.net/v/20240725030554432</id>
+        <link href="https://v.daum.net/v/20240725030554432"/>
+        <updated>2024-07-24T18:30:18.472Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GIST, 미시-거시세계 각 운동량 전달 메커니즘 밝혀]]></title>
         <id>https://v.daum.net/v/20240724140041179</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240724172103686"/>
         <updated>2024-07-24T12:37:17.291Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[열릴 듯 열리지 않는 엔비디아…삼성 HBM '절반의 성공']]></title>
-        <id>https://v.daum.net/v/20240724180306077</id>
-        <link href="https://v.daum.net/v/20240724180306077"/>
-        <updated>2024-07-24T11:17:31.864Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
