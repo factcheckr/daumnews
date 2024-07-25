@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-25T13:23:55.951Z</updated>
+    <updated>2024-07-25T14:19:36.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가짜약 vs 진짜약...뇌는 가짜약 먹어도 통증 완화, 어떻게?]]></title>
+        <id>https://v.daum.net/v/20240725223056363</id>
+        <link href="https://v.daum.net/v/20240725223056363"/>
+        <updated>2024-07-25T14:18:52.785Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 연구진, 노동자 척추 부상 줄여주는 '로봇 슈트' 개발]]></title>
         <id>https://v.daum.net/v/20240725170138512</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240725190730117"/>
         <updated>2024-07-25T11:17:38.096Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["디지털산업 경쟁력 첫걸음, 새 입법 아닌 규제 철폐"]]></title>
-        <id>https://v.daum.net/v/20240725190738118</id>
-        <link href="https://v.daum.net/v/20240725190738118"/>
-        <updated>2024-07-25T10:23:30.923Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
