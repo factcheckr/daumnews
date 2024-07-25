@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-25T21:24:06.431Z</updated>
+    <updated>2024-07-25T22:20:29.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["女가 무릎 더 약해"...男女 관절 차이 어릴 때부터 시작]]></title>
+        <id>https://v.daum.net/v/20240726070025032</id>
+        <link href="https://v.daum.net/v/20240726070025032"/>
+        <updated>2024-07-25T22:19:54.475Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3년간 믿었던 개발자, 알고 보니 해커... 지능형 지속공격, 대응법은?]]></title>
         <id>https://v.daum.net/v/20240726060008191</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240725223056363"/>
         <updated>2024-07-25T14:18:52.785Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 연구진, 노동자 척추 부상 줄여주는 '로봇 슈트' 개발]]></title>
-        <id>https://v.daum.net/v/20240725170138512</id>
-        <link href="https://v.daum.net/v/20240725170138512"/>
-        <updated>2024-07-25T13:23:12.388Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
