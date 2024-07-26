@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-26T06:30:30.739Z</updated>
+    <updated>2024-07-26T07:20:17.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中 지원 받는 'APT41' 사이버 공격 심화…피해 산업·국가는?]]></title>
+        <id>https://v.daum.net/v/20240726104443837</id>
+        <link href="https://v.daum.net/v/20240726104443837"/>
+        <updated>2024-07-26T07:19:49.378Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이럴 때 사야지 언제 사?"…파리올림픽 앞두고 불티난 가전]]></title>
         <id>https://v.daum.net/v/20240726130101939</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240726105440275"/>
         <updated>2024-07-26T03:24:15.234Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클라우드 서비스, 한 개만 쓰세요? [The 5]]]></title>
-        <id>https://v.daum.net/v/20240726103502428</id>
-        <link href="https://v.daum.net/v/20240726103502428"/>
-        <updated>2024-07-26T03:24:15.234Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
