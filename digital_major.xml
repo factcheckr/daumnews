@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-26T14:19:19.656Z</updated>
+    <updated>2024-07-26T15:22:34.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[100년 만 파리 올림픽...갤럭시 생중계부터 시상식 셀피까지]]></title>
-        <id>https://v.daum.net/v/20240726171107485</id>
-        <link href="https://v.daum.net/v/20240726171107485"/>
-        <updated>2024-07-26T12:38:15.666Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[인텔 “1.8나노 공정에 ‘이종집적’ 기술 적용… 패키징 노하우 삼성·TSMC 앞서”]]></title>
         <id>https://v.daum.net/v/20240726164516689</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20240726125433825"/>
         <updated>2024-07-26T06:30:00.780Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이진숙 "구글 3자결제, 별 차이 없어...인앱결제 결론 내리겠다"]]></title>
+        <id>https://v.daum.net/v/20240726121046077</id>
+        <link href="https://v.daum.net/v/20240726121046077"/>
+        <updated>2024-07-26T15:22:01.448Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
