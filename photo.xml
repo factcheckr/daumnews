@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-07-26T20:24:24.095Z</updated>
+    <updated>2024-07-26T21:20:13.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파리올림픽 개회선언하는 마크롱 대통령]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1471/1X3bIEme3R</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1471/1X3bIEme3R"/>
+        <updated>2024-07-26T21:19:47.400Z</updated>
+        <content type="html"><![CDATA[세계의 정상들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8년 만에 하계 올림픽 복귀한 북한 선수단 [포토多이슈]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1112079/BpYq5yHEWw</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033571/YWoZzxdzzz"/>
         <updated>2024-07-26T08:24:47.321Z</updated>
         <content type="html"><![CDATA[군 제공 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["열심히 일한 당신 떠나라"… 여름휴가 시즌 시작!]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5840472/4sZzeEmef0</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5840472/4sZzeEmef0"/>
-        <updated>2024-07-26T07:19:56.772Z</updated>
-        <content type="html"><![CDATA[포토스토리]]></content>
     </entry>
 </feed>
