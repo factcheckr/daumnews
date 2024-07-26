@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-07-26T17:18:32.550Z</updated>
+    <updated>2024-07-26T18:29:08.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[갈라 만찬 등장한 北대사...조태열 장관 인사에 ‘무시’]]></title>
+        <id>https://v.daum.net/v/20240727010138077</id>
+        <link href="https://v.daum.net/v/20240727010138077"/>
+        <updated>2024-07-26T18:27:26.294Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방송법 개정안 필리버스터 진행 중…내일까지 이어질 듯]]></title>
         <id>https://v.daum.net/v/20240727010009067</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240726231432333"/>
         <updated>2024-07-26T16:26:07.178Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탄핵→선임→탄핵… MBC 둘러싸고 끝없는 ‘방통위 전쟁’]]></title>
-        <id>https://v.daum.net/v/20240727005536018</id>
-        <link href="https://v.daum.net/v/20240727005536018"/>
-        <updated>2024-07-26T16:26:07.186Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
