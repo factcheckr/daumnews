@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-07-27T18:27:38.926Z</updated>
+    <updated>2024-07-27T19:17:28.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경기 일부 지역 소나기…낮 기온 최고 34도 [날씨]]]></title>
+        <id>https://v.daum.net/v/20240728033120225</id>
+        <link href="https://v.daum.net/v/20240728033120225"/>
+        <updated>2024-07-27T19:15:16.996Z</updated>
+        <content type="html"><![CDATA[생활]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방송문화진흥회법 상정…與, 3차 필리버스터 돌입]]></title>
         <id>https://v.daum.net/v/20240728011701744</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20240727213250407"/>
         <updated>2024-07-27T13:18:52.870Z</updated>
         <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티몬·위메프 ‘소비자 혼란’ 지속…구영배 대표 책임론 커져]]></title>
-        <id>https://v.daum.net/v/20240727214057487</id>
-        <link href="https://v.daum.net/v/20240727214057487"/>
-        <updated>2024-07-27T13:18:52.870Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
     </entry>
 </feed>
