@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2024-07-27T17:18:22.616Z</updated>
+    <updated>2024-07-27T18:27:38.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[D-100, '보수 백인 남성' 트럼프 vs '진보 흑인 여성' 해리스 대결...승자는?]]></title>
+        <id>https://v.daum.net/v/20240728012210765</id>
+        <link href="https://v.daum.net/v/20240728012210765"/>
+        <updated>2024-07-27T18:26:13.386Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비트코인, '트럼프 연설' 앞두고 한때 6만9천달러선 넘어]]></title>
         <id>https://v.daum.net/v/20240728020355976</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240727213937466"/>
         <updated>2024-07-27T13:19:54.770Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화성에서 고대 생명체 흔적 발견… 미생물 연관된 암석 찾아]]></title>
-        <id>https://v.daum.net/v/20240727195104905</id>
-        <link href="https://v.daum.net/v/20240727195104905"/>
-        <updated>2024-07-27T12:39:18.410Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
