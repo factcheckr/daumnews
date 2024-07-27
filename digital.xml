@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-27T04:26:14.941Z</updated>
+    <updated>2024-07-27T05:19:53.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글 픽셀9 시리즈, 이렇게 나온다]]></title>
+        <id>https://v.daum.net/v/20240727131720655</id>
+        <link href="https://v.daum.net/v/20240727131720655"/>
+        <updated>2024-07-27T05:19:17.783Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[게임위드인] 한·중만 하는 게임물 사전심의…민간 이양 언제쯤?]]></title>
         <id>https://v.daum.net/v/20240727110011442</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240727093034418"/>
         <updated>2024-07-27T01:21:54.518Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["뚱뚱한 어린이...뎅기열 걸리면 더 아프다"]]></title>
-        <id>https://v.daum.net/v/20240726220102758</id>
-        <link href="https://v.daum.net/v/20240726220102758"/>
-        <updated>2024-07-27T01:21:54.519Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>

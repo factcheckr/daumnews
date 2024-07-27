@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-27T04:26:14.886Z</updated>
+    <updated>2024-07-27T05:19:53.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["뚱뚱한 어린이...뎅기열 걸리면 더 아프다"]]></title>
+        <id>https://v.daum.net/v/20240726220102758</id>
+        <link href="https://v.daum.net/v/20240726220102758"/>
+        <updated>2024-07-27T05:19:25.879Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차이나조이2024 개막...韓 게임 출품작은]]></title>
         <id>https://v.daum.net/v/20240727090035041</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240727060022437"/>
         <updated>2024-07-27T01:22:04.216Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與도 野도 단통법 없애자는데···100만원 넘는 스마트폰 싸질까]]></title>
-        <id>https://v.daum.net/v/20240727053036065</id>
-        <link href="https://v.daum.net/v/20240727053036065"/>
-        <updated>2024-07-27T01:22:04.218Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
