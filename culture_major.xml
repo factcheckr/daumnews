@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-07-27T22:21:32.373Z</updated>
+    <updated>2024-07-27T23:23:25.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘 날씨] 또 곳곳 기습 소나기...머리카락 지키는 여름철 수칙]]></title>
+        <id>https://v.daum.net/v/20240728000916070</id>
+        <link href="https://v.daum.net/v/20240728000916070"/>
+        <updated>2024-07-27T23:22:31.499Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대형마트 휴무일, 이마트‧롯데마트‧홈플러스‧코스트코 ‘우리동네는?’]]></title>
         <id>https://v.daum.net/v/20240728000311992</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240727210030944"/>
         <updated>2024-07-27T16:24:09.041Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수험생, 수능 잘 보려면 아침형?…저녁형? [숏폼]]]></title>
-        <id>https://v.daum.net/v/20240727205105798</id>
-        <link href="https://v.daum.net/v/20240727205105798"/>
-        <updated>2024-07-27T15:19:56.086Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
