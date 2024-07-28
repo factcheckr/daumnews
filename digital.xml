@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-28T15:20:44.788Z</updated>
+    <updated>2024-07-28T17:18:44.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“카톡은 어른들이랑 얘기할 때나”…10대 인스타 사용시간 카톡 2배]]></title>
+        <id>https://v.daum.net/v/20240728234505082</id>
+        <link href="https://v.daum.net/v/20240728234505082"/>
+        <updated>2024-07-28T17:18:00.378Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이 암세포' 99% 녹여준다고?...흔한 입속 세균 의외의 효과 보니]]></title>
         <id>https://v.daum.net/v/20240728221102346</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240728190511787"/>
         <updated>2024-07-28T10:20:01.480Z</updated>
         <content type="html"><![CDATA[채널A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AI시대, 가치 네트워크에 주목하라] 끼우고·쓰고·붙이고… 진화하는 웨어러블 AI]]></title>
-        <id>https://v.daum.net/v/20240728184025373</id>
-        <link href="https://v.daum.net/v/20240728184025373"/>
-        <updated>2024-07-28T10:20:01.480Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
