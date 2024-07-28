@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-28T20:23:20.476Z</updated>
+    <updated>2024-07-28T21:23:53.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘탄핵-사퇴’ 악순환에…초유의 ‘0명 방통위’]]></title>
+        <id>https://v.daum.net/v/20240728190511787</id>
+        <link href="https://v.daum.net/v/20240728190511787"/>
+        <updated>2024-07-28T21:23:20.268Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[AI시대, 가치 네트워크에 주목하라] 끼우고·쓰고·붙이고… 진화하는 웨어러블 AI]]></title>
         <id>https://v.daum.net/v/20240728184025373</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240728142057288"/>
         <updated>2024-07-28T09:21:36.978Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“넷플릭스 없으면 손님 안와요”···숙박업소 점령한 ‘불법 OTT’]]></title>
-        <id>https://v.daum.net/v/20240728161005405</id>
-        <link href="https://v.daum.net/v/20240728161005405"/>
-        <updated>2024-07-28T09:21:36.980Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
