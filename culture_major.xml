@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-07-28T09:22:04.287Z</updated>
+    <updated>2024-07-28T10:20:47.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전국 무더운 날씨 지속...수도권·강원내륙 비 소식]]></title>
+        <id>https://v.daum.net/v/20240728174502085</id>
+        <link href="https://v.daum.net/v/20240728174502085"/>
+        <updated>2024-07-28T10:19:52.710Z</updated>
+        <content type="html"><![CDATA[kbc광주방송]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘아이언맨’ 로버트 다우니 주니어, 최강 빌런 ‘닥터 둠’으로 어벤져스 시리즈 복귀]]></title>
+        <id>https://v.daum.net/v/20240728170602424</id>
+        <link href="https://v.daum.net/v/20240728170602424"/>
+        <updated>2024-07-28T10:19:52.711Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내일날씨, 낮 기온 36도 치솟고 경기‧강원 가끔 비]]></title>
         <id>https://v.daum.net/v/20240728122202692</id>
@@ -18,13 +32,6 @@
         <link href="https://v.daum.net/v/20240728144003594"/>
         <updated>2024-07-28T09:21:24.710Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이진숙 방통위원장 임명되면 MBC 민영화? 가능성 ‘희박’]]></title>
-        <id>https://v.daum.net/v/20240728155501169</id>
-        <link href="https://v.daum.net/v/20240728155501169"/>
-        <updated>2024-07-28T09:21:24.714Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[멀티태스킹, 뇌 건강에 좋을까? 나쁠까?]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240728121011573"/>
         <updated>2024-07-28T07:18:21.774Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“몸이 왜 이리 가렵지?”…가려움증 일으키는 '별난 병'들]]></title>
-        <id>https://v.daum.net/v/20240728090645394</id>
-        <link href="https://v.daum.net/v/20240728090645394"/>
-        <updated>2024-07-28T06:26:16.663Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
