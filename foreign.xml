@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2024-07-28T02:46:11.188Z</updated>
+    <updated>2024-07-28T03:23:05.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해리스 "혼돈의 나라에 살고 싶나" vs 트럼프 "극좌 미치광이"]]></title>
+        <id>https://v.daum.net/v/20240728113740050</id>
+        <link href="https://v.daum.net/v/20240728113740050"/>
+        <updated>2024-07-28T03:21:51.019Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[칩톡]42兆 반도체 투자 몰린 '실리콘 아일랜드']]></title>
         <id>https://v.daum.net/v/20240728090026186</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240728104800101"/>
         <updated>2024-07-28T02:44:49.491Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[글로벌포커스]'매직넘버' 확보 해리스 "트럼프 잡는다"…필살기는?]]></title>
-        <id>https://v.daum.net/v/20240728092610724</id>
-        <link href="https://v.daum.net/v/20240728092610724"/>
-        <updated>2024-07-28T02:44:49.493Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
