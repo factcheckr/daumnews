@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-28T21:23:53.331Z</updated>
+    <updated>2024-07-28T22:20:00.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이호성 원장은…'한국 표준시' 정의하는 1세대 원자시계 전문가]]></title>
+        <id>https://v.daum.net/v/20240729054006215</id>
+        <link href="https://v.daum.net/v/20240729054006215"/>
+        <updated>2024-07-28T22:19:16.648Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오는 9월 출시 아이폰16에 'AI 기능' 탑재 될까?]]></title>
         <id>https://v.daum.net/v/20240729054804297</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240728193157230"/>
         <updated>2024-07-28T11:17:47.302Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“점유율 0%, 하루 1대도 안 팔려” 완전 망했다…충격 받은 샤오미]]></title>
-        <id>https://v.daum.net/v/20240728185129585</id>
-        <link href="https://v.daum.net/v/20240728185129585"/>
-        <updated>2024-07-28T11:17:47.304Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
