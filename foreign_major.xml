@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-07-29T16:26:31.184Z</updated>
+    <updated>2024-07-29T17:21:54.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240730004539320"/>
         <updated>2024-07-29T16:25:35.801Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[관광지에서 원숭이 공격받고 추락하는 아이… 휴가철 앞두고 안전수칙 숙지령 (영상)]]></title>
+        <id>https://v.daum.net/v/20240729220605426</id>
+        <link href="https://v.daum.net/v/20240729220605426"/>
+        <updated>2024-07-29T17:20:46.551Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[테슬라 주가, 1년만에 '골든크로스' 출현]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240729182402697"/>
         <updated>2024-07-29T12:37:50.126Z</updated>
         <content type="html"><![CDATA[한경비즈니스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세계를 가다]아이돌 못지 않은 대선 ‘정치 굿즈’ 전쟁]]></title>
-        <id>https://v.daum.net/v/20240729192715112</id>
-        <link href="https://v.daum.net/v/20240729192715112"/>
-        <updated>2024-07-29T12:37:50.128Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
     </entry>
 </feed>
