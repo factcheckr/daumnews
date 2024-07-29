@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-29T19:20:07.753Z</updated>
+    <updated>2024-07-29T20:26:47.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["자연재해·마약거래 저리가라" 사이버보안, 무너지면 대재앙]]></title>
+        <id>https://v.daum.net/v/20240729190635669</id>
+        <link href="https://v.daum.net/v/20240729190635669"/>
+        <updated>2024-07-29T20:26:12.840Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전자상거래 플랫폼 카페24도 티몬·위메프 계정연동 서비스 중단]]></title>
         <id>https://v.daum.net/v/20240729150330828</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240729170302973"/>
         <updated>2024-07-29T10:23:44.387Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PC 펌웨어 변조 막는 '시큐어부트' 무력화 가능성 제기]]></title>
-        <id>https://v.daum.net/v/20240729165857794</id>
-        <link href="https://v.daum.net/v/20240729165857794"/>
-        <updated>2024-07-29T10:23:44.389Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
