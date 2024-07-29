@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-29T13:24:38.247Z</updated>
+    <updated>2024-07-29T14:20:10.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["수수료 규제, 플랫폼 성장·발전 저해할 수도"]]></title>
+        <id>https://v.daum.net/v/20240729225630917</id>
+        <link href="https://v.daum.net/v/20240729225630917"/>
+        <updated>2024-07-29T14:19:37.653Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양평군, 인공지능(AI) 활용 초기 복지상담 전화로 위기가구 발굴]]></title>
         <id>https://v.daum.net/v/20240729202046987</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240729180241111"/>
         <updated>2024-07-29T10:23:35.365Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안랩, 상반기 영업익 36억원…전년比 44.8%↓]]></title>
-        <id>https://v.daum.net/v/20240729181625488</id>
-        <link href="https://v.daum.net/v/20240729181625488"/>
-        <updated>2024-07-29T10:23:35.366Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
