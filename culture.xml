@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-07-30T18:27:22.977Z</updated>
+    <updated>2024-07-30T19:18:27.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘 날씨] 장마 가고 폭염 시작 '최고 36도'…열대야, 적정 에어컨 온도는]]></title>
+        <id>https://v.daum.net/v/20240731023159564</id>
+        <link href="https://v.daum.net/v/20240731023159564"/>
+        <updated>2024-07-30T19:17:28.690Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 2024년 07월 31일 별자리 운세]]></title>
         <id>https://v.daum.net/v/20240731000304137</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240730224203120"/>
         <updated>2024-07-30T14:18:51.252Z</updated>
         <content type="html"><![CDATA[시티라이프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이럴 줄' 센강 수질 악화, 철인 2종 치르나]]></title>
-        <id>https://v.daum.net/v/20240730172313596</id>
-        <link href="https://v.daum.net/v/20240730172313596"/>
-        <updated>2024-07-30T14:18:51.253Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
