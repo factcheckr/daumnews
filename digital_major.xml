@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-30T11:19:13.402Z</updated>
+    <updated>2024-07-30T12:38:31.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[과기정통부 "국가인공지능위원회 구성 본격 착수"]]></title>
+        <id>https://v.daum.net/v/20240730181612434</id>
+        <link href="https://v.daum.net/v/20240730181612434"/>
+        <updated>2024-07-30T12:37:56.745Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘AI 석학’ 앤드류 응 교수, 국가인공지능委 글로벌 자문그룹 참여]]></title>
+        <id>https://v.daum.net/v/20240730180112867</id>
+        <link href="https://v.daum.net/v/20240730180112867"/>
+        <updated>2024-07-30T12:37:56.746Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["소방시설 설치 AI가 안내" 서울시, AI 소방민원 도우미 도입]]></title>
         <id>https://v.daum.net/v/20240730181107262</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240730170114756"/>
         <updated>2024-07-30T09:21:55.000Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자 "더 얇게" vs 중국 "더 싸게"]]></title>
-        <id>https://v.daum.net/v/20240730170033715</id>
-        <link href="https://v.daum.net/v/20240730170033715"/>
-        <updated>2024-07-30T09:21:55.002Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“AI는 기상 예측의 게임체인저”…엔비디아, 韓과 ‘초단기 모델’ 공동개발]]></title>
-        <id>https://v.daum.net/v/20240730165122378</id>
-        <link href="https://v.daum.net/v/20240730165122378"/>
-        <updated>2024-07-30T09:21:55.004Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
