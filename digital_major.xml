@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-30T02:39:00.557Z</updated>
+    <updated>2024-07-30T03:26:08.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엑스박스 360 스토어 및 마켓플레이스, 7월 29일부로 폐쇄]]></title>
+        <id>https://v.daum.net/v/20240730101205863</id>
+        <link href="https://v.daum.net/v/20240730101205863"/>
+        <updated>2024-07-30T03:25:35.114Z</updated>
+        <content type="html"><![CDATA[게임동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우주에서 파리 올림픽 현장 내려다 봤더니]]></title>
         <id>https://v.daum.net/v/20240730101207871</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240730005527434"/>
         <updated>2024-07-30T01:23:47.514Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“엔비디아 잡아라” 반도체 팹리스들 ‘추리형 AI’ 집중 공략]]></title>
-        <id>https://v.daum.net/v/20240730030546505</id>
-        <link href="https://v.daum.net/v/20240730030546505"/>
-        <updated>2024-07-29T23:20:28.717Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
