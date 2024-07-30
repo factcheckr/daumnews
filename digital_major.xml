@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-07-30T14:19:38.863Z</updated>
+    <updated>2024-07-30T15:22:24.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[팩플] 엔비디아 AI 칩 시장 독점 균열 생기나…구글 칩 택한 애플]]></title>
-        <id>https://v.daum.net/v/20240730174826387</id>
-        <link href="https://v.daum.net/v/20240730174826387"/>
-        <updated>2024-07-30T10:22:06.752Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[이슈IT슈] 삼성과 애플이 '얇은 폰' 준비하는 속사정]]></title>
         <id>https://v.daum.net/v/20240730173200864</id>
         <link href="https://v.daum.net/v/20240730173200864"/>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20240730170114756"/>
         <updated>2024-07-30T09:21:55.000Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성전자 "더 얇게" vs 중국 "더 싸게"]]></title>
+        <id>https://v.daum.net/v/20240730170033715</id>
+        <link href="https://v.daum.net/v/20240730170033715"/>
+        <updated>2024-07-30T15:21:55.925Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
