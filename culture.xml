@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-07-30T12:38:31.309Z</updated>
+    <updated>2024-07-30T13:23:33.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김숨 “인간·역사에 대한 성찰 없으면 누구나 가해자가 될 수 있죠”]]></title>
+        <id>https://v.daum.net/v/20240730215049361</id>
+        <link href="https://v.daum.net/v/20240730215049361"/>
+        <updated>2024-07-30T13:22:33.863Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['정신건강' 망치는 생활습관 2가지]]></title>
         <id>https://v.daum.net/v/20240730213116944</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240730203031682"/>
         <updated>2024-07-30T12:37:28.219Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MBC사장 교체→민영화... 이진숙의 '언론장악' 시나리오?]]></title>
-        <id>https://v.daum.net/v/20240730200301188</id>
-        <link href="https://v.daum.net/v/20240730200301188"/>
-        <updated>2024-07-30T12:37:28.220Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
