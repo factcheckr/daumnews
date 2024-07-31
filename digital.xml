@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-31T19:23:06.316Z</updated>
+    <updated>2024-07-31T20:23:05.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[약물 도핑? AI도핑 검사 해야할 판…신기술 경연장 된 올림픽 [트랜D]]]></title>
+        <id>https://v.daum.net/v/20240801050051191</id>
+        <link href="https://v.daum.net/v/20240801050051191"/>
+        <updated>2024-07-31T20:22:21.946Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퍼스트 디센던트, 비정형 물질 천장 시스템 도입]]></title>
         <id>https://v.daum.net/v/20240731224443241</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240731200001240"/>
         <updated>2024-07-31T11:17:28.808Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보] `KBS·방문진 이사진 선임` 방통위 회의 2시간 만에 종료]]></title>
-        <id>https://v.daum.net/v/20240731191413252</id>
-        <link href="https://v.daum.net/v/20240731191413252"/>
-        <updated>2024-07-31T16:25:12.438Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>

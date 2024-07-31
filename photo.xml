@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-07-31T19:23:06.344Z</updated>
+    <updated>2024-07-31T20:23:05.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베이루트 팔레스타인 난민촌 '응징' 궐기 대회]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029621/82mxL20CuM</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029621/82mxL20CuM"/>
+        <updated>2024-07-31T20:22:39.718Z</updated>
+        <content type="html"><![CDATA[레바논은 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하늘과 바다의 ‘쇼타임’]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/Ylxhsi41EO</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1493/VXYZhMKGUr"/>
         <updated>2024-07-31T07:17:32.833Z</updated>
         <content type="html"><![CDATA[튀르키예는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['0.25%p' 금리인상한 일본은행]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1407/qmvKFkJqzh</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1407/qmvKFkJqzh"/>
-        <updated>2024-07-31T07:17:32.834Z</updated>
-        <content type="html"><![CDATA[일본은 지금]]></content>
     </entry>
 </feed>
