@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-07-31T18:29:51.646Z</updated>
+    <updated>2024-07-31T19:23:06.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘 날씨] 낮 최고 기온 36도, 열대야 계속…땀날 땐 소금물·이온음료가 좋다?]]></title>
+        <id>https://v.daum.net/v/20240801041635641</id>
+        <link href="https://v.daum.net/v/20240801041635641"/>
+        <updated>2024-07-31T19:20:43.367Z</updated>
+        <content type="html"><![CDATA[문화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日금리 15년만에 최고수준으로… 저무는 ‘슈퍼 엔저’]]></title>
         <id>https://v.daum.net/v/20240801030536093</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20240731201201530"/>
         <updated>2024-07-31T14:16:37.761Z</updated>
         <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[염증 줄이고 대사질환 막는 小食… '이 나이' 넘어서 하면 오히려 건강 해친다]]></title>
-        <id>https://v.daum.net/v/20240731230028544</id>
-        <link href="https://v.daum.net/v/20240731230028544"/>
-        <updated>2024-07-31T14:16:37.761Z</updated>
-        <content type="html"><![CDATA[생활]]></content>
     </entry>
 </feed>

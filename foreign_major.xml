@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-07-31T18:29:51.653Z</updated>
+    <updated>2024-07-31T19:23:06.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[골란고원 공격한 헤즈볼라 사령관, 잔해서 시신으로 발견]]></title>
+        <id>https://v.daum.net/v/20240801012441342</id>
+        <link href="https://v.daum.net/v/20240801012441342"/>
+        <updated>2024-07-31T19:21:53.943Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔비디아 급반등,"AMD 선전과 MS의 AI 지출 논평 덕"]]></title>
         <id>https://v.daum.net/v/20240801011005268</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240731230124562"/>
         <updated>2024-07-31T15:21:43.985Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[궁금증만 쌓여가는 하니예 암살]]></title>
-        <id>https://v.daum.net/v/20240731223925153</id>
-        <link href="https://v.daum.net/v/20240731223925153"/>
-        <updated>2024-07-31T15:21:43.987Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
