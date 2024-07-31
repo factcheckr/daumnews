@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-07-31T12:39:15.041Z</updated>
+    <updated>2024-07-31T13:23:33.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제주서 불법 취업 시도하는 중국인들 검거]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1075022/1WgIptva08</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1075022/1WgIptva08"/>
+        <updated>2024-07-31T13:23:12.880Z</updated>
+        <content type="html"><![CDATA[경찰 제공 포토]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘일 강제동원 지우기’에 동참…어느 나라 외교부인가[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/Bn7LEjRuS6</id>
@@ -49,17 +56,17 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[이란 대통령과 면담하는 하니예]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1682593/X31hFkJqzw</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1682593/X31hFkJqzw"/>
-        <updated>2024-07-31T09:23:57.360Z</updated>
-        <content type="html"><![CDATA[대한민국 대통령실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이란 대통령과 면담하는 하니예]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1471/X31hFkJqzw</id>
         <link href="https://gallery.v.daum.net/p/viewer/1471/X31hFkJqzw"/>
         <updated>2024-07-31T09:23:57.364Z</updated>
         <content type="html"><![CDATA[세계의 정상들]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이란 대통령과 면담하는 하니예]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1682593/X31hFkJqzw</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1682593/X31hFkJqzw"/>
+        <updated>2024-07-31T09:23:57.360Z</updated>
+        <content type="html"><![CDATA[대한민국 대통령실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국 대선 해리스-트럼프 지지율]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615618/FtiLm87vIO"/>
         <updated>2024-07-31T06:24:11.169Z</updated>
         <content type="html"><![CDATA[오마이포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['태양을 피하는 방법']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5610796/PSgXWn8tUZ</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5610796/PSgXWn8tUZ"/>
-        <updated>2024-07-31T06:24:11.170Z</updated>
-        <content type="html"><![CDATA[모멘트]]></content>
     </entry>
 </feed>
