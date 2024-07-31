@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-07-31T15:22:54.419Z</updated>
+    <updated>2024-07-31T16:25:51.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하늘과 바다의 ‘쇼타임’]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/Ylxhsi41EO</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/Ylxhsi41EO"/>
+        <updated>2024-07-31T16:25:28.020Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제주서 불법 취업 시도하는 중국인들 검거]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1075022/1WgIptva08</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1407/qmvKFkJqzh"/>
         <updated>2024-07-31T07:17:32.834Z</updated>
         <content type="html"><![CDATA[일본은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블링컨과 악수하는 싱가포르 외교장관]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1013249/7k7GOPqy0x</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1013249/7k7GOPqy0x"/>
-        <updated>2024-07-31T07:17:32.837Z</updated>
-        <content type="html"><![CDATA[세계의 외교현장]]></content>
     </entry>
 </feed>

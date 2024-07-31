@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-07-31T15:22:54.387Z</updated>
+    <updated>2024-07-31T16:25:51.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“도대체 몇 개야?” 다리에 팔까지 달린 ‘정체’…알고보니]]></title>
-        <id>https://v.daum.net/v/20240731195141107</id>
-        <link href="https://v.daum.net/v/20240731195141107"/>
-        <updated>2024-07-31T12:38:30.654Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“아무도 이럴줄 몰랐다” 망할줄 알았더니…믿기 힘든 ‘대반전’]]></title>
         <id>https://v.daum.net/v/20240731204034298</id>
         <link href="https://v.daum.net/v/20240731204034298"/>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20240731200001240"/>
         <updated>2024-07-31T11:17:28.808Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보] `KBS·방문진 이사진 선임` 방통위 회의 2시간 만에 종료]]></title>
+        <id>https://v.daum.net/v/20240731191413252</id>
+        <link href="https://v.daum.net/v/20240731191413252"/>
+        <updated>2024-07-31T16:25:12.438Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>

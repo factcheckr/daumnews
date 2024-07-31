@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2024-07-31T15:22:54.397Z</updated>
+    <updated>2024-07-31T16:25:51.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔비디아 급반등,"AMD 선전과 MS의 AI 지출 논평 덕"]]></title>
+        <id>https://v.daum.net/v/20240801011005268</id>
+        <link href="https://v.daum.net/v/20240801011005268"/>
+        <updated>2024-07-31T16:24:42.975Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“내 얼굴값 2조 내놔”…수백만명 무단수집한 메타, 결국 합의금 낸다]]></title>
+        <id>https://v.daum.net/v/20240801003606008</id>
+        <link href="https://v.daum.net/v/20240801003606008"/>
+        <updated>2024-07-31T16:24:42.976Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유로존 7월 근원CPI상승률 2.9%…9월 추가 금리인하 ‘글쎄’]]></title>
         <id>https://v.daum.net/v/20240801002010848</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240801000114424"/>
         <updated>2024-07-31T15:21:35.496Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["애플 매출 바닥쳤다…6월분기 매출 증가로 돌아서"]]></title>
-        <id>https://v.daum.net/v/20240731235602333</id>
-        <link href="https://v.daum.net/v/20240731235602333"/>
-        <updated>2024-07-31T15:21:35.497Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴욕증시, AMD 하드캐리로 나스닥 2%대 급등 출발]]></title>
-        <id>https://v.daum.net/v/20240731232202903</id>
-        <link href="https://v.daum.net/v/20240731232202903"/>
-        <updated>2024-07-31T15:21:35.499Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
