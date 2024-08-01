@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-08-01T12:38:46.920Z</updated>
+    <updated>2024-08-01T13:24:02.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 열대지방의 밤 같은 초열대야?‥'해발 900m' 태백도 폭염]]></title>
+        <id>https://v.daum.net/v/20240801214015471</id>
+        <link href="https://v.daum.net/v/20240801214015471"/>
+        <updated>2024-08-01T13:23:05.037Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기온 32도 넘으면 '뇌 기능'에 이상… 폭염이 몸에 미치는 영향]]></title>
         <id>https://v.daum.net/v/20240801213031279</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240801201643784"/>
         <updated>2024-08-01T12:37:47.206Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['푹푹 찐다' 대구·구례 37도..전국 곳곳 소나기]]></title>
-        <id>https://v.daum.net/v/20240801180402628</id>
-        <link href="https://v.daum.net/v/20240801180402628"/>
-        <updated>2024-08-01T12:37:47.207Z</updated>
-        <content type="html"><![CDATA[kbc광주방송]]></content>
     </entry>
 </feed>
