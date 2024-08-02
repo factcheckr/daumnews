@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-02T06:33:20.753Z</updated>
+    <updated>2024-08-02T07:20:10.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["4000억 건물이 100억에 팔려"…충격적인 일 벌어졌다]]></title>
+        <id>https://v.daum.net/v/20240802141803844</id>
+        <link href="https://v.daum.net/v/20240802141803844"/>
+        <updated>2024-08-02T07:19:42.275Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사이언스 카페] 과학자들 “생물 種 저장소, 달에 설치하자”... 현대판 ‘노아의 방주’, 달로 보내나]]></title>
+        <id>https://v.daum.net/v/20240802143911436</id>
+        <link href="https://v.daum.net/v/20240802143911436"/>
+        <updated>2024-08-02T07:19:42.277Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["구글 차세대 폴더블폰, 화면 180도 펴진다"]]></title>
         <id>https://v.daum.net/v/20240802135052071</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240802114208512"/>
         <updated>2024-08-02T05:21:37.075Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유미's 픽] 日 공략 나선 더존비즈온, 'AWS 효과' 볼까]]></title>
-        <id>https://v.daum.net/v/20240802111547280</id>
-        <link href="https://v.daum.net/v/20240802111547280"/>
-        <updated>2024-08-02T05:21:37.079Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔비디아의 넥스트와 넥스트 엔비디아는 어떻게 될까? [조원경의 경제·산업 답사기 ]]]></title>
-        <id>https://v.daum.net/v/20240802110548910</id>
-        <link href="https://v.daum.net/v/20240802110548910"/>
-        <updated>2024-08-02T05:21:37.080Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
