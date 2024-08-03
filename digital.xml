@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-08-03T08:25:16.771Z</updated>
+    <updated>2024-08-03T09:23:47.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“이건 아무도 몰랐다” 여기서도 악명높은 가스가 나온다니 [지구, 뭐래?]]]></title>
+        <id>https://v.daum.net/v/20240803175035903</id>
+        <link href="https://v.daum.net/v/20240803175035903"/>
+        <updated>2024-08-03T09:23:05.762Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IBCT 개발 '인피리움', 중기부 우수연구개발 혁신제품 선정]]></title>
         <id>https://v.daum.net/v/20240803164332946</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240803141201784"/>
         <updated>2024-08-03T06:27:24.389Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["엔비디아 샀는데 어쩌나"…초대형 사고에 서학개미 '발칵' [황정수의 반도체 이슈 짚어보기]]]></title>
-        <id>https://v.daum.net/v/20240803142401847</id>
-        <link href="https://v.daum.net/v/20240803142401847"/>
-        <updated>2024-08-03T06:27:24.391Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
