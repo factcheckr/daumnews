@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-08-03T15:24:14.654Z</updated>
+    <updated>2024-08-03T16:26:20.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[설마했는데 “사상 처음” 신형 아이폰 한국서 첫 등장…삼성 ‘발칵’]]></title>
+        <id>https://v.daum.net/v/20240803204032416</id>
+        <link href="https://v.daum.net/v/20240803204032416"/>
+        <updated>2024-08-03T16:25:48.314Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빅밸류가 금융거래소서 데이터 공급사 1위 차지한 비결은?]]></title>
         <id>https://v.daum.net/v/20240803194303387</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240803131756431"/>
         <updated>2024-08-03T06:27:24.386Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서양'이라는 프레임을 넘어: 유럽 & 핀란드 게임 이야기]]></title>
-        <id>https://v.daum.net/v/20240803151503285</id>
-        <link href="https://v.daum.net/v/20240803151503285"/>
-        <updated>2024-08-03T06:27:24.388Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
     </entry>
 </feed>
