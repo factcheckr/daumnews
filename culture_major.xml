@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-08-04T11:18:28.189Z</updated>
+    <updated>2024-08-04T12:35:18.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이름 같으면, 얼굴도 비슷해진다… 연구 결과 나와]]></title>
+        <id>https://v.daum.net/v/20240804170030983</id>
+        <link href="https://v.daum.net/v/20240804170030983"/>
+        <updated>2024-08-04T12:34:36.289Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["내 소설 속에 온전히 들어갈때, 좋은 작품 나오죠"]]></title>
         <id>https://v.daum.net/v/20240804170300087</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240804123046479"/>
         <updated>2024-08-04T07:19:01.113Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 아이 키 커지는 한의학적 꿀팁]]></title>
-        <id>https://v.daum.net/v/20240804144540454</id>
-        <link href="https://v.daum.net/v/20240804144540454"/>
-        <updated>2024-08-04T07:19:01.114Z</updated>
-        <content type="html"><![CDATA[CJB청주방송]]></content>
     </entry>
 </feed>
