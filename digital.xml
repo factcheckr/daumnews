@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-08-04T02:41:51.656Z</updated>
+    <updated>2024-08-04T03:23:08.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이노티움, iM뱅크 문서중앙화 기반 스마트 업무환경 구축]]></title>
+        <id>https://v.daum.net/v/20240804120113122</id>
+        <link href="https://v.daum.net/v/20240804120113122"/>
+        <updated>2024-08-04T03:22:25.303Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[걸어다니는 사람 모양 로봇이 공장에도…발전하는 중국 첨단산업]]></title>
         <id>https://v.daum.net/v/20240804111603507</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240804101016507"/>
         <updated>2024-08-04T01:29:24.601Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[같은 서비스라도 앱·웹 어디서 결제하냐에 따라 금액 제각각[헛다리경제]]]></title>
-        <id>https://v.daum.net/v/20240804080029945</id>
-        <link href="https://v.daum.net/v/20240804080029945"/>
-        <updated>2024-08-04T01:29:24.603Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
