@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-05T03:23:33.343Z</updated>
+    <updated>2024-08-05T04:25:04.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中서 굴욕 애플…이제서야 한국 러브콜?]]></title>
+        <id>https://v.daum.net/v/20240805110907168</id>
+        <link href="https://v.daum.net/v/20240805110907168"/>
+        <updated>2024-08-05T04:24:33.379Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카이스트, 사용자 관심 변화 빠르게 적응하는 AI 학습기술 개발]]></title>
         <id>https://v.daum.net/v/20240805104207028</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240805093001183"/>
         <updated>2024-08-05T02:40:22.384Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이폰16, 韓서도 내달부터 판매?…1차 출시국 기대 솔솔]]></title>
-        <id>https://v.daum.net/v/20240805100238587</id>
-        <link href="https://v.daum.net/v/20240805100238587"/>
-        <updated>2024-08-05T02:40:22.385Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
