@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-08-05T12:39:05.556Z</updated>
+    <updated>2024-08-05T13:24:39.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“이건 너무 심했다” 쏟아지는 뭇매…초유의 이탈 사태]]></title>
+        <id>https://v.daum.net/v/20240805213632805</id>
+        <link href="https://v.daum.net/v/20240805213632805"/>
+        <updated>2024-08-05T13:23:54.045Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["삼성 '안방' 공략"…애플, 韓서 아이폰 신제품 먼저 선보이나?]]></title>
         <id>https://v.daum.net/v/20240805210032165</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240805191502034"/>
         <updated>2024-08-05T11:18:23.571Z</updated>
         <content type="html"><![CDATA[게임동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통신비 인하 유도한다던 제4이통사 무산…남은 건 줄소송]]></title>
-        <id>https://v.daum.net/v/20240805182411661</id>
-        <link href="https://v.daum.net/v/20240805182411661"/>
-        <updated>2024-08-05T10:21:42.509Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
 </feed>
