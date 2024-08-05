@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-08-05T16:25:30.466Z</updated>
+    <updated>2024-08-05T17:21:15.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美서비스업 확장세 전환…국제유가 상승세로 전환]]></title>
+        <id>https://v.daum.net/v/20240806014732209</id>
+        <link href="https://v.daum.net/v/20240806014732209"/>
+        <updated>2024-08-05T17:19:47.861Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[증시 ‘8·5 쇼크’]]></title>
         <id>https://v.daum.net/v/20240806010956039</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240806000132447"/>
         <updated>2024-08-05T15:20:56.112Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“10년간 혁신은 없을 것”… AI 거품론에 주가 ‘박살’]]></title>
-        <id>https://v.daum.net/v/20240806000510550</id>
-        <link href="https://v.daum.net/v/20240806000510550"/>
-        <updated>2024-08-05T15:20:56.112Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
