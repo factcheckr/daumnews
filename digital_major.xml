@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-05T09:22:26.961Z</updated>
+    <updated>2024-08-05T10:22:33.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[사용기] 광화문 광장에 물고기가?…`갤럭시Z폴드6` AI 기능 써보니 "재밌네"]]></title>
+        <title type="html"><![CDATA[한컴이노스트림, 세종사이버대와 'BI' 협업]]></title>
+        <id>https://v.daum.net/v/20240805164407186</id>
+        <link href="https://v.daum.net/v/20240805164407186"/>
+        <updated>2024-08-05T10:21:51.659Z</updated>
+        <content type="html"><![CDATA[비즈워치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사용기] 낙서했더니… AI 작품이 마법같이 `뿅`]]></title>
         <id>https://v.daum.net/v/20240805164413190</id>
         <link href="https://v.daum.net/v/20240805164413190"/>
         <updated>2024-08-05T09:21:51.450Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240805155315943"/>
         <updated>2024-08-05T08:26:22.333Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스줌인]생성형 AI 發, 국내 대기업 클라우드 시장 재편되나]]></title>
-        <id>https://v.daum.net/v/20240805154705704</id>
-        <link href="https://v.daum.net/v/20240805154705704"/>
-        <updated>2024-08-05T08:26:22.335Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
