@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-06T13:24:34.095Z</updated>
+    <updated>2024-08-06T14:20:17.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[구글 검색독점 판결] `검색제왕 휘청` 美법원, 사업확장 제동… 수십조 손실 전망]]></title>
+        <id>https://v.daum.net/v/20240806191223813</id>
+        <link href="https://v.daum.net/v/20240806191223813"/>
+        <updated>2024-08-06T14:19:40.340Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기획] 구글 독점 판결, `검색천하` 무너지나]]></title>
         <id>https://v.daum.net/v/20240806191222812</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240806172802674"/>
         <updated>2024-08-06T10:22:29.974Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개보위, ‘자율주행차 촬영 내 얼굴’ 활용 거부권 마련]]></title>
-        <id>https://v.daum.net/v/20240806174518268</id>
-        <link href="https://v.daum.net/v/20240806174518268"/>
-        <updated>2024-08-06T10:22:29.975Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

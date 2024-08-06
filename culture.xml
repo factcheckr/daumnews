@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-08-06T13:24:34.099Z</updated>
+    <updated>2024-08-06T14:20:17.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['안녕, 할부지' 9월 4일 개봉 "푸바오 이별 전 3개월 여정"]]></title>
+        <id>https://v.daum.net/v/20240806224353262</id>
+        <link href="https://v.daum.net/v/20240806224353262"/>
+        <updated>2024-08-06T14:19:15.423Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["대환장 만장일치 질주" 내부 비판…'3인 체제' 방심위 괜찮나]]></title>
         <id>https://v.daum.net/v/20240806194810543</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240806190509654"/>
         <updated>2024-08-06T11:17:41.679Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑받는 세계 도시 속에서 찾아낸 도시 생존 해법]]></title>
-        <id>https://v.daum.net/v/20240806183655894</id>
-        <link href="https://v.daum.net/v/20240806183655894"/>
-        <updated>2024-08-06T10:22:04.168Z</updated>
-        <content type="html"><![CDATA[대전일보]]></content>
     </entry>
 </feed>
