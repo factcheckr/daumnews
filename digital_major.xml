@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-06T02:39:55.877Z</updated>
+    <updated>2024-08-06T03:23:25.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세계 증시 폭락에 수십억 달러 자산 증발한 억만장자들]]></title>
+        <id>https://v.daum.net/v/20240806103500837</id>
+        <link href="https://v.daum.net/v/20240806103500837"/>
+        <updated>2024-08-06T03:22:58.867Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더 얇아지는 아이폰 슬림, 왜 나올까]]></title>
         <id>https://v.daum.net/v/20240806102128193</id>
@@ -41,20 +48,6 @@
         <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최태원 SK 회장, 노소영과 이혼소송 상고이유서 제출]]></title>
-        <id>https://v.daum.net/v/20240806091915370</id>
-        <link href="https://v.daum.net/v/20240806091915370"/>
-        <updated>2024-08-06T01:27:02.224Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["기기 성능 저하 최소화"…삼성전자, 가장 얇은 저전력 D램 양산]]></title>
-        <id>https://v.daum.net/v/20240806092906769</id>
-        <link href="https://v.daum.net/v/20240806092906769"/>
-        <updated>2024-08-06T01:27:02.228Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[디지털 기기·데이터센터·챗GPT 동시 이용 가능한 애플 ‘하이브리드 AI’]]></title>
         <id>https://v.daum.net/v/20240806090117708</id>
         <link href="https://v.daum.net/v/20240806090117708"/>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20240806030013507"/>
         <updated>2024-08-06T01:27:02.233Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사이언스카페] 25만년 전 무덤 만든 인류, 넷플릭스 상상이었을까]]></title>
+        <id>https://v.daum.net/v/20240806081717353</id>
+        <link href="https://v.daum.net/v/20240806081717353"/>
+        <updated>2024-08-06T03:22:58.882Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
