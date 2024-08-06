@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-08-06T19:17:30.992Z</updated>
+    <updated>2024-08-06T20:19:58.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5898259/WXzN57XDpO"/>
         <updated>2024-08-06T17:20:41.834Z</updated>
         <content type="html"><![CDATA[2024학년도 대학수학능력시험]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강서안 팔레스타인 마을 기습하는 이스라엘군]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032907/yWutSZhLU5</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032907/yWutSZhLU5"/>
+        <updated>2024-08-06T20:19:31.134Z</updated>
+        <content type="html"><![CDATA[팔레스타인은 지금]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[콘크리트 나무]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1476/WTVJX5loz7"/>
         <updated>2024-08-06T07:20:32.707Z</updated>
         <content type="html"><![CDATA[미국은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원폭의 날' 日 기시다 총리]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1471/W3TTQMKG7O</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1471/W3TTQMKG7O"/>
-        <updated>2024-08-06T07:20:32.707Z</updated>
-        <content type="html"><![CDATA[세계의 정상들]]></content>
     </entry>
 </feed>
