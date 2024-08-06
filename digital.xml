@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-08-06T22:21:56.815Z</updated>
+    <updated>2024-08-06T23:21:30.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI 시대에 딱 맞는 'AI PC' 어떤 게 좋을까?]]></title>
+        <id>https://v.daum.net/v/20240807080047536</id>
+        <link href="https://v.daum.net/v/20240807080047536"/>
+        <updated>2024-08-06T23:20:46.412Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘행복 호르몬’ 도파민, 알츠하이머병도 치료한다]]></title>
         <id>https://v.daum.net/v/20240807030019298</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240807060051815"/>
         <updated>2024-08-06T21:19:46.433Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옥일진 우리은행 부행장 "디지털로 '고객 경험' 최적화…편의성·만족도 제고"[은행 DT 2.0]]]></title>
-        <id>https://v.daum.net/v/20240807060012737</id>
-        <link href="https://v.daum.net/v/20240807060012737"/>
-        <updated>2024-08-06T21:19:46.435Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
