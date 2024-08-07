@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-07T17:24:27.741Z</updated>
+    <updated>2024-08-07T18:28:01.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240808000541546"/>
         <updated>2024-08-07T15:22:15.674Z</updated>
         <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버서 '사장님' 검색하니 노출 여성 사진 수두룩…왜?]]></title>
+        <id>https://v.daum.net/v/20240807220101986</id>
+        <link href="https://v.daum.net/v/20240807220101986"/>
+        <updated>2024-08-07T18:27:33.215Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전윤종 산업기술기획평가원장 "AI 자율제조로 국내 산업 혁신"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240807170908418"/>
         <updated>2024-08-07T11:17:46.844Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성 'HBM3E 8단' 성능테스트 통과 소문에 '들썩'…"단 수 의미는"]]></title>
-        <id>https://v.daum.net/v/20240807174612942</id>
-        <link href="https://v.daum.net/v/20240807174612942"/>
-        <updated>2024-08-07T10:21:44.252Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
