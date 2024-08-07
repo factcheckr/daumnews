@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-08-07T13:24:59.328Z</updated>
+    <updated>2024-08-07T14:20:31.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유누스 프랑스 경찰 경호 받으며 귀국길]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029622/u2QqHQBWpl</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029622/u2QqHQBWpl"/>
+        <updated>2024-08-07T14:20:07.140Z</updated>
+        <content type="html"><![CDATA[프랑스는 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아득한 가을을 기다리며[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/8SU1zNMUvw</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1075022/Gftl6NMUnN"/>
         <updated>2024-08-07T08:25:54.468Z</updated>
         <content type="html"><![CDATA[경찰 제공 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우산도 소용없는 폭우]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/2447/9R5MS0WAqa</id>
-        <link href="https://gallery.v.daum.net/p/viewer/2447/9R5MS0WAqa"/>
-        <updated>2024-08-07T08:25:54.468Z</updated>
-        <content type="html"><![CDATA[인도는 지금]]></content>
     </entry>
 </feed>
