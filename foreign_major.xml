@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-08-07T14:20:31.992Z</updated>
+    <updated>2024-08-07T15:22:45.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240807230300760"/>
         <updated>2024-08-07T14:19:26.641Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["운전하다 앞 트렁크 열릴라"…테슬라 中 168만대 리콜]]></title>
+        <id>https://v.daum.net/v/20240807221639238</id>
+        <link href="https://v.daum.net/v/20240807221639238"/>
+        <updated>2024-08-07T15:21:44.360Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쇼피파이, 소비 지출 우려속에도 2분기 실적 호조]]></title>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20240807205007889</id>
         <link href="https://v.daum.net/v/20240807205007889"/>
         <updated>2024-08-07T13:24:02.629Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노보 비만치료제 위고비 판매 기대 이하]]></title>
-        <id>https://v.daum.net/v/20240807202702394</id>
-        <link href="https://v.daum.net/v/20240807202702394"/>
-        <updated>2024-08-07T13:24:02.631Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
