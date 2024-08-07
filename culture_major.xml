@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-08-07T15:22:45.619Z</updated>
+    <updated>2024-08-07T16:27:03.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내일날씨, 중부지방 흐리고 가끔 비... 낮 기온 31~36도 ‘폭염’]]></title>
+        <id>https://v.daum.net/v/20240807163702711</id>
+        <link href="https://v.daum.net/v/20240807163702711"/>
+        <updated>2024-08-07T16:26:12.376Z</updated>
+        <content type="html"><![CDATA[bnt뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["과채소, 하루 '이만큼' 더 먹으면"...혈압·심장에 놀라운 변화가]]></title>
         <id>https://v.daum.net/v/20240807210409101</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240807201211115"/>
         <updated>2024-08-07T13:24:17.003Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람 잡는 더위…증상 약해도 지속되면 응급실 가야]]></title>
-        <id>https://v.daum.net/v/20240807145809278</id>
-        <link href="https://v.daum.net/v/20240807145809278"/>
-        <updated>2024-08-07T13:24:17.007Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>

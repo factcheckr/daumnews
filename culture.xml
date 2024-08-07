@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-08-07T15:22:45.592Z</updated>
+    <updated>2024-08-07T16:27:03.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘 날씨] 전국 곳곳 '천둥·번개' 동반 비…덥고 습해 기승, 말라리아 증상은?]]></title>
+        <id>https://v.daum.net/v/20240808003309898</id>
+        <link href="https://v.daum.net/v/20240808003309898"/>
+        <updated>2024-08-07T16:26:03.664Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘날씨, 시간당 30mm 내외 강한 소나기... 짙은 안개 ‘유의’]]></title>
         <id>https://v.daum.net/v/20240808000203428</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240807222427304"/>
         <updated>2024-08-07T14:19:35.059Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내일날씨, 중부지방 흐리고 가끔 비... 낮 기온 31~36도 ‘폭염’]]></title>
-        <id>https://v.daum.net/v/20240807163702711</id>
-        <link href="https://v.daum.net/v/20240807163702711"/>
-        <updated>2024-08-07T13:24:10.548Z</updated>
-        <content type="html"><![CDATA[bnt뉴스]]></content>
     </entry>
 </feed>
