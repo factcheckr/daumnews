@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-08-08T22:20:12.202Z</updated>
+    <updated>2024-08-08T23:21:42.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[올림픽도 과학이다] 2조원 투자에도 대장균 득실 센강…실시간 검사 못한 탓]]></title>
+        <id>https://v.daum.net/v/20240809060159512</id>
+        <link href="https://v.daum.net/v/20240809060159512"/>
+        <updated>2024-08-08T23:20:58.186Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반도체 보도의 수준... 대통령님이 믿을까 걱정됩니다 [대통령을 위한 반도체 특별과외]]]></title>
         <id>https://v.daum.net/v/20240809070301564</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240809060054431"/>
         <updated>2024-08-08T21:20:04.953Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['병원·약국 처방전 중계' 이통사…대법 "의료법 위반 아냐"]]></title>
-        <id>https://v.daum.net/v/20240809060031396</id>
-        <link href="https://v.daum.net/v/20240809060031396"/>
-        <updated>2024-08-08T21:20:04.954Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
