@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-08-08T16:26:46.202Z</updated>
+    <updated>2024-08-08T17:21:32.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘 날씨] 남부 비, 주말까지 이어져…5호 태풍 '마리아', 현재 위치는?]]></title>
+        <id>https://v.daum.net/v/20240809012443979</id>
+        <link href="https://v.daum.net/v/20240809012443979"/>
+        <updated>2024-08-08T17:20:27.764Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[WE+] ‘밤낮 빵 터지는 즐거움’  믿고 가는 강릉 도심여행]]></title>
         <id>https://v.daum.net/v/20240809000506176</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240808220602662"/>
         <updated>2024-08-08T13:23:07.678Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘재난 영화’로 돌아온 ‘미나리’ 정이삭…“블록버스터는 내 꿈”]]></title>
-        <id>https://v.daum.net/v/20240808214734370</id>
-        <link href="https://v.daum.net/v/20240808214734370"/>
-        <updated>2024-08-08T13:23:07.679Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

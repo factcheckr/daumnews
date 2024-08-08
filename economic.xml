@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-08-08T16:26:46.276Z</updated>
+    <updated>2024-08-08T17:21:32.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카카오의 위기 돌파… 카톡·AI 남기고 비핵심 사업 정리한다]]></title>
+        <id>https://v.daum.net/v/20240809021411197</id>
+        <link href="https://v.daum.net/v/20240809021411197"/>
+        <updated>2024-08-08T17:19:51.064Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전기차에 어디 제품 썼나...'배터리 실명제' 검토]]></title>
+        <id>https://v.daum.net/v/20240809012225962</id>
+        <link href="https://v.daum.net/v/20240809012225962"/>
+        <updated>2024-08-08T17:19:51.065Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["남양주~잠실 27분 만에" 모레부터 별내선 운행 시작]]></title>
         <id>https://v.daum.net/v/20240809011510923</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240809004406734"/>
         <updated>2024-08-08T16:25:14.360Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“두산 지배구조 개편안, 부족하면 횟수 제한없이 정정요구”]]></title>
-        <id>https://v.daum.net/v/20240809003600650</id>
-        <link href="https://v.daum.net/v/20240809003600650"/>
-        <updated>2024-08-08T16:25:14.362Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“금리인하 시기, 韓銀이 놓쳤다”]]></title>
-        <id>https://v.daum.net/v/20240809003605653</id>
-        <link href="https://v.daum.net/v/20240809003605653"/>
-        <updated>2024-08-08T16:25:14.363Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
