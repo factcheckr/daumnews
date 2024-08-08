@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-08-08T18:29:27.349Z</updated>
+    <updated>2024-08-08T19:17:33.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잇단 화재에 ‘전기차 포비아’… “화재 보상책 있나” 계약 취소도]]></title>
+        <id>https://v.daum.net/v/20240809030023418</id>
+        <link href="https://v.daum.net/v/20240809030023418"/>
+        <updated>2024-08-08T19:15:15.424Z</updated>
+        <content type="html"><![CDATA[경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]대북정찰 핵심자산 ‘백두-금강’ 기술 털렸다]]></title>
         <id>https://v.daum.net/v/20240809030154474</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20240808232105526"/>
         <updated>2024-08-08T15:20:49.930Z</updated>
         <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“미국인들 기아·현대차 많이 사더니”…5년전 출시한 ‘두 모델’ 50만대씩 팔렸다]]></title>
-        <id>https://v.daum.net/v/20240808230605339</id>
-        <link href="https://v.daum.net/v/20240808230605339"/>
-        <updated>2024-08-08T15:20:49.930Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
     </entry>
 </feed>
