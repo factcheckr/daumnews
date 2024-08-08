@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-08-08T12:39:02.135Z</updated>
+    <updated>2024-08-08T13:24:08.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[규슈 앞바다 7.1 강진…"일주일은 여진, 대지진 올 수도"]]></title>
+        <id>https://v.daum.net/v/20240808202107928</id>
+        <link href="https://v.daum.net/v/20240808202107928"/>
+        <updated>2024-08-08T13:22:58.324Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100년 만의 '거대 지진' 징조인가···'규모 7.1' 미야자키 지진에 日기상청 이례적 발표]]></title>
+        <id>https://v.daum.net/v/20240808193438992</id>
+        <link href="https://v.daum.net/v/20240808193438992"/>
+        <updated>2024-08-08T13:22:58.327Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['평범함' 월즈 vs '엘리트' 밴스…백인 흙수저 출신 맞대결]]></title>
         <id>https://v.daum.net/v/20240808201513834</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240808185727143"/>
         <updated>2024-08-08T11:19:08.476Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파키스탄, 몬순 장마 6주 동안 154명 사망…9월까지 이어져]]></title>
-        <id>https://v.daum.net/v/20240808185722140</id>
-        <link href="https://v.daum.net/v/20240808185722140"/>
-        <updated>2024-08-08T11:19:08.476Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘노벨평화상 경제학자’ 무함마드 유누스 방글라데시 임시정부 수반 귀국 후 취임]]></title>
-        <id>https://v.daum.net/v/20240808184102814</id>
-        <link href="https://v.daum.net/v/20240808184102814"/>
-        <updated>2024-08-08T11:19:08.476Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
