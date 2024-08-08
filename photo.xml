@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-08-08T21:20:48.583Z</updated>
+    <updated>2024-08-08T22:20:12.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[맑은 눈의 비글이 찾는 것은?]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1270177/XMH3BlkPum</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1270177/XMH3BlkPum"/>
+        <updated>2024-08-08T22:19:48.851Z</updated>
+        <content type="html"><![CDATA[C컷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유누스, 방글라데시 과도정부 수반 취임]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5849928/1bemwtvapu</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5840500/P7RLthc6Sb"/>
         <updated>2024-08-08T09:22:22.048Z</updated>
         <content type="html"><![CDATA[포토뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한마음으로 발 모으니 두둥실]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5750948/x7BPK5lonW</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5750948/x7BPK5lonW"/>
-        <updated>2024-08-08T09:22:22.048Z</updated>
-        <content type="html"><![CDATA[포토에세이]]></content>
     </entry>
 </feed>
