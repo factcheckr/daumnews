@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-08-09T13:24:00.846Z</updated>
+    <updated>2024-08-09T14:20:14.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대구 전기차 충전기 27% 지하에 설치]]></title>
+        <id>https://v.daum.net/v/20240809220638114</id>
+        <link href="https://v.daum.net/v/20240809220638114"/>
+        <updated>2024-08-09T14:19:06.734Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 경기 침체 불안 완화세에도…한은 ‘금리 딜레마’ 계속]]></title>
         <id>https://v.daum.net/v/20240809220133023</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240809210301935"/>
         <updated>2024-08-09T13:22:32.439Z</updated>
         <content type="html"><![CDATA[매경이코노미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산지 쌀값 17만원대로 떨어져…정부 “추가 대책 강구”]]></title>
-        <id>https://v.daum.net/v/20240809210140916</id>
-        <link href="https://v.daum.net/v/20240809210140916"/>
-        <updated>2024-08-09T13:22:32.441Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>

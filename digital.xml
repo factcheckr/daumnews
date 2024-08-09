@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-08-09T13:24:00.907Z</updated>
+    <updated>2024-08-09T14:20:14.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘IT 인재 역량 평가 및 관리’ A부터 Z까지 다루는 ‘코드프레소’ [과기대X글로벌]]]></title>
+        <id>https://v.daum.net/v/20240809173318954</id>
+        <link href="https://v.daum.net/v/20240809173318954"/>
+        <updated>2024-08-09T14:19:40.108Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로봇이 신호등 보고 엘리베이터 타고…로봇 배송 시대 '성큼']]></title>
         <id>https://v.daum.net/v/20240809200420849</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240809180653798"/>
         <updated>2024-08-09T09:23:20.344Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[컨콜] KT "MS와 소버린 AI 개발 중…3분기 세부 내용 발표"]]></title>
-        <id>https://v.daum.net/v/20240809161213794</id>
-        <link href="https://v.daum.net/v/20240809161213794"/>
-        <updated>2024-08-09T08:26:07.812Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>
