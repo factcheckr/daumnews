@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2024-08-10T17:18:00.323Z</updated>
+    <updated>2024-08-10T18:26:26.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[벨라루스 대통령 "우크라 국경 강화…영공에 무인기 침범"]]></title>
+        <id>https://v.daum.net/v/20240811024020744</id>
+        <link href="https://v.daum.net/v/20240811024020744"/>
+        <updated>2024-08-10T18:25:07.003Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['165억짜리' 메시 초호화 별장에 붉은색 '페인트 테러'···대체 무슨 일?]]></title>
         <id>https://v.daum.net/v/20240811020020506</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240811005202992"/>
         <updated>2024-08-10T16:25:15.374Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘너만 믿는다, 날아라’… 中 드론 띄워 인공강우 실험]]></title>
-        <id>https://v.daum.net/v/20240811000613738</id>
-        <link href="https://v.daum.net/v/20240811000613738"/>
-        <updated>2024-08-10T15:21:26.923Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>

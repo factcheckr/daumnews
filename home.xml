@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-08-10T17:18:00.300Z</updated>
+    <updated>2024-08-10T18:26:26.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[과학한스푼] 전기차 배터리 '열 폭주' 원인 찾았다...음극 코팅으로 억제 가능]]></title>
+        <id>https://v.daum.net/v/20240811023114699</id>
+        <link href="https://v.daum.net/v/20240811023114699"/>
+        <updated>2024-08-10T18:24:04.122Z</updated>
+        <content type="html"><![CDATA[IT/과학]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글 딥마인드 출신 창업 ‘리플렉션AI’ 1억달러 가치로 세콰이어 투자]]></title>
         <id>https://v.daum.net/v/20240811012700249</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20240810223001065"/>
         <updated>2024-08-10T14:16:43.843Z</updated>
         <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["14억에 분양 받았는데 못 산다니…" 계약자들 분통에 결국]]></title>
-        <id>https://v.daum.net/v/20240810221802947</id>
-        <link href="https://v.daum.net/v/20240810221802947"/>
-        <updated>2024-08-10T13:19:53.229Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
     </entry>
 </feed>
