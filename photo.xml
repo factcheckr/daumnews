@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-08-10T20:23:49.465Z</updated>
+    <updated>2024-08-10T21:20:36.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[평양부터 불지핀 '수해 지원' 열기…'1호 관심사업' [노동신문 사진]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5611950/5COKOPJq76</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5611950/5COKOPJq76"/>
+        <updated>2024-08-10T21:20:10.449Z</updated>
+        <content type="html"><![CDATA[노동신문 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뱅크시 6번째 동물 연작 …기지개 켜는 고양이]]></title>
         <id>https://gallery.v.daum.net/p/viewer/2329/7XxntwhL3s</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615616/xjxdr5loFU"/>
         <updated>2024-08-09T08:26:20.928Z</updated>
         <content type="html"><![CDATA[뉴스1 PICK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기특수대응단, 청소년 대상 '소방항공학교']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/386/fo17yq5r22</id>
-        <link href="https://gallery.v.daum.net/p/viewer/386/fo17yq5r22"/>
-        <updated>2024-08-09T08:26:20.933Z</updated>
-        <content type="html"><![CDATA[소방본부 제공 포토]]></content>
     </entry>
 </feed>
