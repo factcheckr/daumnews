@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-08-10T09:21:47.791Z</updated>
+    <updated>2024-08-10T10:24:16.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["美 Z세대, AI 기능이 스마트폰 구매 최우선 요인 아냐"]]></title>
+        <id>https://v.daum.net/v/20240810182205938</id>
+        <link href="https://v.daum.net/v/20240810182205938"/>
+        <updated>2024-08-10T10:23:33.048Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남도 여행은 'OK 전남관광' 챗봇에 물어봐요]]></title>
         <id>https://v.daum.net/v/20240810165002943</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240810151704323"/>
         <updated>2024-08-10T06:27:05.153Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[따뜻한 물과 차가운 물, ‘소리’로 구분할 수 있대요!]]></title>
-        <id>https://v.daum.net/v/20240810150029191</id>
-        <link href="https://v.daum.net/v/20240810150029191"/>
-        <updated>2024-08-10T06:27:05.155Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
