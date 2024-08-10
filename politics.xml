@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2024-08-10T12:37:05.491Z</updated>
+    <updated>2024-08-10T13:22:16.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민주 경기도당위원장에 김승원...“노무현 말씀처럼 의리 지킬 것”]]></title>
+        <id>https://v.daum.net/v/20240810214505639</id>
+        <link href="https://v.daum.net/v/20240810214505639"/>
+        <updated>2024-08-10T13:20:18.013Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북한 또 쓰레기 풍선…“경기 북부 이동 가능성”]]></title>
         <id>https://v.daum.net/v/20240810212851424</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240810210507136"/>
         <updated>2024-08-10T12:35:12.582Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국의 핵선제 불사용 제안, 거부만이 능사인가?]]></title>
-        <id>https://v.daum.net/v/20240810210056082</id>
-        <link href="https://v.daum.net/v/20240810210056082"/>
-        <updated>2024-08-10T12:35:12.583Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
     </entry>
 </feed>
