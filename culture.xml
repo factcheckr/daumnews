@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-08-11T16:24:33.002Z</updated>
+    <updated>2024-08-11T17:18:45.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리 헬스] 독감·코로나19·냉방병 닮은꼴 질환 구별하는 법]]></title>
+        <id>https://v.daum.net/v/20240812010646156</id>
+        <link href="https://v.daum.net/v/20240812010646156"/>
+        <updated>2024-08-11T17:17:45.337Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 전국 곳곳에 소나기 소식‥서울 아침 최저 28도]]></title>
         <id>https://v.daum.net/v/20240812010713157</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240812000024700"/>
         <updated>2024-08-11T15:24:01.125Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘방시혁과 美서 포착’ 女BJ 입 열었다…“이 정도면 성공”]]></title>
-        <id>https://v.daum.net/v/20240811231101449</id>
-        <link href="https://v.daum.net/v/20240811231101449"/>
-        <updated>2024-08-11T14:19:59.983Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
