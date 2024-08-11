@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-11T05:20:11.014Z</updated>
+    <updated>2024-08-11T06:29:19.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“제약업계, 고효능·저독성 유망 기술 ‘TPD’ 주목”]]></title>
+        <id>https://v.daum.net/v/20240811120027009</id>
+        <link href="https://v.daum.net/v/20240811120027009"/>
+        <updated>2024-08-11T06:28:49.232Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리니지M, 구글 매출 1위 탈환…주간 모바일게임 순위는]]></title>
         <id>https://v.daum.net/v/20240811113843739</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240811091016696"/>
         <updated>2024-08-11T02:42:59.647Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[르포]'똑똑한 HBM' 만드는 PIM…카이스트 '이곳'에서 나온다]]></title>
-        <id>https://v.daum.net/v/20240811090030509</id>
-        <link href="https://v.daum.net/v/20240811090030509"/>
-        <updated>2024-08-11T02:42:59.648Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
