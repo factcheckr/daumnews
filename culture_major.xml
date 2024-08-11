@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-08-11T03:23:21.641Z</updated>
+    <updated>2024-08-11T04:24:57.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[죽다 살아난 ‘덕수궁 200살 나무’…사라진 궁궐의 기억 전한다]]></title>
+        <id>https://v.daum.net/v/20240811100502420</id>
+        <link href="https://v.daum.net/v/20240811100502420"/>
+        <updated>2024-08-11T04:24:10.251Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[승리 '버닝썬' 해외행사 물의…"아직도 정신 못 차렸다"]]></title>
         <id>https://v.daum.net/v/20240811104502967</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240811090456623"/>
         <updated>2024-08-11T01:36:33.777Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전장의 우크라 건물 잔해, 피난처 지을 벽돌로 변신]]></title>
-        <id>https://v.daum.net/v/20240811090202581</id>
-        <link href="https://v.daum.net/v/20240811090202581"/>
-        <updated>2024-08-11T01:36:33.778Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>

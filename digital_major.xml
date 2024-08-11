@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-11T03:23:21.603Z</updated>
+    <updated>2024-08-11T04:24:57.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[페르세우스 유성우, 10~12일 절정]]></title>
+        <id>https://v.daum.net/v/20240811105412105</id>
+        <link href="https://v.daum.net/v/20240811105412105"/>
+        <updated>2024-08-11T04:24:27.841Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔비디아발 GPU 지연에 부각되는 `GPU 최적화 솔루션`?]]></title>
+        <id>https://v.daum.net/v/20240811090713655</id>
+        <link href="https://v.daum.net/v/20240811090713655"/>
+        <updated>2024-08-11T04:24:27.841Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피차이 "그가 없는 세상 상상 힘들어"...`유튜브 주역` 수전 워치츠키 별세]]></title>
         <id>https://v.daum.net/v/20240811100812469</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240811090033514"/>
         <updated>2024-08-11T01:36:49.036Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표지로 읽는 과학] 백신 불평등, 사망 늘려…"과학계 식민주의 타파해야"]]></title>
-        <id>https://v.daum.net/v/20240811080012864</id>
-        <link href="https://v.daum.net/v/20240811080012864"/>
-        <updated>2024-08-11T01:36:49.038Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘나가던 '유튜브 AI 요약앱' 종료한 이유…"B2B로 더 큰 가치"]]></title>
-        <id>https://v.daum.net/v/20240811090009482</id>
-        <link href="https://v.daum.net/v/20240811090009482"/>
-        <updated>2024-08-11T01:36:49.040Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
