@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-08-11T10:21:09.515Z</updated>
+    <updated>2024-08-11T11:17:19.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘폐쇄적 생태계는 독(毒)’이라는 저커버그 [윤민혁의 실리콘밸리View]]]></title>
+        <id>https://v.daum.net/v/20240811182639436</id>
+        <link href="https://v.daum.net/v/20240811182639436"/>
+        <updated>2024-08-11T11:16:37.158Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중고차값 하락에 신차 계약취소까지… 업계 대응마련 고심]]></title>
         <id>https://v.daum.net/v/20240811164024649</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[기획] 페북 횡포에 이용자 인내심 바닥났다]]></title>
+        <title type="html"><![CDATA["페북 횡포 더는 못 참아"...짐싸는 이용자들]]></title>
         <id>https://v.daum.net/v/20240811185037930</id>
         <link href="https://v.daum.net/v/20240811185037930"/>
         <updated>2024-08-11T10:20:28.720Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240811183300609"/>
         <updated>2024-08-11T10:20:28.724Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["유튜브도 예외없다"… 망 사용료 공정화 입법 논의 재개]]></title>
-        <id>https://v.daum.net/v/20240811182545420</id>
-        <link href="https://v.daum.net/v/20240811182545420"/>
-        <updated>2024-08-11T10:20:28.725Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
