@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-08-12T20:22:01.524Z</updated>
+    <updated>2024-08-12T21:22:06.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/321090/XJ2nNUKGlm"/>
         <updated>2024-08-12T20:21:38.227Z</updated>
         <content type="html"><![CDATA[정부 부처 제공 포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그리스 산불, 하루에 최소 40건 발생]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1655174/pWTwHij4mt</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1655174/pWTwHij4mt"/>
+        <updated>2024-08-12T21:21:39.540Z</updated>
+        <content type="html"><![CDATA[그리스는 지금]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뱅크시 8번째 연작 공개…자동차 올라타는 코뿔소]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5610796/WyoaEGFOpn"/>
         <updated>2024-08-12T08:27:40.795Z</updated>
         <content type="html"><![CDATA[모멘트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강화도 정수사, '제1회 함허동천 작은음악회' 개최]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1173214/XVCu8jrRz6</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1173214/XVCu8jrRz6"/>
-        <updated>2024-08-12T08:27:40.799Z</updated>
-        <content type="html"><![CDATA[헤럴드포토]]></content>
     </entry>
 </feed>
