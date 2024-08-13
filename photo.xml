@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-08-13T11:19:29.219Z</updated>
+    <updated>2024-08-13T12:40:40.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“대통령 거부권 행사 반대한다”[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/7sNtYsvayB</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/7sNtYsvayB"/>
+        <updated>2024-08-13T12:40:12.259Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비 갠 아침의 수묵화]]></title>
         <id>https://gallery.v.daum.net/p/viewer/379/7WKX7X0CPt</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/386/Bg3RCvXDU7"/>
         <updated>2024-08-13T07:21:02.141Z</updated>
         <content type="html"><![CDATA[소방본부 제공 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뎅기열 옮기는 모기 퇴치 위 한 연막소독 실시]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1106239/bsNfDsvaUI</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1106239/bsNfDsvaUI"/>
-        <updated>2024-08-13T07:21:02.142Z</updated>
-        <content type="html"><![CDATA[인도네시아는 지금]]></content>
     </entry>
 </feed>
