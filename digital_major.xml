@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-13T12:40:39.182Z</updated>
+    <updated>2024-08-13T13:24:36.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["AI칩만 500억 베팅"…광주에 대기업 줄선다]]></title>
+        <id>https://v.daum.net/v/20240813185101517</id>
+        <link href="https://v.daum.net/v/20240813185101517"/>
+        <updated>2024-08-13T13:24:07.769Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사칭광고 방치 페이스북, 이번엔 네이버 링크 삭제 논란]]></title>
         <id>https://v.daum.net/v/20240813164219482</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240813164205475"/>
         <updated>2024-08-13T09:23:43.223Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오픈인프라 아시아 서밋 2024 및 OCP APAC 서밋 2024, 오는 9월 3일-4일 양일간 수원컨벤션센터에서 개최]]></title>
-        <id>https://v.daum.net/v/20240813165410865</id>
-        <link href="https://v.daum.net/v/20240813165410865"/>
-        <updated>2024-08-13T09:23:43.240Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
