@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-13T13:24:36.700Z</updated>
+    <updated>2024-08-13T14:20:25.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI 시대 ‘디스플레이 기술 경쟁’ 시동 건 삼성·LG]]></title>
+        <id>https://v.daum.net/v/20240813183402137</id>
+        <link href="https://v.daum.net/v/20240813183402137"/>
+        <updated>2024-08-13T14:19:49.099Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["AI칩만 500억 베팅"…광주에 대기업 줄선다]]></title>
         <id>https://v.daum.net/v/20240813185101517</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240813171136522"/>
         <updated>2024-08-13T09:23:43.221Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리뷰] 퀄컴 스냅드래곤X엘리트 기반 AI PC, MS 서피스 프로 11세대]]></title>
-        <id>https://v.daum.net/v/20240813164205475</id>
-        <link href="https://v.daum.net/v/20240813164205475"/>
-        <updated>2024-08-13T09:23:43.223Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
