@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-08-13T16:25:57.492Z</updated>
+    <updated>2024-08-13T17:21:01.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박명수 "삐약이 장하다"…'무도'팬들 깜짝 놀란 신유빈 근황]]></title>
+        <id>https://v.daum.net/v/20240814013711843</id>
+        <link href="https://v.daum.net/v/20240814013711843"/>
+        <updated>2024-08-13T17:19:46.968Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 전국 무더위‥서울 낮 최고 35도]]></title>
         <id>https://v.daum.net/v/20240814005105701</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240813220755529"/>
         <updated>2024-08-13T15:21:40.573Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사우나로 체온 올리면...우울증이 쑥~내려가네]]></title>
-        <id>https://v.daum.net/v/20240813223107700</id>
-        <link href="https://v.daum.net/v/20240813223107700"/>
-        <updated>2024-08-13T14:19:19.187Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>

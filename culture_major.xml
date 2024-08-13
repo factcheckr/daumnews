@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-08-13T16:25:57.483Z</updated>
+    <updated>2024-08-13T17:21:01.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사우나로 체온 올리면...우울증이 쑥~내려가네]]></title>
+        <id>https://v.daum.net/v/20240813223107700</id>
+        <link href="https://v.daum.net/v/20240813223107700"/>
+        <updated>2024-08-13T17:19:57.930Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[절대 먹지 말아야 할 야식 7가지]]></title>
         <id>https://v.daum.net/v/20240813155902544</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240813193029225"/>
         <updated>2024-08-13T12:39:47.595Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[신간]“공간을 뛰어넘어 공감으로”…‘부산, 사람’ 시·사진집]]></title>
-        <id>https://v.daum.net/v/20240813191200911</id>
-        <link href="https://v.daum.net/v/20240813191200911"/>
-        <updated>2024-08-13T12:39:47.597Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
