@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-08-13T18:29:24.019Z</updated>
+    <updated>2024-08-13T19:20:04.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘국군의 날’ 2년 연속 시가행진 한다]]></title>
+        <id>https://v.daum.net/v/20240814034804237</id>
+        <link href="https://v.daum.net/v/20240814034804237"/>
+        <updated>2024-08-13T19:17:53.699Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“국토부, HUG ‘전세보증보험 요건 강화’ 요청 16차례 묵살”]]></title>
         <id>https://v.daum.net/v/20240814030138080</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240814004856692"/>
         <updated>2024-08-13T16:24:08.819Z</updated>
         <content type="html"><![CDATA[경기일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“너 뉴라이트지?” 광복회의 역사관 검증]]></title>
-        <id>https://v.daum.net/v/20240814005543717</id>
-        <link href="https://v.daum.net/v/20240814005543717"/>
-        <updated>2024-08-13T16:24:08.819Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
