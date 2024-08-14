@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-08-14T15:26:15.848Z</updated>
+    <updated>2024-08-14T16:32:40.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 뉴욕증시, 혼조 출발… 7월 CPI 영향 적어]]></title>
+        <id>https://v.daum.net/v/20240815002746027</id>
+        <link href="https://v.daum.net/v/20240815002746027"/>
+        <updated>2024-08-14T16:31:02.682Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 CPI 3년4개월 만에 2%대 진입… 내달 금리인하 기대 커져]]></title>
         <id>https://v.daum.net/v/20240815001611963</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240815000018758"/>
         <updated>2024-08-14T15:24:51.456Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[취업자 2개월 연속 감소…고용률도 2개월 연속 하락]]></title>
-        <id>https://v.daum.net/v/20240814233058586</id>
-        <link href="https://v.daum.net/v/20240814233058586"/>
-        <updated>2024-08-14T15:24:51.458Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

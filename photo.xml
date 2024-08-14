@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-08-14T15:26:15.887Z</updated>
+    <updated>2024-08-14T16:32:40.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘커다란’ 포효]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/t1bgt5UlmD</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/t1bgt5UlmD"/>
+        <updated>2024-08-14T16:32:13.012Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전기차 화재 청라 아파트 앞단지에서도 불…주민들 '아찔']]></title>
         <id>https://gallery.v.daum.net/p/viewer/386/0HjdeMLK02</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1407/V21tvhYcuD"/>
         <updated>2024-08-14T08:26:02.421Z</updated>
         <content type="html"><![CDATA[일본은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용산 국방부 민원실서 찍은 마지막 사진 [옵스큐라]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/182540/yuMshOTN4R</id>
-        <link href="https://gallery.v.daum.net/p/viewer/182540/yuMshOTN4R"/>
-        <updated>2024-08-14T08:26:02.422Z</updated>
-        <content type="html"><![CDATA[옵스큐라]]></content>
     </entry>
 </feed>
