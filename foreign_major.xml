@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-08-14T18:28:01.879Z</updated>
+    <updated>2024-08-14T19:19:54.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우크라軍 사복입고 러 속이며 진격 “7개월간 뺏긴 땅 7일새 회복”]]></title>
+        <id>https://v.daum.net/v/20240815014218366</id>
+        <link href="https://v.daum.net/v/20240815014218366"/>
+        <updated>2024-08-14T19:18:56.764Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시아, 우크라 지상전 성과에 "적 피해 막심…지역 안정화 중"]]></title>
+        <id>https://v.daum.net/v/20240815024945490</id>
+        <link href="https://v.daum.net/v/20240815024945490"/>
+        <updated>2024-08-14T19:18:56.765Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검색독점 역풍 맞은 구글… “크롬-안드로이드 처분 가능성”]]></title>
         <id>https://v.daum.net/v/20240815014055327</id>
@@ -41,13 +55,6 @@
         <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우크라, 러 쿠르스크에 '완충지대' 조성…"민간인 어디로든 가도 돼"]]></title>
-        <id>https://v.daum.net/v/20240815005252169</id>
-        <link href="https://v.daum.net/v/20240815005252169"/>
-        <updated>2024-08-14T18:26:49.146Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[미 ‘금리 인하 기대감’ 폭발… 소비자물가 드디어 2%대]]></title>
         <id>https://v.daum.net/v/20240814215904834</id>
         <link href="https://v.daum.net/v/20240814215904834"/>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240815002600018"/>
         <updated>2024-08-14T16:31:29.298Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 뉴욕증시, 혼조 출발… 7월 CPI 영향 적어]]></title>
-        <id>https://v.daum.net/v/20240815002746027</id>
-        <link href="https://v.daum.net/v/20240815002746027"/>
-        <updated>2024-08-14T16:31:29.298Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>

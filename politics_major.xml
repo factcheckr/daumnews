@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-08-14T18:28:01.880Z</updated>
+    <updated>2024-08-14T19:19:54.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20240815014031312"/>
         <updated>2024-08-14T17:17:38.564Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하나된 그날… 두쪽 난 오늘]]></title>
+        <id>https://v.daum.net/v/20240815001244939</id>
+        <link href="https://v.daum.net/v/20240815001244939"/>
+        <updated>2024-08-14T19:18:26.360Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령, ‘자유·북한 인권’ 담은 ‘통일 담론’ 발표할 듯]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240814225038350"/>
         <updated>2024-08-14T15:24:43.735Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우원식 국회의장 광복절 기념식 불참…"국민염려 행사 인정못해"]]></title>
-        <id>https://v.daum.net/v/20240814234316668</id>
-        <link href="https://v.daum.net/v/20240814234316668"/>
-        <updated>2024-08-14T15:24:43.738Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
