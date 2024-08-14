@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-14T16:32:40.593Z</updated>
+    <updated>2024-08-14T17:19:27.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글 반독점 철퇴, 검색 시장 '춘추전국시대' 올까?]]></title>
+        <id>https://v.daum.net/v/20240814201801241</id>
+        <link href="https://v.daum.net/v/20240814201801241"/>
+        <updated>2024-08-14T17:18:51.736Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보안유지-기술습득 사이 딜레마... 난감해진 미국인 우주청 본부장]]></title>
         <id>https://v.daum.net/v/20240814190729838</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240814175702063"/>
         <updated>2024-08-14T10:22:05.955Z</updated>
         <content type="html"><![CDATA[게임동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 맹추격 따돌린다…OLED도 AI 최적화]]></title>
-        <id>https://v.daum.net/v/20240814173535347</id>
-        <link href="https://v.daum.net/v/20240814173535347"/>
-        <updated>2024-08-14T10:22:05.955Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>
