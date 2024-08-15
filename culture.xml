@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-08-15T02:26:42.407Z</updated>
+    <updated>2024-08-15T03:32:17.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KBS, 광복절에 태극기 좌우 뒤집어…“가지가지한다”]]></title>
+        <id>https://v.daum.net/v/20240815120024797</id>
+        <link href="https://v.daum.net/v/20240815120024797"/>
+        <updated>2024-08-15T03:31:15.898Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["뭐라고?" 자주 되묻는 노인들, 치매 주의해야]]></title>
         <id>https://v.daum.net/v/20240815110049634</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240815103003995"/>
         <updated>2024-08-15T02:25:48.892Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['코로나 유행이라기에'…호흡기 증상·피로감에 병원 갔더니 아니라네요]]></title>
-        <id>https://v.daum.net/v/20240815090010434</id>
-        <link href="https://v.daum.net/v/20240815090010434"/>
-        <updated>2024-08-15T02:25:48.894Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
