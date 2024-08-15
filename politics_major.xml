@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-08-15T12:38:40.348Z</updated>
+    <updated>2024-08-15T13:23:44.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남한과 1인 소득격차 30배…핵으로 버티는 북한]]></title>
+        <id>https://v.daum.net/v/20240815211944090</id>
+        <link href="https://v.daum.net/v/20240815211944090"/>
+        <updated>2024-08-15T13:21:53.106Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돌풍의 중심? 찻잔 속 태풍?…족쇄 풀린 김경수, 대권구도 흔드나]]></title>
         <id>https://v.daum.net/v/20240815210134866</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240815201309280"/>
         <updated>2024-08-15T12:37:01.640Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이광수 "정부 대책에서 금융 빠진 이유?.. 집값 빠질까 걱정하기 때문"]]></title>
-        <id>https://v.daum.net/v/20240815202000369</id>
-        <link href="https://v.daum.net/v/20240815202000369"/>
-        <updated>2024-08-15T12:37:01.641Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
