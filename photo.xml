@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-08-15T13:23:44.217Z</updated>
+    <updated>2024-08-15T14:20:13.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5840500/72dDiPJqys"/>
         <updated>2024-08-15T09:21:27.112Z</updated>
         <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개성만점 초상화]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5750948/XP9g3GFOLP</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5750948/XP9g3GFOLP"/>
+        <updated>2024-08-15T14:19:46.372Z</updated>
+        <content type="html"><![CDATA[포토에세이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[예산군, 광복절 기념 한마음 걷기대회]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5032452/0czGiYtsGp"/>
         <updated>2024-08-15T02:26:18.060Z</updated>
         <content type="html"><![CDATA[오늘의 1면 사진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잠자리의 짝짓기]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/212305/1h9W1t7vdq</id>
-        <link href="https://gallery.v.daum.net/p/viewer/212305/1h9W1t7vdq"/>
-        <updated>2024-08-14T20:22:15.323Z</updated>
-        <content type="html"><![CDATA[포토 카페]]></content>
     </entry>
 </feed>
