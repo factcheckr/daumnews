@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-08-15T17:18:51.131Z</updated>
+    <updated>2024-08-15T18:30:41.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘 날씨] 주말까지 내륙 곳곳에 비…7호 태풍 '암필' 북상, 현재 위치는?]]></title>
+        <id>https://v.daum.net/v/20240816023617742</id>
+        <link href="https://v.daum.net/v/20240816023617742"/>
+        <updated>2024-08-15T18:29:49.273Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[WE+] ‘반짝반짝’ 별멍·달멍·물멍]]></title>
         <id>https://v.daum.net/v/20240816000528189</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240816000025079"/>
         <updated>2024-08-15T15:20:41.397Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘마녀’ 화려하게 재창조했지만, 높은 수위는 흥행 걸림돌]]></title>
-        <id>https://v.daum.net/v/20240815154427303</id>
-        <link href="https://v.daum.net/v/20240815154427303"/>
-        <updated>2024-08-15T14:19:12.267Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
