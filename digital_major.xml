@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-15T08:26:24.086Z</updated>
+    <updated>2024-08-15T09:21:46.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배터리 제조사만 공개하면 OK?···“문제는 셀, 정부가 인증해야”]]></title>
+        <id>https://v.daum.net/v/20240815155627473</id>
+        <link href="https://v.daum.net/v/20240815155627473"/>
+        <updated>2024-08-15T09:21:21.000Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“세계서 가장 재미있는 AI” 내세운 머스크 챗봇, ‘도 넘은’ 이미지 생성 기능 논란]]></title>
         <id>https://v.daum.net/v/20240815155048414</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240815122816298"/>
         <updated>2024-08-15T06:29:33.456Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['노광 한 번으로 초미세 회로를...' 아이멕·ASML, 차세대 EUV 성능 구현]]></title>
-        <id>https://v.daum.net/v/20240815110107651</id>
-        <link href="https://v.daum.net/v/20240815110107651"/>
-        <updated>2024-08-15T05:21:24.205Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
