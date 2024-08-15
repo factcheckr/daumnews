@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-08-15T15:21:32.272Z</updated>
+    <updated>2024-08-15T16:27:13.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["살아도 죽어도 대한의 백성"...100년 만에 돌아온 '의병문서']]></title>
+        <id>https://v.daum.net/v/20240815195214028</id>
+        <link href="https://v.daum.net/v/20240815195214028"/>
+        <updated>2024-08-15T16:26:21.028Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최태원, 상반기 SK하이닉스·SK㈜서 급여 30억원 받아]]></title>
         <id>https://v.daum.net/v/20240815220013355</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240815195817088"/>
         <updated>2024-08-15T12:37:53.711Z</updated>
         <content type="html"><![CDATA[EBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“무의미한 시간은 없다”…퍼펙트데이즈에 나온 노래 듣고]]></title>
-        <id>https://v.daum.net/v/20240815195301037</id>
-        <link href="https://v.daum.net/v/20240815195301037"/>
-        <updated>2024-08-15T12:37:53.711Z</updated>
-        <content type="html"><![CDATA[한겨레21]]></content>
     </entry>
 </feed>

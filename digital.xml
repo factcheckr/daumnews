@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-08-15T15:21:32.271Z</updated>
+    <updated>2024-08-15T16:27:13.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메타가 쏘아올린 ‘AI 개방’… ‘3차 소스 대전’ 시작됐다]]></title>
+        <id>https://v.daum.net/v/20240816003317411</id>
+        <link href="https://v.daum.net/v/20240816003317411"/>
+        <updated>2024-08-15T16:26:29.827Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘용호상박’ 美 로봇 투톱…주인은 한국 기업 [맞수맞짱]]]></title>
         <id>https://v.daum.net/v/20240815210312899</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240815172602807"/>
         <updated>2024-08-15T12:38:02.163Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[써보고서] 합리적 가격에 최적 성능…낫싱 CMF 워치·버즈 프로2]]></title>
-        <id>https://v.daum.net/v/20240815200934237</id>
-        <link href="https://v.daum.net/v/20240815200934237"/>
-        <updated>2024-08-15T11:17:51.870Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-08-15T15:21:32.251Z</updated>
+    <updated>2024-08-15T16:27:13.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[WE+] ‘반짝반짝’ 별멍·달멍·물멍]]></title>
+        <id>https://v.daum.net/v/20240816000528189</id>
+        <link href="https://v.daum.net/v/20240816000528189"/>
+        <updated>2024-08-15T16:26:11.218Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[광복절 맞아 재조명 된 19년전 나훈아 발언, 뭐길래]]></title>
         <id>https://v.daum.net/v/20240815234826001</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240815154427303"/>
         <updated>2024-08-15T14:19:12.267Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["살아도 죽어도 대한의 백성"...100년 만에 돌아온 '의병문서']]></title>
-        <id>https://v.daum.net/v/20240815195214028</id>
-        <link href="https://v.daum.net/v/20240815195214028"/>
-        <updated>2024-08-15T13:22:41.194Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
