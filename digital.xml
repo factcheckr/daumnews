@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-08-16T02:40:25.698Z</updated>
+    <updated>2024-08-16T03:26:03.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[생성 AI 갈라잡이] 대화형 검색 서비스 '퍼플렉시티']]></title>
+        <id>https://v.daum.net/v/20240816113606880</id>
+        <link href="https://v.daum.net/v/20240816113606880"/>
+        <updated>2024-08-16T03:25:21.930Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스팀, 내용 충실한 리뷰부터 먼저 노출한다]]></title>
         <id>https://v.daum.net/v/20240816112132387</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240816101008608"/>
         <updated>2024-08-16T01:24:48.116Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 문턱 넘는 중국…삼성과 ‘중저가 스마트폰’ 시장 격돌]]></title>
-        <id>https://v.daum.net/v/20240816101151684</id>
-        <link href="https://v.daum.net/v/20240816101151684"/>
-        <updated>2024-08-16T01:24:48.117Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
