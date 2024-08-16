@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-08-16T19:19:09.833Z</updated>
+    <updated>2024-08-16T20:22:34.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[심방세동 발작도 감지? WSJ "스마트워치, 의사들이 먼저 권한다"]]></title>
+        <id>https://v.daum.net/v/20240817050034439</id>
+        <link href="https://v.daum.net/v/20240817050034439"/>
+        <updated>2024-08-16T20:21:58.030Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스톰게이트 e스포츠 대회 괜찮은데?]]></title>
         <id>https://v.daum.net/v/20240817032059180</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240817000122142"/>
         <updated>2024-08-16T15:21:03.011Z</updated>
         <content type="html"><![CDATA[중앙SUNDAY]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“삼성팬 난리났다” 아이폰 누르고 역대급 터졌다…‘대폭소’]]></title>
-        <id>https://v.daum.net/v/20240816204104387</id>
-        <link href="https://v.daum.net/v/20240816204104387"/>
-        <updated>2024-08-16T12:37:58.912Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
