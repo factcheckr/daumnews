@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-08-16T17:19:30.752Z</updated>
+    <updated>2024-08-16T18:28:31.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘혼인신고는 쉽고 이혼은 어렵게’…법 개정 추진하는 이 나라, 반응은 싸늘]]></title>
+        <id>https://v.daum.net/v/20240816231220522</id>
+        <link href="https://v.daum.net/v/20240816231220522"/>
+        <updated>2024-08-16T18:27:21.815Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국제비상사태' 원숭이두창, 전 세계 확산…스웨덴 이어 파키스탄서도]]></title>
         <id>https://v.daum.net/v/20240816215021364</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240816193819563"/>
         <updated>2024-08-16T17:18:31.828Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국도 ‘여름 코로나’ 비상…한 달 새 감염 2배 증가]]></title>
-        <id>https://v.daum.net/v/20240816211143760</id>
-        <link href="https://v.daum.net/v/20240816211143760"/>
-        <updated>2024-08-16T17:18:31.829Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
