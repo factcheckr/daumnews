@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-16T03:26:03.041Z</updated>
+    <updated>2024-08-16T04:24:20.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[머스크, AI 챗봇 '그록2' 출시…도 넘은 이미지 생성 논란]]></title>
+        <id>https://v.daum.net/v/20240816101008608</id>
+        <link href="https://v.daum.net/v/20240816101008608"/>
+        <updated>2024-08-16T04:23:52.053Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글 “K웹툰 지원 앞장”“픽셀폰 발표때 한국 등장할 정도로 큰 관심”]]></title>
         <id>https://v.daum.net/v/20240816100300330</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240816071802857"/>
         <updated>2024-08-16T01:24:54.952Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“지긋지긋 코로나 잡아라”…서울대, 변이 단번에 잡는 항바이러스 내놨다]]></title>
-        <id>https://v.daum.net/v/20240816073301108</id>
-        <link href="https://v.daum.net/v/20240816073301108"/>
-        <updated>2024-08-16T01:24:54.953Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
