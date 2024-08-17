@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-08-17T19:18:34.883Z</updated>
+    <updated>2024-08-17T20:21:26.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DXVX, 감염병 신약개발에 박차… 조남준 교수 영입]]></title>
+        <id>https://v.daum.net/v/20240818051112074</id>
+        <link href="https://v.daum.net/v/20240818051112074"/>
+        <updated>2024-08-17T20:20:43.450Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한남대 호텔항공경영학과 이준재 교수, 한국관광레저학회장 취임]]></title>
         <id>https://v.daum.net/v/20240817234118901</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240817180004544"/>
         <updated>2024-08-17T10:20:57.716Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성 보급형 '갤럭시'에도 AI 기능 탑재]]></title>
-        <id>https://v.daum.net/v/20240817152603305</id>
-        <link href="https://v.daum.net/v/20240817152603305"/>
-        <updated>2024-08-17T10:20:57.718Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
