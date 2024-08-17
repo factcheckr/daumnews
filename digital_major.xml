@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-17T01:24:43.521Z</updated>
+    <updated>2024-08-17T02:40:44.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사이버보안人] 이광후 모니터랩 대표 “전 세계 40개 노드 확보… 클라우드 서비스로 글로벌 공략”]]></title>
+        <id>https://v.daum.net/v/20240817060039906</id>
+        <link href="https://v.daum.net/v/20240817060039906"/>
+        <updated>2024-08-17T02:40:11.717Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴스타파 유튜브 채널 해킹 추정 공격]]></title>
+        <id>https://v.daum.net/v/20240817090716384</id>
+        <link href="https://v.daum.net/v/20240817090716384"/>
+        <updated>2024-08-17T02:40:11.717Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플, 9월 행사서 아이폰16 외 어떤 제품 공개할까]]></title>
         <id>https://v.daum.net/v/20240817090747386</id>
         <link href="https://v.daum.net/v/20240817090747386"/>
         <updated>2024-08-17T01:24:07.387Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“공룡 등 지구 생명 대멸종, 소행성 충돌 탓”]]></title>
-        <id>https://v.daum.net/v/20240817014105773</id>
-        <link href="https://v.daum.net/v/20240817014105773"/>
-        <updated>2024-08-17T01:24:07.387Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['스팸과의 전쟁'…이통3사, 불법 메시지 차단 서비스 강화]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240817083353113"/>
         <updated>2024-08-17T01:24:07.397Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[항공, 방송, 철도 시스템은 다시 정상화됐지만…전문가들 "더 큰 IT대란 온다"]]></title>
-        <id>https://v.daum.net/v/20240817081009902</id>
-        <link href="https://v.daum.net/v/20240817081009902"/>
-        <updated>2024-08-17T01:24:07.399Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
