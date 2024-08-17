@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-17T14:20:13.115Z</updated>
+    <updated>2024-08-17T15:20:23.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인간이 멸종시킨 바보 ‘도도새’ 알고보니 빠르고 강력했다 [핵잼 사이언스]]]></title>
+        <id>https://v.daum.net/v/20240817175901534</id>
+        <link href="https://v.daum.net/v/20240817175901534"/>
+        <updated>2024-08-17T15:19:54.512Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["폭우라더니 해 뜨네"…기상청, 엔비디아가 바꿀 수 있을까 [황정수의 반도체 이슈 짚어보기]]]></title>
         <id>https://v.daum.net/v/20240817162103802</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240817060104935"/>
         <updated>2024-08-17T07:17:42.820Z</updated>
         <content type="html"><![CDATA[쿠키뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHN '우파루 오딧세이', 글로벌서 통했다]]></title>
-        <id>https://v.daum.net/v/20240817140001696</id>
-        <link href="https://v.daum.net/v/20240817140001696"/>
-        <updated>2024-08-17T07:17:42.822Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>
