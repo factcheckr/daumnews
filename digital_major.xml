@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-17T13:21:11.955Z</updated>
+    <updated>2024-08-17T14:20:13.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["폭우라더니 해 뜨네"…기상청, 엔비디아가 바꿀 수 있을까 [황정수의 반도체 이슈 짚어보기]]]></title>
+        <id>https://v.daum.net/v/20240817162103802</id>
+        <link href="https://v.daum.net/v/20240817162103802"/>
+        <updated>2024-08-17T14:19:37.623Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글 검색 독점의 종말…AI 검색 경쟁이 던진 과제[테크트렌드]]]></title>
         <id>https://v.daum.net/v/20240817161805763</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240817140001696"/>
         <updated>2024-08-17T07:17:42.822Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발넓은 대수기하학 거인 임덕상, 한국 수학 국제화 이끌다]]></title>
-        <id>https://v.daum.net/v/20240817130501340</id>
-        <link href="https://v.daum.net/v/20240817130501340"/>
-        <updated>2024-08-17T07:17:42.823Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
