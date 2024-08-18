@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-08-18T20:21:24.229Z</updated>
+    <updated>2024-08-18T21:18:37.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연임 성공' 이재명 일극체제]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/Vy9KUhYc1s</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/Vy9KUhYc1s"/>
+        <updated>2024-08-18T21:18:14.755Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[튀르키예 의원들 ‘주먹 난투극’]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1493/GJnshnA8Es</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1471/YONooH3I02"/>
         <updated>2024-08-18T02:40:43.957Z</updated>
         <content type="html"><![CDATA[세계의 정상들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["지난 대선은 조작"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/285071/0IWxk3qyKo</id>
-        <link href="https://gallery.v.daum.net/p/viewer/285071/0IWxk3qyKo"/>
-        <updated>2024-08-18T03:25:53.040Z</updated>
-        <content type="html"><![CDATA[베네수엘라는 지금]]></content>
     </entry>
 </feed>
