@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-08-18T03:26:18.532Z</updated>
+    <updated>2024-08-18T04:26:01.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우주에 발묶인 보잉 우주비행사들…'플랜 B' 진행시 내년 2월 귀환]]></title>
+        <id>https://v.daum.net/v/20240818130212084</id>
+        <link href="https://v.daum.net/v/20240818130212084"/>
+        <updated>2024-08-18T04:25:25.437Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KT클라우드, 국정자원 대구센터 내 `민관협력형 클라우드존` 구축]]></title>
+        <id>https://v.daum.net/v/20240818125910040</id>
+        <link href="https://v.daum.net/v/20240818125910040"/>
+        <updated>2024-08-18T04:25:25.437Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["세계적 AI거점 되겠다"···KAIST 컨소시엄 선정]]></title>
         <id>https://v.daum.net/v/20240818120022430</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240818101005861"/>
         <updated>2024-08-18T01:29:01.335Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러스트, 6개월 단위 로드맵 제시...언어 신뢰성 상승 목표]]></title>
-        <id>https://v.daum.net/v/20240818101203887</id>
-        <link href="https://v.daum.net/v/20240818101203887"/>
-        <updated>2024-08-18T01:29:01.336Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["인간이 버틸 수 있는 한계 '습구온도'는 최고 34도"]]></title>
-        <id>https://v.daum.net/v/20240818080013171</id>
-        <link href="https://v.daum.net/v/20240818080013171"/>
-        <updated>2024-08-18T01:29:01.338Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
