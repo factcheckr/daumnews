@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-08-18T12:38:08.574Z</updated>
+    <updated>2024-08-18T13:22:09.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 이번 주도 무더위 이어져…내일 내륙 소나기, 모레 전국 비]]></title>
+        <id>https://v.daum.net/v/20240818201614754</id>
+        <link href="https://v.daum.net/v/20240818201614754"/>
+        <updated>2024-08-18T13:21:17.471Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[육아삼쩜영] 봉숭아 물들이기, 이게 오리지널입니다]]></title>
         <id>https://v.daum.net/v/20240818193307126</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240818171007407"/>
         <updated>2024-08-18T09:22:42.873Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘세계에서 가장 잘생긴 배우’ 알랭 들롱 별세]]></title>
-        <id>https://v.daum.net/v/20240818171307449</id>
-        <link href="https://v.daum.net/v/20240818171307449"/>
-        <updated>2024-08-18T09:22:42.874Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
