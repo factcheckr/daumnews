@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-08-18T16:23:59.703Z</updated>
+    <updated>2024-08-18T17:19:22.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -24,6 +24,13 @@
         <id>https://v.daum.net/v/20240819000245915</id>
         <link href="https://v.daum.net/v/20240819000245915"/>
         <updated>2024-08-18T15:22:08.079Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 벤츠 이어 용인서 테슬라 화재…포르투갈선 전기차 불나 200대 전소]]></title>
+        <id>https://v.daum.net/v/20240819000208900</id>
+        <link href="https://v.daum.net/v/20240819000208900"/>
+        <updated>2024-08-18T17:17:57.416Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240818222719185"/>
         <updated>2024-08-18T15:22:08.087Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이달부터 공영주차장 내 방치차량 ‘폐차’ 강제 처리]]></title>
-        <id>https://v.daum.net/v/20240818221454098</id>
-        <link href="https://v.daum.net/v/20240818221454098"/>
-        <updated>2024-08-18T15:22:08.087Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
