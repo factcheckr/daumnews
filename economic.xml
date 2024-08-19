@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-08-19T13:25:51.586Z</updated>
+    <updated>2024-08-19T14:26:37.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잭슨홀 미팅주간 첫 날,뉴욕증시 상승 출발]]></title>
+        <id>https://v.daum.net/v/20240819231301716</id>
+        <link href="https://v.daum.net/v/20240819231301716"/>
+        <updated>2024-08-19T14:24:56.651Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전북 무역수지 1년 새 42% 감소]]></title>
         <id>https://v.daum.net/v/20240819220116266</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240819214535074"/>
         <updated>2024-08-19T13:23:51.003Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이번엔 진짜 믿어주세요”…증권가 3분기에도 ‘이 업종’ 꼽았다]]></title>
-        <id>https://v.daum.net/v/20240819214501063</id>
-        <link href="https://v.daum.net/v/20240819214501063"/>
-        <updated>2024-08-19T13:23:51.004Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
