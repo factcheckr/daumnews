@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-08-19T10:25:20.929Z</updated>
+    <updated>2024-08-19T11:18:19.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김범수의 구속과 카카오 제국의 혼란 [김현아의 IT세상읽기]]]></title>
+        <id>https://v.daum.net/v/20240819195757917</id>
+        <link href="https://v.daum.net/v/20240819195757917"/>
+        <updated>2024-08-19T11:17:33.702Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[동영상] 게임쇼에 비명이 울려 퍼진다! 엄청 특이한 인디 게임!]]></title>
+        <id>https://v.daum.net/v/20240819193001480</id>
+        <link href="https://v.daum.net/v/20240819193001480"/>
+        <updated>2024-08-19T11:17:33.704Z</updated>
+        <content type="html"><![CDATA[게임동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“지구의 하루는 약 27시간이었다”…하루 길이가 달라진 이유[핵잼 사이언스]]]></title>
         <id>https://v.daum.net/v/20240819191601317</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240819180313002"/>
         <updated>2024-08-19T10:24:34.838Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['AI 전열 정비' 카카오…연내 서비스 출시도 잰걸음 [IT돋보기]]]></title>
-        <id>https://v.daum.net/v/20240819152247413</id>
-        <link href="https://v.daum.net/v/20240819152247413"/>
-        <updated>2024-08-19T10:24:34.840Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["화면이 실물"…삼성, 동전 크기에 촛불 1만개 밝기 '세계 최초']]></title>
-        <id>https://v.daum.net/v/20240819181020170</id>
-        <link href="https://v.daum.net/v/20240819181020170"/>
-        <updated>2024-08-19T09:22:34.693Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
