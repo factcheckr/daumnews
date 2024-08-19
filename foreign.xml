@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2024-08-19T12:39:58.682Z</updated>
+    <updated>2024-08-19T13:25:51.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WSJ "카시카리,9월 인하논의 적절하며 25bp이상인하할 이유 없어 "]]></title>
+        <id>https://v.daum.net/v/20240819214204037</id>
+        <link href="https://v.daum.net/v/20240819214204037"/>
+        <updated>2024-08-19T13:24:12.078Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포르투갈 수사당국, 전기차 발화 추정 화재 조사]]></title>
         <id>https://v.daum.net/v/20240819213319969</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240819204813498"/>
         <updated>2024-08-19T12:38:24.695Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해리스 출정식' 바이든·오바마 지원사격…상승세 이어간다]]></title>
-        <id>https://v.daum.net/v/20240819204513471</id>
-        <link href="https://v.daum.net/v/20240819204513471"/>
-        <updated>2024-08-19T12:38:24.697Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
