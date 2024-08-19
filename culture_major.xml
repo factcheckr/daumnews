@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-08-19T19:19:28.426Z</updated>
+    <updated>2024-08-19T20:24:24.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[찬 음식만 먹으면 복통·설사…여름철 심해지는 과민성 대장증후군]]></title>
+        <id>https://v.daum.net/v/20240819201415151</id>
+        <link href="https://v.daum.net/v/20240819201415151"/>
+        <updated>2024-08-19T20:23:30.075Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내일날씨, 오후 중부지방 등 소나기... 낮 기온 30~36도]]></title>
         <id>https://v.daum.net/v/20240819170102057</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240819193029493"/>
         <updated>2024-08-19T12:38:56.630Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어도어 퇴사자 진실공방 "민희진이 씌운 누명 벗을 것"]]></title>
-        <id>https://v.daum.net/v/20240819180024933</id>
-        <link href="https://v.daum.net/v/20240819180024933"/>
-        <updated>2024-08-19T12:38:56.630Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
 </feed>
