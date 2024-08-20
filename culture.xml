@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-08-20T15:23:08.199Z</updated>
+    <updated>2024-08-20T16:27:23.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘 날씨] 전국 태풍 '종다리' 영향, 대부분 강한 비...태풍 후 조심해야 하는 감염병은?]]></title>
+        <id>https://v.daum.net/v/20240821000025512</id>
+        <link href="https://v.daum.net/v/20240821000025512"/>
+        <updated>2024-08-20T16:26:26.020Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“84가지 라이브 특수효과, 보석 수만개 의상 모두 브로드웨이 그대로”]]></title>
+        <id>https://v.daum.net/v/20240820210337805</id>
+        <link href="https://v.daum.net/v/20240820210337805"/>
+        <updated>2024-08-20T16:26:26.022Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘날씨, 전국 최대 100mm 이상 호우... 중부서해안 강풍 유의]]></title>
         <id>https://v.daum.net/v/20240820172902294</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240820190635818"/>
         <updated>2024-08-20T14:19:43.809Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘폭염에 폭증’ 올해 온열질환자, 벌써 역대 2위]]></title>
-        <id>https://v.daum.net/v/20240820163005383</id>
-        <link href="https://v.daum.net/v/20240820163005383"/>
-        <updated>2024-08-20T13:23:26.961Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["폐경 빨리 온 여성, 치매도 빠르게 올 수 있어"]]></title>
-        <id>https://v.daum.net/v/20240820213029209</id>
-        <link href="https://v.daum.net/v/20240820213029209"/>
-        <updated>2024-08-20T12:38:17.783Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
