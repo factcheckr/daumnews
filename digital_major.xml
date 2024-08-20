@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-20T13:24:13.010Z</updated>
+    <updated>2024-08-20T14:20:45.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[AI시대, 가치 네트워크에 주목하라] 도표·수식 등 이미지 익힌 고니… 공학박사 수준 `AI 에이전트`로]]></title>
+        <id>https://v.daum.net/v/20240820184555418</id>
+        <link href="https://v.daum.net/v/20240820184555418"/>
+        <updated>2024-08-20T14:20:11.003Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검은 신화 오공 "중국 콘솔 게임 선입견 제대로 깨졌다"]]></title>
         <id>https://v.daum.net/v/20240820172304130</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240820161443859"/>
         <updated>2024-08-20T09:23:29.420Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불법 스팸문자 기승에...통신 3사 총력대응]]></title>
-        <id>https://v.daum.net/v/20240820163254475</id>
-        <link href="https://v.daum.net/v/20240820163254475"/>
-        <updated>2024-08-20T09:23:29.422Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
