@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2024-08-20T18:27:45.840Z</updated>
+    <updated>2024-08-20T19:17:55.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[UFS 훈련 '착착'…드론 테러 방어·서북도서 환자 이송·24시간 비행]]></title>
+        <id>https://v.daum.net/v/20240821040000432</id>
+        <link href="https://v.daum.net/v/20240821040000432"/>
+        <updated>2024-08-20T19:16:00.799Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“새만금 개발, 현재 37% 불과… 정권 떠나 일관되게 추진해야”]]></title>
         <id>https://v.daum.net/v/20240821030313338</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240821010620993"/>
         <updated>2024-08-20T16:25:33.326Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野는 ‘압박’ 與는 ‘부정적’… 한동훈 ‘채상병 특검법’ 딜레마]]></title>
-        <id>https://v.daum.net/v/20240821011323025</id>
-        <link href="https://v.daum.net/v/20240821011323025"/>
-        <updated>2024-08-20T16:25:33.327Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>

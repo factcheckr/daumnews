@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-08-20T18:27:45.829Z</updated>
+    <updated>2024-08-20T19:17:55.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몬헌 와일즈 공개되자 게임스컴 2024 환호성 폭발]]></title>
+        <id>https://v.daum.net/v/20240821041016475</id>
+        <link href="https://v.daum.net/v/20240821041016475"/>
+        <updated>2024-08-20T19:17:13.671Z</updated>
+        <content type="html"><![CDATA[게임톡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테슬라 휴머노이드 로봇 ‘옵티머스’, 얼마나 개발됐나]]></title>
         <id>https://v.daum.net/v/20240820145136161</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240820204801563"/>
         <updated>2024-08-20T12:38:33.380Z</updated>
         <content type="html"><![CDATA[게임동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["전기차 5000대 실렸으니 더 조심해야죠"...충전율 50% 이하로 유지한 해운사들]]></title>
-        <id>https://v.daum.net/v/20240820200056780</id>
-        <link href="https://v.daum.net/v/20240820200056780"/>
-        <updated>2024-08-20T12:38:33.383Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>

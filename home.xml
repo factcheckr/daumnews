@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-08-20T18:27:45.820Z</updated>
+    <updated>2024-08-20T19:17:55.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[尹 거부권 쓴 ‘전세사기법’, 여야 합의 처리… ‘22대 민생법안’ 1호]]></title>
+        <id>https://v.daum.net/v/20240821030204304</id>
+        <link href="https://v.daum.net/v/20240821030204304"/>
+        <updated>2024-08-20T19:15:32.458Z</updated>
+        <content type="html"><![CDATA[정치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“민주주의 수호 위해 물러났다”… 바이든의 마지막 미션]]></title>
         <id>https://v.daum.net/v/20240821030106273</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20240820223818939"/>
         <updated>2024-08-20T15:20:40.973Z</updated>
         <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주청, 미국 NASA 출신 김현대 임용…존 리 이어 두 번째 외국인]]></title>
-        <id>https://v.daum.net/v/20240820220720698</id>
-        <link href="https://v.daum.net/v/20240820220720698"/>
-        <updated>2024-08-20T14:18:23.391Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
     </entry>
 </feed>

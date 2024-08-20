@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-20T18:27:45.860Z</updated>
+    <updated>2024-08-20T19:17:55.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["전기차 5000대 실렸으니 더 조심해야죠"...충전율 50% 이하로 유지한 해운사들]]></title>
+        <id>https://v.daum.net/v/20240820200056780</id>
+        <link href="https://v.daum.net/v/20240820200056780"/>
+        <updated>2024-08-20T19:17:22.062Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘리바이어던’ 저자가 인공지능 할아버지인 이유]]></title>
         <id>https://v.daum.net/v/20240820203301315</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240820173555527"/>
         <updated>2024-08-20T09:23:29.418Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거대한 흙탕물 쓸고간 북한 신의주 [위성으로 본 세상]]]></title>
-        <id>https://v.daum.net/v/20240820161827996</id>
-        <link href="https://v.daum.net/v/20240820161827996"/>
-        <updated>2024-08-20T09:23:29.419Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
