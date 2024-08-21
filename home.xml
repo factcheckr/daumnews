@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-08-21T18:28:17.218Z</updated>
+    <updated>2024-08-21T19:19:05.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중앙지검 ‘金여사 디올백’ 무혐의 결론]]></title>
+        <id>https://v.daum.net/v/20240822030132663</id>
+        <link href="https://v.daum.net/v/20240822030132663"/>
+        <updated>2024-08-21T19:16:48.687Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오후 2시부터 공습 대비 전국 민방위 훈련…일부 도로 통제]]></title>
         <id>https://v.daum.net/v/20240822000119844</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20240821234028699"/>
         <updated>2024-08-21T15:20:20.312Z</updated>
         <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전기차 '원 페달 드라이빙'…"편하지만 급할 때 착각 가능성"]]></title>
-        <id>https://v.daum.net/v/20240821202638412</id>
-        <link href="https://v.daum.net/v/20240821202638412"/>
-        <updated>2024-08-21T14:19:40.360Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
     </entry>
 </feed>
