@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2024-08-21T17:20:08.658Z</updated>
+    <updated>2024-08-21T18:28:17.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘방송장악’ 3차 청문회… 與 “위법” 20분만에 퇴장]]></title>
+        <id>https://v.daum.net/v/20240822030101652</id>
+        <link href="https://v.daum.net/v/20240822030101652"/>
+        <updated>2024-08-21T18:26:29.344Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹 "북한 정권에 '침략은 곧 종말'임을 인식시켜야"]]></title>
         <id>https://v.daum.net/v/20240822012401428</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240822001812148"/>
         <updated>2024-08-21T16:33:52.092Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감염 속도 22% 빠른 변이… 2주만 다시 마스크]]></title>
-        <id>https://v.daum.net/v/20240822005223341</id>
-        <link href="https://v.daum.net/v/20240822005223341"/>
-        <updated>2024-08-21T16:33:52.093Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>

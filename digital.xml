@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-08-21T17:20:08.673Z</updated>
+    <updated>2024-08-21T18:28:17.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“단기성과 재촉하는 韓, mRNA 백신 같은 ‘빅스텝 혁신’ 어려워”]]></title>
+        <id>https://v.daum.net/v/20240822030024637</id>
+        <link href="https://v.daum.net/v/20240822030024637"/>
+        <updated>2024-08-21T18:27:37.292Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미생물로 열에 강한 플라스틱 만들었다…약물 전달에 활용]]></title>
         <id>https://v.daum.net/v/20240822000039829</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240821181102511"/>
         <updated>2024-08-21T12:38:10.796Z</updated>
         <content type="html"><![CDATA[키즈맘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[순식간에 딥페이크 '뚝딱' 막을 방법 없을까]]></title>
-        <id>https://v.daum.net/v/20240821201912298</id>
-        <link href="https://v.daum.net/v/20240821201912298"/>
-        <updated>2024-08-21T12:38:10.797Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
