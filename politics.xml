@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2024-08-22T18:29:00.182Z</updated>
+    <updated>2024-08-22T19:18:43.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국 핵무기 운용 지침 개정, 한반도 영향은]]></title>
+        <id>https://v.daum.net/v/20240823040000894</id>
+        <link href="https://v.daum.net/v/20240823040000894"/>
+        <updated>2024-08-22T19:16:21.576Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계는 금리 내리는데… 가계빚에 발묶인 한은]]></title>
         <id>https://v.daum.net/v/20240823030231640</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240823010032135"/>
         <updated>2024-08-22T16:30:49.259Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“정치 엉망” 판단에 김부겸 재등판 준비… 비명계도 기지개]]></title>
-        <id>https://v.daum.net/v/20240823010614226</id>
-        <link href="https://v.daum.net/v/20240823010614226"/>
-        <updated>2024-08-22T16:30:49.258Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
