@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-08-22T20:23:14.756Z</updated>
+    <updated>2024-08-22T21:23:11.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[책&생각] 유머, 애도, 창피함…풍부한 동물의 ‘감정 세계’]]></title>
+        <id>https://v.daum.net/v/20240823050528440</id>
+        <link href="https://v.daum.net/v/20240823050528440"/>
+        <updated>2024-08-22T21:22:06.649Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[책&생각] ‘우리의 핏물이’ 밴 도마 위에서 의심 가득히]]></title>
         <id>https://v.daum.net/v/20240823050531442</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240823040007895"/>
         <updated>2024-08-22T20:22:21.827Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“다들 유관순 알지만, 독립운동 가르친 김란사 몰라”]]></title>
-        <id>https://v.daum.net/v/20240823030337668</id>
-        <link href="https://v.daum.net/v/20240823030337668"/>
-        <updated>2024-08-22T20:22:21.829Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
