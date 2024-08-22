@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-08-22T13:25:12.408Z</updated>
+    <updated>2024-08-22T14:21:32.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240822213658332"/>
         <updated>2024-08-22T13:23:50.856Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민주 전대 ‘월즈의 밤’…‘피격’ 트럼프, 방탄 유리 앞에]]></title>
+        <id>https://v.daum.net/v/20240822211553978</id>
+        <link href="https://v.daum.net/v/20240822211553978"/>
+        <updated>2024-08-22T14:20:26.384Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대관식 앞둔 해리스, 이유 있는 저력…“Z세대 사로잡은 힘”]]></title>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20240822203418287</id>
         <link href="https://v.daum.net/v/20240822203418287"/>
         <updated>2024-08-22T12:38:22.128Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아·중국 밀착‥"상호 결제 인프라 강화"]]></title>
-        <id>https://v.daum.net/v/20240822203404282</id>
-        <link href="https://v.daum.net/v/20240822203404282"/>
-        <updated>2024-08-22T12:38:22.130Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
