@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-08-23T14:22:33.459Z</updated>
+    <updated>2024-08-23T15:25:13.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빠지고 싶은 ‘볼 늪’]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/QBVaQYYcI2</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/QBVaQYYcI2"/>
+        <updated>2024-08-23T15:24:45.225Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['전동스쿠터 음주운전' 슈가, 경찰 출석… "실망드려 죄송"]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5615616/BxFPUkkP3s</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5610796/84riFwwMuW"/>
         <updated>2024-08-23T06:29:59.818Z</updated>
         <content type="html"><![CDATA[모멘트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 야구 성지 고시엔에 한국어 교가 울려 퍼졌다[포토 in 월드]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5021010/78C8OMMUzO</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5021010/78C8OMMUzO"/>
-        <updated>2024-08-23T06:29:59.826Z</updated>
-        <content type="html"><![CDATA[포토 in 월드]]></content>
     </entry>
 </feed>
