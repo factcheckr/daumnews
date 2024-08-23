@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-23T20:23:27.323Z</updated>
+    <updated>2024-08-23T21:20:45.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이폰, 유럽선 검색 엔진·카메라 앱도 자유롭게 선택]]></title>
+        <id>https://v.daum.net/v/20240824004532774</id>
+        <link href="https://v.daum.net/v/20240824004532774"/>
+        <updated>2024-08-23T21:20:11.457Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[게임스컴 2024] 韓 게임 출품작들, 게임스컴 어워드 아쉽게 수상 불발]]></title>
         <id>https://v.daum.net/v/20240823234450203</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240823183601774"/>
         <updated>2024-08-23T12:38:33.570Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['셀프 위로' 고영욱 유튜브, 본인도 모르게 삭제됐다]]></title>
-        <id>https://v.daum.net/v/20240823164404844</id>
-        <link href="https://v.daum.net/v/20240823164404844"/>
-        <updated>2024-08-23T11:18:11.612Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
