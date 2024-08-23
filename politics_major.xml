@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-08-23T17:19:36.702Z</updated>
+    <updated>2024-08-23T18:28:07.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전쟁 때 가짜뉴스 터지면… 韓美 첫 대책회의]]></title>
+        <id>https://v.daum.net/v/20240824005625855</id>
+        <link href="https://v.daum.net/v/20240824005625855"/>
+        <updated>2024-08-23T18:26:19.542Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[野이용우 "檢, '김문수가 2019년 국회 난입사태 주동자' 판단"]]></title>
         <id>https://v.daum.net/v/20240824004353763</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240824000151336"/>
         <updated>2024-08-23T16:25:33.720Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이마 8㎝ 찢어진 김종인, 응급실 22곳서 왜 퇴짜 맞았나]]></title>
-        <id>https://v.daum.net/v/20240824005159831</id>
-        <link href="https://v.daum.net/v/20240824005159831"/>
-        <updated>2024-08-23T16:25:33.721Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>

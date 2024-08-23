@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2024-08-23T17:19:36.671Z</updated>
+    <updated>2024-08-23T18:28:07.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤 정부 국정 과제 ‘4+1 개혁’, 대통령이 중간 점검 나선다]]></title>
+        <id>https://v.daum.net/v/20240824022306123</id>
+        <link href="https://v.daum.net/v/20240824022306123"/>
+        <updated>2024-08-23T18:26:10.467Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명 이어 추경호도… 여야 지도부 코로나 경계령]]></title>
         <id>https://v.daum.net/v/20240824014058027</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240824014041020"/>
         <updated>2024-08-23T17:17:22.909Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전쟁 때 가짜뉴스 터지면… 韓美 첫 대책회의]]></title>
-        <id>https://v.daum.net/v/20240824005625855</id>
-        <link href="https://v.daum.net/v/20240824005625855"/>
-        <updated>2024-08-23T16:25:22.763Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
