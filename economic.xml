@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-08-23T13:24:29.904Z</updated>
+    <updated>2024-08-23T14:22:33.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[2보] 파월 "통화정책 조정 시기 도래…방향 분명"]]></title>
+        <id>https://v.daum.net/v/20240823231136960</id>
+        <link href="https://v.daum.net/v/20240823231136960"/>
+        <updated>2024-08-23T14:20:36.019Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국토연, 개발제한구역 전략사업 추진 현장 실사]]></title>
         <id>https://v.daum.net/v/20240823221756423</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240823220953347"/>
         <updated>2024-08-23T13:22:34.826Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["삼성, '참사 가해기업' 아리셀 모회사 에스코넥과 거래 끊어야"]]></title>
-        <id>https://v.daum.net/v/20240823215954171</id>
-        <link href="https://v.daum.net/v/20240823215954171"/>
-        <updated>2024-08-23T13:22:34.828Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
     </entry>
 </feed>
