@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-08-24T13:21:52.030Z</updated>
+    <updated>2024-08-24T14:19:44.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다양한 소비자 입맛…신품종으로 공략]]></title>
+        <id>https://v.daum.net/v/20240824213353452</id>
+        <link href="https://v.daum.net/v/20240824213353452"/>
+        <updated>2024-08-24T14:18:24.934Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[울산시, 발주 사업장 대상 임금 지급 실태조사]]></title>
         <id>https://v.daum.net/v/20240824213233424</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240824205400944"/>
         <updated>2024-08-24T12:35:57.105Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["드디어 '따따블' 나왔다" 들썩…화려한 데뷔전 이틀 만에 [이슈+]]]></title>
-        <id>https://v.daum.net/v/20240824201702627</id>
-        <link href="https://v.daum.net/v/20240824201702627"/>
-        <updated>2024-08-24T12:35:57.105Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-08-24T13:21:52.064Z</updated>
+    <updated>2024-08-24T14:19:44.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["위고비, 심부전 환자 심장마비와 뇌졸중 예방"]]></title>
+        <id>https://v.daum.net/v/20240824190057802</id>
+        <link href="https://v.daum.net/v/20240824190057802"/>
+        <updated>2024-08-24T14:18:57.512Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 체험하는 외국인…'K-문화' 스며들다]]></title>
         <id>https://v.daum.net/v/20240824203318755</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240824180104288"/>
         <updated>2024-08-24T11:16:42.321Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헬시 플레저 열풍에…운동 후 케어 돕는 '애프터 운동템' 주목]]></title>
-        <id>https://v.daum.net/v/20240824080705921</id>
-        <link href="https://v.daum.net/v/20240824080705921"/>
-        <updated>2024-08-24T11:16:42.323Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
