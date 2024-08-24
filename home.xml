@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-08-24T14:19:44.921Z</updated>
+    <updated>2024-08-24T15:21:58.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 전국 흐리고 비‥'체감온도 35도' 무더위는 이어져]]></title>
+        <id>https://v.daum.net/v/20240825001306699</id>
+        <link href="https://v.daum.net/v/20240825001306699"/>
+        <updated>2024-08-24T15:19:35.361Z</updated>
+        <content type="html"><![CDATA[문화]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비트코인' 패권 전쟁 시작하나…미국 이어 러시아도 참전]]></title>
+        <id>https://v.daum.net/v/20240824233102451</id>
+        <link href="https://v.daum.net/v/20240824233102451"/>
+        <updated>2024-08-24T15:19:35.361Z</updated>
+        <content type="html"><![CDATA[경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘1만 4000원 영화 티켓’ 누가 얼마나 가져가나 [미드나잇 이슈]]]></title>
+        <id>https://v.daum.net/v/20240824232732432</id>
+        <link href="https://v.daum.net/v/20240824232732432"/>
+        <updated>2024-08-24T15:19:35.364Z</updated>
+        <content type="html"><![CDATA[경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뜨거운 바닷물에 양식어 1500만 마리 이상 떼죽음]]></title>
         <id>https://v.daum.net/v/20240824231351347</id>
@@ -25,13 +46,6 @@
         <link href="https://v.daum.net/v/20240824230028283"/>
         <updated>2024-08-24T14:17:39.623Z</updated>
         <content type="html"><![CDATA[생활]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['떡집 딸' 김소유, 뇌전증 父 위해 노래한다…"병원비만 1억"]]></title>
-        <id>https://v.daum.net/v/20240824220056810</id>
-        <link href="https://v.daum.net/v/20240824220056810"/>
-        <updated>2024-08-24T13:19:39.849Z</updated>
-        <content type="html"><![CDATA[문화]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[올해 출생아 수, 전년 대비 증가세···반등 기대감]]></title>
@@ -130,19 +144,5 @@
         <link href="https://v.daum.net/v/20240824210747168"/>
         <updated>2024-08-24T12:34:59.455Z</updated>
         <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["더워도 너무 더워"…강원 해수욕장 7만명 '풍덩']]></title>
-        <id>https://v.daum.net/v/20240824205525958</id>
-        <link href="https://v.daum.net/v/20240824205525958"/>
-        <updated>2024-08-24T12:34:59.455Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대지진 우려'에도 8월 일본행 벌써 138만 명..지난해 대비 20%↑]]></title>
-        <id>https://v.daum.net/v/20240824210302058</id>
-        <link href="https://v.daum.net/v/20240824210302058"/>
-        <updated>2024-08-24T12:34:59.455Z</updated>
-        <content type="html"><![CDATA[경제]]></content>
     </entry>
 </feed>
