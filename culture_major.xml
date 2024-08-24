@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-08-24T21:19:46.849Z</updated>
+    <updated>2024-08-24T22:20:03.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://v.daum.net/v/20240824230301295"/>
         <updated>2024-08-24T21:18:43.995Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 무더위 계속‥전국 흐리고 곳곳에 비]]></title>
-        <id>https://v.daum.net/v/20240825001306699</id>
-        <link href="https://v.daum.net/v/20240825001306699"/>
-        <updated>2024-08-24T20:22:15.773Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 2024년 08월 25일 별자리 운세]]></title>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20240824101123217"/>
         <updated>2024-08-24T15:21:06.648Z</updated>
         <content type="html"><![CDATA[대구MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 서울, 최다·최장 열대야‥휴일 곳곳 비]]></title>
+        <id>https://v.daum.net/v/20240824204006811</id>
+        <link href="https://v.daum.net/v/20240824204006811"/>
+        <updated>2024-08-24T22:19:11.328Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
