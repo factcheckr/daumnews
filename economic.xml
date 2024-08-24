@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-08-24T17:20:18.164Z</updated>
+    <updated>2024-08-24T18:26:41.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보잉의 굴욕, 나사 "우주인 귀환, 스페이스X에 맡겨"...스타라이너는 빈손 귀환]]></title>
+        <id>https://v.daum.net/v/20240825024631130</id>
+        <link href="https://v.daum.net/v/20240825024631130"/>
+        <updated>2024-08-24T18:24:51.629Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폭망한 전기차…1t 트럭 상반기 판매 LPG가 5배]]></title>
         <id>https://v.daum.net/v/20240825000328610</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240824233102451"/>
         <updated>2024-08-24T15:20:20.433Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘1만 4000원 영화 티켓’ 누가 얼마나 가져가나 [미드나잇 이슈]]]></title>
-        <id>https://v.daum.net/v/20240824232732432</id>
-        <link href="https://v.daum.net/v/20240824232732432"/>
-        <updated>2024-08-24T15:20:20.435Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
