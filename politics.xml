@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2024-08-25T18:26:24.913Z</updated>
+    <updated>2024-08-25T19:18:09.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김문수·김건희 여사·쟁점법안…여야, 주초 국회 곳곳서 '격돌']]></title>
+        <id>https://v.daum.net/v/20240826041004671</id>
+        <link href="https://v.daum.net/v/20240826041004671"/>
+        <updated>2024-08-25T19:16:17.196Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김문수 “외국인 근로자 최저임금 차등, 헌법 배치”]]></title>
         <id>https://v.daum.net/v/20240826030101452</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240826030046446"/>
         <updated>2024-08-25T18:24:30.350Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김문수 고용노동부 장관 후보자 오늘 인사청문회…‘반노동·극우 논란’ 도마에]]></title>
-        <id>https://v.daum.net/v/20240826010250208</id>
-        <link href="https://v.daum.net/v/20240826010250208"/>
-        <updated>2024-08-25T16:23:09.269Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

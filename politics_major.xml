@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-08-25T18:26:24.890Z</updated>
+    <updated>2024-08-25T19:18:09.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20240826030050447"/>
         <updated>2024-08-25T18:24:39.455Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김문수 고용노동부 장관 후보자 오늘 인사청문회…‘반노동·극우 논란’ 도마에]]></title>
+        <id>https://v.daum.net/v/20240826010250208</id>
+        <link href="https://v.daum.net/v/20240826010250208"/>
+        <updated>2024-08-25T19:16:25.958Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국정원 1급 간부 오늘 10명 교체]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240826005137169"/>
         <updated>2024-08-25T16:23:18.607Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현역·예비역, 전역한 남원함에 취역기 올려…전시 예비역 함정 재취역 훈련 첫 실시]]></title>
-        <id>https://v.daum.net/v/20240825231927591</id>
-        <link href="https://v.daum.net/v/20240825231927591"/>
-        <updated>2024-08-25T16:23:18.613Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
 </feed>
