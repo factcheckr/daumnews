@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-25T14:18:07.942Z</updated>
+    <updated>2024-08-25T15:21:48.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20240825180702488"/>
         <updated>2024-08-25T14:17:38.956Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["공중에서 몸을 쫙 펴고"...멋진 동작하다 평생 마비 신세, 무슨 사연?]]></title>
+        <id>https://v.daum.net/v/20240825200455993</id>
+        <link href="https://v.daum.net/v/20240825200455993"/>
+        <updated>2024-08-25T15:21:15.526Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뇌 속 별세포 통해 알츠하이머 유발 물질 제거...국내 연구진이 규명]]></title>
+        <id>https://v.daum.net/v/20240825171327696</id>
+        <link href="https://v.daum.net/v/20240825171327696"/>
+        <updated>2024-08-25T15:21:15.529Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['상상 속 세계가 현실로'…세종 '첨단 모빌리티 도시' 조성 추진]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240825171516740"/>
         <updated>2024-08-25T11:19:46.305Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["알츠하이머 신약 레켐비, 치료효과 한계"]]></title>
-        <id>https://v.daum.net/v/20240825171518741</id>
-        <link href="https://v.daum.net/v/20240825171518741"/>
-        <updated>2024-08-25T10:21:00.474Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“삼성도 놀랐다” 회사에서 AI 안쓰면 소외감 느껴…이런 사람 많더니]]></title>
-        <id>https://v.daum.net/v/20240825165230199</id>
-        <link href="https://v.daum.net/v/20240825165230199"/>
-        <updated>2024-08-25T10:21:00.475Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
