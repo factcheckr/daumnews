@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-25T11:20:16.794Z</updated>
+    <updated>2024-08-25T12:36:37.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240825182201673"/>
         <updated>2024-08-25T10:21:00.473Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중고거래 플랫폼, AI로 서비스 혁신…신뢰·효율 잡는다]]></title>
+        <id>https://v.daum.net/v/20240825142650480</id>
+        <link href="https://v.daum.net/v/20240825142650480"/>
+        <updated>2024-08-25T12:36:08.006Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['젊은과학기술자상'에 김도형·최준희 교수]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240825140431086"/>
         <updated>2024-08-25T09:21:07.805Z</updated>
         <content type="html"><![CDATA[게임톡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네카오, AI 개발 박차 …생성형·AI 비서 '승부수']]></title>
-        <id>https://v.daum.net/v/20240825150230287</id>
-        <link href="https://v.daum.net/v/20240825150230287"/>
-        <updated>2024-08-25T08:24:15.863Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
