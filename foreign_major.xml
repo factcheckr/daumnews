@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-08-25T12:36:37.173Z</updated>
+    <updated>2024-08-25T13:22:06.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이스라엘의 정확한 정보력…선제타격으로 전면전 막았다"]]></title>
+        <id>https://v.daum.net/v/20240825200243955</id>
+        <link href="https://v.daum.net/v/20240825200243955"/>
+        <updated>2024-08-25T13:21:00.326Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이스라엘·레바논 군사충돌에…에어프랑스, 항공편 중단]]></title>
         <id>https://v.daum.net/v/20240825203747345</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240825200232950"/>
         <updated>2024-08-25T12:35:40.978Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스라엘 선제 공습에 '로켓' 반격…전면전으로 번지나]]></title>
-        <id>https://v.daum.net/v/20240825200305965</id>
-        <link href="https://v.daum.net/v/20240825200305965"/>
-        <updated>2024-08-25T12:35:40.979Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>

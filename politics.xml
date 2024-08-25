@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2024-08-25T12:36:37.184Z</updated>
+    <updated>2024-08-25T13:22:06.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도의회 ‘징계·구속, 의정비 미지급’…조례 개정 추진]]></title>
+        <id>https://v.daum.net/v/20240825215525131</id>
+        <link href="https://v.daum.net/v/20240825215525131"/>
+        <updated>2024-08-25T13:20:17.776Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[필리핀 이모 임금 차등, 서울시 요청에...김문수 “반대한다”]]></title>
         <id>https://v.daum.net/v/20240825212100848</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240825190507329"/>
         <updated>2024-08-25T12:35:03.804Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤 대통령은 왜 ‘친일 정책’ 계속하나]]></title>
-        <id>https://v.daum.net/v/20240825205804555</id>
-        <link href="https://v.daum.net/v/20240825205804555"/>
-        <updated>2024-08-25T12:35:03.806Z</updated>
-        <content type="html"><![CDATA[한겨레21]]></content>
     </entry>
 </feed>
