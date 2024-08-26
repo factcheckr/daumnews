@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-08-26T13:27:06.777Z</updated>
+    <updated>2024-08-26T14:21:08.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마음이 이끄는 삶 담은 뮤지컬 ‘박열’, 전시 ‘리얼 뱅크시’]]></title>
+        <id>https://v.daum.net/v/20240826161230242</id>
+        <link href="https://v.daum.net/v/20240826161230242"/>
+        <updated>2024-08-26T14:20:08.511Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["회식 불참, 돈으로 주세요"…이런 MZ에 쓸 '말발의 기술']]></title>
         <id>https://v.daum.net/v/20240826210023877</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240826200302129"/>
         <updated>2024-08-26T11:18:20.989Z</updated>
         <content type="html"><![CDATA[한겨레21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['군대 2번 다녀온' 싸이 남다른 군 사랑… 2년 연속 흠뻑쇼 초대]]></title>
-        <id>https://v.daum.net/v/20240826200128104</id>
-        <link href="https://v.daum.net/v/20240826200128104"/>
-        <updated>2024-08-26T13:26:10.692Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
