@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2024-08-26T18:28:13.553Z</updated>
+    <updated>2024-08-26T19:18:23.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[머스크, 테슬라 본사에 구축한 'AI 개발용' 슈퍼컴퓨터 공개]]></title>
-        <id>https://v.daum.net/v/20240827032433559</id>
-        <link href="https://v.daum.net/v/20240827032433559"/>
-        <updated>2024-08-26T18:27:02.523Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA['아시아에서 유럽까지'…보스포루스 수영대회 2천800명 참가]]></title>
         <id>https://v.daum.net/v/20240827025530358</id>
@@ -46,5 +39,12 @@
         <link href="https://v.daum.net/v/20240827020023274"/>
         <updated>2024-08-26T17:18:59.725Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 엔비디아 주가 실적 발표 앞두고 경계심에 2% 하락]]></title>
+        <id>https://v.daum.net/v/20240827015033256</id>
+        <link href="https://v.daum.net/v/20240827015033256"/>
+        <updated>2024-08-26T19:17:25.166Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
