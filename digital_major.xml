@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-26T16:27:52.216Z</updated>
+    <updated>2024-08-26T17:20:14.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240826191050366"/>
         <updated>2024-08-26T12:40:09.627Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘2인 방통위 제동’ 법원 “본안소송 통해 다툴 여지 有”]]></title>
+        <id>https://v.daum.net/v/20240826191453410</id>
+        <link href="https://v.daum.net/v/20240826191453410"/>
+        <updated>2024-08-26T17:19:40.781Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["같이 천국 가자" 이 말에 세상 등진 남성…AI 살 길, '규제'에 달렸다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240826173727002"/>
         <updated>2024-08-26T10:22:54.795Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주요기업 61% AI 도입했지만···"비용·인재 확보 어려워 한계"]]></title>
-        <id>https://v.daum.net/v/20240826173633969</id>
-        <link href="https://v.daum.net/v/20240826173633969"/>
-        <updated>2024-08-26T10:22:54.795Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>

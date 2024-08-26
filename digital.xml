@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-08-26T16:27:52.191Z</updated>
+    <updated>2024-08-26T17:20:14.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[말 못하는 루게릭병 환자 말문 열리다!...주목받는 뇌 전극 기술]]></title>
+        <id>https://v.daum.net/v/20240827012818177</id>
+        <link href="https://v.daum.net/v/20240827012818177"/>
+        <updated>2024-08-26T17:19:33.051Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[열 4배 뿜는 엔비디아 칩, 물로 식힌다]]></title>
         <id>https://v.daum.net/v/20240827004547988</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240826200651178"/>
         <updated>2024-08-26T11:18:37.536Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘2인 방통위 제동’ 법원 “본안소송 통해 다툴 여지 有”]]></title>
-        <id>https://v.daum.net/v/20240826191453410</id>
-        <link href="https://v.daum.net/v/20240826191453410"/>
-        <updated>2024-08-26T11:18:37.538Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
