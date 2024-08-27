@@ -2,21 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2024-08-27T19:17:35.721Z</updated>
+    <updated>2024-08-27T20:24:13.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔비디아 실적 좋은가…나스닥 +0.16% S&P +0.16%]]></title>
+        <id>https://v.daum.net/v/20240828051411795</id>
+        <link href="https://v.daum.net/v/20240828051411795"/>
+        <updated>2024-08-27T20:22:53.019Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['빈곤 퇴치' 한 목소리…해리스vs트럼프 해법은 딴 목소리]]></title>
+        <id>https://v.daum.net/v/20240828045327411</id>
+        <link href="https://v.daum.net/v/20240828045327411"/>
+        <updated>2024-08-27T20:22:53.020Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["히틀러 절대악 아니다" 말까지…독일 극우 정치인 압도적 1위 [후후월드]]]></title>
+        <id>https://v.daum.net/v/20240828050120542</id>
+        <link href="https://v.daum.net/v/20240828050120542"/>
+        <updated>2024-08-27T20:22:53.022Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머스크, 美캘리포니아주 AI 규제 법안 지지…"잠재적 위험"]]></title>
         <id>https://v.daum.net/v/20240828035246150</id>
         <link href="https://v.daum.net/v/20240828035246150"/>
         <updated>2024-08-27T19:16:31.572Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아마존, AI 음성비서 '알렉사' 10월 출시"…음성비서 경쟁 치열]]></title>
-        <id>https://v.daum.net/v/20240828034233126</id>
-        <link href="https://v.daum.net/v/20240828034233126"/>
-        <updated>2024-08-27T19:16:31.575Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240828024741822"/>
         <updated>2024-08-27T18:27:17.720Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나토, 우크라 요청으로 28일에 대사급 회의 개최]]></title>
-        <id>https://v.daum.net/v/20240828024528817</id>
-        <link href="https://v.daum.net/v/20240828024528817"/>
-        <updated>2024-08-27T18:27:17.721Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["文, '김정은에게 핵은 방어용'…펜스는 '공격목적' 고려해야 반박"]]></title>
-        <id>https://v.daum.net/v/20240828021811748</id>
-        <link href="https://v.daum.net/v/20240828021811748"/>
-        <updated>2024-08-27T18:27:17.724Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
