@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-08-27T15:23:34.546Z</updated>
+    <updated>2024-08-27T16:26:19.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유튜브 삭제당한 고영욱, 반격 나섰다]]></title>
+        <id>https://v.daum.net/v/20240827233318692</id>
+        <link href="https://v.daum.net/v/20240827233318692"/>
+        <updated>2024-08-27T16:24:20.837Z</updated>
+        <content type="html"><![CDATA[사회]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기업대출 늘렸더니 부실채권 부메랑으로…은행권 어쩌나]]></title>
         <id>https://v.daum.net/v/20240828000043907</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20240827223003044"/>
         <updated>2024-08-27T14:18:17.074Z</updated>
         <content type="html"><![CDATA[경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] '코로나 결석' 9000명 넘었다…전교생 30% 집단감염되기도]]></title>
-        <id>https://v.daum.net/v/20240827202652065</id>
-        <link href="https://v.daum.net/v/20240827202652065"/>
-        <updated>2024-08-27T14:18:17.075Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
     </entry>
 </feed>
