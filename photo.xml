@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-08-27T02:42:03.108Z</updated>
+    <updated>2024-08-27T03:24:04.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[딥페이크 성범죄 경찰 수사 촉구]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5615618/Vf9shttsDr</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5615618/Vf9shttsDr"/>
+        <updated>2024-08-27T03:23:39.406Z</updated>
+        <content type="html"><![CDATA[오마이포토]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경기남부경찰청, 부천 화재 호텔 압수수색 [포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5840500/5r0w0441lM</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/2438/KFrzVCCn0g"/>
         <updated>2024-08-26T11:18:53.960Z</updated>
         <content type="html"><![CDATA[바티칸은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[귀여운 자가용 [포토에세이]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/172711/QCBwAuuSxo</id>
-        <link href="https://gallery.v.daum.net/p/viewer/172711/QCBwAuuSxo"/>
-        <updated>2024-08-26T10:23:02.952Z</updated>
-        <content type="html"><![CDATA[포토에세이]]></content>
     </entry>
 </feed>
