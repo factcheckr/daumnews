@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-08-27T18:28:36.883Z</updated>
+    <updated>2024-08-27T19:17:35.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘 날씨] 아침 최저 20도↓, 일교차 커…10호 태풍 '산산', 예상 이동 경로는?]]></title>
+        <id>https://v.daum.net/v/20240828032652087</id>
+        <link href="https://v.daum.net/v/20240828032652087"/>
+        <updated>2024-08-27T19:16:46.641Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 2024년 08월 28일 별자리 운세]]></title>
         <id>https://v.daum.net/v/20240828000304984</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240827223254080"/>
         <updated>2024-08-27T14:19:24.857Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“평생 못 걷는다 했지만"...희귀병 소녀 18세에 첫걸음, 무슨 사연?]]></title>
-        <id>https://v.daum.net/v/20240827220756805</id>
-        <link href="https://v.daum.net/v/20240827220756805"/>
-        <updated>2024-08-27T13:23:51.026Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
