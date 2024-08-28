@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-08-28T15:23:27.356Z</updated>
+    <updated>2024-08-28T16:27:58.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디스플레이에 3차원 제주도가 불쑥… 늘이거나 비틀어도 원상 회복]]></title>
+        <id>https://v.daum.net/v/20240829005020550</id>
+        <link href="https://v.daum.net/v/20240829005020550"/>
+        <updated>2024-08-28T16:27:14.131Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콕스웨이브가 제시한 AI 안전성 강화 방안은?]]></title>
         <id>https://v.daum.net/v/20240828233528823</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240828165918529"/>
         <updated>2024-08-28T14:20:13.348Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“다음 우주 산업은 ‘우주 채굴’…10년 뒤면 달에서 채취한 헬륨-3 지구에서 쓴다”]]></title>
-        <id>https://v.daum.net/v/20240828184450776</id>
-        <link href="https://v.daum.net/v/20240828184450776"/>
-        <updated>2024-08-28T12:40:28.367Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
