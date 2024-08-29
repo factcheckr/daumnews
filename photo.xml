@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-08-29T19:18:48.266Z</updated>
+    <updated>2024-08-29T20:22:52.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5840500/tVbfriiBlZ"/>
         <updated>2024-08-29T15:26:00.375Z</updated>
         <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[럭셔리 개모차[고양이 눈]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/8jguPuuSmH</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/8jguPuuSmH"/>
+        <updated>2024-08-29T20:22:24.023Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오리온 ‘10년 이상 뚝심 있게 지켜온 가격’ 얼마일까?[포토뉴스]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/344179/2T5awlloDe"/>
         <updated>2024-08-29T07:20:30.378Z</updated>
         <content type="html"><![CDATA[청계천 옆 사진관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사라 브라이트만 '선셋 대로' 시드니 개막]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033350/8I0cFqqyu2</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033350/8I0cFqqyu2"/>
-        <updated>2024-08-29T06:29:39.181Z</updated>
-        <content type="html"><![CDATA[호주는 지금]]></content>
     </entry>
 </feed>
