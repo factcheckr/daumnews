@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-08-29T18:28:44.548Z</updated>
+    <updated>2024-08-29T19:18:48.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[韓-李, 내달 1일 회담… 금투세 폐지-25만원 지원 등 ‘의제 수싸움’]]></title>
+        <id>https://v.daum.net/v/20240830030307582</id>
+        <link href="https://v.daum.net/v/20240830030307582"/>
+        <updated>2024-08-29T19:16:21.633Z</updated>
+        <content type="html"><![CDATA[정치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹 “솔직히 뉴라이트가 뭔지 잘 모른다”]]></title>
         <id>https://v.daum.net/v/20240830030259578</id>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20240829214050100"/>
         <updated>2024-08-29T15:24:22.597Z</updated>
         <content type="html"><![CDATA[속보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결국 연금 깎는 정부…‘소득 보장’보다 ‘지속 가능성’ 앞세워]]></title>
-        <id>https://v.daum.net/v/20240829215316319</id>
-        <link href="https://v.daum.net/v/20240829215316319"/>
-        <updated>2024-08-29T15:24:22.597Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
     </entry>
 </feed>
