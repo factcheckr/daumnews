@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-08-29T17:19:31.770Z</updated>
+    <updated>2024-08-29T18:28:44.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파가니의 ‘3막 2장’… 전 세계에 오직 130대만 달린다 [류청희의 젠틀맨 드라이버]]]></title>
+        <id>https://v.daum.net/v/20240830030559662</id>
+        <link href="https://v.daum.net/v/20240830030559662"/>
+        <updated>2024-08-29T18:27:40.562Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 날씨] 열대야 '안녕'…낮 최고 35도 '늦더위']]></title>
         <id>https://v.daum.net/v/20240830000052519</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240829233300294"/>
         <updated>2024-08-29T15:25:31.500Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["무대와 매체 사이…우리는 '지역 극'에 남는다" [무너지는 지역 연극⑤]]]></title>
-        <id>https://v.daum.net/v/20240829193935989</id>
-        <link href="https://v.daum.net/v/20240829193935989"/>
-        <updated>2024-08-29T14:22:49.592Z</updated>
-        <content type="html"><![CDATA[경기일보]]></content>
     </entry>
 </feed>
