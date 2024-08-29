@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-08-29T21:21:25.658Z</updated>
+    <updated>2024-08-29T22:20:38.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도로 위 달리다 땅으로 꺼졌다]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5032452/UiJbyKKG1s</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5032452/UiJbyKKG1s"/>
+        <updated>2024-08-29T22:20:15.661Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해리스 응원하는 한국계 조카들]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1644543/GFaJURRupK</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615616/ykwyNrrRU1"/>
         <updated>2024-08-29T07:20:30.378Z</updated>
         <content type="html"><![CDATA[뉴스1 PICK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈물 배웅 속 교육청 나선 조희연 교육감[청계천 옆 사진관]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/344179/2T5awlloDe</id>
-        <link href="https://gallery.v.daum.net/p/viewer/344179/2T5awlloDe"/>
-        <updated>2024-08-29T07:20:30.378Z</updated>
-        <content type="html"><![CDATA[청계천 옆 사진관]]></content>
     </entry>
 </feed>
