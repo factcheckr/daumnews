@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-08-29T22:20:38.701Z</updated>
+    <updated>2024-08-29T23:23:58.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[엔비디아 젠슨 황 "블랙웰, 호퍼보다 효율적"]]></title>
-        <id>https://v.daum.net/v/20240830064501594</id>
-        <link href="https://v.daum.net/v/20240830064501594"/>
-        <updated>2024-08-29T22:20:01.999Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
+        <title type="html"><![CDATA[숨만 쉬어도 코로나 진단…똑똑한 마스크 나왔다]]></title>
+        <id>https://v.daum.net/v/20240830030509649</id>
+        <link href="https://v.daum.net/v/20240830030509649"/>
+        <updated>2024-08-29T23:23:16.977Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에스지바이오헬스, 노인 낙상사고 방지하는 통합 솔루션 개발]]></title>
+        <id>https://v.daum.net/v/20240830080108794</id>
+        <link href="https://v.daum.net/v/20240830080108794"/>
+        <updated>2024-08-29T23:23:16.979Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[S리포트] 2000만원대 가사로봇 나올까]]></title>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240830060309152"/>
         <updated>2024-08-29T21:20:43.523Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숨만 쉬어도 건강 진단…스마트 마스크 나왔다]]></title>
-        <id>https://v.daum.net/v/20240830030020554</id>
-        <link href="https://v.daum.net/v/20240830030020554"/>
-        <updated>2024-08-29T21:20:43.524Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
