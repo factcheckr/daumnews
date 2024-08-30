@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-08-30T20:24:47.423Z</updated>
+    <updated>2024-08-30T21:22:21.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[게임위 서태건호 출항…쌓인 과제 만만찮네]]></title>
+        <id>https://v.daum.net/v/20240831060253277</id>
+        <link href="https://v.daum.net/v/20240831060253277"/>
+        <updated>2024-08-30T21:21:38.623Z</updated>
+        <content type="html"><![CDATA[쿠키뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["딥페이크, 인공인 걸 알고 봐도 어느새 진위 경계 사라져"]]></title>
+        <id>https://v.daum.net/v/20240831060138245</id>
+        <link href="https://v.daum.net/v/20240831060138245"/>
+        <updated>2024-08-30T21:21:38.624Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[범죄 악용 vs 보안 유지, 텔레그램發 ‘암호화 기술’ 논란]]></title>
         <id>https://v.daum.net/v/20240831012038233</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240831000022735"/>
         <updated>2024-08-30T15:23:20.402Z</updated>
         <content type="html"><![CDATA[엘르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[CODEGATE 2024] AI 학습오류 잡아낸 실력…화이트해커 승부 갈랐다]]></title>
-        <id>https://v.daum.net/v/20240830180904750</id>
-        <link href="https://v.daum.net/v/20240830180904750"/>
-        <updated>2024-08-30T14:20:30.114Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제주도-제주RIS, 구글과 글로벌 인공지능 인재양성 협약 체결 후 눈부신 성과]]></title>
-        <id>https://v.daum.net/v/20240830224055167</id>
-        <link href="https://v.daum.net/v/20240830224055167"/>
-        <updated>2024-08-30T20:23:56.465Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>
