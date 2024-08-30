@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-08-30T18:29:14.392Z</updated>
+    <updated>2024-08-30T19:18:02.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한총리, 김포서 아프리카돼지열병 발생에 방역 긴급 지시]]></title>
+        <id>https://v.daum.net/v/20240831035033755</id>
+        <link href="https://v.daum.net/v/20240831035033755"/>
+        <updated>2024-08-30T19:15:48.132Z</updated>
+        <content type="html"><![CDATA[경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경기 김포서 아프리카돼지열병…올해 여덟번째 사례]]></title>
+        <id>https://v.daum.net/v/20240831033330741</id>
+        <link href="https://v.daum.net/v/20240831033330741"/>
+        <updated>2024-08-30T19:15:48.132Z</updated>
+        <content type="html"><![CDATA[경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싱크홀 사고 30m 부근 도로서 지반침하 또 발견]]></title>
         <id>https://v.daum.net/v/20240831014148481</id>
@@ -104,13 +118,6 @@
         <content type="html"><![CDATA[사회]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“죽을 줄은 몰랐다”…친아들 때려잡은 ‘폭군’ 아빠, 참혹하고 황당한 사연[이원율의 후암동 미술관-이반 4세 편]]]></title>
-        <id>https://v.daum.net/v/20240831001233869</id>
-        <link href="https://v.daum.net/v/20240831001233869"/>
-        <updated>2024-08-30T15:21:34.043Z</updated>
-        <content type="html"><![CDATA[문화]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“외모만으로 나이 판단 불가”…서른 전 미국서 담배 사려면 신분증 보여줘야]]></title>
         <id>https://v.daum.net/v/20240831001327875</id>
         <link href="https://v.daum.net/v/20240831001327875"/>
@@ -137,12 +144,5 @@
         <link href="https://v.daum.net/v/20240831000016732"/>
         <updated>2024-08-30T18:27:02.257Z</updated>
         <content type="html"><![CDATA[정치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['필리핀 이모' 3일부터 출근…'최저임금 차등적용' 논란 심화]]></title>
-        <id>https://v.daum.net/v/20240831000106755</id>
-        <link href="https://v.daum.net/v/20240831000106755"/>
-        <updated>2024-08-30T18:27:02.259Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
     </entry>
 </feed>
