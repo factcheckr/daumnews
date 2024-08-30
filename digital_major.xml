@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-08-30T14:21:11.533Z</updated>
+    <updated>2024-08-30T15:24:10.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[텔레그램 대표 체포되자 프랑스서 디도스 등 공격 발생…왜?]]></title>
+        <title type="html"><![CDATA[아이폰16, 한국 출시일 9월 20일 전망…15년 만에 '1차 출시국']]></title>
+        <id>https://v.daum.net/v/20240830190952296</id>
+        <link href="https://v.daum.net/v/20240830190952296"/>
+        <updated>2024-08-30T15:23:30.073Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[텔레그램 대표 체포되자 프랑스서 해커 공격 '급증'…왜?]]></title>
         <id>https://v.daum.net/v/20240830163154564</id>
         <link href="https://v.daum.net/v/20240830163154564"/>
         <updated>2024-08-30T14:20:39.111Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240830171555157"/>
         <updated>2024-08-30T10:22:59.495Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이 색깔 맞아?"…구릿빛 아이폰16 프로 맥스 등장 [영상]]]></title>
-        <id>https://v.daum.net/v/20240830162230337</id>
-        <link href="https://v.daum.net/v/20240830162230337"/>
-        <updated>2024-08-30T09:25:48.861Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
