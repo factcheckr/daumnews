@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-08-30T13:25:58.309Z</updated>
+    <updated>2024-08-30T14:21:11.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240830215728697"/>
         <updated>2024-08-30T13:24:25.671Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재보궐선거 ‘호남 쟁탈전’…지방선거 전초전?]]></title>
+        <id>https://v.daum.net/v/20240830214538543</id>
+        <link href="https://v.daum.net/v/20240830214538543"/>
+        <updated>2024-08-30T14:19:31.825Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['한정갈등' 친윤계 겨냥?…한동훈 "갈등 프레임 본질 흐려"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240830205733979"/>
         <updated>2024-08-30T12:38:16.525Z</updated>
         <content type="html"><![CDATA[연합뉴스TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]종부세·금투세 관문 조세위원장 두고 여야 충돌…민주 “1년+1년” 제안]]></title>
-        <id>https://v.daum.net/v/20240830203615685</id>
-        <link href="https://v.daum.net/v/20240830203615685"/>
-        <updated>2024-08-30T12:38:16.528Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
     </entry>
 </feed>
