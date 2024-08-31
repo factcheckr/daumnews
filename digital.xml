@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-08-31T03:23:46.811Z</updated>
+    <updated>2024-08-31T04:27:20.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["아이폰17 프로, 신규 색상은 ‘골드 티타늄’"]]></title>
+        <title type="html"><![CDATA[화성은 모두 내탁(內托)일까? [이강웅의 수원화성이야기]]]></title>
+        <id>https://v.daum.net/v/20240831130135414</id>
+        <link href="https://v.daum.net/v/20240831130135414"/>
+        <updated>2024-08-31T04:26:26.343Z</updated>
+        <content type="html"><![CDATA[경기일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ZD e게임] '안녕서울: 이태원편', 아포칼립스 서울의 이야기]]></title>
+        <id>https://v.daum.net/v/20240831123128172</id>
+        <link href="https://v.daum.net/v/20240831123128172"/>
+        <updated>2024-08-31T04:26:26.345Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["아이폰16 프로, 신규 색상은 ‘골드 티타늄’"]]></title>
         <id>https://v.daum.net/v/20240831120040956</id>
         <link href="https://v.daum.net/v/20240831120040956"/>
         <updated>2024-08-31T03:22:58.165Z</updated>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240831110108411"/>
         <updated>2024-08-31T02:43:46.499Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[게임위드인] 장르 다각화 나선 엔씨의 불완전한 첫걸음 '호연']]></title>
-        <id>https://v.daum.net/v/20240831110011394</id>
-        <link href="https://v.daum.net/v/20240831110011394"/>
-        <updated>2024-08-31T02:43:46.500Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[본격화된 우주관광 시대, 장단점은? [우주로 간다]]]></title>
-        <id>https://v.daum.net/v/20240831100230799</id>
-        <link href="https://v.daum.net/v/20240831100230799"/>
-        <updated>2024-08-31T02:43:46.501Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
