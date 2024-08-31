@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-08-31T12:37:42.517Z</updated>
+    <updated>2024-08-31T13:23:50.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20240831212254586"/>
         <updated>2024-08-31T12:36:31.860Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국서 북한 미술품 판매…대북제재 위반 가능성]]></title>
+        <id>https://v.daum.net/v/20240831211456487</id>
+        <link href="https://v.daum.net/v/20240831211456487"/>
+        <updated>2024-08-31T13:22:44.049Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국 식당, 앞다퉈 "반값"…미슐랭도 '가난뱅이 정식']]></title>
+        <id>https://v.daum.net/v/20240831203606073</id>
+        <link href="https://v.daum.net/v/20240831203606073"/>
+        <updated>2024-08-31T13:22:44.051Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전선 확대하는 이스라엘…어두워진 휴전 전망]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240831175923158"/>
         <updated>2024-08-31T12:36:31.868Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태풍 ‘산산’ 이휩쓴 일본 ‘경악’···지하철 입구가 잠겼다]]></title>
-        <id>https://v.daum.net/v/20240831175058044</id>
-        <link href="https://v.daum.net/v/20240831175058044"/>
-        <updated>2024-08-31T12:36:31.869Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카멀라 해리스 대선후보 남편, 박윤용 대의원에게 한인협조 당부]]></title>
-        <id>https://v.daum.net/v/20240831171450747</id>
-        <link href="https://v.daum.net/v/20240831171450747"/>
-        <updated>2024-08-31T11:17:21.387Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
