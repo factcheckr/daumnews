@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2024-09-01T14:18:51.736Z</updated>
+    <updated>2024-09-01T15:22:16.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우크라, 러 수도권 에너지시설 드론 공격…침략받은 지역선 고전]]></title>
+        <id>https://v.daum.net/v/20240901233550103</id>
+        <link href="https://v.daum.net/v/20240901233550103"/>
+        <updated>2024-09-01T15:20:57.872Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["구구단 시험봐야 하나"…英서 의무평가 축소 논쟁]]></title>
         <id>https://v.daum.net/v/20240901224034758</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240901192636870"/>
         <updated>2024-09-01T13:23:09.795Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“北해커가 구글 크롬 보안 뚫었다”…가상화폐 탈취까지]]></title>
-        <id>https://v.daum.net/v/20240901211201094</id>
-        <link href="https://v.daum.net/v/20240901211201094"/>
-        <updated>2024-09-01T13:23:09.796Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>

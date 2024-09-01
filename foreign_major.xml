@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-09-01T14:18:51.725Z</updated>
+    <updated>2024-09-01T15:22:16.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올해 65개국서 방중… 유럽정상들 14회 '최다'[글로벌리포트]]]></title>
+        <id>https://v.daum.net/v/20240901192636870</id>
+        <link href="https://v.daum.net/v/20240901192636870"/>
+        <updated>2024-09-01T15:21:06.590Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“北해커가 구글 크롬 보안 뚫었다”…가상화폐 탈취까지]]></title>
+        <id>https://v.daum.net/v/20240901211201094</id>
+        <link href="https://v.daum.net/v/20240901211201094"/>
+        <updated>2024-09-01T15:21:06.592Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차량 총격에 이스라엘 경찰 3명 숨져…인질 시신 6구 수습]]></title>
         <id>https://v.daum.net/v/20240901215134150</id>
@@ -25,13 +39,6 @@
         <link href="https://v.daum.net/v/20240901194234052"/>
         <updated>2024-09-01T13:23:20.073Z</updated>
         <content type="html"><![CDATA[채널A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['체코 잭팟' K원전, 슬로바키아·네덜란드 도미노 수주 기대]]></title>
-        <id>https://v.daum.net/v/20240901180313482</id>
-        <link href="https://v.daum.net/v/20240901180313482"/>
-        <updated>2024-09-01T13:23:20.074Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우크라 동부 요충지 진격 속도 내는 러시아…젤렌스키 ‘역풍’ 맞았다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240901202204494"/>
         <updated>2024-09-01T12:36:55.866Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日 강타한 태풍 '산산', 열대 저기압으로..사상자 130여 명]]></title>
-        <id>https://v.daum.net/v/20240901201402397</id>
-        <link href="https://v.daum.net/v/20240901201402397"/>
-        <updated>2024-09-01T12:36:55.868Z</updated>
-        <content type="html"><![CDATA[kbc광주방송]]></content>
     </entry>
 </feed>
