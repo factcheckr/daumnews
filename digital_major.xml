@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-09-01T10:21:36.211Z</updated>
+    <updated>2024-09-01T11:18:56.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20240901182130821"/>
         <updated>2024-09-01T10:20:58.294Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아마존 '알렉사'에 타사 AI모델 탑재]]></title>
+        <id>https://v.daum.net/v/20240901175700321</id>
+        <link href="https://v.daum.net/v/20240901175700321"/>
+        <updated>2024-09-01T11:18:22.225Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사이버 공격 공세적 대응···허위 정보 대응 강화]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240901160058999"/>
         <updated>2024-09-01T08:25:22.924Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버, 그린팩토리도 첨단 로봇빌딩으로 변신…기술 수익화 본격 실현]]></title>
-        <id>https://v.daum.net/v/20240901150151527</id>
-        <link href="https://v.daum.net/v/20240901150151527"/>
-        <updated>2024-09-01T08:25:22.926Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
