@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-09-01T13:24:41.156Z</updated>
+    <updated>2024-09-01T14:18:51.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20240901212300211"/>
         <updated>2024-09-01T12:36:20.631Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재명 “문재인 수사 과도”···한동훈 “전 정부는 나를 그렇게 수사”]]></title>
+        <id>https://v.daum.net/v/20240901211444131</id>
+        <link href="https://v.daum.net/v/20240901211444131"/>
+        <updated>2024-09-01T14:17:08.158Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문 전 대통령 피의자 적시 공방…“정치 보복” “법 앞에 평등”]]></title>
+        <id>https://v.daum.net/v/20240901212814315</id>
+        <link href="https://v.daum.net/v/20240901212814315"/>
+        <updated>2024-09-01T14:17:08.159Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[9월 정기국회·예산심의..지역 의원 현안 해결 총력 다짐]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240901205504813"/>
         <updated>2024-09-01T12:36:20.633Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해병대원 특검·25만원 지원법은 이견 못 좁혀]]></title>
-        <id>https://v.daum.net/v/20240901205407804</id>
-        <link href="https://v.daum.net/v/20240901205407804"/>
-        <updated>2024-09-01T12:36:20.633Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘피의자 문재인’ 적시에 야당 반발 “국면전환용 정치보복”]]></title>
-        <id>https://v.daum.net/v/20240901204724741</id>
-        <link href="https://v.daum.net/v/20240901204724741"/>
-        <updated>2024-09-01T12:36:20.638Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>

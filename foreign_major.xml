@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-09-01T13:24:41.158Z</updated>
+    <updated>2024-09-01T14:18:51.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차량 총격에 이스라엘 경찰 3명 숨져…인질 시신 6구 수습]]></title>
+        <id>https://v.daum.net/v/20240901215134150</id>
+        <link href="https://v.daum.net/v/20240901215134150"/>
+        <updated>2024-09-01T14:17:45.302Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지하도 잠기고 열차에서 잠자고…태풍 ‘산산’ 열대저압부로]]></title>
         <id>https://v.daum.net/v/20240901214252834</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240901201402397"/>
         <updated>2024-09-01T12:36:55.868Z</updated>
         <content type="html"><![CDATA[kbc광주방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하마스 억류 인질 6명 숨진 채 발견…백악관 "대가 치를 것"]]></title>
-        <id>https://v.daum.net/v/20240901195153124</id>
-        <link href="https://v.daum.net/v/20240901195153124"/>
-        <updated>2024-09-01T12:36:55.871Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>

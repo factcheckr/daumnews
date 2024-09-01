@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-01T13:24:41.166Z</updated>
+    <updated>2024-09-01T14:18:51.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[딥페이크 범람의 근본원인은?]]></title>
+        <id>https://v.daum.net/v/20240901230928937</id>
+        <link href="https://v.daum.net/v/20240901230928937"/>
+        <updated>2024-09-01T14:18:11.442Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생성AI, 과학논문 쏟아낸다…“동료평가 시스템 이미 망가져”]]></title>
+        <id>https://v.daum.net/v/20240901230002856</id>
+        <link href="https://v.daum.net/v/20240901230002856"/>
+        <updated>2024-09-01T14:18:11.443Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“아무도 이럴줄 몰랐다” 설마했는데…한국 ‘간판’ 삼성 노렸다]]></title>
         <id>https://v.daum.net/v/20240901203050606</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240901181503683"/>
         <updated>2024-09-01T10:20:49.508Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["AI시대는 위기이자 기회… 인간과 AI '원팀'일때 시너지"[미리보는 AI월드 2024]]]></title>
-        <id>https://v.daum.net/v/20240901182932955</id>
-        <link href="https://v.daum.net/v/20240901182932955"/>
-        <updated>2024-09-01T10:20:49.509Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딥페이크 범죄해결, AI로 AI잡는다]]></title>
-        <id>https://v.daum.net/v/20240901182525883</id>
-        <link href="https://v.daum.net/v/20240901182525883"/>
-        <updated>2024-09-01T10:20:49.510Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
