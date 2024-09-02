@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-09-02T19:19:23.216Z</updated>
+    <updated>2024-09-02T20:24:23.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1682593/uspW52e7FS"/>
         <updated>2024-09-02T17:19:26.791Z</updated>
         <content type="html"><![CDATA[대한민국 대통령실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이상한 지하도의 앨리스]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/3Rj5EYphmQ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/3Rj5EYphmQ"/>
+        <updated>2024-09-02T20:23:47.991Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제45차 한-호주 경제협력위원회 개회식 참석한 정인교 본부장]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033138/tWVSCqP37u"/>
         <updated>2024-09-02T08:28:23.232Z</updated>
         <content type="html"><![CDATA[이스라엘은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라 키이우서 러군 미사일 공습]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033399/Gtlx6mWA7K</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033399/Gtlx6mWA7K"/>
-        <updated>2024-09-02T07:21:09.426Z</updated>
-        <content type="html"><![CDATA[우크라이나는 지금]]></content>
     </entry>
 </feed>
