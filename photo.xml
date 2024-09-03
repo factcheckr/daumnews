@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-09-03T19:18:35.989Z</updated>
+    <updated>2024-09-03T20:27:09.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[녹조로 뒤덮인 세르비아 사바강]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5038638/3t9MMLwMvQ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5038638/3t9MMLwMvQ"/>
+        <updated>2024-09-03T20:26:39.500Z</updated>
+        <content type="html"><![CDATA[세르비아는 지금]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹, 추석 물가 점검]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1682593/yjryKFKG3W</id>
@@ -18,6 +25,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1075022/QJyI0W0CEG"/>
         <updated>2024-09-03T18:28:33.924Z</updated>
         <content type="html"><![CDATA[경찰 제공 포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[교황, 아시아·오세아니아 4개국 순방]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1106239/8ROdEiEQhH</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1106239/8ROdEiEQhH"/>
+        <updated>2024-09-03T20:26:39.505Z</updated>
+        <content type="html"><![CDATA[인도네시아는 지금]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[포옹하는 바이든과 해리스]]></title>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5968391/H5Oadl5rVk"/>
         <updated>2024-09-03T09:25:23.133Z</updated>
         <content type="html"><![CDATA[오늘의 한 컷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추석 맞이 장보기 나선 윤석열 대통령 [포토多이슈]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1112079/F5OYPmWAvB</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1112079/F5OYPmWAvB"/>
-        <updated>2024-09-03T08:27:44.388Z</updated>
-        <content type="html"><![CDATA[포토多이슈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['부동산 절세는 어떻게?']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5610796/P8utJS1m0s</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5610796/P8utJS1m0s"/>
-        <updated>2024-09-03T08:27:44.388Z</updated>
-        <content type="html"><![CDATA[모멘트]]></content>
     </entry>
 </feed>
