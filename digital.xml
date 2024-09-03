@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-03T18:28:57.360Z</updated>
+    <updated>2024-09-03T19:18:35.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이폰 SE도 이제 OLED 탑재… 다음은 아이패드?]]></title>
+        <id>https://v.daum.net/v/20240904040328776</id>
+        <link href="https://v.daum.net/v/20240904040328776"/>
+        <updated>2024-09-03T19:18:01.885Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주요 PC 제조사, 인텔 코어 울트라 200V 탑재 노트북 공개]]></title>
+        <id>https://v.daum.net/v/20240904034217732</id>
+        <link href="https://v.daum.net/v/20240904034217732"/>
+        <updated>2024-09-03T19:18:01.887Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[AI PC in IFA] 인텔 코어 울트라 시리즈 2, AI PC 기준 세운다]]></title>
         <id>https://v.daum.net/v/20240904023601396</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240903220435478"/>
         <updated>2024-09-03T14:20:49.574Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가블러코리아, 24일 부산서 오션테크컨퍼런스 개최]]></title>
-        <id>https://v.daum.net/v/20240903222728735</id>
-        <link href="https://v.daum.net/v/20240903222728735"/>
-        <updated>2024-09-03T14:20:49.576Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'삼성 5세대 HBM' 엔비디아 품질 인증 통과…제품 출하 시작"]]></title>
-        <id>https://v.daum.net/v/20240903215632336</id>
-        <link href="https://v.daum.net/v/20240903215632336"/>
-        <updated>2024-09-03T13:26:41.202Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
