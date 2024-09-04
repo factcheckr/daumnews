@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-04T13:27:20.684Z</updated>
+    <updated>2024-09-04T14:20:52.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뱅앤올룹슨, 베오플레이 H100 헤드폰 출시…219만원]]></title>
+        <id>https://v.daum.net/v/20240904225231006</id>
+        <link href="https://v.daum.net/v/20240904225231006"/>
+        <updated>2024-09-04T14:20:15.318Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스줌인] ‘AI PC’로 거듭난 신형 LG 그램, 뭐가 달라졌을까?]]></title>
         <id>https://v.daum.net/v/20240904210901526</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240904203953025"/>
         <updated>2024-09-04T12:40:45.559Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["입시 정보도 EBS에서"…모의평가 풀서비스 운영]]></title>
-        <id>https://v.daum.net/v/20240904194503921</id>
-        <link href="https://v.daum.net/v/20240904194503921"/>
-        <updated>2024-09-04T11:20:32.922Z</updated>
-        <content type="html"><![CDATA[EBS]]></content>
     </entry>
 </feed>
