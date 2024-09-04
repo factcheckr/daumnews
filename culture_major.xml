@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-09-04T02:45:21.785Z</updated>
+    <updated>2024-09-04T03:23:33.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[무안문화원, 7일 '무안의 인물과 사상' 학술대회 개최]]></title>
+        <id>https://v.daum.net/v/20240904100102283</id>
+        <link href="https://v.daum.net/v/20240904100102283"/>
+        <updated>2024-09-04T03:22:37.684Z</updated>
+        <content type="html"><![CDATA[kbc광주방송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘북아메리카 열매’ 포포나무로 연매출 3억원]]></title>
         <id>https://v.daum.net/v/20240904050152314</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240904050240367"/>
         <updated>2024-09-04T01:28:25.086Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[손병관의 뉴스프레소] 피의사실 공표, 어떻게 봐야 할까]]></title>
-        <id>https://v.daum.net/v/20240904081801432</id>
-        <link href="https://v.daum.net/v/20240904081801432"/>
-        <updated>2024-09-04T02:44:28.016Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
