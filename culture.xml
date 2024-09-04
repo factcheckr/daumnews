@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-09-04T15:24:16.716Z</updated>
+    <updated>2024-09-04T16:29:46.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘 날씨] 수도권 5㎜ 미만 '가을비'...가을은 왜 '독서의 계절'일까?]]></title>
+        <id>https://v.daum.net/v/20240905000045450</id>
+        <link href="https://v.daum.net/v/20240905000045450"/>
+        <updated>2024-09-04T16:28:28.427Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 2024년 09월 05일 별자리 운세]]></title>
         <id>https://v.daum.net/v/20240905000303538</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240904210316424"/>
         <updated>2024-09-04T12:40:26.803Z</updated>
         <content type="html"><![CDATA[대구MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번 주 서울은 '미술 도시'…화제작 한 자리에]]></title>
-        <id>https://v.daum.net/v/20240904210016351</id>
-        <link href="https://v.daum.net/v/20240904210016351"/>
-        <updated>2024-09-04T12:40:26.807Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
