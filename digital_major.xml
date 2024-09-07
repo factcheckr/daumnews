@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-09-07T13:23:53.453Z</updated>
+    <updated>2024-09-07T14:19:05.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中연구진 "달에서 1억2300만 년 전 화산활동 있었다"]]></title>
+        <id>https://v.daum.net/v/20240907172653798</id>
+        <link href="https://v.daum.net/v/20240907172653798"/>
+        <updated>2024-09-07T14:18:31.009Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["내 손목 절대 지켜"…처음 써본 '인체공학 키보드' 역체감이 무섭네[잇:써봐]]]></title>
         <id>https://v.daum.net/v/20240907174451165</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240907130127629"/>
         <updated>2024-09-07T07:21:18.685Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성범죄에 보이스피싱까지...딥페이크의 진화]]></title>
-        <id>https://v.daum.net/v/20240907123451415</id>
-        <link href="https://v.daum.net/v/20240907123451415"/>
-        <updated>2024-09-07T06:28:19.090Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
 </feed>
