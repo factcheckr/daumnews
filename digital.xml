@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-07T06:28:53.001Z</updated>
+    <updated>2024-09-07T07:21:49.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보잉 우주선, 6시간 만에 지구 도착…우주비행사들은 내년에(종합)]]></title>
+        <id>https://v.daum.net/v/20240907154127431</id>
+        <link href="https://v.daum.net/v/20240907154127431"/>
+        <updated>2024-09-07T07:21:11.799Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["응급의료 붕괴 막자"...정부, AI활용 응급환자 분류 SW 투자[AI헬스케어]]]></title>
         <id>https://v.daum.net/v/20240907152251253</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240907130726720"/>
         <updated>2024-09-07T04:25:25.349Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두께는 더 얇고, AI까지 담았다...삼성전자 갤럭시 뒤쫓는 중국산 접는 폰]]></title>
-        <id>https://v.daum.net/v/20240907130127629</id>
-        <link href="https://v.daum.net/v/20240907130127629"/>
-        <updated>2024-09-07T04:25:25.349Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
