@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-09-08T02:52:07.910Z</updated>
+    <updated>2024-09-08T03:26:03.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["추석 때 부모님 '잠꼬대' 확인하세요"…무심코 넘겼다간 '큰일']]></title>
+        <id>https://v.daum.net/v/20240908103051428</id>
+        <link href="https://v.daum.net/v/20240908103051428"/>
+        <updated>2024-09-08T03:25:01.563Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['배우 부부' 공민정 결혼식 소감…"마법 같은 시간, 안녕"]]></title>
         <id>https://v.daum.net/v/20240908113901693</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240908093000455"/>
         <updated>2024-09-08T02:51:10.934Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 길해연 모친상…슬픔 속 빈소 지켜]]></title>
-        <id>https://v.daum.net/v/20240908103003410</id>
-        <link href="https://v.daum.net/v/20240908103003410"/>
-        <updated>2024-09-08T01:41:17.257Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
 </feed>
