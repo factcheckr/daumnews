@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-09-08T19:19:12.365Z</updated>
+    <updated>2024-09-08T20:22:30.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["어제 격렬하게 했어? 목에 상처가 있네" 끔찍한 상사들 성희롱]]></title>
+        <id>https://v.daum.net/v/20240909040751936</id>
+        <link href="https://v.daum.net/v/20240909040751936"/>
+        <updated>2024-09-08T20:21:28.834Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘 날씨] 푹푹 찌는 월요일 체감온도 33도... 반려동물·흙도 위험한 '파상풍' 예방법은]]></title>
         <id>https://v.daum.net/v/20240909005237526</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240908193739203"/>
         <updated>2024-09-08T15:23:03.951Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[녹유 오늘의 운세] 83년생 정확한 마무리 뒤끝 남기지 마요]]></title>
-        <id>https://v.daum.net/v/20240909000025141</id>
-        <link href="https://v.daum.net/v/20240909000025141"/>
-        <updated>2024-09-08T15:23:03.952Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
