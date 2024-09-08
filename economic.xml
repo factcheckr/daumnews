@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-09-08T16:27:32.041Z</updated>
+    <updated>2024-09-08T17:19:53.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인터넷 접속 장애 계기… 통신3사 공유기 전수조사]]></title>
+        <id>https://v.daum.net/v/20240909021431707</id>
+        <link href="https://v.daum.net/v/20240909021431707"/>
+        <updated>2024-09-08T17:18:15.483Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휴가철 1500만여명 해외로… 연휴 이어지는 내달까지 몰릴 듯]]></title>
         <id>https://v.daum.net/v/20240909004631496</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240909003429450"/>
         <updated>2024-09-08T16:25:33.692Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“1주택 갈아타기도 막으면 어떡해요” 실수요자 아우성]]></title>
-        <id>https://v.daum.net/v/20240909003249440</id>
-        <link href="https://v.daum.net/v/20240909003249440"/>
-        <updated>2024-09-08T16:25:33.693Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
