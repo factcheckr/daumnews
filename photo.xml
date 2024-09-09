@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-09-09T15:24:44.154Z</updated>
+    <updated>2024-09-09T16:30:20.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5847810/bWCKSJkP3l"/>
         <updated>2024-09-09T14:23:21.446Z</updated>
         <content type="html"><![CDATA[지자체 제공 포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그림자 수묵화]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/ZCDvAHuSmK</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/ZCDvAHuSmK"/>
+        <updated>2024-09-09T16:29:54.096Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한-싱가포르 국방장관 회담]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1644543/9l8k8chLDz"/>
         <updated>2024-09-09T06:33:44.948Z</updated>
         <content type="html"><![CDATA[2024 미국 대선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["쿠팡 청문회 실시하고 진상규명 하라!"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5615618/GtHmPu41E0</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5615618/GtHmPu41E0"/>
-        <updated>2024-09-09T06:33:44.951Z</updated>
-        <content type="html"><![CDATA[오마이포토]]></content>
     </entry>
 </feed>
