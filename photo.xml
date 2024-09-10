@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-09-10T17:20:09.488Z</updated>
+    <updated>2024-09-10T18:29:39.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美대선 해리스-트럼프 오늘 TV토론]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1644543/GEAAsnDxrv</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1644543/GEAAsnDxrv"/>
+        <updated>2024-09-10T18:29:18.122Z</updated>
+        <content type="html"><![CDATA[2024 미국 대선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마포대교 찾은 김건희 여사]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1682593/QMeY439HUl</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5843170/VckNlUf5uq"/>
         <updated>2024-09-10T06:30:15.179Z</updated>
         <content type="html"><![CDATA[동티모르는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선글라스 낀 해리스]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1644543/zX0sZVdzuh</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1644543/zX0sZVdzuh"/>
-        <updated>2024-09-10T06:30:15.181Z</updated>
-        <content type="html"><![CDATA[2024 미국 대선]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-09-10T17:20:09.461Z</updated>
+    <updated>2024-09-10T18:29:39.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“1도 오를때마다 ‘기후 난민’ 10억명 생겨… 新유목 이미 시작”]]></title>
+        <id>https://v.daum.net/v/20240911030400568</id>
+        <link href="https://v.daum.net/v/20240911030400568"/>
+        <updated>2024-09-10T18:28:46.749Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 마지막 ‘이건희 컬렉션’ 강원 왔다]]></title>
         <id>https://v.daum.net/v/20240911000730544</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240911000603480"/>
         <updated>2024-09-10T15:26:27.040Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드러난 ‘안세영 폭로’ 실상… 횡령·배임 가능성도 포착]]></title>
-        <id>https://v.daum.net/v/20240911000833567</id>
-        <link href="https://v.daum.net/v/20240911000833567"/>
-        <updated>2024-09-10T15:26:27.042Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
