@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-09-10T15:27:25.380Z</updated>
+    <updated>2024-09-10T16:26:29.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“아이폰16, 자급제+알뜰폰으로 더 똑똑하게”]]></title>
+        <id>https://v.daum.net/v/20240910154350609</id>
+        <link href="https://v.daum.net/v/20240910154350609"/>
+        <updated>2024-09-10T16:26:00.418Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓 아이폰 첫 1차 출시국 포함…업계·소비자 기대감↑]]></title>
         <id>https://v.daum.net/v/20240910102901888</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240910184005323"/>
         <updated>2024-09-10T12:00:34.960Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영상] 아폴로 이후 가장 멀리 떠난 인류…우주인 4명 ‘폴라리스 던’ 작전 돌입]]></title>
-        <id>https://v.daum.net/v/20240910183236136</id>
-        <link href="https://v.daum.net/v/20240910183236136"/>
-        <updated>2024-09-10T12:00:34.962Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
