@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-10T22:21:28.420Z</updated>
+    <updated>2024-09-10T23:21:08.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성 '갤럭시S25 울트라', 13g 더 가벼워진다]]></title>
+        <id>https://v.daum.net/v/20240911073027149</id>
+        <link href="https://v.daum.net/v/20240911073027149"/>
+        <updated>2024-09-10T23:20:35.411Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사프라 캣츠 오라클 CEO "CIA부터 MGM까지 고객 성공 여정 함께"]]></title>
         <id>https://v.daum.net/v/20240911065415652</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240911065052601"/>
         <updated>2024-09-10T22:20:48.132Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日야후재팬에 악플 쓰면 AI가 “고운말로 바꾸세요”]]></title>
-        <id>https://v.daum.net/v/20240911004524831</id>
-        <link href="https://v.daum.net/v/20240911004524831"/>
-        <updated>2024-09-10T22:20:48.134Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
