@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-10T14:21:43.285Z</updated>
+    <updated>2024-09-10T15:27:25.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버 지도 앱 이용자 상승세 뚜렷… 손 자주 가는 이유는]]></title>
+        <id>https://v.daum.net/v/20240911000231418</id>
+        <link href="https://v.daum.net/v/20240911000231418"/>
+        <updated>2024-09-10T15:26:45.351Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["JYP 김지아입니다" 기획사 사칭까지…진화한 스팸 문자]]></title>
         <id>https://v.daum.net/v/20240910221003262</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240910154350609"/>
         <updated>2024-09-10T12:41:44.100Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓 아이폰 첫 1차 출시국 포함…업계·소비자 기대감↑]]></title>
-        <id>https://v.daum.net/v/20240910102901888</id>
-        <link href="https://v.daum.net/v/20240910102901888"/>
-        <updated>2024-09-10T12:00:25.879Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
