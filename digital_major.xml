@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-09-12T10:23:55.712Z</updated>
+    <updated>2024-09-12T11:20:22.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20240912180902900"/>
         <updated>2024-09-12T09:23:00.055Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["우주정책, 민관군 협력 모델 만들어야…재사용발사체, 현실적 목표 필요"]]></title>
+        <id>https://v.daum.net/v/20240912175950568</id>
+        <link href="https://v.daum.net/v/20240912175950568"/>
+        <updated>2024-09-12T11:19:47.762Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단통법 폐지 공감하지만…후속조치 두고 이견 분분]]></title>
+        <id>https://v.daum.net/v/20240912175221231</id>
+        <link href="https://v.daum.net/v/20240912175221231"/>
+        <updated>2024-09-12T11:19:47.763Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[53조 투자에 '깜짝'…"기회의 땅" 한국 기업들 몰려간 나라]]></title>
@@ -34,7 +48,7 @@
         <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["AI 대전환기, 일률적 규제 대신 사안별 다각적 규제 필요"]]></title>
+        <title type="html"><![CDATA["AI 대전환기, 일률적 규제 대신 사안별 필요"]]></title>
         <id>https://v.daum.net/v/20240912172727221</id>
         <link href="https://v.daum.net/v/20240912172727221"/>
         <updated>2024-09-12T09:23:00.057Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240912165928084"/>
         <updated>2024-09-12T09:23:00.061Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화이자·녹십자, 성장호르몬 ‘지노트로핀’ 카카오톡 채널 ‘성장일기’ 오픈]]></title>
-        <id>https://v.daum.net/v/20240912125806945</id>
-        <link href="https://v.daum.net/v/20240912125806945"/>
-        <updated>2024-09-12T09:23:00.070Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플레이브, 메이브... 버추얼 아이돌 뒤에는 ‘게임 엔진’이 있었다?]]></title>
-        <id>https://v.daum.net/v/20240912163901297</id>
-        <link href="https://v.daum.net/v/20240912163901297"/>
-        <updated>2024-09-12T08:27:00.167Z</updated>
-        <content type="html"><![CDATA[게임동아]]></content>
     </entry>
 </feed>
