@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-09-13T15:26:13.646Z</updated>
+    <updated>2024-09-13T16:26:41.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/321090/WE1VZLTN2Q"/>
         <updated>2024-09-13T15:25:43.058Z</updated>
         <content type="html"><![CDATA[정부 부처 제공 포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꽃 배달 할아버지]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/tw5iSQmewJ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/tw5iSQmewJ"/>
+        <updated>2024-09-13T16:26:12.868Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[추석 명절 대비 치안 현장 점검하는 조지호 경찰청장]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1407/5WWDYqo9UI"/>
         <updated>2024-09-13T08:27:11.546Z</updated>
         <content type="html"><![CDATA[일본은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두 손 번쩍 든 이스라엘 반정부 시위대]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033138/3IOyuxsd3K</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033138/3IOyuxsd3K"/>
-        <updated>2024-09-13T08:27:11.548Z</updated>
-        <content type="html"><![CDATA[이스라엘은 지금]]></content>
     </entry>
 </feed>
