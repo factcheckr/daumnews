@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-09-13T19:19:31.068Z</updated>
+    <updated>2024-09-13T20:23:26.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다가오는 가을]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/KZgTUk5rMG</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/KZgTUk5rMG"/>
+        <updated>2024-09-13T20:22:58.963Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 오류동 공장 화재로 치솟은 검은 연기]]></title>
         <id>https://gallery.v.daum.net/p/viewer/386/58RV7DtsFf</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1471/FqN4ghzTzb"/>
         <updated>2024-09-13T08:27:11.544Z</updated>
         <content type="html"><![CDATA[세계의 정상들]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기자회견에서 발언하는 다카이치 사나에]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1407/5WWDYqo9UI</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1407/5WWDYqo9UI"/>
-        <updated>2024-09-13T08:27:11.546Z</updated>
-        <content type="html"><![CDATA[일본은 지금]]></content>
     </entry>
 </feed>
