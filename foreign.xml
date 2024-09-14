@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2024-09-14T15:21:47.039Z</updated>
+    <updated>2024-09-14T16:25:52.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국, 미국 대중 관세 인상에 강력 반발…"보복 조치 시사"]]></title>
+        <id>https://v.daum.net/v/20240915005839031</id>
+        <link href="https://v.daum.net/v/20240915005839031"/>
+        <updated>2024-09-14T16:24:39.697Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현대차도 짐 싼다…'이 나라'서 발 빼는 기업들]]></title>
         <id>https://v.daum.net/v/20240915001013888</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240914224452352"/>
         <updated>2024-09-14T14:18:02.327Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스라엘군, 가자 민간 거주지역 공격 최소 22명 숨져]]></title>
-        <id>https://v.daum.net/v/20240914224118324</id>
-        <link href="https://v.daum.net/v/20240914224118324"/>
-        <updated>2024-09-14T14:18:02.328Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
