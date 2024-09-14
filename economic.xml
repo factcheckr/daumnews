@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-09-14T18:27:54.302Z</updated>
+    <updated>2024-09-14T19:17:40.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["6만전자 싸잖아, 일단 사모아" 개미만 짝사랑…6조원 주웠다]]></title>
+        <id>https://v.daum.net/v/20240915040001400</id>
+        <link href="https://v.daum.net/v/20240915040001400"/>
+        <updated>2024-09-14T19:15:58.968Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['파크골프장'으로 돌려세워질까…尹댐 주민반발 여전]]></title>
         <id>https://v.daum.net/v/20240915020300212</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240914221501113"/>
         <updated>2024-09-14T13:22:24.746Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신한울 이어 다른 원전도 부활할까]]></title>
-        <id>https://v.daum.net/v/20240914220300976</id>
-        <link href="https://v.daum.net/v/20240914220300976"/>
-        <updated>2024-09-14T13:22:24.747Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
