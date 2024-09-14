@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-09-14T10:21:34.139Z</updated>
+    <updated>2024-09-14T11:17:24.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[K-VIBE] 이은준의 AI 톺아보기...AI 예술의 진화와 도전]]></title>
+        <id>https://v.daum.net/v/20240914164843384</id>
+        <link href="https://v.daum.net/v/20240914164843384"/>
+        <updated>2024-09-14T11:16:55.431Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추석 나들이, 서울 ‘실시간 상권 데이터’ 미리 검색해볼까]]></title>
         <id>https://v.daum.net/v/20240914160244941</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240914113356133"/>
         <updated>2024-09-14T07:20:36.964Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['탈한국급' 자율차 기술력 어떻길래…220억 뭉칫돈 몰린 이 회사]]></title>
-        <id>https://v.daum.net/v/20240914110002730</id>
-        <link href="https://v.daum.net/v/20240914110002730"/>
-        <updated>2024-09-14T07:20:36.965Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
