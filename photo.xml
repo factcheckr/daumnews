@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-09-15T18:31:21.543Z</updated>
+    <updated>2024-09-15T19:17:52.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트럼프 대선캠프 "트럼프 인근서 또 총격…하지만 안전해"]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1644543/yvmPcpdzs8</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1644543/yvmPcpdzs8"/>
+        <updated>2024-09-15T19:17:25.538Z</updated>
+        <content type="html"><![CDATA[2024 미국 대선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추석연휴 평창 흥정천 찾은 관광객들]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5847810/zgGkjAXDbj</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5032452/ftePeZ6F1F"/>
         <updated>2024-09-14T01:28:29.644Z</updated>
         <content type="html"><![CDATA[오늘의 1면 사진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다가오는 가을]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/212305/KZgTUk5rMG</id>
-        <link href="https://gallery.v.daum.net/p/viewer/212305/KZgTUk5rMG"/>
-        <updated>2024-09-13T20:22:58.963Z</updated>
-        <content type="html"><![CDATA[포토 카페]]></content>
     </entry>
 </feed>
