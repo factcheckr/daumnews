@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-15T08:28:13.091Z</updated>
+    <updated>2024-09-15T09:22:38.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추석에 문 연 병원, 네이버·카카오 지도 앱으로 찾으세요]]></title>
+        <id>https://v.daum.net/v/20240915175728056</id>
+        <link href="https://v.daum.net/v/20240915175728056"/>
+        <updated>2024-09-15T09:21:54.756Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팰월드 "F2P 전환 없다… DLC, 스킨 출시 고려 중"]]></title>
         <id>https://v.daum.net/v/20240915140431232</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240915133201814"/>
         <updated>2024-09-15T05:21:04.639Z</updated>
         <content type="html"><![CDATA[더스쿠프]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AI 열전] 열일하는 토종비서 에이닷·뤼튼]]></title>
-        <id>https://v.daum.net/v/20240915120048994</id>
-        <link href="https://v.daum.net/v/20240915120048994"/>
-        <updated>2024-09-15T05:21:04.640Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>
