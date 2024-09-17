@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-09-17T16:28:12.582Z</updated>
+    <updated>2024-09-17T17:20:36.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“‘유열 사망’은 가짜뉴스, 수술 후 회복 중”…‘폐섬유증’ 투병 근황]]></title>
+        <id>https://v.daum.net/v/20240917222754645</id>
+        <link href="https://v.daum.net/v/20240917222754645"/>
+        <updated>2024-09-17T17:19:46.460Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[달콤한 고구마에 최적인 후숙 기간은?]]></title>
         <id>https://v.daum.net/v/20240917201451780</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240917201652796"/>
         <updated>2024-09-17T13:27:39.700Z</updated>
         <content type="html"><![CDATA[CJB청주방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기도 달맞이 명소, 반짝이는 야경 맛집 경기도]]></title>
-        <id>https://v.daum.net/v/20240917120110895</id>
-        <link href="https://v.daum.net/v/20240917120110895"/>
-        <updated>2024-09-17T12:40:46.988Z</updated>
-        <content type="html"><![CDATA[경기일보]]></content>
     </entry>
 </feed>
