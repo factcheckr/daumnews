@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-17T06:28:02.547Z</updated>
+    <updated>2024-09-17T07:20:27.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[北 해커, 암호화폐·금융인 링크드인에 악성코드 배포]]></title>
+        <id>https://v.daum.net/v/20240917155052254</id>
+        <link href="https://v.daum.net/v/20240917155052254"/>
+        <updated>2024-09-17T07:19:41.291Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미세 플라스틱 뇌에서도 발견...몸에 어떤 영향 미칠까?]]></title>
         <id>https://v.daum.net/v/20240917100606767</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240917142027202"/>
         <updated>2024-09-17T06:27:26.940Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AI 열전] '답변 엔진' 퍼플렉시티, 구글 제국에 균열낼까]]></title>
-        <id>https://v.daum.net/v/20240917133047683</id>
-        <link href="https://v.daum.net/v/20240917133047683"/>
-        <updated>2024-09-17T05:22:04.217Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>
