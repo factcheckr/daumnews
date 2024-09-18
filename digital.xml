@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-18T12:41:07.416Z</updated>
+    <updated>2024-09-18T13:28:48.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["친구 가입시키면 10만원 현금"…틱톡 라이트가 청소년 중독시킨다]]></title>
+        <id>https://v.daum.net/v/20240918195652455</id>
+        <link href="https://v.daum.net/v/20240918195652455"/>
+        <updated>2024-09-18T13:28:10.325Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[똑똑한 AI CCTV의 '두 얼굴'…유용하지만 문제는 '사생활']]></title>
         <id>https://v.daum.net/v/20240918192752024</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240918170127871"/>
         <updated>2024-09-18T10:23:32.196Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이닷 vs 익시오…통신사 AI 비서 전쟁 후끈]]></title>
-        <id>https://v.daum.net/v/20240918180802050</id>
-        <link href="https://v.daum.net/v/20240918180802050"/>
-        <updated>2024-09-18T10:23:32.198Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
