@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-18T15:25:21.101Z</updated>
+    <updated>2024-09-18T16:27:18.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[K의료는 더 강해졌다… 세계 10대 암 병원 중 3개가 한국]]></title>
+        <id>https://v.daum.net/v/20240919010335832</id>
+        <link href="https://v.daum.net/v/20240919010335832"/>
+        <updated>2024-09-18T16:26:32.644Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인스타그램, 18세 미만 계정은 아무나 못 보게 차단한다]]></title>
         <id>https://v.daum.net/v/20240919000300361</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240918191556870"/>
         <updated>2024-09-18T10:23:32.193Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14세女 인스타에 “만나자” “사진 보내줘”…빅테크, 청소년 보호 ‘나 몰라라’]]></title>
-        <id>https://v.daum.net/v/20240918184500502</id>
-        <link href="https://v.daum.net/v/20240918184500502"/>
-        <updated>2024-09-18T10:23:32.193Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
