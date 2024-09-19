@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-09-19T11:19:31.454Z</updated>
+    <updated>2024-09-19T12:41:50.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SK하이닉스 ‘세계 1위’ HBM의 비결…9년 전 엔비디아 러브콜에서 시작됐다]]></title>
+        <id>https://v.daum.net/v/20240919180632192</id>
+        <link href="https://v.daum.net/v/20240919180632192"/>
+        <updated>2024-09-19T12:41:16.795Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[과징금 폭탄에 떠는 빅테크들 글로벌 전략 새판 짜기 '비상']]></title>
         <id>https://v.daum.net/v/20240919180340124</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240919165101992"/>
         <updated>2024-09-19T09:23:21.654Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["의료용 AI 휴머노이드 로봇으로 인력 공백 줄일 것"]]></title>
-        <id>https://v.daum.net/v/20240919162808170</id>
-        <link href="https://v.daum.net/v/20240919162808170"/>
-        <updated>2024-09-19T09:23:21.655Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>

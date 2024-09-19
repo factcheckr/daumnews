@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-19T11:19:31.470Z</updated>
+    <updated>2024-09-19T12:41:50.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[심해 광물 덩어리가 뿜는다는 '암흑 산소'…과학자들 논쟁 점화]]></title>
+        <id>https://v.daum.net/v/20240919163613480</id>
+        <link href="https://v.daum.net/v/20240919163613480"/>
+        <updated>2024-09-19T12:41:08.919Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["챗GPT4 따라잡아"…알리바바, 새 AI 모델 출시]]></title>
         <id>https://v.daum.net/v/20240919194852292</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240919180231070"/>
         <updated>2024-09-19T09:23:15.365Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SK하이닉스 ‘세계 1위’ HBM의 비결…9년 전 엔비디아 러브콜에서 시작됐다]]></title>
-        <id>https://v.daum.net/v/20240919180632192</id>
-        <link href="https://v.daum.net/v/20240919180632192"/>
-        <updated>2024-09-19T09:23:15.366Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
