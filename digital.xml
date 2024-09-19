@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-19T02:51:53.598Z</updated>
+    <updated>2024-09-19T03:26:28.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[강석기의 과학카페] 생명의 기원 찾는 과학자들]]></title>
+        <id>https://v.daum.net/v/20240919120350183</id>
+        <link href="https://v.daum.net/v/20240919120350183"/>
+        <updated>2024-09-19T03:25:41.312Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[KCSF2024] "AI 전환 성공의 열쇠, 데이터 리터러시에 있다"]]></title>
         <id>https://v.daum.net/v/20240919105728068</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240919104127430"/>
         <updated>2024-09-19T02:50:51.846Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화성 하늘에 지구와 달 포보스가 떴다…큐리오시티 사상 첫 촬영 [우주를 보다]]]></title>
-        <id>https://v.daum.net/v/20240919102232521</id>
-        <link href="https://v.daum.net/v/20240919102232521"/>
-        <updated>2024-09-19T01:38:41.685Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
