@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-09-19T09:23:50.611Z</updated>
+    <updated>2024-09-19T10:24:11.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[여명] ‘포털 길들이기’가 끝나고 나면]]></title>
+        <id>https://v.daum.net/v/20240919174342581</id>
+        <link href="https://v.daum.net/v/20240919174342581"/>
+        <updated>2024-09-19T10:23:35.278Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전 세계 유튜브 언어장벽 사라진다]]></title>
         <id>https://v.daum.net/v/20240919172602173</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240919162832182"/>
         <updated>2024-09-19T08:28:53.194Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WoW 내부 전쟁 '위대한 금고' 선택 가이드]]></title>
-        <id>https://v.daum.net/v/20240919150754711</id>
-        <link href="https://v.daum.net/v/20240919150754711"/>
-        <updated>2024-09-19T08:28:53.194Z</updated>
-        <content type="html"><![CDATA[게임톡]]></content>
     </entry>
 </feed>
