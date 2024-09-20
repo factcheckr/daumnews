@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-09-20T16:29:38.580Z</updated>
+    <updated>2024-09-20T17:20:05.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴테크] 화재 위험 확 낮춘 칼륨전지…산업계도 차세대 전지로 주목]]></title>
+        <id>https://v.daum.net/v/20240920161936832</id>
+        <link href="https://v.daum.net/v/20240920161936832"/>
+        <updated>2024-09-20T17:19:29.474Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스마트폰이 2백만 원? 아이폰 16 출시에도 썰렁‥단통법 논의 본격화될까]]></title>
         <id>https://v.daum.net/v/20240920203112458</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240920181518331"/>
         <updated>2024-09-20T12:44:03.864Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["SNS 중독은 빅테크 설계"]]></title>
-        <id>https://v.daum.net/v/20240920180612099</id>
-        <link href="https://v.daum.net/v/20240920180612099"/>
-        <updated>2024-09-20T09:27:13.429Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
