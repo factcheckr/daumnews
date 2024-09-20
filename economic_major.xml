@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-09-20T15:26:44.448Z</updated>
+    <updated>2024-09-20T16:29:38.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대구 수출 14개월 연속 감소…경북은 증가]]></title>
+        <id>https://v.daum.net/v/20240920221824839</id>
+        <link href="https://v.daum.net/v/20240920221824839"/>
+        <updated>2024-09-20T16:28:13.406Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[친환경 ‘수소 선박’…부산서 연구 본격화]]></title>
         <id>https://v.daum.net/v/20240920214840469</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240920210301847"/>
         <updated>2024-09-20T13:28:16.740Z</updated>
         <content type="html"><![CDATA[매경이코노미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["집 안사면 벼락거지 돼" 겁 주더니…'4.5% 급락' 충격적 통계]]></title>
-        <id>https://v.daum.net/v/20240920210251840</id>
-        <link href="https://v.daum.net/v/20240920210251840"/>
-        <updated>2024-09-20T12:43:13.899Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>

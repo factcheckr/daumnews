@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-20T15:26:44.369Z</updated>
+    <updated>2024-09-20T16:29:38.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“소셜미디어 중독은 빅테크의 큰그림”]]></title>
+        <id>https://v.daum.net/v/20240921005530161</id>
+        <link href="https://v.daum.net/v/20240921005530161"/>
+        <updated>2024-09-20T16:28:55.277Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“죽은 제임스 딘이 영화 출연료 받아”...AI 덕에 급부상한 IP사업 [세모금]]]></title>
         <id>https://v.daum.net/v/20240920180231978</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240920161936832"/>
         <updated>2024-09-20T12:43:56.458Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스마트폰이 2백만 원? 아이폰 16 출시에도 썰렁‥단통법 논의 본격화될까]]></title>
-        <id>https://v.daum.net/v/20240920203112458</id>
-        <link href="https://v.daum.net/v/20240920203112458"/>
-        <updated>2024-09-20T12:43:56.460Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
