@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-09-20T09:27:53.879Z</updated>
+    <updated>2024-09-20T10:24:35.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20240920180612099"/>
         <updated>2024-09-20T09:27:13.429Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30% 줄어든 방발기금…국회, OTT 분담 확대 논의 본격화]]></title>
+        <id>https://v.daum.net/v/20240920180052936</id>
+        <link href="https://v.daum.net/v/20240920180052936"/>
+        <updated>2024-09-20T10:23:52.292Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[현실이 된 영화 속 과학] ②인간의 감정에 공감하는 AI…'그녀(2014)']]></title>
+        <id>https://v.daum.net/v/20240920174612581</id>
+        <link href="https://v.daum.net/v/20240920174612581"/>
+        <updated>2024-09-20T10:23:52.295Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["어린이도 탈탈 털었다"…상상초월 '129쪽' 보고서에 '발칵']]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240920093728883"/>
         <updated>2024-09-20T09:27:13.434Z</updated>
         <content type="html"><![CDATA[대전일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[크립토 퀵서치] 블록체인 콘퍼런스 어떤 것이 있나요?]]></title>
-        <id>https://v.daum.net/v/20240920160909564</id>
-        <link href="https://v.daum.net/v/20240920160909564"/>
-        <updated>2024-09-20T08:31:41.572Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인터넷 설치비 2배 올린 통신 3사…"국감서 따져볼 것"]]></title>
-        <id>https://v.daum.net/v/20240920161210649</id>
-        <link href="https://v.daum.net/v/20240920161210649"/>
-        <updated>2024-09-20T08:31:41.572Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>
