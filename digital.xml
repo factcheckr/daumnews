@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-20T18:29:46.697Z</updated>
+    <updated>2024-09-20T19:19:14.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[또 하나의 달?…작은 소행성, 두 달간 지구 주위 돈다]]></title>
+        <id>https://v.daum.net/v/20240921033730704</id>
+        <link href="https://v.daum.net/v/20240921033730704"/>
+        <updated>2024-09-20T19:18:32.773Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이폰16 본격 출시…팀쿡 CEO "판매 부진? 두고 봐야죠"]]></title>
         <id>https://v.daum.net/v/20240921014436337</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240920221127746"/>
         <updated>2024-09-20T13:29:00.260Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이건 너무 심했다” 대박난 한국 드라마…넷플릭스 ‘헐값’ 쇼크]]></title>
-        <id>https://v.daum.net/v/20240920204052584</id>
-        <link href="https://v.daum.net/v/20240920204052584"/>
-        <updated>2024-09-20T12:43:56.457Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
