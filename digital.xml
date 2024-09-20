@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-20T19:19:14.398Z</updated>
+    <updated>2024-09-20T20:25:09.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 네이버·X, 개인정보 불법유통 게시물 삭제 작년만 2만 건… 5년 간 증가세]]></title>
+        <id>https://v.daum.net/v/20240921043248912</id>
+        <link href="https://v.daum.net/v/20240921043248912"/>
+        <updated>2024-09-20T20:24:22.308Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[또 하나의 달?…작은 소행성, 두 달간 지구 주위 돈다]]></title>
         <id>https://v.daum.net/v/20240921033730704</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240920231127395"/>
         <updated>2024-09-20T14:22:59.881Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 방통위 출신 인사들, 로펌·포털·통신사로 대거 이직]]></title>
-        <id>https://v.daum.net/v/20240920221127746</id>
-        <link href="https://v.daum.net/v/20240920221127746"/>
-        <updated>2024-09-20T13:29:00.260Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
 </feed>

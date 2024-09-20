@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-09-20T19:19:14.408Z</updated>
+    <updated>2024-09-20T20:25:09.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노랑나비의 속삭임]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/77I9uNGkMa</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/77I9uNGkMa"/>
+        <updated>2024-09-20T20:24:40.070Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당신의 MBTI, 찾았나요?]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/2hrroZ6FEw</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5032907/t0AVKvbYpG"/>
         <updated>2024-09-20T06:31:38.524Z</updated>
         <content type="html"><![CDATA[팔레스타인은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["대통령 부부가 국가 기강을 무너뜨리고 있습니다"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5615618/3KcLNbaVOa</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5615618/3KcLNbaVOa"/>
-        <updated>2024-09-20T06:31:38.537Z</updated>
-        <content type="html"><![CDATA[오마이포토]]></content>
     </entry>
 </feed>
