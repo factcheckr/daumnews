@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-09-21T15:24:03.916Z</updated>
+    <updated>2024-09-21T16:28:17.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘 날씨] 서울 아침 기온 '18도' 선선…추분 유래와 먹으면 좋은 음식은?]]></title>
+        <id>https://v.daum.net/v/20240922011700449</id>
+        <link href="https://v.daum.net/v/20240922011700449"/>
+        <updated>2024-09-21T16:27:16.069Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영상] “악어떼가 우글우글” 요즘 핫한 ‘악어봉 탐방로’ 누가 발견했을까]]></title>
         <id>https://v.daum.net/v/20240922001602205</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240921234330978"/>
         <updated>2024-09-21T15:22:58.989Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[녹유 오늘의 운세] 73년생 한껏 멋을 내고 빈 자리 채워요]]></title>
-        <id>https://v.daum.net/v/20240922000018084</id>
-        <link href="https://v.daum.net/v/20240922000018084"/>
-        <updated>2024-09-21T15:22:58.991Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
