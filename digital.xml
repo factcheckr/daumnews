@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-21T22:21:08.653Z</updated>
+    <updated>2024-09-21T23:21:16.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["미성년자까지?"…페북·유튜브, 회원 개인정보로 배만 불렸다]]></title>
+        <id>https://v.daum.net/v/20240922080036597</id>
+        <link href="https://v.daum.net/v/20240922080036597"/>
+        <updated>2024-09-21T23:20:36.106Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“속이 타들어간다” 삼성전자 개미들, 이젠 이 회사까지 신경 쓰이네…스마트폰 2위 등극한 샤오미]]></title>
         <id>https://v.daum.net/v/20240922062400764</id>
         <link href="https://v.daum.net/v/20240922062400764"/>
-        <updated>2024-09-21T22:20:17.304Z</updated>
+        <updated>2024-09-21T23:20:36.108Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240921204223525"/>
         <updated>2024-09-21T12:37:48.568Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["두 개의 달이 뜬다고?"…11m 소행성, 두 달 동안 지구 주변 돈다]]></title>
-        <id>https://v.daum.net/v/20240921172113224</id>
-        <link href="https://v.daum.net/v/20240921172113224"/>
-        <updated>2024-09-21T10:21:07.148Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
