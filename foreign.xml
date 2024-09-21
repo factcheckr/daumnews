@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2024-09-21T18:28:30.581Z</updated>
+    <updated>2024-09-21T19:18:37.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러시아 "우크라 2차 평화회의 참석 안해…러시아에 항복 요구 목적"]]></title>
+        <id>https://v.daum.net/v/20240922033236832</id>
+        <link href="https://v.daum.net/v/20240922033236832"/>
+        <updated>2024-09-21T19:17:07.336Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[멕시코 "수십명 사망 카르텔 폭력, 美도 책임"…美 "동의 못해"]]></title>
         <id>https://v.daum.net/v/20240922030944759</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240922011015434"/>
         <updated>2024-09-21T16:26:57.547Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“코끼리 수백마리 죽이겠다…물 한 방울 수준” 아프리카의 비극적 결정 이유는]]></title>
-        <id>https://v.daum.net/v/20240922010851426</id>
-        <link href="https://v.daum.net/v/20240922010851426"/>
-        <updated>2024-09-21T16:26:57.547Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
