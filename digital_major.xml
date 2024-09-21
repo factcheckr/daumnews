@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-09-21T06:29:18.183Z</updated>
+    <updated>2024-09-21T07:20:46.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유니티, 개발엔진 '유니티6' 내달 17일 출시]]></title>
+        <id>https://v.daum.net/v/20240921120003936</id>
+        <link href="https://v.daum.net/v/20240921120003936"/>
+        <updated>2024-09-21T07:20:17.510Z</updated>
+        <content type="html"><![CDATA[비즈워치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이 빙하 녹으면 '종말의 날'…21세기 이후는 [사이언스 PICK]]]></title>
         <id>https://v.daum.net/v/20240921110014375</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240921041727824"/>
         <updated>2024-09-21T02:46:24.159Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고대역폭 메모리(HBM), "첨단 메모리 솔루션의 중요성 부각될 것"]]></title>
-        <id>https://v.daum.net/v/20240921090231986</id>
-        <link href="https://v.daum.net/v/20240921090231986"/>
-        <updated>2024-09-21T02:46:24.161Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
