@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-09-22T02:57:09.770Z</updated>
+    <updated>2024-09-22T03:29:41.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[글로벌 바이오워치]더 강한 코로나19 백신이 온다]]></title>
+        <id>https://v.daum.net/v/20240922110003953</id>
+        <link href="https://v.daum.net/v/20240922110003953"/>
+        <updated>2024-09-22T03:28:58.297Z</updated>
+        <content type="html"><![CDATA[비즈워치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["오일머니 잡자" 중동시장 키우는 K-바이오…'첨단의료' 파트너 찾는다]]></title>
         <id>https://v.daum.net/v/20240922111823367</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240922080014578"/>
         <updated>2024-09-22T02:56:35.642Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“속이 타들어간다” 삼성전자 개미들, 이젠 이 회사까지 신경 쓰이네…스마트폰 2위 등극한 샤오미]]></title>
-        <id>https://v.daum.net/v/20240922062400764</id>
-        <link href="https://v.daum.net/v/20240922062400764"/>
-        <updated>2024-09-22T01:45:41.763Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
