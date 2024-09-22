@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-09-22T03:29:41.925Z</updated>
+    <updated>2024-09-22T04:29:05.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헬리코박터로 인한 위궤양, 치매 위험 3배 높여]]></title>
+        <id>https://v.daum.net/v/20240922111201252</id>
+        <link href="https://v.daum.net/v/20240922111201252"/>
+        <updated>2024-09-22T04:28:02.613Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글부터 스타트업까지 한자리에…콘진원, 26~27일 성수서 스타트업콘 개최]]></title>
         <id>https://v.daum.net/v/20240922110930207</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240922065055944"/>
         <updated>2024-09-22T01:45:21.980Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주말 PICK!] ‘나이’는 ‘나의 힘’…유튜버에게 연령이 대수인가요?]]></title>
-        <id>https://v.daum.net/v/20240922080026588</id>
-        <link href="https://v.daum.net/v/20240922080026588"/>
-        <updated>2024-09-22T01:45:21.981Z</updated>
-        <content type="html"><![CDATA[농민신문]]></content>
     </entry>
 </feed>

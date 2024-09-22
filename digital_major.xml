@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-09-22T03:29:41.938Z</updated>
+    <updated>2024-09-22T04:29:05.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SAS코리아, 이중혁 신임 대표 선임]]></title>
+        <id>https://v.daum.net/v/20240922111529309</id>
+        <link href="https://v.daum.net/v/20240922111529309"/>
+        <updated>2024-09-22T04:28:23.797Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["공공·의료·제조 등 클라우드 전환 사례 한눈에"···KACI, 25일 엘타워서 행사]]></title>
+        <id>https://v.daum.net/v/20240922111727352</id>
+        <link href="https://v.daum.net/v/20240922111727352"/>
+        <updated>2024-09-22T04:28:23.797Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[글로벌 바이오워치]더 강한 코로나19 백신이 온다]]></title>
         <id>https://v.daum.net/v/20240922110003953</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240922090009183"/>
         <updated>2024-09-22T02:56:35.639Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼 옛날 지구에 ‘고리’ 존재…기후변화 유발했다]]></title>
-        <id>https://v.daum.net/v/20240922080105610</id>
-        <link href="https://v.daum.net/v/20240922080105610"/>
-        <updated>2024-09-22T02:56:35.641Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[표지로 읽는 과학] 우리는 쥐에 대해 얼마나 알까]]></title>
-        <id>https://v.daum.net/v/20240922080014578</id>
-        <link href="https://v.daum.net/v/20240922080014578"/>
-        <updated>2024-09-22T02:56:35.642Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
