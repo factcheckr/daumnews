@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-09-22T19:17:45.458Z</updated>
+    <updated>2024-09-22T20:22:43.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[낮잠 파수꾼]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/pUB9YEA8In</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/pUB9YEA8In"/>
+        <updated>2024-09-22T20:22:21.673Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RCEP 장관회의 참석한 정인교 통상교섭본부장]]></title>
         <id>https://gallery.v.daum.net/p/viewer/321090/p9F4rkj491</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5611950/1WVPuZGk7O"/>
         <updated>2024-09-21T21:19:50.319Z</updated>
         <content type="html"><![CDATA[노동신문 사진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호우로 침수된 일본 와지마 도심]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1407/4AygfWvaKT</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1407/4AygfWvaKT"/>
-        <updated>2024-09-21T15:23:34.777Z</updated>
-        <content type="html"><![CDATA[일본은 지금]]></content>
     </entry>
 </feed>
