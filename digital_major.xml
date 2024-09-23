@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-09-23T13:30:34.952Z</updated>
+    <updated>2024-09-23T14:22:02.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美정부 새 대중제재 내놨는데...엔비디아, 보란듯 알리바바와 자율차 협력 발표]]></title>
+        <id>https://v.daum.net/v/20240923203600274</id>
+        <link href="https://v.daum.net/v/20240923203600274"/>
+        <updated>2024-09-23T14:21:28.373Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SK하이닉스 ‘CXL 선점’ 속도전···세계 최대 오픈소스 OS 리눅스에 SW 탑재]]></title>
         <id>https://v.daum.net/v/20240923091734338</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240923170819464"/>
         <updated>2024-09-23T10:26:53.730Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“진단 넘어 치료 영역 넘보는 루닛, 기업가치 레벨업 기대감”]]></title>
-        <id>https://v.daum.net/v/20240923141944696</id>
-        <link href="https://v.daum.net/v/20240923141944696"/>
-        <updated>2024-09-23T09:26:59.647Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>

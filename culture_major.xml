@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-09-23T13:30:34.913Z</updated>
+    <updated>2024-09-23T14:22:02.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“잦은 ‘사랑해’ 대사, 일본인으로 낯설어”]]></title>
+        <id>https://v.daum.net/v/20240923181153419</id>
+        <link href="https://v.daum.net/v/20240923181153419"/>
+        <updated>2024-09-23T14:21:10.488Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["피임 위해 女난관 묶어도"...1년 내 3% 임신, 어릴 수록 가장 높아]]></title>
         <id>https://v.daum.net/v/20240923173741405</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240923174150513"/>
         <updated>2024-09-23T10:26:35.192Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국머크, 다발성경화증 치료제 ‘마벤클라드’ 한국인 대상 연구 결과 발표]]></title>
-        <id>https://v.daum.net/v/20240923141541568</id>
-        <link href="https://v.daum.net/v/20240923141541568"/>
-        <updated>2024-09-23T10:26:35.194Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
