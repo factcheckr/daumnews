@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-09-23T14:22:02.288Z</updated>
+    <updated>2024-09-23T15:28:12.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“106만원이나 주고 이걸 누가 사?” 시들해진 새 ‘애플워치’, 실제 보니]]></title>
+        <id>https://v.daum.net/v/20240923204052365</id>
+        <link href="https://v.daum.net/v/20240923204052365"/>
+        <updated>2024-09-23T15:27:38.816Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美정부 새 대중제재 내놨는데...엔비디아, 보란듯 알리바바와 자율차 협력 발표]]></title>
         <id>https://v.daum.net/v/20240923203600274</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240923172835154"/>
         <updated>2024-09-23T10:26:53.728Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SK·마이크론도 내놓는데…삼성전자 HBM3E 12단 양산, 왜 소식없나]]></title>
-        <id>https://v.daum.net/v/20240923170819464</id>
-        <link href="https://v.daum.net/v/20240923170819464"/>
-        <updated>2024-09-23T10:26:53.730Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>

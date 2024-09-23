@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-23T14:22:02.305Z</updated>
+    <updated>2024-09-23T15:28:12.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['벼랑 끝 IPTV' 인터넷 TV 3사, AI 기능 가속화로 고객 지킨다]]></title>
+        <id>https://v.daum.net/v/20240924000239510</id>
+        <link href="https://v.daum.net/v/20240924000239510"/>
+        <updated>2024-09-23T15:27:31.775Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소니, 1000XM5 스모키 핑크 출시…글로벌 모델에 르세라핌]]></title>
         <id>https://v.daum.net/v/20240923231310151</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240923204523445"/>
         <updated>2024-09-23T12:41:47.180Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“106만원이나 주고 이걸 누가 사?” 시들해진 새 ‘애플워치’, 실제 보니]]></title>
-        <id>https://v.daum.net/v/20240923204052365</id>
-        <link href="https://v.daum.net/v/20240923204052365"/>
-        <updated>2024-09-23T12:41:47.183Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
