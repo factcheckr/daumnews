@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-09-23T18:29:58.612Z</updated>
+    <updated>2024-09-23T19:19:28.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240924023903261"/>
         <updated>2024-09-23T18:28:41.702Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민주당, 금투세 토론회…국민의힘, 폐지 촉구 간담회]]></title>
+        <id>https://v.daum.net/v/20240924010118007</id>
+        <link href="https://v.daum.net/v/20240924010118007"/>
+        <updated>2024-09-23T19:17:48.797Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[해군 잠수함 승조원 절반이 떠났다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240924001805726"/>
         <updated>2024-09-23T16:27:13.140Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국힘 “ 강원도 현안 적극 반영 국비 10조원 시대 열 것”]]></title>
-        <id>https://v.daum.net/v/20240924000553617</id>
-        <link href="https://v.daum.net/v/20240924000553617"/>
-        <updated>2024-09-23T16:27:13.141Z</updated>
-        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
 </feed>
