@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-24T16:29:28.035Z</updated>
+    <updated>2024-09-24T17:21:53.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오픈AI CEO 올트먼 "딥러닝 통해 수천일 내 초지능 등장할 수도"]]></title>
+        <id>https://v.daum.net/v/20240925014644378</id>
+        <link href="https://v.daum.net/v/20240925014644378"/>
+        <updated>2024-09-24T17:21:19.771Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 의료 AI 설루션, 영상전문의보다 판독 60분 더 빨랐다]]></title>
         <id>https://v.daum.net/v/20240925005017151</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240924220019591"/>
         <updated>2024-09-24T13:32:55.155Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['AI 3강' 노린다 … 정부, 뉴욕에 연구소 오픈]]></title>
-        <id>https://v.daum.net/v/20240924220300641</id>
-        <link href="https://v.daum.net/v/20240924220300641"/>
-        <updated>2024-09-24T13:32:55.156Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>

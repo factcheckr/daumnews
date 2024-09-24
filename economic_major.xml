@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-09-24T16:29:28.016Z</updated>
+    <updated>2024-09-24T17:21:53.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240925005026153"/>
         <updated>2024-09-24T16:27:54.751Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시, 장 초반 강보합…소비자신뢰지수 하락 속 관망세]]></title>
+        <id>https://v.daum.net/v/20240925002210957</id>
+        <link href="https://v.daum.net/v/20240925002210957"/>
+        <updated>2024-09-24T17:20:41.433Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[벼 수확기, 쌀값 폭락·병해충·폭우 ‘삼중고’]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240925000049637"/>
         <updated>2024-09-24T15:23:22.341Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연말 개통 동해선 철도 ‘삼척-포항’ 시운전 시작]]></title>
-        <id>https://v.daum.net/v/20240924235913590</id>
-        <link href="https://v.daum.net/v/20240924235913590"/>
-        <updated>2024-09-24T15:23:22.342Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
