@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-09-24T14:20:53.720Z</updated>
+    <updated>2024-09-24T15:24:51.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“16살 남친이 사줬어요” 명품백 ‘우르르’…이거 안 이상해?]]></title>
+        <id>https://v.daum.net/v/20240924195112127</id>
+        <link href="https://v.daum.net/v/20240924195112127"/>
+        <updated>2024-09-24T15:24:18.935Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1230만 명이 통신비 ‘25% 할인’ 못 받았다…나는 선택약정 해당될까]]></title>
         <id>https://v.daum.net/v/20240924180827249</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240924174705447"/>
         <updated>2024-09-24T10:25:08.308Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["AI공존시대, 홍익인간형 생태계 만들어야"]]></title>
-        <id>https://v.daum.net/v/20240924174018328</id>
-        <link href="https://v.daum.net/v/20240924174018328"/>
-        <updated>2024-09-24T09:24:44.738Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
