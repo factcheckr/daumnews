@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-09-25T15:26:49.667Z</updated>
+    <updated>2024-09-25T16:31:45.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1471/ys7pfkj4zH"/>
         <updated>2024-09-25T15:26:22.378Z</updated>
         <content type="html"><![CDATA[세계의 정상들]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[달님 사랑, 가족 사랑[고양이 눈]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/PP9Ltx6Fwh</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/PP9Ltx6Fwh"/>
+        <updated>2024-09-25T16:31:26.307Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[베를린 동물원서 태어난 쌍둥이 자이언트판다]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5847810/Unzdl5HEzC"/>
         <updated>2024-09-25T09:25:03.514Z</updated>
         <content type="html"><![CDATA[지자체 제공 포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강원경찰, 핵심 치안 정책 과제 추진 보고회]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1075022/PwWJMNo9U3</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1075022/PwWJMNo9U3"/>
-        <updated>2024-09-25T08:30:51.830Z</updated>
-        <content type="html"><![CDATA[경찰 제공 포토]]></content>
     </entry>
 </feed>
