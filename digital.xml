@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-25T10:25:35.480Z</updated>
+    <updated>2024-09-25T11:20:32.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[UNIST "피부자극 없고 재사용 가능한 초강력 접착 패치 개발"]]></title>
+        <id>https://v.daum.net/v/20240925194028628</id>
+        <link href="https://v.daum.net/v/20240925194028628"/>
+        <updated>2024-09-25T11:19:49.687Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘뿌리는 독감 백신’ 나왔다… 美 FDA, AZ ‘플루미스트’ 허가 [팜NOW]]]></title>
         <id>https://v.daum.net/v/20240925184529439</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240925180302240"/>
         <updated>2024-09-25T10:24:50.517Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["약정 없이 30% 싼데 왜 안쓰지?"…통신비, 몰랐던 사실]]></title>
-        <id>https://v.daum.net/v/20240925172605931</id>
-        <link href="https://v.daum.net/v/20240925172605931"/>
-        <updated>2024-09-25T10:24:50.519Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
