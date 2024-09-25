@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-25T12:43:44.742Z</updated>
+    <updated>2024-09-25T13:32:40.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘AI 3대 천왕’ 얀 르쿤 교수 “韓, 연구 최고 노하우 지녀”]]></title>
+        <id>https://v.daum.net/v/20240925214831853</id>
+        <link href="https://v.daum.net/v/20240925214831853"/>
+        <updated>2024-09-25T13:31:20.980Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“뉴진스가 아깝다” 대박인 줄 알았더니…신형 아이폰 충격 실상]]></title>
         <id>https://v.daum.net/v/20240925204043840</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240925184127373"/>
         <updated>2024-09-25T10:24:50.512Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['퍼스트 무버' 최종병기는 과학기술…'K맨해튼 프로젝트' 닻 올려라]]></title>
-        <id>https://v.daum.net/v/20240925174405606</id>
-        <link href="https://v.daum.net/v/20240925174405606"/>
-        <updated>2024-09-25T10:24:50.514Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
