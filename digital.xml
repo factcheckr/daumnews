@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-26T14:22:40.803Z</updated>
+    <updated>2024-09-26T15:25:52.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앞서가는 SK하이닉스…12단 HBM3E 세계 첫 양산]]></title>
+        <id>https://v.daum.net/v/20240926180703934</id>
+        <link href="https://v.daum.net/v/20240926180703934"/>
+        <updated>2024-09-26T15:24:52.593Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["국방AI, 프롬프트 인젝션 공격 등 대비 잘해야"]]></title>
         <id>https://v.daum.net/v/20240926223947942</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240926185703529"/>
         <updated>2024-09-26T12:43:23.070Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹툰 종주국 한국서 세계 웹툰 축제·시상식…카카오 '나 혼자만 레벨업' 대상]]></title>
-        <id>https://v.daum.net/v/20240926184604201</id>
-        <link href="https://v.daum.net/v/20240926184604201"/>
-        <updated>2024-09-26T11:20:01.685Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>

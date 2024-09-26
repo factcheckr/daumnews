@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-09-26T14:22:40.778Z</updated>
+    <updated>2024-09-26T15:25:52.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20240926202815630"/>
         <updated>2024-09-26T12:43:30.718Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웹툰 종주국 한국서 세계 웹툰 축제·시상식…카카오 '나 혼자만 레벨업' 대상]]></title>
+        <id>https://v.daum.net/v/20240926184604201</id>
+        <link href="https://v.daum.net/v/20240926184604201"/>
+        <updated>2024-09-26T15:25:06.317Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[생성 AI 길라잡이] 웹캠 속 내 모습을 캐릭터와 애니메이션으로 기록하는 ‘스크루블리’]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240926182014401"/>
         <updated>2024-09-26T10:24:26.022Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ZD SW 투데이] 티맥스그룹, '가이아' 통한 AI·교육 결합 제시 外]]></title>
-        <id>https://v.daum.net/v/20240926181740315</id>
-        <link href="https://v.daum.net/v/20240926181740315"/>
-        <updated>2024-09-26T10:24:26.022Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
