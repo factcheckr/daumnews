@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-09-26T12:44:03.273Z</updated>
+    <updated>2024-09-26T13:31:03.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청년극장 창단 40주년..."추억의 명작으로 가을 즐기세요"]]></title>
+        <id>https://v.daum.net/v/20240926212440634</id>
+        <link href="https://v.daum.net/v/20240926212440634"/>
+        <updated>2024-09-26T13:29:55.225Z</updated>
+        <content type="html"><![CDATA[CJB청주방송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내일날씨, 경북·경남권 소나기 곳... 아침 기온 16~22도]]></title>
         <id>https://v.daum.net/v/20240926164801521</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240926200004205"/>
         <updated>2024-09-26T11:19:40.379Z</updated>
         <content type="html"><![CDATA[EBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['제로슈거' 감미료 안전할까? "식약처, WHO와 입장 상반돼"]]></title>
-        <id>https://v.daum.net/v/20240926195804165</id>
-        <link href="https://v.daum.net/v/20240926195804165"/>
-        <updated>2024-09-26T11:19:40.380Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
     </entry>
 </feed>
