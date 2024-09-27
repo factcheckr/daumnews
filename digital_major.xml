@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-09-27T15:24:04.785Z</updated>
+    <updated>2024-09-27T16:29:00.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지하철 타면 모두가 동영상 시청…지금, 필요한 독서 정책 [영상 시대, ‘책’ 권하기①]]]></title>
+        <id>https://v.daum.net/v/20240927140108345</id>
+        <link href="https://v.daum.net/v/20240927140108345"/>
+        <updated>2024-09-27T16:28:21.128Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI를 태블릿에서… 삼성전자 ‘갤럭시 탭 S10 시리즈’ 10월 출시]]></title>
         <id>https://v.daum.net/v/20240927220142390</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240927174605033"/>
         <updated>2024-09-27T11:20:17.012Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장에서]한미사이언스, 또 다시 표대결]]></title>
-        <id>https://v.daum.net/v/20240927173403711</id>
-        <link href="https://v.daum.net/v/20240927173403711"/>
-        <updated>2024-09-27T11:20:17.013Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>
