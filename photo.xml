@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-09-27T14:22:40.497Z</updated>
+    <updated>2024-09-27T15:24:04.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[젤렌스키, '부정적 입장' 트럼프와 미팅]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1644543/9frbq6f5zo</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1644543/9frbq6f5zo"/>
+        <updated>2024-09-27T15:23:32.895Z</updated>
+        <content type="html"><![CDATA[2024 미국 대선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[운하인 줄…허리케인 헬렌에 침수된 타폰스프링스]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1476/QhqaRNo9U9</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5033138/Za91zmDx3Q"/>
         <updated>2024-09-27T04:27:38.163Z</updated>
         <content type="html"><![CDATA[이스라엘은 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라 키이우 상공서 폭발하는 러시아 군 드론]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5033399/GoFUD9BW7r</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5033399/GoFUD9BW7r"/>
-        <updated>2024-09-27T03:28:39.290Z</updated>
-        <content type="html"><![CDATA[우크라이나는 지금]]></content>
     </entry>
 </feed>
