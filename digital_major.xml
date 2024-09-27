@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-09-27T18:31:13.411Z</updated>
+    <updated>2024-09-27T19:20:20.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이들 휴대전화 이어 소셜미디어도 사용 제한 ‘시동’]]></title>
+        <id>https://v.daum.net/v/20240928000832011</id>
+        <link href="https://v.daum.net/v/20240928000832011"/>
+        <updated>2024-09-27T19:19:35.241Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신약 도입 지체되는 한국…“글로벌 수준 약가 지원책 마련해야”]]></title>
         <id>https://v.daum.net/v/20240927222903806</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240927190144596"/>
         <updated>2024-09-27T13:32:06.572Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누구나 할 수 있는 WoW 내부 전쟁 '주문 제작' 가이드]]></title>
-        <id>https://v.daum.net/v/20240927173648792</id>
-        <link href="https://v.daum.net/v/20240927173648792"/>
-        <updated>2024-09-27T12:43:24.648Z</updated>
-        <content type="html"><![CDATA[게임톡]]></content>
     </entry>
 </feed>
