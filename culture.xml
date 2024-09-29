@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-09-29T16:27:24.269Z</updated>
+    <updated>2024-09-29T17:18:54.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘 날씨] 아침 쌀쌀하지만 낮 최고 '30도'…태풍 '끄라톤' 현재 위치는?]]></title>
+        <id>https://v.daum.net/v/20240930015139529</id>
+        <link href="https://v.daum.net/v/20240930015139529"/>
+        <updated>2024-09-29T17:18:01.692Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 2024년 09월 30일 별자리 운세]]></title>
         <id>https://v.daum.net/v/20240930000303994</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240929180129135"/>
         <updated>2024-09-29T14:19:09.117Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘어깨 인대 파열’ 흡연은 치명적…전자담배는 괜찮을까?]]></title>
-        <id>https://v.daum.net/v/20240929213431683</id>
-        <link href="https://v.daum.net/v/20240929213431683"/>
-        <updated>2024-09-29T16:26:21.779Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
