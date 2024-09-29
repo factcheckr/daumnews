@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-09-29T19:19:35.433Z</updated>
+    <updated>2024-09-29T20:24:56.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스티븐 연 "한국 콘텐츠, 세계적 인기…'K' 포장 불필요해"]]></title>
+        <id>https://v.daum.net/v/20240930050032036</id>
+        <link href="https://v.daum.net/v/20240930050032036"/>
+        <updated>2024-09-29T20:23:59.667Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['맥주 천국' 뮌헨에 뜬금없는 '무알코올 바'… '음주 강국' 독일이 달라진다?]]></title>
+        <id>https://v.daum.net/v/20240930043107921</id>
+        <link href="https://v.daum.net/v/20240930043107921"/>
+        <updated>2024-09-29T20:23:59.669Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘 날씨] 아침 쌀쌀하지만 낮 최고 '30도'…태풍 '끄라톤' 현재 위치는?]]></title>
         <id>https://v.daum.net/v/20240930015139529</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20240929230149471"/>
         <updated>2024-09-29T14:19:09.111Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원두 찌꺼기 활용법 5가지]]></title>
-        <id>https://v.daum.net/v/20240929213116651</id>
-        <link href="https://v.daum.net/v/20240929213116651"/>
-        <updated>2024-09-29T14:19:09.113Z</updated>
-        <content type="html"><![CDATA[하이닥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[내일날씨] 9월 마지막 날까지 무더위… 10월 초 기온 '뚝']]></title>
-        <id>https://v.daum.net/v/20240929180129135</id>
-        <link href="https://v.daum.net/v/20240929180129135"/>
-        <updated>2024-09-29T14:19:09.117Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
