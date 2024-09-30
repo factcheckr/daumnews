@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-09-30T19:17:55.829Z</updated>
+    <updated>2024-09-30T20:25:32.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가을에 풍덩]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/ZhsPaWvaM7</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/ZhsPaWvaM7"/>
+        <updated>2024-09-30T20:25:04.136Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여기에 이러시면 안됩니다]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029578/0IsD542XOn</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615618/9h1cx0tsr1"/>
         <updated>2024-09-30T07:23:27.162Z</updated>
         <content type="html"><![CDATA[오마이포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수능 킬러문항 방지법 관련 기자회견 하는 백승아 의원]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5898259/5QCkGcNf94</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5898259/5QCkGcNf94"/>
-        <updated>2024-09-30T06:34:26.391Z</updated>
-        <content type="html"><![CDATA[2024학년도 대학수학능력시험]]></content>
     </entry>
 </feed>

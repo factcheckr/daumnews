@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-30T19:17:55.812Z</updated>
+    <updated>2024-09-30T20:25:32.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사이테크+] "강의 침식작용에 에베레스트 8만9천년간 15~50ｍ 솟아올라"]]></title>
+        <id>https://v.daum.net/v/20241001050011041</id>
+        <link href="https://v.daum.net/v/20241001050011041"/>
+        <updated>2024-09-30T20:24:47.901Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매년 사라지는 남극빙하의 70%는 스웨이츠·파인아일랜드 얼음]]></title>
         <id>https://v.daum.net/v/20241001040006910</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241001000609133"/>
         <updated>2024-09-30T15:25:03.736Z</updated>
         <content type="html"><![CDATA[매경이코노미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에픽게임즈 "삼성-구글 앱마켓 경쟁 차단 공모"…삼성 "근거 없다"]]></title>
-        <id>https://v.daum.net/v/20240930220454266</id>
-        <link href="https://v.daum.net/v/20240930220454266"/>
-        <updated>2024-09-30T14:22:37.750Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-09-30T19:17:55.810Z</updated>
+    <updated>2024-09-30T20:25:32.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘흉기 피습’ 작가 루슈디 “나의 후회를 읽겠다면 책 덮으시라”]]></title>
+        <id>https://v.daum.net/v/20241001000502118</id>
+        <link href="https://v.daum.net/v/20241001000502118"/>
+        <updated>2024-09-30T20:24:38.955Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[녹유 오늘의 운세] 94년생 소리 없이 강하게 목표를 향해 가요]]></title>
         <id>https://v.daum.net/v/20241001000021040</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240930180602833"/>
         <updated>2024-09-30T12:44:12.367Z</updated>
         <content type="html"><![CDATA[노컷뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Health Recipe] 감정도 표현도 배워야 잘한다…‘감정 일기’ 쓰기]]></title>
-        <id>https://v.daum.net/v/20240930143006055</id>
-        <link href="https://v.daum.net/v/20240930143006055"/>
-        <updated>2024-09-30T12:44:12.367Z</updated>
-        <content type="html"><![CDATA[시티라이프]]></content>
     </entry>
 </feed>
