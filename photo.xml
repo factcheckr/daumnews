@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-09-30T15:25:53.980Z</updated>
+    <updated>2024-09-30T16:30:13.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여기에 이러시면 안됩니다]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/0IsD542XOn</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/0IsD542XOn"/>
+        <updated>2024-09-30T16:29:41.374Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한·슬로바키아  '전략적동반자관계'수립]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1682593/FWzcuexpdl</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5898259/5QCkGcNf94"/>
         <updated>2024-09-30T06:34:26.391Z</updated>
         <content type="html"><![CDATA[2024학년도 대학수학능력시험]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보궐선거 투표합시다]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5610796/FvdtzvhLUo</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5610796/FvdtzvhLUo"/>
-        <updated>2024-09-30T06:34:26.395Z</updated>
-        <content type="html"><![CDATA[모멘트]]></content>
     </entry>
 </feed>
