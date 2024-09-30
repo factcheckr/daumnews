@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-09-30T21:22:59.388Z</updated>
+    <updated>2024-09-30T22:22:43.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 아니메쉬 가그 조지아공대 교수 “현재 3살 수준 로봇 구현… AI 로보틱스, LLM 만나 발전”]]></title>
+        <id>https://v.daum.net/v/20241001060041625</id>
+        <link href="https://v.daum.net/v/20241001060041625"/>
+        <updated>2024-09-30T22:22:02.171Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[텔레그램, 딥페이크물 바로 삭제하기로]]></title>
+        <id>https://v.daum.net/v/20241001005424402</id>
+        <link href="https://v.daum.net/v/20241001005424402"/>
+        <updated>2024-09-30T22:22:02.172Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“유튜브만 2시간째 보는 중, 나만 그래?” 지독한 중독…이 정도일 줄이야]]></title>
         <id>https://v.daum.net/v/20240930194104814</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20240930201602450"/>
         <updated>2024-09-30T15:25:14.413Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스를 이 가격에?…"이건 진짜 대박이네" 환호성]]></title>
-        <id>https://v.daum.net/v/20240930200111170</id>
-        <link href="https://v.daum.net/v/20240930200111170"/>
-        <updated>2024-09-30T15:25:14.413Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에픽게임즈, 삼성에 반독점 소송…삼성 “에픽 주장 사실 아냐”[팩플]]]></title>
-        <id>https://v.daum.net/v/20240930200032143</id>
-        <link href="https://v.daum.net/v/20240930200032143"/>
-        <updated>2024-09-30T14:22:48.808Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
