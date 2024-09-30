@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-09-30T18:31:24.329Z</updated>
+    <updated>2024-09-30T19:17:55.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[매년 사라지는 남극빙하의 70%는 스웨이츠·파인아일랜드 얼음]]></title>
+        <id>https://v.daum.net/v/20241001040006910</id>
+        <link href="https://v.daum.net/v/20241001040006910"/>
+        <updated>2024-09-30T19:17:03.210Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[텔레그램, 딥페이크물 바로 삭제하기로]]></title>
         <id>https://v.daum.net/v/20241001005424402</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20240930220454266"/>
         <updated>2024-09-30T14:22:37.750Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쎄타랩스, 고려대 김동현 교수 AI연구실(UTL Lab)에 엣지클라우드 GPU 공급 계약]]></title>
-        <id>https://v.daum.net/v/20240930220001167</id>
-        <link href="https://v.daum.net/v/20240930220001167"/>
-        <updated>2024-09-30T14:22:37.760Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
