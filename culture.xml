@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-09-30T22:22:43.069Z</updated>
+    <updated>2024-09-30T23:24:08.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[죽은 새끼 돌고래 놓고 수족관 손해만 걱정하는 정부]]></title>
+        <id>https://v.daum.net/v/20241001080008940</id>
+        <link href="https://v.daum.net/v/20241001080008940"/>
+        <updated>2024-09-30T23:23:04.801Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[잇슈 컬처] 스티븐 연 “한국 콘텐츠, ‘K’ 수식어 빼도 돼”]]></title>
         <id>https://v.daum.net/v/20241001070910467</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241001040711932"/>
         <updated>2024-09-30T22:21:27.157Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경복궁에서 받아쓰기 대회 열린다]]></title>
-        <id>https://v.daum.net/v/20241001050256167</id>
-        <link href="https://v.daum.net/v/20241001050256167"/>
-        <updated>2024-09-30T22:21:27.159Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-09-30T22:22:43.052Z</updated>
+    <updated>2024-09-30T23:24:08.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경복궁에서 받아쓰기 대회 열린다]]></title>
+        <id>https://v.daum.net/v/20241001050256167</id>
+        <link href="https://v.daum.net/v/20241001050256167"/>
+        <updated>2024-09-30T23:23:14.390Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘와일드 로봇’ 한인 애니메이터들 “친근한 원형 로봇, 친절함이란 삶의 기술 전해”]]></title>
         <id>https://v.daum.net/v/20241001050305179</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20240930153500947"/>
         <updated>2024-09-30T21:21:51.119Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘흉기 피습’ 작가 루슈디 “나의 후회를 읽겠다면 책 덮으시라”]]></title>
-        <id>https://v.daum.net/v/20241001000502118</id>
-        <link href="https://v.daum.net/v/20241001000502118"/>
-        <updated>2024-09-30T20:24:38.955Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
