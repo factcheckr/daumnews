@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-01T09:25:45.360Z</updated>
+    <updated>2024-10-01T10:26:07.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반도체 한계를 넘다 미리보기]〈2〉TEL·동진쎄미켐·퀄컴, 첨단 반도체 진화 방향 제시]]></title>
+        <id>https://v.daum.net/v/20241001171104766</id>
+        <link href="https://v.daum.net/v/20241001171104766"/>
+        <updated>2024-10-01T10:25:33.970Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['더 싸게 팔면 불법' 단통법 10년…역효과 논란 여전]]></title>
         <id>https://v.daum.net/v/20241001140105411</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["6G는 5G와 달라야"…내년 6G `원격협연` 실증한다]]></title>
+        <title type="html"><![CDATA[3차원 입체통신 눈앞에… 내년 6G `원격협연` 실증]]></title>
         <id>https://v.daum.net/v/20241001160912601</id>
         <link href="https://v.daum.net/v/20241001160912601"/>
         <updated>2024-10-01T09:25:10.472Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241001160111487"/>
         <updated>2024-10-01T07:22:56.036Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M360 APAC 개막 "AI시대, 다양한 글로벌 기술 활용 필요"]]></title>
-        <id>https://v.daum.net/v/20241001144205067</id>
-        <link href="https://v.daum.net/v/20241001144205067"/>
-        <updated>2024-10-01T07:22:56.037Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
 </feed>
