@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-10-01T16:30:19.352Z</updated>
+    <updated>2024-10-01T17:21:18.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘 날씨] 서늘한 아침 출근길 일교차 주의...노화와 질환의 경계 '백내장' 의심 증상]]></title>
+        <id>https://v.daum.net/v/20241002011624717</id>
+        <link href="https://v.daum.net/v/20241002011624717"/>
+        <updated>2024-10-01T17:20:12.781Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 2024년 10월 02일 별자리 운세]]></title>
         <id>https://v.daum.net/v/20241002000312205</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241001230201715"/>
         <updated>2024-10-01T14:21:11.246Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘타짜’ 감독 실시간 코멘터리…바다 위 스크린 ‘상견니’ 상영도]]></title>
-        <id>https://v.daum.net/v/20241001191139598</id>
-        <link href="https://v.daum.net/v/20241001191139598"/>
-        <updated>2024-10-01T14:21:11.248Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
     </entry>
 </feed>
