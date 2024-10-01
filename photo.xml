@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-01T19:21:53.258Z</updated>
+    <updated>2024-10-01T20:27:52.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1682593/Q3rMt1XDWi"/>
         <updated>2024-10-01T15:24:26.303Z</updated>
         <content type="html"><![CDATA[대한민국 대통령실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한옥엔 한복]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/zCZt29BWI3</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/zCZt29BWI3"/>
+        <updated>2024-10-01T20:27:23.166Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가을을 ‘찰칵’[포토뉴스]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5632532/4HhBVWvap7"/>
         <updated>2024-10-01T01:49:11.202Z</updated>
         <content type="html"><![CDATA[더 한장]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초심으로 돌아가는 행동하는 신앙[렌즈로 본 세상]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/8034/Wmh6hexpSj</id>
-        <link href="https://gallery.v.daum.net/p/viewer/8034/Wmh6hexpSj"/>
-        <updated>2024-10-01T18:30:23.247Z</updated>
-        <content type="html"><![CDATA[렌즈로 본 세상]]></content>
     </entry>
 </feed>
