@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-10-02T16:29:49.556Z</updated>
+    <updated>2024-10-02T17:20:05.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국세청, 초고가 아파트-단독주택도 감정평가]]></title>
+        <id>https://v.daum.net/v/20241003014144799</id>
+        <link href="https://v.daum.net/v/20241003014144799"/>
+        <updated>2024-10-02T17:18:38.791Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소상공인 대출에 11조… 정부, 추가 투입하기로]]></title>
         <id>https://v.daum.net/v/20241003004035526</id>
@@ -18,6 +25,20 @@
         <link href="https://v.daum.net/v/20241003004020520"/>
         <updated>2024-10-02T16:28:21.716Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“삼전, 진짜 비상사태인가”… ‘오만전자’에 개미들 곡소리]]></title>
+        <id>https://v.daum.net/v/20241003000509180</id>
+        <link href="https://v.daum.net/v/20241003000509180"/>
+        <updated>2024-10-02T17:18:38.794Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시, 중동 정세·고용지표 주시…낙폭 좁히고 보합 출발]]></title>
+        <id>https://v.daum.net/v/20241003000317151</id>
+        <link href="https://v.daum.net/v/20241003000317151"/>
+        <updated>2024-10-02T17:18:38.795Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[초파리 ‘뇌 지도’ 완성... 치매 막을 길 찾는다]]></title>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20241002234809960"/>
         <updated>2024-10-02T15:24:42.350Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몸값 높아지자 IPO·매각 속도…조 단위 뷰티 ‘대어’ 평가받기도]]></title>
-        <id>https://v.daum.net/v/20241002234204902</id>
-        <link href="https://v.daum.net/v/20241002234204902"/>
-        <updated>2024-10-02T15:24:42.353Z</updated>
-        <content type="html"><![CDATA[매경이코노미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어느새 메가 브랜드…인디 K뷰티 전성시대 [스페셜리포트]]]></title>
-        <id>https://v.daum.net/v/20241002234200899</id>
-        <link href="https://v.daum.net/v/20241002234200899"/>
-        <updated>2024-10-02T15:24:42.355Z</updated>
-        <content type="html"><![CDATA[매경이코노미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘저출생 극복’ 울산 민간 각계 힘 보탠다]]></title>
-        <id>https://v.daum.net/v/20241002234051889</id>
-        <link href="https://v.daum.net/v/20241002234051889"/>
-        <updated>2024-10-02T15:24:42.356Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

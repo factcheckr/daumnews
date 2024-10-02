@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-10-02T16:29:49.580Z</updated>
+    <updated>2024-10-02T17:20:05.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[韓 여성 미술의 어제와 오늘을 잇다]]></title>
+        <id>https://v.daum.net/v/20241003014307846</id>
+        <link href="https://v.daum.net/v/20241003014307846"/>
+        <updated>2024-10-02T17:19:04.321Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 2024년 10월 03일 별자리 운세]]></title>
         <id>https://v.daum.net/v/20241003000304145</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241002220031837"/>
         <updated>2024-10-02T13:28:44.969Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시대와의 불화 일으켰다…이문열이 깐 복잡한 가족사]]></title>
-        <id>https://v.daum.net/v/20241002210031408</id>
-        <link href="https://v.daum.net/v/20241002210031408"/>
-        <updated>2024-10-02T16:28:47.965Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
