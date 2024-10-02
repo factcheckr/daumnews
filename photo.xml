@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-02T19:20:05.472Z</updated>
+    <updated>2024-10-02T20:26:52.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/1644543/GGP7Wao9UD"/>
         <updated>2024-10-02T16:29:19.808Z</updated>
         <content type="html"><![CDATA[2024 미국 대선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부평역 터줏대감]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/212305/6xjdORxpMv</id>
+        <link href="https://gallery.v.daum.net/p/viewer/212305/6xjdORxpMv"/>
+        <updated>2024-10-02T20:26:24.949Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김완섭 장관, 수도권매립지관리공사 현장 점검]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5968391/fAKoCkA8Bo"/>
         <updated>2024-10-02T09:24:21.314Z</updated>
         <content type="html"><![CDATA[오늘의 한 컷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동부간선 지하도로 착공식]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5847810/ufSw0GWApS</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5847810/ufSw0GWApS"/>
-        <updated>2024-10-02T09:24:21.314Z</updated>
-        <content type="html"><![CDATA[지자체 제공 포토]]></content>
     </entry>
 </feed>
