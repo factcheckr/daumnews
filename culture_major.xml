@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-10-02T05:23:44.191Z</updated>
+    <updated>2024-10-02T06:31:40.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘벌크업’ 좋다지만 40대부터는 자주 반복하면 ‘독’]]></title>
+        <id>https://v.daum.net/v/20241002124334340</id>
+        <link href="https://v.daum.net/v/20241002124334340"/>
+        <updated>2024-10-02T06:30:54.876Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['수면장애' 환자 5년새 24%증가…한해 진료비 3200억원대]]></title>
         <id>https://v.daum.net/v/20241002094101441</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241002120301451"/>
         <updated>2024-10-02T04:26:53.100Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“꿀잠 자보는 게 소원”…국민병 된 수면장애, 병원 찾은 인구가 무려]]></title>
-        <id>https://v.daum.net/v/20241002110005713</id>
-        <link href="https://v.daum.net/v/20241002110005713"/>
-        <updated>2024-10-02T04:26:53.101Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
