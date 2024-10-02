@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-02T15:26:19.659Z</updated>
+    <updated>2024-10-02T16:29:49.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[IT애정남] 012 번호로 자꾸 이상한 문자 메시지가? 어쩌죠?]]></title>
+        <id>https://v.daum.net/v/20241002212401038</id>
+        <link href="https://v.daum.net/v/20241002212401038"/>
+        <updated>2024-10-02T16:29:12.126Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['딥페이크 온상' 된 텔레그램…삭제 요청 오자 100% 이행]]></title>
         <id>https://v.daum.net/v/20241002203101620</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241002175002512"/>
         <updated>2024-10-02T10:25:40.417Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오징어에서 영감 얻었다…신개념 방한의류 만들 소재 개발]]></title>
-        <id>https://v.daum.net/v/20241002174613392</id>
-        <link href="https://v.daum.net/v/20241002174613392"/>
-        <updated>2024-10-02T10:25:40.418Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
