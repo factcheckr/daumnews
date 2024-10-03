@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-10-03T19:18:14.895Z</updated>
+    <updated>2024-10-03T20:25:20.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성전자, 모바일과 가전 통합 가속화.. 가전과 TV에도 One UI 적용]]></title>
+        <id>https://v.daum.net/v/20241004050900097</id>
+        <link href="https://v.daum.net/v/20241004050900097"/>
+        <updated>2024-10-03T20:24:33.691Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["신약 개발에 진단까지"…제약업계에 부는 'AI 바람']]></title>
+        <id>https://v.daum.net/v/20241004050035778</id>
+        <link href="https://v.daum.net/v/20241004050035778"/>
+        <updated>2024-10-03T20:24:33.693Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘인앱결제 수수료 갑질’ 구글-애플, 5년째 국감 불러 따진다]]></title>
         <id>https://v.daum.net/v/20241004030324187</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20241004003312598"/>
         <updated>2024-10-03T16:28:17.493Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비밀번호 변경 지옥… 이젠 벗어날 수 있나]]></title>
-        <id>https://v.daum.net/v/20241004005610737</id>
-        <link href="https://v.daum.net/v/20241004005610737"/>
-        <updated>2024-10-03T16:28:17.493Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올 AI PC 출하량 倍로 늘자… ‘두뇌 칩 주도권’ 싸움]]></title>
-        <id>https://v.daum.net/v/20241004003610636</id>
-        <link href="https://v.daum.net/v/20241004003610636"/>
-        <updated>2024-10-03T16:28:17.495Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>

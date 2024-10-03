@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-03T19:18:14.907Z</updated>
+    <updated>2024-10-03T20:25:20.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비밀번호 변경 지옥… 이젠 벗어날 수 있나]]></title>
+        <id>https://v.daum.net/v/20241004005610737</id>
+        <link href="https://v.daum.net/v/20241004005610737"/>
+        <updated>2024-10-03T20:24:45.961Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EU, 유튜브·틱톡 알고리즘도 조준]]></title>
         <id>https://v.daum.net/v/20241004005543724</id>
         <link href="https://v.daum.net/v/20241004005543724"/>
         <updated>2024-10-03T16:28:26.436Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올 AI PC 출하량 倍로 늘자… ‘두뇌 칩 주도권’ 싸움]]></title>
+        <id>https://v.daum.net/v/20241004003610636</id>
+        <link href="https://v.daum.net/v/20241004003610636"/>
+        <updated>2024-10-03T20:24:45.962Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20241003200105943"/>
         <updated>2024-10-03T14:22:01.748Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불펌 숏폼 콘텐츠 확산되는데…방심위 심위는 '역부족']]></title>
-        <id>https://v.daum.net/v/20241003194906754</id>
-        <link href="https://v.daum.net/v/20241003194906754"/>
-        <updated>2024-10-03T12:42:38.651Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 통신사 오래 쓰면 더 손해…과징금 부과 전망]]></title>
-        <id>https://v.daum.net/v/20241003190717146</id>
-        <link href="https://v.daum.net/v/20241003190717146"/>
-        <updated>2024-10-03T12:42:38.652Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>
