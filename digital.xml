@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-10-03T17:23:34.553Z</updated>
+    <updated>2024-10-03T18:30:30.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘인앱결제 수수료 갑질’ 구글-애플, 5년째 국감 불러 따진다]]></title>
+        <id>https://v.daum.net/v/20241004030324187</id>
+        <link href="https://v.daum.net/v/20241004030324187"/>
+        <updated>2024-10-03T18:29:53.883Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성전자 "스마트싱스에 AI 적용…연결된 모든 기기에 확대"]]></title>
         <id>https://v.daum.net/v/20241004020004920</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241004003610636"/>
         <updated>2024-10-03T16:28:17.495Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 리걸테크 성장…대형로펌 '개발은 빠르게, 활용은 신중히']]></title>
-        <id>https://v.daum.net/v/20241004000045219</id>
-        <link href="https://v.daum.net/v/20241004000045219"/>
-        <updated>2024-10-03T15:26:31.916Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
