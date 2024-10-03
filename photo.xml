@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-03T10:24:28.691Z</updated>
+    <updated>2024-10-03T11:20:06.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘독도 열공’…독도 대첩 70주년 페스티벌[포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/377110/2OUcDjaVCH</id>
+        <link href="https://gallery.v.daum.net/p/viewer/377110/2OUcDjaVCH"/>
+        <updated>2024-10-03T11:19:40.463Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개천절 휴일 즐기는 시민들 [포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5840500/FOzVENg2T3</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5029578/UOOCnzuSO0"/>
         <updated>2024-10-02T14:20:12.522Z</updated>
         <content type="html"><![CDATA[고양이 눈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테헤란 대규모 이스라엘 규탄 시위]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5031013/XCPNj2KGUz</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5031013/XCPNj2KGUz"/>
-        <updated>2024-10-02T14:20:12.528Z</updated>
-        <content type="html"><![CDATA[이란은 지금]]></content>
     </entry>
 </feed>
