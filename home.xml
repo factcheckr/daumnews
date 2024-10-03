@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-10-03T18:30:30.663Z</updated>
+    <updated>2024-10-03T19:18:14.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경기남동부 가끔 비…쌀쌀한 아침, 일교차는 10도 이상 [날씨]]]></title>
+        <id>https://v.daum.net/v/20241004033105289</id>
+        <link href="https://v.daum.net/v/20241004033105289"/>
+        <updated>2024-10-03T19:15:43.089Z</updated>
+        <content type="html"><![CDATA[생활]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與 “김건희 리스크 임계점… 尹, 결단의 시간”]]></title>
         <id>https://v.daum.net/v/20241004030252167</id>
@@ -41,13 +48,6 @@
         <content type="html"><![CDATA[국제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['마초사회' 멕시코 남녀 임금격차 없앤다…헌법 명문화 추진]]></title>
-        <id>https://v.daum.net/v/20241004020555019</id>
-        <link href="https://v.daum.net/v/20241004020555019"/>
-        <updated>2024-10-03T17:20:54.753Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[삼성전자 "스마트싱스에 AI 적용…연결된 모든 기기에 확대"]]></title>
         <id>https://v.daum.net/v/20241004020004920</id>
         <link href="https://v.daum.net/v/20241004020004920"/>
@@ -79,13 +79,6 @@
         <title type="html"><![CDATA[日 “‘혐한’으로는 日외교 성립 안돼”…‘아시아판 나토’ 보류할 듯]]></title>
         <id>https://v.daum.net/v/20241004005705752</id>
         <link href="https://v.daum.net/v/20241004005705752"/>
-        <updated>2024-10-03T16:26:32.994Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英중앙은행 총재 "중동 사태로 석유시장 위험 면밀 주시"]]></title>
-        <id>https://v.daum.net/v/20241004004408686</id>
-        <link href="https://v.daum.net/v/20241004004408686"/>
         <updated>2024-10-03T16:26:32.994Z</updated>
         <content type="html"><![CDATA[국제]]></content>
     </entry>
@@ -144,5 +137,12 @@
         <link href="https://v.daum.net/v/20241004000013201"/>
         <updated>2024-10-03T15:25:17.510Z</updated>
         <content type="html"><![CDATA[정치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘위기설’ 삼성전자… 반도체 50주년 행사마저 백지화]]></title>
+        <id>https://v.daum.net/v/20241004000610366</id>
+        <link href="https://v.daum.net/v/20241004000610366"/>
+        <updated>2024-10-03T19:15:43.114Z</updated>
+        <content type="html"><![CDATA[경제]]></content>
     </entry>
 </feed>
