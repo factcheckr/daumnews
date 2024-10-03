@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-10-03T06:32:00.930Z</updated>
+    <updated>2024-10-03T07:23:16.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ET시론]기후변화 대응하는 지속가능한 사람중심 스마트도시 구현 방안]]></title>
+        <id>https://v.daum.net/v/20241003160114014</id>
+        <link href="https://v.daum.net/v/20241003160114014"/>
+        <updated>2024-10-03T07:22:35.946Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버 부동산 매물 긁어간 스타트업…“저작권 침해”]]></title>
         <id>https://v.daum.net/v/20241003152152810</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241003140539792"/>
         <updated>2024-10-03T05:25:57.977Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드디어 암 정복하나…구글 딥마인드 CEO "AI로 모든 질병 치료"]]></title>
-        <id>https://v.daum.net/v/20241003104601812</id>
-        <link href="https://v.daum.net/v/20241003104601812"/>
-        <updated>2024-10-03T05:25:57.977Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>

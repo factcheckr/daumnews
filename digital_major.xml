@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-03T06:32:00.910Z</updated>
+    <updated>2024-10-03T07:23:16.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드디어 암 정복하나…구글 딥마인드 CEO "AI로 모든 질병 치료"]]></title>
+        <id>https://v.daum.net/v/20241003104601812</id>
+        <link href="https://v.daum.net/v/20241003104601812"/>
+        <updated>2024-10-03T07:22:43.027Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글 "주 최소 3일 사무실 출근 제도 유지할 것"]]></title>
         <id>https://v.daum.net/v/20241003140517783</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241003102812487"/>
         <updated>2024-10-03T04:31:00.571Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아이폰16’ 프리미엄 모델 품귀 지속...“재입고 기약없어”]]></title>
-        <id>https://v.daum.net/v/20241003060000878</id>
-        <link href="https://v.daum.net/v/20241003060000878"/>
-        <updated>2024-10-03T04:31:00.572Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
