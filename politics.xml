@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2024-10-05T15:24:27.037Z</updated>
+    <updated>2024-10-05T16:26:53.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김동연 "'경제통일' 준비하는 경기도의 실천은 계속된다"]]></title>
+        <id>https://v.daum.net/v/20241006004801758</id>
+        <link href="https://v.daum.net/v/20241006004801758"/>
+        <updated>2024-10-05T16:25:21.774Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한발 물러선 정부…의료계 화답할까]]></title>
         <id>https://v.daum.net/v/20241006001500659</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241005224003979"/>
         <updated>2024-10-05T14:18:12.887Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김소희 국민의힘 의원 "수도권매립지관리공사->수도권자원순환공사로"]]></title>
-        <id>https://v.daum.net/v/20241005220443760</id>
-        <link href="https://v.daum.net/v/20241005220443760"/>
-        <updated>2024-10-05T13:23:51.845Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
