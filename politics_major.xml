@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-10-05T13:25:29.755Z</updated>
+    <updated>2024-10-05T14:19:48.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[창녕군의회, 쌀값 하락 대책 결의안 통과]]></title>
+        <id>https://v.daum.net/v/20241005213247438</id>
+        <link href="https://v.daum.net/v/20241005213247438"/>
+        <updated>2024-10-05T14:18:19.114Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[햇빛연금 vs 행복지원금 vs 주거수당..닮은 듯 다른 해법]]></title>
         <id>https://v.daum.net/v/20241005211643208</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241005202515593"/>
         <updated>2024-10-05T12:38:19.735Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정치 양극화에 존재감 없는 군소정당들…캐스팅보터 역할도 못 해]]></title>
-        <id>https://v.daum.net/v/20241005201414471</id>
-        <link href="https://v.daum.net/v/20241005201414471"/>
-        <updated>2024-10-05T12:38:19.737Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
