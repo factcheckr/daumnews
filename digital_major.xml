@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-05T18:28:27.371Z</updated>
+    <updated>2024-10-05T19:18:27.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유튜브뮤직 사라진다? 공정위 "사실무근" 해명에도 쏟아진 비판]]></title>
+        <id>https://v.daum.net/v/20241005213256440</id>
+        <link href="https://v.daum.net/v/20241005213256440"/>
+        <updated>2024-10-05T19:17:54.310Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘헐값’ 대란 터졌다…“삼성 100만원 파격 할인, 먼저 산 사람 어쩌나”]]></title>
         <id>https://v.daum.net/v/20241005204050761</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241005073005035"/>
         <updated>2024-10-05T11:21:25.065Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['휴대폰 성지' 믿고 가봤는데…허위·과장 광고' 수두룩]]></title>
-        <id>https://v.daum.net/v/20241005112115441</id>
-        <link href="https://v.daum.net/v/20241005112115441"/>
-        <updated>2024-10-05T11:21:25.067Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
     </entry>
 </feed>

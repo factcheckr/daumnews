@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-10-05T18:28:27.367Z</updated>
+    <updated>2024-10-05T19:18:27.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 아침 기온 10도 안팎‥전국 맑다 흐려져]]></title>
+        <id>https://v.daum.net/v/20241006035813243</id>
+        <link href="https://v.daum.net/v/20241006035813243"/>
+        <updated>2024-10-05T19:16:08.569Z</updated>
+        <content type="html"><![CDATA[문화]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오늘 날씨] "야외활동 하기 좋아요" 아침 쌀쌀·낮 포근…독감 백신, 10월에 접종해야 하는 이유]]></title>
+        <id>https://v.daum.net/v/20241006032226230</id>
+        <link href="https://v.daum.net/v/20241006032226230"/>
+        <updated>2024-10-05T19:16:08.570Z</updated>
+        <content type="html"><![CDATA[문화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['107만' 불꽃축제 무사히 마쳐...쓰레기 더미 '눈살']]></title>
         <id>https://v.daum.net/v/20241006031013223</id>
@@ -130,19 +144,5 @@
         <link href="https://v.daum.net/v/20241005230554139"/>
         <updated>2024-10-05T14:17:54.866Z</updated>
         <content type="html"><![CDATA[IT/과학]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공기 건조한 게 호흡기에만 영향? ‘탈모’도 부추긴다]]></title>
-        <id>https://v.daum.net/v/20241005230030123</id>
-        <link href="https://v.daum.net/v/20241005230030123"/>
-        <updated>2024-10-05T14:17:54.868Z</updated>
-        <content type="html"><![CDATA[생활]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“상간 맞소송 처음 봐”…최동석·박지윤 뼈 때린 이혼 전문 변호사]]></title>
-        <id>https://v.daum.net/v/20241005230007121</id>
-        <link href="https://v.daum.net/v/20241005230007121"/>
-        <updated>2024-10-05T14:17:54.870Z</updated>
-        <content type="html"><![CDATA[사회]]></content>
     </entry>
 </feed>
