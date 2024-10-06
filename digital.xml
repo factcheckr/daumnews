@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-10-06T02:59:03.551Z</updated>
+    <updated>2024-10-06T03:31:50.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화속 '팔뚝 디스플레이' 현실로…'늘어나는 光반도체' 나왔다]]></title>
+        <id>https://v.daum.net/v/20241006110003451</id>
+        <link href="https://v.daum.net/v/20241006110003451"/>
+        <updated>2024-10-06T03:31:09.047Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[22대 국회 첫 국감 네·카 소환…뉴스 편향성, 택시 수수료 문제 물을 듯]]></title>
         <id>https://v.daum.net/v/20241006102702934</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241006090003415"/>
         <updated>2024-10-06T01:46:35.250Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["보안 걱정, 환각 우려 없는 기업용 AI 'SAIP'"]]></title>
-        <id>https://v.daum.net/v/20241006095507318</id>
-        <link href="https://v.daum.net/v/20241006095507318"/>
-        <updated>2024-10-06T02:58:19.254Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
