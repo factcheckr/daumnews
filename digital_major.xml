@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-07T18:29:48.686Z</updated>
+    <updated>2024-10-07T19:18:28.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[클릭 몇 번으로 영화 장면 맞먹는 영상 뚝딱…메타도 참전한 AI 동영상 전장]]></title>
+        <id>https://v.daum.net/v/20241007200420855</id>
+        <link href="https://v.daum.net/v/20241007200420855"/>
+        <updated>2024-10-07T19:18:00.231Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[망이용료·기금 얘기 나오자… 구글·넷플릭스 "재판매업, 이익 적어"[2024국감]]]></title>
         <id>https://v.daum.net/v/20241007214256358</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241007200813923"/>
         <updated>2024-10-07T12:43:43.666Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기획] 법 깔보는 인앱결제 구글·애플 `갑질`]]></title>
-        <id>https://v.daum.net/v/20241007190045415</id>
-        <link href="https://v.daum.net/v/20241007190045415"/>
-        <updated>2024-10-07T12:43:43.668Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
