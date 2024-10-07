@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-10-07T16:28:50.966Z</updated>
+    <updated>2024-10-07T17:21:33.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20241008004528219"/>
         <updated>2024-10-07T16:27:21.150Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지역활성 취지 무색…외면받는 고향사랑기부·지역상품권]]></title>
+        <id>https://v.daum.net/v/20241008000626930</id>
+        <link href="https://v.daum.net/v/20241008000626930"/>
+        <updated>2024-10-07T17:20:10.022Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고용 호조에 美 국채 10년물 금리 두 달 만에 4%대로 복귀]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241008000245817"/>
         <updated>2024-10-07T16:27:21.158Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장기 소비침체에 유통업계 살얼음판…연말 인사에 쏠리는 눈]]></title>
-        <id>https://v.daum.net/v/20241008000116774</id>
-        <link href="https://v.daum.net/v/20241008000116774"/>
-        <updated>2024-10-07T16:27:21.160Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>

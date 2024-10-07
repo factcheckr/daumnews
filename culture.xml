@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-10-07T16:28:50.981Z</updated>
+    <updated>2024-10-07T17:21:33.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[건물 한가운데 구멍 '뻥'…유현준이 설계한 JYP 신사옥 보니]]></title>
+        <id>https://v.daum.net/v/20241008004418212</id>
+        <link href="https://v.daum.net/v/20241008004418212"/>
+        <updated>2024-10-07T17:20:34.645Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데일리 헬스] '팔뚝 혹은 엉덩이' 주사 맞는 부위 달라지는 이유]]></title>
         <id>https://v.daum.net/v/20241008010432383</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241007223056055"/>
         <updated>2024-10-07T16:27:50.114Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['착한 암'이라며 과잉 치료 말라더니…"사망률 높아져" 충격]]></title>
-        <id>https://v.daum.net/v/20241007221602906</id>
-        <link href="https://v.daum.net/v/20241007221602906"/>
-        <updated>2024-10-07T14:23:51.633Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
