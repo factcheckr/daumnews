@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메인뉴스</title>
-    <updated>2024-10-08T17:20:47.006Z</updated>
+    <updated>2024-10-08T18:31:45.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울시, 세계 첫 어린이 정원축제…  한국의 ‘첼시 플라워쇼’로 키운다]]></title>
+        <id>https://v.daum.net/v/20241009023506511</id>
+        <link href="https://v.daum.net/v/20241009023506511"/>
+        <updated>2024-10-08T18:29:53.536Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["어라? 여기도 열리네"···남의 택배 '30개' 슬쩍한 40대女 수법 보니]]></title>
         <id>https://v.daum.net/v/20241009020022447</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241009014152370"/>
         <updated>2024-10-08T17:19:00.031Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 큰 일교차 유의…전국 하늘 가끔 구름·내륙 짙은 안개]]></title>
-        <id>https://v.daum.net/v/20241009013904339</id>
-        <link href="https://v.daum.net/v/20241009013904339"/>
-        <updated>2024-10-08T17:19:00.033Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
