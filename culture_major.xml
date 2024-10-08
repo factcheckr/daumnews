@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-10-08T02:57:21.351Z</updated>
+    <updated>2024-10-08T03:31:13.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[류희림 "실수 같다", KBS 기미가요 방송 '권고' 처분]]></title>
+        <id>https://v.daum.net/v/20241008103601176</id>
+        <link href="https://v.daum.net/v/20241008103601176"/>
+        <updated>2024-10-08T03:30:07.317Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[로컬인사이드] 정부 지원 없어도 엽니다, ‘세종시 독립영화제’ 19일 개최]]></title>
         <id>https://v.daum.net/v/20241008092252147</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241008093701689"/>
         <updated>2024-10-08T01:40:58.066Z</updated>
         <content type="html"><![CDATA[kbc광주방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보름밤의 정원' 서울식물원 가을축제‥개장 후 첫 야간개장도]]></title>
-        <id>https://v.daum.net/v/20241008092516253</id>
-        <link href="https://v.daum.net/v/20241008092516253"/>
-        <updated>2024-10-08T01:40:58.070Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
