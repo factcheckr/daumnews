@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-08T13:29:59.824Z</updated>
+    <updated>2024-10-08T14:25:18.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[2024 노벨상] 제프리 힌튼 “AI 위험하지만, 나도 GPT-4 애용”]]></title>
+        <id>https://v.daum.net/v/20241008211454283</id>
+        <link href="https://v.daum.net/v/20241008211454283"/>
+        <updated>2024-10-08T14:24:42.211Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2024 노벨상] 인공지능계의 ‘판타스틱4’에서 탄생한 수상자]]></title>
+        <id>https://v.daum.net/v/20241008204148634</id>
+        <link href="https://v.daum.net/v/20241008204148634"/>
+        <updated>2024-10-08T14:24:42.214Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[챗GPT 토대 만든 ‘딥러닝 대부’…노벨상 받고도 “AI 위협 우려”]]></title>
         <id>https://v.daum.net/v/20241008211425277</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20241008202813373"/>
         <updated>2024-10-08T12:40:50.312Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물리학 원리로 뇌 설명해 컴퓨터에…폭발적 AI성장 길 열어]]></title>
-        <id>https://v.daum.net/v/20241008202517302</id>
-        <link href="https://v.daum.net/v/20241008202517302"/>
-        <updated>2024-10-08T12:40:50.313Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“삼성처럼 못 만들겠다” 애플, 충격 ‘포기 선언’…이 반지, 결국 못 본다?]]></title>
-        <id>https://v.daum.net/v/20241008194132127</id>
-        <link href="https://v.daum.net/v/20241008194132127"/>
-        <updated>2024-10-08T12:40:50.315Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
