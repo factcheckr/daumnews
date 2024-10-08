@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-08T19:16:44.260Z</updated>
+    <updated>2024-10-08T20:20:32.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고양이 보고 갈래?]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5029578/7uvLp8f5rH</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5029578/7uvLp8f5rH"/>
+        <updated>2024-10-08T20:20:11.042Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘별처럼 빛나는’ 어느 외국인의 한글 사랑[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/Xsqz19bYSQ</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1644543/P5JYuf2X3t"/>
         <updated>2024-10-08T04:27:22.487Z</updated>
         <content type="html"><![CDATA[2024 미국 대선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브뤼셀에서 열린 하마스 인질 추모 행사]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5032955/QEhG74VZpF</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5032955/QEhG74VZpF"/>
-        <updated>2024-10-08T05:22:12.027Z</updated>
-        <content type="html"><![CDATA[벨기에는 지금]]></content>
     </entry>
 </feed>

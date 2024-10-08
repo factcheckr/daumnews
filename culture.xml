@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-10-08T19:16:44.240Z</updated>
+    <updated>2024-10-08T20:20:32.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[느린 풍경] 세종, 그 이름에 걸맞은 품격... 이 도시에서만 누릴 수 있는 것]]></title>
+        <id>https://v.daum.net/v/20241009043103700</id>
+        <link href="https://v.daum.net/v/20241009043103700"/>
+        <updated>2024-10-08T20:19:45.428Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스와 트위치, 티빙과 치지직...영원한 승자는 없다]]></title>
         <id>https://v.daum.net/v/20241009040004637</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241008223521843"/>
         <updated>2024-10-08T15:24:13.906Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘혈관 건강’ 집에서 체크하는 법! 어릴 때 하던 ‘전기놀이’와 비슷]]></title>
-        <id>https://v.daum.net/v/20241008213728700</id>
-        <link href="https://v.daum.net/v/20241008213728700"/>
-        <updated>2024-10-08T13:28:54.159Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
