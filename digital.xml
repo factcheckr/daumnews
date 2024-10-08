@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-10-08T16:29:58.489Z</updated>
+    <updated>2024-10-08T17:20:47.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NASA "목성 위성 유로파 탐사선 발사, 허리케인에 연기"]]></title>
+        <id>https://v.daum.net/v/20241009013118313</id>
+        <link href="https://v.daum.net/v/20241009013118313"/>
+        <updated>2024-10-08T17:20:12.565Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘AI의 아버지’ 힌턴, 노벨 물리학상]]></title>
         <id>https://v.daum.net/v/20241009000209690</id>
@@ -38,13 +45,6 @@
         <id>https://v.daum.net/v/20241008205735934</id>
         <link href="https://v.daum.net/v/20241008205735934"/>
         <updated>2024-10-08T13:29:11.588Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“게이머가 예비 범죄자냐”…‘게임 사전검열 폐지’ 이용자 한목소리]]></title>
-        <id>https://v.daum.net/v/20241008150654613</id>
-        <link href="https://v.daum.net/v/20241008150654613"/>
-        <updated>2024-10-08T13:29:11.589Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
