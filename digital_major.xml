@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-09T22:21:59.392Z</updated>
+    <updated>2024-10-09T23:26:03.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노벨상 수상자도 주목한 예쁜꼬마선충, AI로 새 가능성 찾을 것]]></title>
+        <id>https://v.daum.net/v/20241010053031979</id>
+        <link href="https://v.daum.net/v/20241010053031979"/>
+        <updated>2024-10-09T23:25:31.313Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노벨상도 인정한 인공지능(AI)…보수적 관행 깼다]]></title>
         <id>https://v.daum.net/v/20241010052659914</id>
@@ -34,13 +41,6 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘AI 골드러시’ 시대… 달라질 인류·환경 향한 탐험이 시작된다[2024 서울미래컨퍼런스]]]></title>
-        <id>https://v.daum.net/v/20241010050232668</id>
-        <link href="https://v.daum.net/v/20241010050232668"/>
-        <updated>2024-10-09T21:22:49.226Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[화학상까지… 노벨상 휩쓴 AI]]></title>
         <id>https://v.daum.net/v/20241010050102606</id>
         <link href="https://v.daum.net/v/20241010050102606"/>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["스페이스X, 경쟁사에 무선 주파수 대역 공유 요구"]]></title>
-        <id>https://v.daum.net/v/20241010033545376</id>
-        <link href="https://v.daum.net/v/20241010033545376"/>
-        <updated>2024-10-09T21:22:49.230Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MADE IN CHINA 저가 공세에 밀린 삼성·LG, 반전 노린다]]></title>
         <id>https://v.daum.net/v/20241010031317353</id>
         <link href="https://v.daum.net/v/20241010031317353"/>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20241010014341075"/>
         <updated>2024-10-09T21:22:49.234Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스마트폰·자동차·家電에 버튼이 돌아온다]]></title>
+        <id>https://v.daum.net/v/20241010003317772</id>
+        <link href="https://v.daum.net/v/20241010003317772"/>
+        <updated>2024-10-09T23:25:31.326Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
