@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-10-09T16:28:12.354Z</updated>
+    <updated>2024-10-09T17:23:48.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유방암 항암치료 받은 후...생물학적 노화 빨라진다고?]]></title>
+        <id>https://v.daum.net/v/20241009220501687</id>
+        <link href="https://v.daum.net/v/20241009220501687"/>
+        <updated>2024-10-09T17:22:55.187Z</updated>
+        <content type="html"><![CDATA[코메디닷컴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 ‘슬픔의 삼각형’과 한시 ‘적벽부’의 뱃놀이]]></title>
         <id>https://v.daum.net/v/20241009144446960</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241009183312238"/>
         <updated>2024-10-09T12:42:23.972Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[완연한 가을…은빛 억새꽃 물결 '절정']]></title>
-        <id>https://v.daum.net/v/20241009202419763</id>
-        <link href="https://v.daum.net/v/20241009202419763"/>
-        <updated>2024-10-09T12:42:23.972Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
