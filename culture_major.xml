@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-10-09T15:26:17.109Z</updated>
+    <updated>2024-10-09T16:28:12.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 ‘슬픔의 삼각형’과 한시 ‘적벽부’의 뱃놀이]]></title>
+        <id>https://v.daum.net/v/20241009144446960</id>
+        <link href="https://v.daum.net/v/20241009144446960"/>
+        <updated>2024-10-09T16:27:24.116Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[직장인 100만 명 검진 결과… 일반 국민 대비 유병률 낮은 질환은?]]></title>
         <id>https://v.daum.net/v/20241009213629428</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241009202419763"/>
         <updated>2024-10-09T12:42:23.972Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다케다 난소암 치료제 '제줄라' 급여 확대… 어떤 환자가 쓸 수 있나]]></title>
-        <id>https://v.daum.net/v/20241009200728607</id>
-        <link href="https://v.daum.net/v/20241009200728607"/>
-        <updated>2024-10-09T12:42:23.972Z</updated>
-        <content type="html"><![CDATA[헬스조선]]></content>
     </entry>
 </feed>
