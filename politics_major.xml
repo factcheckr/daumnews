@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-10-11T17:20:39.228Z</updated>
+    <updated>2024-10-11T18:29:47.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“7500명 동시 수업땐 참사… 의대 1학년들 복귀시켜야”]]></title>
+        <id>https://v.daum.net/v/20241012011707906</id>
+        <link href="https://v.daum.net/v/20241012011707906"/>
+        <updated>2024-10-11T18:28:09.076Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명, 부산 금정·인천 강화로…혁신·진보도 지원 유세]]></title>
         <id>https://v.daum.net/v/20241012010117833</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241012000505466"/>
         <updated>2024-10-11T16:26:56.303Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간政談<하>] 한동훈 발언에서 '여의도 사투리' 들린다?]]></title>
-        <id>https://v.daum.net/v/20241012000018382</id>
-        <link href="https://v.daum.net/v/20241012000018382"/>
-        <updated>2024-10-11T16:26:56.305Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>

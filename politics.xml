@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2024-10-11T17:20:39.222Z</updated>
+    <updated>2024-10-11T18:29:47.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[與 “주권자 권리 행사” 野 “2차 정권 심판”]]></title>
+        <id>https://v.daum.net/v/20241012022409184</id>
+        <link href="https://v.daum.net/v/20241012022409184"/>
+        <updated>2024-10-11T18:28:01.435Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[야당 “윤 대통령 부부가 본질” 여당 “근거 없는 의혹 제기”]]></title>
         <id>https://v.daum.net/v/20241012020146105</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241012010119834"/>
         <updated>2024-10-11T16:26:50.018Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“7500명 동시 수업땐 참사… 의대 1학년들 복귀시켜야”]]></title>
-        <id>https://v.daum.net/v/20241012011707906</id>
-        <link href="https://v.daum.net/v/20241012011707906"/>
-        <updated>2024-10-11T16:26:50.020Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
