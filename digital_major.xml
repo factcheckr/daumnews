@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-11T12:41:57.491Z</updated>
+    <updated>2024-10-11T13:28:41.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[딥페이크 성범죄와 인터넷 감청]]></title>
+        <id>https://v.daum.net/v/20241011190501278</id>
+        <link href="https://v.daum.net/v/20241011190501278"/>
+        <updated>2024-10-11T13:28:13.075Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방승현 오리엔텀 대표 "양자 컴퓨터의 다음 목표는 양자 SW"]]></title>
         <id>https://v.daum.net/v/20241011182929175</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241011165811313"/>
         <updated>2024-10-11T09:25:25.659Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[궤도 변경도 빠르고 자유롭게?…美 극비 우주선 X-37B의 비밀 [핵잼 사이언스]]]></title>
-        <id>https://v.daum.net/v/20241011164301805</id>
-        <link href="https://v.daum.net/v/20241011164301805"/>
-        <updated>2024-10-11T09:25:25.661Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
