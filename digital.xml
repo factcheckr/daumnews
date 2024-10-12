@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-10-12T06:29:35.537Z</updated>
+    <updated>2024-10-12T07:19:58.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[액토즈소프트 "파판14, 한국-글로벌 서버 업데이트 격차 사라진다"]]></title>
+        <title type="html"><![CDATA[<프로스트펑크2>, 자본주의의 파산을 역설계하다]]></title>
+        <id>https://v.daum.net/v/20241012160440916</id>
+        <link href="https://v.daum.net/v/20241012160440916"/>
+        <updated>2024-10-12T07:19:18.799Z</updated>
+        <content type="html"><![CDATA[프레시안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["나에게 맞는 일자리 있을까?"...AI·디지털 인재 모여라]]></title>
+        <id>https://v.daum.net/v/20241012152251540</id>
+        <link href="https://v.daum.net/v/20241012152251540"/>
+        <updated>2024-10-12T07:19:18.801Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[액토즈소프트 "파이널판타지14, 한국-글로벌 서버 업데이트 격차 사라진다"]]></title>
         <id>https://v.daum.net/v/20241012142838945</id>
         <link href="https://v.daum.net/v/20241012142838945"/>
         <updated>2024-10-12T06:28:52.576Z</updated>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20241012140003685"/>
         <updated>2024-10-12T05:21:17.700Z</updated>
         <content type="html"><![CDATA[비즈워치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘백신헬스케어기업’, 들어보셨나요]]></title>
-        <id>https://v.daum.net/v/20241012095329200</id>
-        <link href="https://v.daum.net/v/20241012095329200"/>
-        <updated>2024-10-12T05:21:17.703Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["신기한 게 너무 많아요"…SaaS·클라우드 존, 주말에도 '문전성시']]></title>
-        <id>https://v.daum.net/v/20241012125901174</id>
-        <link href="https://v.daum.net/v/20241012125901174"/>
-        <updated>2024-10-12T04:28:11.339Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
