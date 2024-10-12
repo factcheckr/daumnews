@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메인뉴스</title>
-    <updated>2024-10-12T15:22:33.073Z</updated>
+    <updated>2024-10-12T16:27:57.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[속보] 北 김여정 "한국 무인기 다시 발견되는 순간 끔찍한 참변 일어날 것"]]></title>
+        <title type="html"><![CDATA[김여정 “韓 무인기 다시 발견되면 끔찍한 참변 일어날 것”]]></title>
+        <id>https://v.daum.net/v/20241012234707546</id>
+        <link href="https://v.daum.net/v/20241012234707546"/>
+        <updated>2024-10-12T16:26:04.741Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김여정 "韓 군부, 무인기 감행하거나 묵인…또 발견 시 참변"(종합)]]></title>
+        <id>https://v.daum.net/v/20241013002933723</id>
+        <link href="https://v.daum.net/v/20241013002933723"/>
+        <updated>2024-10-12T16:26:04.742Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北 김여정 "한국 무인기 다시 발견되는 순간 끔찍한 참변 일어날 것"]]></title>
         <id>https://v.daum.net/v/20241012232522461</id>
         <link href="https://v.daum.net/v/20241012232522461"/>
         <updated>2024-10-12T15:20:47.838Z</updated>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20241013000001573"/>
         <updated>2024-10-12T15:20:47.847Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北 김여정 “한국 무인기 다시 발견되는 순간 끔찍한 참변 일어날 것”]]></title>
-        <id>https://v.daum.net/v/20241012232701470</id>
-        <link href="https://v.daum.net/v/20241012232701470"/>
-        <updated>2024-10-12T15:20:47.849Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보] 北 김여정 "한국 무인기 다시 발견 시 끔찍한 참변 일어날 것"]]></title>
-        <id>https://v.daum.net/v/20241012232620466</id>
-        <link href="https://v.daum.net/v/20241012232620466"/>
-        <updated>2024-10-12T15:20:47.850Z</updated>
-        <content type="html"><![CDATA[경기일보]]></content>
     </entry>
 </feed>
