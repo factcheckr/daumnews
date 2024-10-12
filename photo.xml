@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-12T08:26:53.714Z</updated>
+    <updated>2024-10-12T09:27:31.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가을날씨 즐기며 걸어요, 의정부 한마음 건강걷기 [포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5840500/0kWcE7Ull3</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5840500/0kWcE7Ull3"/>
+        <updated>2024-10-12T09:27:04.401Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[골목 주행하던 SUV가 차량 2대·오토바이·보행자 들이받아]]></title>
         <id>https://gallery.v.daum.net/p/viewer/386/5yEs9mwMsI</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5968391/3nFbLvlof7"/>
         <updated>2024-10-11T09:25:32.414Z</updated>
         <content type="html"><![CDATA[오늘의 한 컷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연세의 '한강']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5610796/3SEp8Ec6uB</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5610796/3SEp8Ec6uB"/>
-        <updated>2024-10-11T08:28:42.644Z</updated>
-        <content type="html"><![CDATA[모멘트]]></content>
     </entry>
 </feed>
