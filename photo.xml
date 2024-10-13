@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-13T02:58:13.970Z</updated>
+    <updated>2024-10-13T03:30:47.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5847810/zvMU751mF8"/>
         <updated>2024-10-13T01:46:17.752Z</updated>
         <content type="html"><![CDATA[지자체 제공 포토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[허리케인 휩쓸고 간 플로리다의 쑥대밭 된 리조트]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1476/4kA9RVf5U4</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1476/4kA9RVf5U4"/>
+        <updated>2024-10-13T03:30:21.272Z</updated>
+        <content type="html"><![CDATA[미국은 지금]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화물 열차 추돌해 탈선한 인도 여객 열차 참사 현장]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/212305/xn5o5mwMeP"/>
         <updated>2024-10-11T20:23:45.478Z</updated>
         <content type="html"><![CDATA[포토 카페]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가질 수 없는 너]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5029578/UvwkxU0Cwy</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5029578/UvwkxU0Cwy"/>
-        <updated>2024-10-11T16:28:00.253Z</updated>
-        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
 </feed>
