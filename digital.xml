@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-10-13T15:23:01.694Z</updated>
+    <updated>2024-10-13T16:26:39.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지구온난화 주범 `에틸렌`으로 전환… 전환효율 3배 높인 촉매기술 나왔다]]></title>
+        <id>https://v.daum.net/v/20241014010114708</id>
+        <link href="https://v.daum.net/v/20241014010114708"/>
+        <updated>2024-10-13T16:26:04.365Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스페이스X 우주선 스타십, 5차 시험비행 성공…'젓가락 팔' 첫 활약]]></title>
         <id>https://v.daum.net/v/20241013225102779</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241013223319650"/>
         <updated>2024-10-13T14:19:11.112Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스페이스X, 슈퍼헤비 로켓 ‘젓가락 팔’로 잡는 착륙 첫 성공]]></title>
-        <id>https://v.daum.net/v/20241013215206304</id>
-        <link href="https://v.daum.net/v/20241013215206304"/>
-        <updated>2024-10-13T14:19:11.112Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
