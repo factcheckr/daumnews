@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-13T11:18:13.675Z</updated>
+    <updated>2024-10-13T12:39:44.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인공지능 이용해 신종 RNA 바이러스 7만개 발견]]></title>
+        <id>https://v.daum.net/v/20241013180013749</id>
+        <link href="https://v.daum.net/v/20241013180013749"/>
+        <updated>2024-10-13T12:39:10.975Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中, HBM 2세대 양산···차세대 D램도 안심 못해]]></title>
         <id>https://v.daum.net/v/20241013174523434</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241013171815656"/>
         <updated>2024-10-13T09:22:10.593Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미 AMD, 새 AI칩 공개… 삼성과 동맹 `기대`]]></title>
-        <id>https://v.daum.net/v/20241013164212870</id>
-        <link href="https://v.daum.net/v/20241013164212870"/>
-        <updated>2024-10-13T09:22:10.593Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
