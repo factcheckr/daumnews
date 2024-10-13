@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-10-13T16:26:39.607Z</updated>
+    <updated>2024-10-13T17:18:49.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정욱식 칼럼] 햇볕정책까지 내려놓고…대북정책, 백지서 다시 시작해야]]></title>
+        <id>https://v.daum.net/v/20241013224003697</id>
+        <link href="https://v.daum.net/v/20241013224003697"/>
+        <updated>2024-10-13T17:18:17.452Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지구온난화 주범 `에틸렌`으로 전환… 전환효율 3배 높인 촉매기술 나왔다]]></title>
         <id>https://v.daum.net/v/20241014010114708</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241013225514802"/>
         <updated>2024-10-13T15:22:25.880Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[큐노바 이준구 대표 "HIVQE로 40큐비트 '양자이득' 첫 구현…양자 시장 트리거 될 것"]]></title>
-        <id>https://v.daum.net/v/20241013223319650</id>
-        <link href="https://v.daum.net/v/20241013223319650"/>
-        <updated>2024-10-13T14:19:11.112Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>

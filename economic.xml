@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-10-13T16:26:39.590Z</updated>
+    <updated>2024-10-13T17:18:49.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금리는 낮췄지만 정부 재정 ‘바닥’… 내수회복에 쓸 예산이 없다]]></title>
+        <id>https://v.daum.net/v/20241014012711809</id>
+        <link href="https://v.daum.net/v/20241014012711809"/>
+        <updated>2024-10-13T17:17:36.770Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“채소 가격 올라서요”…비빔밥 만원이면 될 줄 알았는데 가격표에 ‘깜짝’]]></title>
         <id>https://v.daum.net/v/20241014003302582</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241014001841485"/>
         <updated>2024-10-13T16:25:20.890Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[층간소음·간접흡연… 쉴 틈 없는 아파트 민원]]></title>
-        <id>https://v.daum.net/v/20241014001129447</id>
-        <link href="https://v.daum.net/v/20241014001129447"/>
-        <updated>2024-10-13T15:21:45.361Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
