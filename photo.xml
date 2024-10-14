@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-14T09:27:19.007Z</updated>
+    <updated>2024-10-14T10:25:33.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여자 마라톤, 2시간 10분 벽 돌파]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5968469/7twRYu7vXQ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5968469/7twRYu7vXQ"/>
+        <updated>2024-10-14T10:25:09.941Z</updated>
+        <content type="html"><![CDATA[지구촌 오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김영호 통일부 장관, 올로프 스쿡 EU 인권특별대표 접견]]></title>
         <id>https://gallery.v.daum.net/p/viewer/321090/1UNGfnLKbf</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5848120/tpE49zqyVv"/>
         <updated>2024-10-14T01:43:42.953Z</updated>
         <content type="html"><![CDATA[보스니아 헤르체고비나는 지금]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이집트 열차 충돌로 1명 죽고 20여 명 다쳐]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5840216/5QHPbu7vqj</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5840216/5QHPbu7vqj"/>
-        <updated>2024-10-14T01:43:42.954Z</updated>
-        <content type="html"><![CDATA[이집트는 지금]]></content>
     </entry>
 </feed>
