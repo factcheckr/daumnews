@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-14T19:19:06.051Z</updated>
+    <updated>2024-10-14T20:25:22.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파판14 팬페스티벌 "세상에 완벽한 행복은 없다"]]></title>
+        <id>https://v.daum.net/v/20241014193526477</id>
+        <link href="https://v.daum.net/v/20241014193526477"/>
+        <updated>2024-10-14T20:24:47.904Z</updated>
+        <content type="html"><![CDATA[게임톡]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바닷물 온도 1도 오르면 굴 폐사율 8% 높아져]]></title>
         <id>https://v.daum.net/v/20241014175100498</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241014182421666"/>
         <updated>2024-10-14T10:25:02.901Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI·SW와 융합하는 6G…전혀 다른 `표준 스토리` 쓴다]]></title>
-        <id>https://v.daum.net/v/20241014180527018</id>
-        <link href="https://v.daum.net/v/20241014180527018"/>
-        <updated>2024-10-14T16:27:45.170Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>

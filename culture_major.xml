@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-10-14T19:19:06.061Z</updated>
+    <updated>2024-10-14T20:25:22.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[날씨] 전국 대체로 흐려‥남부지방 곳곳 강한 비]]></title>
+        <title type="html"><![CDATA[타밀어 등 31개 언어로 번역된 ‘채식주의자’, 세계 독자 공감 넓혀]]></title>
+        <id>https://v.daum.net/v/20241015030319663</id>
+        <link href="https://v.daum.net/v/20241015030319663"/>
+        <updated>2024-10-14T20:24:33.501Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오늘 날씨] 오후까지 대부분 가을비 내려...모기와의 전쟁, 피하는 방법은]]></title>
+        <id>https://v.daum.net/v/20241015000247563</id>
+        <link href="https://v.daum.net/v/20241015000247563"/>
+        <updated>2024-10-14T20:24:33.503Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 전국 흐리고 남부지방 강한 비]]></title>
         <id>https://v.daum.net/v/20241015001505751</id>
         <link href="https://v.daum.net/v/20241015001505751"/>
         <updated>2024-10-14T19:18:12.851Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20241014210501668"/>
         <updated>2024-10-14T15:23:51.252Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단순 감기인줄 알았는데..."노인·유아 당장 접종하세요" [건강+]]]></title>
-        <id>https://v.daum.net/v/20241014190209753</id>
-        <link href="https://v.daum.net/v/20241014190209753"/>
-        <updated>2024-10-14T15:23:51.252Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["둥실둥실 자유롭길"...바람이 딸 '구름이']]></title>
-        <id>https://v.daum.net/v/20241014213057072</id>
-        <link href="https://v.daum.net/v/20241014213057072"/>
-        <updated>2024-10-14T15:23:51.252Z</updated>
-        <content type="html"><![CDATA[CJB청주방송]]></content>
     </entry>
 </feed>
