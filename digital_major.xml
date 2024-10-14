@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-14T14:27:10.631Z</updated>
+    <updated>2024-10-14T15:24:33.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20241014175100498"/>
         <updated>2024-10-14T11:20:24.913Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[머스크의 달·화성 탐사 '게임체인저'‥韓도 참여 모색]]></title>
+        <id>https://v.daum.net/v/20241014170407752</id>
+        <link href="https://v.daum.net/v/20241014170407752"/>
+        <updated>2024-10-14T15:24:05.062Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비대면 시험 확산에 ‘AI 감독관’ 급성장]]></title>
+        <id>https://v.daum.net/v/20241014185442554</id>
+        <link href="https://v.daum.net/v/20241014185442554"/>
+        <updated>2024-10-14T15:24:05.063Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[영상] 노벨상 수상 뒤엔 그들이...한강 번역가가 말하는 '번역의 힘']]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20241014182421666"/>
         <updated>2024-10-14T10:25:02.901Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI·SW와 융합하는 6G…전혀 다른 `표준 스토리` 쓴다]]></title>
-        <id>https://v.daum.net/v/20241014180527018</id>
-        <link href="https://v.daum.net/v/20241014180527018"/>
-        <updated>2024-10-14T10:25:02.901Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의료영상까지 휩쓴 AI…국내 솔루션에 해외 이목 집중]]></title>
-        <id>https://v.daum.net/v/20241014173013775</id>
-        <link href="https://v.daum.net/v/20241014173013775"/>
-        <updated>2024-10-14T10:25:02.904Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
