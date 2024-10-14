@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-10-14T18:33:11.242Z</updated>
+    <updated>2024-10-14T19:19:06.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 전국 대체로 흐려‥남부지방 곳곳 강한 비]]></title>
+        <id>https://v.daum.net/v/20241015001505751</id>
+        <link href="https://v.daum.net/v/20241015001505751"/>
+        <updated>2024-10-14T19:18:12.851Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["한강 노벨상에 전율"…유럽서 작품 배경 4·3 알리기]]></title>
         <id>https://v.daum.net/v/20241015002210816</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241014213057072"/>
         <updated>2024-10-14T15:23:51.252Z</updated>
         <content type="html"><![CDATA[CJB청주방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[토착종 25종 멸종시킨 ‘무자비한 킬러’ 사냥 나선 호주]]></title>
-        <id>https://v.daum.net/v/20241014161517803</id>
-        <link href="https://v.daum.net/v/20241014161517803"/>
-        <updated>2024-10-14T14:26:16.190Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>

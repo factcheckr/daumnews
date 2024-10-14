@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-10-14T18:33:11.257Z</updated>
+    <updated>2024-10-14T19:19:06.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방구석 감독이 여기 있었네! 텍스트·이미지 입력했더니 비디오가 ‘짠’ [어도비 맥스 2024]]]></title>
+        <id>https://v.daum.net/v/20241015035702869</id>
+        <link href="https://v.daum.net/v/20241015035702869"/>
+        <updated>2024-10-14T19:18:21.772Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["안심할 수 있는 데이터만 학습"…어도비, AI영상 혁신 이끈다]]></title>
         <id>https://v.daum.net/v/20241014221733665</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241014193526477"/>
         <updated>2024-10-14T11:20:18.731Z</updated>
         <content type="html"><![CDATA[게임톡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[머스크의 달·화성 탐사 '게임체인저'‥韓도 참여 모색]]></title>
-        <id>https://v.daum.net/v/20241014170407752</id>
-        <link href="https://v.daum.net/v/20241014170407752"/>
-        <updated>2024-10-14T16:27:36.347Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
