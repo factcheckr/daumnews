@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-15T13:32:00.414Z</updated>
+    <updated>2024-10-15T14:21:59.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[벽에 숨겨진 이야기]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5996992/6RHQ0ckPIm</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5996992/6RHQ0ckPIm"/>
+        <updated>2024-10-15T14:21:37.220Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한화그룹, 시각장애인을 위한 ‘2025년 점자 달력’ 4만부 무료 배포 계획[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/86QdPWYcCa</id>
@@ -130,12 +137,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5997007/Wn0cmQxpzx"/>
         <updated>2024-10-15T07:27:20.809Z</updated>
         <content type="html"><![CDATA[말레이시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아 미사일로 잿더미만 남은 우크라 미콜라이우 현장]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5997006/85DK8XZw7i</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5997006/85DK8XZw7i"/>
-        <updated>2024-10-15T07:27:20.812Z</updated>
-        <content type="html"><![CDATA[우크라이나]]></content>
     </entry>
 </feed>
