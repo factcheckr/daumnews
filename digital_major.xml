@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-15T18:32:10.012Z</updated>
+    <updated>2024-10-15T19:20:36.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20241016030230858"/>
         <updated>2024-10-15T18:31:36.343Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]‘그놈 목소리’ 뜨면 AI로 보이스피싱 잡는다]]></title>
+        <id>https://v.daum.net/v/20241015194814203</id>
+        <link href="https://v.daum.net/v/20241015194814203"/>
+        <updated>2024-10-15T19:20:03.942Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KT, 자회사로 4천명 내보내기로…인공지능 강화의 그림자]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241015175111934"/>
         <updated>2024-10-15T10:26:24.788Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인간의 냄새 구분 속도, 눈 깜빡이는 속도보다 빨라]]></title>
-        <id>https://v.daum.net/v/20241015174613776</id>
-        <link href="https://v.daum.net/v/20241015174613776"/>
-        <updated>2024-10-15T10:26:24.789Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
