@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-15T11:20:23.519Z</updated>
+    <updated>2024-10-15T12:43:45.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[통신비 아끼며 환경 챙기기…'그린 노마드' KB리브모바일로]]></title>
+        <id>https://v.daum.net/v/20241015182410891</id>
+        <link href="https://v.daum.net/v/20241015182410891"/>
+        <updated>2024-10-15T12:43:02.671Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["뇌파 학습한 알고리즘 개발…신경질환자 일상 되돌려줄 것"]]></title>
         <id>https://v.daum.net/v/20241015174304648</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241015170050790"/>
         <updated>2024-10-15T09:25:35.869Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[체크포인트, 이메일 보안 분야 '리더'로 꼽혔다]]></title>
-        <id>https://v.daum.net/v/20241015170848187</id>
-        <link href="https://v.daum.net/v/20241015170848187"/>
-        <updated>2024-10-15T09:25:35.873Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
