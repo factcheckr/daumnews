@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-15T21:22:30.051Z</updated>
+    <updated>2024-10-15T22:24:30.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴진스 하니, 끝내 눈물 "따돌림에 인사 무시…우리 다 인간인데"]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5615616/5afbq92Xud</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5615616/5afbq92Xud"/>
+        <updated>2024-10-15T22:24:02.766Z</updated>
+        <content type="html"><![CDATA[뉴스1 PICK]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北, 경의·동해선 도로 폭파... 남북 연결 끊었다]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5985942/yJT5unLKHw</id>
@@ -130,12 +137,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5994228/ZTxxiu7vUV"/>
         <updated>2024-10-15T07:27:20.804Z</updated>
         <content type="html"><![CDATA[레바논]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스라엘 공격으로 무너진 서안지구 건물 잔해]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5994227/PnmSGNj4zR</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5994227/PnmSGNj4zR"/>
-        <updated>2024-10-15T07:27:20.805Z</updated>
-        <content type="html"><![CDATA[팔레스타인]]></content>
     </entry>
 </feed>
