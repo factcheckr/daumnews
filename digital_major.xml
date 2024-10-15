@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-15T20:24:43.255Z</updated>
+    <updated>2024-10-15T21:22:30.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마이크로칩, 임베디드 컨트롤 엔지니어 위한 컨퍼런스 연다]]></title>
+        <id>https://v.daum.net/v/20241016041111018</id>
+        <link href="https://v.daum.net/v/20241016041111018"/>
+        <updated>2024-10-15T21:21:55.089Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아마존 "우리 AI 칩 활용시 비용절감"…데이터브릭스와 5년 계약]]></title>
+        <id>https://v.daum.net/v/20241016040146996</id>
+        <link href="https://v.daum.net/v/20241016040146996"/>
+        <updated>2024-10-15T21:21:55.090Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美-中 ‘로보택시’ 달리는데… 규제 갇힌 韓은 걸음마 단계]]></title>
         <id>https://v.daum.net/v/20241016030230858</id>
         <link href="https://v.daum.net/v/20241016030230858"/>
         <updated>2024-10-15T18:31:36.343Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“AI 부작용 있다고 개발 멈춰선 안돼”]]></title>
+        <id>https://v.daum.net/v/20241016010615480</id>
+        <link href="https://v.daum.net/v/20241016010615480"/>
+        <updated>2024-10-15T21:21:55.094Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[못다 찍은 동영상도… AI가 만들어 메꿔준다]]></title>
+        <id>https://v.daum.net/v/20241016004016350</id>
+        <link href="https://v.daum.net/v/20241016004016350"/>
+        <updated>2024-10-15T21:21:55.096Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[동영상] 한국인이 사랑하는 롤 챔피언 스킨은?]]></title>
@@ -46,33 +74,5 @@
         <link href="https://v.daum.net/v/20241015134409200"/>
         <updated>2024-10-15T16:28:33.585Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['챗GPT o1' 등장에 프로그래머들 긴장…코딩 자동화 현실화되나]]></title>
-        <id>https://v.daum.net/v/20241015160542943</id>
-        <link href="https://v.daum.net/v/20241015160542943"/>
-        <updated>2024-10-15T15:25:40.613Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통신비 아끼며 환경 챙기기…'그린 노마드' KB리브모바일로]]></title>
-        <id>https://v.daum.net/v/20241015182410891</id>
-        <link href="https://v.daum.net/v/20241015182410891"/>
-        <updated>2024-10-15T12:43:02.671Z</updated>
-        <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["뇌파 학습한 알고리즘 개발…신경질환자 일상 되돌려줄 것"]]></title>
-        <id>https://v.daum.net/v/20241015174304648</id>
-        <link href="https://v.daum.net/v/20241015174304648"/>
-        <updated>2024-10-15T11:19:49.831Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔라이만 쇼쿠르 EPFL 박사 "이젠 의수로 온기·질감까지 느낀다"]]></title>
-        <id>https://v.daum.net/v/20241015174208617</id>
-        <link href="https://v.daum.net/v/20241015174208617"/>
-        <updated>2024-10-15T10:26:24.787Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
