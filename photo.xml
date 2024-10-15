@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-15T19:20:36.934Z</updated>
+    <updated>2024-10-15T20:24:43.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[北, 경의·동해선 도로 폭파... 남북 연결 끊었다]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5985942/yJT5unLKHw</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5985942/yJT5unLKHw"/>
+        <updated>2024-10-15T20:24:19.726Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내달 14일 수능… 수험생 위해 밝히는 촛불]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5898259/KRQkaGHE7P</id>
@@ -130,12 +137,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5994227/PnmSGNj4zR"/>
         <updated>2024-10-15T07:27:20.805Z</updated>
         <content type="html"><![CDATA[팔레스타인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연행되는 뉴욕의 친팔 시위자]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5996850/Wd079yWAuT</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5996850/Wd079yWAuT"/>
-        <updated>2024-10-15T07:27:20.807Z</updated>
-        <content type="html"><![CDATA[미국]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-10-15T19:20:36.928Z</updated>
+    <updated>2024-10-15T20:24:43.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[튀르키예 시인 메틴 투란 “시에는 두려움을 극복하는 힘이 있죠”]]></title>
+        <id>https://v.daum.net/v/20241016005504429</id>
+        <link href="https://v.daum.net/v/20241016005504429"/>
+        <updated>2024-10-15T20:23:57.411Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유발 하라리 “사람이 컴퓨터 속도에 맞추면 무너져”]]></title>
         <id>https://v.daum.net/v/20241016000310975</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241015213029974"/>
         <updated>2024-10-15T15:25:25.649Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전태일 콘서트 열리고 음반도 나온다]]></title>
-        <id>https://v.daum.net/v/20241015205146915</id>
-        <link href="https://v.daum.net/v/20241015205146915"/>
-        <updated>2024-10-15T15:25:25.651Z</updated>
-        <content type="html"><![CDATA[대구MBC]]></content>
     </entry>
 </feed>
