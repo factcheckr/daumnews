@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-10-16T10:24:33.263Z</updated>
+    <updated>2024-10-16T11:20:23.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[맥주 효모, 암 치료 돌파구 될 수도?]]></title>
+        <id>https://v.daum.net/v/20241016193028740</id>
+        <link href="https://v.daum.net/v/20241016193028740"/>
+        <updated>2024-10-16T11:19:47.873Z</updated>
+        <content type="html"><![CDATA[헬스조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[檢, ‘민간인 불법 사찰’ 의혹에 ‘포렌식’ 전 과정 공개…“전부이미지 저장 불가피”]]></title>
         <id>https://v.daum.net/v/20241016190935422</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241016175715554"/>
         <updated>2024-10-16T09:24:30.011Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소송 or 대가합의…AI 뉴스콘텐츠 지재권 대응 `양갈래`]]></title>
-        <id>https://v.daum.net/v/20241016175545502</id>
-        <link href="https://v.daum.net/v/20241016175545502"/>
-        <updated>2024-10-16T09:24:30.014Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
