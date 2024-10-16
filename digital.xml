@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-10-16T14:22:51.541Z</updated>
+    <updated>2024-10-16T15:25:56.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강원테크노파크 부산서 디지털헬스케어 우수성 알린다]]></title>
+        <id>https://v.daum.net/v/20241017000547570</id>
+        <link href="https://v.daum.net/v/20241017000547570"/>
+        <updated>2024-10-16T15:25:22.013Z</updated>
+        <content type="html"><![CDATA[강원도민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보스턴다이내믹스, 토요타와 AI 휴머노이드 연구 '맞손']]></title>
         <id>https://v.daum.net/v/20241016231047780</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241016190935422"/>
         <updated>2024-10-16T10:23:55.468Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을밤 환하게 비추는 보름달…내일 '슈퍼문' 뜬다]]></title>
-        <id>https://v.daum.net/v/20241016182947653</id>
-        <link href="https://v.daum.net/v/20241016182947653"/>
-        <updated>2024-10-16T10:23:55.469Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
