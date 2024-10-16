@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-16T13:30:39.054Z</updated>
+    <updated>2024-10-16T14:22:51.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[총은 ‘근무 중 이상 무’]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5996992/6PI5Uf41Ej</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5996992/6PI5Uf41Ej"/>
+        <updated>2024-10-16T14:22:30.820Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“과로사 문제 외면 말고 쿠팡은 청문회 개최하라”[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/bGiBHHXDSd</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5620091/XaPcijA8pZ"/>
         <updated>2024-10-16T05:22:28.124Z</updated>
         <content type="html"><![CDATA[쿠키포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[촛불 밝히고 손님 기다리는 제과점 주인]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1808593/9onsn86Fqk</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1808593/9onsn86Fqk"/>
-        <updated>2024-10-16T05:22:28.124Z</updated>
-        <content type="html"><![CDATA[에콰도르는 지금]]></content>
     </entry>
 </feed>
