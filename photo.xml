@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-17T13:31:56.039Z</updated>
+    <updated>2024-10-17T14:22:53.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[280mm 보금자리]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5996992/WBnUWQxpOz</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5996992/WBnUWQxpOz"/>
+        <updated>2024-10-17T14:22:25.878Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[슈퍼문 삼킨 롯데타워 [쿠키포토]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5620091/ySLfFinbFP</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1644543/zynoKBbY3G"/>
         <updated>2024-10-17T04:28:32.328Z</updated>
         <content type="html"><![CDATA[2024 미국 대선 (민주당)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자신의 그림 앞에서 포즈 취한 AI 휴머노이드 로봇]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5998013/33245XZwFt</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5998013/33245XZwFt"/>
-        <updated>2024-10-17T04:28:32.329Z</updated>
-        <content type="html"><![CDATA[영국]]></content>
     </entry>
 </feed>
