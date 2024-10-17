@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-10-17T15:25:16.231Z</updated>
+    <updated>2024-10-17T16:31:16.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[“UHD영화 60편 1초만에 처리” 삼성, 업계 최고사양 D램 개발]]></title>
-        <id>https://v.daum.net/v/20241018000301720</id>
-        <link href="https://v.daum.net/v/20241018000301720"/>
-        <updated>2024-10-17T15:23:47.693Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[AI 반도체 시장 쓸어담은 TSMC, 단일 분기 최고 실적냈다]]></title>
         <id>https://v.daum.net/v/20241018000242707</id>
         <link href="https://v.daum.net/v/20241018000242707"/>
         <updated>2024-10-17T15:23:47.696Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50대 과장 ‘수두룩’…“위로금 4억 줄테니 나가라” 특단 조치]]></title>
+        <id>https://v.daum.net/v/20241017212522404</id>
+        <link href="https://v.daum.net/v/20241017212522404"/>
+        <updated>2024-10-17T16:29:48.307Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시, 예상 웃돈 소비·반도체 랠리에 강세…S&P500 역대 최고치]]></title>
+        <id>https://v.daum.net/v/20241017230754222</id>
+        <link href="https://v.daum.net/v/20241017230754222"/>
+        <updated>2024-10-17T16:29:48.308Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["키움증권 '영풍제지 사태', 금감원 검사없이 자체감사로 끝나"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241017220733426"/>
         <updated>2024-10-17T14:21:20.978Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 전세사기 최다 지역은 관악, 강서, 금천 순]]></title>
-        <id>https://v.daum.net/v/20241017220315356</id>
-        <link href="https://v.daum.net/v/20241017220315356"/>
-        <updated>2024-10-17T13:30:27.903Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
 </feed>
