@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-17T16:31:16.541Z</updated>
+    <updated>2024-10-17T17:20:59.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[280mm 보금자리]]></title>
+        <title type="html"><![CDATA[280㎜ 보금자리]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5996992/WBnUWQxpOz</id>
         <link href="https://gallery.v.daum.net/p/viewer/5996992/WBnUWQxpOz"/>
         <updated>2024-10-17T14:22:25.878Z</updated>
@@ -32,6 +32,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/377110/0kqQwu7vv8"/>
         <updated>2024-10-17T12:42:40.223Z</updated>
         <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오봉산 석굴암]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5996990/3Ol9r7zTQb</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5996990/3Ol9r7zTQb"/>
+        <updated>2024-10-17T17:20:32.405Z</updated>
+        <content type="html"><![CDATA[포토친구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[친필 사인하는 한강 작가]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5994228/pHHMp30Cpi"/>
         <updated>2024-10-17T04:28:32.322Z</updated>
         <content type="html"><![CDATA[레바논]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[펜실베이니아 선거 유세서 연설하는 해리스]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1644543/zynoKBbY3G</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1644543/zynoKBbY3G"/>
-        <updated>2024-10-17T04:28:32.328Z</updated>
-        <content type="html"><![CDATA[2024 미국 대선 (민주당)]]></content>
     </entry>
 </feed>
