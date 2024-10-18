@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-10-18T09:25:11.661Z</updated>
+    <updated>2024-10-18T10:27:03.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성전자, '칩렛' 최적화 RISC-V 칩 기술 공개]]></title>
+        <id>https://v.daum.net/v/20241018164218762</id>
+        <link href="https://v.daum.net/v/20241018164218762"/>
+        <updated>2024-10-18T10:26:27.543Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샘 알트먼 "인류의 가장 강력한 도구 'AI'…규모 확대 박차"]]></title>
         <id>https://v.daum.net/v/20241018180107280</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241018174612804"/>
         <updated>2024-10-18T09:24:28.461Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 첫 5G 도입한 韓…"이젠 후발주자"]]></title>
-        <id>https://v.daum.net/v/20241018174602799</id>
-        <link href="https://v.daum.net/v/20241018174602799"/>
-        <updated>2024-10-18T09:24:28.462Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
