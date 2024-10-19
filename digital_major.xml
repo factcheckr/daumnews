@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-19T19:19:08.049Z</updated>
+    <updated>2024-10-19T20:23:52.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[플랑크톤이 평소의 6배의 크기로 부푸는 이유는?… “생존 전략”]]></title>
+        <id>https://v.daum.net/v/20241019203252596</id>
+        <link href="https://v.daum.net/v/20241019203252596"/>
+        <updated>2024-10-19T20:23:21.754Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘명품 우주복’ 입고 달나라 간다]]></title>
         <id>https://v.daum.net/v/20241019195035333</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241019140247936"/>
         <updated>2024-10-19T09:23:00.394Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[우주산업 리포트] “우주정거장·달탐사 손잡자”...美·中 우주외교전]]></title>
-        <id>https://v.daum.net/v/20241019081407373</id>
-        <link href="https://v.daum.net/v/20241019081407373"/>
-        <updated>2024-10-19T08:27:11.742Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
