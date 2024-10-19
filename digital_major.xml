@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-19T08:27:46.694Z</updated>
+    <updated>2024-10-19T09:23:28.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지구를 향해 날아오는 운석, 어디서 오는지 봤더니… [달콤한 사이언스]]]></title>
+        <id>https://v.daum.net/v/20241019140247936</id>
+        <link href="https://v.daum.net/v/20241019140247936"/>
+        <updated>2024-10-19T09:23:00.394Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[우주산업 리포트] “우주정거장·달탐사 손잡자”...美·中 우주외교전]]></title>
         <id>https://v.daum.net/v/20241019081407373</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241019090106752"/>
         <updated>2024-10-19T03:27:09.518Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어쌔신크리드, '중국 게임' 된다?…中 텐센트 유럽 게임사에 군침]]></title>
-        <id>https://v.daum.net/v/20241019080156223</id>
-        <link href="https://v.daum.net/v/20241019080156223"/>
-        <updated>2024-10-19T03:27:09.518Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
