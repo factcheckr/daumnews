@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-10-19T17:22:01.903Z</updated>
+    <updated>2024-10-19T18:28:21.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[녹유 오늘의 운세] 89년생 작은 것에 욕심 대세를 그르쳐요]]></title>
+        <id>https://v.daum.net/v/20241020000015648</id>
+        <link href="https://v.daum.net/v/20241020000015648"/>
+        <updated>2024-10-19T18:27:41.149Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Pet]퇴화를 택한 그들의 생존법...며느리발톱의 쓸모]]></title>
         <id>https://v.daum.net/v/20241020000002640</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241019185343932"/>
         <updated>2024-10-19T14:20:28.254Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북괴도 주체갱도 아닌 '북한'을 철학하기]]></title>
-        <id>https://v.daum.net/v/20241019200003377</id>
-        <link href="https://v.daum.net/v/20241019200003377"/>
-        <updated>2024-10-19T13:24:49.156Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
     </entry>
 </feed>
