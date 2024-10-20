@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-20T10:24:42.364Z</updated>
+    <updated>2024-10-20T11:22:22.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["3명이면 한달만에 신작"···게임사, AI 인재 확보 총력]]></title>
+        <id>https://v.daum.net/v/20241020174930402</id>
+        <link href="https://v.daum.net/v/20241020174930402"/>
+        <updated>2024-10-20T11:21:52.260Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]MBK·영풍, 이사회 장악해도 최회장과 ‘불편한 동거’ 불가피]]></title>
+        <id>https://v.daum.net/v/20241020174125209</id>
+        <link href="https://v.daum.net/v/20241020174125209"/>
+        <updated>2024-10-20T11:21:52.260Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[우리가 AX 주역]〈37〉튜닙, AI 시대에 맞는 신개념 SNS 개발]]></title>
         <id>https://v.daum.net/v/20241020135103584</id>
         <link href="https://v.daum.net/v/20241020135103584"/>
         <updated>2024-10-20T10:24:11.776Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교통카드로 어린이·노인 위치정보 실시간 확인 가능해진다]]></title>
-        <id>https://v.daum.net/v/20241020171117632</id>
-        <link href="https://v.daum.net/v/20241020171117632"/>
-        <updated>2024-10-20T10:24:11.779Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[훈풍 이어가는 OLED 모니터 시장…삼성·LG 주도세 '굳건']]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241020152344762"/>
         <updated>2024-10-20T08:29:20.065Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI안전연구소 ETRI에 내달 개소…"글로벌 AI안전 허브 목표"]]></title>
-        <id>https://v.daum.net/v/20241020151145424</id>
-        <link href="https://v.daum.net/v/20241020151145424"/>
-        <updated>2024-10-20T08:29:20.066Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
