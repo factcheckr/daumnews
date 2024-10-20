@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-20T16:26:48.864Z</updated>
+    <updated>2024-10-20T17:20:54.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['수학 끝판왕' 우주탐사…스페이스X가 보여줬다]]></title>
+        <id>https://v.daum.net/v/20241020184102414</id>
+        <link href="https://v.daum.net/v/20241020184102414"/>
+        <updated>2024-10-20T17:20:22.510Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["최적화 솔루션 비즈니스, 에너지·통신 등서 엄청난 잠재력"]]></title>
         <id>https://v.daum.net/v/20241020184202438</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241020163252967"/>
         <updated>2024-10-20T09:22:07.447Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“얇아야 성공한다?”…삼성, 중국의 ‘스마트폰’ 도발에 대응전략은]]></title>
-        <id>https://v.daum.net/v/20241020160300574</id>
-        <link href="https://v.daum.net/v/20241020160300574"/>
-        <updated>2024-10-20T09:22:07.448Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
