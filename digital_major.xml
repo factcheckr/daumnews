@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-20T17:20:54.408Z</updated>
+    <updated>2024-10-20T18:29:57.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국에만 망접속료 낸다는 구글…한국서 무임승차 논란]]></title>
+        <id>https://v.daum.net/v/20241020164422130</id>
+        <link href="https://v.daum.net/v/20241020164422130"/>
+        <updated>2024-10-20T18:29:27.083Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['수학 끝판왕' 우주탐사…스페이스X가 보여줬다]]></title>
         <id>https://v.daum.net/v/20241020184102414</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241020164612157"/>
         <updated>2024-10-20T09:22:07.445Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-카본 R&D 시동]〈1〉'우주항공 소재 잡는다'…탄소복합소재 성형 기술 개발]]></title>
-        <id>https://v.daum.net/v/20241020163252967</id>
-        <link href="https://v.daum.net/v/20241020163252967"/>
-        <updated>2024-10-20T09:22:07.447Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
