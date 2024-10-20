@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-10-20T19:18:00.672Z</updated>
+    <updated>2024-10-20T20:23:20.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI법 제정 본격화 전망... 전문가들 "1등 규제 아닌 1등 기술확보 관건"]]></title>
+        <id>https://v.daum.net/v/20241021043108106</id>
+        <link href="https://v.daum.net/v/20241021043108106"/>
+        <updated>2024-10-20T20:22:37.824Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[DBR]기술과 휴머니티… AI로 ‘돌봄 경제’ 혁신 모색 나서다]]></title>
         <id>https://v.daum.net/v/20241021030521989</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241020221302376"/>
         <updated>2024-10-20T13:25:46.452Z</updated>
         <content type="html"><![CDATA[키즈맘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT 분사 정부심사 불필요…과기정통부 “통신망 안전 관리 지속”]]></title>
-        <id>https://v.daum.net/v/20241020143048528</id>
-        <link href="https://v.daum.net/v/20241020143048528"/>
-        <updated>2024-10-20T12:41:46.548Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
