@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-20T03:00:33.448Z</updated>
+    <updated>2024-10-20T03:36:41.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표지로 읽는 과학] "美 대선 결과, 미국 과학계에 큰 영향"]]></title>
+        <id>https://v.daum.net/v/20241020080014759</id>
+        <link href="https://v.daum.net/v/20241020080014759"/>
+        <updated>2024-10-20T03:35:57.870Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['효자 KBO' 종료 티빙, 농구팬도 끌어들일까]]></title>
         <id>https://v.daum.net/v/20241020093018006</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241020060158452"/>
         <updated>2024-10-20T01:50:53.551Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 챗봇의 생각을 조작하는 방법 [PADO]]]></title>
-        <id>https://v.daum.net/v/20241020060009357</id>
-        <link href="https://v.daum.net/v/20241020060009357"/>
-        <updated>2024-10-20T01:50:53.552Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
