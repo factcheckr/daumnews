@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-21T08:31:58.705Z</updated>
+    <updated>2024-10-21T09:32:04.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화려한 좀비 [오늘의 한 컷]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5968391/b5vzZDwMVB</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5968391/b5vzZDwMVB"/>
+        <updated>2024-10-21T09:31:43.011Z</updated>
+        <content type="html"><![CDATA[오늘의 한 컷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쇼핑 나온 비둘]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5997711/5KL1MpUle2</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5994229/fecGRLo9KV"/>
         <updated>2024-10-21T04:29:18.110Z</updated>
         <content type="html"><![CDATA[이스라엘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칠레 좀비 축제 즐기는 참가자들]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5999350/posbdgaV9C</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5999350/posbdgaV9C"/>
-        <updated>2024-10-21T05:23:04.844Z</updated>
-        <content type="html"><![CDATA[칠레]]></content>
     </entry>
 </feed>
