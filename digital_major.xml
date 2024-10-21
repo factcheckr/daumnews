@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-21T11:21:43.993Z</updated>
+    <updated>2024-10-21T12:43:46.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[재생속도 0.05배까지 조절···편의성 높이는 유튜브]]></title>
+        <id>https://v.daum.net/v/20241021181056062</id>
+        <link href="https://v.daum.net/v/20241021181056062"/>
+        <updated>2024-10-21T12:43:12.474Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[적자 티빙·웨이브, 합병 시너지 `글쎄`]]></title>
+        <id>https://v.daum.net/v/20241021183252833</id>
+        <link href="https://v.daum.net/v/20241021183252833"/>
+        <updated>2024-10-21T12:43:12.476Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제조업 최적화 매직…'감'으로 주문했던 원자재, 함수로 비용 확 낮춰]]></title>
         <id>https://v.daum.net/v/20241021181905362</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20241021171116889"/>
         <updated>2024-10-21T09:31:37.321Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[르포]12개축 움직이며 1㎛ 단위로 정밀조절···현대차, 볼트·케이블도 자동화]]></title>
-        <id>https://v.daum.net/v/20241021164358486</id>
-        <link href="https://v.daum.net/v/20241021164358486"/>
-        <updated>2024-10-21T09:31:37.321Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스줌인]공공 SW사업 '과업 변경·추가' 문제, 근본 해결책 필요하다]]></title>
-        <id>https://v.daum.net/v/20241021170338515</id>
-        <link href="https://v.daum.net/v/20241021170338515"/>
-        <updated>2024-10-21T09:31:37.323Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
