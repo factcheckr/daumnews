@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-10-21T18:31:11.196Z</updated>
+    <updated>2024-10-21T19:19:13.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 국감](22일)]]></title>
+        <id>https://v.daum.net/v/20241022040149677</id>
+        <link href="https://v.daum.net/v/20241022040149677"/>
+        <updated>2024-10-21T19:17:32.888Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹 “서민 고통 민생범죄, 끝까지 추적해 처벌”]]></title>
         <id>https://v.daum.net/v/20241022030328418</id>
@@ -17,6 +24,20 @@
         <id>https://v.daum.net/v/20241022030312410</id>
         <link href="https://v.daum.net/v/20241022030312410"/>
         <updated>2024-10-21T18:29:22.745Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘 서울중앙지법 국정감사…‘이재명 대표 재판’ 쟁점]]></title>
+        <id>https://v.daum.net/v/20241022010238987</id>
+        <link href="https://v.daum.net/v/20241022010238987"/>
+        <updated>2024-10-21T19:17:32.891Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미사일 기술진 파병한 北, 러에 대기권 재진입 등 기술 요구할듯]]></title>
+        <id>https://v.daum.net/v/20241022030228393</id>
+        <link href="https://v.daum.net/v/20241022030228393"/>
+        <updated>2024-10-21T19:17:32.893Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20241022010001969"/>
         <updated>2024-10-21T18:29:22.759Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓 “특별감찰관 임명 필요”에 尹 “北인권재단 이사 추천부터”]]></title>
-        <id>https://v.daum.net/v/20241022030225391</id>
-        <link href="https://v.daum.net/v/20241022030225391"/>
-        <updated>2024-10-21T18:29:22.761Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹 퇴진운동 단체, ‘탄핵 지도’ 만들어 온라인 서명 촉구]]></title>
-        <id>https://v.daum.net/v/20241022005604952</id>
-        <link href="https://v.daum.net/v/20241022005604952"/>
-        <updated>2024-10-21T18:29:22.762Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북·러 ‘北 파병’ 약속한 듯 침묵, 美는 신중… 부각 땐 ‘득보다 실’ 판단?]]></title>
-        <id>https://v.daum.net/v/20241022003252801</id>
-        <link href="https://v.daum.net/v/20241022003252801"/>
-        <updated>2024-10-21T16:27:16.481Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
