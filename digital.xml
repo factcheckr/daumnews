@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-10-21T17:21:04.159Z</updated>
+    <updated>2024-10-21T18:31:11.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“AI비서 선점” 빅테크 열전… MS ‘자율비서’ 더 진화]]></title>
+        <id>https://v.daum.net/v/20241022030505474</id>
+        <link href="https://v.daum.net/v/20241022030505474"/>
+        <updated>2024-10-21T18:30:25.641Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얇고, 가볍고, 두 번 접고… “폴더블 잡아라” 2차 대전]]></title>
         <id>https://v.daum.net/v/20241022003548823</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241021223415768"/>
         <updated>2024-10-21T14:21:52.765Z</updated>
         <content type="html"><![CDATA[동아사이언스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국인 앱 사용, 美에서 온 '이 앱'이 토종 '네카오' 제쳤다]]></title>
-        <id>https://v.daum.net/v/20241021213801926</id>
-        <link href="https://v.daum.net/v/20241021213801926"/>
-        <updated>2024-10-21T12:43:04.530Z</updated>
-        <content type="html"><![CDATA[키즈맘]]></content>
     </entry>
 </feed>
