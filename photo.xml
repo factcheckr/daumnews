@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-21T19:19:13.560Z</updated>
+    <updated>2024-10-21T20:24:35.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잔디밭 산책]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5985942/XpGw8ckP1P</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5985942/XpGw8ckP1P"/>
+        <updated>2024-10-21T20:24:10.527Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꽃길만 걷자]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/7156/F1Dc7YGkma</id>
+        <link href="https://gallery.v.daum.net/p/viewer/7156/F1Dc7YGkma"/>
+        <updated>2024-10-21T20:24:10.529Z</updated>
+        <content type="html"><![CDATA[포토 에세이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종이 보름달도 들어주실까[고양이 눈]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5996992/5XFCf30Cmz</id>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1644543/KRT5u2VZFG"/>
         <updated>2024-10-21T07:25:34.653Z</updated>
         <content type="html"><![CDATA[2024 미국 대선 (민주당)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 대통령 "서민에 고통 주는 민생범죄 엄벌해야"]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5615616/yHsJtzqy3Y</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5615616/yHsJtzqy3Y"/>
-        <updated>2024-10-21T06:32:47.583Z</updated>
-        <content type="html"><![CDATA[뉴스1 PICK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국립중앙도서관, 한강 작가 특별 서가 운영]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5994641/HyC5rSva3H</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5994641/HyC5rSva3H"/>
-        <updated>2024-10-21T06:32:47.583Z</updated>
-        <content type="html"><![CDATA[소설가 한강 한국 최초 노벨문학상 수상]]></content>
     </entry>
 </feed>
