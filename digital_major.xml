@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-22T14:22:31.279Z</updated>
+    <updated>2024-10-22T15:25:12.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퀄컴, 새 스냅드래곤 출시…삼성 갤럭시S25 탑재 가능성]]></title>
+        <id>https://v.daum.net/v/20241022195401062</id>
+        <link href="https://v.daum.net/v/20241022195401062"/>
+        <updated>2024-10-22T15:24:40.095Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[글라우드, 이노비즈 1등급 인증 획득]]></title>
         <id>https://v.daum.net/v/20241022194543981</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241022180028360"/>
         <updated>2024-10-22T10:23:58.517Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갤S25에 스냅드래곤8 엘리트 탑재 유력… 아이폰16 누를까]]></title>
-        <id>https://v.daum.net/v/20241022180948707</id>
-        <link href="https://v.daum.net/v/20241022180948707"/>
-        <updated>2024-10-22T10:23:58.517Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
