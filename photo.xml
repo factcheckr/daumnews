@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-22T13:30:55.382Z</updated>
+    <updated>2024-10-22T14:22:31.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[졸릴 땐 낙서]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5996992/ttp3t86Fw3</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5996992/ttp3t86Fw3"/>
+        <updated>2024-10-22T14:22:05.405Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[울긋불긋 단풍길 된 정동길[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/FwU1Phloh5</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5615616/uZAEExMUUp"/>
         <updated>2024-10-22T06:31:36.346Z</updated>
         <content type="html"><![CDATA[뉴스1 PICK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['노벨문학상 한강 작가 도서 한시적 판매중단']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5994641/Hg4PyAc63E</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5994641/Hg4PyAc63E"/>
-        <updated>2024-10-22T05:22:34.156Z</updated>
-        <content type="html"><![CDATA[소설가 한강 한국 최초 노벨문학상 수상]]></content>
     </entry>
 </feed>

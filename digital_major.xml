@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-22T13:30:55.346Z</updated>
+    <updated>2024-10-22T14:22:31.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[글라우드, 이노비즈 1등급 인증 획득]]></title>
+        <id>https://v.daum.net/v/20241022194543981</id>
+        <link href="https://v.daum.net/v/20241022194543981"/>
+        <updated>2024-10-22T14:21:58.206Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SBA x IT동아] ‘디지털 트윈’ 기술로 산업 현장 DX 돕는 ‘스탠스’]]></title>
+        <id>https://v.daum.net/v/20241022190304106</id>
+        <link href="https://v.daum.net/v/20241022190304106"/>
+        <updated>2024-10-22T14:21:58.209Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['퀄컴 CEO와 회동' 삼성 노태문 사장 "2억대 이상 갤럭시에 AI 확장" [스냅드래곤서밋2024]]]></title>
         <id>https://v.daum.net/v/20241022170028003</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20241022180948707"/>
         <updated>2024-10-22T10:23:58.517Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[르포] QR코드 찍힌 현대차 新공장, 자유자재로 움직이는 AMR로봇의 비결은?]]></title>
-        <id>https://v.daum.net/v/20241022180207423</id>
-        <link href="https://v.daum.net/v/20241022180207423"/>
-        <updated>2024-10-22T10:23:58.517Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["주가 하락에 소송·불매운동까지"…녹록치 않은 K-웹툰]]></title>
-        <id>https://v.daum.net/v/20241022173916563</id>
-        <link href="https://v.daum.net/v/20241022173916563"/>
-        <updated>2024-10-22T10:23:58.519Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
