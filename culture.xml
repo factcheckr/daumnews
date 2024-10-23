@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-10-23T04:28:36.853Z</updated>
+    <updated>2024-10-23T05:23:08.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안중근 의사가 쓴 두 글자 '독립'…15년 만에 日서 왔다]]></title>
+        <id>https://v.daum.net/v/20241023140101219</id>
+        <link href="https://v.daum.net/v/20241023140101219"/>
+        <updated>2024-10-23T05:22:08.291Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["11세 전에 생리해도"...젊은층 유방암, 빨라진 사춘기 때문?]]></title>
         <id>https://v.daum.net/v/20241023130419462</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241023111853795"/>
         <updated>2024-10-23T04:27:46.253Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“나 이대 나온 여자야”...집에 ‘작업방’까지 있다는 노윤서 그림 실력보니]]></title>
-        <id>https://v.daum.net/v/20241023115103023</id>
-        <link href="https://v.daum.net/v/20241023115103023"/>
-        <updated>2024-10-23T03:27:56.007Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
