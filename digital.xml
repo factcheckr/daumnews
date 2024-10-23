@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-10-23T17:21:30.664Z</updated>
+    <updated>2024-10-23T18:30:28.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메타 퀘스트 3S, 성능 유지-가격은 낮춰… “입문자에게 딱이네”]]></title>
+        <id>https://v.daum.net/v/20241024030346834</id>
+        <link href="https://v.daum.net/v/20241024030346834"/>
+        <updated>2024-10-23T18:29:52.551Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“SDV는 바퀴 달린 PC… 해킹 등에 대응할 보안 기술 중요”]]></title>
         <id>https://v.daum.net/v/20241024021252742</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241023233039636"/>
         <updated>2024-10-23T15:26:03.051Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대엘리베이터, 정년퇴직자 진로설계 교육]]></title>
-        <id>https://v.daum.net/v/20241023221944033</id>
-        <link href="https://v.daum.net/v/20241023221944033"/>
-        <updated>2024-10-23T13:29:26.133Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
