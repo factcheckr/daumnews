@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-10-23T14:22:03.768Z</updated>
+    <updated>2024-10-23T15:26:45.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[충전기 꽂자 게임방 변신한 전기차…"내리고 싶지 않았다"[르포]]]></title>
+        <id>https://v.daum.net/v/20241023233039636</id>
+        <link href="https://v.daum.net/v/20241023233039636"/>
+        <updated>2024-10-23T15:26:03.051Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현대엘리베이터, 정년퇴직자 진로설계 교육]]></title>
         <id>https://v.daum.net/v/20241023221944033</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241023180626425"/>
         <updated>2024-10-23T12:42:19.051Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["반도체 소재 경쟁 시작 후공정 생태계도 주목을"]]></title>
-        <id>https://v.daum.net/v/20241023182503020</id>
-        <link href="https://v.daum.net/v/20241023182503020"/>
-        <updated>2024-10-23T12:42:19.053Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
