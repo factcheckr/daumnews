@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-10-23T16:29:10.395Z</updated>
+    <updated>2024-10-23T17:21:30.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“SDV는 바퀴 달린 PC… 해킹 등에 대응할 보안 기술 중요”]]></title>
+        <id>https://v.daum.net/v/20241024021252742</id>
+        <link href="https://v.daum.net/v/20241024021252742"/>
+        <updated>2024-10-23T17:20:52.361Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴테크] 판다 사진  담은  DNA디스크…차세대 저장 매체로 부각]]></title>
         <id>https://v.daum.net/v/20241024000130871</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241023221944033"/>
         <updated>2024-10-23T13:29:26.133Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신용카드 발급하면 스마트폰 공짜? 통신사에 화난 사람 늘었다]]></title>
-        <id>https://v.daum.net/v/20241023222004038</id>
-        <link href="https://v.daum.net/v/20241023222004038"/>
-        <updated>2024-10-23T13:29:26.133Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
 </feed>
