@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-24T19:19:34.042Z</updated>
+    <updated>2024-10-24T20:25:10.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김건희 여사 13일 만에 공식 석상]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5985942/VNkxM9Dxto</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5985942/VNkxM9Dxto"/>
+        <updated>2024-10-24T20:24:46.156Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모델은 나 대신 인형]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5996992/8Exdx4sdEx</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5985949/ZO5Mvdyjvt"/>
         <updated>2024-10-24T06:31:58.183Z</updated>
         <content type="html"><![CDATA[포토多이슈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교보문고, 지역서점과의 상생 '한강 작가 도서 한시적 판매 중단']]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5994641/ymh4tc3Ize</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5994641/ymh4tc3Ize"/>
-        <updated>2024-10-24T06:31:58.184Z</updated>
-        <content type="html"><![CDATA[소설가 한강 한국 최초 노벨문학상 수상]]></content>
     </entry>
 </feed>
