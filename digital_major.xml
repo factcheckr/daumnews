@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-24T10:24:36.499Z</updated>
+    <updated>2024-10-24T11:20:00.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DNA에 저장한 판다 이미지, 빠르고 정확하게 읽어냈다]]></title>
+        <id>https://v.daum.net/v/20241024180013987</id>
+        <link href="https://v.daum.net/v/20241024180013987"/>
+        <updated>2024-10-24T11:19:28.008Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플 AI 28일 출시, 삼성은 연내 2억대 AI폰…모바일 AI 경쟁 불붙는다]]></title>
         <id>https://v.daum.net/v/20241024180951317</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스마트폰 넘어…삼성 '갤럭시AI' 확장 속도]]></title>
+        <title type="html"><![CDATA[스마트폰 넘어…삼성 '갤럭시AI' 확장 가속]]></title>
         <id>https://v.daum.net/v/20241024174512357</id>
         <link href="https://v.daum.net/v/20241024174512357"/>
         <updated>2024-10-24T10:24:02.285Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241024141809131"/>
         <updated>2024-10-24T09:24:21.961Z</updated>
         <content type="html"><![CDATA[게임동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티빙·웨이브, 합병 안하나 못하나]]></title>
-        <id>https://v.daum.net/v/20241024170004555</id>
-        <link href="https://v.daum.net/v/20241024170004555"/>
-        <updated>2024-10-24T09:24:21.962Z</updated>
-        <content type="html"><![CDATA[비즈워치]]></content>
     </entry>
 </feed>
