@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-24T13:29:48.317Z</updated>
+    <updated>2024-10-24T14:23:07.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모델은 나 대신 인형]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5996992/8Exdx4sdEx</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5996992/8Exdx4sdEx"/>
+        <updated>2024-10-24T14:22:46.347Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돌담길 따라 정동문화축제로 오세요[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/9Hmy1OBWyu</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5840100/XWaUbh9Hh9"/>
         <updated>2024-10-24T06:31:58.186Z</updated>
         <content type="html"><![CDATA[경향포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[치안 불안 항의 행진하는 페루 시위대]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/6000482/U0359SVZfh</id>
-        <link href="https://gallery.v.daum.net/p/viewer/6000482/U0359SVZfh"/>
-        <updated>2024-10-24T08:28:58.565Z</updated>
-        <content type="html"><![CDATA[페루]]></content>
     </entry>
 </feed>
