@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-25T09:26:08.086Z</updated>
+    <updated>2024-10-25T10:25:08.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대피소로 바뀐 레바논 극장]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5999351/3WNYw0LKYS</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5999351/3WNYw0LKYS"/>
+        <updated>2024-10-25T10:24:43.220Z</updated>
+        <content type="html"><![CDATA[지구촌 오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네덜란드 국방장관 "북한군 최소 1500명 참전 배치 확인"]]></title>
         <id>https://gallery.v.daum.net/p/viewer/1489/FJ2XpiYcKi</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5997707/ZMaM3VrRFU"/>
         <updated>2024-10-24T22:21:46.608Z</updated>
         <content type="html"><![CDATA[C컷]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김건희 여사 13일 만에 공식 석상]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5985942/VNkxM9Dxto</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5985942/VNkxM9Dxto"/>
-        <updated>2024-10-24T20:24:46.156Z</updated>
-        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
     </entry>
 </feed>
