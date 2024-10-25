@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-10-25T17:21:55.619Z</updated>
+    <updated>2024-10-25T18:30:46.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20241026014207167"/>
         <updated>2024-10-25T17:20:13.123Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김여사 증인 104명 채택… 동행명령장 27건 역대 최다]]></title>
+        <id>https://v.daum.net/v/20241026012552113</id>
+        <link href="https://v.daum.net/v/20241026012552113"/>
+        <updated>2024-10-25T18:29:25.006Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹지지율 20% 다시 최저… 부정평가 이유 ‘金여사 문제’ 1위]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241026010849039"/>
         <updated>2024-10-25T17:20:13.137Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹대통령·보수, 디커플링 시작됐다]]></title>
-        <id>https://v.daum.net/v/20241026005902989</id>
-        <link href="https://v.daum.net/v/20241026005902989"/>
-        <updated>2024-10-25T16:27:08.384Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>

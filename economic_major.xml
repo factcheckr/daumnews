@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-10-25T17:21:55.619Z</updated>
+    <updated>2024-10-25T18:30:46.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20241026014224179"/>
         <updated>2024-10-25T17:20:30.135Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알쏭달쏭 유통] 두유·곤약…대체면, 어디까지 알고 있니?]]></title>
+        <id>https://v.daum.net/v/20241026000140585</id>
+        <link href="https://v.daum.net/v/20241026000140585"/>
+        <updated>2024-10-25T18:29:37.607Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전기차 재료 '리튬' 시세 급락, 美 증산에 더 내려가나]]></title>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20241025234355478</id>
         <link href="https://v.daum.net/v/20241025234355478"/>
         <updated>2024-10-25T15:23:00.002Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“외국인력 지자체가 운영”…‘울산형 광역비자’ 설계 착수]]></title>
-        <id>https://v.daum.net/v/20241025234246473</id>
-        <link href="https://v.daum.net/v/20241025234246473"/>
-        <updated>2024-10-25T15:23:00.004Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
