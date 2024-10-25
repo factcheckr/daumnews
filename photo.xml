@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-25T20:25:47.154Z</updated>
+    <updated>2024-10-25T21:22:50.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["참사 희생자 두 번 죽이는 정치, 끝내야 합니다"[노컷한컷]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5997706/2iIK2W6FaW</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5997706/2iIK2W6FaW"/>
+        <updated>2024-10-25T21:22:24.149Z</updated>
+        <content type="html"><![CDATA[노컷한컷]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[열흘 뒤 누가 웃을까]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5985942/KChQYa5rYG</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5999376/fNB6MBc69M"/>
         <updated>2024-10-25T04:30:38.513Z</updated>
         <content type="html"><![CDATA[이집트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노르웨이 열차 탈선, 최소 5명 사상]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/6000633/0wOb0fmeBi</id>
-        <link href="https://gallery.v.daum.net/p/viewer/6000633/0wOb0fmeBi"/>
-        <updated>2024-10-25T01:42:04.034Z</updated>
-        <content type="html"><![CDATA[노르웨이]]></content>
     </entry>
 </feed>
