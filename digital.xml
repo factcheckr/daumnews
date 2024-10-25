@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-10-25T19:20:22.345Z</updated>
+    <updated>2024-10-25T20:25:47.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[불씨는 '반도체 천재' 회사였다…ARM·퀄컴의 전쟁, 삼성은?]]></title>
+        <id>https://v.daum.net/v/20241026050038695</id>
+        <link href="https://v.daum.net/v/20241026050038695"/>
+        <updated>2024-10-25T20:25:04.063Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메마른 땅에서 잘 자라는 나무 찾는다...참나무류 건조 내성 기준 마련]]></title>
         <id>https://v.daum.net/v/20241026021912320</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241025221530453"/>
         <updated>2024-10-25T13:29:11.793Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광주 인공지능 산업 육성 잇딴 암초..예산 삭감 우려에 경쟁자까지]]></title>
-        <id>https://v.daum.net/v/20241025211607931</id>
-        <link href="https://v.daum.net/v/20241025211607931"/>
-        <updated>2024-10-25T13:29:11.793Z</updated>
-        <content type="html"><![CDATA[kbc광주방송]]></content>
     </entry>
 </feed>
