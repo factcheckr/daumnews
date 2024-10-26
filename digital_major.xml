@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-26T11:20:20.017Z</updated>
+    <updated>2024-10-26T12:40:12.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[닥터 페퍼, 에너지 드링크 ‘고스트’ 인수]]></title>
+        <id>https://v.daum.net/v/20241026150052867</id>
+        <link href="https://v.daum.net/v/20241026150052867"/>
+        <updated>2024-10-26T12:39:38.117Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[똑똑해지는 삼성 '갤럭시 AI'…'20개국어' 한다]]></title>
         <id>https://v.daum.net/v/20241026150003855</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241026124702103"/>
         <updated>2024-10-26T06:29:30.347Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퀄컴 최대 연례 행사 폐막...주인공은 '스냅드래곤8 엘리트'(종합)]]></title>
-        <id>https://v.daum.net/v/20241026115740658</id>
-        <link href="https://v.daum.net/v/20241026115740658"/>
-        <updated>2024-10-26T05:22:56.504Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>
