@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-10-26T16:26:37.587Z</updated>
+    <updated>2024-10-26T17:22:25.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독 “미, 무역전쟁 시작하면 보복한다” 경고]]></title>
+        <id>https://v.daum.net/v/20241027020004576</id>
+        <link href="https://v.daum.net/v/20241027020004576"/>
+        <updated>2024-10-26T17:20:49.437Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에어아시아. 올해 누적 승객 수 4500만명ꞏꞏꞏ3분기 탑승률 89% 기록]]></title>
         <id>https://v.daum.net/v/20241027002743354</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241026220743697"/>
         <updated>2024-10-26T13:24:10.854Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[탐사보도 뉴스프리즘] AI 검색 둘러싼 글로벌 경쟁…구글 패권 유지할까]]></title>
-        <id>https://v.daum.net/v/20241026220040650</id>
-        <link href="https://v.daum.net/v/20241026220040650"/>
-        <updated>2024-10-26T13:24:10.856Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV]]></content>
     </entry>
 </feed>
