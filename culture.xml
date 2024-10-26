@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-10-26T12:40:12.369Z</updated>
+    <updated>2024-10-26T13:25:26.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“왠지 찜찜했는데”… 암 환자에 쓴 내시경이 내 몸속으로 [금주의 ‘눈살’]]]></title>
+        <id>https://v.daum.net/v/20241026214856563</id>
+        <link href="https://v.daum.net/v/20241026214856563"/>
+        <updated>2024-10-26T13:24:37.335Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[죽음 직전 일본인에게 건넨 안중근의 '독립', 15년 만에 공개]]></title>
         <id>https://v.daum.net/v/20241026201222831</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241026210328205"/>
         <updated>2024-10-26T12:39:14.190Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[항생제 먹으면 파킨슨병 위험 낮아진다?]]></title>
-        <id>https://v.daum.net/v/20241026200019727</id>
-        <link href="https://v.daum.net/v/20241026200019727"/>
-        <updated>2024-10-26T12:39:14.190Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>
