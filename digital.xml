@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-10-27T05:22:03.421Z</updated>
+    <updated>2024-10-27T06:30:57.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테솔로, 인간형 로봇 손 시연...다섯 손가락으로 움직여]]></title>
+        <id>https://v.daum.net/v/20241027150343448</id>
+        <link href="https://v.daum.net/v/20241027150343448"/>
+        <updated>2024-10-27T06:30:13.508Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["갤럭시 광고 끝, 이제 '아이폰' 써야지"...삼성전자의 '한숨']]></title>
+        <id>https://v.daum.net/v/20241027144902091</id>
+        <link href="https://v.daum.net/v/20241027144902091"/>
+        <updated>2024-10-27T06:30:13.509Z</updated>
+        <content type="html"><![CDATA[한경비즈니스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브릴스, 로봇 리퍼브 사업 추진]]></title>
         <id>https://v.daum.net/v/20241027140629120</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20241027133309442"/>
         <updated>2024-10-27T05:21:20.724Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“한국 자율주행 로봇 기술 보러왔습니다”… 덴마크 로봇 사절단, 대전 트위니 방문]]></title>
-        <id>https://v.daum.net/v/20241027132146319</id>
-        <link href="https://v.daum.net/v/20241027132146319"/>
-        <updated>2024-10-27T04:28:39.166Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로봇산업진흥원, 국제로봇콘테스트·R-비즈 챌린지 성료]]></title>
-        <id>https://v.daum.net/v/20241027125943997</id>
-        <link href="https://v.daum.net/v/20241027125943997"/>
-        <updated>2024-10-27T04:28:39.168Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
