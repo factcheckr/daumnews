@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-28T18:31:04.578Z</updated>
+    <updated>2024-10-28T19:20:16.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA["SW 원격개발 활성화를"···정산연, 보안 체크리스트 발표]]></title>
-        <id>https://v.daum.net/v/20241028222801984</id>
-        <link href="https://v.daum.net/v/20241028222801984"/>
-        <updated>2024-10-28T17:22:52.612Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[유엔 "지난해 온실가스 농도 사상 최고치… 파리 협정 궤도 벗어나"]]></title>
         <id>https://v.daum.net/v/20241028213223985</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20241028172403741"/>
         <updated>2024-10-28T11:20:20.744Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국가 AI연구거점 공식 출범…어떤 일 하나]]></title>
+        <id>https://v.daum.net/v/20241028170735053</id>
+        <link href="https://v.daum.net/v/20241028170735053"/>
+        <updated>2024-10-28T19:19:44.761Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
