@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-10-28T16:31:43.566Z</updated>
+    <updated>2024-10-28T17:23:19.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 "北, 러에 약 1만명 파병…일부 우크라 가까이로 이동"]]></title>
+        <id>https://v.daum.net/v/20241029004800825</id>
+        <link href="https://v.daum.net/v/20241029004800825"/>
+        <updated>2024-10-28T17:22:02.794Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[치솟는 원달러 환율, 한은 금리 인하 스텝 꼬였다]]></title>
         <id>https://v.daum.net/v/20241029010858961</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241029004202766"/>
         <updated>2024-10-28T16:30:04.398Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로워진 ‘사장님 컬러’ 블랙, 이제 SUV도 물들였다]]></title>
-        <id>https://v.daum.net/v/20241029004045752</id>
-        <link href="https://v.daum.net/v/20241029004045752"/>
-        <updated>2024-10-28T16:30:04.399Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
