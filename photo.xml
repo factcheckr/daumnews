@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-28T19:20:16.478Z</updated>
+    <updated>2024-10-28T20:25:21.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KIA 빛고을서 'KS 우승 포효']]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5985942/XkHbWMSgYL</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5985942/XkHbWMSgYL"/>
+        <updated>2024-10-28T20:25:00.939Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트럼프 부부, 뉴욕 유세]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5996875/3tiDpXMUSo</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5998641/bNr50gZwUw"/>
         <updated>2024-10-28T07:24:20.517Z</updated>
         <content type="html"><![CDATA[일본]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스라엘 공습 전후의 이란 파르친 군사기지 위성사진]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5031013/x2l98CKG0N</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5031013/x2l98CKG0N"/>
-        <updated>2024-10-28T07:24:20.517Z</updated>
-        <content type="html"><![CDATA[이란은 지금]]></content>
     </entry>
 </feed>
