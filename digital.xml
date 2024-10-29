@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-10-29T15:25:36.581Z</updated>
+    <updated>2024-10-29T16:34:26.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘구글 천하’ 흔드는 빅테크… 메타도 자체 검색엔진 개발]]></title>
+        <id>https://v.daum.net/v/20241030004022315</id>
+        <link href="https://v.daum.net/v/20241030004022315"/>
+        <updated>2024-10-29T16:33:45.926Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["데이터 중심 AI신뢰성 검증"···AI미래포럼 토크콘서트 개최]]></title>
         <id>https://v.daum.net/v/20241029230143540</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241029144738734"/>
         <updated>2024-10-29T12:43:07.939Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이통3사 오매불망 '갤럭시Z폴드SE'…삼성 "오래 걸리지 않을 것"]]></title>
-        <id>https://v.daum.net/v/20241029174450218</id>
-        <link href="https://v.daum.net/v/20241029174450218"/>
-        <updated>2024-10-29T12:43:07.941Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>
