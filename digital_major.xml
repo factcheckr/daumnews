@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-29T10:25:33.119Z</updated>
+    <updated>2024-10-29T11:20:15.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정부, 단통법 폐지 속도 낸다…통신 현장과 논의한 방통위]]></title>
+        <id>https://v.daum.net/v/20241029173444828</id>
+        <link href="https://v.daum.net/v/20241029173444828"/>
+        <updated>2024-10-29T11:19:48.764Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윈도보다 안전한 거 아니었어?…리눅스 노리는 랜섬웨어 조직들]]></title>
         <id>https://v.daum.net/v/20241029173013671</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241029170124477"/>
         <updated>2024-10-29T08:30:23.935Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라온시큐어 “토종 웹3 디지털 ID 세계로”]]></title>
-        <id>https://v.daum.net/v/20241029165407153</id>
-        <link href="https://v.daum.net/v/20241029165407153"/>
-        <updated>2024-10-29T08:30:23.937Z</updated>
-        <content type="html"><![CDATA[IT동아]]></content>
     </entry>
 </feed>
