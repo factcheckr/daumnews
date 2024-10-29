@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-29T09:26:32.165Z</updated>
+    <updated>2024-10-29T10:25:33.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윈도보다 안전한 거 아니었어?…리눅스 노리는 랜섬웨어 조직들]]></title>
+        <id>https://v.daum.net/v/20241029173013671</id>
+        <link href="https://v.daum.net/v/20241029173013671"/>
+        <updated>2024-10-29T10:24:59.424Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[디지털문서 플랫폼 콘퍼런스 2024]신재욱 한컴 컨설팅 총괄, “AI 내재화 한컴 솔루션 본격 성장”]]></title>
+        <id>https://v.daum.net/v/20241029170109456</id>
+        <link href="https://v.daum.net/v/20241029170109456"/>
+        <updated>2024-10-29T10:24:59.425Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[디지털문서 플랫폼 콘퍼런스 2024]임영철 KISA 연구위원, “한국 디지털서비스, 글로벌 전환해야”]]></title>
+        <id>https://v.daum.net/v/20241029170133489</id>
+        <link href="https://v.daum.net/v/20241029170133489"/>
+        <updated>2024-10-29T10:24:59.425Z</updated>
+        <content type="html"><![CDATA[전자신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[디지털문서 플랫폼 콘퍼런스 2024]보이스아이, 브랜드 가치 보호 위한 해결책 제시]]></title>
         <id>https://v.daum.net/v/20241029170122474</id>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20241029165407153"/>
         <updated>2024-10-29T08:30:23.937Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["집안 돌아다니는 생활반려 로봇, 스마트폰 가격에 나온다"]]></title>
-        <id>https://v.daum.net/v/20241029164743926</id>
-        <link href="https://v.daum.net/v/20241029164743926"/>
-        <updated>2024-10-29T08:30:23.938Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 역삼에 'AI 팝업' 열렸다…AWS, 韓스타트업 혁신 지원]]></title>
-        <id>https://v.daum.net/v/20241029163345416</id>
-        <link href="https://v.daum.net/v/20241029163345416"/>
-        <updated>2024-10-29T08:30:23.940Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내 글, 전문가 말투로 고쳐줘"…애플의 첫 AI 공개, 직접 써보니 [팩플]]]></title>
-        <id>https://v.daum.net/v/20241029163308382</id>
-        <link href="https://v.daum.net/v/20241029163308382"/>
-        <updated>2024-10-29T08:30:23.941Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
