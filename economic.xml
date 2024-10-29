@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-10-29T16:34:26.858Z</updated>
+    <updated>2024-10-29T17:23:57.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비트코인, 반년 만에 7만2000달러 안착… 국내선 1억원대 진입]]></title>
+        <id>https://v.daum.net/v/20241030021026628</id>
+        <link href="https://v.daum.net/v/20241030021026628"/>
+        <updated>2024-10-29T17:22:31.435Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혼조세 보이는 뉴욕 증시… 트럼프 관련 주는 급등 중]]></title>
         <id>https://v.daum.net/v/20241030012719536</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241030003516288"/>
         <updated>2024-10-29T16:32:54.526Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트럼프 미디어, 대선 앞두고 가격 급변동에 수차례 거래중단]]></title>
-        <id>https://v.daum.net/v/20241030003303270</id>
-        <link href="https://v.daum.net/v/20241030003303270"/>
-        <updated>2024-10-29T16:32:54.528Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
