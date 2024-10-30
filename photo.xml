@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-30T13:30:40.377Z</updated>
+    <updated>2024-10-30T14:22:28.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[솜사탕 자매]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5996992/6SyUnW6FE6</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5996992/6SyUnW6FE6"/>
+        <updated>2024-10-30T14:22:07.038Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실제 상황 아닙니다…서울 DDP서 재난대응훈련[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/7FJRkCKGy5</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5996850/bF6xq3nbz4"/>
         <updated>2024-10-30T07:21:37.657Z</updated>
         <content type="html"><![CDATA[미국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폐교에서 생활하는 포르토프랭스 주민들]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/6002074/Ycdp5y8tBL</id>
-        <link href="https://gallery.v.daum.net/p/viewer/6002074/Ycdp5y8tBL"/>
-        <updated>2024-10-30T07:21:37.659Z</updated>
-        <content type="html"><![CDATA[아이티]]></content>
     </entry>
 </feed>
