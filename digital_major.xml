@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-10-31T21:23:06.037Z</updated>
+    <updated>2024-10-31T22:23:20.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[PCN, 日 최대 IT전시회 '추계 재팬 IT위크 2024' 참가]]></title>
+        <id>https://v.daum.net/v/20241031230713792</id>
+        <link href="https://v.daum.net/v/20241031230713792"/>
+        <updated>2024-10-31T22:22:45.102Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년에만 125만 명 죽었다… 코로나 보다 더 센 ‘사망 1위’ 이 병은 [수민이가 궁금해요]]]></title>
         <id>https://v.daum.net/v/20241031230349750</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241031200031912"/>
         <updated>2024-10-31T13:29:37.173Z</updated>
         <content type="html"><![CDATA[헬스조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI와 만난 바이오 데이터… 생명비밀 풀고 질병극복 길 연다]]></title>
-        <id>https://v.daum.net/v/20241031185720707</id>
-        <link href="https://v.daum.net/v/20241031185720707"/>
-        <updated>2024-10-31T13:29:37.173Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
