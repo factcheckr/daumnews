@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-10-31T17:21:47.236Z</updated>
+    <updated>2024-10-31T18:31:37.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5999351/GPmSmFiBtI"/>
         <updated>2024-10-31T12:45:26.613Z</updated>
         <content type="html"><![CDATA[지구촌 오늘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["팔도 막걸리가 여기 모였네"…대한민국 막걸리&김치 축제]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1137876/7tq5huaVfd</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1137876/7tq5huaVfd"/>
+        <updated>2024-10-31T18:31:07.311Z</updated>
+        <content type="html"><![CDATA[뉴시스 앵글]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[농협 충북 진천군지부, 대학수학능력시험 수험생 응원]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5998636/xwpfl9Dxu4"/>
         <updated>2024-10-31T07:21:25.902Z</updated>
         <content type="html"><![CDATA[쿠키포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['다저스 우승' 호외 배포하는 요미우리 신문]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5998641/FVm7y4sd23</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5998641/FVm7y4sd23"/>
-        <updated>2024-10-31T07:21:25.903Z</updated>
-        <content type="html"><![CDATA[일본]]></content>
     </entry>
 </feed>
