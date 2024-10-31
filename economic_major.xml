@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-10-31T16:34:45.628Z</updated>
+    <updated>2024-10-31T17:21:47.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전세 보증금 사고 낸 임대인 ‘빚 부담’ 줄여준다는 HUG]]></title>
+        <id>https://v.daum.net/v/20241101003802894</id>
+        <link href="https://v.daum.net/v/20241101003802894"/>
+        <updated>2024-10-31T17:20:36.139Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9월 예대금리차 6개월 만에 확대]]></title>
         <id>https://v.daum.net/v/20241101003521868</id>
@@ -17,6 +24,13 @@
         <id>https://v.daum.net/v/20241101003521869</id>
         <link href="https://v.daum.net/v/20241101003521869"/>
         <updated>2024-10-31T16:33:08.044Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수소전기차 ‘이니시움’ 공개… 현대차 내년 상반기에 출시]]></title>
+        <id>https://v.daum.net/v/20241101003518867</id>
+        <link href="https://v.daum.net/v/20241101003518867"/>
+        <updated>2024-10-31T17:20:36.143Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20241101000900645"/>
         <updated>2024-10-31T16:33:08.051Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editor’s Note] “배터리만 300조 풀었다”…중국이 기업 키우는 방식]]></title>
-        <id>https://v.daum.net/v/20241101000304443</id>
-        <link href="https://v.daum.net/v/20241101000304443"/>
-        <updated>2024-10-31T16:33:08.052Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성장 주춤한데, 믿었던 반도체마저…]]></title>
-        <id>https://v.daum.net/v/20241101000245426</id>
-        <link href="https://v.daum.net/v/20241101000245426"/>
-        <updated>2024-10-31T15:25:21.405Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
