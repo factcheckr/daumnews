@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-11-01T10:25:25.938Z</updated>
+    <updated>2024-11-01T11:20:02.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["소버린 클라우드 선도"···틸론 신제품 '디스테이션X' 7일 발표]]></title>
+        <id>https://v.daum.net/v/20241101191842246</id>
+        <link href="https://v.daum.net/v/20241101191842246"/>
+        <updated>2024-11-01T11:19:25.891Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[리뷰] 이런 리메이크라면 환영 '로맨싱 사가 2 리벤지 오브 더 세븐']]></title>
         <id>https://v.daum.net/v/20241101183608478</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241101180606042"/>
         <updated>2024-11-01T09:23:36.501Z</updated>
         <content type="html"><![CDATA[IT동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[동물do감] 체력 안배 위해 한밤 사냥 선호하는 웨델 물범]]></title>
-        <id>https://v.daum.net/v/20241101174620514</id>
-        <link href="https://v.daum.net/v/20241101174620514"/>
-        <updated>2024-11-01T09:23:36.503Z</updated>
-        <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
 </feed>
