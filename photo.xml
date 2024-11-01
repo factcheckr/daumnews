@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-11-01T04:27:28.439Z</updated>
+    <updated>2024-11-01T05:22:57.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정진석 "尹·명태균 통화 정치적·법적·상식적 문제 없어"]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5615616/Zmjia6Ii30</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5615616/Zmjia6Ii30"/>
+        <updated>2024-11-01T05:22:33.859Z</updated>
+        <content type="html"><![CDATA[뉴스1 PICK]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["윤석열 대통령 당장 직무정지 하라!"]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5615618/5fFrRBc6EN</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5997006/pNN0w1dzfy"/>
         <updated>2024-10-31T10:24:54.387Z</updated>
         <content type="html"><![CDATA[우크라이나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멕시코 대법관 11명중 8명, 논란부른 사법개혁에 반대 사퇴]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5996851/BQHPk3nbbZ</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5996851/BQHPk3nbbZ"/>
-        <updated>2024-10-31T10:24:54.387Z</updated>
-        <content type="html"><![CDATA[멕시코]]></content>
     </entry>
 </feed>
