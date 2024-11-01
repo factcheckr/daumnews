@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-11-01T15:27:19.428Z</updated>
+    <updated>2024-11-01T16:28:00.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[멀리서 만난 반가운 로고]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5998024/ywKZc2wMMo</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5998024/ywKZc2wMMo"/>
+        <updated>2024-11-01T16:27:32.537Z</updated>
+        <content type="html"><![CDATA[포토 카페]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사랑도 골인[고양이 눈]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5996992/8hsTjGQ0Is</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5996875/xgGuxzj43X"/>
         <updated>2024-11-01T04:27:08.165Z</updated>
         <content type="html"><![CDATA[2024 미국 대선 (공화당)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태풍 '콩레이' 간접영향…많은 비 내리는 제주[뉴시스 앵글]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1137876/fqzso4sdq9</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1137876/fqzso4sdq9"/>
-        <updated>2024-11-01T04:27:08.167Z</updated>
-        <content type="html"><![CDATA[뉴시스 앵글]]></content>
     </entry>
 </feed>
