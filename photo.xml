@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-11-01T19:21:28.140Z</updated>
+    <updated>2024-11-01T20:29:45.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[北 신형 ICBM '화성-19형' 무엇이 달라졌나]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5985942/ZHT7R7NftE</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5985942/ZHT7R7NftE"/>
+        <updated>2024-11-01T20:29:20.115Z</updated>
+        <content type="html"><![CDATA[오늘의 1면 사진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[멀리서 만난 반가운 로고]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5998024/ywKZc2wMMo</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5999604/XdYEHmzTfn"/>
         <updated>2024-11-01T06:33:01.768Z</updated>
         <content type="html"><![CDATA[스페인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한 강계시 야경]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1489/tD6ZAxloFd</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1489/tD6ZAxloFd"/>
-        <updated>2024-11-01T06:33:01.769Z</updated>
-        <content type="html"><![CDATA[북한은 지금]]></content>
     </entry>
 </feed>
