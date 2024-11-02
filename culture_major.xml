@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-11-02T13:25:38.367Z</updated>
+    <updated>2024-11-02T14:19:45.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공장형 아이돌 NO…직접 곡 쓰다가 '회사 기둥' 됐다 [연계소문]]]></title>
+        <id>https://v.daum.net/v/20241102205102905</id>
+        <link href="https://v.daum.net/v/20241102205102905"/>
+        <updated>2024-11-02T14:19:06.535Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“배우·작가 정체성 투영”…대형 화랑도 반한 ‘작가 하정우’]]></title>
         <id>https://v.daum.net/v/20241102213330220</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241102183501501"/>
         <updated>2024-11-02T12:39:11.833Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내일날씨, 맑고 포근한 휴일...낮 최고 23도 일교차 큰 가을날씨]]></title>
-        <id>https://v.daum.net/v/20241102170302190</id>
-        <link href="https://v.daum.net/v/20241102170302190"/>
-        <updated>2024-11-02T12:39:11.835Z</updated>
-        <content type="html"><![CDATA[bnt뉴스]]></content>
     </entry>
 </feed>
