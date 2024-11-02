@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-11-02T06:32:34.797Z</updated>
+    <updated>2024-11-02T07:21:32.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5996987/p8fArzj47b"/>
         <updated>2024-11-02T02:51:57.212Z</updated>
         <content type="html"><![CDATA[한 컷의 울림]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[희생자 애도 촛불 밝히는 세르비아 사람들]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/6002818/2zEQjFiBfV</id>
+        <link href="https://gallery.v.daum.net/p/viewer/6002818/2zEQjFiBfV"/>
+        <updated>2024-11-02T07:21:10.828Z</updated>
+        <content type="html"><![CDATA[세르비아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단풍은 언제 오나요? [정동길 옆 사진관]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/1644543/u1U7RmzT2j"/>
         <updated>2024-11-01T07:22:16.865Z</updated>
         <content type="html"><![CDATA[2024 미국 대선 (민주당)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해리스 지지 선언한 스칼릿 조핸슨]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5998013/u1U7RmzT2j</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5998013/u1U7RmzT2j"/>
-        <updated>2024-11-01T08:28:20.441Z</updated>
-        <content type="html"><![CDATA[영국]]></content>
     </entry>
 </feed>
