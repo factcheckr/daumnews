@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/society</id>
     <title>다음뉴스 ─ 사회 ─ 메이저</title>
-    <updated>2024-11-02T17:19:29.216Z</updated>
+    <updated>2024-11-02T18:28:56.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20241103013729157"/>
         <updated>2024-11-02T17:17:41.883Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무면허 역주행...난장판 된 주말 강남역 일대]]></title>
+        <id>https://v.daum.net/v/20241103001010532</id>
+        <link href="https://v.daum.net/v/20241103001010532"/>
+        <updated>2024-11-02T18:26:36.487Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["식당으로 차가 '쾅'"···70대 여성이 몰던 승용차, 역주행 끝에 인도로 돌진]]></title>
+        <id>https://v.daum.net/v/20241103000017368</id>
+        <link href="https://v.daum.net/v/20241103000017368"/>
+        <updated>2024-11-02T18:26:36.487Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인천 서구 공장서 폭발 사고…1명 경상]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20241102230221050"/>
         <updated>2024-11-02T15:23:30.895Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“국회가 국회했네” 팡팡 쓰더니 전기 값만 80억…이래도 돼? [지구, 뭐래?]]]></title>
-        <id>https://v.daum.net/v/20241102214052275</id>
-        <link href="https://v.daum.net/v/20241102214052275"/>
-        <updated>2024-11-02T15:23:30.897Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군사재판 4·3 수형인 명예회복 2천명 돌파]]></title>
-        <id>https://v.daum.net/v/20241102221659633</id>
-        <link href="https://v.daum.net/v/20241102221659633"/>
-        <updated>2024-11-02T15:23:30.899Z</updated>
-        <content type="html"><![CDATA[JIBS]]></content>
     </entry>
 </feed>
