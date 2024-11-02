@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-11-02T02:52:22.725Z</updated>
+    <updated>2024-11-02T03:27:21.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플, 수조원 들여 '폭풍 인수' 나섰다]]></title>
+        <id>https://v.daum.net/v/20241102094642428</id>
+        <link href="https://v.daum.net/v/20241102094642428"/>
+        <updated>2024-11-02T03:26:45.834Z</updated>
+        <content type="html"><![CDATA[한국경제TV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인도네시아, 아이폰16 이어 구글 픽셀폰도 판매 금지]]></title>
         <id>https://v.daum.net/v/20241102113016510</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241102103449005"/>
         <updated>2024-11-02T02:51:41.208Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소식 끊겼던 47살 ‘보이저 1호’···NASA, 43년 동안 사용않던 송신기로 교신 성공]]></title>
-        <id>https://v.daum.net/v/20241102095202474</id>
-        <link href="https://v.daum.net/v/20241102095202474"/>
-        <updated>2024-11-02T01:39:36.074Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
