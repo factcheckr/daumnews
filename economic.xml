@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-11-03T16:26:20.704Z</updated>
+    <updated>2024-11-03T17:19:34.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안전자산 금에 몰리는 투자자… 올해 거래대금 2조 육박]]></title>
+        <id>https://v.daum.net/v/20241104020906994</id>
+        <link href="https://v.daum.net/v/20241104020906994"/>
+        <updated>2024-11-03T17:18:13.598Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이회성 “美대선서 누가 되든 CFE 투자 계속될 것”]]></title>
         <id>https://v.daum.net/v/20241104010811739</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241104003131499"/>
         <updated>2024-11-03T16:24:59.991Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍천 양돈장 ASF 확진…4일까지 강원·경기 8곳 ‘일시이동중지’]]></title>
-        <id>https://v.daum.net/v/20241104001520379</id>
-        <link href="https://v.daum.net/v/20241104001520379"/>
-        <updated>2024-11-03T16:24:59.992Z</updated>
-        <content type="html"><![CDATA[농민신문]]></content>
     </entry>
 </feed>
