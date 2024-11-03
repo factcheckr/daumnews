@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-11-03T18:30:09.339Z</updated>
+    <updated>2024-11-03T19:19:00.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반팔 꺼냈는데… 5일부터 갑자기 패딩]]></title>
+        <id>https://v.daum.net/v/20241103190552865</id>
+        <link href="https://v.daum.net/v/20241103190552865"/>
+        <updated>2024-11-03T19:18:04.966Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국극, 이렇게 힙했어?  MZ도 빠져든 ‘정년이’]]></title>
         <id>https://v.daum.net/v/20241104000204110</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241104000014044"/>
         <updated>2024-11-03T15:21:45.316Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["단순하게 살래요"…심플렉스 가전 인기]]></title>
-        <id>https://v.daum.net/v/20241103142514960</id>
-        <link href="https://v.daum.net/v/20241103142514960"/>
-        <updated>2024-11-03T15:21:45.321Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
