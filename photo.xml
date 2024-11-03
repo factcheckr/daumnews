@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-11-03T03:34:03.042Z</updated>
+    <updated>2024-11-03T04:26:37.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 오네 슈퍼레이스, 레이싱 서킷을 가득 채운 관람객들 [포토뉴스]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5840500/Y8t1vrqyCr</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5840500/Y8t1vrqyCr"/>
+        <updated>2024-11-03T04:26:15.825Z</updated>
+        <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은하수와 쯔진산-아틀라스 혜성 관측하는 사람들]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5996982/612BipaV9D</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5997703/8QrJjW6FBE"/>
         <updated>2024-11-01T10:25:04.997Z</updated>
         <content type="html"><![CDATA[러시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쓰나미 같던 홍수...복구에 막막]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5999351/U6zD54sdHl</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5999351/U6zD54sdHl"/>
-        <updated>2024-11-01T10:25:04.998Z</updated>
-        <content type="html"><![CDATA[지구촌 오늘]]></content>
     </entry>
 </feed>
