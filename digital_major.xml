@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-11-03T20:24:00.537Z</updated>
+    <updated>2024-11-03T21:23:03.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[행안부, 디지털 네이션스 장관회의 참가…"개도국 DX 전략 공유"]]></title>
+        <id>https://v.daum.net/v/20241103184421628</id>
+        <link href="https://v.daum.net/v/20241103184421628"/>
+        <updated>2024-11-03T21:22:29.370Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태양 비밀 푼다… 천문연·NASA '코로나그래프' 망원경 5일 발사]]></title>
         <id>https://v.daum.net/v/20241103170613950</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241103133601054"/>
         <updated>2024-11-03T08:25:34.728Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['통화녹취'에 대한 에이닷과 애플의 태도[김현아의 IT세상읽기]]]></title>
-        <id>https://v.daum.net/v/20241103130140574</id>
-        <link href="https://v.daum.net/v/20241103130140574"/>
-        <updated>2024-11-03T07:20:42.440Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
