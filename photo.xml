@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-11-03T13:25:54.543Z</updated>
+    <updated>2024-11-03T14:23:04.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[열기를 떠나 휴식]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5996992/0fCxBpaVOM</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5996992/0fCxBpaVOM"/>
+        <updated>2024-11-03T14:22:38.488Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“수능 대박 응원합니다”]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5898259/0ozzVqkPUD</id>
@@ -32,6 +39,13 @@
         <link href="https://gallery.v.daum.net/p/viewer/5840500/qR3MAVsdCg"/>
         <updated>2024-11-03T08:25:43.047Z</updated>
         <content type="html"><![CDATA[포토뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['계절 급변' 추위 앞두고 제주 찾은 겨울 철새 원앙[뉴시스 앵글]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/1137876/77ESORyj2f</id>
+        <link href="https://gallery.v.daum.net/p/viewer/1137876/77ESORyj2f"/>
+        <updated>2024-11-03T14:22:38.498Z</updated>
+        <content type="html"><![CDATA[뉴시스 앵글]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빨갛게 물든 북한산 가을 단풍]]></title>
@@ -130,19 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5985942/ZHT7R7NftE"/>
         <updated>2024-11-01T20:29:20.115Z</updated>
         <content type="html"><![CDATA[오늘의 1면 사진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멀리서 만난 반가운 로고]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5998024/ywKZc2wMMo</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5998024/ywKZc2wMMo"/>
-        <updated>2024-11-01T16:27:32.537Z</updated>
-        <content type="html"><![CDATA[포토 카페]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑도 골인[고양이 눈]]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5996992/8hsTjGQ0Is</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5996992/8hsTjGQ0Is"/>
-        <updated>2024-11-01T14:21:28.350Z</updated>
-        <content type="html"><![CDATA[고양이 눈]]></content>
     </entry>
 </feed>
