@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-11-04T20:25:52.004Z</updated>
+    <updated>2024-11-04T21:21:32.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[말뿐인 정의에 지쳤나… ‘악한 영웅’에 빠진 2030]]></title>
+        <id>https://v.daum.net/v/20241105003620277</id>
+        <link href="https://v.daum.net/v/20241105003620277"/>
+        <updated>2024-11-04T21:20:29.241Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폭풍우 같은 30분 독백… 객석의 숨통을 옥죄다]]></title>
         <id>https://v.daum.net/v/20241105030658903</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241104234154762"/>
         <updated>2024-11-04T17:21:23.061Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이연복 셰프 "'흑백요리사' 섭외 왔지만 거절했다, 시즌2는…"]]></title>
-        <id>https://v.daum.net/v/20241105005829406</id>
-        <link href="https://v.daum.net/v/20241105005829406"/>
-        <updated>2024-11-04T16:27:40.845Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
