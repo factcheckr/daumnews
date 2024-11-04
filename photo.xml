@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-11-04T13:32:11.061Z</updated>
+    <updated>2024-11-04T14:24:17.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내 안에 열쇠 있다]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5996992/VJOaNC2XmJ</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5996992/VJOaNC2XmJ"/>
+        <updated>2024-11-04T14:23:51.186Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이마트에 ‘테슬라 팝업스토어’[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/uQWwgOKGTv</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5611920/6pq4kxvaU0"/>
         <updated>2024-11-04T04:27:30.273Z</updated>
         <content type="html"><![CDATA[이상섭의 포토가게]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스라엘 공습 받아 연기 기둥 치솟는 레바논 동부]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5994228/BzfdoVsdzg</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5994228/BzfdoVsdzg"/>
-        <updated>2024-11-04T07:22:53.121Z</updated>
-        <content type="html"><![CDATA[레바논]]></content>
     </entry>
 </feed>
