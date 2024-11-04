@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-11-04T12:45:18.270Z</updated>
+    <updated>2024-11-04T13:32:11.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 존 니덤 라이엇 사장 "롤 위기설 인정 못 해…여전히 인기 많다"]]></title>
+        <id>https://v.daum.net/v/20241104170147340</id>
+        <link href="https://v.daum.net/v/20241104170147340"/>
+        <updated>2024-11-04T13:31:27.151Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[건국대 모빌리티인문학 연구원 학술지 ‘Mobility Humanities’ 스코퍼스 등재지 선정]]></title>
         <id>https://v.daum.net/v/20241104200248588</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241104185744580"/>
         <updated>2024-11-04T10:25:29.619Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유영상 SKT 대표 "AI 데이터센터 내년이나 내후년부터 매출 나올 것"]]></title>
-        <id>https://v.daum.net/v/20241104181621856</id>
-        <link href="https://v.daum.net/v/20241104181621856"/>
-        <updated>2024-11-04T09:26:49.206Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>
