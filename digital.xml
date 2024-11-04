@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-11-04T19:21:32.475Z</updated>
+    <updated>2024-11-04T20:25:52.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI 빅4와 손 잡은 SK…전례 없는 '기술 동맹']]></title>
+        <id>https://v.daum.net/v/20241105050300409</id>
+        <link href="https://v.daum.net/v/20241105050300409"/>
+        <updated>2024-11-04T20:25:12.005Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국도 ‘달 상륙작전’ 본격 시동… 2032년 발사 목표]]></title>
         <id>https://v.daum.net/v/20241105000743074</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241104224743397"/>
         <updated>2024-11-04T14:23:35.386Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 존 니덤 라이엇 사장 "롤 위기설 인정 못 해…여전히 인기 많다"]]></title>
-        <id>https://v.daum.net/v/20241104170147340</id>
-        <link href="https://v.daum.net/v/20241104170147340"/>
-        <updated>2024-11-04T13:31:27.151Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
