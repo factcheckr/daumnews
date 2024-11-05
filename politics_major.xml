@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/politics</id>
     <title>다음뉴스 ─ 정치 ─ 메이저</title>
-    <updated>2024-11-05T15:24:22.133Z</updated>
+    <updated>2024-11-05T16:29:18.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20241106000145573"/>
         <updated>2024-11-05T15:22:57.579Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[악화된 여론에 직접 나선 尹…반전 기회 만들까]]></title>
+        <id>https://v.daum.net/v/20241106000022529</id>
+        <link href="https://v.daum.net/v/20241106000022529"/>
+        <updated>2024-11-05T16:27:50.677Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["검찰, 명태균 소환 앞두고 계좌추적팀 파견? 코미디 하나"]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241105220304470"/>
         <updated>2024-11-05T14:20:17.610Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주, 윤 대국민담화 앞두고 선제적 공세…"김건희 하청 거짓말쇼"]]></title>
-        <id>https://v.daum.net/v/20241105215225306</id>
-        <link href="https://v.daum.net/v/20241105215225306"/>
-        <updated>2024-11-05T14:20:17.610Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
