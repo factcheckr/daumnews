@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-11-05T14:21:41.858Z</updated>
+    <updated>2024-11-05T15:24:22.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[업무 카톡으로 스트레스 받는다면? - 업무용 채팅방 분리하기]]></title>
+        <id>https://v.daum.net/v/20241105194800598</id>
+        <link href="https://v.daum.net/v/20241105194800598"/>
+        <updated>2024-11-05T15:23:53.609Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[맞춤 광고에 개인정보 몰래 쓴 메타, 또 216억 과징금]]></title>
         <id>https://v.daum.net/v/20241105194226470</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241105172651990"/>
         <updated>2024-11-05T09:30:36.926Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[멋진 신세계, AI]③"AI가 생성한 데이터를 AI가 학습…챗봇 5개 중 2개 오류"]]></title>
-        <id>https://v.daum.net/v/20241105172124807</id>
-        <link href="https://v.daum.net/v/20241105172124807"/>
-        <updated>2024-11-05T09:30:36.928Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
