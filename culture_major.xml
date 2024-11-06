@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-11-06T17:20:26.702Z</updated>
+    <updated>2024-11-06T18:29:54.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[당뇨 합병증이 망막 침범땐 실명인데... 환자 30%만 망막 검진]]></title>
+        <id>https://v.daum.net/v/20241106204223562</id>
+        <link href="https://v.daum.net/v/20241106204223562"/>
+        <updated>2024-11-06T18:29:12.791Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추위 많이 타는 게 건강 적신호?...놓치기 쉬운 4가지 질환]]></title>
         <id>https://v.daum.net/v/20241106210003800</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241106182656743"/>
         <updated>2024-11-06T11:19:11.841Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“노란색 바다에 황금빛 비가 내린다” [전승훈 기자의 아트로드]]]></title>
-        <id>https://v.daum.net/v/20241106172619420</id>
-        <link href="https://v.daum.net/v/20241106172619420"/>
-        <updated>2024-11-06T11:19:11.842Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
