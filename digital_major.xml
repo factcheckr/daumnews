@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-11-06T03:25:46.308Z</updated>
+    <updated>2024-11-06T04:27:54.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[금융보안원 '10대 이슈' 발표…디지털 금융 변화 속 보안 전략 '재편']]></title>
-        <id>https://v.daum.net/v/20241106111054005</id>
-        <link href="https://v.daum.net/v/20241106111054005"/>
-        <updated>2024-11-06T03:25:16.568Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[스마트 팩토리 최전선에 선 '로봇'…현대차·두산로보 등 개발 박차]]></title>
         <id>https://v.daum.net/v/20241106110952955</id>
@@ -74,5 +67,12 @@
         <link href="https://v.daum.net/v/20241106082420949"/>
         <updated>2024-11-06T01:39:06.901Z</updated>
         <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNA 빅데이터 분석으로 선형동물 4종 새로 확인]]></title>
+        <id>https://v.daum.net/v/20241106060026004</id>
+        <link href="https://v.daum.net/v/20241106060026004"/>
+        <updated>2024-11-06T04:27:26.424Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
