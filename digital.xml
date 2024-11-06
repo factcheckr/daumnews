@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-11-06T19:19:21.688Z</updated>
+    <updated>2024-11-06T20:24:28.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI 'G3'가 목표라면서…'돈' 필요한데 '기구'만 잔뜩 설립[생생확대경]]]></title>
+        <id>https://v.daum.net/v/20241107050114044</id>
+        <link href="https://v.daum.net/v/20241107050114044"/>
+        <updated>2024-11-06T20:23:51.346Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[촉각으로 세상 본다… 시각 대체할 웨어러블 기기 개발]]></title>
         <id>https://v.daum.net/v/20241107010015068</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241107003527905"/>
         <updated>2024-11-06T16:27:27.056Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포티투마루, 대한민국 1호 LLM 신뢰성 인증 획득]]></title>
-        <id>https://v.daum.net/v/20241106233929317</id>
-        <link href="https://v.daum.net/v/20241106233929317"/>
-        <updated>2024-11-06T15:23:30.415Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
