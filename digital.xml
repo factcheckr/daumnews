@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-11-06T22:23:03.059Z</updated>
+    <updated>2024-11-06T23:21:37.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰]돈 들여 웹 드라마 만든 이 회사의 진심..."AI 기술, 고객에 쉽게 알리고 싶었죠" [New & Good]]]></title>
+        <id>https://v.daum.net/v/20241107070143898</id>
+        <link href="https://v.daum.net/v/20241107070143898"/>
+        <updated>2024-11-06T23:21:01.890Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폐수 속 미세플라스틱에 병원균 숨는다]]></title>
         <id>https://v.daum.net/v/20241107050012966</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[동아사이언스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘AI공무원’이 고독사 막고, 대중교통 노선도 바꾼다]]></title>
+        <title type="html"><![CDATA[고독사 막고 통역·복지 상담까지…‘AI 공무원’ 못하는 게 뭐니?]]></title>
         <id>https://v.daum.net/v/20241107070502970</id>
         <link href="https://v.daum.net/v/20241107070502970"/>
         <updated>2024-11-06T22:22:31.409Z</updated>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241107062502254"/>
         <updated>2024-11-06T22:22:31.415Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘롤 게임’ 즐긴다는 손흥민, 페이커 만나]]></title>
-        <id>https://v.daum.net/v/20241107030406428</id>
-        <link href="https://v.daum.net/v/20241107030406428"/>
-        <updated>2024-11-06T21:21:51.827Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
