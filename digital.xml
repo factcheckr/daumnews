@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-11-07T09:23:47.266Z</updated>
+    <updated>2024-11-07T10:23:29.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배건일 보드게임 작가 "한국 근대화를 담은 '1899 대한'으로 철도와 주식 둘 다 경험하세요"]]></title>
+        <id>https://v.daum.net/v/20241107180608535</id>
+        <link href="https://v.daum.net/v/20241107180608535"/>
+        <updated>2024-11-07T10:22:53.137Z</updated>
+        <content type="html"><![CDATA[게임동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다이아몬드 가루 뿌려 지구 온도 낮춘다고?…황당한 온난화 대응법]]></title>
+        <id>https://v.daum.net/v/20241107182009854</id>
+        <link href="https://v.daum.net/v/20241107182009854"/>
+        <updated>2024-11-07T10:22:53.139Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[던파, '찰랑이는 생명수' 버그 악용 유저 초고속 제재]]></title>
         <id>https://v.daum.net/v/20241107174743953</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20241107174143733"/>
         <updated>2024-11-07T09:23:10.182Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SWC2024 월드 파이널 D-2, 12명의 챔피언 도전자 각오]]></title>
-        <id>https://v.daum.net/v/20241107173943675</id>
-        <link href="https://v.daum.net/v/20241107173943675"/>
-        <updated>2024-11-07T09:23:10.183Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[트럼프노믹스 2.0] 망중립성 완화·망 공정기여 논의 탄력 전망]]></title>
-        <id>https://v.daum.net/v/20241107151251385</id>
-        <link href="https://v.daum.net/v/20241107151251385"/>
-        <updated>2024-11-07T09:23:10.184Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
     </entry>
 </feed>
