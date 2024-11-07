@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-11-07T17:19:35.061Z</updated>
+    <updated>2024-11-07T18:29:28.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 초강력 스팸 대책…“수익 몰수·차단시스템 구축”]]></title>
+        <id>https://v.daum.net/v/20241107215134419</id>
+        <link href="https://v.daum.net/v/20241107215134419"/>
+        <updated>2024-11-07T18:28:59.277Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KBC 시청자위, 지역 현안 관련 균형있는 입장 전달 주문]]></title>
         <id>https://v.daum.net/v/20241107212609134</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241107180021354"/>
         <updated>2024-11-07T11:20:08.312Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여명] 다음의 '후퇴' 그리고 저널리즘의 추억]]></title>
-        <id>https://v.daum.net/v/20241107174143733</id>
-        <link href="https://v.daum.net/v/20241107174143733"/>
-        <updated>2024-11-07T11:20:08.313Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>

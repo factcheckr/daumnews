@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-11-07T17:19:35.060Z</updated>
+    <updated>2024-11-07T18:29:28.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“전화 대신 받고 보이스피싱 탐지”… LGU+ ‘익시오’, AI 비서 도전장]]></title>
+        <id>https://v.daum.net/v/20241108030400402</id>
+        <link href="https://v.daum.net/v/20241108030400402"/>
+        <updated>2024-11-07T18:28:52.121Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전용기로 여행하는 억만장자, 남들 500배 넘는 이산화탄소 뿜는다]]></title>
         <id>https://v.daum.net/v/20241108010157054</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241107200218649"/>
         <updated>2024-11-07T13:26:20.940Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 초강력 스팸 대책…“수익 몰수·차단시스템 구축”]]></title>
-        <id>https://v.daum.net/v/20241107215134419</id>
-        <link href="https://v.daum.net/v/20241107215134419"/>
-        <updated>2024-11-07T13:26:20.941Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
