@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메인뉴스</title>
-    <updated>2024-11-08T18:29:21.280Z</updated>
+    <updated>2024-11-08T19:17:53.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["젤렌스키, 트럼프와 통화 후 안심…머스크도 통화에 참여"]]></title>
+        <id>https://v.daum.net/v/20241109032545494</id>
+        <link href="https://v.daum.net/v/20241109032545494"/>
+        <updated>2024-11-08T19:16:50.332Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[호주 콴타스항공 여객기 이륙 직후 엔진에서 '쾅'...비상 착륙]]></title>
         <id>https://v.daum.net/v/20241109032519492</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241109024455444"/>
         <updated>2024-11-08T18:28:24.629Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[트럼프 재집권] "머스크가 최대 승자"…테슬라 시총 1조달러 돌파]]></title>
-        <id>https://v.daum.net/v/20241109022947439</id>
-        <link href="https://v.daum.net/v/20241109022947439"/>
-        <updated>2024-11-08T18:28:24.630Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
