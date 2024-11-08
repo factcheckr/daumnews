@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-11-08T13:27:32.707Z</updated>
+    <updated>2024-11-08T14:20:36.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나팔 부는 노인]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5996992/QNPf3cphEp</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5996992/QNPf3cphEp"/>
+        <updated>2024-11-08T14:20:17.187Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네덜란드서 이스라엘 향한 폭력 사태]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5029619/qE98YiHE0M</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5999206/9tljiBEQBv"/>
         <updated>2024-11-08T01:39:35.006Z</updated>
         <content type="html"><![CDATA[쿠바]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불타버린 가옥 잔해 살피는 피해 주민]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/5996850/Kf2AUlf5Bx</id>
-        <link href="https://gallery.v.daum.net/p/viewer/5996850/Kf2AUlf5Bx"/>
-        <updated>2024-11-08T01:39:35.007Z</updated>
-        <content type="html"><![CDATA[미국]]></content>
     </entry>
 </feed>
