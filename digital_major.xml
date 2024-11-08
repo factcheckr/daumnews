@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-11-08T09:23:06.674Z</updated>
+    <updated>2024-11-08T10:23:10.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI링고-시스트란 "리걸 번역 AI로 법률 서비스 정확성 강화한다"]]></title>
+        <id>https://v.daum.net/v/20241108155944544</id>
+        <link href="https://v.daum.net/v/20241108155944544"/>
+        <updated>2024-11-08T10:22:40.320Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가능성과 위험성…‘생성형 AI’ 법적 대책을 모색한다]]></title>
+        <id>https://v.daum.net/v/20241108160029611</id>
+        <link href="https://v.daum.net/v/20241108160029611"/>
+        <updated>2024-11-08T10:22:40.321Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['돈 까먹는 AI' 네이버 클라우드 부진 지속]]></title>
         <id>https://v.daum.net/v/20241108155644417</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20241108141201412"/>
         <updated>2024-11-08T07:20:15.396Z</updated>
         <content type="html"><![CDATA[SBS Biz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘가을의’ 채식주의자와 AI 할루시네에션 [AI와 함께하는 세상]]]></title>
-        <id>https://v.daum.net/v/20241108140615200</id>
-        <link href="https://v.daum.net/v/20241108140615200"/>
-        <updated>2024-11-08T06:30:21.724Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['생존 위태' IPTV, OTT 공세에 'AI 셋톱박스'로 맞선다]]></title>
-        <id>https://v.daum.net/v/20241108140228066</id>
-        <link href="https://v.daum.net/v/20241108140228066"/>
-        <updated>2024-11-08T06:30:21.726Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
