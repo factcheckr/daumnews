@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-11-08T16:33:49.253Z</updated>
+    <updated>2024-11-08T17:20:09.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[복지부도 우주의학 R&D 추진…"우주청이 컨트롤타워 돼야"]]></title>
+        <id>https://v.daum.net/v/20241108174610790</id>
+        <link href="https://v.daum.net/v/20241108174610790"/>
+        <updated>2024-11-08T17:19:43.751Z</updated>
+        <content type="html"><![CDATA[동아사이언스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Z세대, 요즘 뭐 해?”…‘APT.’ 열풍 & 제2의 포켓몬GO ‘피크민 블룸’]]></title>
         <id>https://v.daum.net/v/20241108160301778</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241108151046719"/>
         <updated>2024-11-08T07:20:15.391Z</updated>
         <content type="html"><![CDATA[대구MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영상] 삼성 첫 슬림형 폴더블폰, 화면 주름 봤더니]]></title>
-        <id>https://v.daum.net/v/20241108143248168</id>
-        <link href="https://v.daum.net/v/20241108143248168"/>
-        <updated>2024-11-08T07:20:15.391Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
