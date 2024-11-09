@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/foreign</id>
     <title>다음뉴스 ─ 국제 ─ 메이저</title>
-    <updated>2024-11-09T17:19:16.080Z</updated>
+    <updated>2024-11-09T18:27:01.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,27 @@
         <link href="https://v.daum.net/v/20241110013603654"/>
         <updated>2024-11-09T17:17:40.794Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU 집행위원장 "트럼프에 미국산 LNG 공급 확대 제안"]]></title>
+        <id>https://v.daum.net/v/20241110011609614</id>
+        <link href="https://v.daum.net/v/20241110011609614"/>
+        <updated>2024-11-09T18:26:10.479Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시아 "푸틴·트럼프 통화 계획 없다…美 우크라전 제안 경청"]]></title>
+        <id>https://v.daum.net/v/20241110004828497</id>
+        <link href="https://v.daum.net/v/20241110004828497"/>
+        <updated>2024-11-09T18:26:10.480Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[트럼프 재집권] 트럼프, 이해충돌방지 계획 내지 않아 인수 절차 지연]]></title>
+        <id>https://v.daum.net/v/20241110004250488</id>
+        <link href="https://v.daum.net/v/20241110004250488"/>
+        <updated>2024-11-09T18:26:10.481Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[돈세탁하듯 반도체 돌렸다...화웨이 AI 칩서 나온 TSMC 7나노]]></title>
@@ -53,26 +74,5 @@
         <link href="https://v.daum.net/v/20241109222637546"/>
         <updated>2024-11-09T15:22:00.390Z</updated>
         <content type="html"><![CDATA[JIBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한 함경북도서 규모 3.1 지진…핵실험장과 거리는?]]></title>
-        <id>https://v.daum.net/v/20241109215405294</id>
-        <link href="https://v.daum.net/v/20241109215405294"/>
-        <updated>2024-11-09T15:22:00.391Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트럼프 효과' 비트코인, 다시 사상 최고가...7만7천 달러 돌파]]></title>
-        <id>https://v.daum.net/v/20241109221827492</id>
-        <link href="https://v.daum.net/v/20241109221827492"/>
-        <updated>2024-11-09T15:22:00.392Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["트럼프, 파리 기후 협약 다시 탈퇴할 계획"]]></title>
-        <id>https://v.daum.net/v/20241109221619469</id>
-        <link href="https://v.daum.net/v/20241109221619469"/>
-        <updated>2024-11-09T14:18:56.599Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
