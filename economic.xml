@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-11-09T08:26:29.334Z</updated>
+    <updated>2024-11-09T09:20:51.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[휘발유 “곧 1,700원대”.. 유류세 축소·국제 유가 급등, 서민 부담만 ‘이중고’]]></title>
+        <id>https://v.daum.net/v/20241109174733967</id>
+        <link href="https://v.daum.net/v/20241109174733967"/>
+        <updated>2024-11-09T09:19:32.184Z</updated>
+        <content type="html"><![CDATA[JIBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테슬라 시총 1조 돌파···머스크 베팅 통했다]]></title>
+        <id>https://v.daum.net/v/20241109174450923</id>
+        <link href="https://v.daum.net/v/20241109174450923"/>
+        <updated>2024-11-09T09:19:32.185Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“머스크 형님, 감사”…트럼프 귀환에 서학개미 ‘방긋’, 사흘간 폭등한 이 녀석]]></title>
         <id>https://v.daum.net/v/20241109171200379</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20241109164056949"/>
         <updated>2024-11-09T08:25:10.406Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임대주택 말소 뒤 거주주택 팔았더니…비과세 혜택 사라져[세금GO]]]></title>
-        <id>https://v.daum.net/v/20241109163505881</id>
-        <link href="https://v.daum.net/v/20241109163505881"/>
-        <updated>2024-11-09T08:25:10.407Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["식용유값 오르나"…지난달 국제 유지류값 7.3% 급등[食세계]]]></title>
-        <id>https://v.daum.net/v/20241109162954841</id>
-        <link href="https://v.daum.net/v/20241109162954841"/>
-        <updated>2024-11-09T08:25:10.408Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
