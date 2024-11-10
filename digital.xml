@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-11-10T20:23:09.632Z</updated>
+    <updated>2024-11-10T21:19:34.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버·구글 ‘이제 안녕’···광고 안 낚이는 AI가 대신 찾아준다[김상범의 실리콘리포트]]]></title>
+        <id>https://v.daum.net/v/20241111060002322</id>
+        <link href="https://v.daum.net/v/20241111060002322"/>
+        <updated>2024-11-10T21:18:58.661Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알림] 20일 금융AI와 보안 구축전략 세미나]]></title>
         <id>https://v.daum.net/v/20241111050147866</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241110161535382"/>
         <updated>2024-11-10T09:20:49.658Z</updated>
         <content type="html"><![CDATA[코메디닷컴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["인간 넘어서는 AI, 경제적 가치 1경달러…강력한 만큼 위험"]]></title>
-        <id>https://v.daum.net/v/20241110175307276</id>
-        <link href="https://v.daum.net/v/20241110175307276"/>
-        <updated>2024-11-10T09:20:49.659Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
