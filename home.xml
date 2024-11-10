@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/</id>
     <title>다음뉴스 ─ 홈</title>
-    <updated>2024-11-10T18:27:12.526Z</updated>
+    <updated>2024-11-10T19:18:53.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]퓰너 “한미, 전술핵 재배치 등 모든 대북옵션 논의해야”]]></title>
+        <id>https://v.daum.net/v/20241111030522334</id>
+        <link href="https://v.daum.net/v/20241111030522334"/>
+        <updated>2024-11-10T19:16:57.677Z</updated>
+        <content type="html"><![CDATA[국제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“트럼프 통상압박 대비” 美LNG-원유 수입 확대 검토]]></title>
         <id>https://v.daum.net/v/20241111030508328</id>
@@ -53,20 +60,6 @@
         <link href="https://v.daum.net/v/20241111030728361"/>
         <updated>2024-11-10T18:25:31.701Z</updated>
         <content type="html"><![CDATA[정치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[트럼프 재집권] 측근들 "정적리스트 없다…최우선 과제는 통합"]]></title>
-        <id>https://v.daum.net/v/20241111024318195</id>
-        <link href="https://v.daum.net/v/20241111024318195"/>
-        <updated>2024-11-10T18:25:31.704Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[암스테르담 '이 축구팬 폭력사태' 여진…팔 지지 시위대 체포]]></title>
-        <id>https://v.daum.net/v/20241111013546008</id>
-        <link href="https://v.daum.net/v/20241111013546008"/>
-        <updated>2024-11-10T17:16:32.252Z</updated>
-        <content type="html"><![CDATA[국제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[오늘 날씨] 전국 대체로 맑음, 강원 영동 가끔 비...수능 당일 예기치 못한 복통 예방법]]></title>
@@ -143,6 +136,13 @@
         <id>https://v.daum.net/v/20241111000620468</id>
         <link href="https://v.daum.net/v/20241111000620468"/>
         <updated>2024-11-10T15:19:49.590Z</updated>
+        <content type="html"><![CDATA[속보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트럼프 “재선 시 도복 입고 연설” 약속 뒤엔 강릉 출신 최응길 있었다]]></title>
+        <id>https://v.daum.net/v/20241111000622470</id>
+        <link href="https://v.daum.net/v/20241111000622470"/>
+        <updated>2024-11-10T19:16:57.705Z</updated>
         <content type="html"><![CDATA[속보]]></content>
     </entry>
 </feed>
