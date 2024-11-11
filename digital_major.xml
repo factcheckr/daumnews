@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-11-11T19:17:44.175Z</updated>
+    <updated>2024-11-11T20:23:46.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://v.daum.net/v/20241112030525582"/>
         <updated>2024-11-11T18:28:48.300Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네카오, AI 경쟁 본격화…주도권 잡기 '분주']]></title>
+        <id>https://v.daum.net/v/20241111201050431</id>
+        <link href="https://v.daum.net/v/20241111201050431"/>
+        <updated>2024-11-11T20:23:19.343Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버 "스피치X 고도화 중...내년 2분기 공개"]]></title>
+        <id>https://v.daum.net/v/20241111212912468</id>
+        <link href="https://v.daum.net/v/20241111212912468"/>
+        <updated>2024-11-11T20:23:19.345Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ETRI부설 AI안전연구소장에 김명주 서울여대 교수…11일  취임]]></title>
@@ -25,13 +39,6 @@
         <link href="https://v.daum.net/v/20241111112613433"/>
         <updated>2024-11-11T16:28:31.444Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 AI 검색으로 빅테크와 '맞짱']]></title>
-        <id>https://v.daum.net/v/20241111184002903</id>
-        <link href="https://v.daum.net/v/20241111184002903"/>
-        <updated>2024-11-11T15:22:47.548Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['국산 네트워크 장비 인증' 어떻게 쓰이나요]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241111173502964"/>
         <updated>2024-11-11T10:24:15.166Z</updated>
         <content type="html"><![CDATA[하이닥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["볼리비아 ICT 지원"···NIPA, 'K-랩' 개소]]></title>
-        <id>https://v.daum.net/v/20241111172132563</id>
-        <link href="https://v.daum.net/v/20241111172132563"/>
-        <updated>2024-11-11T10:24:15.167Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
