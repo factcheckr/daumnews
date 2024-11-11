@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-11-11T18:29:12.785Z</updated>
+    <updated>2024-11-11T19:17:44.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오펜하이머 "S&P500, 연말 6,200까지 오를 것"]]></title>
+        <id>https://v.daum.net/v/20241112035100692</id>
+        <link href="https://v.daum.net/v/20241112035100692"/>
+        <updated>2024-11-11T19:16:24.462Z</updated>
+        <content type="html"><![CDATA[SBS Biz]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“불확실성 해소돼 반등” vs “수출주 타격에 하락”… 코스피 앞날은]]></title>
         <id>https://v.daum.net/v/20241112031811642</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241112022105426"/>
         <updated>2024-11-11T18:28:07.301Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뒤늦게 받은 의료비 환급금, 가산세 안내도 된다]]></title>
-        <id>https://v.daum.net/v/20241112020511410</id>
-        <link href="https://v.daum.net/v/20241112020511410"/>
-        <updated>2024-11-11T17:18:37.475Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>

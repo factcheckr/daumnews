@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-11-11T18:29:12.763Z</updated>
+    <updated>2024-11-11T19:17:44.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘 날씨] 한낮 20도 안팎·일부 미세먼지 '나쁨'…유독 심한 가을 탈모, 예방하려면]]></title>
+        <id>https://v.daum.net/v/20241112033427674</id>
+        <link href="https://v.daum.net/v/20241112033427674"/>
+        <updated>2024-11-11T19:16:53.148Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[175cm에 82kg 남성, 비만일까… 건보 “기준 상향” 갑론을박]]></title>
         <id>https://v.daum.net/v/20241112030403543</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241112000029620"/>
         <updated>2024-11-11T15:22:26.873Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[항생제 내성균, 약 없이 치료 가능성 열어]]></title>
-        <id>https://v.daum.net/v/20241111223104012</id>
-        <link href="https://v.daum.net/v/20241111223104012"/>
-        <updated>2024-11-11T15:22:26.875Z</updated>
-        <content type="html"><![CDATA[코메디닷컴]]></content>
     </entry>
 </feed>

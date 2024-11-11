@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-11-11T18:29:12.773Z</updated>
+    <updated>2024-11-11T19:17:44.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://v.daum.net/v/20241112030504570"/>
         <updated>2024-11-11T18:28:13.225Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다우 4만4000 돌파...S&P500은 6000 넘어]]></title>
+        <id>https://v.daum.net/v/20241112022105426</id>
+        <link href="https://v.daum.net/v/20241112022105426"/>
+        <updated>2024-11-11T19:16:31.712Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뒤늦게 받은 의료비 환급금, 가산세 안내도 된다]]></title>
+        <id>https://v.daum.net/v/20241112020511410</id>
+        <link href="https://v.daum.net/v/20241112020511410"/>
+        <updated>2024-11-11T19:16:31.712Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 새 가이드 적용땐 DB손보·현대해상·KB손보 큰 타격]]></title>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20241112003543069"/>
         <updated>2024-11-11T17:18:43.844Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11월 상순 수출 17.8% 감소… 日평균 수출액 0.1%↓]]></title>
-        <id>https://v.daum.net/v/20241112003532065</id>
-        <link href="https://v.daum.net/v/20241112003532065"/>
-        <updated>2024-11-11T17:18:43.846Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문닫는 소상공인 코로나 때 수준…'폐업 지원' 예산 늘린다]]></title>
-        <id>https://v.daum.net/v/20241112000058630</id>
-        <link href="https://v.daum.net/v/20241112000058630"/>
-        <updated>2024-11-11T17:18:43.854Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
