@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-11-11T02:53:31.674Z</updated>
+    <updated>2024-11-11T03:27:31.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘체질량지수 25’ 뚱뚱한 거 아니다? 건보공단 “비만 기준 올려야”]]></title>
+        <id>https://v.daum.net/v/20241111120506958</id>
+        <link href="https://v.daum.net/v/20241111120506958"/>
+        <updated>2024-11-11T03:26:39.631Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다산박물관 특별전 '그림으로 다시 쓰는 자산어보']]></title>
         <id>https://v.daum.net/v/20241111114102097</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241111101157003"/>
         <updated>2024-11-11T02:52:39.248Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["어버버" 한다고? 4시간 반 넘기면 큰일…'뇌'의 경고]]></title>
-        <id>https://v.daum.net/v/20241111101945343</id>
-        <link href="https://v.daum.net/v/20241111101945343"/>
-        <updated>2024-11-11T02:52:39.252Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
