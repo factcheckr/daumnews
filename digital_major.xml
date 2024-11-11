@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-11-11T14:22:18.721Z</updated>
+    <updated>2024-11-11T15:23:16.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버 AI 검색으로 빅테크와 '맞짱']]></title>
+        <id>https://v.daum.net/v/20241111184002903</id>
+        <link href="https://v.daum.net/v/20241111184002903"/>
+        <updated>2024-11-11T15:22:47.548Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국산 네트워크 장비 인증' 어떻게 쓰이나요]]></title>
         <id>https://v.daum.net/v/20241111182248461</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241111170110779"/>
         <updated>2024-11-11T10:24:15.171Z</updated>
         <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람 피부로 충전하는 웨어러블 나올까]]></title>
-        <id>https://v.daum.net/v/20241111165355477</id>
-        <link href="https://v.daum.net/v/20241111165355477"/>
-        <updated>2024-11-11T09:24:14.002Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
