@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-11-13T13:28:54.988Z</updated>
+    <updated>2024-11-13T14:22:26.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마음 가는 대로 여행하는 법]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5996992/5vN65A8tD4</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5996992/5vN65A8tD4"/>
+        <updated>2024-11-13T14:22:04.501Z</updated>
+        <content type="html"><![CDATA[고양이 눈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우주정거장에 설치된 ‘태양 코로나그래프’[포토뉴스]]]></title>
         <id>https://gallery.v.daum.net/p/viewer/377110/VU5K85rRhA</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/5997006/WveBBHRuu8"/>
         <updated>2024-11-13T07:21:01.250Z</updated>
         <content type="html"><![CDATA[우크라이나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전태일 열사 54주기]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/6005123/WrYSQuj4wZ</id>
-        <link href="https://gallery.v.daum.net/p/viewer/6005123/WrYSQuj4wZ"/>
-        <updated>2024-11-13T07:21:01.250Z</updated>
-        <content type="html"><![CDATA[오마이포토]]></content>
     </entry>
 </feed>
