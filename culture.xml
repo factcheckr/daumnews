@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-11-14T20:25:03.307Z</updated>
+    <updated>2024-11-14T21:21:52.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세상엔 왜 슬픔과 이별이 많을까]]></title>
+        <id>https://v.daum.net/v/20241115050252814</id>
+        <link href="https://v.daum.net/v/20241115050252814"/>
+        <updated>2024-11-14T21:21:09.422Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[복지부 "비대면 진료시 '위고비' 오남용 없도록" 병원에 당부]]></title>
+        <id>https://v.daum.net/v/20241115060057455</id>
+        <link href="https://v.daum.net/v/20241115060057455"/>
+        <updated>2024-11-14T21:21:09.424Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[책&생각] 나치 사법체계가 이 시대 ‘법비’들에 관해 알려주는 것]]></title>
         <id>https://v.daum.net/v/20241115050521870</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20241115043152493"/>
         <updated>2024-11-14T20:24:11.848Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[And 책과 길] 나와 상관없는 기후변화?… 우리 몸과 뇌도 변화시킨다]]></title>
-        <id>https://v.daum.net/v/20241115041344357</id>
-        <link href="https://v.daum.net/v/20241115041344357"/>
-        <updated>2024-11-14T19:17:57.657Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[And 책과 길] 글로벌 경제·정치 패권 다툼, 그 실상 해부한다]]></title>
-        <id>https://v.daum.net/v/20241115040604342</id>
-        <link href="https://v.daum.net/v/20241115040604342"/>
-        <updated>2024-11-14T19:17:57.658Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
