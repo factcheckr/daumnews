@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메이저</title>
-    <updated>2024-11-14T16:29:07.659Z</updated>
+    <updated>2024-11-14T17:21:12.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://v.daum.net/v/20241115010358568"/>
         <updated>2024-11-14T16:27:54.614Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘K라면’ 너무 잘 팔려서 걱정… 트럼프 관세 폭탄 우려]]></title>
+        <id>https://v.daum.net/v/20241115000743959</id>
+        <link href="https://v.daum.net/v/20241115000743959"/>
+        <updated>2024-11-14T17:20:10.190Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사면초가 K-동박, 전기차 캐즘 파고에 공장가동률 추락]]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241115000257854"/>
         <updated>2024-11-14T15:23:31.181Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김동선號 한화갤러리아, 2분기 연속 적자…리뉴얼 효과는 '아직']]></title>
-        <id>https://v.daum.net/v/20241115000309874</id>
-        <link href="https://v.daum.net/v/20241115000309874"/>
-        <updated>2024-11-14T15:23:31.183Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
