@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메이저</title>
-    <updated>2024-11-15T10:25:27.153Z</updated>
+    <updated>2024-11-15T11:20:07.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디지털 혁신 한눈에… '2024 대한민국 정부 박람회' 막 내려]]></title>
+        <id>https://v.daum.net/v/20241115173223981</id>
+        <link href="https://v.daum.net/v/20241115173223981"/>
+        <updated>2024-11-15T11:19:38.084Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김용하 PD "게임은 아직 AI가 주도하기 어려운 영역"]]></title>
         <id>https://v.daum.net/v/20241115172150703</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241115154143627"/>
         <updated>2024-11-15T08:28:43.678Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“40대, 매일 2시간 40분씩 걸으면 5년 더 산다”]]></title>
-        <id>https://v.daum.net/v/20241115145455886</id>
-        <link href="https://v.daum.net/v/20241115145455886"/>
-        <updated>2024-11-15T08:28:43.682Z</updated>
-        <content type="html"><![CDATA[농민신문]]></content>
     </entry>
 </feed>
