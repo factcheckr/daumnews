@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-11-15T09:24:42.410Z</updated>
+    <updated>2024-11-15T10:25:27.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[생성 AI 길라잡이] 8종의 AI 모델 골라 쓰는 ‘SKT 에이닷’ 웹 버전]]></title>
+        <id>https://v.daum.net/v/20241115182703430</id>
+        <link href="https://v.daum.net/v/20241115182703430"/>
+        <updated>2024-11-15T10:24:54.569Z</updated>
+        <content type="html"><![CDATA[IT동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유료방송 재허가도 동맥경화…멈춘 방통위, 누구 책임인가]]></title>
+        <id>https://v.daum.net/v/20241115183336539</id>
+        <link href="https://v.daum.net/v/20241115183336539"/>
+        <updated>2024-11-15T10:24:54.570Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[리뷰] 모니터링 헤드폰의 새로운 기준점 제시, 소니 MDR-M1]]></title>
         <id>https://v.daum.net/v/20241115170906310</id>
@@ -32,19 +46,5 @@
         <link href="https://v.daum.net/v/20241115173223981"/>
         <updated>2024-11-15T09:24:05.730Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김용하 PD "게임은 아직 AI가 주도하기 어려운 영역"]]></title>
-        <id>https://v.daum.net/v/20241115172150703</id>
-        <link href="https://v.daum.net/v/20241115172150703"/>
-        <updated>2024-11-15T08:28:36.421Z</updated>
-        <content type="html"><![CDATA[게임톡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[델 테크놀로지스 "인텔과 손잡고 통신사 AI 혁신 선도한다"]]></title>
-        <id>https://v.daum.net/v/20241115164925777</id>
-        <link href="https://v.daum.net/v/20241115164925777"/>
-        <updated>2024-11-15T08:28:36.424Z</updated>
-        <content type="html"><![CDATA[지디넷코리아]]></content>
     </entry>
 </feed>
