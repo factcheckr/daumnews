@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-11-16T13:27:21.173Z</updated>
+    <updated>2024-11-16T14:20:11.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[푸코의 자기수양]]></title>
+        <id>https://v.daum.net/v/20241116200103843</id>
+        <link href="https://v.daum.net/v/20241116200103843"/>
+        <updated>2024-11-16T14:19:27.678Z</updated>
+        <content type="html"><![CDATA[프레시안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["러시아-우크라이나 전쟁, 우리는 제대로 공정하게 보고 있는가"]]></title>
         <id>https://v.daum.net/v/20241116194013653</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241116173706171"/>
         <updated>2024-11-16T10:22:01.983Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대장암 위험을 낮추는 최적의 운동 시간대는?]]></title>
-        <id>https://v.daum.net/v/20241116173008046</id>
-        <link href="https://v.daum.net/v/20241116173008046"/>
-        <updated>2024-11-16T10:22:01.984Z</updated>
-        <content type="html"><![CDATA[하이닥]]></content>
     </entry>
 </feed>
