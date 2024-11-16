@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-11-16T02:58:29.951Z</updated>
+    <updated>2024-11-16T03:32:40.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["공공기관 분산 데이터 통합 관리"···데이터스트림즈, '2024 정부 박람회' 참가]]></title>
+        <id>https://v.daum.net/v/20241116120143452</id>
+        <link href="https://v.daum.net/v/20241116120143452"/>
+        <updated>2024-11-16T03:32:05.842Z</updated>
+        <content type="html"><![CDATA[지디넷코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[펄어비스 '붉은사막', 지스타2024서 흥행성 입증...출시는]]></title>
         <id>https://v.daum.net/v/20241116111116032</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241116110204932"/>
         <updated>2024-11-16T02:57:54.441Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["오픈런에 150분도 기다릴 수 있어"…지스타가 주목한 게임들[한겜할래]]]></title>
-        <id>https://v.daum.net/v/20241116050317219</id>
-        <link href="https://v.daum.net/v/20241116050317219"/>
-        <updated>2024-11-16T02:57:54.443Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
 </feed>
