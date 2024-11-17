@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-11-17T03:04:53.914Z</updated>
+    <updated>2024-11-17T04:26:51.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배춧값 한달새 63% 떨어져…김치 판매도 본격화]]></title>
+        <id>https://v.daum.net/v/20241117113430357</id>
+        <link href="https://v.daum.net/v/20241117113430357"/>
+        <updated>2024-11-17T04:26:01.798Z</updated>
+        <content type="html"><![CDATA[농민신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“서포터스 노래는 멈추지 않아”]]></title>
         <id>https://v.daum.net/v/20241117113801400</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241117095400612"/>
         <updated>2024-11-17T01:49:43.653Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘골든타임 4시간30분’…‘이웃·손·발·시선’으로 뇌졸중 잡아라!]]></title>
-        <id>https://v.daum.net/v/20241117080002246</id>
-        <link href="https://v.daum.net/v/20241117080002246"/>
-        <updated>2024-11-17T01:49:43.654Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
     </entry>
 </feed>
