@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-11-17T17:19:51.911Z</updated>
+    <updated>2024-11-17T18:29:03.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아동 도서도 이젠 세계로 ‘활짝’]]></title>
+        <id>https://v.daum.net/v/20241118030321435</id>
+        <link href="https://v.daum.net/v/20241118030321435"/>
+        <updated>2024-11-17T18:28:10.214Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['커버'의 매력에 빠지다..."음악성·완성도까지"]]></title>
         <id>https://v.daum.net/v/20241118011907163</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241117161111678"/>
         <updated>2024-11-17T14:19:29.174Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민경훈, 연대 출신 미모의 PD와 결혼…강호동·이수근 '총출동']]></title>
-        <id>https://v.daum.net/v/20241117215602691</id>
-        <link href="https://v.daum.net/v/20241117215602691"/>
-        <updated>2024-11-17T14:19:29.176Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
