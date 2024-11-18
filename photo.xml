@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/photo</id>
     <title>다음뉴스 ─ 포토</title>
-    <updated>2024-11-18T20:25:07.386Z</updated>
+    <updated>2024-11-18T21:20:11.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘퇴진 광장’ 다시 열렸다[렌즈로 본 세상]]]></title>
+        <id>https://gallery.v.daum.net/p/viewer/5997710/xAWLV7vaT3</id>
+        <link href="https://gallery.v.daum.net/p/viewer/5997710/xAWLV7vaT3"/>
+        <updated>2024-11-18T21:19:52.164Z</updated>
+        <content type="html"><![CDATA[렌즈로 본 세상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우크라이나 전쟁 벌써 1000일]]></title>
         <id>https://gallery.v.daum.net/p/viewer/5985942/VXEyUZwMHt</id>
@@ -137,12 +144,5 @@
         <link href="https://gallery.v.daum.net/p/viewer/6005123/15Tx3nbYrK"/>
         <updated>2024-11-18T05:23:10.044Z</updated>
         <content type="html"><![CDATA[오마이포토]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[24/25시즌 스키장 개장 준비하는 곤지암리조트]]></title>
-        <id>https://gallery.v.daum.net/p/viewer/1173214/Pc1L7zTNFL</id>
-        <link href="https://gallery.v.daum.net/p/viewer/1173214/Pc1L7zTNFL"/>
-        <updated>2024-11-18T04:28:14.165Z</updated>
-        <content type="html"><![CDATA[헤럴드포토]]></content>
     </entry>
 </feed>
