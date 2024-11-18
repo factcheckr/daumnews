@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/digital</id>
     <title>다음뉴스 ─ IT ─ 메인뉴스</title>
-    <updated>2024-11-18T19:19:30.441Z</updated>
+    <updated>2024-11-18T20:25:07.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스마트 鏡쟁' 삼성도 참전…XR 사업 전선에 합류]]></title>
+        <id>https://v.daum.net/v/20241119051001809</id>
+        <link href="https://v.daum.net/v/20241119051001809"/>
+        <updated>2024-11-18T20:24:30.020Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“상대방 문서 함께 보며 통화, AI發 전화혁명 올것”]]></title>
         <id>https://v.daum.net/v/20241119030609176</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241118170807681"/>
         <updated>2024-11-18T12:45:07.118Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI의 숨겨진 아버지가 게임이라고? [테키타카]]]></title>
-        <id>https://v.daum.net/v/20241118190826835</id>
-        <link href="https://v.daum.net/v/20241118190826835"/>
-        <updated>2024-11-18T12:45:07.120Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
