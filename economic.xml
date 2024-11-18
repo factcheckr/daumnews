@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/economic</id>
     <title>다음뉴스 ─ 경제 ─ 메인뉴스</title>
-    <updated>2024-11-18T13:32:55.531Z</updated>
+    <updated>2024-11-18T14:22:45.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한덕수 총리 “푸드테크 규제 풀겠다”...‘월드푸드테크포럼 2024’]]></title>
+        <id>https://v.daum.net/v/20241118225701409</id>
+        <link href="https://v.daum.net/v/20241118225701409"/>
+        <updated>2024-11-18T14:21:29.412Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[철도노조 태업으로 수도권 전철 퇴근길까지 지연]]></title>
         <id>https://v.daum.net/v/20241118221236150</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241118214038846"/>
         <updated>2024-11-18T13:31:33.198Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제는 K-편의점 수출국…해외 점포 1000개 넘었다]]></title>
-        <id>https://v.daum.net/v/20241118200413714</id>
-        <link href="https://v.daum.net/v/20241118200413714"/>
-        <updated>2024-11-18T12:44:24.030Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
