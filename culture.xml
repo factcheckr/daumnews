@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메인뉴스</title>
-    <updated>2024-11-18T16:30:16.608Z</updated>
+    <updated>2024-11-18T17:21:34.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘 날씨] '체감온도 0도↓' 초겨울 추위…찬바람 불 때 먹어야 하는 영양제]]></title>
+        <id>https://v.daum.net/v/20241119020830846</id>
+        <link href="https://v.daum.net/v/20241119020830846"/>
+        <updated>2024-11-18T17:20:50.739Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 아침 최저기온 전국 0도 안팎‥추위 이어져]]></title>
         <id>https://v.daum.net/v/20241119001608144</id>
@@ -39,12 +46,5 @@
         <link href="https://v.daum.net/v/20241118234719759"/>
         <updated>2024-11-18T15:25:11.957Z</updated>
         <content type="html"><![CDATA[로피시엘 코리아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한강 전망 명소 ‘광진교8번가’ 북적]]></title>
-        <id>https://v.daum.net/v/20241118205925390</id>
-        <link href="https://v.daum.net/v/20241118205925390"/>
-        <updated>2024-11-18T13:32:03.881Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>

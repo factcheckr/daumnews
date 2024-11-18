@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/culture</id>
     <title>다음뉴스 ─ 문화 ─ 메이저</title>
-    <updated>2024-11-18T16:30:16.613Z</updated>
+    <updated>2024-11-18T17:21:34.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한강 전망 명소 ‘광진교8번가’ 북적]]></title>
+        <id>https://v.daum.net/v/20241118205925390</id>
+        <link href="https://v.daum.net/v/20241118205925390"/>
+        <updated>2024-11-18T17:20:56.929Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['폭언'에 '성매매 제안'까지, 여성 대리기사의 일상은…]]></title>
         <id>https://v.daum.net/v/20241118215910024</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20241118174802040"/>
         <updated>2024-11-18T12:44:59.973Z</updated>
         <content type="html"><![CDATA[kbc광주방송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이진선 작가 개인전 "사랑하는 나의 방해자들"]]></title>
-        <id>https://v.daum.net/v/20241118200903812</id>
-        <link href="https://v.daum.net/v/20241118200903812"/>
-        <updated>2024-11-18T12:44:59.974Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
